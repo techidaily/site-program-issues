@@ -1,7 +1,7 @@
 ---
 title: Death Stranding on PC Crash Problem – Why It Happens & How to Fix It
-date: 2024-08-05 11:18:21
-updated: 2024-08-07 10:44:38
+date: 2024-08-06T09:47:29.488Z
+updated: 2024-08-07T09:47:29.488Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/b59734d21ac4befa6d882d663a57d13f768195f33
 
 [**Death Stranding**](https://www.epicgames.com/store/en-US/p/death-stranding?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=f4a904fcef2447439c35c4e6457f3027) is creating a new game genre for you to explore. With its fascinating set of gameplay mechanics, you definitely wouldn’t miss it! But the game isn’t perfect and you might encounter the crashing issue. If it did happen to you, don’t worry. Here are some working fixes for you.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not need to try them all; simply work your way down the list until you find the one that works for you.
@@ -74,6 +77,9 @@ RECOMMENDED System Requirements
 
  If your DirectX is not Version 12, take**step 2** to update it.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2: Update your DirectX version
 
 If your DirectX is not Version 12, you should update it.
@@ -82,6 +88,9 @@ If your DirectX is not Version 12, you should update it.
 
  2) Scroll down and in the**DirectX End-User Runtime Web Installer** section, select your language and click**Download** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![download DirectX](https://images.drivereasy.com/wp-content/uploads/2020/10/DOWNLOAD-DirectX-12-2.jpg)
 
  3) Once the download is completed, click on the**dxwebsetup.exe** file and follow the on-screen instructions to install it.
@@ -96,6 +105,9 @@ If your DirectX is not Version 12, you should update it.
 
  Windows Firewall or antivirus software is developed to detect and remove computer viruses. But there are situations when they fail to grant the authority to legitimate applications like your games. So if it happens to you, you should allow your game through[Windows Firewall](https://tools.techidaily.com/drivereasy/download/) and disable your[antivirus software](https://tools.techidaily.com/drivereasy/download/) temporarily.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ### Windows Firewall
 
 To stop Windows from blocking your game, simply follow the steps below:
@@ -106,6 +118,9 @@ To stop Windows from blocking your game, simply follow the steps below:
 
  2) From the left pane, click**Windows Security** . In the**Protection areas** section, click**Firewall & network** **protection** .
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/windows-firewall.png)
 
  3) Click**Allow an app through firewall** .
@@ -116,6 +131,9 @@ To stop Windows from blocking your game, simply follow the steps below:
 
  5) Click**OK** to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Anti-virus software
 
  To disable anti-virus software temporarily, simply click the links below and follow the instructions to disable the anti-virus software you’re running:
@@ -150,6 +168,9 @@ OR
 
  If you’re an Nvidia user, you can also update your driver from the[Geforce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience/) application. What’s more, Death Stranding is one of the games that can take advantage of[optimal settings](https://www.nvidia.com/en-us/geforce/geforce-experience/games/) .
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Option 2 – Automatically update your drivers**
 
  If you don’t have the time, patience, or computer skills to update the drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -204,26 +225,45 @@ Here’s how you can do it:
 
  1) Right-click on the Steam shortcut from your desktop and select **Open file location** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![run Steam as an administrator Death Stranding crash](https://images.drivereasy.com/wp-content/uploads/2020/10/run-Steam-as-an-administrator-rightclick-from-the-desktop.jpg)
 
  2) Scroll down and find the **Steam application** . Right-click on it and select **Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![run Steam as an administrator Death Stranding crash](https://images.drivereasy.com/wp-content/uploads/2020/09/run-steam-as-an-administrator-2.png)
 
  3) Select the tab **Compatibility**  and check the box **Run this program as an administrator** . Then click **Apply > OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/run-Steam-as-an-administrator.jpg)
 
  After applying the changes, open your Steam client and launch Death Stranding to check if the problem is solved.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### For Epic Games Launcher
 
  1) Right-click on the Epic Games Launcher shortcut from your desktop and select **Open file location** .
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/run-epic-games-launcher-as-administrator-rightclick-on-the-desktop.jpg)
 
  2) Scroll down and find the **EpicGamesLauncher application** . Right-click on it and select **Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/run-epic-games-launcher-as-administrator-select-properties-2.jpg)
 
  3) Select the tab **Compatibility**  and check the box **Run this program as an administrator** . Then click **Apply > OK** .
@@ -234,6 +274,9 @@ Here’s how you can do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 6: Verify your game files
 
  If some of your game files are missing or corrupted, it would most likely cause the crashing issue. So in this case, you’re supposed to verify your game files to rule out the cause.
@@ -248,6 +291,9 @@ Here’s how you can do it:
 
  2) Select the tab**LOCAL FILES** and click**VERIFY INTEGRITY OF GAME FILES…** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![verify game files on Steam Death Stranding crash](https://images.drivereasy.com/wp-content/uploads/2020/10/verify-integrity-of-game-files-Steam.jpg)
 
  This verification process would take a while to finish. After that, play your game to check if the issue is solved.
@@ -256,16 +302,25 @@ Here’s how you can do it:
 
  1) Open the launcher and navigate to the**Library** section.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![verify game files on Epic Games Launcher Death Stranding crash](https://images.drivereasy.com/wp-content/uploads/2020/10/verify-game-files-Epic-Games-Launcher-3.jpg)
 
  2) Move your mouse pointer to**Death Stranding** and click on the**three dots** .
 
  3) Once open, click**Verify** in the drop-down navigation.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ![verify game files on Epic Games Launcher Death Stranding crash](https://images.drivereasy.com/wp-content/uploads/2020/10/verify-game-files-Epic-Games-Launcher-2-2.jpg)
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ## Fix 7: Disable overlay
 
  Many players have reported that disabling overlay apps help fix the crashing on Death Stranding. So you can also give it a shot.
@@ -280,6 +335,9 @@ Here’s how you can do it:
 
  1) Click on the**Settings** icon.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![disable overlay Death Stranding crash](https://images.drivereasy.com/wp-content/uploads/2020/10/GEFORCE-EXPERIENCE-1.jpg)
 
  2) Under the**GENERAL** tab, scroll down and switch**IN-GAME OVERLAY** to**OFF** .
@@ -288,6 +346,9 @@ Here’s how you can do it:
 
 After you’ve applied the changes, remember to quit the app.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Disable Discord in-game overlay
 
  If you have Discord running, you can disable overlay by following these steps:
@@ -300,6 +361,9 @@ After you’ve applied the changes, remember to quit the app.
 
 After applying the changes, quit Discord.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Disable Steam overlay
 
  1) Launch the Steam client and select the tab **LIBRARY** .
@@ -316,6 +380,9 @@ After applying the changes, quit Discord.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 8: Stop overclocking
 
  You may have tried overclocking your computer using some applications like**MSI Afterburner** to have better gaming performance. But adversely, it would cause crashing on your game. So you need to change those settings back to normal.

@@ -1,7 +1,7 @@
 ---
 title: Fixing Problems with Non-Responsive AMD GPU Driver Program
-date: 2024-08-06 14:14:50
-updated: 2024-08-07 12:41:29
+date: 2024-08-06T09:47:25.683Z
+updated: 2024-08-07T09:47:25.683Z
 tags:
   - win11
   - win10
@@ -31,6 +31,9 @@ After a long wait, Cyberpunk 2077 is finally available now, but many players rep
 6. [**Clear game cache files**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Check your computer specs first
 
  **Before moving to fixes, make sure your PC is up for running the game.** Below are the minimum and recommended system requirements for Cyberpunk 2077.
@@ -56,6 +59,9 @@ After a long wait, Cyberpunk 2077 is finally available now, but many players rep
 
  If you are sure your PC meets the system requirements for Cyberpunk 2077, you can skip to fixes directly. But if unfortunately not, then you’ll need to either update your hardware or play the game on another device that supports it.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Verify integrity of game files
 
  The Cyberpunk 2077 not launching issue may occur when you have one or more game files corrupted or deleted by malware. To fix this, try verifying the integrity of game files from [**Steam**](https://tools.techidaily.com/drivereasy/download/) or **[Epic Games](https://tools.techidaily.com/drivereasy/download/)**  depending on which platform you’re on.
@@ -74,6 +80,9 @@ After a long wait, Cyberpunk 2077 is finally available now, but many players rep
 
  4) Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES.**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-1.jpg)
 
 5) Relaunch your game to test your issue.
@@ -86,10 +95,18 @@ After a long wait, Cyberpunk 2077 is finally available now, but many players rep
 
 2) Click **Library** , then click the**Settings icon** next to the game.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4.png)
 
  3) Click **Verify** .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5.png)
 
 4) Relaunch your game to test the issue.
@@ -134,12 +151,18 @@ If the game is still unplayable, move on to the fix below.
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![amd 6800xt driver driver easy](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1.jpg)
 
  3) Click the**Update** button next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support and a 30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![amd 6800 xt driver download](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800xt.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -149,6 +172,9 @@ If the game is still unplayable, move on to the fix below.
 
  If Cyberpunk 2077 still won’t launch, then go ahead with the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Update the game launcher
 
  Game issues could happen when you’re running an outdated game launcher. So if you haven’t updated the game launcher already, try updating it to see if that’s the core issue. If the issue persists, then try the next fix below.
@@ -204,6 +230,9 @@ If this didn’t resolve the issue, then try the next fix below.
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_16-26-41.jpg)
 
 **3)**  Restart your computer after the update is complete.

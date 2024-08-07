@@ -1,7 +1,7 @@
 ---
 title: Fixes for 'Valorant Continuously Freezing and Closing on Your Computer'
-date: 2024-08-04 16:27:36
-updated: 2024-08-07 10:20:32
+date: 2024-08-06T09:47:26.402Z
+updated: 2024-08-07T09:47:26.402Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/243178c138d6204ad2bbeb47ec4cfcdba020958c1
 
 The infinite world in Minecraft is waiting for you to explore, but you just canâ€™t get in. It keeps not responding forever. How annoying it is! Donâ€™t worry, Minecraft not responding is nothing new. Thousands of players are reporting the same issue. The good news is that you can solve it easily.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Why is Minecraft not responding?
 
  In order to have a better gaming experience, you need to make sure your computer meets the minimum requirements and keep your Minecraft updated:
@@ -34,6 +37,9 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
  Also make sure you have downloaded **[the latest Java version](https://java.com/en/download/manual.jsp)**  , which is important for your Minecraft to run smoothly. Note that you should download the Java file according to your operating system (32-bit or 64-bit).[How to check my computer specs?](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  Here are 6 fixes that proved very helpful for many users. You donâ€™t have to try them all; just work your way down the list until you find the one that works for you.
@@ -55,6 +61,9 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
  2) Select the**Overlay** tab, and turn off**Enable in-game overlay** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/discord-overlay.jpg)
 
 3) Launch your Minecraft again.
@@ -63,6 +72,9 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ### Fix 2: Remove incompatible software
 
  Norton anti-virus software is known to cause issues with Minecraft. It can be a little too protective and will block things you donâ€™t want to block even when youâ€™ve disabled it. You can install the software or replace it to avoid bumping into the same problem.
@@ -126,6 +138,9 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
  2) Right-click the executable file and select**Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 
  3) Select the**Compatibility** tab and check the box next to**Run this program as an administrator** . Click**Apply** and then**OK** .
@@ -136,6 +151,9 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ### Fix 5: Disable Mods
 
  Mods enable you to have a better experience when playing Minecraft. However, mods can be the cause of your Minecraft not responding issue. If youâ€™ve added any mods to your Minecraft, you can disable them to fix the issue.
@@ -146,6 +164,9 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 6: Reinstall your Minecraft
 
  If none of these fixes above works for you, you may need to try reinstalling the game to solve this problem.
@@ -164,6 +185,9 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
  5) Right-click the**.minecraft** folder and select**Delete** to make sure youâ€™ve deleted the related files.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/remove-minecraft-1.jpg)
 
  4) After uninstalling, restart your computer. Go to the[**official Minecraft website**](https://www.minecraft.net/en-us/) to download and install Minecraft again.

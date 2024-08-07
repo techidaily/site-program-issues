@@ -1,7 +1,7 @@
 ---
 title: Revive Your Steam VR Experience with These 6 Detection Fixes
-date: 2024-08-06 21:30:23
-updated: 2024-08-07 10:35:33
+date: 2024-08-06T09:47:44.935Z
+updated: 2024-08-07T09:47:44.935Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 
  Ready to enjoy an exciting game with SteamVR but found your headset is not detected with an error code 108? That’s a bummer! Quite many users are running into the same problem, but in fact it’s not hard to fix. In this post, we’ve listed 6 best solutions for you to solve the issue easily and quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fixes to try
 
  You don’t have to try them all. Simply work from the top down until you find the one that does the trick.
@@ -30,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 5. **[Run Steam as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Opt into SteamVR Beta](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1 – Restart your headset and PC
 
  A simple restart is one of the easiest troubleshooting methods (and very effective in most situations). You just need to**reboot your computer after shutting down SteamVR** and check for the issue. But if there’s no luck, also restart your headset as follows:
@@ -41,6 +47,9 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 
  Wait until the process completes and then test your peripheral. If the issue persists, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2 – Check for connection
 
  In most cases, your devices might not be detected by the operating system due to poor connections. So it’s necessary to double-check if your headset is firmly and properly connected. Here are a few basic steps to take:
@@ -49,6 +58,9 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 
  Plug your Link Box into a**UBS 2.0 port** on your computer as some USB 3.0 and 3.1 chipsets will cause connection issues.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/change-usb-ports.jpg)
 
 #### Connect your headset directly into the PC
@@ -61,11 +73,17 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 
 1. Disconnect all the cords on your headset and unplug the Link Box.
 2. Launch SteamVR and go to**Settings > Developer** . Click**Remove All SteamVR USB Devices** , and this will clear your SteamVR device memory.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/steamvr-remove-all-devices.jpg)
 3. Wait until it completes and plug all the cords back in after a couple of minutes.
 
  The steps above can help you troubleshoot the USB port, Link Box and connection. If they’re not the cause, take a look at Fix 3.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ### Fix 3 – Update your device drivers
 
  Drivers are responsible for communication between your system and headset. If there’s something wrong with your device drivers (especially the monitor and USB drivers), the headset may not connect to PC and Steam. To get the most out of SteamVR, you should always keep the drivers intact and up to date.
@@ -80,6 +98,9 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).  
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_09-41-35.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -97,6 +118,9 @@ thumbnail: https://thmb.techidaily.com/90e284fb29c37a4c0c2a2e6970ee3fa6b56745fa4
 
 See if the headset is detected now. If not, go on to the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 5 – Run Steam as an administrator
 
  Lacking necessary permissions will also prevent your SteamVR from working and thus failing to detect the headset as normal. To grant unrestricted access, you should run the Steam client as an administrator. Here’s how:
@@ -104,6 +128,9 @@ See if the headset is detected now. If not, go on to the next solution.
 1. Right-click**Steam** on your desktop and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-as-administrator-1.jpg)
 2. Select the**Compatibility** tab. Tick**Run this program as an administrator** and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-as-administrator-2.jpg)
 
  Now that the settings are applied. Check if your headset works now. If not, there is one more fix to try.

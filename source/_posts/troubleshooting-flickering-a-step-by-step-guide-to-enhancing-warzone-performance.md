@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Flickering: A Step-by-Step Guide to Enhancing Warzone Performance"
-date: 2024-08-04 13:51:59
-updated: 2024-08-07 10:28:49
+date: 2024-08-06T09:47:30.024Z
+updated: 2024-08-07T09:47:30.024Z
 tags:
   - win11
   - win10
@@ -44,6 +44,9 @@ Looking for solutions to optimize Horizon Zero Dawn? This post is here to help y
 3. **[Update graphic driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Install Windows Updates](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Change in-game settings
 
  Changing in-game Display settings will reduce GPU and CPU load to fix spikes and improve visuals in game.
@@ -57,6 +60,9 @@ Looking for solutions to optimize Horizon Zero Dawn? This post is here to help y
 | Anti-aliasing            | TAA         |
 | Motion blur              | Off         |
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/image-7.png)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/image-8.png)
@@ -68,12 +74,18 @@ Looking for solutions to optimize Horizon Zero Dawn? This post is here to help y
 1. Press the **Ctrl + Shift + Esc** together to open **Task Manager** .
 2. Go to the **Details** tab and find Horizon Zero Dawn.
 3. Right-click on it and select **Set priority > Realtime** or **High** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-07_16-56-17.jpg)
 4. Reboot the game and change Game Settings to **Windowed Full-Screen** mode.
 5. Check the FPS.
 
 If it’s not working, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ### Fix 3: Update graphic driver
 
  The graphic card and graphic drivers are closely bound with FPS and visuals in game. The game couldn’t run smoothly without correct and up-to-date drivers. So it’s really important to keep your drivers updated to improve your gaming experience.
@@ -103,11 +115,17 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### Fix 4: Install Windows Updates
 
  Microsoft constantly releases Windows updates to fix issues and add new features. Some issues will be solved after updating Windows updates. And it’s safer to keep your PC using the latest operating system.

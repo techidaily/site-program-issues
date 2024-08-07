@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Persistent PC Shutdowns When Playing Rogue Company – Troubleshooting Steps"
-date: 2024-08-06 13:45:19
-updated: 2024-08-07 12:36:50
+date: 2024-08-06T09:47:32.656Z
+updated: 2024-08-07T09:47:32.656Z
 tags:
   - win11
   - win10
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 
  But the good news is that there are quite a few known fixes available. Read on to find out what they are…
 
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ## How to Fix MTGA Black Screen Issues?
 
 * [Fix 1: Restart Your Device](https://tools.techidaily.com/drivereasy/download/)
@@ -38,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 
  Whether you’re running into the MTG Arena black screen issue on your computer or your mobile phone, before we dive into anything advanced, make sure you’ve restarted your device. – A simple restart will reset your system environment and can often fix software glitches like this.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ## Fix 2: Make Sure Your Device Meets MTGA Minimum Specs
 
  If the black screen issue still exists after the reboot, you might want to check your PC specifications and make sure it can handle the demands of the game. Here’re the minimum system requirements for MTGA:
@@ -56,6 +66,9 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 
  If your network works fine and the issue persists, then move on and try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 4: Close Background Apps
 
  If you’re running multiple programs when playing Magic: The Gathering Arena, issues like this may occur because of software conflicts or an overloaded system. Make sure you close inessential background apps when gaming, such as your antivirus, overlay software, etc.
@@ -68,6 +81,9 @@ thumbnail: https://thmb.techidaily.com/933460ab5e97c9ff94ee3e62c125239a5731074d0
 
 If this does fix your issue, try the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 6: Update Your Graphics Driver
 
  If the blacking screen issue keeps coming up, it might be that your graphics driver is not compatible or gets corrupted somehow. So you want to make sure that you’re using the right driver.
@@ -80,12 +96,18 @@ If this does fix your issue, try the next solution.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ![update graphics driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/01/de-1.jpg)
 
  3) Click the **Update button** next to the video driver to automatically download the correct version of that driver, then you can manually install it.
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-2-4.jpg)
 
  You can do it for free if you want, but it’s partly manual.
@@ -109,6 +131,9 @@ If you still have the problem, then try the next fix below.
 
  3) Right-click**MTG Arena** and click **Uninstall** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-14_11-19-29.jpg)
 
  4) [**Download**](https://magic.wizards.com/) and reinstall the game.

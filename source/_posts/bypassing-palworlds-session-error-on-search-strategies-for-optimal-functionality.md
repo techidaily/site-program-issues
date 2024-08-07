@@ -1,7 +1,7 @@
 ---
 title: "Bypassing PalWorld's Session Error on Search: Strategies for Optimal Functionality"
-date: 2024-08-05 17:57:34
-updated: 2024-08-07 12:40:46
+date: 2024-08-06T09:47:15.029Z
+updated: 2024-08-07T09:47:15.029Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
 
 **PRO TIP:** To ensure an excellent gaming experience on PC, it’s recommended to keep your device drivers up to date, especially your graphics driver. But if you don’t have the time nor patience to update the driver manually, you can download **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  and let it do all the work for you. (The[**Pro version**](https://tools.techidaily.com/drivereasy/download/) comes with full support and a 30-day money back guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
 1. **[Check the status of Epic Games server](https://tools.techidaily.com/drivereasy/download/)**
@@ -28,6 +31,9 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
 5. **[Join friends using the](https://tools.techidaily.com/drivereasy/download/)** [Epic Games list](https://tools.techidaily.com/drivereasy/download/)
 6. [Reinstall the game](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1\. Check the status of Epic Games server
 
  Sometimes you run into error codes because the servers are down. This can be a temporary situation so you can check the status of servers before you try any of these workarounds below.
@@ -52,6 +58,9 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
 
  They may help you delete the client settings file and you can join a party again. If it’s too long for the customer service to respond, you can try these workarounds below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ### Fix 3\. Change the skin
 
  Though it seems absurd to you, changing the skin has indeed fixed the error code 84 for some players when they can’t join their friends’ party.
@@ -69,16 +78,25 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
 
  Simply head over to the lobby setting, and click the hamburger icon in the top-right, and set your**Party Privacy** to**Public** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-13-at-4.59.16-PM-1200x521.png)
 
 You can always kick unwanted guests from your lobby.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 5\. Join friends using the Epic Games list
 
  If the invite system is down, you can bypass it by adding them to your friends’ list. This will help you get around this issue.
 
  But if the host of the lobby you’re trying to join is already on your friends’ list, you can skip this fix.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6\. Reinstall the game
 
  No matter where you play the game, reinstalling the game always does the trick for a few players. Consoles and mobile devices are closed systems, meaning there aren’t many troubleshooting options to fix issues you’re having. The most common fix is to reinstall Fortnite.

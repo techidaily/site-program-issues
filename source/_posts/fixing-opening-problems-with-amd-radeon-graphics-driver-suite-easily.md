@@ -1,7 +1,7 @@
 ---
 title: Fixing Opening Problems with AMD Radeon Graphics Driver Suite Easily
-date: 2024-08-06 22:48:10
-updated: 2024-08-07 12:44:24
+date: 2024-08-06T09:47:32.882Z
+updated: 2024-08-07T09:47:32.882Z
 tags:
   - win11
   - win10
@@ -21,6 +21,9 @@ thumbnail: https://thmb.techidaily.com/400ab6b2d84e9fcc703013e683c9e38470acb0714
 
 ## Check if you meet the minimum specifications
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### **Minimum System Requirement of Dragon Age: Inquisition**
 
 | **Supported OS** | Windows 7 or 8.1, 64-bit                             |
@@ -30,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/400ab6b2d84e9fcc703013e683c9e38470acb0714
 | **Video Card**   | NVIDIA GeForce 8800 GT or AMD Radeon HD 4870         |
 | **Hard Drive**   | 26 GB                                                |
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Recommended**System Requirement of** **Dragon Age: Inquisition**
 
 | **Supported OS** | Windows 7 or 8.1, 64-bit                                      |
@@ -39,6 +45,9 @@ thumbnail: https://thmb.techidaily.com/400ab6b2d84e9fcc703013e683c9e38470acb0714
 | **Video Card**   | NVIDIA GeForce GTX 660 or AMD Radeon HD 7870 or R9 270        |
 | **Hard Drive**   | 26 GB                                                         |
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these methods
 
  There’re**5** fixes that have helped many gamers solve their problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -64,23 +73,35 @@ thumbnail: https://thmb.techidaily.com/400ab6b2d84e9fcc703013e683c9e38470acb0714
 4. Click**Disable All** to disable all the third-party services.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/service.jpg)
 5. Right-click on the**Task Bar** and click**Task Manager** .  
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/taskbar.jpg)
 6. In the **Startup** tab, select an application and click**Disable** . Make sure that all of the applications on the list are **disabled** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/task-1.jpg)
 7. Reboot your computer.
 8. Run the game and check the problem is solved or not.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 3: Verifying game files
 
  This method will check game files and verify them if they are right. What else, it will download and repair required files. So Dragon Age Inquisition won’t launch issue could be fixed.
 
 1. Open the Origin access.
 2. Click**My Game Library** on the left pane.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/origin.jpg)
 3. Right-click on the game and click**Repair** .
 4. Wait for it to verify the game files.
 5. Run the game and check the problem is solved or not.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 4: Update your graphics card driver
 
  It is very important to update your graphics card drivers. Windows 10 doesn’t always give you the latest version. But with outdated or wrong drivers, you may encounter Dragon Age Inquisition won’t launch issue. So it’s really important to keep your drivers updating to get a better gaming experience.
@@ -116,6 +137,9 @@ OR
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### Method 5: Set exception on your antivirus software
 
  Antivirus software aims to protect your computer safety, but they can block part of the game feature and cause problems. It is possible that the Dragon Age: Inquisition won’t launch issue is caused by your antivirus software. If some important features were blocked by your antivirus software, the game may not function properly and cause issue.  

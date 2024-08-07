@@ -1,7 +1,7 @@
 ---
 title: "Mastering Stability: Overcome Technical Glitches in Total War Saga: Troy for PC Gamers"
-date: 2024-08-05 18:30:57
-updated: 2024-08-07 12:58:38
+date: 2024-08-06T09:46:55.806Z
+updated: 2024-08-07T09:46:55.806Z
 tags:
   - win11
   - win10
@@ -31,12 +31,27 @@ thumbnail: https://thmb.techidaily.com/b21b5439f80b1a102ace85a9da59aeae7943c3aff
 
  Before you proceed to the advanced troubleshooting steps below, make sure your setup meets the[system requirements of Biomutant](https://store.steampowered.com/app/597820/BIOMUTANT/) .
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1 – Stop overclocking
 
  If you’ve overclocked the CPU and GPU for better graphics performance, you may find it doesn’t work as expected and can cause incompatibility issues with Biomutant. To see if that’s the case, try **turning off overclocking utilities** like MSI Afterburner and **setting the clock speed back to the default** .
 
 If Biomutant still crashes, there are more fixes below.
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2 – Restart your computer and Steam
 
  Sometimes the program glitches like crashes can be resolved by a simple restart. You could**restart your computer and Steam** to see if this helps your case. If not, try the next method.
@@ -46,6 +61,9 @@ If Biomutant still crashes, there are more fixes below.
  When there’s something wrong with Biomutant, it’s necessary to do an integrity check to see if any corrupted or missing game files are causing the crashes. Here are the steps:
 
 1. Launch the Steam client and select the**Library** tab.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. From the game list, right-click**Biomutant** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
@@ -54,6 +72,9 @@ If Biomutant still crashes, there are more fixes below.
 
  Wait a few minutes for the process to complete and test the game. If the same issue persists, move on to the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4 – Update your graphics driver
 
  If you keep running into Biomutant crashing, it’s likely that your graphics driver is faulty or outdated. To ensure a smooth gaming experience at all times, you should update the graphics driver to the latest.
@@ -84,10 +105,19 @@ There are two ways to do this:
  According to other players, the Steam overlay is a buggy feature that can trigger Biomutant crashing. Simply disable this option to see how the game works. If you’re using an overlay with any third-party app, make sure to turn them off as well.
 
 1. Open Steam and navigate to the**Library** tab.  
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click Biomutant on the list and click**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. On the **General** tab, untick **Enable Steam overlay while in-game** .  
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
  After the setting is configured correctly, restart the game and it should be working fine.

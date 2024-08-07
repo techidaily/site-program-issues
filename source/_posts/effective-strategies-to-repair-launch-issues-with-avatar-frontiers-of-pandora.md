@@ -1,7 +1,7 @@
 ---
 title: "Effective Strategies to Repair Launch Issues with 'Avatar: Frontiers of Pandora'"
-date: 2024-08-05 19:15:55
-updated: 2024-08-07 12:41:27
+date: 2024-08-06T09:47:47.632Z
+updated: 2024-08-07T09:47:47.632Z
 tags:
   - win11
   - win10
@@ -23,6 +23,9 @@ The moment-to-moment gameplay of runnin’-and-gunnin’ is super fun, but playe
 
  Many of the avid gamers feel it quite tricky to troubleshoot the exact issue, however, you can follow this troubleshooting guide to fix the problem and join your friends quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  Here is a list of all possible fixes that have helped many users. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -51,6 +54,9 @@ The moment-to-moment gameplay of runnin’-and-gunnin’ is super fun, but playe
 
  1) In**Epic Game Launcher** , navigate to your**Library** . Click the**cog icon** on the lower-right corner of**Borderlands 3** .
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open library](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1027.png)
 
  2) Click**Verify** and wait till the verification to complete.
@@ -61,16 +67,25 @@ The moment-to-moment gameplay of runnin’-and-gunnin’ is super fun, but playe
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: Run as administrator
 
  Borderlands 3 sometimes may not be able to access certain game files on your PC under normal user mode, which could be the cause of the not launching issue. To fix it, you can try running it as an administrator.
 
  1) Right-click the**Epic Games Launcher** icon on your desktop and select**Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![open epic launcher](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1020.png)
 
  2) Click the**Compatibility** tab and check the**Run this program as an administrator** box. Then click**Apply** and**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![go to the compatibility tab](https://images.drivereasy.com/wp-content/uploads/2019/09/image-997.png)
 
  3) Go to the directory where you installed Borderlands 3, and run the .exe file as administrator as well.
@@ -87,6 +102,9 @@ If the problem still persists, then go ahead with the fix below.
 
  1) Type**updates** in the search box, then select**Check for updates** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![check for updates](https://images.drivereasy.com/wp-content/uploads/2019/09/check-for-updates.jpg)
 
  2) If there are updates available, you can click**Download** , then follow the on-screen directions to finish installing.
@@ -99,6 +117,9 @@ If the problem still persists, then go ahead with the fix below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Update device drivers
 
  Sometimes Borderlands 3 may fail to launch because of a**corrupted or outdated driver** ,**especially your graphics card driver** (sometimes your sound card driver). In that case, you’ll probably experience the Borderlands 3 not launching or crashing issues.
@@ -115,6 +136,9 @@ If the problem still persists, then go ahead with the fix below.
 
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![scan now](https://images.drivereasy.com/wp-content/uploads/2019/09/image-974.png)
 
  3) Click the**Update** button to download the correct version of all the drivers that are missing or out of date on your system, and then manually install it.
@@ -127,6 +151,9 @@ If the problem still persists, then go ahead with the fix below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6: Reverting back to DX11
 
  If you try to enable DX12 on Borderlands 3 and get stuck in loading forever, you can try to set it back to DX11 and it will work again.
@@ -138,6 +165,9 @@ If the problem still persists, then go ahead with the fix below.
 
  3) In Notepad, scroll all the way down to find the line where it says**PreferredGraphicsAPI** and change**DX12** to**DX11** , then save the file.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![DX12 to DX11](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1010.png)
 
 4) Restart your PC and relaunch Borderlands 3 to test the issue.
@@ -176,6 +206,9 @@ If the problem still persists, then go ahead with the fix below.
 
  2) Click the**Services** tab and check the**Hide all Microsoft services** box, then click**Disable all** .
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open microsoft services](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1002.png)
 
  3) Select the**Startup** tab and click**Open Task Manager** .
@@ -184,10 +217,16 @@ If the problem still persists, then go ahead with the fix below.
 
  4) Under the**Startup** tab, select**each** startup item and then click**Disable** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![disable start up services](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1019.png)
 
  5) Click**Apply** \>**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open start up settings](https://images.drivereasy.com/wp-content/uploads/2020/09/strat-up-apps.jpg)
 
  6) Restart your PC and launch Borderland 3 to see if the game can launch normally.
@@ -218,6 +257,9 @@ sfc /scannow
 
  4) Wait for the system scan to finish. Windows will try repairing your corrupted and missing files during the process.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![not launching](https://images.drivereasy.com/wp-content/uploads/2019/09/verification-image.png)
 
  5) When the verification is finished, you may receive the following messages:

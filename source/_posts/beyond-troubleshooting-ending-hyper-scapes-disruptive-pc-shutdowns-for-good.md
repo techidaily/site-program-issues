@@ -1,7 +1,7 @@
 ---
 title: "Beyond Troubleshooting: Ending Hyper Scape's Disruptive PC Shutdowns for Good"
-date: 2024-08-05 13:20:57
-updated: 2024-08-07 11:40:57
+date: 2024-08-06T09:47:47.490Z
+updated: 2024-08-07T09:47:47.490Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/6e9394e67e16c95be7dda814b36b7c21bb54383a5
 
 Playing Teardown game but the constant crashing issue blocks you from the destructible voxel world? Don’t worry. Whether you’re encountering**Teardown crashing** at startup, on quicksave, or during the gameplay, we’ve put together some working fixes for you. Read on to check them out!
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## Before getting started
 
  At the very beginning of troubleshooting, you should check if your PC specs satisfy the minimum system requirements of Teardown. If not, you’ll need to upgrade your rig or run the game on another machine.
@@ -47,18 +50,27 @@ Minimum system requirements of Teardown
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 1 – Stop overclocking
 
  Many players attempted to overclock their GPU or CPU to enhance game performance. However, overclocking will possibly result in an unstable system and cause your game to crash.
 
  To see if that’s the case,**turn off your overclocking utilities** (if you’re using any like MSI Afterburner) and**set the clock speed back to the default** . If the crashing problem isn’t mitigated, there are more fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2 – Allow Teardown through controlled folder access
 
  If Teardown crashes when you do a quicksave, the game is probably blocked by Windows Security which protects against viruses and malware. To ensure the game gets full access to necessary files and data, you can add it as an allowed app following the steps below:
 
 **1)** Click the**Start** button, and click**Settings** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1.jpg)
 
 **2)** Click**Update & Security** .
@@ -67,6 +79,9 @@ Minimum system requirements of Teardown
 
 **3)** Click**Windows Security** \>**Virus & threat protection** .
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-1.jpg)
 
 **4)** Click**Manage settings** .
@@ -75,6 +90,9 @@ Minimum system requirements of Teardown
 
 **5)** Scroll down and click**Manage Controlled folder access** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-5.jpg)
 
 **6)** When Controlled folder access is enabled, you can click**Allow an app through Controlled folder access** .
@@ -95,6 +113,9 @@ Minimum system requirements of Teardown
 
  If the game runs smoothly now, add Teardown to the exception list of your anti-virus programs so you can use both without conflicts. If this method doesn’t work, move towards the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4 – Update your graphics card driver
 
  Graphics card matters a lot to video game performance. If you’re using a**faulty or outdated** graphics driver, you may constantly bump into Teardown crashing. Updating the driver can effectively fix bugs, improve stability and boost your gaming experience.
@@ -133,6 +154,9 @@ Minimum system requirements of Teardown
 
  Launch Teardown to test the game performance with an updated graphics driver. Still no luck? Then try the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5 – Verify the integrity of game files
 
  Missing or damaged game files are known as the most common cause of PC game crashing. To fix it, you should verify the integrity of your game files on Steam, which just takes a few steps:
@@ -151,6 +175,9 @@ Minimum system requirements of Teardown
 
  Wait for Steam to detect and repair the corrupted game files, and then you can check whether Teardown stops crashing or not. If not, have a look at the last fix.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6 – Reinstall Teardown
 
  If none of the fixes above helps your case, try reinstallation as the last resort, as there may be stubborn issues with your previous installation.
@@ -161,6 +188,9 @@ Minimum system requirements of Teardown
 
 **2)** Right-click**Teardown** from the game list and click**Manage** \>**Uninstall** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-1.jpg)
 
 **3)** Click**Uninstall** to confirm.

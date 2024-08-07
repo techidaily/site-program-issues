@@ -1,7 +1,7 @@
 ---
 title: "The Final Nightmare Aftermath Update: Securing Your PC From Game Crashes"
-date: 2024-08-05 14:40:26
-updated: 2024-08-07 10:14:47
+date: 2024-08-06T09:47:08.459Z
+updated: 2024-08-07T09:47:08.459Z
 tags:
   - win11
   - win10
@@ -30,17 +30,29 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
 
  Note: the screenshots below come from Windows 10, and the fixes also work in Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  Fix 1: Install the latest patch
 
  Since many technical problems can be resolved by restarting, it never hurts to restart your computer and your game. Often this will be enough to fix the error.  Game developers always keep releasing patches to improve their games and fix any issues, so you should check for updates of your game in Steam or from the official website. Then install the latest patch to keep it up to date. This can fix some issues like CS:GO stuttering.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2: Enable the Steam Overlay
 
  Steam overlay is an in-game interface that allows access to many Steam community features while playing games, such as in-app purchasing. Many people have resolved the CS:GO stuttering issue by reinstalling overlay in Steam.  First of all, you need to check whether you’ve enabled Steam overlay in your computer:
 
 1. On your Steam client, click**Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73f73008c0a.jpg)
 2. Click**In-Game** , and make sure to check the box next to**Enable the Steam Overlay while in-game** , then click**OK** to save your changes.  
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73f7865d266.jpg)
  If you’ve enabled overlay before, try to disable it and then re-enable it.  Restart CS:GO again and see if it works better.
 
@@ -52,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73f7c6bf350.jpg)
 3. Click the**Update** button next to the flagged graphics card to automatically download the correct version of their driver (you can do this with the**FREE** version), then install it in your computer. Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click _**Update All**_ ).  
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73f7e683d70.jpg)
 4. Restart your computer to take effect.
  This should help reduce the stuttering or lag issues in your computer.
@@ -68,6 +83,9 @@ thumbnail: https://thmb.techidaily.com/12e343f93577f904ba5d5a8987a44f73ad92d6860
 2. Right click on your**CS:GO executable file .exe** , and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73f9219dc8e.jpg)
 3. Click the**Compatibility** tab, and check the box next to**Disable fullscreen optimizations** . Then click**Apply** and**OK** to save the changes.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73f9819c11e.jpg)
 4. Click the .exe file to launch CS:GO in your computer.
 
@@ -78,6 +96,9 @@ You can lower the video settings in your CS:GO to reduce the lags and stuttering
 1. Open**Settings** in CS:GO.
 2. Go to**Options** \>**Video Settings** .
 3. In the advanced video options section, set these settings to**Low** :**Global Shadow Quality** ,**Model / Texture Detail** ,**Effect Detail** ,**Shader Detail** .  
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73f9a6977cf.jpg)
 4. Save the changes and restart CS:GO to see if it works better.
 
@@ -89,6 +110,15 @@ You can lower the video settings in your CS:GO to reduce the lags and stuttering
 
 1. Open**Control Panel** in your computer.
 2. Click**Power** **options** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73f9c9449a7.jpg)
 3. In**Preferred** **plans** , select**High performance.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73fa58e44c7.jpg)
@@ -98,9 +128,32 @@ You can lower the video settings in your CS:GO to reduce the lags and stuttering
 #### 2\. Adjust settings in System Properties
 
 1. Type**This PC** in the Search box at the**Start** button, right click on**This PC** , and select**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afbe2c8e7fc9.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 2. Click**Advanced** **system** **settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afbe330dfe6e.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
 3. In the**Advanced** tab, click**Settings…** in the**Performance** section.![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afbe3880f602.png)
 4. Click the**Advanced** tab, make sure to select**Adjust for best performance of Programs** , and click**Apply** .![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afbe3f36fc31.png)
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 5. Click the**Data Execution Prevention** tab, make sure to select **Turn on DEP for essential Windows programs and services only** . Then click**Apply** and**OK** to save.![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afbe47c154fc.png)
  After configuring the settings, restart your computer and try your CS:GO (or other programs) to see if it works better now.
 
@@ -112,6 +165,9 @@ You can lower the video settings in your CS:GO to reduce the lags and stuttering
 3. Right click on**CS:GO.exe** , and select**Set affinity** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73fb15e3139.png)
 4. Uncheck the box next to**CPU 0** , and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73fb5b0ad61.png)
 5. Restart CS:GO again.
 

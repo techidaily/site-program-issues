@@ -1,7 +1,7 @@
 ---
 title: Ultimate Fix for Rainbow Six Siege Slowdown and Lags
-date: 2024-08-04 16:21:27
-updated: 2024-08-07 11:17:27
+date: 2024-08-06T09:47:13.230Z
+updated: 2024-08-07T09:47:13.230Z
 tags:
   - win11
   - win10
@@ -59,13 +59,25 @@ If you don’t know how to find your PC specs, take the steps below.
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to invoke the Run box.
 2. Enter**msinfo32** and hit Enter.  
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/msinfo32.png)
 3. In the left navigation menu, click**System Summary** and review the information displayed on the right-hand side.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-check-your-system-specs.png)
 
  If your game still isn’t launching even though your computer meets the system requirements, follow the troubleshooting steps below to identify and resolve the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -77,12 +89,18 @@ If you don’t know how to find your PC specs, take the steps below.
 * **[Update the Xbox and Gaming Services apps](https://tools.techidaily.com/drivereasy/download/)**
 * **[Uninstall and reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 1\. Update graphics drivers
 
 **Graphics drivers** act as a bridge that allows your operating system and applications, such as Starfield, to interact effectively with your graphics hardware.
 
  When Starfield or any other game fails to launch, outdated or incompatible graphics drivers can often be a leading cause of the problem. To ensure that your system is equipped with the latest software to support your game’s requirements, enhance performance, and maintain compatibility, you should**update your graphics drivers** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Option 1: Manually update graphics drivers
 
  You can update your graphics driver by clicking on the link below based on your exact graphics card model. Then find the latest driver, and follow the on-screen instructions to download and install it for your system.
@@ -96,11 +114,17 @@ If you have no idea what kind of graphics card your PC is packing,
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box.
 2. Enter**taskmgr** and press Enter.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-open-task-manager.png)
 3. Select the**Performance** tab. In the left sidebar, select**GPU** to view GPU-related information. Then you’ll see information about your graphics card, including its name and model. The name displayed here corresponds to your graphics card.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-identify-your-graphics-card.png)
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 2: Automatically update graphics drivers (recommended)
 
  Frustrated with the complexity of manually updating your graphics driver? Try using **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  – your ultimate solution for hassle-free driver updates!
@@ -129,18 +153,30 @@ After driver updates, it’s a good practice to reboot your device.
 
 To download and install the latest Windows updates, take these steps:
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### On Windows 11
 
  Press the**Windows logo + I keys** simultaneously to open Settings. Then go to**Windows Update** and follow the on-screen instructions to download and install the latest updates.
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Windows 11 check for Windows updates](https://images.drivereasy.com/wp-content/uploads/2022/04/win11-Windows-Update-Check-for-updates.jpg)
 
 ### On Windows 10
 
  Press the**Windows logo + I keys** simultaneously to open Settings. Then go to**Update & Security > Windows Update** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/windows-update-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ## 3\. Disable antivirus and firewall
 
  Your firewall and antivirus are diligent gatekeepers, which is great for overall security. However, they can occasionally misinterpret Starfield’s actions as threats. By turning them off briefly, you can check if they’re blocking the game’s launch.
@@ -177,6 +213,9 @@ To temporarily turn off your antivirus software:
 3. From the drop-down menu, select**Properties…** .
 4. Select the**Install Files** tab and click on the**Verify integrity of game files** button.  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-verify-the-integrity-of-game-files-on-Starfield.png)
 5. Steam will verify the game’s files – this process may take several minutes. When the process is complete, try to launch Starfield and see if it works.
 
@@ -196,8 +235,14 @@ Follow the steps below to do this.
 
  To do this, simply[go to this page](https://support.xbox.com/en-US/xbox-live-status) . If it says**Limited** or**Major outage** , maybe you need to patiently wait for the repair.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/Xbox-status.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Uninstall and reinstall the game
 
  If none of the above methods work, you should consider uninstalling and reinstalling the game.

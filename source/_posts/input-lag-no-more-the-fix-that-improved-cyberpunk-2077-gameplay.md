@@ -1,7 +1,7 @@
 ---
 title: "Input Lag No More: The Fix that Improved Cyberpunk 2077 Gameplay"
-date: 2024-08-06 18:17:48
-updated: 2024-08-07 12:46:24
+date: 2024-08-06T09:47:34.665Z
+updated: 2024-08-07T09:47:34.665Z
 tags:
   - win11
   - win10
@@ -31,6 +31,9 @@ Cyberpunk 2077 is a AAA class game that requires a good GPU to support the game.
 
  If you feel the mouse movement snappy or slow, check[this Input lag post](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Change graphics card settings
 
  If you’re an NVIDIA user, open NVIDIA’s control panel to change the settings.
@@ -77,12 +80,21 @@ Cyberpunk 2077 is a AAA class game that requires a good GPU to support the game.
  One common fix for lagging is to change the in-game graphic settings. This fix has been proved by some gamers, it works for them. If you’re playing on PS4 and Xbox One, why not have a try. It may help.
 
 1. Run Cyberpunk 2077 and go to **SETTINGS** .  
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-1.jpg)
 2. Go to the GAMEPLAY tab. Set**Crowd Density** as**Low** .  
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-2.jpg)
 3. Move to the Miscellaneous section, turn **Enable Analytics** to **OFF** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-3.jpg)
 4. In the**GRAPHICS** tab. Find Basic section and set**Film Grain** and**Chromatic** Aberration to**OFF** .  
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-4.jpg)
 5. Ray Tracing is the new feature in the game. DLSS is the AI-powered performance-enhancing setting that makes Ray Tracing frame rates more playable. Turning them off and see the lagging issue is solved or not.  
 **NOTE** : Ray Tracing is not for the AMD cards right now.  
@@ -120,6 +132,9 @@ If this fix doesn’t work, move to the next one.
 
  Reboot your PC and check how’s the game running. If it doesn’t work, move to the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Turn off the Xbox game bar
 
  Windows 10 OS will automatically running its gaming geature when you’re running a game. You can ignore the program when playing other games, while Cyberpunk 2077 may be affected by this feature. Turning off the utility if you don’t need it.
@@ -127,9 +142,15 @@ If this fix doesn’t work, move to the next one.
 1. Press the**Windows logo key** +**I** (the ‘i’ key) together.
 2. Click**Gaming** .
 3. Go to the**Game bar** tab, make sure the toggle is off.  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_14-33-30.jpg)
 4. Relaunch the game and check.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ### Fix 5: Shut down unnecessary apps
 
  If you can play the game, but it’s lagging and viewers get spikes, shutting down unnecessary background applications is a good option. It’s because Stream requires some CPU power too, the less other stuff, the more power for Cyberpunk 2077.

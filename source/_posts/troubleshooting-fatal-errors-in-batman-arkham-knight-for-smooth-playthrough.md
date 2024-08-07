@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Fatal Errors in Batman: Arkham Knight for Smooth Playthrough"
-date: 2024-08-05 14:47:24
-updated: 2024-08-07 10:51:31
+date: 2024-08-06T09:47:37.784Z
+updated: 2024-08-07T09:47:37.784Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ This award-winning Arkham trilogy offers the ultimate and complete Batman experi
 
  If your Batman Arkham Knight keeps crashing or giving your fatal errors, don’t worry. It can be fixed quite easily.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  First, make sure your PC meets the minimum[**system requirements**](https://dcgamessupport.wbgames.com/hc/en-us/articles/360001045728-What-are-the-PC-system-requirements-for-Batman-Arkham-Knight-) for Batman: Arkham Knight. If your PC specs are good to go, try the following fixes. You don’t have to try them all; just walk your way down until you find the one that works for you.
@@ -30,6 +33,9 @@ This award-winning Arkham trilogy offers the ultimate and complete Batman experi
 5. **[Rename your DLL files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Turn off smoke/fog](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1\. Verifying game files
 
  Verifying your game files is a basic troubleshooting step when there’s something wrong with your game.
@@ -44,6 +50,9 @@ This award-winning Arkham trilogy offers the ultimate and complete Batman experi
 
  3) Select the**Local files** tab and click the**Verify integrity of game files…** button.
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Verify-Integrity-of-Game-Files.jpg)
 
  4) Steam will verify the game’s files – this process may take several minutes.
@@ -58,6 +67,9 @@ This award-winning Arkham trilogy offers the ultimate and complete Batman experi
 
  3) Once open, click **Verify**  in the drop-down navigation.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify.jpg)
 
  Now try launching your game again and play for a while to test the issue. If Batman Arkham Knight crashing persists, you can try the next fix below.
@@ -80,6 +92,9 @@ There are mainly two ways for you to download the latest drivers:
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
  3) Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -99,6 +114,9 @@ There are mainly two ways for you to download the latest drivers:
 
  I know there are some incredible mods you can use to drastically improve your game experience. But when your game is crashing, we suggest removing those mods temporarily.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ### Fix 4\. Stop overclocking
 
  It’s always important to stay slightly under the safe limit while you’re overclocking your PC. Also, it’s worth mentioning that not all GPUs and CPUs can be overclocked.

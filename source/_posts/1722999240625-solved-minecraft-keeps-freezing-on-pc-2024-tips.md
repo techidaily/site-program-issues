@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Minecraft Keeps Freezing on PC - 2024 Tips"
-date: 2024-08-05 15:42:23
-updated: 2024-08-07 12:11:17
+date: 2024-08-06T09:47:46.576Z
+updated: 2024-08-07T09:47:46.576Z
 tags:
   - win11
   - win10
@@ -41,6 +41,9 @@ thumbnail: https://thmb.techidaily.com/7486378233cc28bc02135cae36845cee27a44d59f
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ### Fix 2: Avoid CPU overheating
 
  If your computer CPU is overheating, you’re likely to have the crashing issue in GTA 5, because your computer can’t work normally when being overheating, especially when it has to deal with the game running. So have a check on your computer and make sure it’s not overheating.
@@ -63,9 +66,15 @@ thumbnail: https://thmb.techidaily.com/7486378233cc28bc02135cae36845cee27a44d59f
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will detect the problem drivers in your system.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click**Update** button next to the driver name to download the correct graphics card driver (you can do that with the**FREE** version), then install it on your computer.  
  Or click**Update All** to automatically download and install the correct version of all the problem drivers (you can do that with **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , and you will be prompted to upgrade when you click**Update All** ).  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 4. Restart your computer and launch GTA 5 to see if it works.
 
@@ -73,12 +82,18 @@ thumbnail: https://thmb.techidaily.com/7486378233cc28bc02135cae36845cee27a44d59f
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Set graphics settings to Normal
 
  The proper graphics settings in GTA 5 can optimize the performance and help run your game faster. To fix the crashing issues in your computer, you can try lowering the graphics settings in your game. Here’s what you need to do:
 
 1. Open GTA 5**Settings** .
 2. Click**Graphics** and scroll down.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba351a0e7086.jpg)
 3. Set these settings to**Normal** :  
 **Texture Quality**  
@@ -91,6 +106,9 @@ thumbnail: https://thmb.techidaily.com/7486378233cc28bc02135cae36845cee27a44d59f
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ### Fix 5: Turn on VSync
 
  VSync stands for Vertical Sync, which is a display option in 3D PC games. It allows you to synchronize the frame rate with the monitor refresh rate for better stability. Having VSync on in GTA 5 has been reported by many players to be an effective way to fix the crashing issue.

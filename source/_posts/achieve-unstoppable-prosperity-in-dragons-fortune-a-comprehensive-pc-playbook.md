@@ -1,7 +1,7 @@
 ---
 title: "Achieve Unstoppable Prosperity in 'Dragon's Fortune': A Comprehensive PC Playbook"
-date: 2024-08-06 17:10:54
-updated: 2024-08-07 11:34:15
+date: 2024-08-06T09:47:42.827Z
+updated: 2024-08-07T09:47:42.827Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
 
 **PRO TIP:** To ensure an excellent gaming experience on PC, it’s recommended to keep your device drivers up to date, especially your graphics driver. But if you don’t have the time nor patience to update the driver manually, you can download **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  and let it do all the work for you. (The[**Pro version**](https://tools.techidaily.com/drivereasy/download/) comes with full support and a 30-day money back guarantee.)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
 1. **[Check the status of Epic Games server](https://tools.techidaily.com/drivereasy/download/)**
@@ -28,6 +31,9 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
 5. **[Join friends using the](https://tools.techidaily.com/drivereasy/download/)** [Epic Games list](https://tools.techidaily.com/drivereasy/download/)
 6. [Reinstall the game](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 1\. Check the status of Epic Games server
 
  Sometimes you run into error codes because the servers are down. This can be a temporary situation so you can check the status of servers before you try any of these workarounds below.
@@ -39,6 +45,9 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
 
  The downtime always begins a few days before a major update. If the services for**Parties, Friends and Messaging** are under maintenance, you can just wait for the new release, or follow their[Twitter account](https://twitter.com/FortniteStatus) to get the live status of Fortnite.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ### Fix 2\. Submit a support ticket
 
  You may find this error code 84 annoying and want to join your friends as quickly as possible in Fortnite. If that’s your case, the quickest solution is to submit a support ticket to Epic Games.
@@ -52,6 +61,9 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
 
  They may help you delete the client settings file and you can join a party again. If it’s too long for the customer service to respond, you can try these workarounds below.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3\. Change the skin
 
  Though it seems absurd to you, changing the skin has indeed fixed the error code 84 for some players when they can’t join their friends’ party.
@@ -63,12 +75,18 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
 
  You can join a game and wait until you are in the lobby. Accept the invite to join the party and test if the error code 84 persists.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ### Fix 4\. Change the lobby to Public
 
  Another workaround you can try is to set your lobby to Public and then you can join without an invite.
 
  Simply head over to the lobby setting, and click the hamburger icon in the top-right, and set your**Party Privacy** to**Public** .
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-13-at-4.59.16-PM-1200x521.png)
 
 You can always kick unwanted guests from your lobby.

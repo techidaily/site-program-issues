@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Resolve Recurring Content Warning Failures in Windows Systems
-date: 2024-08-06 21:34:42
-updated: 2024-08-07 11:47:33
+date: 2024-08-06T09:47:25.363Z
+updated: 2024-08-07T09:47:25.363Z
 tags:
   - win11
   - win10
@@ -34,12 +34,23 @@ thumbnail: https://thmb.techidaily.com/728942524bb364987d92cb465ba4b4e140c040caf
  If Kodi keeps crashing, it may be caused by software bugs. You should update Kodi to the latest version and see if this is causing your problem.
 
 1. Click this **[link](https://kodi.tv/download)**  to download the latest version of Kodi on PC.  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b768d3b4640b.jpg)
 2. Open the downloaded file and follow the on-screen instructions to install Kodi.
 3. Launch Kodi and check if it now works properly. If not, try Fix 2, below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2: Remove recently installed addons
 
  If Kodi crashes soon after you install an add-on, the add-on is probably the culprit. To see if this is causing your problem, you should remove the add-on’s directory from Kodi’s**userdata** folder:
@@ -49,6 +60,9 @@ thumbnail: https://thmb.techidaily.com/728942524bb364987d92cb465ba4b4e140c040caf
 3. In the address bar, type**%APPDATA%\\Kodi\\userdata**  then press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc048ab00113.jpg)
 4. Double-click on the**addon\_data** folder, and select the add-on directory that you think might be causing Kodi to crash, and press**Del** to delete it.  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc048c0c90e2.jpg)  
 
  If you’re not sure which one is the culprit, you can go back to the **userdata** folder to open the**Database** folder in it.  
@@ -59,16 +73,28 @@ thumbnail: https://thmb.techidaily.com/728942524bb364987d92cb465ba4b4e140c040caf
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ### Fix 3: Disable hardware acceleration
 
  Hardware acceleration is also known to cause Kodi to crash. To check for it, you should try disabling hardware acceleration in Kodi:
 
 1. Click the**gear icon** to go to the settings menu.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7aa65d2a1b9.jpg)
 2. Click **Player settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7aa6b255d47.jpg)
 3. In the bottom left corner, click the gear icon**three times** to change the mode from**Standard** to**Expert** .  
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7aa72e13b88.jpg)  
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7aa7a1d4a61.png)
 4. Highlight the **Video** tab, then on the right side, in the **Processing** section, turn off **Allow hardware acceleration -DXVA2** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7aa89e02e8f.jpg)
@@ -76,6 +102,9 @@ thumbnail: https://thmb.techidaily.com/728942524bb364987d92cb465ba4b4e140c040caf
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Update your graphics driver
 
  If the steps above didn’t work for you, the most likely cause is a graphics driver problem.
@@ -92,11 +121,17 @@ Fortunately, this is also one of the easiest problems to fix.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b94e4d9d8.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This require the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee. )  
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b95f34603.jpg)
 4. Restart your computer and check if Kodi now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 5, below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
 ### Fix 5: Reinstall Kodi
 
 You can also try doing a clean install of Kodi:
@@ -114,6 +149,9 @@ You can also try doing a clean install of Kodi:
    2. In the address bar, type**%APPDATA%** and press**Enter** .  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc04983b826b.jpg)  
    3. Select the**Kodi** folder, and press**Shift+Del** to delete the folder permanently.  
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
    ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc049984724f.jpg)
 3. **Restart** your PC.
 4. **Download** Kodi v17.6 “Krypton” from **[here](https://kodi.tv/download)**  .

@@ -1,7 +1,7 @@
 ---
 title: Resolve Roblox Not Starting Up Quickly with Our Latest Fixes and Advice
-date: 2024-08-06 16:17:50
-updated: 2024-08-07 10:46:33
+date: 2024-08-06T09:47:41.589Z
+updated: 2024-08-07T09:47:41.589Z
 tags:
   - win11
   - win10
@@ -59,6 +59,9 @@ If you don’t know how to find your PC specs, take the steps below.
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to invoke the Run box.
 2. Enter**msinfo32** and hit Enter.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/msinfo32.png)
 3. In the left navigation menu, click**System Summary** and review the information displayed on the right-hand side.  
 
@@ -66,6 +69,9 @@ If you don’t know how to find your PC specs, take the steps below.
 
  If your game still isn’t launching even though your computer meets the system requirements, follow the troubleshooting steps below to identify and resolve the issue.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -77,12 +83,18 @@ If you don’t know how to find your PC specs, take the steps below.
 * **[Update the Xbox and Gaming Services apps](https://tools.techidaily.com/drivereasy/download/)**
 * **[Uninstall and reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## 1\. Update graphics drivers
 
 **Graphics drivers** act as a bridge that allows your operating system and applications, such as Starfield, to interact effectively with your graphics hardware.
 
  When Starfield or any other game fails to launch, outdated or incompatible graphics drivers can often be a leading cause of the problem. To ensure that your system is equipped with the latest software to support your game’s requirements, enhance performance, and maintain compatibility, you should**update your graphics drivers** .
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 1: Manually update graphics drivers
 
  You can update your graphics driver by clicking on the link below based on your exact graphics card model. Then find the latest driver, and follow the on-screen instructions to download and install it for your system.
@@ -115,6 +127,9 @@ Below is the simple three-step guide.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click**Update All** . If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you have to do is download them one at a time and manually install them.  
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/11/Update-AMD-Radeon-RX-6700-XT-with-Driver-Easy-no-version-info.jpg)
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -133,12 +148,26 @@ To download and install the latest Windows updates, take these steps:
 
  Press the**Windows logo + I keys** simultaneously to open Settings. Then go to**Windows Update** and follow the on-screen instructions to download and install the latest updates.
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![Windows 11 check for Windows updates](https://images.drivereasy.com/wp-content/uploads/2022/04/win11-Windows-Update-Check-for-updates.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### On Windows 10
 
  Press the**Windows logo + I keys** simultaneously to open Settings. Then go to**Update & Security > Windows Update** .
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/windows-update-2.jpg)
 
 ## 3\. Disable antivirus and firewall
@@ -152,9 +181,15 @@ To temporarily disable the Windows Firewall:
 1. On your keyboard, press the **Windows logo + R keys** simultaneously to open the Run box.
 2. Type or paste **control firewall.cpl** and hit Enter.  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-disable-windows-firewall.png)
 3. Click **Turn Windows Defender Firewall on or off** .  
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-windows-features-on-or-off.png)
 4. Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network, and Public network. Then click **OK** .  
 
@@ -166,6 +201,9 @@ To temporarily turn off your antivirus software:
 2. Right-click it and find an option to disable or pause protection.
 3. Then launch Starfield and see if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Verify the integrity of game files (Steam users)
 
  Over time, your game files can become corrupted, incomplete, or missing, causing issues such as Starfield not launching, crashing on startup, or various errors.
@@ -177,6 +215,9 @@ To temporarily turn off your antivirus software:
 3. From the drop-down menu, select**Properties…** .
 4. Select the**Install Files** tab and click on the**Verify integrity of game files** button.  
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-verify-the-integrity-of-game-files-on-Starfield.png)
 5. Steam will verify the game’s files – this process may take several minutes. When the process is complete, try to launch Starfield and see if it works.
 
@@ -190,6 +231,9 @@ Follow the steps below to do this.
 2. Select**Library** .
 3. Under**Updates & download** , check if there are any updates available for the Xbox app or Gaming Services app. If an update is available, select**Update** .
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/Starfield-on-the-game-launcher-1200x675.jpg)
 
  For Xbox users, you should also check if the services are up and running. Sometimes the issue is not on your end.
@@ -198,6 +242,9 @@ Follow the steps below to do this.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/Xbox-status.png)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Uninstall and reinstall the game
 
  If none of the above methods work, you should consider uninstalling and reinstalling the game.

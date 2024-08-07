@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Anno 1800'S DirectX Glitches for Smooth Gaming Experience
-date: 2024-08-05 20:20:44
-updated: 2024-08-07 11:13:40
+date: 2024-08-06T09:47:00.623Z
+updated: 2024-08-07T09:47:00.623Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
 ## Roblox Launch Woes? Master These Fixes for a Smooth Gaming Experience
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-15_10-10-07.jpg)
 
  So you click the Play button of your favorite Roblox game. Roblox opens up the setup screen, but it takes a long time or never finishes to load. This is very frustrating.
@@ -23,6 +26,9 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
  Below are some known fixes for the Roblox loading screen error. You may not need to try them all; just work your way down the list until you find the one that does the trick.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fixes to try
 
 * [Fix 1 – Restart your computer](https://tools.techidaily.com/drivereasy/download/)
@@ -41,6 +47,9 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
  So if you haven’t done this yet, give it a shot. A simple restart may be all you need to solve Roblox or Roblox Studio-related issues.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2 – Try an alternative browser
 
  Roblox is compatible with all leading browsers such as Chrome, Firefox, Opera, Safari, and more. To make sure Roblox works well on your device, make sure you’re using the latest version of the browser.
@@ -77,6 +86,9 @@ thumbnail: https://thmb.techidaily.com/419750fa1c7083da86e63dfb35f51d8c924868657
 
 If Roblox still gets stuck when loading the game, try the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4 – Disable your ad-blocker/extensions
 
  Browser extensions, especially ad-blockers that modify page content could also interfere with Roblox. So if you’re running any browser extensions, you may also want to try disabling them.
@@ -87,6 +99,9 @@ If Roblox still gets stuck when loading the game, try the fix below.
 
 **2)** Click the **Menu** button.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-288.png)
 
 **3)**  Select **More tools** , and then select **Extensions** .
@@ -107,6 +122,9 @@ If Roblox still gets stuck when loading the game, try the fix below.
 
 **1)** On your keyboard, press the **Windows logo key**  and **R** at the same time.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-00-40-1.jpg)
 
 **2)**  Type **control**  and then press the **Enter key** .
@@ -115,6 +133,9 @@ If Roblox still gets stuck when loading the game, try the fix below.
 
 **3)** Under **View by** , select **Small icons** , then click **Windows Defender Firewall** .
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-06_12-20-25.jpg)
 
 **4)**  Click **Allow an app or feature through Windows Defender Firewall** .
@@ -131,16 +152,25 @@ If Roblox still gets stuck when loading the game, try the fix below.
 
 **7)** Click **Browse** , then locate the Roblox launcher file and click**Add** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/roblox-firewall-2.jpg)
 
 **8)** Check **Private** if you’re using a trustworthy network, then click **OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/roblox-firewall-3.jpg)
 
 **9)**  Firewall will prompt you to allow access to networks, click **Allow access** .
 
 If you still can’t join the game, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6 – Temporarily close your anti-virus
 
  Your problem is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus program and firewall and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.)
@@ -149,6 +179,9 @@ If you still can’t join the game, move on to the next fix.
 
  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 7 – Clear your browser cookies and cache
 
  The cache and cookies stored by your browser, if corrupted, can sometimes cause issues. Try clearing your browser cookies and cacher to see if this helped:
@@ -163,6 +196,9 @@ If you still can’t join the game, move on to the next fix.
 
 If the game is still not opening up, try the next below.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 8 – Reinstall Roblox and Roblox Studio
 
  If you’re still having issues running Roblox games, try reinstalling Roblox and Roblox Studio too. This will overwrite and replace any deleted or broken files and fix any related issues.
@@ -173,10 +209,16 @@ Follow the instructions below:
 
 **2)** Type **appwiz.cpl** and click **OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/unstall-roblox-1-.jpg)
 
 **3)** Right-click the Roblox app and click **Uninstall** . If you see**Roblox Stuido** , uninstall it, too.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/unstall-roblox-2..jpg)
 
 **4)** On your keyboard, press the **Windows logo key** and **R** at the same time.
@@ -187,6 +229,9 @@ Follow the instructions below:
 
 **6)** Click the **Roblox folder**  and press the **Delete key**  on your keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-15_11-01-06.jpg)
 
 **7)** Download **[Roblox](https://www.roblox.com/)**  and install it.

@@ -1,7 +1,7 @@
 ---
 title: Evil Genius 2 Won't Start? Here's How to Successfully Get It Running Again!
-date: 2024-08-06 12:55:25
-updated: 2024-08-07 11:31:47
+date: 2024-08-06T09:47:13.719Z
+updated: 2024-08-07T09:47:13.719Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/8a7e84630d3aca1d8a2601af719bff431bf93c02b
 
 Evil Genius 2: World Domination is a new game that was released on 30 March 2021 on Steam. It would be frustrating when you couldn’t launch the game, don’t worry, you’re not alone. This post would help you resolve it.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -63,6 +66,14 @@ Tips: You can disable the alert in the launcher settings.
 
 If this fix doesn’t help, move to the next fix.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 2: Launch with Vulkan
 
  There’s an easy fix that would help you run the game —**Launching the game with Vulkan instead of DX12** .
@@ -72,6 +83,15 @@ If this fix doesn’t help, move to the next fix.
 
 If you’re launching from Steam, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ## Fix 3: Verify game file
 
  If you launch the game from Steam, then you try to verify game files. This fix will let Steam check your local files. If there’re corrupted files, Steam will redownload them and replace them on your local install.
@@ -80,17 +100,26 @@ If you’re launching from Steam, move to the next fix.
 2. Right-click on the game and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-07_17-10-14.png)
 3. Go to the**LOCAL FILES** tab and click**Verify integrity of game files…**  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify.png)
 4. Reboot the game when the process is finished.
 
 If this fix is not working, move to the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 4: Replace the launcher file
 
  Except for not launching, some players reported they can’t start the game when running on Proton and Manjaro. Replacing the launcher file may work for you.
 
 1. Press the**Windows logo key + R** together to open the Run box.
 2. Type**%appdata%** and press the**Enter** key.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/appdata.jpg)
 3. Find and double-click the Evil Genius 2 folder.
 4. Go to the Launcher folder to find the**Evil Genius 2.exe** file. Move the executable file into the**Bin folder** with evilgenius\_vulkan.exe.

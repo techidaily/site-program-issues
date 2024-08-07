@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Call of Duty: WWII Display Problems in Windows - A Complete Fix Guide"
-date: 2024-08-06 16:25:14
-updated: 2024-08-07 10:23:10
+date: 2024-08-06T09:47:26.609Z
+updated: 2024-08-07T09:47:26.609Z
 tags:
   - win11
   - win10
@@ -15,10 +15,16 @@ thumbnail: https://thmb.techidaily.com/73a3da058ac7e5e3c1a423f3019de835e81b3d461
 
 ## Troubleshooting DaVinci Resolve Windows Startup Problems - Solutions Inside
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![resolve not openning](https://images.drivereasy.com/wp-content/uploads/2021/11/resolve.jpg)
 
  Looking for a solution to the**DaVinci Resolve won’t open** problem? No matter if your Resolve is not responding at all or gets stuck at the loading screen, you can try the following methods to fix the problem immediately.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
 1. **[End the Resolve process](https://tools.techidaily.com/drivereasy/download/)**
@@ -51,11 +57,17 @@ No luck? Don’t worry. We have a few more fixes for you.
 
  Resolve will act up especially if you’re using a USB headset as the audio output device. Once you have removed the USB device from your PC, launch your Revolve again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3\. Launch DaVinci Resolve in Compatibility mode
 
  Still can’t launch your Resolve? It might be caused by some incompatibility issues, which can be solved by running Resolve in compatibility mode.
 
 1. Right-click on the Resolve shortcut or the executable file in the installation folder, and select**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/resolve-properties.jpg)
 2. Go to the**Compatibility** tab, and check the**Run this program in compatibility for** Windows 8 or Windows 7.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/resolve-compatibibility.jpg)
@@ -63,6 +75,9 @@ No luck? Don’t worry. We have a few more fixes for you.
 
  Now you can run Resolve to test the issue. If DaVinci Resolve is still not responding, you can head on to the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4\. Update the graphics driver
 
  Editing videos with this DaVinci Resolve is very GPU-extensive, so it is mandatory to keep the GPU drivers updated (and sometimes your audio drivers, too).
@@ -82,15 +97,24 @@ No luck? Don’t worry. We have a few more fixes for you.
 
  After updating your drivers, restart your PC and launch your Resolve to check if the issue has been resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5\. Increase the Virtual Memory
 
  If your system is low on virtual memory, Windows increases the size of your virtual memory paging file. During this process, memory requests for some applications may be denied, e.g your DaVinci Resolve. To alleviate this, you can manually increase the size of your paging file.
 
 1. On your keyboard, press the**Windows** logo key +**R** key at the same time, and enter**sysdm.cpl** to open system settings.  
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![command line](https://images.drivereasy.com/wp-content/uploads/2021/11/system-run-commands.jpg)
 2. Go to the**Advanced** tab and select**Settings** under**Performance** .  
 ![view the advanced settings](https://images.drivereasy.com/wp-content/uploads/2021/11/advanced.jpg)
 3. Once the Performance Options window is open, go to the**Advanced** tab and select**Change** .  
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![adjust virtual memory size](https://images.drivereasy.com/wp-content/uploads/2021/11/property-options.jpg)
 4. Uncheck the**Automatically manage paging file size for all drives** . Then select**Custom size** , and enter the value accordingly.  
 ![installed ram](https://images.drivereasy.com/wp-content/uploads/2021/11/installed-ram.jpg)  
@@ -99,6 +123,9 @@ No luck? Don’t worry. We have a few more fixes for you.
 
  Restart your computer for the changes to take effect, and try opening your DaVinci Resolve to check if it launches successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Fix 6\. Enable IGPU Multi-Monitor in BIOS
 
  It’s reported by many users that the IGPU Multi-Monitor feature can affect the use of DaVinci Resolve, thus causing Resolve to not open. To enable this feature, you should restart your PC and enter BIOS.
@@ -142,6 +169,9 @@ Here’s how to troubleshoot this issue quickly:
    * Double click on the**CaptureLogs.bat** file (or right-click and then run as administrator).  
    * It will generate a **log file**  to your desktop –**DaVinci-Resolve-logs-<current time>.zip** .
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 9\. Reinstall DaVinci Resolve
 
  If none of the fixes above solved your Resolve not opening issue, you can clean reinstall your program and delete all files ( **C:\\Program Files\\Blackmagic Design\\DaVinci Resolve** ) left behind.

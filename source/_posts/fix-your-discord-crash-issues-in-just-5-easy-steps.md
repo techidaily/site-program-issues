@@ -1,7 +1,7 @@
 ---
 title: Fix Your Discord Crash Issues in Just 5 Easy Steps
-date: 2024-08-05 14:34:27
-updated: 2024-08-07 12:13:32
+date: 2024-08-06T09:47:39.983Z
+updated: 2024-08-07T09:47:39.983Z
 tags:
   - win11
   - win10
@@ -32,8 +32,14 @@ thumbnail: https://thmb.techidaily.com/80de444cb408ef81f4728e2850b723591d8016d7f
  First, you need to make sure that you have allocated enough RAM and CPU cores in BlueStacks Settings. This will increase performance and avoid game crashing/lagging. Here’s how to do it:
 
 1. Click the gear button on the lower right corner to open the**Settings** menu.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/settings.jpg)
 2. The **Settings**  page will appear with the **Engine** tab highlighted, as shown below.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/settings-engine.jpg)
 3. Please match the following settings to see if this works for you.  
    * **CPU** : 4 Cores  
@@ -69,6 +75,9 @@ There are mainly two ways for you to update the graphics driver:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
 3. Click **Update** next to your graphics card to download the latest driver, and then install it manually (you can do this in the Free version).  
 
@@ -80,12 +89,18 @@ There are mainly two ways for you to update the graphics driver:
 
  Once the graphics driver is updated, you can restart your PC and launch your BlueStacks to check if the crashing issue has been resolved successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: Close other unnecessary programs
 
  Running a lot of programs can make your BlueStacks slow, lag, or even crash a lot, especially when you have allocated more RAM and CPU cores to BlueStacks. Therefore, you can close unwanted programs from Task Manager:
 
 1. On your keyboard, press the**Ctrl + Shift + Esc** to open Task Manager.
 2. Select the program you want to close and click**End Task** . Also, force close BlueStacks 5 and relaunch the program. Check to see if it’s working now.  
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/end-task.jpg)
 
  Now other programs stop consuming a high amount of RAM, you can launch BlueStacks again to check if the crashing problem is fixed.
@@ -96,10 +111,16 @@ There are mainly two ways for you to update the graphics driver:
 
 1. On your keyboard, press the**Windows logo** key and**R** key at the same time to open the Run box.
 2. Type**appwiz.cpl** and hit**Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 3. Right-click your antivirus and choose**Uninstall** , and follow the on-screen instructions.
 4. Reboot your computer and launch BlueStacks to check if the issue persists.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 5: Enable Virtualization for BlueStacks
 
  If the methods above didn’t do the trick, you can run a quick check before reinstalling the whole software. If this feature is turned off, your BlueStacks would become very laggy and even start crashing a lot.

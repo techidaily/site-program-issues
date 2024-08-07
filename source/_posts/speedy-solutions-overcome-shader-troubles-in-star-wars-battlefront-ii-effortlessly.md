@@ -1,7 +1,7 @@
 ---
 title: "Speedy Solutions: Overcome Shader Troubles in Star Wars Battlefront II Effortlessly"
-date: 2024-08-04 21:16:37
-updated: 2024-08-07 10:38:37
+date: 2024-08-06T09:47:11.625Z
+updated: 2024-08-07T09:47:11.625Z
 tags:
   - win11
   - win10
@@ -23,6 +23,9 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 [Re-enable DirectX 12 mode](https://tools.techidaily.com/drivereasy/download/)
 [Why disabling DirectX 12 works](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Disable DirectX 12 mode
 
  For most players getting stuck at the “Optimizing Shaders” screen, you won’t be able to get to your main menu and see the**OPTIONS** screen. But you can change the DirectX mode by editing the bootup file. Here’s how:
@@ -39,16 +42,25 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 
  4) Locate the line**GstRender.EnableDx12** . Change the value to**0** .  
   
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![disable DirectX 12 mode](https://images.drivereasy.com/wp-content/uploads/2021/01/value-equals-0.png)
 
  5) Click**File > Save** to save the changes.  
   
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![disable DirectX 12 mode STAR WARS Battlefront II](https://images.drivereasy.com/wp-content/uploads/2021/01/save-the-changes.png)
 
  Once you’ve done these, launch your game. This time, while loading into the game, you’ll notice that it simply skips the shaders’ installation completely. This means that you should be able to play the game without any issues.
 
  After you successfully launched the game, it may re-enable the DirectX 12 mode automatically or it won’t. If it won’t, you can manually re-enable it.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Re-enable DirectX 12 mode
 
  1) Go to the game’s main menu and head across to the**OPTIONS** screen. Then select**VIDEO** .  
@@ -61,10 +73,16 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 
  4) Now change the value to**0** .  
   
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![re-enable DirectX 12 mode in the bootup file STAR WARS Battlefront II](https://images.drivereasy.com/wp-content/uploads/2021/01/re-enable-DirectX-12-mode.png)
 
  5) Click**File > Save** to save the changes.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Why disabling DirectX 12 works
 
  It’s possible that DirectX 12 could offer some enhancements for your machine, using DirectX 11 should allow the software to run much more reliably and stably. Basically, while the game is running in DirectX 12 mode, it’s able to pre-cache certain shaders so that you can get much better performance in-game. But chances are, the game might not be launching as expected.

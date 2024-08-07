@@ -1,7 +1,7 @@
 ---
 title: Resolve NBA 2K23 PC Game Crashes with These Proven Methods - Expert Advice Included
-date: 2024-08-06 21:30:32
-updated: 2024-08-07 11:14:56
+date: 2024-08-06T09:47:35.153Z
+updated: 2024-08-07T09:47:35.153Z
 tags:
   - win11
   - win10
@@ -57,6 +57,9 @@ If you encounter**a crash in BioShock 2 Remastered** , the problem can cause you
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2:**Install the latest game patch**
 
  The developers of BioShock 2 Remastered release regular game patches to fix bugs.   **It’s possible that a recent patch has triggered this issue, and that a new patch is required to fix it** .
@@ -65,6 +68,9 @@ If you encounter**a crash in BioShock 2 Remastered** , the problem can cause you
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: Keeping DirectX10 on
 
  The BioShock 2 Remastered crash may be caused by insufficient video card RAM used by the game. So, increase video card memory may help you solve the problem. This should prevent the game from crashing because of a lack of VRAM (video ram).
@@ -72,17 +78,31 @@ If you encounter**a crash in BioShock 2 Remastered** , the problem can cause you
 1. Run Steam.
 2. In the**Library** section, right-click on BioShock 2 Remastered and click**Properties** .
 3. Under the**LOCAL FILES** tab, click**BROWSE LOCAL FILES** to the game folder.  
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-2.jpg)
 4. Open file “Bioshock2SP.ini”
 5. Search for “TextureStreamingMemoryLimit” value and change it from 256 to 2048\. It is recommended that you choose a value that is not higher than the memory of your video card.
 6. Change**TextureStreamingDistanceLimit** from whatever it currently is to 10000
 7. Back to Steam, right-click on Bioshock 2 Remastered and click**Properties** .
 8. In the**GENERAL** tab, uncheck “**Enable the Steam Overlay while in-game** “.  
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/over.jpg)
 9. Relaunch the game and check whether the crash will appear or not.
 
 ---
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Update your driver
 
  Missing or outdated drivers may also trigger the game crash issues. In this case, you need to update your drivers to resolve this issue.
@@ -107,6 +127,9 @@ If you encounter**a crash in BioShock 2 Remastered** , the problem can cause you
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check the crash will appear or not.
 

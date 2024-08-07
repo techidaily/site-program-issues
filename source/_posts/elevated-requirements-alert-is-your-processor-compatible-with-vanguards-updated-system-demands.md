@@ -1,7 +1,7 @@
 ---
 title: Elevated Requirements Alert! Is Your Processor Compatible with Vanguard's Updated System Demands?
-date: 2024-08-06 14:33:12
-updated: 2024-08-07 11:30:20
+date: 2024-08-06T09:47:28.909Z
+updated: 2024-08-07T09:47:28.909Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/399b71f22f6a0f097f9f941327a817b697b933fa5
 
 Some gamers have met this Fatal Error message: **Your CPU does not meet the minimum specification for running Call of Duty: Vanguard** . It confused some players as they can perfectly run Warzone, Modern warfare which is bigger and takes more process, how could their CPU doesn’t meet the minimum specification for running COD: Vanguard?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/vanguard-minimum.jpg)
 
  Don’t worry, you’re not alone. This post will explain it to you and help you fix the issue.
@@ -36,6 +40,9 @@ Some gamers have met this Fatal Error message: **Your CPU does not meet the mini
 
  If your CPU meets the minimum specification table, you need to check whether it includes AVX instruction sets. It was written in the[Vanguard PC system requirements](https://www.callofduty.com/vanguard/pc) ‘ notes section, indicating only Intel/AMD processors**with AVX Instruction Set** are supported at this time.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-2.png)
 
  AVX instructions set are built into the processor, it’s not something you can upgrade or add on. Many older i7 CPUs may outperform the i3-4340 and FX-6300 but don’t include AVX instructions sets, that’s probably why they can’t launch the game.
@@ -48,10 +55,16 @@ Some gamers have met this Fatal Error message: **Your CPU does not meet the mini
 
  1) Search your CPU on the search engine. Click the manufacturer’s official webpage on the result page.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-3.png)
 
  2) In the open window, press**Ctrl + F** and type**avx** . If you see AVX on the page, your CPU supports the AVX instruction set, otherwise, it’s not.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-4.png)
 
 i3-4340 supports AVX instruction sets.
@@ -65,6 +78,10 @@ i7-970 doesn’t support AVX instruction sets.
 
  If your CPU supports AVX but still encounters this fatal error message, you can move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ### Fix 2: Reboot your PC
 
  There are gamers who have played the game for over 10 hours suddenly receive this error, maybe not for CPU but for GPU. It can be fixed after a system restart.
@@ -75,6 +92,9 @@ i7-970 doesn’t support AVX instruction sets.
 
 3) Click**Restart** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-6.png)
 
 4) Reboot COD: Vanguard and check if the issue persists.
@@ -120,6 +140,9 @@ Here’s how:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)

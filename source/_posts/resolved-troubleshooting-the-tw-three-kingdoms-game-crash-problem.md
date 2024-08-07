@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting the TW: Three Kingdoms Game Crash Problem"
-date: 2024-08-04 19:41:40
-updated: 2024-08-07 11:39:10
+date: 2024-08-06T09:47:36.798Z
+updated: 2024-08-07T09:47:36.798Z
 tags:
   - win11
   - win10
@@ -47,18 +47,27 @@ Minimum system requirements of Teardown
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1 – Stop overclocking
 
  Many players attempted to overclock their GPU or CPU to enhance game performance. However, overclocking will possibly result in an unstable system and cause your game to crash.
 
  To see if that’s the case,**turn off your overclocking utilities** (if you’re using any like MSI Afterburner) and**set the clock speed back to the default** . If the crashing problem isn’t mitigated, there are more fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2 – Allow Teardown through controlled folder access
 
  If Teardown crashes when you do a quicksave, the game is probably blocked by Windows Security which protects against viruses and malware. To ensure the game gets full access to necessary files and data, you can add it as an allowed app following the steps below:
 
 **1)** Click the**Start** button, and click**Settings** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1.jpg)
 
 **2)** Click**Update & Security** .
@@ -67,10 +76,16 @@ Minimum system requirements of Teardown
 
 **3)** Click**Windows Security** \>**Virus & threat protection** .
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-1.jpg)
 
 **4)** Click**Manage settings** .
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-4-1.jpg)
 
 **5)** Scroll down and click**Manage Controlled folder access** .
@@ -79,10 +94,16 @@ Minimum system requirements of Teardown
 
 **6)** When Controlled folder access is enabled, you can click**Allow an app through Controlled folder access** .
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-7.jpg)
 
 **7)** Click**Add an allowed app** \>**Browse all apps** , and choose Teardown as a trusted app.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-8.jpg)
 
  Relaunch the game to see if crashing persists. If unluckily yes, then go ahead with next fix.
@@ -118,6 +139,9 @@ Minimum system requirements of Teardown
 
 **2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1.jpg)
 
 **3)** Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).
@@ -133,6 +157,9 @@ Minimum system requirements of Teardown
 
  Launch Teardown to test the game performance with an updated graphics driver. Still no luck? Then try the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5 – Verify the integrity of game files
 
  Missing or damaged game files are known as the most common cause of PC game crashing. To fix it, you should verify the integrity of your game files on Steam, which just takes a few steps:
@@ -147,6 +174,9 @@ Minimum system requirements of Teardown
 
 **3)** Navigate to the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-3.jpg)
 
  Wait for Steam to detect and repair the corrupted game files, and then you can check whether Teardown stops crashing or not. If not, have a look at the last fix.

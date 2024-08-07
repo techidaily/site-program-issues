@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] OBS Not Recording Screen"
-date: 2024-08-05 11:50:30
-updated: 2024-08-07 11:39:58
+date: 2024-08-06T09:47:53.746Z
+updated: 2024-08-07T09:47:53.746Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/b1b6775bf38540cce32c7cf3ae0c3f9781deea4b6
 
 This incredibly lightweight client – uTorrent – enjoys wide popularity around the world for its great efficiency and lightweight. Although it’s nearly a bug-free application, odds are that you may run into a uTorrent not responding issue. If your uTorrent keeps not responding however you try, don’t get panic, for it’s quite easy to fix…
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
 1. **[Restart via Task Manager](https://tools.techidaily.com/drivereasy/download/)**
@@ -27,6 +30,9 @@ This incredibly lightweight client – uTorrent – enjoys wide popularity aroun
 6. **[Delete downloading files](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall the application](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Restart via Task Manager
 
  Obviously, like what the warning said, the first thing is to close all uTorrent processes. To do it, you can end uTorrent and its related services in Task Manager and run it again.
@@ -63,6 +69,9 @@ Follow the links below to check how to do it:
 * **[Avast](https://support.avast.com/en-eu/article/Antivirus-scan-exclusions)**
 * **[AVG Antivirus](https://support.avg.com/SupportArticleView?l=en&urlname=AVG-Antivirus-scan-exclusions)**
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Disable proxies
 
  Besides boosting internet performance, proxy servers can also enable people to browse privately by hiding their IP. However, proxy servers are known to conflict with some network-based apps such as uTorrent. To fix this error, you can disable proxy servers:
@@ -75,6 +84,9 @@ Follow the links below to check how to do it:
 
  Now you can restart uTorrent to test if the issue still persists. If it keeps not responding, then check the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ### Fix 5: Deleting app data
 
  Corrupt app data is also reported as another main cause of the problem. The recent changes on your computer may have corrupted the local configuration files, which causes your uTorrent to fail to read these data, hence causing uTorrent not responding error.
@@ -85,6 +97,9 @@ Follow the links below to check how to do it:
 2. Delete all the contents of the folder present.
 3. Restart your computer and launch uTorrent again.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
 ### Fix 6: Delete downloading files
 
  It may be the downloading file that is causing your uTorrent unresponsive. To fix it, you can simply go to the Download directory and delete all downloaded files.
@@ -116,6 +131,9 @@ Follow the links below to check how to do it:
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – this includes full support and 30-day money back guarantee).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/update-all-your-drivers-2-2.jpg)
 
  We also offer the**Free Version** :  

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Startup Problems: Solutions for Helldivers II's First-Time Black Screen Error"
-date: 2024-08-04 23:45:13
-updated: 2024-08-07 11:59:45
+date: 2024-08-06T09:47:13.697Z
+updated: 2024-08-07T09:47:13.697Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/11dcf4b0c6e46020efb7e29f6284c6b2311802a84
 
 For many**Valorant** players,**Vanguard Not Initialized** is not an uncommon occurrence. The error pops up when Riot’s anti-cheat program Vanguard fails to start for some reason, causing Valorant to crash. If you, too, are being shut out of the game by the error, don’t worry. This post may help…
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ## How to fix Vanguard Not Initialized
 
  Here are five fixes that have helped other players resolve the**Vanguard Not Initialized** game crash on PC error. You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
@@ -27,6 +30,9 @@ For many**Valorant** players,**Vanguard Not Initialized** is not an uncommon occ
 4. [Set Virtual Disk Service to automatic](https://tools.techidaily.com/drivereasy/download/)
 5. [Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 1\. Update your graphics driver
 
  The graphics card is the heart and soul for games like Valorant. If the game constantly crashes on your PC, it is likely that the graphics driver on your computer is outdated or corrupt. So you should update your drivers to see if it fixes the crashing issue.
@@ -65,19 +71,40 @@ To do so:
 3. Launch the VALORANT client to prompt Vanguard to reinstall.
 4. Check to see if the Vanguard anti-cheat has not been initialized issue has been resolved. If yes, congrats! If it’s still no joy, please move on to**Fix 4** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 4: Set Virtual Disk Service to automatic
 
  According to some players, settings the Virtual Disk service to automatic has helped them get rid of the**Vanguard not initialized** issue.
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to bring up Run Command.
 2. Type**services.msc** and press**Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/services.msc_.png)
 3. Scroll down to**Virtual Disk** and double-click on it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/VD.png)
 4. In Startup type, choose**Automatic** . Then click**OK** .  
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/AUT.png)
 5. Open Valorant and check to see if the game crash has been fixed. If the error still throws up, please head on to**Fix 5** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 5: Install all Windows updates
 
  Your current copy of Windows could be containing conflicts, incompatibilities or loopholes that could potentially cause the Riot Vanguard not initialized error. To rule out this as a cause, you should make sure to install all available Windows updates, then check to see if your can play your games without disruptions.
@@ -87,6 +114,9 @@ The steps are pretty easy:
 1. On your keyboard, press**the Windows logo key** and type**check for updates** , then click on**Check for updates** as it pops up as a matching result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-1.png)
 2. Click**Check for updates** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and automatically install the updates for you.
 4. Restart your computer.

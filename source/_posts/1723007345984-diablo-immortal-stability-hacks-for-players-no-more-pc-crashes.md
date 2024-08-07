@@ -1,7 +1,7 @@
 ---
 title: "Diablo Immortal Stability Hacks for Players: No More PC Crashes!"
-date: 2024-08-06 12:35:11
-updated: 2024-08-07 11:35:16
+date: 2024-08-06T09:47:52.142Z
+updated: 2024-08-07T09:47:52.142Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 
 Looking for a cure for your[Spellbreak](https://www.epicgames.com/store/en-US/p/spellbreak?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=newt) crashing issue? You’re in the right place! Here we put together some useful tips for you, check ’em out and get your problem fixed right away!
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## Basic troubleshooting
 
  But before you try any advanced solutions, make sure you’ve gone through these basic steps:
@@ -37,6 +40,9 @@ Looking for a cure for your[Spellbreak](https://www.epicgames.com/store/en-US/p/
 | **Memory:**    | 8 GB RAM                               |
 | **Graphics:**  | NVIDIA GeForce GT 640/Radeon R7 Series |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ## Fixes to try
 
  Here are some advanced solutions for your Spellbreak crashing issue. You might not need to try them all. Simply work your way down until you find the one that scores.
@@ -49,6 +55,9 @@ Looking for a cure for your[Spellbreak](https://www.epicgames.com/store/en-US/p/
 6. [**Perform a clean boot**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Disable VSync](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 1: Install all Windows updates
 
  Windows 10 introduces two types of updates, one tackles security issues and the other offers new features on a regular basis. If the last time you check for system updates feels like a long time ago, definitely do it now as it might fix your crashing issue.
@@ -56,6 +65,9 @@ Looking for a cure for your[Spellbreak](https://www.epicgames.com/store/en-US/p/
 Here’s how to install all system updates:
 
 1. On your keyboard, press the**Windows logo key** and**I** at the same time. This will open the Windows Settings app. Select**Update & Security** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** and wait for the checking and installation to complete. This might take up to an hour.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
@@ -74,6 +86,9 @@ You can follow these steps to check your game files:
 1. Open your**Epic Games Launcher** . From the left menu, select**Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/epic-games-launcher-library.jpg)
 2. Click the**settings icon (…)** under Spellbreak.  
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/spellbreak-settings.jpg)
 3. Select**Verify** . Then wait for the checking to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/spellbreak-settings-2.jpg)
@@ -82,6 +97,9 @@ You can follow these steps to check your game files:
 
  If this fix doesn’t do the trick, you can check out the next one below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  One of the most common causes of this error is**corrupted or outdated graphics drivers** . So you should definitely try updating your drivers before trying anything more complicated. GPU manufacturers keep releasing new drivers all the time, improving performance and compatibility with new titles. That’s exactly why we recommend to always use the latest driver.
@@ -104,6 +122,9 @@ You can follow these steps to check your game files:
 
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -121,6 +142,9 @@ If the problem persists, simply continue to the next method.
 
  If Spellbreak crashes when you’re not using any overlays, simply try the next solution below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 5: Stop overclocking
 
  Some players reported that they managed to fix the crash with Spellbreak by closing the overclocking software. Indeed, overclocking offers a free-of-charge performance boost, but at the cost of system stability. So if you’re using BIOS settings or overclocking software such as**MSI Afterburner** and**Intel Extreme Tuning Utility (Intel XTU)** , there’re great chances that your game will crash constantly. You can therefore try to**stop overclocking** and see if it fixes the crash.
@@ -136,6 +160,9 @@ Here’s how:
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Type**msconfig** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig-run-box.jpg)
 2. Navigate to the**Services** tab, then check the box next to**Hide all Microsoft services** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. Find services that**DO NOT** belong to your graphics card or sound card manufacturers such as NVIDIA, AMD, Realtek, Intel.**Uncheck** the boxes next to these services and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
@@ -151,8 +178,15 @@ If the crash reappears, you can check out the next solution.
  You can disable VSync in the control panel of your graphics card. And here’s an example of NVIDIA:
 
 1. Right-click the empty area of your desktop and select**NVIDIA Control Panel** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-control-panel-vsync.jpg)
 2. From the left menu, select **Manage 3D settings** . Make sure you’re at the **Global Settings** tab, then click the text next to **Vertical sync** and select **off** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-vsync-nvidia-control-panel.jpg)
 3. Launch Spellbreak and see if the crash stops.
 

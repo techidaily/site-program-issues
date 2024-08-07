@@ -1,7 +1,7 @@
 ---
 title: Solving Stability Issues with Code Vean for PC Players
-date: 2024-08-04 10:52:19
-updated: 2024-08-07 12:39:17
+date: 2024-08-06T09:47:29.788Z
+updated: 2024-08-07T09:47:29.788Z
 tags:
   - win11
   - win10
@@ -79,12 +79,18 @@ Your**Sims 3 keeps crashing** whenever you’re launching the game or in the mid
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1665b20185d.jpg)
 
  3) Click the**Update** button next to a flagged graphics card to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f84eae6ca1.jpg)
 
 4) Restart your computer to take effect.
@@ -93,6 +99,9 @@ Your**Sims 3 keeps crashing** whenever you’re launching the game or in the mid
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4: Set Sims 3 to the Windowed mode
 
  This method works for many users who have had the crashing issue. So you can change your Sims 3 to the Windowed mode to fix it. To do so, follow the steps below:
@@ -105,6 +114,10 @@ If you can access to the game settings:
 
  3) In the**Graphics** tab, uncheck**Enable Fullscreen Mode (** or select**Windowed Mode** in**Display Type** ).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a8b273272.jpg)
 
 4) Save the changes.
@@ -125,6 +138,9 @@ If you can access to the game settings:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ### Fix 5: Update DirectX in your computer
 
  If you’re running the old DirectX feature in your computer, you should consider updating the DirectX in your computer to fix the Sims 3 keeps crashing issue.
@@ -141,6 +157,9 @@ If you can access to the game settings:
 
  3) You can see the**DirectX Version** under the**System** tab.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aa69e72dc.jpg)
 
 #### **How to update DirectX?**

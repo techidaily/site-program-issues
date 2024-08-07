@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for the Infamous Crossbow Glitch in Minecraft
-date: 2024-08-06 19:42:35
-updated: 2024-08-07 11:54:28
+date: 2024-08-06T09:47:06.149Z
+updated: 2024-08-07T09:47:06.149Z
 tags:
   - win11
   - win10
@@ -33,6 +33,9 @@ If you’re presented with an error message ‘_**DirectX Encountered an Unrecov
 
  Make sure you have closed all the applications that are related to graphics card monitoring, and turn off all overlay features. Try launching your COD: Warzone again to test the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2\. Update your device drivers
 
  Many find it helps fix the Warzone DirectX error after updating all the drivers, especially the graphics driver. If you haven’t done so for a long time, it’s recommended to keep all your drivers up to date.
@@ -58,12 +61,18 @@ There are mainly two ways of updating your device drivers:
 
  2\. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
  3\. If you just want to update your webcam driver for free, simply click the **Update** button next to it (it’s partly manual).  
   
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
 4\. Once complete, restart your computer for the changes to take effect.
@@ -71,6 +80,9 @@ There are mainly two ways of updating your device drivers:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### Fix 3\. Repair your game files
 
  It’s possible that a corrupted game file cause the Warzone DirectX error. It’s easy to verify the integrity of your game files; all be done within a few clicks.
@@ -87,6 +99,9 @@ There are mainly two ways of updating your device drivers:
 
  Does the simple workaround work for you? If not, you can try the following fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4\. Play the game in DirectX 11 mode
 
  If the Warzone DirectX error persists when you’re using DirectX 12, you can run the game in DirectX 11 to see if this solves your problem. You can easily revert to DirectX 12 if this method doesn’t do the trick.
@@ -99,6 +114,9 @@ There are mainly two ways of updating your device drivers:
 
  3\. Check **Additional Command Line Arguments** and type **\-d3d11** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-11.png)
 
  4\. Click **Done** .

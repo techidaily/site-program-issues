@@ -1,7 +1,7 @@
 ---
 title: 8 Expert Strategies to Stop Hogwarts Legacy From Freezing at Bootup on PCs
-date: 2024-08-04 15:41:10
-updated: 2024-08-07 11:46:40
+date: 2024-08-06T09:47:17.818Z
+updated: 2024-08-07T09:47:17.818Z
 tags:
   - win11
   - win10
@@ -26,6 +26,9 @@ Atomic Heart crashing issue is annoying. This popular video game is not immune t
 7. **[Disable third-party software](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Update Flawless Widescreen
 
  If you’re using Flawless Widescreen on your PC, this plugin seems the culprit of the crashes. The development team has recognized the issue and fixed it in their latest update. But if you still encounter crashes, you can turn off the**Scanning Fix** checkbox from the Flawless Widescreen plugin and try the game again.
@@ -49,6 +52,9 @@ There are two ways to find the correct and the latest driver:
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -56,12 +62,18 @@ There are two ways to find the correct and the latest driver:
 
  Restart your computer for the changes to take effect, and then check Atomic Heart again. It should be running properly. If not, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
 ## 3\. Kill WindowsExplorer.exe
 
  Some gamers found if you’re playing through the game pass, you can kill the WindowsExplorer.exe in the task manager to fix Atomic Heart crashing issue.
 
 1. Open Task manager by pressing Alt+Del+Shift together.
 2. Find Windows Explorer.exe task and end it.  
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/end-task-windows-explorer.jpg)
 3. Play the game again to check for crashes.
 
@@ -73,8 +85,19 @@ There are two ways to find the correct and the latest driver:
 
 1. Launch the Steam client and go to Library.
 2. Right-click Atomic Heart and select**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/Steam-right-click-Properties.jpg)
 3. Click the**Local Files** tab, then select**Verify Integrity of Game Files** .  
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-game-files.jpg)
 4. When it’s done, relaunch Steam and the game.
 
@@ -86,6 +109,9 @@ If it doesn’t help, move to the next fix.
 
  You can run Atomic Heart at medium or lower graphical settings and see if the issue goes away. Some gamers reported they were able to get through the_March Of Flowers_ quest without crashes by turning down all graphics settings to the minimum (including resolution) and turning off DLSS Super Resolution.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6\. Repair system files
 
  Problematic system files (e.g. missing DLLs) can also affect the smooth launching and operation of the system and game. To check if your PC has flawed system files, you may want to run a quick and thorough scan with **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -98,6 +124,9 @@ Take a look at how it works:
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)

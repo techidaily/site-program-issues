@@ -1,7 +1,7 @@
 ---
 title: World of Warcraft Halted by Error 132? Here's How to Get You Back In-Game
-date: 2024-08-06 14:15:38
-updated: 2024-08-07 10:20:28
+date: 2024-08-06T09:47:53.790Z
+updated: 2024-08-07T09:47:53.790Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 
 ## World of Warcraft Halted by Error 132? Here's How to Get You Back In-Game
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12.jpg)
 
  If you see**ERROR #132 (0x85100084) Fatal exception** in World of Warcraft (also called WOW) in your computer, and your game crashes with this popup error message. Don’t panic!
@@ -23,6 +26,9 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 
  But the good news is, you can**fix the error 132** easily, and many people have resolved the problem with the solutions below.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ## How to fix World of Warcraft error 132
 
 1. [**Install the latest patch**](https://tools.techidaily.com/drivereasy/download/)
@@ -36,6 +42,9 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 
  Note: the screenshots below come from Windows 10, and the fixes also work on Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 1: Install the latest patch
 
  Since many technical problems can be resolved by restarting, it never hurts to restart your computer and your game. Often this will be enough to fix the error.
@@ -58,11 +67,17 @@ thumbnail: https://thmb.techidaily.com/965071db1f866296dbd6b7c6cdfb4395621995dd5
 3. Click the**Update** button next to the flagged video card to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **_Update All_**  ).  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fb3254b31b.jpg)
 4. Restart your computer and open your game.
 
  This should fix your problem. If the error still occurs to your game, don’t worry. You have other solutions to try.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Run repair tool to fix the issue
 
  The repair tool in the Battle.net application can help fix the corrupted or damaged files in your game, so you can try fixing the popup error 132 via the tool.
@@ -75,10 +90,17 @@ To do so:
 3. Click the**Options** button and select**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6fe36d60.jpg)
 4. Click**Begin Scan** , and follow the on-screen instructions to finish. It may take a while.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa7275b199.jpg)
 
  After repair, restart your game and see if it works properly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ### Fix 4: Disable DVR app in Xbox
 
  Many people reported that the game crashed with error code 132 after Windows 10 update. It’s likely to be caused by the Game DVR enabled in your computer. So you should disable Game DVR in Xbox to fix it.
@@ -88,6 +110,9 @@ Here’s what you need to do:
 #### If you’re using Windows 10 Build 14393 and earlier
 
 1. Search**Xbox** from the search box on your desktop, and open it.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa78642087.jpg)
 2. You’ll need to log into your**Microsoft account** if it’s the first time you open it.
 3. Click the**Gear** button on the left to open**Settings** .  
@@ -103,6 +128,9 @@ Here’s what you need to do:
 2. Click the**Gaming** section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fab18ae4d5.jpg)
 3. Click**Game DVR** on the left, and make sure to **turn off Record in the background while I’m playing a game** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fab4bb568a.jpg)
 4. Restart your computer and launch World of Warcraft and see if it works.
 
@@ -119,6 +147,9 @@ Here’s what you need to do:
 
  If the error still persists, don’t worry. There are more solutions.
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ### Fix 6: Perform Disk Defragment
 
  Disk Defragment helps re-arrange the fragmentation and keeps the system files at great performance. So you can try this method to fix the World of Warcraft error 132.
@@ -128,13 +159,22 @@ Here’s what you need to do:
 1. Open**This PC** , and right click on the hard disk that you want to scan, and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fb3f3413a4.jpg)
 2. Click the**Tools** tab, and click**Optimize** (or**Defragment now** in Windows 7).  
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fb417f3633.jpg)
 3. In the popup pane, select the drive that you want to defrag, and click**Optimize** (or**Defragment disk** in Windows 7).  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fb4592b944.jpg)
 4. Follow the on-screen instructions to finish.
 
  Open World of Warcraft again and see if the error has been fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 7: Reset user interface
 
  This is a solution introduced by Blizzard. You can try resetting your user interface to default settings and fix the graphics display issues, such as the error 132\. Here’s what you need to do:
@@ -152,6 +192,9 @@ Here’s what you need to do:
 
  Try playing the game and see if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### Fix 8: Check for malware and virus
 
  If your computer is affected by malware or virus, you’re likely to run into the error 132 when playing WOW, or the malware can fake the error message. So you should run a full and complete scan for your system.

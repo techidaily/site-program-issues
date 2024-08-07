@@ -1,7 +1,7 @@
 ---
 title: Complete Walkthrough to Enable and Use Hyper-V in Windows 10
-date: 2024-08-05 15:29:33
-updated: 2024-08-07 12:41:29
+date: 2024-08-06T09:47:11.604Z
+updated: 2024-08-07T09:47:11.604Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/a052456309a6b8597a2b650cfe52a2444e64bbcfc
 
 NieR Replicant ver.1.22474487139…, the long-waiting remaster is finally here. But before gamers can relive Yoko Taro’s amazing tale, many start reporting a**game not launching** issue. If you’re one the same boat, don’t worry. There’re still ways you can fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not need to try all of them. Simply walk down the list until you hit the one that gives you luck.
@@ -28,6 +31,9 @@ NieR Replicant ver.1.22474487139…, the long-waiting remaster is finally here. 
 5. [**Change program graphics settings**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Temporarily disable your antivirus](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ### Fix 1: Make sure your specs meet the requirements
 
  Your game might not start when it’s too demanding for your hardware. So before your start troubleshooting, first make sure your specs can handle NieR Replicant. If the game is too much for your rig, then maybe it’s time for an upgrade.
@@ -64,6 +70,9 @@ Once completed, you can try to launch NieR Replicant now.
 1. Go to your Steam LIBRARY. Right click**NieR Replicant ver.1.22474487139…** and select**Properties..** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-1.jpg)
 2. In the left pane, select**LOCAL FILES** . Then click**Browse..** . This will open your game folder.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nier-launch-from-exe-1.jpg)
 3. Right click**NieR Replicant ver.1.22474487139.exe** and select**Run as administartor** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nier-launch-from-exe-2.jpg)
@@ -91,6 +100,9 @@ Once completed, you can try to launch NieR Replicant now.
 
  If the latest drivers doesn’t help you, simply move on to the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Change program graphics settings
 
  Some gamers reported that NieR Replicant would cap the frame rate at 60, and higher frame rate might cause the game to stop working. If that’s really the case, you can try to fix it by changing the program settings in your graphics control panel.
@@ -98,10 +110,16 @@ Once completed, you can try to launch NieR Replicant now.
 Here’s an example for NVIDIA graphics cards:
 
 1. At the empty area of your desktop, right click and select**NVIDIA Control Panel** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nvidia-control-panel.jpg)
 2. In the left pane, select**manage 3D settings** . In the right pane, navigate to the**Program Settings** and select the**.exe** file of NieR Replicant.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nier-3d-settings-1.jpg)
 3. Under the section of Specify the settings for this program, set**Max Frame Rate** to**60\~65 FPS** .  
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nier-3d-settings-1-1.jpg)
 4. Now you can try to launch NieR Replicant.
 
@@ -109,6 +127,9 @@ Here’s an example for NVIDIA graphics cards:
 
  If this trick doesn’t work for you, simply continue to the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6: Temporarily disable your antivirus
 
  It’s possible that your antivirus might be interfering with your game. You can try to rule out this possibility by disabling your antivirus temporarily.
@@ -118,10 +139,23 @@ Here’s an example of how you can disable Windows Security:
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to enter the Windows settings menu. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Select **Windows Security** in the left pane, and click **Virus & threat protection** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
 3. In the pop-up window, click **Manage settings** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Toggle off **Real-time protection** .  
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
 
  Now check if you can start NieR Replicant. (If this method doesn’t do the charm, remember to re-enable your antivirus.)

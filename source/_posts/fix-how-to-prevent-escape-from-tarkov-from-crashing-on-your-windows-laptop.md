@@ -1,7 +1,7 @@
 ---
 title: "Fix: How to Prevent 'Escape From Tarkov' From Crashing on Your Windows Laptop"
-date: 2024-08-06 10:47:45
-updated: 2024-08-07 12:58:47
+date: 2024-08-06T09:47:52.402Z
+updated: 2024-08-07T09:47:52.402Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/db7a51fc88bb312b4c001dc26d2d013159de6bfbe
 
 Many players have been experiencing lost connection due to anticheat and anticheat loading failed errors on startup. To save your time searching for a real fix in forums, we’ve put together all the possible fixes when you get an error message ‘Anticheat connection failed’ in Escape from Tarkov.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  ‘Anticheat connection failed’? Below you will find all the workarounds that have helped many other gamers. You don’t have to try them all; just walk your way down until you find the one that works for you.
@@ -30,6 +33,9 @@ Many players have been experiencing lost connection due to anticheat and antiche
 7. [**Reboot your router/modem**](https://tools.techidaily.com/drivereasy/download/)
 8. [**Use a VPN**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 1\. Run your game as an administrator
 
  Many players will run your game executable file as admin permanently to fix some annoying issues. Lack of permissions can cause the ‘Anticheat connection failed’ error in Escape from Tarkov players. Here’s how to do it:
@@ -64,6 +70,9 @@ The default installation folder: C:/Battlestate Games/EFT (live)
 * Enter**firewall.cpl** in the box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
 * Click**Allow an app or feature through Windows Defender Firewall** on the left pane.  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/allow-firewall.jpg)
 * Make sure the**Private** and**Public** boxes are both checked for Escape from Tarkov and the anti-cheat service BattlEye. If they’re not on the list, click**Change settings** and add them here.
 
@@ -83,10 +92,17 @@ The default installation folder: C:/Battlestate Games/EFT (live)
 
  3) Once complete, launch your game again to check if the problem has been fixed.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ### Fix 4\. Update your launcher manually
 
  Make sure your launcher has been updated to the latest version. You can check for updates in the launcher. But if the update failed, you can manually download the launcher, you can visit your[profile page](https://www.escapefromtarkov.com/profile) (you’ll need to log in first), and hit the**Install** button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ### Fix 5\. Reinstall Battle Eye
 
  Before you try reinstalling the whole game, you may want to check if Battle Eye is causing the ‘Anticheat connection failed’ error:
@@ -107,6 +123,9 @@ The default installation folder: C:/Battlestate Games/EFT (live)
 
 5) Now launch your game and check if the issue has been resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6\. Update all your device drivers
 
  When it’s quite hard to troubleshoot the exact cause, we would recommend keeping all your device drivers up to date, including your graphics drivers and network adapter drivers. This would also keep your game from bumping into possible crashes in the future.
@@ -129,12 +148,18 @@ The default installation folder: C:/Battlestate Games/EFT (live)
 
  3) Click the **Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click _Update All_ .)
 
  4) Once the driver is updated, reboot your PC for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 7\. Reboot your router/modem
 
  The ‘**Anticheat server connection lost** ‘ can also be caused by network issues. First, you need to make sure you’ve selected the server with the lowest ping. If this doesn’t work, you’d better restart your router.

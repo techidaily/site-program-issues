@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Your Age of Empires IV Setup - Overcome Stubborn Download Failures with Our Tips!
-date: 2024-08-06 20:47:36
-updated: 2024-08-07 12:33:53
+date: 2024-08-06T09:47:09.809Z
+updated: 2024-08-07T09:47:09.809Z
 tags:
   - win11
   - win10
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/2ca46c2a129dc1360b713c04a30f75e3e36c2cb0f
 
  It’s very fascinating that you can play over two million mobile games on your PC with this FREE Android emulator. However, many of us may have experienced game crashes in Bluestacks. If you’re getting random BlueStacks crashes and don’t know how to deal with it, don’t worry. In this post, you will learn how to fix it easily and quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
 1. **[Adjust the game setting](https://tools.techidaily.com/drivereasy/download/) [s](https://tools.techidaily.com/drivereasy/download/)**
@@ -32,8 +35,14 @@ thumbnail: https://thmb.techidaily.com/2ca46c2a129dc1360b713c04a30f75e3e36c2cb0f
  First, you need to make sure that you have allocated enough RAM and CPU cores in BlueStacks Settings. This will increase performance and avoid game crashing/lagging. Here’s how to do it:
 
 1. Click the gear button on the lower right corner to open the**Settings** menu.  
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/settings.jpg)
 2. The **Settings**  page will appear with the **Engine** tab highlighted, as shown below.  
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/settings-engine.jpg)
 3. Please match the following settings to see if this works for you.  
    * **CPU** : 4 Cores  
@@ -43,10 +52,16 @@ thumbnail: https://thmb.techidaily.com/2ca46c2a129dc1360b713c04a30f75e3e36c2cb0f
    * **GPU Settings** : Prefer dedicated graphics (NVIDIA only)  
    * **ASTC** : Hardware decoding
 4. Click the**Save** button to preserve all changes made.  
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/save-changes.jpg)
 
  Your Bluestacks will be restarted, and your game won’t be crashing again now. But if it does, please try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  As BlueStacks Support suggests, you should always keep your driver updated. This is especially important if you haven’t done so for a long time. Graphics driver matters a lot to your gaming performance, so we recommend you keep your drivers up-to-date (at least your graphics driver).
@@ -69,6 +84,9 @@ There are mainly two ways for you to update the graphics driver:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
 3. Click **Update** next to your graphics card to download the latest driver, and then install it manually (you can do this in the Free version).  
 
@@ -100,6 +118,9 @@ There are mainly two ways for you to update the graphics driver:
 3. Right-click your antivirus and choose**Uninstall** , and follow the on-screen instructions.
 4. Reboot your computer and launch BlueStacks to check if the issue persists.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 5: Enable Virtualization for BlueStacks
 
  If the methods above didn’t do the trick, you can run a quick check before reinstalling the whole software. If this feature is turned off, your BlueStacks would become very laggy and even start crashing a lot.

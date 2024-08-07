@@ -1,7 +1,7 @@
 ---
 title: Quick Solutions for Fixing Sims 3 Errors and Preventing PC Crashes
-date: 2024-08-05 12:46:36
-updated: 2024-08-07 10:21:50
+date: 2024-08-06T09:47:45.479Z
+updated: 2024-08-07T09:47:45.479Z
 tags:
   - win11
   - win10
@@ -41,6 +41,9 @@ Your**Sims 3 keeps crashing** whenever you’re launching the game or in the mid
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### Fix 2: Try Repair Game
 
  If you’re getting the crashing issue in your Sims 3 that is installed via Origin, you can try to repair the game issue with the built-in game repairing tool.
@@ -51,6 +54,9 @@ Your**Sims 3 keeps crashing** whenever you’re launching the game or in the mid
 
  2) Select**Repair Game** , and follow the on-screen instructions to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a73c0d605.jpg)
 
  3) Restart your router/modern, and restart your computer.
@@ -61,6 +67,9 @@ Your**Sims 3 keeps crashing** whenever you’re launching the game or in the mid
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Update your graphics card driver
 
  The missing or outdated graphics card driver can cause the Sims 3 crashing, so you should make sure your graphics card driver is up to date, and update it if it’s not.
@@ -93,6 +102,9 @@ Your**Sims 3 keeps crashing** whenever you’re launching the game or in the mid
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4: Set Sims 3 to the Windowed mode
 
  This method works for many users who have had the crashing issue. So you can change your Sims 3 to the Windowed mode to fix it. To do so, follow the steps below:
@@ -105,6 +117,9 @@ If you can access to the game settings:
 
  3) In the**Graphics** tab, uncheck**Enable Fullscreen Mode (** or select**Windowed Mode** in**Display Type** ).
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a8b273272.jpg)
 
 4) Save the changes.
@@ -125,6 +140,9 @@ If you can access to the game settings:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Update DirectX in your computer
 
  If you’re running the old DirectX feature in your computer, you should consider updating the DirectX in your computer to fix the Sims 3 keeps crashing issue.

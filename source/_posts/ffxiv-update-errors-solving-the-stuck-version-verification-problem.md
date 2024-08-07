@@ -1,7 +1,7 @@
 ---
 title: "FFXIV Update Errors: Solving the Stuck Version Verification Problem"
-date: 2024-08-06 11:44:20
-updated: 2024-08-07 10:33:41
+date: 2024-08-06T09:47:37.685Z
+updated: 2024-08-07T09:47:37.685Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/d3c14a87ffc38827c725ed8de3ccbe916ddb5eb1e
 
 ## Troubled with FFXIV Verification? Solve Your Version Check Dilemma Today
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-402.png)
 
  Seeing an error “**Unable to complete version check** ” on your Final Fantasy XIV game launcher? Don’t worry! You’re not the only person to experience it. A lot of FFXIV players have experienced this issue when booting their game launcher. Although this error is common, it’s still fixable…
@@ -27,6 +30,9 @@ thumbnail: https://thmb.techidaily.com/d3c14a87ffc38827c725ed8de3ccbe916ddb5eb1e
 2. **[Edit the Boot Configuration file](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update your device driver](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ### Fix 1: Check your Internet connection
 
  Checking Internet connection is the first thing you should try when you see the “**Unable to complete version check** ” error. There are a few things you can try:
@@ -55,6 +61,11 @@ Now launch your game and see if the error is gone.
 
  You can get a decent deal for the**NordVPN services** . Check out the **[NordVPN coupons](https://tools.techidaily.com/drivereasy/download/)**  here!
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd81b2168bf1.jpg)
 
  Once you set it up, use it to launch and update your FFXIV launcher. Hopefully it’s helpful for you to resolve your problem.
@@ -66,11 +77,18 @@ Now launch your game and see if the error is gone.
  You can adjust the version check setting to fix the “Unable to complete version check” error. Here is what and how you should adjust:
 
 1. Press the**Windows logo key** on your keyboard and type “notepad”, then select**Notepad** in the results.  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-447.png)
 2. Open**File Explorer** (by pressing the**Windows logo key** and**E** on your keyboard at the same time).
 3. Go to the following location (by copying the path below and pasting it to the address bar, then pressing**Enter** ):  
 %userprofile%DocumentsMy GamesFINAL FANTASY XIV - A Realm Reborn  
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-448.png)
 4. Open the**FFXIV\_BOOT.cfg** file with Notepad (click and drag it to the Notepad window).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-452.png)
@@ -81,6 +99,9 @@ Now launch your game and see if the error is gone.
 
 Hopefully it does. But if not, there is still one fix you can try…
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Update your device driver
 
  Perhaps you’re seeing the “Unable to complete version check” error because one of your device drivers is not working properly. You should update your device drivers to see if this helps you resolve your problem.

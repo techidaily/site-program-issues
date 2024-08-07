@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Resolving 'House Flipper 2' PC Freezing Issues"
-date: 2024-08-06 14:25:59
-updated: 2024-08-07 11:38:46
+date: 2024-08-06T09:47:16.513Z
+updated: 2024-08-07T09:47:16.513Z
 tags:
   - win11
   - win10
@@ -41,6 +41,9 @@ thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ### Fix 2: Avoid CPU overheating
 
  If your computer CPU is overheating, you’re likely to have the crashing issue in GTA 5, because your computer can’t work normally when being overheating, especially when it has to deal with the game running. So have a check on your computer and make sure it’s not overheating.
@@ -49,6 +52,9 @@ thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: Update graphics card driver
 
  A missing or outdated graphics driver can cause GTA 5 crashing in your Windows, so you can update your graphics card driver to fix the crashing.
@@ -66,6 +72,9 @@ thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click**Update** button next to the driver name to download the correct graphics card driver (you can do that with the**FREE** version), then install it on your computer.  
  Or click**Update All** to automatically download and install the correct version of all the problem drivers (you can do that with **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , and you will be prompted to upgrade when you click**Update All** ).  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 4. Restart your computer and launch GTA 5 to see if it works.
 
@@ -73,12 +82,19 @@ thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4: Set graphics settings to Normal
 
  The proper graphics settings in GTA 5 can optimize the performance and help run your game faster. To fix the crashing issues in your computer, you can try lowering the graphics settings in your game. Here’s what you need to do:
 
 1. Open GTA 5**Settings** .
 2. Click**Graphics** and scroll down.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba351a0e7086.jpg)
 3. Set these settings to**Normal** :  
 **Texture Quality**  
@@ -86,6 +102,9 @@ thumbnail: https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5
 **Shadow Quality**  
 **Reflection Quality**  
  **Grass Quality**  
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba3516a59b02.jpg)
 4. Save your settings and try GTA 5 again.
 

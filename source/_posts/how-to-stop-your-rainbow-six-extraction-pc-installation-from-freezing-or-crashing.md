@@ -1,7 +1,7 @@
 ---
 title: How to Stop Your Rainbow Six Extraction PC Installation From Freezing or Crashing
-date: 2024-08-06 17:38:43
-updated: 2024-08-07 11:23:36
+date: 2024-08-06T09:47:30.833Z
+updated: 2024-08-07T09:47:30.833Z
 tags:
   - win11
   - win10
@@ -39,6 +39,9 @@ If**Civilization 6 keeps crashing** on your PC, don’t worry. There are solutio
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2: Stop overclocking your CPU
 
  Overclocking means setting your CPU and memory to run at speeds higher than their official speed rate, and almost all processors ship with a speed rating. However, this may cause your game crashing or freezing. In that case, you should set your CPU clock speed rate back to the default to fix your issue.
@@ -79,6 +82,9 @@ OR
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or outdated on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-239.png)
 
  Note: You can do it for free if you like, but it’s partly manual.
@@ -89,6 +95,9 @@ Now launch CIV 6 and see if the crashing issue has been resolved.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ### Method 4: Use Medium or Low settings for your game
 
  Settings a high graphics effect for your game may crash your computer, so it’s always a go-to option to set the graphics options to Medium or Low.
@@ -99,6 +108,9 @@ Now launch CIV 6 and see if the crashing issue has been resolved.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 5: Disable DLC for CIV 6
 
  Usually the game developers release Downloadable Content (DLC) for players, which is additional content created for an already-released video game to have better experience.
@@ -109,6 +121,9 @@ Now launch CIV 6 and see if the crashing issue has been resolved.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 6: Turn off antivirus program for your game
 
  Running antivirus programs in your computer can cause your game crashing, as your antivirus program may detect your game program as virus or something, and antivirus program will try to stop your game from running.
@@ -123,6 +138,18 @@ Still no luck? Okay, there is one more thing to try.
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 7: Reinstall CIV 6
 
  If your problem still persists after troubleshooting the methods above, try reinstalling your game.
@@ -141,6 +168,9 @@ Here’s what you need to do:
 
  4) Click the**Local Files** tab, then click**Browser Local Files** to open the file location in**File Explorer** .
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-242.png)
 
  5) Click**Uninstall Game** , then follow the on-screen instructions to uninstall CIV 6.

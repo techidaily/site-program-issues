@@ -1,7 +1,7 @@
 ---
 title: No More Freezing Issues - Fix Your Fallout 4 on Windows
-date: 2024-08-06 19:46:57
-updated: 2024-08-07 11:46:29
+date: 2024-08-06T09:47:42.142Z
+updated: 2024-08-07T09:47:42.142Z
 tags:
   - win11
   - win10
@@ -64,6 +64,9 @@ Hard disk space: 30 GB free HDD space
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Update your video driver
 
  An old, corrupted or missing video driver on your system could also cause Fallout 4 to stutter. When you’re encountering Fallout 4 stuttering, we recommend**updating your video driver** for the best gaming experience.
@@ -89,6 +92,9 @@ Launch Fallout 4 to see if it runs smoothly.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Change the resolutions back to your monitor size
 
  You probably run Fallout 4 in the borderless mode, it’s great. But there’s one thing you should check after setting the borderless mode — change the resolutions back to your monitor size:
@@ -99,6 +105,9 @@ Launch Fallout 4 to see if it runs smoothly.
   
  Usually your system is set to the recommend resolution, if it’s not, set it to be.  
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95db0636cd2.jpg)
 
 #### Step 2: Change the resolutions in Fallout 4 back to your monitor size
@@ -106,12 +115,18 @@ Launch Fallout 4 to see if it runs smoothly.
 1. Launch Fallout 4 on your computer.
 2. On the launcher menu, click**Options** .
 3. Make sure the Resolutions is set to same as your monitor size, that is, the**recommended one** you check in Step 1.  
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95dd0aed0a5.png)
 
  Save your settings and log in Fallout 4 to run it and see if it runs smoothly.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4: Change your game mode and correct the resolutions by modifying your game file
 
  If the Fix 3 fails to help, you can try this method to change your game mode and correct the resolutions by modifying your game file.
@@ -152,6 +167,9 @@ Run Fallout 4 to see if it goes smoothly.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 6: Disable the V-sync feature
 
 **V-sync** (vertical sync) is the synchronization of your frame rate with the maximum refresh rat of the display being used. So being enabled, V-sync would**limits the frame rate** of your game. If the frame rates is low, everything displaying on Fallout 4 will slowdown. In this case, we recommend disabling the V-sync feature.

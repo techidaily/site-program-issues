@@ -1,7 +1,7 @@
 ---
 title: "Bust the Glitch: Effective Fixes When WWE 2K22 Keeps Disappearing on Windows/MacOS"
-date: 2024-08-04 20:25:10
-updated: 2024-08-07 11:13:13
+date: 2024-08-06T09:47:15.108Z
+updated: 2024-08-07T09:47:15.108Z
 tags:
   - win11
   - win10
@@ -28,6 +28,9 @@ Many**Tom Clancy’s Rainbow Six Siege** players are experiencing**crashing** is
 3. [**Perform a clean boot**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Disable SMT**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## Method 1: Close the programs that cause interference
 
  Your R6 Siege may be crashed by interference from some programs running in the background. They include utility programs provided by your hardware manufacturers that changes your components or system settings (MSI Afterburner or Corsair Utility Engine, for example). To see if that’s the case for you, close all those programs before you run your game. Then check to see if this is able to stop your crashing issue.
@@ -60,14 +63,23 @@ To do so:
 
 **2)** Type “**msconfig** ” and press**Enter** on your keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 
 **3)** Click the**Services** tab. Then check**Hide all Microsoft services** (**FIRST** ) and click**Disable all** . After that, click**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb19193a7d5.png)
 
 **4)** Click the**Startup** tab, then click**Open Task Manager** .
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3e91a6b28.png)
 
 **5)** Right click**each enabled Startup item** , then click**Disable** . After that, close Task Manager.
@@ -88,6 +100,9 @@ To do so:
 
 **10)** Click the**Services** tab. Check**Hide all Microsoft services** . Then**enable** **any** disabled service (by**selecting its checkbox** ) and click**OK** .
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3b3ebfca4.png)
 
 **11)** Click**Restart** .
@@ -100,6 +115,9 @@ To do so:
 
 **13)** Press the**Windows log key** and**R** on your keyboard. Then type “**msconfig** ” and press**Enter** on your keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb16efa1a4f.png)
 
 **14)** Click the**Startup** tab, then click**Open Task Manager** .
@@ -108,16 +126,25 @@ To do so:
 
 **15)** Right click**one** (only) **disabled Startup item** , then click**Enable** . After that, close Task Manager.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb439d112a8.jpg)
 
 **16)** Click OK and then click**Restart** .
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5abb3516e8887.png)
 
 **17)** Open your game and check to see if your game are able to run normally without any crashing issue. If not, repeat step**13 to 16**  until you find out the startup item that crashes your game.
 
  If there’s any startup item that crashes your game, you should see what program is this item related to. Then contact the vendor of this program or your system for advice, or use an alternative solution.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Method 4: Disable SMT
 
 **SMT** (Simultaneous MultiThreading) is a multi-threading technology released by AMD to improve performance of its Ryzen CPUs. However, SMT can bring about issues of unstability with some applications on your system. You should try disabling SMT to see if this can fix your Rainbow Six crashing issues. To disable SMT, you should enter your motherboard**BIOS** . Then find your**SMT** or**SMT mode** setting and set it to**disabled** .
