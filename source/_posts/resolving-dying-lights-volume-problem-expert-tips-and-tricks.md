@@ -1,0 +1,173 @@
+---
+title: "Resolving Dying Light's Volume Problem: Expert Tips and Tricks"
+date: 2024-08-13T13:25:21.476Z
+updated: 2024-08-14T13:25:21.476Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Resolving Dying Light's Volume Problem: Expert Tips and Tricks"
+excerpt: "This Article Describes Resolving Dying Light's Volume Problem: Expert Tips and Tricks"
+thumbnail: https://thmb.techidaily.com/bbe5738e0d8808e6028f714bcae487dd6fc59c5258568d2db4f80369dfe5ae67.jpg
+---
+
+## Beating Wrath of the Righteous Controller Glitches: Expert Tips and Tricks to Get Back in Action on Pathfinder
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/Pathfinder-Wrath-of-the-Righteous-Free-Download-1.jpg)
+
+ Pathfinder: Wrath of the Righteous has been the most hyped RPG game lately. But as a new release, it’s far from error-free. Many players have been reporting their**keyboard would randomly stop working in-game** . If you’re on the same boat, we’ve got a few working fixes for you.
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
+## Try these fixes…
+
+ You don’t have to try them all; just work your way down until you find the one that does the trick!
+
+[1: Check for hardware issues](https://tools.techidaily.com/drivereasy/download/)
+
+[2: Make sure no other devices are interfering](https://tools.techidaily.com/drivereasy/download/)
+
+[3: Delete Rewired_DirectInput.dll file](https://tools.techidaily.com/drivereasy/download/)
+
+[4: Update your keyboard driver](https://tools.techidaily.com/drivereasy/download/)
+
+## Fix 1: Check for hardware issues
+
+ When your keyboard stops working in-game, the first thing you can do is to rule out the possibility of a faulty device. Here are some general troubleshooting steps you can try:
+
+* **Make sure your keyboard isn’t out of battery** . Test your keyboard again when it’s fully charged.
+* If you’re using a wired keyboard,**re-plug the cable** and also**try another USB port** to see if the connection was loose.
+* For those using a wireless or Bluetooth keyboard, try**reconnecting your keyboard to your PC** .
+* **Test your keyboard with another PC** if possible. If your keyboard still won’t work, then it’s likely defective and may need a repair.
+
+If you didn’t find any hardware issues, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
+## Fix 2: Make sure no other devices are interfering
+
+ This fix is specifically for wireless or Bluetooth keyboard users. If you have a wired keyboard, jump to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
+
+ For wireless and Bluetooth keyboards, the radio interference issue could sometimes cause the keyboard to stop working. That said, other devices that use wireless connection could cause interference.
+
+ In fact, anything that may block the signal between your keyboard and your PC could cause problems, so make sure you check your desk carefully. For example, try moving your**wireless mouse, Wi-Fi router, or speaker** away from your keyboard then test the issue.
+
+ You may also like:[How to fix wireless keyboard lag?](https://tools.techidaily.com/drivereasy/download/)
+
+## Fix 3: Delete Rewired\_DirectInput.dll file
+
+ This fix was originally for solving the mouse-not-working problem, but some players found that it worked for keyboard issues too. The developers are working on the keyboard bug, and they suggest users to try this fix as a workaround. Here’s how:
+
+1. Open your Steam library and find Pathfinder: Wrath of the Righteous. Right-click the game and select**Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/Steam-right-click-Properties.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
+2. Under the**LOCAL FILES** tab, click**Browse** . It will open the local game folder for you.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/browse-local-files-in-steam-client.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+3. Navigate to**Wrath\_Data\\Plugins\\x86\_64** .
+4. **Make a copy of the Rewired\_DirectInput.dll file** , and save it at somewhere safe. There shouldn’t be any risk to delete this file, but backing up can always help if anything goes wrong.
+5. **Delete the Rewired\_DirectInput.dll file** .
+6. Relaunch the game and test the issue.
+
+ If this fix doesn’t solve your problem, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Fix 4: Update your keyboard driver
+
+ If your keyboard driver is outdated or faulty, it could cause compatibility issues so your keyboard could stop working in-game. You may want to make sure yours is up-to-date and functioning properly.
+
+ There are two ways you can get the right driver for your keyboard: manually or automatically.
+
+**Manual driver update** – You can update the keyboard driver via Device Manager. Just note that Windows doesn’t always have the latest available version of the driver you need. You may need to go to the manufacturer’s website, and search for the most recent correct driver. Be sure to choose only a driver that is compatible with your Windows version.
+
+**Automatic driver update** – If you don’t have the time, patience, or computer skills to update your keyboard driver manually, you can, instead, do it automatically with [Driver Easy](https://tools.techidaily.com/drivereasy/download/) . Driver Easy will automatically recognize your system and find the correct driver for you, then it will download and install the driver correctly:
+
+ 1) [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-19.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ 3) Click the **Update**  button next to the flagged keyboard driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-35.jpg)
+
+ The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+---
+
+ Hopefully this post is helpful! Please feel free to leave a comment down below if you have any questions or suggestions.
+
+* [games](https://tools.techidaily.com/drivereasy/download/)
+* [keyboard](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-the-essentials-to-record-save-and-refine-videography-on-adobe-connect/"><u>[New] The Essentials to Record, Save, & Refine Videography on Adobe Connect</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-turbulence-tamer-for-mobile-cinematography/"><u>[New] Turbulence Tamer for Mobile Cinematography</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-audio-guide-for-vloggers-for-2024/"><u>[Updated] Expert Audio Guide for Vloggers for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-approaches-to-healthcare-marketing-on-facebook/"><u>[Updated] Innovative Approaches to Healthcare Marketing on Facebook</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-into-the-virtual-vortex-mastering-techniques-of-gameplay-recording-for-2024/"><u>[Updated] Into the Virtual Vortex  Mastering Techniques of Gameplay Recording for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-outstanding-10-screenshot-and-recording-titles-for-gamers-for-2024/"><u>[Updated] Outstanding 10 Screenshot and Recording Titles for Gamers for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-path-to-precision-audio-starting-with-an-adobe-auditions-fade-in/"><u>[Updated] The Path to Precision Audio  Starting with an Adobe Audition's Fade In</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-bi-panel-screen-transcription/"><u>2024 Approved  Bi-Panel Screen Transcription</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-oppo-reno-10-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Oppo Reno 10 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/a-comprehensive-fix-it-workshop-addressing-total-war-saga-troy-pc-game-crashes/"><u>A Comprehensive Fix-It Workshop: Addressing Total War Saga: Troy PC Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000478166-black-screen-fix-guide-for-cyberpunk-2077-players-success-stories-inside/"><u>Black Screen Fix Guide for Cyberpunk 2077 Players - Success Stories Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-solution-for-update-failures-in-minecrafts-original-launcher-platform/"><u>Comprehensive Solution for Update Failures in Minecraft's Original Launcher Platform</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-fixes-overcoming-installation-hiccups-with-fighting-networks-tekken-8-on-desktop-computers/"><u>Easy Fixes: Overcoming Installation Hiccups with Fighting Network's Tekken 8 on Desktop Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-to-follow-tips-to-fix-crashing-glitches-while-playing-modern-warfare-3-on-windows-computers/"><u>Easy-to-Follow Tips to Fix Crashing Glitches While Playing Modern Warfare 3 on Windows Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/end-stray-application-crashes-6-proven-techniques-for-a-smooth-pc-experience/"><u>End Stray Application Crashes: 6 Proven Techniques for a Smooth PC Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tactics-for-getting-valorant-to-start-properly-on-your-computer/"><u>Expert Tactics for Getting Valorant to Start Properly on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fast-track-to-optimal-performance-in-assassins-creed-valhalla-no-more-delays/"><u>Fast Track to Optimal Performance in Assassin's Creed Valhalla - No More Delays</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-available-resolving-horizon-zero-dawn-pc-game-crash-issues/"><u>Fixes Available: Resolving Horizon Zero Dawn PC Game Crash Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-cold-war-game-crash-on-both-pc-and-console-comprehensive-troubleshooting-guide/"><u>Fixing the 'Cold War' Game Crash on Both PC and Console: Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-war-thunders-constant-crashes-proven-techniques-and-best-practices/"><u>Fixing War Thunder's Constant Crashes: Proven Techniques and Best Practices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-lengthy-loading-issues-in-star-wars-battlefront-ii-on-pc/"><u>How to Fix Lengthy Loading Issues in Star Wars: Battlefront II on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-cod-modern-warfare-error-6-issue-for-a-smooth-pc-gaming-experience/"><u>How to Resolve COD: Modern Warfare Error 6 Issue for a Smooth PC Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-restore-sync-on-your-steam-account-after-a-cloud-error/"><u>How to Restore Sync on Your Steam Account After a Cloud Error</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-motorola-moto-g84-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Motorola Moto G84 5G</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-crafting-visual-stories-quick-methods-to-design-snaps/"><u>In 2024, Crafting Visual Stories  Quick Methods to Design Snaps</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-realme-gt-neo-5-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Realme GT Neo 5 Through Google Earth?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-photo-perfection-at-your-fingertips-top-10-stickers-on-iphones-and-androids/"><u>In 2024, Photo Perfection at Your Fingertips  Top 10 Stickers on iPhones & Androids</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-syncing-soundscape-and-scene-editing-tips-for-canva-videographers/"><u>In 2024, Syncing Soundscape and Scene  Editing Tips for Canva Videographers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-art-of-overcoming-fifa-19-crashing-problems-on-your-pc-machine/"><u>Master the Art of Overcoming FIFA 19 Crashing Problems on Your PC Machine</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-art-of-preventing-counter-strike-2-pc-problems-comprehensive-troubleshooting-techniques/"><u>Master the Art of Preventing Counter-Strike 2 PC Problems - Comprehensive Troubleshooting Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-visual-glitches-the-errgraphicsstate-issue-in-red-dead-redemption-2/"><u>Overcoming Visual Glitches: The ERR_GRAPHICS_STATE Issue in Red Dead Redemption 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-baldurs-gate-3-top-6-strategies-to-tackle-excessive-cpu-demands-updated-guide/"><u>Resolving Baldur's Gate 3: Top 6 Strategies to Tackle Excessive CPU Demands - Updated Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/reviving-your-cortana-guided-steps-for-smooth-operation/"><u>Reviving Your Cortana: Guided Steps for Smooth Operation</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-motorola-moto-g73-5g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Motorola Moto G73 5G</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-battlenet-launch-problems-with-our-expert-2024-tips-and-solutions/"><u>Troubleshoot Battle.net Launch Problems with Our Expert 2024 Tips & Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-stop-modern-warfare-3-from-crashing-on-your-pc/"><u>Troubleshooting Guide: How to Stop Modern Warfare 3 From Crashing on Your PC</u></a></li>
+</ul></div>

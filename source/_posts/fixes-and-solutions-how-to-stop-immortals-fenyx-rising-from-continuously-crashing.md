@@ -1,0 +1,194 @@
+---
+title: "Fixes & Solutions: How to Stop Immortals: Fenyx Rising From Continuously Crashing"
+date: 2024-08-13T13:25:04.995Z
+updated: 2024-08-14T13:25:04.995Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Fixes & Solutions: How to Stop Immortals: Fenyx Rising From Continuously Crashing"
+excerpt: "This Article Describes Fixes & Solutions: How to Stop Immortals: Fenyx Rising From Continuously Crashing"
+thumbnail: https://thmb.techidaily.com/88d3ccdcb9182fe6ab85d78619b5ff79c9f842144c7f0589af82188a3ec75add.jpg
+---
+
+## Dealing with Immortals of Fenyx Rising Crashes – Solutions Inside
+
+After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title in 2020: Immortals Fenyx Rising. Though the engaging myths and puzzles make the game too fun to put down, many gamers have reported**game crashing issues** that stop them from exploring the open-world.
+
+ But don’t worry if you happen to be one of them. In this tutorial, we’ll guide you through some working fixes and help you get back to the Hall of the Gods asap.
+
+## Try these fixes
+
+ You might not need to try them all. Simply work your way down until you find the one that does the trick.
+
+1. [**Make sure your PC specs meet the requirements**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Verify the integrity of game files**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
+4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1: Make sure your PC specs meet the requirements
+
+ Before you try anything more advanced, first check your PC specs. Immortals Fenyx Rising is a demanding game, both to your skills and PC hardware. A decent setup is a must if you expect a smooth gaming experience. If you find your specs don’t meet the game requirements below, then maybe it’s time for an upgrade.
+
+#### Minimum specs for Immortals Fenyx Rising (720p/30FPS)
+
+| **Processor:**  | Intel Core i5-2400 / AMD FX-6300 |
+| --------------- | -------------------------------- |
+| **Video Card:** | GeForce GTX 660 / AMD R9 280X    |
+| **VRAM:**       | 2GB NVIDIA / 3GB AMD             |
+| **RAM:**        | 8GB (Dual-channel mode)          |
+| **OS:**         | Windows 7 (64-bit only)          |
+
+#### Recommended specs for Immortals Fenyx Rising (1080p/60FPS)
+
+| **Processor:**  | Intel Core i7-6700 / AMD Ryzen 7 1700 |
+| --------------- | ------------------------------------- |
+| **Video Card:** | GeForce GTX 1070 / AMD RX Vega 56     |
+| **VRAM:**       | 8GB                                   |
+| **RAM:**        | 16GB (Dual-channel mode)              |
+| **OS:**         | Windows 10 (64-bit only)              |
+
+ Though the game supports Windows 7, we always recommend**gaming on Windows 10** as it’s under active development.
+
+ If your rig is powerful enough for the game, check out the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
+### Fix 2: Verify the integrity of game files
+
+ The constant crashes could indicate**an integrity issue with your game files** . In that case, you can run some checking to repair the corrupt or missing files.
+
+Here’s how:
+
+1. Open your**Ubisoft Connect** client.
+2. Under the**Installed** section, click the picture of Immortals Fenyx Rising.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-1.jpg)
+3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
+
+ Once completed, launch Immortals Fenyx Rising and see if it crashes again.
+
+If this method doesn’t help, you can take a look at the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
+### Fix 3: Update your graphics driver
+
+ One of the most common causes of game crashes is that you’re using a**faulty or outdated graphics driver** .[According to some gamers](https://www.reddit.com/r/ubisoft/comments/k60g25/immortals%5Ffenyx%5Frising%5Fis%5Fvery%5Fpoorly%5Foptimized/) , updating the graphics driver can greatly improve the performance and stability of Immortals Fenyx Rising. So you should definitely**try updating your drivers** before attempting anything more complicated.
+
+ There’re mainly 2 ways you can update your graphics driver: manually or automatically.
+
+#### Option 1: Update your graphics driver manually
+
+ This might require a certain level of computer knowledge. To update your graphics driver manually, first visit the website of your graphics card manufacturer:
+
+* **[NVIDIA](https://tools.techidaily.com/drivereasy/download/)**
+* **[AMD](https://www.amd.com/en/support)**
+
+ Then search for your graphics card model. Be sure to download the latest correct driver that’s compatible with your operating system.
+
+#### Option 2: Update your graphics driver automatically (Recommended)
+
+ If you don’t have the time, patience or computer skills to update your video drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for your exact graphics card, and your Windows version, and it will download and install them correctly:
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ Once you’ve updated your graphics driver, restart your computer and see if Immortals Fenyx Rising crashes again.
+
+ If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 4: Install all Windows updates
+
+ Microsoft releases software updates and security patches periodically to fix operating system issues. We always recommend**keeping your system up to date** , as doing so would help you avoid tons of strange errors.
+
+And here’s how you can make sure your system is the latest:
+
+1. On your keyboard, press**Win+I** (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
+![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
+2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+ To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
+
+ Once you’ve installed all the system updates, do a reboot and test the gameplay in Immortals Fenyx Rising.
+
+---
+
+ Hopefully, these solutions helped fix your crashing issue with Immortals Fenyx Rising. And if you have any ideas or confusions, jot them down in the comment section and we’ll get back to you shortly.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-accelerated-steps-to-rearrange-youtube-music-ordering/"><u>[New] In 2024, Accelerated Steps to Rearrange YouTube Music Ordering</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-review-how-toolwiz-stacks-up-in-photo-app-landscape/"><u>[New] Review  How Toolwiz Stacks Up in Photo App Landscape</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1715860534420-new-screen-recording-through-built-in-features-of-huaweis-mate-and-p-devices-p20-p10/"><u>[New] Screen Recording Through Built-In Features of Huawei's Mate and P Devices (P20, P10).</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-infinix-note-30-pro-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Infinix Note 30 Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battlefield-official-fixes-overcoming-frame-rate-stutters-and-latency-issues-on-the-pc-platform/"><u>Battlefield # Official Fixes: Overcoming Frame Rate Stutters & Latency Issues on the PC Platform</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/canva-expertise-10-sneak-peek-tips-for-photo-editors-for-2024/"><u>Canva Expertise  10 Sneak Peek Tips for Photo Editors for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/connect-the-app-engine-url-back-in-the-google-apps-routines-interface-add-a-new-or-existing-action-then-enter-the-generated-app-engine-url-from-step-4-into-581/"><u>Connect the App Engine URL: Back in the Google App's Routines Interface, Add a New or Existing Action, Then Enter the Generated App Engine URL From Step 4 Into the URL Field. Save and Name Your Routine Accordingly</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ting-your-artistry-in-lyric-videos-through-lyric-video-maker-mastery/"><u>Elevating Your Artistry in Lyric Videos Through Lyric Video Maker Mastery</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-back-4-bloods-ue4-game-breaking-gobi-glitch-with-these-expert-fixes/"><u>Eliminate Back 4 Blood's UE4 Game-Breaking Gobi Glitch with These Expert Fixes</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/employee-training/"><u>Employee Training</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experienced-user-review-testing-the-5g-features-of-samsung-galaxy-note20-ultra/"><u>Experienced User Review: Testing the 5G Features of Samsung Galaxy Note20 Ultra</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-realme-narzo-60-5g-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Realme Narzo 60 5G? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-your-rainbow-six-extraction-pc-installation-from-freezing-or-crashing/"><u>How to Stop Your Rainbow Six Extraction PC Installation From Freezing or Crashing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Honor X7b? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maintain-a-consistently-professional-demeanor-when-dealing-with-difficult-or-dissatisfied-customers-demonstrating-empathy-while-providing-solutions-in-line-505/"><u>Maintain a Consistently Professional Demeanor when Dealing with Difficult or Dissatisfied Customers, Demonstrating Empathy While Providing Solutions in Line with Our Company Policies and Procedures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-fixes-for-sudden-fps-dips-in-pc-games/"><u>Mastering Stability: Fixes for Sudden FPS Dips in PC Games</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-troubleshooting-essential-solutions-for-arise-game-crashes-on-unreal-engine-5-platforms/"><u>Mastering Troubleshooting: Essential Solutions for Arise Game Crashes on Unreal Engine 5 Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-gameplay-disruptions-no-more-frozen-frames-in-warframe/"><u>Overcoming Gameplay Disruptions: No More Frozen Frames in Warframe</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-stability-issues-solving-darkest-dungeon-2-pc-game-crashes/"><u>Overcoming Stability Issues: Solving Darkest Dungeon 2 PC Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-pc-malfunction-in-elite-dangerous-tips-for-smooth-gaming-experience/"><u>Overcoming the PC Malfunction in Elite Dangerous - Tips for Smooth Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-issues-fixes-implemented-for-pathfinder-wrath-of-the-righteous-persistent-crash-problem/"><u>Resolved Issues: Fixes Implemented for 'Pathfinder: Wrath of the Righteous' Persistent Crash Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-no-ping-detected-in-halo-infinity-a-step-by-step-guide/"><u>Resolving 'No Ping Detected' In Halo Infinity - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/tackling-the-overuse-of-processor-resources-in-windows-sound-card-graphs/"><u>Tackling the Overuse of Processor Resources in Windows Sound Card Graphs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722988454128-the-elusive-rust-visual-flaw-is-finally-gone-find-out-how/"><u>The Elusive Rust Visual Flaw Is Finally Gone! Find Out How</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-vivo-y77t-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Vivo Y77t for Streaming | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723002065939-trouble-launching-call-of-duty-modern-warfare-2-here-are-solutions/"><u>Trouble Launching Call of Duty: Modern Warfare 2? Here Are Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722987995473-troubleshoot-your-apex-legends-network-issues-effective-solutions-revealed/"><u>Troubleshoot Your Apex Legends Network Issues - Effective Solutions Revealed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-directx-issues-in-battlefield-2042-a-step-by-step-guide/"><u>Troubleshooting DirectX Issues in Battlefield 2042 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-crash-issues-in-yakuza-nthe-song-of-life-for-windows-users/"><u>Troubleshooting Guide: Resolving Crash Issues in Yakuza nThe Song of Life for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-running-civilization-6-on-the-new-windows-11-os/"><u>Troubleshooting Steps for Running Civilization 6 on the New Windows 11 OS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-manor-lords-game-crashes-on-your-computer/"><u>Troubleshooting Tips: Resolving Manor Lords Game Crashes on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-no-more-frostpunk-crashing-frustrations/"><u>Ultimate Guide: No More Frostpunk Crashing Frustrations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/update-on-the-ascent-understanding-its-delayed-launch-scenario/"><u>Update on 'The Ascent': Understanding Its Delayed Launch Scenario</u></a></li>
+<li><a href="https://program-issues.techidaily.com/upgraded-system-requirements-why-you-need-a-stronger-cpu-for-vanguard/"><u>Upgraded System Requirements: Why You Need a Stronger CPU for Vanguard</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Vivo X100? | Dr.fone</u></a></li>
+</ul></div>

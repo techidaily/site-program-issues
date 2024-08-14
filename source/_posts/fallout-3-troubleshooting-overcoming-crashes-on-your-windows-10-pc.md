@@ -1,0 +1,247 @@
+---
+title: "Fallout 3 Troubleshooting: Overcoming Crashes on Your Windows 10 PC"
+date: 2024-08-13T13:21:57.604Z
+updated: 2024-08-14T13:21:57.604Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Fallout 3 Troubleshooting: Overcoming Crashes on Your Windows 10 PC"
+excerpt: "This Article Describes Fallout 3 Troubleshooting: Overcoming Crashes on Your Windows 10 PC"
+thumbnail: https://thmb.techidaily.com/7d8e5cb5df55d66e13eccb410da317e8e46922b45efc55e50a00217c7dbf8c3a.png
+---
+
+## Master the Art of Troubleshooting: Fixing Your Witcher N 3 PC Gaming Woes Today
+
+When you’re playing the Witcher 3: Wild Hunt, you suddenly encounter the crash to desktop with no error message, this can be frustrated. Don’t worry, you’re not the only one who is suffering from this hair-pulling crashing problem. This post will show you fixes to resolve it.
+
+ Before trying fixes, check whether you have met the minimum system requirements for the Witcher 3 and make sure you have**the latest game patch** .  
+ If you’re pretty sure about the specifications, you can jump to[fixes](https://tools.techidaily.com/drivereasy/download/) .
+
+**The Witcher 3** **Minimum System Requirements**
+
+| OS         | 64-bit Windows 7 or 64-bit Windows 8 (8.1)                |
+| ---------- | --------------------------------------------------------- |
+| Processor  | Intel CPU Core i5-2500K 3.3GHz / AMD CPU Phenom II X4 940 |
+| Memory     | 6 GB RAM                                                  |
+| Graphics   | Nvidia GPU GeForce GTX 660 / AMD GPU Radeon HD 7870       |
+| Hard Drive | 35 GB available space                                     |
+
+**The Witcher 3** **Recommended System Requirements**
+
+| OS         | 64-bit Windows 7 or 64-bit Windows 8 (8.1)                 |
+| ---------- | ---------------------------------------------------------- |
+| Processor  | Intel CPU Core i7 3770 3.4 GHz / AMD CPU AMD FX-8350 4 GHz |
+| Memory     | 8 GB RAM                                                   |
+| Graphics   | Nvidia GPU GeForce GTX 770 / AMD GPU Radeon R9 290         |
+| Hard Drive | 35 GB available space                                      |
+
+## Try these fixes
+
+ There’re 7 fixes that have helped many gamers solve their crash problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
+
+1. **[Uninstall the driver](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Verify integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Disable Vsync from the options](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Run the game in Full Screen and low settings](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Remove the frame rate cap](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Disable your third-party software](https://tools.techidaily.com/drivereasy/download/)**
+7. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1: Uninstall the driver
+
+ If you’re NVIDIA users and meet the issue, you can remove the driver completely and install the older version.
+
+1. Press the**Windows logo key + R** **key** together, type**devmgmt.msc** and click**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/device-manager.png)
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+2. Find NVIDIA driver and right-click on it. Click**Uninstall device** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/uninstall-1.jpg)
+3. Relaunch the game.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+### Fix 2: Verify integrity of game files
+
+ Verify integrity of game files is a simple but useful fix for Steam games. Broken and missing files can cause the 2crashing issue. This fix can redownload files to fix crashes.
+
+1. Run Steam.
+2. In the LIBRARY, find the Witcher 3 and right-click on the game, then click **Properties** .
+3. In the **LOCAL FILES** tab, click **Verify Integrity of Game Files** …  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify-2.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
+4. Close Steam and relaunch the Witcher 3\. You should be good to go.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
+### Fix 3: Disable Vsync from the options
+
+ Vsync is a display option in 3D computer games that allow the gamer to lower the frame rate and get a better stability. It is possible that the crash is caused by the Vsynec option, you can turn off Vsync setting and see if it resolves the crashing issue.
+
+1. Run the Witcher 3.
+2. Click**OPTIONS** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/option-1.jpg)
+3. Click**VIDEO** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/option1.jpg)
+4. Click**GRAPHICS** .
+5. Turn off the**VSync** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/vSync.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
+6. Relaunch the game and check the crash is resolved or not.
+
+### Fix 4: Run the game in Full Screen and low settings
+
+ Your computer overload may be one of the reasons for the Witcher 3 crash. You can simply reduce the game resolution to see whether the crash can be solved. There are users fix the crash by this simple fix.
+
+1. Run the Witcher 3.
+2. Click**OPTIONS** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/option-1.jpg)
+3. Click**VIDEO** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/option1.jpg)
+4. Click**GRAPHICS** .
+5. In the**Display Mode** , change the setting to the F**ull Screen** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/window.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
+6. Change other settings to**LOW** .
+7. Relaunch the game and check the crash is resolved or not.
+
+If this fix doesn’t help, you can move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
+### Fix 5: Remove the frame rate cap
+
+ The Witcher 3 crashing issue can be tied to the frame rate. When you enter the game, the loading time will be affected by the frame rate in the engine. If you uncap the frame rate, the game speed can be doubled and reduce the chance of crashing.
+
+1. Run the Witcher 3.
+2. Click**OPTIONS** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/option-1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
+3. Click**VIDEO** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/option1.jpg)
+4. Click**GRAPHICS** .
+5. Change**Maximum Frames Per Second** into**Unlimited** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/frames.jpg)
+6. Relaunch the game and check the crash is resolved or not.
+
+### Fix 6: Disable your third-party software
+
+ It is possible that some third-party software like Galaxy, NVIDIA GeForce and ASUS AI Suite II can interference the game and cause the Witcher 3 crashing on the desktop.  
+ To solve it, simply turning off all these software completely and play the game.
+
+ If there’s no crash, at least one of the software should be the reason for the crash. You can enable the third-party software one by one to find which one is the culprit.
+
+If the game is still crashing, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 7: Update your graphics driver
+
+ It is very important to update your graphics card drivers. Windows 10 doesn’t always give you the latest version. But with outdated or wrong drivers, your game may encounter a crash. So it’s really important to keep your drivers updating to get a good gaming experience.  
+ There are two ways to update your drivers:
+
+**[Option 1 – Manually](https://tools.techidaily.com/drivereasy/download/)**  – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
+
+OR
+
+**[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/fixed-the-witcher-3-pc-crash/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
+
+#### **Option 1 –** **Download and install the driver manually**
+
+ To get the latest driver, you need to go to the manufacturer website, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
+
+ Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
+
+#### **Option 2 – Automatically update video card drivers**
+
+ If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with Driver Easy.
+
+[Driver Easy](https://tools.techidaily.com/drivereasy/download/) will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the FREE or the [Pro version](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the [Pro version](https://tools.techidaily.com/drivereasy/download/) it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
+3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+4. Run the Witcher 3 and check the crash will appear or not.
+
+ We hope you find the above information helpful. And if you have any ideas, suggestions, or questions, feel free to leave a comment below.
+
+* [games](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-ideal-video-player-apps-for-windows-os-enthusiasts/"><u>[New] 2024 Approved  Ideal Video Player Apps for Windows OS Enthusiasts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-innovative-solutions-made-simple-using-ez-grabber/"><u>[Updated] 2024 Approved  Innovative Solutions Made Simple  Using EZ Grabber</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-record-speech-review-content/"><u>[Updated] 2024 Approved  Record Speech, Review Content</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-breakthroughs-in-ergonomic-office-design-for-high-efficiency/"><u>[Updated] Breakthroughs in Ergonomic Office Design for High Efficiency</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-low-cost-high-performance-capturing-adrenaline-in-motion/"><u>[Updated] Low-Cost, High-Performance  Capturing Adrenaline in Motion</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-skype-meetings-windowsos-x-record-for-2024/"><u>[Updated] Mastering Skype Meetings  Windows/OS X Record for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/2024s-top-tips-and-tricks-becoming-a-pro-at-roller-champions-pc-crossplay/"><u>2024'S Top Tips and Tricks: Becoming a Pro at Roller Champions PC Crossplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/accelerate-ubisoft-connect-downloads-proven-strategies-and-solutions/"><u>Accelerate Ubisoft Connect Downloads: Proven Strategies and Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-and-correcting-windows-compatibility-problems-with-battlenet-launcher/"><u>Addressing and Correcting Windows Compatibility Problems with Battle.net Launcher</u></a></li>
+<li><a href="https://program-issues.techidaily.com/escape-the-halted-load-essential-troubleshooting-tips-for-fixing-forza-horizon-5-issues/"><u>Escape the Halted Load: Essential Troubleshooting Tips for Fixing Forza Horizon 5 Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/google-meet-camera-error-heres-how-you-can-get-it-working-again/"><u>Google Meet Camera Error? Here’s How You Can Get It Working Again!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Motorola Razr 40 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-boosting-streams-switching-to-av1-in-youtubes-settings/"><u>In 2024, Boosting Streams  Switching to AV1 in YouTube's Settings</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-xiaomi-redmi-k70-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Xiaomi Redmi K70</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/in-2024-easy-tutorial-how-to-record-and-send-talking-emoji-for-iphone/"><u>In 2024, Easy Tutorial How to Record and Send Talking Emoji for iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-next-level-of-immersion-top-10-vr-gear/"><u>In 2024, The Next Level of Immersion (Top 10 VR Gear)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-xiaomi-redmi-12-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Xiaomi Redmi 12 5G FRP Without Computer</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/master-your-videos-success-with-leading-rank-monitors-for-2024/"><u>Master Your Video's Success with Leading Rank Monitors for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-art-of-troubleshooting-teardown-system-breakdowns-a-full-guide/"><u>Mastering the Art of Troubleshooting Teardown System Breakdowns: A Full Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-quiet-livestreams-twitch-volume-troubleshooting-guide/"><u>No More Quiet Livestreams: Twitch Volume Troubleshooting Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-hurdles-experience-la-noire-now-on-the-personal-computers/"><u>Overcoming Hurdles? Experience L.A. Noire Now on the Personal Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-roblox-launch-delays-a-step-by-step-guide/"><u>Overcoming Roblox Launch Delays: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rainbow-six-siege-on-pc-effective-fixes-for-when-youre-staring-at-a-blank-screen/"><u>Rainbow Six Siege on PC - Effective Fixes for When You're Staring at a Blank Screen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-your-dying-light-auditory-glitch-easily-with-our-troubleshooting-steps/"><u>Resolve Your Dying Light Auditory Glitch Easily with Our Troubleshooting Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-overcoming-compiling-shaders-issue-in-call-of-duty-black-ops-cold-war/"><u>Resolved: Overcoming 'Compiling Shaders' Issue in Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-vanguard-not-loaded-glitch-in-riots-popular-fps-game-valorant/"><u>Resolving 'Vanguard Not Loaded' Glitch in Riot's Popular FPS Game, Valorant</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-warzone-directx-error-in-just-four-simple-steps/"><u>Resolving Warzone DirectX Error in Just Four Simple Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rockstar-games-launcher-troubleshooting-guide-fixing-issues/"><u>Rockstar Games Launcher Troubleshooting Guide: Fixing Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stabilize-your-gaming-experience-expert-tips-for-resolving-state-of-decay-2-glitches/"><u>Stabilize Your Gaming Experience: Expert Tips for Resolving State of Decay 2 Glitches</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-fallout-n-freezing-issues-in-windows-11-gaming-pcs/"><u>Troubleshooting Fallout N' Freezing Issues in Windows 11 Gaming PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-improve-valheims-stuttering-and-freezing-on-pc/"><u>Troubleshooting Steps to Improve Valheim's Stuttering & Freezing on PC</u></a></li>
+<li><a href="https://techidaily.com/unlock-a-disable-iphone-6-plus-without-itunes-or-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 6 Plus without itunes or icloud</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-palm-2-googles-enhanced-ai-linguistic-powerhouse/"><u>Unveiling PaLM 2: Google's Enhanced AI Linguistic Powerhouse</u></a></li>
+<li><a href="https://program-issues.techidaily.com/warzones-black-screen-issue-top-strategies-for-troubleshooting-and-fixes/"><u>Warzone's Black Screen Issue: Top Strategies for Troubleshooting & Fixes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-8-plus-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From iPhone 8 Plus?</u></a></li>
+</ul></div>
