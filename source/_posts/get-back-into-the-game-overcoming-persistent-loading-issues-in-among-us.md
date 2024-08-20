@@ -1,0 +1,255 @@
+---
+title: "Get Back Into the Game: Overcoming Persistent Loading Issues in Among Us"
+date: 2024-08-19T16:50:10.917Z
+updated: 2024-08-20T16:50:10.917Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Get Back Into the Game: Overcoming Persistent Loading Issues in Among Us"
+excerpt: "This Article Describes Get Back Into the Game: Overcoming Persistent Loading Issues in Among Us"
+thumbnail: https://thmb.techidaily.com/a29b3ac6ca9f187aecdc1d4dbdad5d59450793de0cab9f35e7f80c9b2a8a933d.png
+---
+
+## Revive Your Gaming Experience: Top 7 Fixes for the Persistent Steam Black Screen Issue
+
+For game players, Steam is the window to the world of gaming. But there are situations in which **Steam is not working as it should be or it’s just showing a black screen** . Without access to your favorite games, you might be quite anxious. But don’t worry, in this article, you’ll definitely fix the issue by trying some methods.
+
+ Before performing any troubleshooting steps listed below, you should restart your computer. This action refreshes the operating system and removes any corrupt temporary data that could be causing the problem.
+
+## Try these fixes
+
+1. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Delete web browser cache](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Delete app cache](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Participate in the Steam Client beta](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Add –no-cef-sandbox in your Steam shortcut](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
+7. **[If your problem persists…](https://tools.techidaily.com/drivereasy/download/)**
+
+## Fix 1: Update your graphics driver
+
+ Using outdated drivers can affect performance. So we recommend checking for driver updates on a regular basis. If you do encounter the Steam black screen issue, updating your drivers especially the video card driver is a good step in troubleshooting.
+
+There are two ways you can update your video card drivers:
+
+[Option 1 – Manually](https://tools.techidaily.com/drivereasy/download/) – You’ll need some computer skills and patience to update your drivers this way because you need to find exactly the right driver online, download it and install it step by step.
+
+OR
+
+**[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/how-to-fix-steam-black-screen-or-not-working/#option2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks.
+
+### Option 1 – Manually update your drivers
+
+[NVIDIA](https://tools.techidaily.com/drivereasy/download/) and [AMD](https://www.amd.com/en/support) keep releasing driver updates. To get them, you need to go to the official websites, find the correct drivers, and download them manually.
+
+ Once you’ve downloaded the drivers, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
+### **Option 2 – Automatically update your drivers**
+
+ If you don’t have the time, patience, or computer skills to update drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running or risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-drivers-scan-now.jpg)
+
+ 3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
+
+**The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ After updating your drivers, restart your computer and open Steam client to check if the issue is fixed. If not, try the other fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Fix 2: Delete web browser cache
+
+ The Steam desktop client has a built-in browser that can show you details of a game. So users use it quite frequently. But the problem is, Steam doesn’t automatically clear its web browser cache. This would in turn cause Steam not to load properly. To fix it, you should clear the cache.
+
+Here’s how you can do this:
+
+ 1) Open your Steam client. From the menu bar, click Steam and select**Settings** .
+
+![delete web browser cache Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 2) From the left panel, click**Web Browser** . Then click**DELETE WEB BROWSER CACHE** . Once it’s done, click**DELETE ALL BROWSER COOKIES** . After it’s finished, simply click**OK** .  
+  
+![delete web browser cache Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-web-browser-cache-Steam.jpg)
+
+ Now your Steam client should be running as normal. If the black screen issue persists, you should[delete the app cache](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
+## Fix 3: Delete app cache
+
+ The app cache in your Steam directory stores various data about your Steam apps and setup essentially it remembers small details each time you open Steam ensuring that the next time you run Steam, things will work that little bit faster. However, things can go wrong with the cache. It can miss remembering things which may be a cause for Steam not loading properly. To fix this, try deleting the app cache folder. And you don’t need to worry because this will be recreated the next time you open Steam.
+
+ 1) On your keyboard, press the **Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and **E**  at the same time to open File Explorer.
+
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 2) Navigate to**Windows (C:) > Program Files (×86) > Steam** to go to the Steam directory.
+
+ 3) Copy and paste the**appcache folder** to a safe location just in case something goes wrong.
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/appcache-folder.jpg)
+
+ 4) Now you can**delete the appcache folder** in your Steam directory. Then try starting Steam again. If it works well, you can then go and delete the original backup appcache folder as a healthy new one will be created in its place.
+
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+## Fix 4: Participate in the Steam Client beta
+
+ Opting into the Steam Client Beta lets you use the latest features before they’re released. An update might help you fix the black screen issue.
+
+To participate in the Steam Client beta, follow the instructions below:
+
+ 1) With Steam running, click**Steam** in the upper left, then select**Settings** .
+
+![delete web browser cache Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+ 2) Select the**Account** tab. Under the**Beta Participation** section, click the**CHANGE…** button.  
+  
+![participate in Steam Client beta](https://images.drivereasy.com/wp-content/uploads/2020/10/participate-in-Steam-Client-beta-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
+ 3) Select the “Steam Beta Update” from the drop-down list and click “OK”.  
+ You will be prompted to restart Steam, please select the “Restart Steam” button.
+
+ After you’ve done this, try restarting Steam to see if the issue persists. If it didn’t do the trick for you, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
+## Fix 5: Add –no-cef-sandbox in your Steam shortcut
+
+ The command line argument**\-no-cef-sandbox** is exactly what you need if Steam is not loading properly. It would probably help you fix the issue by adding the argument in the shortcut. Here’s how you can do this:
+
+ 1) Exit Steam. From your desktop, right-click on the Steam shortcut and select**Properties** .  
+  
+![Steam Propertites](https://images.drivereasy.com/wp-content/uploads/2020/10/Steam-Properties.jpg)
+
+ 2) Click the**Shortcut** tab. In the**Target** section, type**\-no-cef-sandbox** at the end. Then click**Apply > OK** .  
+  
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/no-cef-sandbox.jpg)
+
+Now try opening Steam client to check if it works.
+
+## Fix 6: Reinstall Steam
+
+ If nothing works, there’s a quick way to reinstall it while keeping all your preferences and games intact. To do this, you can follow the steps below:
+
+ 1) Exit Steam.  
+ To make sure you completely exit Steam, open Task Manager and look for**Steam Client Service** and**Steam Client WebHelper** . Right-click on them and select**End task** .  
+  
+![End task Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/end-task.jpg)
+
+ 2) On your keyboard, press the **Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and **E**  at the same time to open File Explorer.
+
+ 3) Navigate to**Windows (C:) > Program Files (×86) > Steam** to go to the Steam directory.
+
+ 4) Delete everything except**steamapps** ,**userdata,** and**steam.exe** **(steam Application)** .
+
+ 5) Double-click**Steam.exe** and let it reinstall.
+
+## If your problem persists…
+
+ If reinstalling Steam doesn’t do the trick, you should give**repairing your PC** a shot. Program issues such as Steam not loading can be caused by corrupted system files. While running a scan of your PC can diagnose the problem you’re having and hopefully fix it. For that job, we recommend **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , a **100% legitimate** program that specializes in Windows repair. It automatically helps you find and fix different issues in Windows OS without losing any data.
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
+
+ 2) Start Fortect and it will run a FREE scan of your PC. Once the scan is finished, you’ll see a complete overview of your system and issues.
+
+ 3) Click **Start Repair** to start the repair process and wait for Fortect to fix the problem.
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
+---
+
+ To conclude, the Steam not loading properly or showing a black screen issue could be caused by outdated graphics drivers or corrupt app data. I hope you could fix it by trying the fixes in this article. If you have any questions or ideas, please leave us a comment below.?
+
+* [black screen](https://tools.techidaily.com/drivereasy/download/)
+* [Steam](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-optimal-environmental-film-tech-roundup/"><u>[New] 2024 Approved  Optimal Environmental Film Tech Roundup</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-learn-to-redefine-your-instagram-sound-with-ease/"><u>[New] In 2024, Learn to Redefine Your Instagram Sound with Ease</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-journey-into-virtual-realms-best-8-metaverse-visors-and-goggles/"><u>[New] Journey Into Virtual Realms  Best 8 Metaverse Visors & Goggles</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unleashing-hidden-media-from-your-connected-friends-for-2024/"><u>[New] Unleashing Hidden Media From Your Connected Friends for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banishing-disruptions-essential-strategies-for-tackling-new-world-network-hiccups/"><u>Banishing Disruptions: Essential Strategies for Tackling New World Network Hiccups</u></a></li>
+<li><a href="https://program-issues.techidaily.com/detecting-and-repairing-top-10-tips-to-resolve-invisible-steam-vr-setup-problems/"><u>Detecting and Repairing: Top 10 Tips to Resolve Invisible Steam VR Setup Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elden-ring-release-delayed-what-fans-need-to-know/"><u>Elden Ring Release Delayed: What Fans Need to Know</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-troubleshooting-steps-when-borderlands-3-wont-open/"><u>Essential Troubleshooting Steps When Borderlands 3 Won't Open</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-fixing-error-3-0x0001000b-on-rainbow-six-siege-a-step-by-step-approach/"><u>Expert Tips for Fixing Error 3-0X0001000B on Rainbow Six Siege: A Step-by-Step Approach</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fall-guys-optimization-guide-how-to-achieve-higher-fps-and-reduce-game-latency/"><u>Fall Guys Optimization Guide: How to Achieve Higher FPS & Reduce Game Latency</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/firmware-adjustment-mf4770n-windows-compatibility/"><u>Firmware Adjustment: MF4770n Windows Compatibility</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-back-to-the-basics-with-these-fixes-for-a-broken-start-button-on-windows/"><u>Get Back to the Basics with These Fixes for a Broken Start Button on Windows</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-oppo-f25-pro-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Oppo F25 Pro 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-unexpected-crashes-resolving-ghost-runners-windows-10-glitches-successfully/"><u>Overcoming Unexpected Crashes: Resolving Ghost Runner's Windows 10 Glitches Successfully</u></a></li>
+<li><a href="https://program-issues.techidaily.com/practices-like-crop-rotation-intercropping-organic-amendments-and-biological-pest-control-decrease-reliance-on-chemical-fertilizers-and-pesticides-while-pro446/"><u>Practices Like Crop Rotation, Intercropping, Organic Amendments, and Biological Pest Control Decrease Reliance on Chemical Fertilizers and Pesticides While Promoting Natural Soil Fertility and Plant Health</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/prevent-social-discomfort-block-options-for-2024/"><u>Prevent Social Discomfort  Block Options for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/restore-functionality-with-reinstalled-atheros-drivers/"><u>Restore Functionality with Reinstalled Atheros Drivers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/silent-livestream-issues-heres-why-and-how-to-fix-them-on-twitch/"><u>Silent Livestream Issues? Here's Why and How to Fix Them on Twitch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-your-logitech-device-problems-optimizing-options-in-windows/"><u>Solve Your Logitech Device Problems - Optimizing Options in Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/startech-hardware-and-software-troubleshooting-windows-1ndriver-issues-on-various-os-versions/"><u>StarTech Hardware & Software: Troubleshooting Windows 1nDriver Issues on Various OS Versions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-tutorial-improving-stability-and-eliminating-crashes-in-pcs-guilty-gear-strive/"><u>Step-by-Step Tutorial: Improving Stability and Eliminating Crashes in PC's Guilty Gear Strive</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-pc-content-warnings-from-crashing-a-step-by-step-fix-guide/"><u>Stop PC Content Warnings From Crashing – A Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-complete-overcoming-lag-in-the-elder-scrolls-onlines-blackwood-area/"><u>Troubleshooting Complete: Overcoming Lag in The Elder Scrolls Online's Blackwood Area</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-dolby-atmos-playback-problems-in-windows-11-and-10/"><u>Troubleshooting Dolby Atmos Playback Problems in Windows 11 and 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-football-manager-2021-pc-bugs-comprehensive-solutions-to-stop-game-crashes/"><u>Troubleshooting Football Manager 2021 PC Bugs - Comprehensive Solutions to Stop Game Crashes.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-non-responsive-windows-11-taskbar-problems/"><u>Troubleshooting Guide: Resolving Non-Responsive Windows 11 Taskbar Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722987813185-troubleshooting-lost-ark-on-your-computer-no-more-unwanted-shutdowns/"><u>Troubleshooting Lost Ark on Your Computer: No More Unwanted Shutdowns</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-when-astro-a50-headset-wont-connect-to-the-control-panel/"><u>Troubleshooting Steps for When Astro A50 Headset Won't Connect to the Control Panel</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-fixing-discord-lags/"><u>Ultimate Troubleshooting: Fixing Discord Lags</u></a></li>
+<li><a href="https://fox-that.techidaily.com/uncovering-aqua-alerts-a-guide-to-the-9-most-common-signs-of-your-iphones-watery-woes/"><u>Uncovering Aqua Alerts: A Guide to the 9 Most Common Signs of Your iPhone's Watery Woes</u></a></li>
+</ul></div>

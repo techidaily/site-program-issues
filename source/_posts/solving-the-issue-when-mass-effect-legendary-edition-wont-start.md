@@ -1,0 +1,220 @@
+---
+title: Solving The Issue When Mass Effect Legendary Edition Won't Start
+date: 2024-08-19T16:44:56.854Z
+updated: 2024-08-20T16:44:56.854Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Solving The Issue When Mass Effect Legendary Edition Won't Start
+excerpt: This Article Describes Solving The Issue When Mass Effect Legendary Edition Won't Start
+thumbnail: https://thmb.techidaily.com/c41c3d9bbfec49291e9196cc3e72df37d6e282bd9d98e3aaf4362ec3bb162d5f.jpg
+---
+
+## Solution Found! Stop Those Persistent PC Crashes in the Latest Gaming Sensation
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-featured.jpg)
+
+ New World, one of the most anticipated blockbusters, is finally out. But when gamers try to get lost in this brand new MMO, they find themselves facing**constant crashes at startup or in-game** . Sometimes it prompts a Fatal Error, but in most cases there wasn’t any warning at all.
+
+ If you happen to be one of them, don’t worry. Here’re some working fixes that could bring back your game without frying your graphics card.
+
+## Try these fixes
+
+ You might not need to try them all. Simply work your way down until you find the one that does the charm.
+
+1. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
+2. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Make sure your system is up to date**](https://tools.techidaily.com/drivereasy/download/)
+4. [**Change in-game graphics settings**](https://tools.techidaily.com/drivereasy/download/)
+5. [**Increase your virtual memory**](https://tools.techidaily.com/drivereasy/download/)
+6. **[Delete specific game files](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1: Verify the integrity of game files
+
+ AAA titles tend to be large, and they’re likely to crash when there’re missing or corrupted game files. To make sure the data is intact and up to date, you need to**verify the integrity of your game files** .
+
+1. Open your Steam client and go to**LIBRARY** . Right click **New World** and select **Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-3.jpg)
+2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
+3. Allow the checking to complete. Then you can start New World and see if it crashes again.
+
+If the problem persists, take a look at the next fix below.
+
+### Fix 2: Update your graphics driver
+
+ The constant crashes might indicate a driver issue. In other words, you might be using**a faulty or outdated graphics driver** . You should always keep your driver up to date for the best in-game performance. And this is especially the case when you are dealing with new titles like New World.
+
+ Prior to the release date, both NVIDIA and AMD have published the**New World compatible GPU driver** . See below for update instructions.
+
+ You can update your graphics driver manually, by visiting the manufacturer’s website ([NVIDIA](https://tools.techidaily.com/drivereasy/download/) /[AMD](https://www.amd.com/en/support) ), finding the latest correct installer and installing step-by-step. But if you don’t have the time or patience to install manually, you can do that automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
+3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ After updating your drivers, restart your PC and test the gameplay in New World.
+
+ If the latest graphics driver doesn’t give you luck, go ahead and try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 3: Make sure your system is up to date
+
+ Besides drivers, it’s also important you keep Windows up to date. The latest system updates offer bug fixes and sometimes a performance boost, which might make a difference in fixing the crashing issue.
+
+Here’s how you can check for updates manually:
+
+1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
+2. Scroll down and select**Update & Security** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
+3. Click**Windows Update** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
+4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
+ To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
+
+ Once you’ve installed all the updates, restart your PC and check if New World crashes again.
+
+If your system is already up to date, you can try the next method.
+
+### Fix 4: Change in-game graphics settings
+
+ Some players reported that turning off certain graphics settings might be the cure for the crash. You can try the same and see how things go:
+
+1. Open New World. On the top right corner, click the**gear icon** to open settings.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-1.jpg)
+2. In the left pane, select**Visuals** . Then set**Object details** to**High** or lower.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Now you can play and check if the crash stops.
+
+ If changing graphics settings doesn’t give you luck, continue to the next fix below.
+
+### Fix 5: Increase your virtual memory
+
+ New World recommend 16GB RAM so you better check if you meets this requirement. There’re already reports showing that the game might crash if your PC runs out of memory. If that’s your case, you can try to increase your virtual memory:
+
+1. On your keyboard, press the **Windows logo key** and type **advanced system settings** . Click **View advanced system settings** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/search-advanced-system-settings.jpg)
+2. Under the **Performance**  section, click **Settings…** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
+3. In the pop-up window, navigate to the **Advanced**  tab. Under the **Virtual memory** section, click **Change…** .  
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
+4. Deselect the **Automatically manage paging file size for all drives** checkbox. Then select **Customize size** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/vritual-memory-set.jpg)
+5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
+6. Restart your computer and check if New World crashes again.
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ If this trick doesn’t do the trick for you, take a look at the next solution.
+
+### Fix 6: Delete specific game files
+
+ According to some players, one possible fix to the crash is to delete certain game files. If you have tried all the fixes above and none seemed to work, you can try this method and test the result.
+
+ You should always back up the files before deleting in case things go south.
+
+1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**%appdata%** and click**OK** .  
+![how to clean uninstall Discord](https://images.drivereasy.com/wp-content/uploads/2021/07/appdata.jpg)
+2. Go to**AGS > New World** and delete the following:  
+   * The**savedata** folder  
+   * The**user\_preload\_settings** file
+3. Now you can restart New World and see if the game crashes again.
+
+---
+
+ Hopefully this post helps you stop New World from crashing. If you have any ideas or questions, feel free to leave a comment and we’ll get back to you.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-ensuring-authenticity-as-you-aspire-for-one-million-video-watches/"><u>[New] In 2024, Ensuring Authenticity as You Aspire for One Million Video Watches</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-mastering-insta-photo-watermarks-a-step-by-step-guide/"><u>[New] In 2024, Mastering Insta Photo Watermarks  A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-superior-5-web-video-capture-kits/"><u>[Updated] 2024 Approved  Superior 5 Web Video Capture Kits</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-reimagine-the-way-you-take-notes-with-mematic/"><u>[Updated] Reimagine the Way You Take Notes with Mematic</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-top-7-camcorders-for-extreme-weather-and-splashes-review/"><u>[Updated] Top 7 Camcorders for Extreme Weather and Splashes Review</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-keywords-in-the-realm-of-virtual-reality/"><u>2024 Approved  Keywords in the Realm of Virtual Reality</u></a></li>
+<li><a href="https://program-issues.techidaily.com/causes-and-fixes-high-ping-lags-and-dips-in-fps-during-call-of-duty-black-ops-4/"><u>Causes & Fixes: High Ping, Lags & Dips in FPS During Call of Duty: Black Ops 4</u></a></li>
+<li><a href="https://article-posts.techidaily.com/cosmic-comforts-top-10-starry-night-accessories-for-sj4000/"><u>Cosmic Comforts  Top 10 Starry Night Accessories for SJ4000</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-techniques-for-overcoming-graphics-library-malfunctions/"><u>Effective Techniques for Overcoming Graphics Library Malfunctions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-ways-of-overcoming-packet-loss-troubles-on-discord-platform/"><u>Effective Ways of Overcoming Packet Loss Troubles on Discord Platform</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-pc-hiccups-comprehensive-troubleshooting-steps-for-a-smooth-experience-with-modern-warfare-ii/"><u>Eliminating PC Hiccups: Comprehensive Troubleshooting Steps for a Smooth Experience with Modern Warfare II</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-guides-and-steps-to-resolve-continuous-crashes-in-resident-evil-4-remake/"><u>Essential Guides & Steps To Resolve Continuous Crashes In Resident Evil 4 Remake</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-update-how-to-stop-psychonauts-2-from-crashing-on-windows/"><u>Fixes Update: How to Stop Psychonauts 2 From Crashing on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/from-quietude-to-conquest-correcting-audio-failures-in-your-epic-skyrim-adventure/"><u>From Quietude to Conquest: Correcting Audio Failures in Your Epic Skyrim Adventure</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000685753-geforce-experience-crashes-heres-your-step-by-step-fix/"><u>GeForce Experience Crashes? Here’s Your Step-by-Step Fix!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-ensure-consistent-fps-in-your-games-troubleshooting-guide/"><u>How To Ensure Consistent FPS in Your Games - Troubleshooting Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-new-world-low-fps-and-stuttering/"><u>How To Fix New World Low FPS And Stuttering</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-repair-corsair-icue-pairing-problems-in-windows-10-or-11-a-comprehensive-guide/"><u>How to Repair Corsair iCUE Pairing Problems in Windows 10 or 11 - A Comprehensive Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-iphone-6-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From iPhone 6 without Password?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-zoom-performance-fixes-for-crashes-on-windows-11-and-windows-10-latest-update/"><u>Mastering Zoom Performance: Fixes for Crashes on Windows 11 and Windows 10 (Latest Update)</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-convert-4k-videos-to-mp4-a-step-by-step-guide-to-easy-downloads-for-2024/"><u>New Convert 4K Videos to MP4 A Step-by-Step Guide to Easy Downloads for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-your-email-woes-how-to-get-outlook-connected-again/"><u>Overcome Your Email Woes: How to Get Outlook Connected Again</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/premium-mp4-uploader-for-fb-networks/"><u>Premium MP4 Uploader for FB Networks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-for-getting-steamvr-back-on-track/"><u>Quick Solutions for Getting SteamVR Back on Track</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-fifa-22-pc-game-freezing-issues/"><u>Resolved: Fixes for FIFA 22 PC Game Freezing Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-engine-problems-in-apex-legends-expert-tips-and-solutions/"><u>Resolving Engine Problems in Apex Legends - Expert Tips & Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-issues-with-the-manor-lords-game-crashing-in-windows/"><u>Resolving Issues with the Manor Lords Game Crashing in Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/simple-steps-correcting-discords-js-errors-effortlessly/"><u>Simple Steps: Correcting Discord's JS Errors Effortlessly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-multiversus-stability-issues-learn-how-with-our-8-proven-strategies/"><u>Solving MultiVersus Stability Issues: Learn How with Our 8 Proven Strategies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-essential-checklist-purging-backdrops-with-affinity-photo-for-2024/"><u>The Essential Checklist  Purging Backdrops with Affinity Photo for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-black-ops-cold-war-error-code-0xc0000005/"><u>Troubleshooting Guide: Fixing Black Ops Cold War Error Code 0xC0000005</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-why-fifa-21-wont-start-up/"><u>Troubleshooting Guide: Why FIFA 21 Won't Start Up</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-your-nvidia-shadowplay-isnt-responding/"><u>Troubleshooting Steps When Your Nvidia ShadowPlay Isn’t Responding</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-stop-dead-by-daylight-game-crashes-now/"><u>Troubleshooting Tips: Stop Dead By Daylight Game Crashes Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-why-is-my-vrchat-experience-broken-solutions-inside/"><u>Troubleshooting: Why Is My VRChat Experience Broken? Solutions Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004702641-why-isnt-diablo-iii-playing-find-out-how-to-fix-it/"><u>Why Isn't Diablo III Playing? Find Out How to Fix It!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/yakuza-like-a-dragon-pc-version-unleash-your-inner-samurai/"><u>Yakuza Like a Dragon PC Version - Unleash Your Inner Samurai</u></a></li>
+</ul></div>

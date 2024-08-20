@@ -1,0 +1,227 @@
+---
+title: "How to Stop Dragon Age: Origins From Crashing on Your Windows 11 PC – Troubleshooting Guide"
+date: 2024-08-19T16:51:00.585Z
+updated: 2024-08-20T16:51:00.585Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes How to Stop Dragon Age: Origins From Crashing on Your Windows 11 PC – Troubleshooting Guide"
+excerpt: "This Article Describes How to Stop Dragon Age: Origins From Crashing on Your Windows 11 PC – Troubleshooting Guide"
+thumbnail: https://thmb.techidaily.com/1fe7ff1c6ccc0ab7bc1dc02b033d67aea4e7d6e05ae451c6e295e56be2a3c200.jpg
+---
+
+## Effortless Troubleshooting: Stop WWE 2K20 From Crashing on Your PC
+
+**WWE 2K20 keeps crashing on your PC** ? This is an issue that has been plaguing WWE 2K lovers since its launch. Luckily, there are some fixes you can try to troubleshoot the problem…
+
+## How to fix WWE 2K20 Crash
+
+ You may not have to try all the fixes; just work your way down the list until you find the one that works for you.
+
+1. **[Install the latest patch](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Run WWE 2K20 as administrator](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Verify game integrity](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Disable your antivirus program](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Run WWE 2K20 on the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1: Install the latest patch
+
+ In order to fix the plethora of bugs and glitches players have bumped into, 2K keeps releasing patches. It is possible that new releases include patches for the WWE 2K20 crashing problem. So it’s recommended that you install the new patches to see if it fixes the issue.
+
+ To check if there is a new patch, go to **[2K Official Support Page](https://support.2k.com/hc/en-us/categories/200108363-WWE-2K) [](https://patches.bethsoft.com/)**  and search for the latest update**.**  If a patch is available, install it, then run your game again to check whether the crashing problem is resolved. If yes, then great! If the crashing issue persists, please try**Fix 2** , below.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
+### Fix 2: Run WWE 2K20 as administrator
+
+ In some cases, WWE 2K20 won’t run properly because it is not granted the necessary access to running the game. To make sure your game does not crash because of insufficient rights, you should run it as administrator.
+
+Here is how to do it:
+
+ 1) On your desktop, locate**WWE 2K20** , then right-click on**WWE 2K20** and click**Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-14.png)
+
+ 2) Click the**Compatibility** tab, tick**the box** for**Run this program as an administrator** and click**OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-17.png)
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
+ 3) Play the game again to see if the game runs smoothly. If yes, then great! If the crashing issue still occurs, please move on to**Fix 3** , below.
+
+---
+
+### Fix 3: Verify game integrity
+
+ You may encounter this issue if some files of your game installation are corrupt or have been deleted as a false positive by antivirus programs. If this is the case, you should verify the integrity of game files to see if it can fix the issue.
+
+ 1) Open the Steam client and navigate to **the LIBRARY tab** , then **right-click** on WWE 2K20 and select **Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-119.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<!-- affiliate ads end -->
+ 2) Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/Steam-verify-the-game-file-2.jpg)
+
+ 3) Launch WWE 2K20 again after you verify the integrity of the game files. If this issue persists, please try**Fix 4** , below.
+
+---
+
+### Fix 4: Update your graphics driver
+
+ Your **WWE 2K20 crash**  problem is probably being caused by driver issues. The steps above may resolve it, but if they don’t, or you don’t have the time, patience or computer skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.**Driver Easy handles it all.**
+
+ You can update your drivers automatically with either the[**FREE**](https://tools.techidaily.com/drivereasy/download/) or the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
+
+ 3) Click the **Update**  button next to a flagged graphics river to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+4) Restart your computer for the changes to take effect.
+
+5) Run the game again to see if the crashing issue is solved. If yes, then congrats! If it still crashes, please try**Fix 5** , below.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 5: Disable your antivirus program
+
+ Running WWE 2K20 consumes lots of memory and CPU usage, so it’s possible that your antivirus program may detect it as some sort of threat and prevent it from running smoothly. So you might need to disable your antivirus temporarily and check if the crashing issue persists.
+
+ If the antivirus program is the cause of the problem, you can add WWE 2K20 to the program’s list of exclusions to bypass the issue.
+
+ Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
+
+WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
+🎬 Nero Video:
+The powerful video editing program for your Windows PC</a>
+<!-- affiliate ads end -->
+### Fix 6: Run WWE 2K20 on the dedicated graphics card
+
+ Your gaming PC may have a graphics chip as well as a graphics card with dedicated memory in it. If this is the case, you should make sure games run on the graphics card to see if the crashing problem can be mitigated.
+
+ Here are the steps on how to set your game to run on Nvidia graphics card:
+
+ The steps on how to run WWE 2K20 on Intel and AMD graphics cards are similar. You can follow the steps below for reference.
+
+ 1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
+
+ 3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 4) In the window that opens, choose**WWE2K20\_x64** , then click**Add Selected Program** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-11.png)
+
+ 5) In**Select the preferred graphics processor for this program** , select**High-performance NVIDIA processor** . Then click**Apply** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-13.png)
+
+6) Launch WWE 2K20 and check to see if the crashing issue is fixed.
+
+---
+
+ Hopefully the article has pointed you in the right direction in resolving the**WWE 2K20 crash** issue. If you have any questions, ideas or suggestions, please let me know in the comments. Thanks for reading!
+
+* [games](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-enhance-your-presentations-with-aiseesofts-screencast-tools/"><u>[Updated] Enhance Your Presentations with Aiseesoft's Screencast Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-earning-potential-steps-to-join-the-youtube-premium-club/"><u>[Updated] In 2024, Earning Potential  Steps to Join the YouTube Premium Club</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-mastering-visual-clarity-for-remote-communications-with-ease-for-2024/"><u>[Updated] Mastering Visual Clarity for Remote Communications with Ease for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-premier-game-recorder-picks-excluding-the-mainstream-one-for-2024/"><u>[Updated] Premier Game Recorder Picks Excluding the Mainstream One for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-black-screen-nightmare-effective-fixes-for-destiny-2-players/"><u>Beat the BLACK SCREEN Nightmare: Effective Fixes for Destiny 2 Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elevated-requirements-alert-is-your-processor-compatible-with-vanguards-updated-system-demands/"><u>Elevated Requirements Alert! Is Your Processor Compatible with Vanguard's Updated System Demands?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-startup-crashes-optimizing-your-system-for-a-smooth-far-cry-6-experience/"><u>Eliminating Startup Crashes: Optimizing Your System for a Smooth Far Cry 6 Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fallout-n-forge-a-flawless-gaming-experience-tips-to-stop-your-pc-crashing-mid-game/"><u>Fallout N' Forge a Flawless Gaming Experience - Tips To Stop Your PC Crashing Mid-Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-for-persistent-freezing-in-final-fantasy-xv-pc-version/"><u>Fixes and Solutions for Persistent Freezing in Final Fantasy XV PC Version</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-davinci-resolve-failure-to-launch-in-windows-environment/"><u>Fixing the Issue: DaVinci Resolve Failure to Launch in Windows Environment</u></a></li>
+<li><a href="https://program-issues.techidaily.com/forza-horizon-navigate-2024-launch-hurdles-with-these-essential-tips-and-tricks/"><u>Forza Horizon Navigate 2024 Launch Hurdles with These Essential Tips & Tricks</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-behringer-usb-driver-now-exclusive-installer-links-available-here/"><u>Get Your Behringer USB Driver Now! Exclusive Installer Links Available Here</u></a></li>
+<li><a href="https://program-issues.techidaily.com/haley-ba-et-al-nd-glyphosate-occurrence-and-potential-impacts-on-surface-water-ecosystems-a-review-retrieved-from-httpswwwusgsgovspecial-topicwater-science-570/"><u>Haley BA., Et Al (N.d.). Glyphosate Occurrence and Potential Impacts on Surface Water Ecosystems: A Review. Retrieved From https://www.usgs.gov/special-topic/water-science-school/science/glyphosate-occurrence-and-potential-impacts-surface</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-samsung-galaxy-a15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-and-solve-dragon-age-origins-problems-with-windows-11-compatibility/"><u>How to Prevent and Solve Dragon Age: Origins Problems with Windows 11 Compatibility</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c210-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Nokia C210 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-expert-obs-tutorial-for-effective-skype-recording/"><u>In 2024, Expert OBS Tutorial for Effective Skype Recording</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-samsung-galaxy-s21-fe-5g-2023-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Samsung Galaxy S21 FE 5G (2023) Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-gaming-speeds-resolve-lag-and-stuttering-issues-in-the-latest-game-releases/"><u>Master Gaming Speeds: Resolve Lag and Stuttering Issues in the Latest Game Releases</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-in-2024-how-to-make-a-talking-ai-avatar-from-photos-easy-guide/"><u>New In 2024, How to Make a Talking AI Avatar From Photos Easy Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-gaming-experience-tackling-reduced-frames-per-second-in-farming-simulator-22-pc/"><u>Optimizing Gaming Experience: Tackling Reduced Frames per Second in Farming Simulator 22 (PC)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-obstacles-in-overwatch-2-your-comprehensive-guide-to-fixing-pc-crashes/"><u>Overcoming Obstacles in Overwatch 2 - Your Comprehensive Guide to Fixing PC Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/reducing-high-cpu-consumption-issues-while-playing-phasmophobia/"><u>Reducing High CPU Consumption Issues While Playing Phasmophobia</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resurrecting-sluggish-rust-code-master-techniques-to-get-back-on-track/"><u>Resurrecting Sluggish Rust Code? Master Techniques to Get Back On Track</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-clearing-up-fuzzy-graphics-in-outriders/"><u>Solved! Clearing Up Fuzzy Graphics in Outriders</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-frame-rate-issues-in-cs2-a-guide-to-boost-your-pcs-performance/"><u>Solving Frame Rate Issues in CS2: A Guide to Boost Your PC's Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steam-error-resolved-ensuring-easy-anti-cheat-is-installed-correctly-to-avoid-game-launch-issues/"><u>Steam Error Resolved: Ensuring Easy Anti-Cheat Is Installed Correctly to Avoid Game Launch Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-eliminating-the-opaque-screen-glitch-in-star-wars-battlefront-ii-gaming/"><u>Step-by-Step Solution: Eliminating the Opaque Screen Glitch in Star Wars Battlefront II Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009987243-swtor-launch-woes-heres-how-you-can-easily-solve-them/"><u>SWTOR Launch Woes? Here's How You Can Easily Solve Them</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-insiders-guide-to-premium-camera-lenses-in-4k/"><u>The Insider's Guide to Premium Camera Lenses in 4K</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-key-to-profit-youtube-shorts-insights/"><u>The Key to Profit  YouTube Shorts Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-fifas-game-of-the-year-solutions-for-fm2022-pc-crashes/"><u>Troubleshooting FIFA's Game of the Year: Solutions for FM2022 PC Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-launch-problems-with-resident-evil-village/"><u>Troubleshooting Guide - Resolving Launch Problems with Resident Evil Village</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-content-warning-issues-in-voice-chats/"><u>Troubleshooting Guide: Resolving 'Content Warning' Issues in Voice Chats</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-when-your-amd-radeon-drivers-wont-launch/"><u>Troubleshooting Steps for When Your AMD Radeon Drivers Won't Launch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-why-is-my-game-sifu-experiencing-fps-drops-and-stuttering-on-a-pc/"><u>Troubleshooting: Why Is My Game 'Sifu' Experiencing FPS Drops and Stuttering on a PC?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-eliminating-ghostrunner-errors-for-smooth-windows-10-gaming/"><u>Ultimate Guide: Eliminating Ghostrunner Errors for Smooth Windows 10 Gaming</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unlocking-video-potential-the-creme-de-la-creme-browser-recorders-for-2024/"><u>Unlocking Video Potential  The Crème De La Crème Browser Recorders for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unveiling-tricks-how-to-get-steam-vr-recognized-on-your-pc-a-step-by-step-guide/"><u>Unveiling Tricks: How To Get Steam VR Recognized on Your PC - A Step-by-Step Guide</u></a></li>
+</ul></div>

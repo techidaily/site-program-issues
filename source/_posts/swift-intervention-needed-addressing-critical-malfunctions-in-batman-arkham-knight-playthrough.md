@@ -1,0 +1,209 @@
+---
+title: "Swift Intervention Needed: Addressing Critical Malfunctions in Batman: Arkham Knight Playthrough"
+date: 2024-08-19T16:48:03.771Z
+updated: 2024-08-20T16:48:03.771Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Swift Intervention Needed: Addressing Critical Malfunctions in Batman: Arkham Knight Playthrough"
+excerpt: "This Article Describes Swift Intervention Needed: Addressing Critical Malfunctions in Batman: Arkham Knight Playthrough"
+thumbnail: https://thmb.techidaily.com/597edf717990ca62361393de3d070cd39e4e090d77618c1c86673588d21031a3.jpeg
+---
+
+## Addressing the Black Screen on Oculus Link: 6 Swift Remedies that Work
+
+If you encounter Oculus Link black screen / not working when you’re launching a VR game or during the gameplay, you’re not alone. Many players reported the same issue and have been struggling to find solutions. So we’ve put together 6 simple & quick fixes here. Try them to get your Oculus Link working again.
+
+## Fixes to try
+
+ You may not try them all; just work your way down the list until you find the one that does the trick.
+
+1. **[Repair system files](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Adjust the resolution](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Disable in-game overlay](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Opt out of Public Test Channel](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Use the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
+
+ Before you attempt the following fixes, please make sure your PC meets the[minimum requirements for Oculus Link](https://support.oculus.com/444256562873335) . Otherwise, you’ll need to upgrade the hardware component before you can use the app normally.
+
+### Fix 1 – Repair system files
+
+ Missing or corrupted system files is one of the most common causes that your Oculus Link malfunction or goes black. To identify what’s the problem and fix it, you should perform a thorough scan and repair of your computer.
+
+**[Fortect](https://tools.techidaily.com/drivereasy/download/)**  is a powerful Windows repair solution with various functions. It can not only deals with hardware-related issues, but also detect security threats like viruses or malware, and improve your PC’s stability. Most importantly, it doesn’t harm your custom settings or personal data.
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
+2. Open Fortect and click**Yes** to run a free scan of your PC.  
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
+3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
+4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+ After the repair completes, test if Oculus Link is back on track. If not, move on to the second fix.
+
+### Fix 2 – Update your device drivers
+
+ The Oculus Link black screen or not working issue can also be driver-related, especially if your graphics driver and USB driver are incompatible, faulty or outdated. Your Oculus devices also require specific drivers. So, to keep your Oculus device in tip-top condition and boost the performance of your VR games, you should update the drivers regularly.
+
+There are mainly two ways you can update the driver:
+
+**Manually** – You can update your device drivers manually by going to the manufacturer’s website and then searching for the most recent correct driver. But be sure to choose only drivers that are compatible with your Windows version.
+
+**Automatically** – If you don’t have the time, patience or computer skills to update your device drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for your exact Oculus devices, and your Windows version, and it will download and install them correctly:
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-driver-de-1.jpg)
+3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ Relaunch Oculus Link to test. If the problem persists, have a look at more fixes below.
+
+### Fix 3 – Adjust the resolution
+
+ If your Oculus Link keeps displaying a black screen, it’s possible that the high resolution is too demanding to your rig, and in this case, you should try lowering the settings.
+
+1. Unplug your Oculus Quest or Rift from the PC.
+2. Navigate to the Oculus installation folder which usually locates at**C:\\Program Files\\Oculus** .
+3. Open**Support** \>**oculus-diagnostics** . Then, run the**OculusDebugTool.exe** .
+4. Lower the**Encode Resolution Width** or you can set the value according to[Oculus’s recommendations](https://forums.oculusvr.com/community/discussion/83561/oculus-link-resolution-with-v12) . (Quite a few users fix the issue by setting the Encode Resolution Width to 2784.)  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/resolution-settings.jpg)
+5. Restart your PC for the changes to take effect.
+6. Reboot your Oculus headset and plug it back to the PC.
+
+ Check whether Oculus Link works properly with your VR rig or not. If not, proceed to the next method.
+
+### Fix 4 – Disable in-game overlay
+
+ More often than not, disabling the in-game overlay feature can make your games or programs run more smoothly. So you could also give it a shot. Below we’ll show you how to do this specifically on GeForce Experience.
+
+1. Open GeForce Experience.
+2. Click the**cogwheel icon** at the upper right corner.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/7-1-1-1.jpg)
+3. Turn off**In-game overlay** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/0-00-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
+ Restart Oculus Link and your VR devices to see if the problem goes away. Still no luck? Don’t worry; there are two more fixes to try.
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 5 – Opt out of Public Test Channel
+
+ According to[Oculus official support](https://support.oculus.com/200468603765391/) , Oculus Link may not work as intended if you enroll in Public Test Channel. That means you will be testing a beta version of the Oculus software which is possibly unreliable and more likely to run into the black screen issue.
+
+It’s suggested you opt out of the Beta mode and here’s how:
+
+1. Launch Oculus Link.
+2. Select**Settings** on the left pane and navigate to the**Beta** tab.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/beta-1.jpg)
+3. **Toggle off** the button next to Public Test Channel.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/beta-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Test if Oculus Link returns to the normal state. If not, continue to the next troubleshooting tips.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 6 – Use the dedicated graphics card
+
+ You’ll need to plug your Oculus headset into the dedicated graphics card or else the black screen occurs. If the connection is correct and you still have trouble using Oculus Link, follow the steps below to configure the NVIDIA settings.
+
+1. Right-click any empty space on your desktop and select**NVIDIA Control Panel** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-3-1.jpg)
+2. On the left pane, select**3D settings** \>**Manage 3D settings** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-4.jpg)
+3. Go to the**Program Settings** tab. Then, select your Oculus app from the drop-down list and choose**High-performance NVIDIA processor** below.  
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-5.jpg)
+
+ For users who have an AMD dedicated graphics card, here is a guide on[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017) .
+
+Restart Oculus Link and see how it works.
+
+---
+
+ Hopefully you’re able to solve Oculus Link black screen/not working with one of the fixes above. If you have further questions or suggestions, please feel free to leave a comment below.
+
+* [black screen](https://tools.techidaily.com/drivereasy/download/)
+* [Oculus](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-direct-to-your-library-simple-windows-and-mac-techniques-for-downloading-igtv/"><u>[New] 2024 Approved  Direct to Your Library  Simple Windows & Mac Techniques for Downloading IGTV</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-video-rankings-on-youtube-essential-seo-techniques-unveiled/"><u>[New] Mastering Video Rankings on YouTube  Essential SEO Techniques Unveiled</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-premier-vr-screens-producers-for-2024/"><u>[New] Premier VR Screens Producers for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unparalleled-dramatic-audio-experiences/"><u>[New] Unparalleled Dramatic Audio Experiences</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-powerful-cinema-titles-that-bring-you-joy-and-strength/"><u>[Updated] In 2024, Powerful Cinema Titles That Bring You Joy & Strength</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-discover-unique-features-of-the-missing-iphone-x/"><u>2024 Approved  Discover Unique Features of the Missing iPhone X</u></a></li>
+<li><a href="https://program-issues.techidaily.com/a-comprehensive-guide-to-resolving-minecraft-black-screen-issues-2024-update/"><u>A Comprehensive Guide to Resolving Minecraft Black Screen Issues: 2024 Update</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-saber-freezing-woes-heres-how-to-keep-your-game-running-smoothly/"><u>Beat Saber Freezing Woes? Here's How to Keep Your Game Running Smoothly</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/best-and-free-facebook-picture-video-maker-for-2024/"><u>Best And Free Facebook Picture Video Maker for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723010151198-city-skylines-2-pc-stability-fixes-stop-the-game-from-crashing/"><u>City Skylines 2 PC Stability Fixes: Stop the Game From Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-launch-errors-in-hogwarts-legacy-expert-tips-to-get-the-game-running-smoothly/"><u>Common Launch Errors in Hogwarts Legacy: Expert Tips to Get the Game Running Smoothly</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-s18e-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cracking-the-code-on-last-epoch-malfunctions-proven-fixes-and-tricks-for-pcs/"><u>Cracking the Code on Last Epoch Malfunctions: Proven Fixes and Tricks for PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-methods-for-stopping-persistent-content-warnings-from-collapsing-pc-performance/"><u>Effective Methods for Stopping Persistent Content Warnings From Collapsing PC Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-age-of-empires-iv-performance-to-eliminate-gameplay-interruptions/"><u>Enhancing Age of Empires IV Performance to Eliminate Gameplay Interruptions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/essential-platforms-in-digital-age-facebook-twitter-instagram-and-youtube/"><u>Essential Platforms in Digital Age - Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-now-batman-arkham-knights-sudden-system-shutdowns-and-serious-bugs/"><u>Fix Now! Batman Arkham Knight's Sudden System Shutdowns and Serious Bugs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723012801291-halo-3-stability-issues-on-pc-discover-the-fix/"><u>Halo 3 Stability Issues on PC? Discover the Fix!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-star-wars-squadrons-game-crashes-completely-solved/"><u>How to Fix Star Wars: Squadrons Game Crashes Completely Solved</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-frequent-failures-a-solution-to-constant-rust-crashes/"><u>How To Stop Frequent Failures: A Solution to Constant Rust Crashes</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-ranked-4-places-to-download-skype-tones/"><u>In 2024, Top-Ranked 4 Places to Download Skype Tones</u></a></li>
+<li><a href="https://program-issues.techidaily.com/league-of-legends-finalizing-your-connection-issue-fix-guide/"><u>League of Legends - Finalizing Your Connection Issue Fix Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/life-is-strange-true-colors-complete-guide-to-fixing-the-crash-issue/"><u>Life Is Strange: True Colors - Complete Guide To Fixing The Crash Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-nba-2k24-expert-strategies-for-resolving-error-727e66ac-and-boosting-gameplay/"><u>Mastering NBA 2K24: Expert Strategies for Resolving Error 727E66ac and Boosting Gameplay</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-exploring-audio-enhancements-utilizing-free-plugins-for-audacitys-autotune-effect/"><u>New In 2024, Exploring Audio Enhancements Utilizing Free Plugins for Audacitys AutoTune Effect</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-cod-black-ops-cold-war-issues-error-code-80070057-solution-guide/"><u>No More Cod: Black Ops Cold War Issues - Error Code 80070057 Solution Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-freezes-effective-solutions-for-persistent-crashes-in-metro-exodus-enhanced-edition/"><u>No More Freezes! Effective Solutions for Persistent Crashes in Metro Exodus (Enhanced Edition)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722996117730-origin-game-platform-wont-start-on-windows-11-solution-found/"><u>Origin Game Platform Won't Start on Windows 11 – Solution Found</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-genshin-impact-launch-errors-with-these-simple-fixes/"><u>Overcome Genshin Impact Launch Errors with These Simple Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-exception-access-violation-issues-proactive-defense-strategies-for-it-professionals/"><u>Overcoming Exception Access Violation Issues : Proactive Defense Strategies for IT Professionals</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-terraria-connections-errors-with-these-proven-techniques/"><u>Overcoming Terraria Connections Errors with These Proven Techniques</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-samsung-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Samsung</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-steps-to-prevent-your-game-of-phoenix-point-from-crashing/"><u>Resolved! Steps To Prevent Your Game of Phoenix Point From Crashing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solution-liquid-penetrant-testing-lpt-reveals-surface-breaking-flaws-in-non-porous-materials-but-cannot-detect-subsurface-defects/"><u>Solution: Liquid Penetrant Testing (LPT) Reveals Surface-Breaking Flaws in Non-Porous Materials but Cannot Detect Subsurface Defects.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-overcoming-download-and-installation-problems-for-age-of-empires-iv-in-the-microsoft-marketplace/"><u>Solution: Overcoming Download and Installation Problems for Age of Empires IV in the Microsoft Marketplace</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-of-non-detection-msi-afterburner-and-windows-11-compatibility/"><u>Solving the Issue of Non-Detection: MSI Afterburner and Windows 11 Compatibility</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-resolving-google-meets-camera-problems/"><u>Step-by-Step Guide: Resolving Google Meet's Camera Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-gameplay-disruptions-quick-repairs-for-division-2-sudden-crashes/"><u>Stop Gameplay Disruptions: Quick Repairs for Division 2 Sudden Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-why-does-rogue-company-continuously-fail-on-your-pc/"><u>Troubleshooting: Why Does Rogue Company Continuously Fail on Your PC?</u></a></li>
+</ul></div>

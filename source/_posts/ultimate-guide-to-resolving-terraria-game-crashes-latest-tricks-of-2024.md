@@ -1,0 +1,238 @@
+---
+title: Ultimate Guide to Resolving Terraria Game Crashes - Latest Tricks of 2024
+date: 2024-08-19T16:50:07.594Z
+updated: 2024-08-20T16:50:07.594Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Ultimate Guide to Resolving Terraria Game Crashes - Latest Tricks of 2024
+excerpt: This Article Describes Ultimate Guide to Resolving Terraria Game Crashes - Latest Tricks of 2024
+thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ecfefae2f5882a90863822c25.png
+---
+
+## Solve League of Legends Crashes Quick and Hitch-Free - Your Guide to Uninterrupted Gameplay
+
+**League of Legends keeps crashing?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
+
+## Try these fixes
+
+ Here’s a list of fixes that have resolved this problem for other LoL players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
+
+* [Fix 1: Make sure your PC meets meets the system requirements for League of Legends](https://tools.techidaily.com/drivereasy/download/)
+* [Fix 2: Update your drivers](https://tools.techidaily.com/drivereasy/download/)
+* [Fix 3: Install the latest Windows Updates](https://tools.techidaily.com/drivereasy/download/)
+* [Fix 4: Repair corrupted game files](https://tools.techidaily.com/drivereasy/download/)
+* [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
+
+---
+
+### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
+
+ The game may crash if your PC fails to meet its system requirement.  
+ Check if your PC meets its minimum hardware requirements first:
+
+#### The minimum system requirements for League of Legends
+
+| **Operating System:** | Windows XP (Service Pack 3 ONLY), Windows Vista, Windows 7, Windows 8, or Windows 10 |
+| --------------------- | ------------------------------------------------------------------------------------ |
+| **Processor:**        | **3 GHz** processor (supporting SSE2 instruction set or higher)                      |
+| **Memory:**           | **1 GB** RAM (**2 GB** of RAM for**Windows Vista and newer** )                       |
+| **Graphics:**         | Shader version 2.0 capable video card                                                |
+| **Resolution:**       | Up to**1920 x 1200**                                                                 |
+| **DirectX:**          | **DirectX v9.0c** or better                                                          |
+| **Storage:**          | **12 GB** available hard disk space                                                  |
+
+#### The recommended system requirements for League of Legends
+
+| **Operating System:** | Windows XP (Service Pack 3 ONLY), Windows Vista, Windows 7, Windows 8, or Windows 10                                                  |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **Processor:**        | **3 GHz** dual-core processor                                                                                                         |
+| **Memory:**           | **2 GB** RAM (**4 GB**  of RAM for Windows Vista and higher)                                                                          |
+| **Graphics:**         | **Nvidia GeForce 8800** / **AMD Radeon HD 5670** or **equivalent video card** (Dedicated GPU with **512 MB or higher Video Memory** ) |
+| **Resolution:**       | Up to**1920 x 1200**                                                                                                                  |
+| **DirectX:**          | **DirectX v9.0c or better**                                                                                                           |
+| **Storage:**          | **16 GB** available hard disk space                                                                                                   |
+
+ You may need to upgrade the hardware of your computer if it fails to meet the system requirement of League of Legends.
+
+ If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
+
+### Fix 2: Update your drivers
+
+ A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
+
+ There are two ways to update your driver:**manually** and **automatically** .
+
+**Update your drivers manually** – You can update your drivers manually by going to the manufacturer’s website, and searching for the latest drivers for your computer.
+
+ Be sure to choose the driver that’s compatible with your exact PC model and your version of Windows.
+
+ **Or**
+
+**Update your drivers automatically** – If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all** .
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
+
+ 3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
+
+ This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
+
+ You can do it for free if you like, but it’s partly manual.
+
+ If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 3: Install the latest Windows Updates
+
+ One of the the dependencies of League of Legends is**DotNet Framework 3.5** . By installing the latest Windows Updates, you can also update DotNet Framework 3.5 to the latest version. If you’re using Windows 10, you can follow the steps below to perform Windows Update:
+
+ 1) On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
+
+ 2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
+3) Wait until Windows downloaded and installed all the updates.
+
+4) Restart Windows and run League of Legends again.
+
+ See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 4: Repair corrupted game files
+
+ Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
+
+1) Launch League of Legends and log in.
+
+2) In the upper-right corner, click**the gear button**  to open the game settings.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+ 3) Click**Initiate Full Repair** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
+
+ 4) Click**Yes** to continue. This may take a while.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
+ Run the game to see if you can play it without crashes. If not, try the next fix, below.
+
+### Fix 5: Enable low spec mode
+
+ If your PC fails to meet the recommended system requirements for League of Legends, but you still run it with the high spec graphics settings, the crashes may occur.
+
+ If your PC fails to meet the recommended system requirements for League of Legends, you may need to**enable low spec mode** to ensure that League of Legends runs smoothly. Here is how to do it:
+
+1) Launch League of Legends and log in.
+
+2) In the upper-right corner, click**the gear button**  to open the game settings.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
+ 3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
+
+Run League of Legends to see if you resolved this issue.
+
+ Hopefully, you find this post helpful! As always, if you have any other solutions to fix League of Legends crashes, or if you have any questions or suggestions on this issue, you’re more than welcome to leave us a comment below.
+
+* [games](https://tools.techidaily.com/drivereasy/download/)
+* [League of Legends](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-day-jobs-and-digital-passion-striking-a-balance/"><u>[New] 2024 Approved  Day Jobs & Digital Passion  Striking a Balance</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-deciphering-the-best-recorder-with-active-in-mind/"><u>[New] In 2024, Deciphering the Best Recorder with Active in Mind</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-sound-recording-with-studio-mac-guide/"><u>[New] Sound Recording with Studio Mac Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-roblox-stuck-on-loading-screen/"><u>[Solved] Roblox Stuck on Loading Screen</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-conquer-all-platforms-your-key-to-recording-hulu-effortlessly/"><u>2024 Approved  Conquer All Platforms - Your Key to Recording Hulu Effortlessly</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-top-mp4-to-fb-transcoder/"><u>2024 Approved  Top MP4-to-FB Transcoder</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>A Detailed VPNa Fake GPS Location Free Review On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battle-against-frozen-screens-solving-the-stuck-on-loading-problem-in-cold-war-across-platforms/"><u>Battle Against Frozen Screens: Solving the 'Stuck On Loading' Problem in Cold War Across Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/complete-rainbow-six-siege-debugging-eradicating-error-code-e-3-0x0001000b/"><u>Complete Rainbow Six Siege Debugging: Eradicating Error Code E 3-0X0001000B</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-sony-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Sony</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-gameplay-in-forza-horizon-5-by-upgrading-your-graphics-driver/"><u>Enhancing Gameplay in Forza Horizon 5 by Upgrading Your Graphics Driver</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fifa-21-installation-issues-heres-how-you-can-fix-the-problem/"><u>FIFA 21 Installation Issues? Here’s How You Can Fix the Problem</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/cozy-seasons-ideal-backgrounds-to-warm-up-videos-for-2024/"><u>Five Cozy Seasons  Ideal Backgrounds to Warm Up Videos for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-resolving-f1-2021-game-crashes-on-your-computer/"><u>Fixes and Solutions: Resolving F1 2021 Game Crashes on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-lag-and-stutter-in-battlegrounds-royale-for-a-smoother-gaming-experience/"><u>Fixing Lag and Stutter in Battlegrounds Royale for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-repair-your-pc-when-the-ds4-controller-fails-on-windows/"><u>Fixing the Issue: How to Repair Your PC When The DS4 Controller Fails on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-madden-nfl-20-pc-version-crashing-issues-easy-guide/"><u>How to Fix Madden NFL 20 PC Version Crashing Issues - Easy Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-anno-1800s-troublesome-directx-error/"><u>How to Overcome Anno 1800'S Troublesome DirectX Error</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723002088972-mastering-stability-leaf-of-legends-crash-fixes-in-minutes/"><u>Mastering Stability: Leaf of Legends Crash Fixes in Minutes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-starfield-game-crash-issue-a-comprehensive-guide-for-windows-users/"><u>Resolving the Starfield Game Crash Issue: A Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/reviving-the-echoing-halls-of-tamriel-a-guide-to-fixing-skyrim-audio-problems/"><u>Reviving the Echoing Halls of Tamriel: A Guide to Fixing Skyrim Audio Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-palworlds-session-search-issues-a-step-by-step-guide/"><u>Solving PalWorld's Session Search Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-for-virtual-reality-content-android-friendly-for-2024/"><u>The Ultimate Guide for Virtual Reality Content (Android-Friendly) for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/transforming-spotify-playlists-into-text-a-comprehensive-guide/"><u>Transforming Spotify Playlists Into Text: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013836496-troubleshoot-apex-legends-loading-problems-instantly/"><u>Troubleshoot Apex Legends Loading Problems Instantly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-complete-solutions-for-zooms-persistent-black-screen-problem-on-your-computer/"><u>Troubleshooting Complete Solutions for Zoom's Persistent Black Screen Problem on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-solving-alienware-command-center-issues/"><u>Troubleshooting Guide: Solving Alienware Command Center Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-high-fps-dropouts-and-stutter-in-battlefield-2042-pc-version/"><u>Troubleshooting High FPS Dropouts & Stutter in Battlefield 2042 PC Version</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unanswered-questions-the-unexpected-halt-to-the-diablo-immortal-pc-launch/"><u>Unanswered Questions: The Unexpected Halt to the Diablo Immortal PC Launch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-and-fixing-dual-frame-rate-drops-on-your-personal-computer-solution-found/"><u>Understanding and Fixing Dual Frame Rate Drops on Your Personal Computer - Solution Found!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/understanding-the-economics-youtubes-new-model-for-content-creators-and-viewers-for-2024/"><u>Understanding the Economics  YouTube's New Model for Content Creators and Viewers for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/video-sectioning-mastery-in-vimeo-videos/"><u>Video Sectioning Mastery in Vimeo Videos</u></a></li>
+</ul></div>

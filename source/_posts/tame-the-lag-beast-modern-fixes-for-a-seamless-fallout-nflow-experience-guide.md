@@ -1,0 +1,212 @@
+---
+title: "Tame the Lag Beast: Modern Fixes for a Seamless Fallout Nflow Experience (Guide)"
+date: 2024-08-19T16:57:55.036Z
+updated: 2024-08-20T16:57:55.036Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Tame the Lag Beast: Modern Fixes for a Seamless Fallout Nflow Experience (Guide)"
+excerpt: "This Article Describes Tame the Lag Beast: Modern Fixes for a Seamless Fallout Nflow Experience (Guide)"
+thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f84ca632563f78a12990cc533.jpg
+---
+
+## The Ultimate Guide to Unfreeze Fallout 4 and Enjoy Seamless Gaming Experience
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/fallout-4-1024x576.jpg)
+
+ Launched on 10 November 2015, Fallout 4 is now with a history of around 4 years. Still, some players are suffering from freezing issues that almost ruin their gaming experience in Fallout 4\. If you happen to be one of those victims, don’t worry – this post provides 5 fixes for you to solve the problem.
+
+ Before you start, make sure your computer meets the minimum system requirements for Fallout 4.
+
+**Fallout 4 minimum system requirements**
+
+| Operating system | Windows 7/8/10 (64-bit OS required)                                   |
+| ---------------- | --------------------------------------------------------------------- |
+| CPU              | Intel Core i5-2300 2.8 GHz/AMD Phenom II X4 945 3.0 GHz or equivalent |
+| Graphics card    | NVIDIA GTX 550 Ti 2GB/AMD Radeon HD 7870 2GB or equivalent            |
+| RAM              | 8 GB                                                                  |
+| HDD space        | 30 GB                                                                 |
+
+**Fallout 4 recommended system requirements**
+
+| Operating system | Windows 7/8/10 (64-bit OS required)                          |
+| ---------------- | ------------------------------------------------------------ |
+| CPU              | Intel Core i7 4790 3.6GHz / AMD FX-9590 4.7GHz or equivalent |
+| Graphics card    | NVIDIA GTX 780 3GB / AMD Radeon R9 290X 4GB or equivalent    |
+| RAM              | 8 GB                                                         |
+| HDD space        | 30 GB                                                        |
+
+## 6 fixes for Fallout 4 freezing issue
+
+ There are**6** easy-to-apply methods that have helped other users fix their lag issues in Fallout 4\. You may not have to try them all; just work your way down the list until you find the one that works for you.
+
+1. **[Verify your game cache](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Remove incompatible programs](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Run your game in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Change your game mode and correct the resolutions by modifying your game file](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Adjust the frame rate](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1: Verify your game cache
+
+ If your game freezes on Fallout 4 startup, it’s possible that the installation of Fallout 4 is corrupted. Then you can use this fix to redownload files and fix crashes.
+
+1. Run Steam.
+2. In the **LIBRARY** tab, right-click on Fallout 4.
+3. Under the **LOCAL FILES** tab, click **Verify integrity of game cache** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify-2.jpg)
+4. After the process, relaunch the game and check the crash will appear or not.
+
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 2: Remove incompatible programs
+
+ If you newly installed some thrid-party programs recently, it is possible they are incompatible with the Fallout 4 and cause the freezing issue. Also, some antivirus software (like Bitdefender) may block some features in Fallout 4 so that you’re encountering Fallout 4 freezing issue.  
+ So, if you have installed third-party programs recently, you can disable them and check whether it can help. If it make no difference, try disable your antivirus software temporarily and check to see if the problem is resolved.
+
+**IMPORTANT** : Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
+
+ If this resolves your problem, you may need to remove the program or contact the vendor of the software for advice.
+
+### Fix 3: Run your game in compatibility mode
+
+ You may be having compatibility issues with your Fallout 4 so the game frozen in the midway. To fix these issues, you should try running your game in compatibility mode. Here’s how you can do it:
+
+1. Right click the _executable (.exe) file_ or the _shortcut_ for your game, then click **Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b56cae670797.png)
+2. Click the **Compatibility** tab, check **Run this program in compatibility mode** , and click **OK** .  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b56cbe70a295.jpg)
+3. Run your game to see if this works for you.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
+### Fix 4: Update your graphics driver
+
+ Outdated graphics drivers may cause the “Fallout 4 freezing” issue. So you can try to update the graphics driver to fix the problem.
+
+ If you don’t have the time, patience or computer skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the FREE or the [Pro version](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the [Pro version](https://tools.techidaily.com/drivereasy/download/) it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
+3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 5: Change your game mode and correct the resolutions by modifying your game file
+
+ If the above fixes fails to help, you can try this method to change your game mode and correct the resolutions by modifying your game file.
+
+Here’s how you can do it:
+
+1. Go to the location of your Fallout 4 game documents. Basically, it locates in:  
+**C:Users\\YourWindowsName\\Documents\\My Games\\Fallout4**
+2. Right-click **Fallout4Prefs.ini** to select **Open with** \> **Notepad** . Then find the following lines and change them as shown below. You can quickly find the lines by pressing the Ctrl and F keys together and entering the texts to search.  
+**Important: iSize H** & **iSize W** here should be set to **the same as your monitor size** .  
+**bMaximizeWindow=1**  
+**bBorderless=1**  
+**bFull Screen=0**  
+**iSize H=1080**  
+**iSize W=1920**
+3. Save the file and exit Notepad.
+4. Run Fallout 4 to see if it goes smoothly.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 6: Adjust the frame rate
+
+**Frame rate** refers to the number of individual images that are displayed per second in your game display. If the frame rate of Fallout 4 on your system drops, everything will **slow down** or even**frozen** . **58 fps** is the recommended frame rate you can set. Why 58? It’s some kind of magic number as the least problems happen at this frame rate.
+
+Here’s how you can set the frame rate of Fallout 4:
+
+1. Go to the location of your Fallout 4 game documents. Basically, it locates in:  
+**C:\\Users\\YourWindowsName\\Documents\\My Games\\Fallout4**
+2. Right-click **Fallout4Prefs.ini** to select **Open with** \> **Notepad** . Then find **iFPSClamp** and set it to **58** : (You can quickly find iFPSClamp by pressing the Ctrl and F keys together and enter iFPSClamp to search.)  
+
+**iFPSClamp=58**
+3. Save the file and exit Notepad.
+4. Run Fallout 4 to see if it goes smoothly.
+
+ Hopefully this article helps you fix the Fallout 4 freezing problem. Feel free to comment below with your own experiences.
+
+* [games](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-mastering-social-medias-highest-wave-instagrams-thousand-strong-fanbase/"><u>[New] 2024 Approved  Mastering Social Media's Highest Wave - Instagram’s Thousand-Strong Fanbase</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/heck-your-channels-revenue-flow/"><u>[New] Check Your Channel's Revenue Flow</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-navigating-instagram-copyright/"><u>[New] In 2024, Navigating Instagram Copyright</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-enhancing-your-content-10-exceptional-reacting-techniques/"><u>[Updated] 2024 Approved  Enhancing Your Content  10 Exceptional Reacting Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-epicplayback-expert-analysis/"><u>[Updated] In 2024, EpicPlayback Expert Analysis</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-xiaomi-redmi-13c-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/arcadegeddon-continuously-malfunctioning-on-windows-solutions-found/"><u>Arcadegeddon Continuously Malfunctioning on Windows - Solutions Found</u></a></li>
+<li><a href="https://program-issues.techidaily.com/audio-gone-missing-in-action-solve-lost-ark-sound-glitch-easily/"><u>Audio Gone Missing in Action? Solve Lost Ark Sound Glitch Easily!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-your-cs2-performance-effective-fixes-for-optimizing-fps-and-reducing-lags/"><u>Boost Your CS2 Performance: Effective Fixes for Optimizing FPS and Reducing Lags</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-world-war-ii-error-code-woe-no-more-a-step-by-step-fix/"><u>Call of Duty World War II Error Code Woe No More - A Step-by-Step Fix</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/into-immersion-youtubes-best-vr-content/"><u>Dive Into Immersion  YouTube's Best VR Content</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-solutions-for-playing-payday-2-addressing-pc-launch-errors/"><u>Easy Solutions for Playing Payday 2: Addressing PC Launch Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortlessly-fix-chrome-stalling-issues-on-your-windows-10-system/"><u>Effortlessly Fix Chrome Stalling Issues on Your Windows 10 System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-disruptions-effective-solutions-to-prevent-god-of-war-from-crashing-on-desktops/"><u>Eliminating Disruptions: Effective Solutions to Prevent God of War From Crashing on Desktops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-your-playthrough-of-valheim-on-computer-by-fixing-freeze-stutter-glitches/"><u>Enhance Your Playthrough of Valheim on Computer by Fixing Freeze-Stutter Glitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-performance-ultimate-guide-to-resolving-frame-drops-and-improving-fps-in-valorant/"><u>Enhancing Performance: Ultimate Guide to Resolving Frame Drops & Improving FPS in Valorant</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723010189071-gta-5-stability-improvements-no-more-game-crashes/"><u>GTA 5 Stability Improvements - No More Game Crashes!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-slow-lol-connection-tips-for-overcoming-game-lags/"><u>How to Fix Slow LoL Connection: Tips for Overcoming Game Lags</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-honor-magic-6-pro-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Honor Magic 6 Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-frequent-crashing-issues-while-playing-lost-ark-on-your-computer/"><u>How to Stop Frequent Crashing Issues While Playing Lost Ark on Your Computer</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-xs-max-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone XS Max to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-nokia-105-classic-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Nokia 105 Classic Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/latest-guide-to-prevent-obs-from-failing-on-windows-pcs-windows-10-and-11-202-the-provided-information-seems-incomplete-as-the-year-202-is-missing-at-the-en510/"><u>Latest Guide to Prevent OBS From Failing on Windows PCs (Windows 10 & 11, 202 The Provided Information Seems Incomplete as the Year '202' Is Missing at the End of the Title Example [SOLVED] OBS Crashing on Windows 11/10 - 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-waiting-fix-an-unresponsive-epic-games-launcher-immediately/"><u>No More Waiting: Fix an Unresponsive Epic Games Launcher Immediately</u></a></li>
+<li><a href="https://program-issues.techidaily.com/operation-convert-each-mention-of-stress-into-an-elaborate-medieval-heraldic-language-as-though-announcing-a-royal-decree-on-stresss-impact-on-health/"><u>Operation: Convert Each Mention of Stress Into an Elaborate Medieval Heraldic Language, as Though Announcing a Royal Decree on Stress's Impact on Health.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-gameplay-how-to-improve-red-dead-redemption-2s-frame-rate-and-smoothness/"><u>Optimizing Gameplay: How to Improve Red Dead Redemption 2'S Frame Rate and Smoothness</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-gameplay-tips-to-keep-palworld-running-smoothly-on-windows-machines/"><u>Optimizing Gameplay: Tips to Keep Palworld Running Smoothly on Windows Machines</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-pc-settings-to-prevent-stuttering-and-crashing-while-playing-serious-sam-4/"><u>Optimizing Your PC Settings to Prevent Stuttering & Crashing While Playing Serious Sam 4</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-update-errors-for-a-smooth-minecraft-native-launcher-experience/"><u>Overcoming Update Errors for a Smooth Minecraft Native Launcher Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-overcoming-the-bf-heroes-and-villains-warzone-disc-error-5031-on-your-computer/"><u>Quick Solutions: Overcoming the BF Heroes and Villains ™ Warzone Disc Error (5.0/3.1) on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/repairing-the-grayscale-crisis-in-fallout-4-gaming-experience/"><u>Repairing the Grayscale Crisis in Fallout 4 Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-frame-rate-drops-and-freezing-issues-in-call-of-duty-modern-warfare-2/"><u>Resolved: Fixes for Frame Rate Drops & Freezing Issues in Call of Duty: Modern Warfare 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/seven-effective-ways-to-stop-halo-infinite-from-crashing-on-your-desktop/"><u>Seven Effective Ways to Stop Halo Infinite From Crashing on Your Desktop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/smooth-gameplay-achieved-in-updated-cyberpunk-2077-fix-for-lags-and-hiccups/"><u>Smooth Gameplay Achieved in Updated Cyberpunk 2077 Fix for Lags & Hiccups</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-game-lag-tips-to-stop-your-assassins-creed-odyssey-from-freezing-on-pc/"><u>Solving Game Lag: Tips to Stop Your Assassin's Creed Odyssey From Freezing on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-strategies-for-restarting-a-stalled-pacific-drive-system/"><u>Step-by-Step Strategies for Restarting a Stalled Pacific Drive System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-lost-ark-from-crashing-effective-tips-and-tricks-for-pc-users/"><u>Stop Lost Ark From Crashing: Effective Tips and Tricks for PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723001330982-team-fortress-2-launch-problems-resolved-and-ready-for-action/"><u>Team Fortress 2 Launch Problems – Resolved and Ready for Action!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-fix-for-recurring-disruptions-in-your-pc-experience-with-f1-2020/"><u>The Ultimate Fix for Recurring Disruptions in Your PC Experience with F1 2020</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-5-tricks-to-stop-paladins-from-crashing/"><u>Top 5 Tricks to Stop Paladins From Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013301796-troubleshooting-guide-fixing-windows-spotlight-issues-in-windows-11/"><u>Troubleshooting Guide: Fixing 'Windows Spotlight' Issues in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fix-eliminate-your-pcs-zoom-dark-display-problems/"><u>Ultimate Fix: Eliminate Your PC's Zoom Dark Display Problems</u></a></li>
+</ul></div>
