@@ -1,7 +1,7 @@
 ---
 title: How to Prevent and Fix the 'Wukong Crashes' Problem in PC Gaming
-date: 2024-08-21 13:59:58
-updated: 2024-08-24 12:13:52
+date: 2024-08-23T17:17:34.946Z
+updated: 2024-08-24T17:17:34.946Z
 tags:
   - win11
   - win10
@@ -40,6 +40,9 @@ Even though it’s quite optimized on PC, Black Myth: Wukong still has some bugs
 
  If this is not your case, please move on to the other methods below regarding the crashing, freezing and black screen issues in Black Myth: Wukong.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  2\. Clean reinstall your display card driver
 
  Another very common reason for game crashes and freezes is an outdated or faulty graphics card driver, and Black Myth: Wukong is no exception. In this case, it’s recommended that you do a clean reinstallation of the display card driver, to avoid problems from shader caches.
@@ -49,11 +52,17 @@ Even though it’s quite optimized on PC, Black Myth: Wukong still has some bugs
 1. Download DDU from the[**official download page**](https://www.guru3d.com/files-details/display-driver-uninstaller-download.html) . Then unzip the folder, and double-click the**DDU** file to further extract the execution file.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/02/ddu-3.png)
 2. Boot your computer into Safe Mode as instructed here:[**Start Safe Mode using the System Configuration tool**](https://tools.techidaily.com/drivereasy/download/)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 3. When in Safe Mode, go to the folder where you unzip the DDU execution file. Double-click to run**Display Driver Uninstaller** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/02/ddu-2.png)
 4. Select **GPU** and **your GPU manufacturer** on the right side. Then click **Clean and restart** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/02/ddu-1.png)
 5. Your computer should restart when the old driver files for your graphics card are cleaned.
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 6. Restart your computer afterward. Your computer will now have the generic display card driver provided by Windows.
 
  Now it’s time to update your display card driver. Game Science recommends different approaches for different brands.
@@ -74,6 +83,9 @@ Even though it’s quite optimized on PC, Black Myth: Wukong still has some bugs
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. You can also pick the older drivers by clicking the**View all driver versions** button.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/de-view-older-drivers.png)
 5. Click the download button on the right to download the older driver that you need.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/old-amd-driver.png)
@@ -83,10 +95,16 @@ Even though it’s quite optimized on PC, Black Myth: Wukong still has some bugs
 
  If a clean reinstallation of the graphics card driver doesn’t help with the crashes and freezes in Black Myth: Wukong, please move on to the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## 3\. Verify the game files integrity
 
  For a big game like Black Myth: Wukong, it’s not strange that some game files might be missing or corrupted during the download and installation. So if you’re experiencing constant crashes and freezes in BMW, you should try to verify the game files. To do so:
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### On Steam
 
 1. Launch Steam.
@@ -108,6 +126,9 @@ Even though it’s quite optimized on PC, Black Myth: Wukong still has some bugs
 
  If verifying the game files still doesn’t help to fix the freezes and crashes in Black Myth: Wukong, please move on.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Update Windows
 
  If your system isn’t updated regularly, there could be missing Visual C++ Redistributable Runtimes or other compatibility issues that can cause crashes and freezes in Black Myth: Wukong. To make sure that you have the latest available updates installed:
@@ -115,9 +136,27 @@ Even though it’s quite optimized on PC, Black Myth: Wukong still has some bugs
 1. On your keyboard, hit the**Windows** key, then type**check for update** s, then click C**heck for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 
  Then try your Black Myth: Wukong again to see if it still crashes and freezes. If the problem remains, please move on to the next fix.
 
@@ -134,8 +173,14 @@ Even though it’s quite optimized on PC, Black Myth: Wukong still has some bugs
 1. On your keyboard, press the**Windows** key and**X** at the same time to select**Task Manager** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/image-42.png)
 2. Select the above-mentioned application and click**End Task** to close them one by one.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
  Then run Black Myth: Wukong again and see if it still crashes, freezes and has black screen. If the problem still remains, please move on to the next fix below.
 
 ## 6\. Repair system files
@@ -175,3 +220,54 @@ Even though it’s quite optimized on PC, Black Myth: Wukong still has some bugs
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-easy-reduction-of-footage-for-instagram-on-a-mac/"><u>[New] 2024 Approved  Easy Reduction of Footage for Instagram on a Mac</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-bites-to-blocks-top-10-video-editing-principles/"><u>[Updated] 2024 Approved  From Bites to Blocks  Top 10 Video Editing Principles</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-exploring-8-youtube-fitness-hacks-that-energize-audiences-for-2024/"><u>[Updated] Exploring 8 YouTube Fitness Hacks That Energize Audiences for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/10-best-web-based-tools-for-clearing-up-fuzzy-images/"><u>10 Best Web-Based Tools for Clearing Up Fuzzy Images</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-masterclass-in-using-zoom-for-youtube-live-streams/"><u>2024 Approved  Masterclass in Using Zoom for YouTube Live Streams</u></a></li>
+<li><a href="https://program-issues.techidaily.com/avoiding-suspension-understanding-and-resolving-dota-2s-anti-cheat-mechanism/"><u>Avoiding Suspension: Understanding and Resolving Dota 2'S Anti-Cheat Mechanism</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-black-screen-issues-in-fallout-4-effective-solutions-inside/"><u>Banish Black Screen Issues in Fallout 4: Effective Solutions Inside</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-realme-11-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Realme 11 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://program-issues.techidaily.com/crash-no-more-effective-fixes-to-keep-blender-running-smoothly-on-pcs/"><u>Crash No More: Effective Fixes to Keep Blender Running Smoothly on PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dragon-age-origins-windows-11-crashes-now-fixed-enjoy-seamless-gaming-experience/"><u>Dragon Age: Origins - Windows 11 Crashes Now Fixed, Enjoy Seamless Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723001834335-easy-solutions-stop-wwe-2k20-from-crashing-on-your-windows-pc/"><u>Easy Solutions: Stop WWE 2K20 From Crashing on Your Windows PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-installation-tips-for-msfs-2020-overcoming-the-checking-for-updates-hurdle/"><u>Effortless Installation Tips for MSFS 2020: Overcoming the 'Checking For Updates' Hurdle</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-freezing-issues-in-grand-theft-auto-v-expert-gaming-solutions-for-stuttering-problems/"><u>Eliminating Freezing Issues in Grand Theft Auto V: Expert Gaming Solutions for Stuttering Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-pc-gaming-experience-addressing-the-dip-in-frames-per-second-for-forza-horizon-amoons/"><u>Enhancing PC Gaming Experience: Addressing the Dip in Frames per Second for Forza Horizon Amoons</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-advice-elevating-your-nba-live-viewing/"><u>Expert Advice  Elevating Your NBA Live Viewing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-resolve-your-oculus-link-screen-problem-fast/"><u>Expert Tips to Resolve Your Oculus Link Screen Problem Fast!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-sony-vegas-issues-expert-guide-to-avoiding-sudden-closures/"><u>Fix Your Sony Vegas Issues: Expert Guide to Avoiding Sudden Closures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-long-load-times-in-fallout-4-top-solutions/"><u>Fixes for Long Load Times in Fallout 4: Top Solutions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-gionee-frp-by-drfone-android/"><u>How Can We Bypass Gionee FRP?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-skype-messages-not-sending-solved/"><u>How to Fix Skype Messages Not Sending [Solved]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-repair-and-stop-the-football-manager-2020-from-freezing-or-crashing/"><u>How to Repair and Stop the Football Manager 2020 From Freezing or Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-skyline-city-building-freezes-in-simcity-buildit-on-windows/"><u>How to Resolve Skyline City Building Freezes in SimCity BuildIt on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722995970048-how-to-stop-ghost-recon-breakpoint-from-freezing-simple-solutions/"><u>How to Stop Ghost Recon Breakpoint From Freezing - Simple Solutions!</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-oppo-reno-8t-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-honor-100-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Honor 100 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-plus-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 Plus Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-inside-look-securing-a-profitable-monetized-youtube-space/"><u>In 2024, Inside Look  Securing a Profitable Monetized Youtube Space</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-oppo-k11-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Oppo K11 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://program-issues.techidaily.com/latest-tricks-to-eliminate-latency-in-pc-gaming-for-a-smoother-experience/"><u>Latest Tricks to Eliminate Latency in PC Gaming for a Smoother Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-pc-issues-with-elite-dangerous-tips-to-stop-the-game-from-crashing/"><u>Overcoming PC Issues with Elite Dangerous - Tips to Stop the Game From Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722992522249-quick-fixes-to-restore-your-discord-overlay-no-tech-expertise-required/"><u>Quick Fixes to Restore Your Discord Overlay - No Tech Expertise Required</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-overcoming-the-stardew-valley-startup-issue/"><u>Resolved: Overcoming the Stardew Valley Startup Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-issues-final-fantasy-xv-pc-game-crashes-solutions-inside/"><u>Resolving Issues: Final Fantasy XV PC Game Crashes - Solutions Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005365996-solving-performance-dips-in-nioh-2-optimize-your-frame-rate-now/"><u>Solving Performance Dips in Nioh 2: Optimize Your Frame Rate Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-resolving-thx-spatial-audio-problems-in-windows-11-and-10/"><u>Step-by-Step Guide: Resolving THX Spatial Audio Problems in Windows 11 and 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-playstation-wars-effective-ways-to-fix-modern-warfare-stalling-on-your-computer/"><u>Stop PlayStation Wars: Effective Ways to Fix 'Modern Warfare' Stalling on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/struggling-with-utorrent-crashing-or-freezing-try-these-proven-methods/"><u>Struggling with UTorrent Crashing or Freezing? Try These Proven Methods</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-definitive-guide-resolve-your-missing-msvcrt10dll-computer-problems/"><u>The Definitive Guide: Resolve Your 'Missing msvcrt10.dll' Computer Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-doom-eternal-solutions-if-it-wont-start/"><u>Troubleshooting DOOM Eternal: Solutions if It Won’t Start</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-for-life-is-strange-true-colors-eliminate-crashes/"><u>Troubleshooting Guide for Life Is Strange: True Colors - Eliminate Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-get-your-thx-spatial-audio-up-and-running-on-pcs-windows-1110/"><u>Troubleshooting Guide: How to Get Your Thx Spatial Audio Up and Running on PCs (Windows 11/10)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-resident-evil-villages-pc-black-screen-problem/"><u>Troubleshooting Resident Evil Village's PC Black Screen Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-how-to-solve-fall-guys-game-crashes-on-launch/"><u>Troubleshooting: How to Solve 'Fall Guys' Game Crashes on Launch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723011787866-twitch-audio-not-working-heres-how-to-fix-streaming-silence/"><u>Twitch Audio Not Working? Here's How to Fix Streaming Silence</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723002596188-ultimate-guide-solving-assassins-creed-origins-glitches/"><u>Ultimate Guide: Solving Assassin's Creed Origins Glitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-the-final-epoch-bug-in-windows-computers/"><u>Ultimate Guide: Solving the Final Epoch Bug in Windows Computers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-gadgets-and-gizmos-at-toms-digital-domain/"><u>Unveiling Gadgets and Gizmos at Tom's Digital Domain</u></a></li>
+</ul></div>

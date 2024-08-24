@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Performance: Optimizing Black Myth Wukong for Smoother PC Gaming Experience"
-date: 2024-08-23 19:40:10
-updated: 2024-08-24 10:20:26
+date: 2024-08-23T17:17:31.586Z
+updated: 2024-08-24T17:17:31.586Z
 tags:
   - win11
   - win10
@@ -81,6 +81,9 @@ Lo and behold, Black Myth: Wukong, one of the most anticipated AAA games, is fin
 1. Launch Black Myth: Wukong and hit the Esc button, then select**Settings** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/bmw-settings-1.png)
 2. You can first try the recommended settings by selecting**Apply Recommeneded Graphics Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/recommend-settings.png)
 3. If the recommended settings don’t work well for you, try the following settings instead:  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/bmw-detaled-graphics-settings.png)
@@ -88,12 +91,22 @@ Lo and behold, Black Myth: Wukong, one of the most anticipated AAA games, is fin
 5. Then try the following settings for your display. You can also try 3840×2160 and 2160×1080 as the Display Resolution. Lower resolution usually helps to increase frame rates.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/bmw-display-settings.png)
 6. If you’re using an Nvidia 20 or 30 series GPU, you can try**FSR** for**Super Resolution Sampling** and turn off**Full Ray Tracing** .  
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/fsr-on-ray-tracing-off.png)
 7. If you’re using a 40 series Nvidia GPU, try**DLSS** instead.  
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/dlss.png)
 
  See if the above graphics settings help to improve your game performance by reducing the lags, and stutters and increasing the frame rate. If they don’t help much, move on to the other fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  4\. Update the graphics card driver (to the game-optimized version)
 
  An outdated or incorrect display card driver could also be the culprit to the lagging, stuttering, and FPS dropping problems in Black Myth: Wukong, so if the above methods don’t help BMW to run properly, it’s likely that you have a corrupted or outdated graphics driver. So you should update your drivers to see if it helps, especially when there are game-optimized versions of the display card drivers released by hardware manufacturers.
@@ -106,6 +119,9 @@ Lo and behold, Black Myth: Wukong, one of the most anticipated AAA games, is fin
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
@@ -115,6 +131,9 @@ Lo and behold, Black Myth: Wukong, one of the most anticipated AAA games, is fin
 
  If updating the display card driver doesn’t help with the lagging, stuttering, or frame rate-dropping problems in Black Myth: Wukong, please move on to the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  5\. Run Black Myth Wukong in compatibility mode and as admin
 
  According to some gamers, running Black Myth: Wukong in compatibility mode for Windows 7 or Windows 8 and also as an administrator fixed the lagging and stuttering issues for them. To see if they do the trick for you as well:
@@ -122,10 +141,16 @@ Lo and behold, Black Myth: Wukong, one of the most anticipated AAA games, is fin
 1. Go to **C:\\Program Files (x86)\\Steam\\steamapps\\common\\BlackMythWukong\\b1\\Binaries\\Win64** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/b1-win64.png)
 2. Right-click**b1-Win64-Shipping** and select**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/properties.png)
 3. Then go to**Compatibility** , tick the box for **Run this program in compatibility mode for:**  then select **Windows 7** from the dropdown list. Then tick the box for **Run this program as an administrator** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/run-as-admin.png)
 4. Click**Apply** and**OK** to save the changes.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 5. If Windows 7 doesn’t help, try Windows 8 from the drop-down list instead.
 
  Now open Black Myth: Wukong to see if it still experiences lags, stutters, and frame rate drops. If the problems remain, please move on to the next fix.
@@ -141,6 +166,9 @@ Lo and behold, Black Myth: Wukong, one of the most anticipated AAA games, is fin
 3. Under the launch options, add **\-dx11** . Then save and try to launch Black Myth: Wukong to see if how it works.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/12/steam-launch-options-dx11.jpg)
 4. If the crashing problem with Persona 3 Reload remains, try to change the command to **\-dx12** and see if it helps.
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 ---
 
@@ -164,3 +192,50 @@ Lo and behold, Black Myth: Wukong, one of the most anticipated AAA games, is fin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/fixed-lost-ark-fps-drop-and-performance-issue/"><u>[FIXED] Lost Ark FPS Drop & Performance Issue</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagram-to-mp4-perfection-uncover-2-most-effective-techniques/"><u>[New] 2024 Approved  Instagram to MP4 Perfection  Uncover 2 Most Effective Techniques</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elevating-your-youtube-presence-with-ideal-video-formats-for-2024/"><u>[New] Elevating Your YouTube Presence with Ideal Video Formats for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/15-diy-music-production-tutorial-videos-for-home-studios/"><u>15 DIY Music Production Tutorial Videos for Home Studios</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/adapting-chatgpt-for-personalized-prose-strategies-to-match-your-penmanship/"><u>Adapting ChatGPT for Personalized Prose: Strategies to Match Your Penmanship</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-vivo-y27-4g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Vivo Y27 4G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/black-ops-cold-war-patch-update-corrects-ui-flaw-error-id-2711/"><u>Black Ops Cold War Patch Update Corrects UI Flaw, Error ID 27^11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-your-gaming-experience-overcoming-frames-per-second-drops-in-splitgate/"><u>Boost Your Gaming Experience: Overcoming Frames Per Second Drops in Splitgate</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719268439990-chrome-freeze-no-more-top-solutions-for-windows-11-users/"><u>Chrome Freeze No More: Top Solutions for Windows 11 Users!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-correcting-civ-6s-access-denial-issue-court-proceedings/"><u>Comprehensive Guide to Correcting CIV 6'S Access Denial Issue Court Proceedings</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-solving-elex-ii-constant-freezing-and-crashes-on-pc/"><u>Comprehensive Guide to Solving Elex II Constant Freezing and Crashes on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diagnosing-and-repairing-problems-with-your-paradox-launcher/"><u>Diagnosing and Repairing Problems with Your Paradox Launcher</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-remedies-when-your-minecraft-game-gets-stuck-at-startup-screen/"><u>Effective Remedies When Your Minecraft Game Gets Stuck at Startup Screen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-to-eliminate-game-lag-in-outriders-for-windows-users/"><u>Effective Solutions to Eliminate Game Lag in Outriders for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enshrouded-game-error-resolved-play-uninterrupted-on-your-desktop/"><u>Enshrouded Game Error Resolved: Play Uninterrupted on Your Desktop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-apex-legends-playtime-mastering-connection-troubleshooting-techniques/"><u>Fix Your Apex Legends Playtime: Mastering Connection Troubleshooting Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004815833-fixing-battlefield-5s-startup-woes-an-easy-fix-guide-updated-for-224/"><u>Fixing Battlefield 5’S Startup Woes: An Easy Fix Guide Updated for 2#24!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-freezing-issues-in-modern-warfare-for-pc-gamers/"><u>Fixing Freezing Issues in Modern Warfare for PC Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-issues-with-logitech-options-on-windows-a-comprehensive-guide/"><u>Fixing Issues with Logitech Options on Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-runescape-how-to-stop-constant-game-crashes/"><u>Fixing RuneScape: How To Stop Constant Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fortnite-wont-start-fix-the-you-dont-have-permission-problem-easily/"><u>Fortnite Won’t Start? Fix the ‘You Don't Have Permission’ Problem Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/garrys-mod-continuous-crashes-top-5-fixes/"><u>Garry's Mod Continuous Crashes: Top 5 Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/getting-age-of-empires-iv-up-and-running-a-guide-to-fix-installation-problems/"><u>Getting Age of Empires IV Up and Running - A Guide to Fix Installation Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-freezing-and-shutdowns-in-starfield-while-playing-on-a-personal-laptopdesktop/"><u>How to Fix Freezing and Shutdowns in Starfield While Playing on a Personal Laptop/Desktop</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-vivo-y200-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Vivo Y200 Safely | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/immersive-graphics-geforce-rtx210-upgrade-on-windows-11/"><u>Immersive Graphics: GeForce RTX210 Upgrade on Windows 11</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-apple-iphone-6-plus-how-to-unlock-a-disabled-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 6 Plus How to Unlock a Disabled Apple iPhone 6 Plus?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-premier-5-ios-photo-background-swap-apps/"><u>In 2024, The Premier 5 iOS Photo Background Swap Apps</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-things-you-must-know-for-screen-mirroring-apple-iphone-se-drfone-by-drfone-ios/"><u>In 2024, Things You Must Know for Screen Mirroring Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/instant-remedies-to-stop-your-division-2-crashes-in-their-tracks/"><u>Instant Remedies to Stop Your Division 2 Crashes in Their Tracks</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-the-twitch-service-down-how-to-distinguish-between-platform-and-individual-connection-errors/"><u>Is the Twitch Service Down? How to Distinguish Between Platform and Individual Connection Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/locate-the-unseen-control-settings-on-new-windows-win11/"><u>Locate the Unseen: Control Settings on New Windows Win11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-track-day-overcoming-frame-rate-drops-in-f1-2021-for-a-smoother-race-experience/"><u>Optimizing Your Track Day: Overcoming Frame Rate Drops in F1 2021 for a Smoother Race Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-launch-issues-with-monster-hunter-stories-2-wings-of-ruin-solutions-and-help/"><u>Overcoming Launch Issues with Monster Hunter Stories 2: Wings of Ruin - Solutions & Help</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-game-playback-problems-steam-games-wont-start-on-windows-10-computers/"><u>Resolve Game Playback Problems: Steam Games Won't Start on Windows 10 Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-audio-configuration-errors-in-itunes/"><u>Resolved: Fixing Audio Configuration Errors in iTunes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/skyrim-muted-heres-how-to-bring-back-game-sounds/"><u>Skyrim Muted? Here's How to Bring Back Game Sounds</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-your-game-woes-fixing-maplestory-freezing-issues-in-windows-10/"><u>Solve Your Game Woes: Fixing MapleStory Freezing Issues in Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-to-tackle-high-latency-in-your-chivalry-2-gaming-experience-new-techniques-unveiled/"><u>Step-by-Step Solutions to Tackle High Latency in Your Chivalry 2 Gaming Experience (New Techniques Unveiled)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-fixing-pc-issues-in-star-wars-jedi-fallen-order/"><u>Troubleshooting Steps for Fixing PC Issues in Star Wars Jedi: Fallen Order</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlock-and-install-hyper-v-feature-on-windows-10-a-simple-walkthrough/"><u>Unlock and Install Hyper-V Feature on Windows 10 - A Simple Walkthrough</u></a></li>
+</ul></div>

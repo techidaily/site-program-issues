@@ -1,0 +1,225 @@
+---
+title: Expert Advice on Fixing acrocef.exe Errors Quickly and Easily
+date: 2024-08-23T17:29:44.574Z
+updated: 2024-08-24T17:29:44.574Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Expert Advice on Fixing acrocef.exe Errors Quickly and Easily
+excerpt: This Article Describes Expert Advice on Fixing acrocef.exe Errors Quickly and Easily
+thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768de909ec1df6dcfa19126cf1.jpg
+---
+
+## Experiencing League of Legends Connection Errors? Learn the Quick Fixes
+
+Connection issues can happen in every online game and bother many players. The League of Legends sometimes also occurs this issue. Don’t worry, you’re not alone. Here are the fixes for League of Legends connection issues.
+
+ Before performing any troubleshooting methods, you’d better check the current status of the League of Legends servers. If the server you’re going to connect has a problem, you can simply change into another server to avoid the connection issue.
+
+## Try these methods
+
+ Here’re 7 fixes that prove to be useful for many LOL players. Just work your way down the list to find out the one that solves your problem!
+
+1. [Restart your router & modem](https://tools.techidaily.com/drivereasy/download/)
+2. [Switch Wi-Fi into a wired connection](https://tools.techidaily.com/drivereasy/download/)
+3. [Check for Windows Firewall](https://tools.techidaily.com/drivereasy/download/)
+4. [Disable antivirus software](https://tools.techidaily.com/drivereasy/download/)
+5. [Update your device drivers](https://tools.techidaily.com/drivereasy/download/)
+6. [Disable your proxy & VPN](https://tools.techidaily.com/drivereasy/download/)
+7. [Change your DNS server](https://tools.techidaily.com/drivereasy/download/)
+
+### Method 1: Restart your router & modem
+
+ You should restart your modem and router especially if they haven’t been switched off for a long time. Just give them some time to cool off and clear up the cache. Here’s how to do it:
+
+1. Unplug both your router and modem.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/device.jpg)
+2. Wait at least 30 seconds to let the two machines cool down a bit.
+3. Plug the modem back in and wait until the indicator lights are back to their normal state.
+4. Plug the router back in this time. Likewise, wait until the indicator lights are back to their normal state.
+5. Now that your routers and modem have been restarted properly, you can launch LOL again to see if the connection issue goes away.
+
+### Method 2: Switch Wi-Fi into a wired connection
+
+ If you’ve already avoided possible wireless interference that weakens your Wi-Fi signal such as cordless phones and microwave ovens or simply move your laptop to a new location with a stronger Wi-Fi signal, but you still have the connection issue, you can try switch Wi-Fi into a wired connection.
+
+ Admittedly, a wireless network is not as stable as a wired one. To solve this problem, you could swap Wi-Fi to an Ethernet connection but this is not practical for everyone.  
+ Or, you can buy a **[powerline Ethernet adapter](https://www.amazon.com/NETGEAR-Powerline-Adapter-Ethernet-Passthrough/dp/B0778Y6K6N/ref=sr%5F1%5F4?keywords=powerline+ethernet+adapter&qid=1568199231&s=gateway&sr=8-4&tag=drivereasycom-20)**  which extends the reach of your home network to places with poor wireless coverage. Once your network problem is solved, your connection issue in LOL can also be fixed once and for all.
+
+### Method 3: Check for Windows Firewall
+
+ If LOL is not allowed in the Firewall, it’s not surprising to see the connection issue. So check the Firewall settings and ensure the LOL executable file is allowed in the Firewall.
+
+1. Type “control panel” in the search box to open the Control Panel.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/control-panel.jpg)
+2. Set Control Panel view by **Large icons** then click **Windows Defender Firewall** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/c2.jpg)
+3. Click **Allow an app or feature through Windows Defender Firewall** .  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg)
+4. Make sure the LOL is checked. If not, click the Change settings button then check the LOL. If you see more than one LOL entries, check all of them. Ensure the Private box and the Publick box are checked too.
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+5. Run LOL to check the issue is resolved or not.
+
+ If the LOL is already checked and this method doesn’t work for you, you can move on to try another method.
+
+---
+
+### Method 4: Disable antivirus software
+
+ Some antivirus software may block some features in LOL so that you encounter the connection issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
+
+**IMPORTANT** : Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
+</a>
+<!-- affiliate ads end -->
+### Method 5: Update your device drivers
+
+ Outdated network drivers may cause a connection issue. So you can try to update your network adapter driver to fix the problem.
+
+ If you don’t have the time, patience or computer skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the FREE or the [Pro version](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the [Pro version](https://tools.techidaily.com/drivereasy/download/) it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-714.png)
+3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-715.png)
+4. Run League of Legends to check the connection issue is resolved or not.
+
+**Note** : If you have any problems using Driver Easy to update your drivers, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
+
+---
+
+### Method 6: Disable your proxy & VPN
+
+ If you’re using a VPN or a proxy, make sure you disable them before getting started to play LOL. These are useful tools to protect your privacy online, but they can also be the causes of your high ping issue.
+
+ Below are the steps to disconnect from your proxy server and VPN.  
+ Please note: The screenshots shown below are under Windows 10 circumstance. If you’re using Windows 8.1/8/7 or any other editions, the steps may be a bit different.
+
+1. On your keyboard, press **the Windows logo key** + **I** at the same time to invoke the **Settings** window. Then click **Network & Internet** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/network.jpg)
+2. Click**Proxy** on the left pane. Turn off the toggles under**Automatically detect settings**  and **Use setup script** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/network1.jpg)
+3. Also, don’t forget to **disconnect your VPN** if you’re using it.
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+4. Launch LOL and check the connection issue.
+
+ Don’t lose your hope if you still cannot fix the connection issue after trying all the methods above. Just read the next fix and give it a shot.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Method 7: Change your DNS server
+
+ Try to switch your ISP’s DNS server to the Google Public DNS address. This may improve the resolution time and provide you with greater online security. Here’s how:
+
+1. On your keyboard, press **the Windows logo key** \+ **R** at the same time to open the Run box.
+2. Type **control** **panel** and press **Enter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel1-1.jpg)
+3. Set Control Panel view by **Category** then click **View network status and tasks** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/network2.jpg)
+4. Click **Change adapter settings** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/network3.jpg)
+5. Right-click on your network and select **Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/network4.jpg)
+6. Double-click **Internet Protocol Version 4 (TCP/IPv4)**  to view its properties.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-630.png)
+7. In the pop-up window, select these two options: **Obtain an IP address automatically** and **Use the following DNS server addresses** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<!-- affiliate ads end -->
+ For the Preferred DNS server, enter 8.8.8.8 to replace the primary IP address; for the **Alternate DNS server** , enter **8.8.4.4** . Then click **OK** to save the changes.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-633.png)  
+**Note** : If you want to restore your DNS server addresses, simply change **Use the following DNS server addresses** to **Obtain DNS server address automatically** and then restart your network adapter.
+8. Reboot your PC and launch LOL. Check the connection issue is resolved or not.
+
+---
+
+ We’ll be glad if any of the fixes above helped you resolve the League of Legends connection issue. Please feel free to leave a comment below if you have further questions or ideas. Hopefully, you’ll have wonderful gaming experience and work your way up to the best player!
+
+* [League of Legends](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-name-selection-for-distinctive-youtube-channels/"><u>[New] Mastering Name Selection for Distinctive YouTube Channels</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/upercharge-your-videos-with-powerful-tagging-techniques/"><u>[New] Supercharge Your Videos with Powerful Tagging Techniques</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-tailoring-thumbnails-for-maximum-youtube-impact/"><u>[Updated] Tailoring Thumbnails for Maximum YouTube Impact</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-top-12-strategies-reviving-non-visible-fb-video-posts/"><u>[Updated] Top 12 Strategies  Reviving Non-Visible FB Video Posts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/avoid-game-interruptions-how-to-address-freeze-ups-in-call-of-duty-vanguard-effortlessly/"><u>Avoid Game Interruptions: How to Address Freeze-Ups in Call of Duty: Vanguard Effortlessly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banishing-silence-effective-solutions-to-the-roblox-audio-problem-on-win11-win10/"><u>Banishing Silence: Effective Solutions to the Roblox Audio Problem on Win11, Win10</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/brief-stardom-flash-review/"><u>Brief Stardom Flash Review</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-how-to-address-and-repair-server-disconnect-problems-in-eft/"><u>Comprehensive Guide: How to Address and Repair Server Disconnect Problems in EFT</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeat-teardown-app-malfunctions-in-depth-strategies-and-solutions/"><u>Defeat Teardown App Malfunctions: In-Depth Strategies & Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007345984-diablo-immortal-stability-hacks-for-players-no-more-pc-crashes/"><u>Diablo Immortal Stability Hacks for Players: No More PC Crashes!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-transfer-how-to-view-your-icloud-photos-on-windows-and-android/"><u>Easy Transfer: How to View Your iCloud Photos on Windows & Android</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elimina-el-lag-en-tu-juego-de-forza-horizon-5-siguiendo-estas-soluciones-probadas/"><u>Elimina El Lag en Tu Juego De Forza Horizon 5 Siguiendo Estas Soluciones Probadas</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-implemented-origin-previously-offline-now-up-and-running-smoothly/"><u>Fix Implemented: Origin Previously Offline, Now Up & Running Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-installation-failed-a-step-by-step-guide-to-a-smooth-disco-experience/"><u>Fixing 'Installation Failed': A Step-by-Step Guide to a Smooth Disco Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-constant-crashes-in-sony-vegas-video-editing-software-expert-advice/"><u>How to Fix Constant Crashes in Sony Vegas Video Editing Software: Expert Advice</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-the-frustrating-black-screen-that-stops-you-from-playing-overwatch/"><u>How To Fix The Frustrating Black Screen That Stops You From Playing Overwatch</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-reno-10-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo Reno 10 5G FRP</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harness-kinemasters-power-techniques-for-professionals-and-top-online-platforms/"><u>In 2024, Harness KineMaster's Power  Techniques for Professionals & Top Online Platforms</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-laugh-ledger-top-10-tweets-for-a-smile/"><u>In 2024, Laugh Ledger  Top 10 Tweets for a Smile</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-optimizing-ad-reach-on-social-medias-leading-platform/"><u>In 2024, Optimizing Ad Reach on Social Media's Leading Platform</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-art-of-troubleshooting-in-palworld-solve-your-eos-login-errors-with-these-nifty-techniques/"><u>Mastering the Art of Troubleshooting in Palworld: Solve Your EOS Login Errors with These Nifty Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/minecraft-multiplayer-woes-overcoming-network-connectivity-problems/"><u>Minecraft Multiplayer Woes: Overcoming Network Connectivity Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pro-tips-to-keep-fifa-21-running-smoothly-on-your-pc-a-detailed-explanation/"><u>Pro Tips to Keep FIFA 21 Running Smoothly on Your PC – A Detailed Explanation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-stop-the-annoying-screen-tremor-a-step-by-step-guide/"><u>Resolved! How to Stop the Annoying Screen Tremor - A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-to-overcome-directx-errors-on-cod-mw2-platform/"><u>Step-by-Step Solutions to Overcome DirectX Errors on CoD MW2 Platform</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-tips-to-fix-problematic-game-sounds-in-halo-infinite/"><u>Step-by-Step Tips to Fix Problematic Game Sounds in Halo Infinite</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-fixes-steelseries-gg-engine-issues-on-windows-pcs/"><u>Troubleshooting & Fixes: SteelSeries GG Engine Issues on Windows PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003903614-troubleshooting-a-nonfunctional-start-menu-on-windows-11-resolved/"><u>Troubleshooting a Nonfunctional Start Menu on Windows 11 - Resolved</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-overcoming-spellbreaks-stability-problems-on-windowsmac/"><u>Troubleshooting Guide: Overcoming Spellbreak's Stability Problems on Windows/Mac</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-fix-gta-5-online-connectivity-problems/"><u>Troubleshooting Steps to Fix GTA 5 Online Connectivity Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-improving-your-ubisoft-connects-downloading-performance/"><u>Troubleshooting Steps: Improving Your Ubisoft Connect's Downloading Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-game-stutter-in-code-vein/"><u>Troubleshooting Tips: Resolving Game Stutter in Code Vein</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-utorrent-non-response-issues-top-7-effective-solutions/"><u>Troubleshooting UTorrent Non-Response Issues: Top 7 Effective Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-boosting-your-fallout-76-gameplay-with-enhanced-frame-rates/"><u>Ultimate Guide: Boosting Your Fallout 76 Gameplay with Enhanced Frame Rates</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-lost-ark-game-crashes/"><u>Ultimate Guide: Resolving Lost Ark Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993669218-ultimate-quick-fix-how-to-stop-league-of-legends-from-crashing-now/"><u>Ultimate Quick Fix: How to Stop League of Legends From Crashing Now!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/virtual-therapist-tools-safe-ai-for-mental-health/"><u>Virtual Therapist Tools: Safe AI for Mental Health</u></a></li>
+</ul></div>

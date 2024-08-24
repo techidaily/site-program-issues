@@ -1,0 +1,235 @@
+---
+title: Optimizing Your PC to Stop 'BloodHunt' From Lagging or Freezing on Windows 10/11
+date: 2024-08-23T17:31:44.373Z
+updated: 2024-08-24T17:31:44.373Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Optimizing Your PC to Stop 'BloodHunt' From Lagging or Freezing on Windows 10/11
+excerpt: This Article Describes Optimizing Your PC to Stop 'BloodHunt' From Lagging or Freezing on Windows 10/11
+thumbnail: https://thmb.techidaily.com/ac5ea28508f08a71ef3011645ae3c8126537c0f91172c9b8453700083e020732.jpg
+---
+
+## Master Five Essential Fixes to Stop World of Warships From Freezing in Windows
+
+It’s a lot of fun to immerse in the epic naval warfare in World of Warships. However, when the game keeps crashing, it could feel awful and annoying. If you’re one of the many plagued by the constant crashes, don’t frustrate as this problem is not hard to fix.
+
+## Try these fixes
+
+ Here are 5 fixes that helped other players solve World of Warships crashing. You don’t need to try them all; just work in order until you find the one that does the trick.
+
+1. **[Repair the game files](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Update your graphics card driver](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Delete the preferences.xml file](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Launch World of Warships in safe mode](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
+
+ The screenshots below come from Windows 10, but the fixes also apply to Windows 7 and Windows 8.
+
+### Fix 1 – Repair the game files
+
+ Corrupted and damaged game file is one of the most common causes of game crashes, so an integrity check should be your first step for troubleshooting. We’ll show you how to do this on[**Steam**](https://tools.techidaily.com/drivereasy/download/) and **[Wargaming launcher](https://tools.techidaily.com/drivereasy/download/)**  .
+
+#### If you play on Steam
+
+**1)** Open the Steam client. Then, navigate to the**Library** tab.
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-4.jpg)
+
+**2)** Right-click**World of Warships** and click**Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4-2.jpg)
+
+**3)** Select the**Local Files** tab, and click**Verify Integrity of Game Files** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-5-3.jpg)
+
+ After it finishes validating the game files, you can relaunch World of Warships to check if crashes are still there. If yes, proceed to **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  below.
+
+#### If you play on Wargaming launcher
+
+**1)** Launch the Wargaming Game Center.
+
+**2)** Select**World of Warships** . Then, click**Game Settings** and click**Check and Repair** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1-8.jpg)
+
+**3)** Click**Continue** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2-6.jpg)
+
+ Wait for the process to complete, and relaunch World of Warships to test this method. If it fails to cure the crash, move on to the fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 2 – Update your graphics card driver
+
+ Graphics card is important in determining the video game performance. If your GPU driver is wrong or outdated, you might get a lot of crashes when playing World of Warships. To solve this, you need to get the right and latest graphics driver safely. Here’re two options for you: **[manually](https://tools.techidaily.com/drivereasy/download/)**  or **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
+
+#### Option 1 – Update the graphics card driver manually
+
+ Graphics card manufacturers keep updating drivers and they’re usually available on their official websites:
+
+* **[AMD](https://www.amd.com/en/support)**
+* **[NVIDIA](https://www.nvidia.com/Download/index.aspx)**
+* **[Intel](https://downloadcenter.intel.com/)**
+
+ Find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually. Then, double-click the downloaded file and follow the on-screen instructions to install the driver.
+
+#### Option 2 – Automatically update the graphics card driver
+
+ If you don’t have the time, patience or computer skills to update the graphics driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  it takes just 2 clicks:
+
+**1)** **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+**2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/de-3.jpg)
+
+**3)** Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/de.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ You can click**Update** to do it for free if you like, but it’s partly manual.
+
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ Now that you’ve installed the most recent graphics driver, you can expect a smooth and enhanced game performance. If updating the driver doesn’t work, keep reading the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 3 – Delete the preferences.xml file
+
+ This is a simple but useful trick reported by many players to stop World of Warships from crashing. Please note that this process will clear the corrupted cache and revert the game settings, including audio, graphics and controls to default.
+
+**1)** On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog. Then, type**%appdata%\\wargaming.net\\worldofwarships** , and click**OK** .
+
+ If you’re playing WoWS on Steam, you may locate the preferences.xml file in: **C: > Program Files (x86) > Steam > steamapps > common** \>**World of Warships** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-10.jpg)
+
+**2)** Click the**preferences.xml file** and press the**Delete key** on your keyboard.
+
+See if the crashing issue goes away. If not, try the fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 4 – Launch World of Warships in safe mode
+
+ If you’re accustomed to playing World of Warships with installed modifications but found the game started to malfunction after an update, the problem is possibly related to the mods. To identify whether that’s the case, you can try the safe mode.
+
+**1)** Launch World of Warships.
+
+**2)** Click the**up arrow icon** next to Play and click**Launch the game in safe mode** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-1-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+Do the crashes disappear now? If not, continue to the next fix.
+
+### Fix 5 – Reinstall the game
+
+ If you’ve tried all the methods above but still to no avail, you could reinstall the game as a last resort. Here is how:
+
+**1)** Type**control** in the search bar and click**Control Panel** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-1-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+**2)** Select**Category** next to View by, and click**Uninstall a program** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-2-5.jpg)
+
+**3)** Click**World of Warships** from the list, and click**Uninstall** . Then, follow the on-screen instructions to complete the process.
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-3-2.jpg)
+
+**4)** On your keyboard, press the**Windows logo key** and**E** at the same time to open File Explorer.
+
+**5)** Paste**C:\\Users\\\[User Name\]\\AppData\\Roaming\\Wargaming.net** to the address bar and press Enter. (If you play on Steam, then go to this path:**C:\\Program Files (x86)\\Steam\\steamapps\\common** .)
+
+**6)** If you see the World of Warships folder, click it and press the**Delete key** .
+
+ After World of Warships is completely removed from your PC, download and install it from Steam or Wargaming again. This should resolve the stubborn issues with your previous installation and help you resume the naval adventure!
+
+---
+
+ That’s it – 5 working fixes for World of Warships crashing on PC. If you have further questions or suggestions, or would like to share your tricks, feel free to leave a comment below. 🙂
+
+* [game crash](https://tools.techidaily.com/drivereasy/download/)
+* [Steam](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-from-idea-to-execution-creating-youtube-trailers-in-filmora/"><u>[New] 2024 Approved  From Idea to Execution  Creating YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-fades-in-adobe-audition-basics/"><u>[New] Mastering Fades in Adobe Audition Basics</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-facebook-tutorial-how-to-create-facebook-account-for-2024/"><u>[Updated] Facebook Tutorial  How to Create Facebook Account for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-no-more-youtube-shorts-a-detailed-breakdown/"><u>[Updated] In 2024, No More YouTube Shorts  A Detailed Breakdown</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-iphone-flash-optimization-tips/"><u>[Updated] IPhone Flash Optimization Tips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-no-more-troubles-mastering-ipad-video-captures-now/"><u>2024 Approved  No More Troubles? Mastering iPad Video Captures Now</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-screen-recording-innovations-a-comparative-look/"><u>2024 Approved  Screen Recording Innovations  A Comparative Look</u></a></li>
+<li><a href="https://program-issues.techidaily.com/alternatives/"><u>Alternatives</u></a></li>
+<li><a href="https://program-issues.techidaily.com/apex-legends-players-guide-resolving-in-game-engine-errors-successfully/"><u>Apex Legends Players Guide: Resolving In-Game Engine Errors Successfully</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-phasmophobia-crashing-glitches-tips-and-troubleshooting/"><u>Banish Phasmophobia Crashing Glitches : Tips and Troubleshooting</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elevate-your-experience-expert-tips-for-eliminating-stutter-and-improving-frame-rates-in-gaming/"><u>Elevate Your Experience: Expert Tips for Eliminating Stutter and Improving Frame Rates in Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/escape-the-endless-load-fix-your-game-in-7-simple-steps-forza-horizon-5/"><u>Escape the Endless Load: Fix Your Game in 7 Simple Steps (Forza Horizon 5)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722998528154-forza-horizon-5-update-errors-heres-how-to-correct-your-graphics-driver-woes/"><u>Forza Horizon 5 Update Errors? Here’s How to Correct Your Graphics Driver Woes!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-repairing-errors-in-msi-dragon-center-functionality/"><u>Guide to Repairing Errors in MSI Dragon Center Functionality</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-preventing-stardew-valley-from-crashing-on-your-computer/"><u>Guide: Preventing Stardew Valley From Crashing on Your Computer</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-google-pixel-8-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Google Pixel 8 Pro Quickly? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oneplus-11r-drfone-by-drfone-android/"><u>How to Screen Mirroring OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/immediate-remedies-to-get-apex-legends-up-and-running-again/"><u>Immediate Remedies to Get Apex Legends Up and Running Again</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-oppo-a58-4g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Oppo A58 4G Phones? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-redmi-a2plus-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi Redmi A2+</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722971859905-installing-the-latest-samsung-2-usb-drive-for-windows-free-driver-downloads/"><u>Installing the Latest Samsung Ⅿ.2 USB Drive for Windows - Free Driver Downloads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-windows-hello-recognition-work-again/"><u>Making Windows Hello Recognition Work Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-smooth-play-overcoming-variable-fps-challenges/"><u>Mastering Smooth Play: Overcoming Variable FPS Challenges</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-hurdles-debugging-techniques-for-armored-core-6-on-windows-systems/"><u>Overcoming the Hurdles: Debugging Techniques for Armored Core 6 on Windows Systems</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Pokemon Go Error 12 Failed to Detect Location On Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-resolution-overcoming-common-challenges-when-launching-fortnite/"><u>Quick Resolution: Overcoming Common Challenges When Launching Fortnite</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-overcome-genshin-impacts-startup-issues/"><u>Quick Solutions: Overcome Genshin Impact's Startup Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/red-dead-redemption-2-fixes-how-to-stop-the-game-from-crashing-on-your-windows-pc/"><u>Red Dead Redemption 2 Fixes: How to Stop the Game From Crashing on Your Windows PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-issue-of-a-black-screen-in-fortnite-on-pc-a-step-by-step-guide/"><u>Resolving the Issue of a Black Screen in Fortnite on PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tackling-steams-server-connection-troubles-heres-the-solution/"><u>Tackling Steam’s Server Connection Troubles? Here's the Solution</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>The Best 8 VPN Hardware Devices Reviewed On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Nokia 150 (2023) | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-infinix-note-30-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Infinix Note 30 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-resolve-your-mordhau-crash-issues-with-these-tips/"><u>Troubleshoot and Resolve Your Mordhau Crash Issues with These Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-palworld-loading-problems-with-these-easy-steps/"><u>Troubleshoot Palworld Loading Problems with These Easy Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723002693475-troubleshooting-guide-no-more-crashes-in-updated-version-of-classic-diablo-2/"><u>Troubleshooting Guide: No More Crashes in Updated Version of Classic Diablo 2!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlock-the-hidden-potential-of-windows-11-with-these-tips/"><u>Unlock the Hidden Potential of Windows 11 with These Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/webinar-video-archive-creation/"><u>Webinar Video Archive Creation</u></a></li>
+</ul></div>

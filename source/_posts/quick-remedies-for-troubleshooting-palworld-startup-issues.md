@@ -1,0 +1,468 @@
+---
+title: Quick Remedies for Troubleshooting PalWorld Startup Issues
+date: 2024-08-23T17:38:33.556Z
+updated: 2024-08-24T17:38:33.556Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Quick Remedies for Troubleshooting PalWorld Startup Issues
+excerpt: This Article Describes Quick Remedies for Troubleshooting PalWorld Startup Issues
+thumbnail: https://thmb.techidaily.com/cdded6aa8f500657d1cc67ca7b77cb926c32d80c757bf8e50b4e15a0eac70eb2.jpg
+---
+
+## Troubleshooting the FIFA 21 Failed Startup Problems - Fixed
+
+FIFA 21 is definitely an upgrade from 20 with an improvement to both career mode and ultimate mode. Despite this, players are encountering several issues like the game not launching. If you happened to be one of them, don’t worry. We’ve got several working fixes for you.
+
+## Try these fixes
+
+ You might not need to try them all; simply work your way down the list until you find the one that works for you.
+
+1. [Allow your game through Windows Firewall](https://tools.techidaily.com/drivereasy/download/)
+2. [Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)
+3. [Disable in-game overlay](https://tools.techidaily.com/drivereasy/download/)
+4. [Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)
+5. [Run the game as an administrator](https://tools.techidaily.com/drivereasy/download/)
+6. [Run FIFA 21 in compatibility mode for Windows 8](https://tools.techidaily.com/drivereasy/download/)
+7. [Change DIRECTX_SELECT value](https://tools.techidaily.com/drivereasy/download/)
+8. [Set the settings to default in FIFA 21 Launcher](https://tools.techidaily.com/drivereasy/download/)
+9. [Launch FIFA 21 in Windowed or Windowed borderless mode](https://tools.techidaily.com/drivereasy/download/)
+10. [Delete files from ProgramData (Origin)](https://www.drivereasy.com/knowledge/solved-fifa-21-not-launching/#fix10)
+11. [Delete files from AppData (Origin)](https://www.drivereasy.com/knowledge/solved-fifa-21-not-launching/#fix11)
+
+## Before getting started
+
+ Before moving on to the fixes, you need to make sure that your computer meets the minimum hardware and OS requirements to launch the game.
+
+| **OS**        | Windows 10 64-Bit                                       |
+| ------------- | ------------------------------------------------------- |
+| **Processor** | Intel Core i3-6100 @ 3.7GHz or AMD Athlon X4 880K @4GHz |
+| **Memory**    | 8 GB RAM                                                |
+| **Graphics**  | NVIDIA GTX 660 2GB or AMD Radeon HD 7850 2GB            |
+| **Storage**   | 50 GB available space                                   |
+
+**MINIMUM** System Requirements
+
+To check your system information, you can:
+
+ 1) Press the**Windows logo key + R** together on your keyboard to open the Run dialog box.
+
+ 2) Type**dxdiag** and hit**Enter** .
+
+![open DirectX Diagnostic Tool to check the system information](https://images.drivereasy.com/wp-content/uploads/2020/10/dxdiag-Run-box-1.jpg)
+
+ 3) When the**DirectX Diagnostic Tool** window opens, under the**System** tab, you can check your system information listed.
+
+![check system information](https://images.drivereasy.com/wp-content/uploads/2020/10/check-system-information.png)
+
+---
+
+## Fix 1: Allow your game through Windows Firewall
+
+ Sometimes Windows Security may block your game from launching. So you should manually add your game to the list of allowed apps to prevent it from being blocked.
+
+To do so, you can:
+
+ 1) In the **Search**  box, type **windows security**  and click **Windows Security**  from the results.
+
+![allow  an app through controlled folder access FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-security-1.png)
+
+ 2) Select **Virus & threat protection**  from the left pane. Scroll down and under the **Ransomware protection**  section, click **Manage ransomware protection** .
+
+![allow  an app through controlled folder access FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/09/manage-ransomware-protection-1200x684.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+ 3) Switch the **Controlled folder access**  setting to **On** . When a window pops up asking “**Do you want to allow this app to make changes to your device** “, click **Yes** .  
+ Then click **Allow an app through Controlled folder access** .
+
+![allow  an app through controlled folder access FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/09/allow-an-app-through-controlled-folder-access-1200x684.png)
+
+ 4) Click **Add an allowed app** **\> Browse all apps** .
+
+![allow  an app through controlled folder access FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/09/allow-an-app-through-controlled-folder-access-2-1-1200x684.png)
+
+ 5) Then navigate to the game’s installation folder and select**FIFA 21.exe** , also**FIFA 21 trial.exe & FIFAconfig.exe** (only if you have them).
+
+ Also, if you’re using any antivirus software like Avast, AVG, you’re supposed to disable them before you launch your game. Because there is a possibility that this antivirus software is in conflict with your game launching.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
+## Fix 2: Update your graphics driver
+
+ When you have problems launching a game, you need to check if you’re using an outdated or faulty graphics driver. As drivers can greatly impact the system’s performance. Therefore, if you can’t remember when was the last time you updated your graphics driver, definitely do it now as it may fix your issue immediately.
+
+There are two ways you can update your graphics driver:
+
+**[Option 1 – Manually](https://tools.techidaily.com/drivereasy/download/)**  – You’ll need some computer skills and patience to update your drivers this way because you need to find exactly the right driver online, download it and install it step by step.
+
+OR
+
+**[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/solved-fifa-21-not-launching/#option2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Option 1 – Manually update your graphics drivers
+
+ To update your graphics driver manually, you can go to the official website:
+
+[NVIDIA](https://tools.techidaily.com/drivereasy/download/)
+[AMD](https://www.amd.com/en/support)
+
+ Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
+
+### **Option 2 – Automatically update your drivers** (recommended)
+
+ Manually updating graphics drivers does take some time and patience. Also if you encounter other issues related to driver updates while playing the game in the future, you’ll again have to bother downloading and installing the latest drivers on your own. So to save you time, we highly recommend using Driver Easy as your great pick for driver updates.
+
+ Driver Easy is a useful tool that will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running or risk downloading and installing the wrong driver.
+
+Here’s how you can update your drivers with Driver Easy:
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and **detect any problem drivers** .
+
+![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
+ 3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
+**The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ After updating your drivers, restart your computer and try to launch the game.
+
+---
+
+## Fix 3: Disable in-game overlay
+
+ If you turn on the in-game overlay, it could cause your game not to launch. In this case, you should turn it off on[Steam](https://tools.techidaily.com/drivereasy/download/) or[Origin](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Steam
+
+ 1) Launch the Steam client and select the tab **LIBRARY** .
+
+ 2) Right-click on **FIFA 21** and select **Properties** .
+
+![disable in-game overlay on Steam FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/10/select-Properties-on-Steam-2.jpg)
+
+ 3) Select **GENERAL**  and uncheck the box **Enable the Steam Overlay while in-game** .
+
+![disable in-game overlay on Steam FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-Steam-overlay-1.png)
+
+ After applying the changes, exit Steam and run your game to see if this fixed the issue. If the issue persists, try the[next fix](https://tools.techidaily.com/drivereasy/download/) .
+
+### Origin
+
+ 1) Open Origin on your computer and click on**My Game Library** .
+
+![disable in-game overlay on Origin FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/10/click-My-Game-Library-on-Origin.jpg)
+
+ 2) Click on**FIFA 21** . Scroll down and click on**Settings** (the gear icon), then select**Game Properties** .
+
+![disable in-game overlay on Origin FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/10/click-on-settings-and-then-select-Game-Properties.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+ 3) Uncheck the box **Enable Origin In Game for EA SPORTSTM FIFA 21 Ultimate Edition** and click**Save** .
+
+![disable in-game overlay on Origin FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/10/uncheck-the-box-1200x653.jpg)
+
+ 4) Exit Origin and relaunch your game to check if it works. If it doesn’t, try the[next fix](https://tools.techidaily.com/drivereasy/download/) .
+
+---
+
+## Fix 4: Verify the integrity of game files
+
+ Verifying the integrity of game files is a recommended troubleshooting step you should take when you’re faced with the game not launching issue. It can help you verify if the integrity of your game files is intact. If it is not, it’ll then restore any missing or corrupted files. So you’re supposed to verify the game’s files on[Steam](https://tools.techidaily.com/drivereasy/download/) or[Origin](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
+### Steam
+
+ 1) Launch Steam client. From the **LIBRARY**  section, right-click on **Phasmophobia** and select **Properties**  from the menu.
+
+![verify integrity of game files on Steam FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/10/select-Properties-on-Steam-3.jpg)
+
+ 2) Select the **LOCAL FILES**  tab and click the **VERIFY INTEGRITY OF GAME FILES…** button.
+
+![verify integrity of game files on Steam FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/10/verify-integrity-of-game-files-Steam-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
+ 3) Steam will verify the game’s files and this process may take several minutes. After it’s finished, launch your game to check if it works for you. If not, move on to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Origin
+
+ 1) Go to**My Game Library** . Right-click on**FIFA 21** and select**Repair** .  
+ This will analyze the local files of FIFA 21 and reinstate corrupted or missing files.
+
+![repair game files on Origin](https://images.drivereasy.com/wp-content/uploads/2020/10/repair-game-in-Origin-1.jpg)
+
+ After the process is completed, click**Update Game** to make sure that you have the latest version of the game. The new version of the game can have patches that fix errors.
+
+ 2) Now click**Origin** and select**Sign Out** .
+
+![repair game files on Origin](https://images.drivereasy.com/wp-content/uploads/2020/10/exit-Origin.jpg)
+
+To make sure you’ve completely quit Origin, you can:
+
+ 1) Press**Windows logo key + R** together on your keyboard to open the Run dialog box.
+
+ 2) Type**taskmgr** and press**Enter** to open the Windows Task Manager.
+
+![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/10/open-task-manager.jpg)
+
+ 3) Under the**Processes** tab, scroll down and find**Origin** . Right-click on it and select**End task** .
+
+![end task in Task Manager](https://images.drivereasy.com/wp-content/uploads/2020/10/end-task-Origin.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Now restart your computer and launch your game to check if it does the trick. If it doesn’t, move on to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
+## Fix 5: Run the game as an administrator
+
+ Granting the game administrator rights can solve many issues including not launching issues. So you should run FIFA 21 as an administrator.
+
+ 1) Locate the file where you installed your game. Find the**FIFA 21 .exe file** and right-click on it.
+
+![run FIFA 21 as an administrator](https://images.drivereasy.com/wp-content/uploads/2020/10/run-FIFA-21-in-compatibility-mode-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
+ 2) Select the**Compatibility** tab. Check the box**Run this program as an administrator** . Then click**Apply > OK** .
+
+![run FIFA 21 as an administrator](https://images.drivereasy.com/wp-content/uploads/2020/10/run-the-game-as-an-administrator-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<!-- affiliate ads end -->
+3) Now launch your game and check if it works.
+
+---
+
+## Fix 6: Run FIFA 21 in compatibility mode for Windows 8
+
+ If you encounter the issue of your game not launching, running it in compatibility mode for Windows 8 may help. Here’s how you can do it:
+
+ 1) Locate the file where you installed your game. Find the**FIFA 21 .exe file** and right-click on it.
+
+![Run FIFA 21 in compatibility mode for Windows 8 FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/10/run-FIFA-21-in-compatibility-mode-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 2\. Select the**Compatibility** tab and check the box**Run this program in compatibility mode for:** (make sure that you select**Windows 8** ). Then click**Apply > OK** .
+
+![Run FIFA 21 in compatibility mode for Windows 8 FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/10/run-FIFA-21-in-compatibility-mode-2.jpg)
+
+ After applying the changes, launch your game again and check if the game not launching issue persists. If it does, move on to the next fix.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+## Fix 7: Change DIRECTX\_SELECT value
+
+ Changing DIRECTX\_SELECT value has proved to be working for many players. So you should give it a try.
+
+ 1) Open the FIFA 21 folder and you can see**fifasetup** . Right-click on it and select**Open with > Notepad** .
+
+![Change DIRECTX_SELECT value](https://images.drivereasy.com/wp-content/uploads/2020/10/right-click-on-fifasetup-and-select-Open-with-notepad.jpg)
+
+ 2) If the**DIRECTX\_SELECT** value is**0** . You can change it to**1** . If it’s**1** , change it to**0** .
+
+![Change DIRECTX_SELECT value](https://images.drivereasy.com/wp-content/uploads/2020/10/if-the-directselect-value-is-0.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
+ 3) After applying the changes, click**File > Save** .
+
+![Change DIRECTX_SELECT value](https://images.drivereasy.com/wp-content/uploads/2020/10/click-on-File-and-click-on-Save.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
+4) Close the notepad and launch your game if it solves the problem.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Fix 8: Set the settings to default in FIFA 21 Launcher
+
+ You probably had changed the settings before in order to have a certain result. But it may cause some issues like the game not launching. So you’re supposed to set them to default. Here’s how you can do this:
+
+ 1) Open your game and click on**Game Settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/set-the-settings-to-default-in-FIFA-21-launcher.jpg)
+
+ 2) When you’re guided to the**Game Settings** window, click**Restore Default** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/click-on-Restore-Default.jpg)
+
+3) Now try to relaunch your game.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
+## Fix 9: Launch FIFA 21 in Windowed or Windowed borderless mode
+
+ Some players have reported that launching the game in Windowed or Windowed borderless mode helped fix the issue. So you’re supposed to give it a shot.
+
+ 1) Open your launcher and click on**Game Settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/set-the-settings-to-default-in-FIFA-21-launcher.jpg)
+
+ 2) When you’re guided to the**Game Settings** window, under the**Display Configuration** tab, select**Windowed or Windowed Borderless** mode. Then click**Ok** to apply the changes.
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/launch-the-game-in-Windowed-or-borderless-Windowed-mode.jpg)
+
+3) Now launch your game to check if it does the trick.
+
+---
+
+## Fix 10: Delete files from ProgramData (Origin)
+
+ There’re some files that are corrupted, which would probably stop the game from launching. So you need to delete them.
+
+ 1) Press the**Windows logo key + R** together on your keyboard to open the Run dialog box.
+
+ 2) Type**%ProgramData%/Origin** and press**Enter** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/program-data-Origin.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 3) Delete all the files from this folder, except the**LocalContent** file.
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/do-not-delete-this-file-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Fix 11: Delete files from AppData (Origin)
+
+ Deleting files from ProgramData might not solve the issue. In this case, you can also delete files from AppData.
+
+ 1) Press the**Windows logo key + R** at the same time on your keyboard to open the Run dialog box.
+
+ 2) Type**%appdata%** and press**Enter** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/appdata.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 3) Right-click on**Origin** and select**Delete** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-from-appdata.jpg)
+
+ 4) In the address bar of File Explorer, click on**AppData** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/click-on-appdata.jpg)
+
+ 5) Double-click on the**Local** folder. Scroll down and delete the**Origin** folder.
+
+ After you’ve done all of these, restart and computer and launch the game to check if it does the trick.
+
+---
+
+ So these are 11 fixes for the FIFA 21 not launching issue. If nothing works, you should consider completely uninstalling the game and then installing it again. For any questions or ideas, please leave us a comment below.
+
+* [Fifa](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-crack-the-code-unearthing-hidden-gems-in-youtubes-archive/"><u>[New] Crack the Code  Unearthing Hidden Gems in YouTube's Archive</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-livestream-perfection-selecting-your-go-to-platform/"><u>[New] Livestream Perfection  Selecting Your Go-To Platform</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-superior-streaming-recorders-for-youtube-vloggers/"><u>[New] Superior Streaming Recorders for YouTube Vloggers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-expert-guide-to-using-snap-on-zoom-webinars/"><u>2024 Approved  Expert Guide to Using Snap on Zoom Webinars</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/catch-these-top-10-sport-movies-that-are-a-perfect-fit-for-movie-buffs-right-now/"><u>Catch These Top 10 Sport Movies That Are a Perfect Fit for Movie Buffs Right Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/clearing-up-network-issues-a-fix-for-discord-packet-loss-problems/"><u>Clearing Up Network Issues: A Fix for Discord Packet Loss Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-vanguard-pc-game-crash-fixes-top-solutions/"><u>CoD Vanguard PC Game Crash Fixes : Top Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/crisp-and-clear-gameplay-fixing-the-hazy-visuals-in-cod-warzone-pc/"><u>Crisp and Clear Gameplay: Fixing the Hazy Visuals in COD: Warzone (PC)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-when-persona-3-ultimate-wont-start-up/"><u>Effective Solutions When Persona 3 Ultimate Won't Start Up</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/tial-apps-best-10-software-to-capture-your-screens-for-2024/"><u>Essential Apps  Best 10 Software to Capture Your Screens for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-repairing-failed-attempts-to-launch-microsoft-outlook/"><u>Expert Tips for Repairing Failed Attempts to Launch Microsoft Outlook</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-how-to-prevent-dramatic-fps-drops-in-resident-evil-village-on-pc/"><u>Fixes and Solutions: How to Prevent Dramatic FPS Drops in Resident Evil Village on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-helldivers-ii-resolving-the-black-screen-at-launch/"><u>Fixing Helldivers II - Resolving the Black Screen at Launch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/illuminating-solutions-how-to-get-unstuck-from-nba-2k21s-persistent-black-screen-issue/"><u>Illuminating Solutions: How to Get Unstuck From NBA 2K21’s Persistent Black Screen Issue</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-apple-iphone-8-plus-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From Apple iPhone 8 Plus without Password?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-rapid-visual-repository-w-audio-walkthrough-guide/"><u>In 2024, Rapid Visual Repository W/ Audio Walkthrough Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722997706709-marvel-enthusiasts-rejoice-solve-guardians-of-the-galaxy-pc-crash-issues-using-our-top-8-fixes/"><u>Marvel Enthusiasts Rejoice: Solve Guardians of the Galaxy PC Crash Issues Using Our Top 8 Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/modern-warfare-launch-failures-solutions-and-fixes/"><u>Modern Warfare Launch Failures - Solutions and Fixes</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-how-to-edit-the-beat-and-sync-videos-to-music-in-final-cut-pro-x/"><u>New 2024 Approved How to Edit the Beat and Sync Videos to Music in Final Cut Pro X</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fix-for-windows-update-mishaps-correcting-error-8007000e/"><u>Quick Fix for Windows Update Mishaps: Correcting Error 8007000E</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-tecno-camon-20-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Tecno Camon 20 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-call-of-duty-wwii-error-message-code-4128/"><u>Resolving Call of Duty: WWII Error Message - Code 4128</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-for-preventing-skyline-cities-2-from-freezing-up-in-windows/"><u>Solutions for Preventing Skyline Cities 2 From Freezing Up in Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-ultimate-troubleshooting-guide-resolving-the-frontier-game-crashes-on-pc/"><u>Solved: Ultimate Troubleshooting Guide - Resolving the 'Frontier' Game Crashes on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/speedy-repairs-for-a-broken-madden-nfl-22-experience/"><u>Speedy Repairs for a Broken Madden NFL 22 Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-directx-problems-on-your-xbox-to-enjoy-cod-mw2-again/"><u>Troubleshoot DirectX Problems on Your Xbox to Enjoy COD MW2 Again!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-ready-or-not-keeps-failing-issues-for-windows-users/"><u>Troubleshooting Guide: Resolving 'Ready or Not Keeps Failing' Issues for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-overcoming-startup-problems-in-stardew-valley-game/"><u>Troubleshooting Tips - Overcoming Startup Problems in Stardew Valley Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-resolved-lost-connection-with-battlenet-gaming-servers/"><u>Troubleshooting: Resolved - Lost Connection with Battle.net Gaming Servers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-why-steam-wont-open-on-windows-10-and-how-to-fix-it/"><u>Troubleshooting: Why Steam Won't Open on Windows 10 & How to Fix It</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008025051-windows-11-users-rejoice-civ-6-launch-issues-resolved/"><u>Windows 11 Users Rejoice: Civ 6 Launch Issues Resolved!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/yakuza-3-pc-version-how-to-stop-unexpected-exits-and-keep-gaming-smoothly/"><u>Yakuza 3 PC Version: How to Stop Unexpected Exits and Keep Gaming Smoothly</u></a></li>
+</ul></div>

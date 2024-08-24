@@ -1,0 +1,204 @@
+---
+title: "Fix Guide: Resolving the Issue of Battlefield Not Launching on Desktop Computers"
+date: 2024-08-23T17:29:50.290Z
+updated: 2024-08-24T17:29:50.290Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Fix Guide: Resolving the Issue of Battlefield Not Launching on Desktop Computers"
+excerpt: "This Article Describes Fix Guide: Resolving the Issue of Battlefield Not Launching on Desktop Computers"
+thumbnail: https://thmb.techidaily.com/193370cfb5fd0062ad7927622f757d95e1534f19599b794b5d420052ed1a0476.jpg
+---
+
+## Resident Evil Nagging Not Launching? Troubleshoot and Fix the Issue Today
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-featured.jpg)
+
+ Resident Evil 5 is classic, but it’s still an old game that doesn’t get along with the latest Windows. Lately there’re many gamers reporting that**Resident Evil 5 won’t launch on Windows 10** . If you’re facing the same issue, don’t worry. Here’re some working fixes you can try.
+
+## Try these fixes
+
+ You might not need to try them all. Simply work your way down until you find the one that helps.
+
+1. [**Scan and repair your game files**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Install all Windows updates**](https://tools.techidaily.com/drivereasy/download/)
+4. [**Install the latest version of Games for Windows Live (GFWL)**](https://www.drivereasy.com/knowledge/solved-resident-evil-5-not-launching-on-pc/#fix4)
+5. **[Replace game files with a fan-made patch](https://tools.techidaily.com/drivereasy/download/)**
+6. [**Check for corrupted system files**](https://tools.techidaily.com/drivereasy/download/)
+
+### Fix 1: Scan and repair your game files
+
+ When troubleshooting game not launching issues, first you need to make sure there aren’t any corrupted or missing files.
+
+Here’s how you can check the file integrity on Steam:
+
+1. Go to your steam library, right-click**Resident Evil 5** and select**Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-1.jpg)
+2. In the left menu, select**LOCAL FILES** . Then click**Verify integrity of game files** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-2.jpg)
+3. Wait until the checking completes. Then you can try to start the game.
+
+ If this trick doesn’t give you luck, take a look at the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
+Create your texts / logos without any limitation. 
+No attribution required when downloading. 
+No advertising on the website. 
+ TextStudio.com  PREMIUM - Yearly Membership</a>
+<!-- affiliate ads end -->
+### Fix 2: Update your graphics driver
+
+ One of the most common causes of launching issue is**a broken or outdated graphics driver** . You can try updating your driver and see if that fixes the issue. New drivers often tackle compatibility issues and come with a performance boost.
+
+ You can do this manually, if you like, by visiting the manufacturer’s download page ([NVIDIA](https://www.nvidia.com/Download/index.aspx) /[AMD](https://www.amd.com/en/support) ), finding the right drivers, etc. But that takes time and computer skills. If you’re not comfortable playing with device drivers, we recommend using **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It’s a tool that detects, downloads and installs any driver updates your computer needs.
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
+3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+ (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ Once you’ve updated your graphics driver, restart your PC and check if Resident Evil 5 launches now.
+
+ If the latest video driver doesn’t help you, check out the next fix.
+
+### Fix 3: Install all Windows updates
+
+ The Windows 10 system updates help keep your system running smoothly. Usually Windows installs updates on a regular basis, but you can check manually to confirm you’re using the latest system.
+
+1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
+2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ After installing all the updates, restart your computer and check if you can launch Resident Evil 5 now.
+
+ If this method doesn’t work for you, simply continue to the next one.
+
+### Fix 4: Install the latest version of Games for Windows Live (GFWL)
+
+ Resident Evil 5 runs on Microsoft’s Games for Windows LIVE (GFWL) platform, which has already been phased out on Windows 10\. That being said, there’s still a way you can run the game: To make Resident Evil 5 work on Windows 10, you need to install[**the latest GFWL**](https://community.pcgamingwiki.com/files/file/1012-microsoft-games-for-windows-live/) .
+
+ The download link above contains the latest GFWL installer shared by other users. You should verify the source and install at your own risk.
+
+ Once you’ve installed the latest GFWL, restart your PC and check if Resident Evil 5 works now.
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 5: Replace game files with a fan-made patch
+
+ Another hack without installing GFWL would be replacing certain game files of Resident Evil 5 with a fan-made patch. It appears the patch can fix some known bugs of Resident Evil 5\. You can try the patch and see if it gives you luck.
+
+1. Visit[the website](http://www.sb-online.org/maluc/index.php?did=bh5fixes) and download the patch at the bottom of the page.
+2. Unzip the patch and copy all the files.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-1.jpg)
+3. Open the Resident Evil 5 folder and paste the patch files.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-2.jpg)
+4. Now check if Resident Evil 5 can launch normally.
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+
+### Fix 6: Check for corrupted system files
+
+ If none of the fixes above work for you, chances are you’re looking at a **system issue** . We all use our computers differently, it’s usually hard to tell what went wrong exactly. So before you reinstall Windows, you can try to scan your system with a professional repair tool.
+
+**[Fortect](https://tools.techidaily.com/drivereasy/download/)**  is a professional Windows repair tool that can scan your system’s overall status, diagnose your system configuration, identify faulty system files, and repair them automatically. It gives you entirely fresh system components with just one click, so you don’t have to reinstall Windows and all your programs, and you don’t lose any personal data or settings.
+
+1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
+2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
+3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+ Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
+
+---
+
+ Hopefully, you’ve fixed the issue and can enjoy Resident Evil 5\. If you have any questions or suggestions, leave a comment and we’ll get back to you.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-influencer-tip-crafting-irresistible-templated-content-in-youtube-descriptions/"><u>[New] 2024 Approved  Influencer Tip  Crafting Irresistible Templated Content in YouTube Descriptions</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-the-art-of-captivating-tiktok-profile-pictures/"><u>[New] 2024 Approved  The Art of Captivating TikTok Profile Pictures</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-elevate-viewing-experience-activating-av1-codec-on-youtube/"><u>[New] In 2024, Elevate Viewing Experience  Activating AV1 Codec on YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-ideation-to-implementation-a-comprehensive-approach-for-quality-edu-videos/"><u>[New] In 2024, From Ideation to Implementation  A Comprehensive Approach for Quality Edu-Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-sprinkle-some-smiles-emojis-on-youtube/"><u>[New] In 2024, Sprinkle Some Smiles  Emojis on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-guide-to-android-photo-fixes/"><u>[New] Ultimate Guide to Android Photo Fixes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-vintage-tech-upgrade/"><u>[New] Vintage Tech Upgrade</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-psychonauts-2-keeps-crashing-on-pc/"><u>[SOLVED] Psychonauts 2 Keeps Crashing on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723006319029-solved-rocket-league-wont-launch/"><u>[Solved] Rocket League Won't Launch</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-chilly-competition-unveiling-highlights-of-2022s-snowboard-cross-showdown/"><u>[Updated] In 2024, Chilly Competition  Unveiling Highlights of 2022'S Snowboard Cross Showdown</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-cut-to-quality-perfecting-videos-with-enhancer-22/"><u>2024 Approved  Cut to Quality  Perfecting Videos with Enhancer 2.2</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-evaluation-of-fb-video-shapes/"><u>2024 Approved  Evaluation of FB Video Shapes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-showtime-showdown-who-wins-in-obstwitch-arena/"><u>2024 Approved  Showtime Showdown  Who Wins in OBS/Twitch Arena</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-spotify-turning-off-automatic-podcast-recommendations/"><u>2024 Approved  Spotify  Turning Off Automatic Podcast Recommendations</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-guide-to-the-best-ai-tools-for-file-conversation/"><u>A Guide to the Best AI Tools for File Conversation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-bug-effective-methods-to-stop-scavengers-from-crashing-on-pc/"><u>Beat the Bug: Effective Methods to Stop Scavengers From Crashing on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-lag-step-by-step-solutions-to-fix-stuttering-or-hanging-in-pubg-on-windows-computers/"><u>Beat the Lag: Step-by-Step Solutions to Fix Stuttering or Hanging in PUBG on Windows Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-solutions-for-prey-game-crashing-issues-on-personal-computers/"><u>Common Solutions for Prey Game Crashing Issues on Personal Computers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-amazon-halo-cutting-edge-insight-into-your-health-and-lifestyle/"><u>Discover the Amazon Halo: Cutting-Edge Insight Into Your Health and Lifestyle</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/dodgingdullnessaftermycam/"><u>DodgingDullnessAfterMyCam</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dual-impact-unraveling-the-complexities-of-it-takes-two-crashes-in-pc-gaming/"><u>Dual-Impact: Unraveling the Complexities of 'It Takes Two Crashes' In PC Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-preventing-house-flipper-2-from-crashing-on-windows-systems/"><u>Effective Solutions for Preventing House Flipper 2 From Crashing on Windows Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-strategies-for-handling-and-fixing-error-closures-in-your-geforce-application/"><u>Effective Strategies for Handling & Fixing Error Closures in Your GeForce Application</u></a></li>
+<li><a href="https://program-issues.techidaily.com/epic-games-launcher-trouble-heres-how-to-fix-it-fast/"><u>Epic Games Launcher Trouble? Here's How to Fix It Fast</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-0x803f8001-no-more-a-complete-fix-for-the-minecraft-launcher-on-windows-1110/"><u>Error 0X803F8001 No More - A Complete Fix for the Minecraft Launcher on Windows 11/10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-discord-video-chat-screen-share-audio-not-working-correctly/"><u>Fix Your Discord Video Chat - Screen Share Audio Not Working Correctly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/half-life-alyx-pc-optimization-guide-fixes-for-tackling-frame-drops-and-jittery-playback/"><u>Half-Life: Alyx PC Optimization Guide – Fixes for Tackling Frame Drops and Jittery Playback</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-nokia-c110-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Nokia C110? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-does-system-restore-work-on-windows-10-a-comprehensive-guide/"><u>How Does System Restore Work on Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-address-and-avoid-gtfo-application-disruptions/"><u>How to Address and Avoid GTFO Application Disruptions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-craft-the-ultimate-home-theater-system-for-your-student-apartment/"><u>How to Craft the Ultimate Home Theater System for Your Student Apartment</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-far-cry-6-doesnt-start-error-on-windows-pc-step-by-step-guide/"><u>How to Fix 'Far Cry 6 Doesn't Start' Error on Windows PC - Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-relink-issues-and-crashes-in-granblue-fantasy-on-your-computer/"><u>How to Prevent Relink Issues and Crashes in Granblue Fantasy on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-game-crashing-phasmophobia-updates-and-fixes-of-2024/"><u>How to Stop Game Crashing: Phasmophobia Updates and Fixes of 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-troubleshoot-a-non-detecting-steam-virtual-reality-setup/"><u>How to Troubleshoot a Non-Detecting Steam Virtual Reality Setup</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-monitoring-friends-lost-in-instagram-world/"><u>In 2024, Monitoring Friends Lost in Instagram World</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pivot-past-moments-an-android-video-reversal-tutorial/"><u>In 2024, Pivot Past Moments  An Android Video Reversal Tutorial</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-battlefield-without-interruption-fixing-chivalry-2-crashes/"><u>Master the Battlefield without Interruption - Fixing Chivalry 2 Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximizing-gameplay-fluidity-solutions-to-resolve-low-fps-in-valorant-updated-guide/"><u>Maximizing Gameplay Fluidity: Solutions to Resolve Low FPS in Valorant (Updated Guide )</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-system-performance-for-god-of-war-with-lowered-cpu-usage/"><u>Optimizing System Performance for God of War with Lowered CPU Usage</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-pc-hiccups-resolving-the-arcadegeddon-games-recurring-collapse/"><u>Overcome PC Hiccups - Resolving the Arcadegeddon Game's Recurring Collapse</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-launch-problems-a-guide-to-getting-robocop-rogue-city-running-on-windows-and-mac/"><u>Overcoming Launch Problems: A Guide to Getting RoboCop: Rogue City Running on Windows & Mac</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-playback-problems-with-call-of-duty-modern-warfare-2/"><u>Overcoming Playback Problems with Call of Duty: Modern Warfare 2</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/radiance-visionaries-report-on-studio-25-2023/"><u>Radiance Visionaries Report on Studio 25, 2023</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004408632-reborn-globe-still-stops-short-no-more-freezing-issues/"><u>Reborn Globe Still Stops Short, No More Freezing Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-rapidly-batman-arkham-knights-critical-system-issues-and-breakdowns/"><u>Troubleshoot Rapidly! Batman: Arkham Knight's Critical System Issues and Breakdowns</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-overcoming-black-screen-on-your-epic-games-platform/"><u>Troubleshooting Steps for Overcoming Black Screen on Your Epic Games Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-series-x-gaming-collective-setup/"><u>Xbox Series X Gaming Collective Setup</u></a></li>
+</ul></div>

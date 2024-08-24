@@ -1,7 +1,7 @@
 ---
 title: 1. Resolving Lag and Frame Rate Issues in Black Myth Wukong Gameplay on Windows PC
-date: 2024-08-23 16:47:45
-updated: 2024-08-24 12:14:31
+date: 2024-08-23T17:17:29.274Z
+updated: 2024-08-24T17:17:29.274Z
 tags:
   - win11
   - win10
@@ -74,6 +74,9 @@ Lo and behold, Black Myth: Wukong, one of the most anticipated AAA games, is fin
 
  If this is not why Black Myth: Wukong lags, stutters, or has FPS dropping issues for you, please move on to the next method below.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 3\. Optimize in-game settings
 
  The following in-game settings have proofed effective to the lagging, stuttering and frame rate dropping issues on our computers with different hardware components. Try them out to see if they work the charm for you:
@@ -81,13 +84,23 @@ Lo and behold, Black Myth: Wukong, one of the most anticipated AAA games, is fin
 1. Launch Black Myth: Wukong and hit the Esc button, then select**Settings** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/bmw-settings-1.png)
 2. You can first try the recommended settings by selecting**Apply Recommeneded Graphics Settings** .  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/recommend-settings.png)
 3. If the recommended settings don’t work well for you, try the following settings instead:  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/bmw-detaled-graphics-settings.png)
 4. Note that you can also try to set**Visual Effect Quality** ,**Hair Quality** , and**Globa Illumination Quality** to**Low** instead, as they should help increase frame rates.
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<!-- affiliate ads end -->
 5. Then try the following settings for your display. You can also try 3840×2160 and 2160×1080 as the Display Resolution. Lower resolution usually helps to increase frame rates.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/bmw-display-settings.png)
 6. If you’re using an Nvidia 20 or 30 series GPU, you can try**FSR** for**Super Resolution Sampling** and turn off**Full Ray Tracing** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/fsr-on-ray-tracing-off.png)
 7. If you’re using a 40 series Nvidia GPU, try**DLSS** instead.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/dlss.png)
@@ -124,12 +137,22 @@ Lo and behold, Black Myth: Wukong, one of the most anticipated AAA games, is fin
 2. Right-click**b1-Win64-Shipping** and select**Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/properties.png)
 3. Then go to**Compatibility** , tick the box for **Run this program in compatibility mode for:**  then select **Windows 7** from the dropdown list. Then tick the box for **Run this program as an administrator** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/run-as-admin.png)
 4. Click**Apply** and**OK** to save the changes.
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. If Windows 7 doesn’t help, try Windows 8 from the drop-down list instead.
 
  Now open Black Myth: Wukong to see if it still experiences lags, stutters, and frame rate drops. If the problems remain, please move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ##  6\. Try to launch Black Myth Wukong with DirectX 11 or DirectX 12
 
  This is also mentioned by some gamers to have worked for their stuttering, lagging, and frame rate dropping problems with Black Myth: Wukong. To see if it does the trick for you:
@@ -139,8 +162,23 @@ Lo and behold, Black Myth: Wukong, one of the most anticipated AAA games, is fin
     
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Under the launch options, add **\-dx11** . Then save and try to launch Black Myth: Wukong to see if how it works.  
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/12/steam-launch-options-dx11.jpg)
 4. If the crashing problem with Persona 3 Reload remains, try to change the command to **\-dx12** and see if it helps.
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -164,3 +202,38 @@ Lo and behold, Black Myth: Wukong, one of the most anticipated AAA games, is fin
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-prospective-videography-gear-ideal-for-future-4k-concert-videos-for-2024/"><u>[New] Prospective Videography Gear  Ideal for Future 4K Concert Videos for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-dive-into-aurora-hdr-a-new-era-for-viewers/"><u>[Updated] Dive Into Aurora HDR  A New Era for Viewers?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gain-profit-power-the-secret-of-successful-youtube-marketing-and-500plus-for-2024/"><u>[Updated] Gain Profit Power  The Secret of Successful Youtube Marketing & 500+ for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-business-slide-show-essentials-free-access-and-customization/"><u>2024 Approved  Business Slide Show Essentials  Free Access & Customization</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-deep-dive-into-the-premium-huion-inspiroy-g10t-sketching-monitor-blending-luxury-with-powerful-performance/"><u>A Deep Dive Into the Premium Huion Inspiroy G10T Sketching Monitor: Blending Luxury with Powerful Performance</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/best-anti-tracker-software-for-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Best Anti Tracker Software For Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-your-gaming-ultimate-guide-to-resolving-valheims-frame-rate-issues/"><u>Boost Your Gaming: Ultimate Guide to Resolving Valheim's Frame Rate Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-mw3-crash-resolved-a-step-by-step-solution-to-stop-it-from-stopping-working/"><u>COD MW3 Crash Resolved: A Step-by-Step Solution to Stop It From Stopping Working</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortlessly-fix-your-pc-issues-with-assassins-creed-odyssey-no-more-crashes/"><u>Effortlessly Fix Your PC Issues with Assassin's Creed Odyssey - No More Crashes!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ensuring-uninterrupted-fun-with-the-mass-effect-trilogy-expert-fixes-to-prevent-game-crash-on-pc-and-xbox-devices/"><u>Ensuring Uninterrupted Fun with the Mass Effect Trilogy: Expert Fixes to Prevent Game Crash on PC & Xbox Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-xbox-and-pc-issues-resolving-call-of-duty-warzone-memory-error-code-0-1766/"><u>Fix Xbox and PC Issues: Resolving Call of Duty Warzone Memory Error Code 0-1766</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-nokia-c32-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Nokia C32 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993746834-join-deacon-st-john-for-an-unforgettable-post-apocalyptic-journey-days-gone-arrives-on-pc/"><u>Join Deacon St. John for an Unforgettable Post-Apocalyptic Journey - 'Days Gone' Arrives on PC</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/leveraging-cookiebot-technology-for-personalized-online-interactions/"><u>Leveraging Cookiebot Technology for Personalized Online Interactions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-for-halo-infinite-on-pc-a-guide-to-preventing-game-shutdowns-and-disruptions/"><u>Mastering Stability for Halo Infinite on PC: A Guide to Preventing Game Shutdowns and Disruptions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-performance-in-bless-unleashed-strategies-for-overcoming-high-ping-on-pc-setups/"><u>Optimizing Performance in Bless Unleashed: Strategies for Overcoming High Ping on PC Setups</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-launch-errors-in-farming-simulator-22-with-these-fixes/"><u>Overcome Launch Errors in Farming Simulator 22 with These Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-compatibility-hurdles-in-madden-20-on-windows-troubleshooting-tips/"><u>Overcoming Compatibility Hurdles in Madden 20 on Windows - Troubleshooting Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pathfinder-wrath-of-the-righteous-how-to-stop-game-crashes-for-good/"><u>Pathfinder: Wrath of the Righteous - How to Stop Game Crashes for Good</u></a></li>
+<li><a href="https://program-issues.techidaily.com/psychonauts-2-pc-stability-issues-solved-no-more-freezes/"><u>Psychonauts 2 PC Stability Issues Solved - No More Freezes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-for-when-your-google-meet-camera-wont-work-properly/"><u>Quick Fixes for When Your Google Meet Camera Won't Work Properly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-steps-when-discord-fails-to-launch/"><u>Resolved: Troubleshooting Steps When Discord Fails to Launch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-no-available-camera-input-error-in-snap-app/"><u>Resolving 'No Available Camera Input' Error in Snap App</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-minecraft-hiccups-top-pc-tips-to-achieve-seamless-gaming-this-year/"><u>Resolving Minecraft Hiccups: Top PC Tips to Achieve Seamless Gaming This Year</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revive-the-roar-of-creepers-and-chirps-in-minecraft-comprehensive-fixes-for-no-sounds-issues/"><u>Revive the Roar of Creepers and Chirps in Minecraft: Comprehensive Fixes for No Sounds Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solution-steps-for-dealing-with-iphones-malfunctioning-close-window-sensor/"><u>Solution Steps for Dealing with iPhone's Malfunctioning Close Window Sensor</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-oppo-reno-10-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Oppo Reno 10 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-lowering-cpu-load-after-wdf-update-fixes/"><u>Troubleshooting Guide: Lowering CPU Load After WDF Update Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-connectivity-issues-in-kodi-restoring-directory-access-guide/"><u>Troubleshooting Steps for Connectivity Issues in Kodi - Restoring Directory Access [Guide]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-stutter-and-lag-in-counter-strike-2-techniques-to-enhance-gameplay-speed/"><u>Troubleshooting Stutter and Lag in Counter-Strike 2: Techniques to Enhance Gameplay Speed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-how-to-fix-swtor-wont-start-up/"><u>Troubleshooting: How to Fix 'SWTOR Won't Start Up'</u></a></li>
+</ul></div>

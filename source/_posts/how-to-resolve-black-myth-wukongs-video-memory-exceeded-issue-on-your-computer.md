@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Black Myth Wukong's 'Video Memory Exceeded' Issue on Your Computer
-date: 2024-08-22 11:27:44
-updated: 2024-08-24 12:39:21
+date: 2024-08-23T17:17:36.034Z
+updated: 2024-08-24T17:17:36.034Z
 tags:
   - win11
   - win10
@@ -47,10 +47,16 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 
  If you constantly see the ‘out of video memory’ error when playing Black Myth: Wukong, the first thing you do is to apply a**BIOS update** , or also called the**0x129 microcode update** . If you need help on how to do a BIOS update, here’s a post for your reference: **[How to Update BIOS in Windows 11](https://tools.techidaily.com/drivereasy/download/)** 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### Reduce CPU voltage
 
  If there’s no BIOS update for your Intel 13th or 14th Gen CPU just yet, you can try tuning tools like **[Intel Extreme Tuning Utility](https://www.intel.com/content/www/us/en/download/17881/intel-extreme-tuning-utility-intel-xtu.html)**  (also referred to as Intel XTU) to**reduce your CPU voltage** . But please note that undervolting and underclocking your CPU could affect your gaming experience.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ###  Reduce Performance Core Ratio
 
  Another thing to try when there’s not yet a BIOS update for your motherboard: try to change the**Performance Core Ratio** to**54x, 53x** or even**52x** in Intel XTU to see if it helps. To do so:
@@ -59,10 +65,16 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 2. Go to**Advanced Tuning Section** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/intel-xtu-advanced.png)
 3. Scroll down to **Per Core Tuning** , and change all Ratio Multipliers to**54x** . Then click**Apply** .  
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/core-ratio.png)
 4. If 54x doesn’t work well for you, try 52x instead:  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/08/performance-ratio.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
  If you’re not using an Intel 13th or 14th Gen CPU, but still seeing the out of video memory problem in Black Myth: Wukong, please move on to the next method to see if it helps.
 
 ---
@@ -78,6 +90,9 @@ To check your graphics card version:
 2. Go to the **Display** tab, and you’ll see the name of your graphics card and other details about it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/directx-diagnostic-tool-display.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  If your graphics card is older or below the required one, then you may need to consider upgrading to a more advanced one.
 
  If this is not the case, but you’re still seeing the out of video memory problem in BMW, please move on to the next method below.
@@ -102,6 +117,9 @@ To do so, first visit the website of your GPU manufacturer:
 
  Then search for your GPU model. Note that you should only download the latest driver installer that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to update.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ###  Option 2: Update your graphics driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.** 
@@ -114,10 +132,16 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .** 
 
@@ -136,6 +160,10 @@ To do so, first visit the website of your GPU manufacturer:
     
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
     
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
@@ -163,8 +191,18 @@ To do so, first visit the website of your GPU manufacturer:
     
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Under the launch options, add **\-dx11** . Then save and try to launch Black Myth: Wukong to see if how it works.  
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/12/steam-launch-options-dx11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ###  On Epic Games Launcher
 
 1. Open the **Epic Games Launcher** .
@@ -179,6 +217,9 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  6\. Lower in-game graphics settings
 
  Other than running the game with DirectX 11, lowering the in-game graphics settings also helps to fix the out of video memory problem for some.
@@ -189,6 +230,9 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  7\. Increase virtual memory
 
  Another common reason for memory problems like the out of video memory error in Black Myth: Wukong could be insufficient virtual RAM space. To see if this is your case, you can try to increase the virtual memory to allow more RAM resources for the game to run. To do so:
@@ -203,6 +247,9 @@ To do so, first visit the website of your GPU manufacturer:
 4. Uncheck **Automatically manage paging file size for all drives** .  
 ![how to increase the page file size](https://images.drivereasy.com/wp-content/uploads/2021/05/uncheck-the-option-1.png)
 5. Select your C drive and then tick **Custom size** .  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fix Red Dead Redemption 2 ERR_MEM_VIRTUAL_OUT_OF_MEMORY how to increase the page file size](https://images.drivereasy.com/wp-content/uploads/2021/05/custom-size.png)
 6. Type in the values for **Initial size**  and **Maximum size** . Then click **OK** to save the changes.
 7. Microsoft recommends that the virtual memory you set is **no less than 1.5 times and no more than 3 times** the size of your RAM. To check RAM on Windows, follow the instructions below.
@@ -214,6 +261,9 @@ To do so, first visit the website of your GPU manufacturer:
     
 ![how to check RAM](https://images.drivereasy.com/wp-content/uploads/2021/05/Total-virtual-memory.png)
 
+<!-- affiliate ads begin -->
+<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 1 GB (Gigabyte) = 1000 MB (Megabyte)
 
  So in my case, the recommended initial size is: 8 GB \* 1000 \* 1.5 = 12000 MB
@@ -243,3 +293,46 @@ For the recommended maximum size, it will be: 8 GB \* 1000 \* 3 = 24000 MB
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-comprerant-and-reviewed-the-ultimate-list-of-ios-video-edits/"><u>[New] 2024 Approved  Compreran't & Reviewed  The Ultimate List of iOS Video Edits</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-cinematic-narratives-mastering-screenplays/"><u>[New] Cinematic Narratives  Mastering Screenplays</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-video-game-select-top-20-thumbnail-fonts/"><u>[New] In 2024, Elevate Your Video Game  Select Top 20 Thumbnail Fonts</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-creating-heartfelt-youtube-journeys/"><u>[Updated] 2024 Approved  Creating Heartfelt YouTube Journeys</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-effortless-snapchat-connectivity-step-by-step-guide/"><u>[Updated] 2024 Approved  Effortless Snapchat Connectivity  Step-by-Step Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/addressing-disrupted-video-in-obs-studio-for-2024/"><u>Addressing Disrupted Video in OBS Studio for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722990944267-banish-kurtzpel-downfall-errors-once-and-for-all-effective-troubleshooting-steps-unveiled/"><u>Banish KurtzPel Downfall Errors Once and For All - Effective Troubleshooting Steps Unveiled!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banishing-the-black-effective-fixes-for-elden-ring-startup-glitch/"><u>Banishing the Black: Effective Fixes for Elden Ring Startup Glitch</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/best-5-tiktok-voice-generators-you-should-try-for-2024/"><u>Best 5 TikTok Voice Generators You Should Try for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boosting-performance-in-rainbow-six-extraction-tackling-low-fps-problems/"><u>Boosting Performance in Rainbow Six Extraction - Tackling Low FPS Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007345281-dirt-5-playing-woes-learn-how-to-prevent-crashes-and-boost-your-racing-performance-on-computer/"><u>Dirt 5 Playing Woes? Learn How to Prevent Crashes and Boost Your Racing Performance on Computer!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-on-repairing-hitman-3s-persistent-connection-failed-glitch/"><u>Expert Advice on Repairing Hitman 3'S Persistent 'Connection Failed' Glitch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-common-problems-when-internet-explorer-stops-working-properly/"><u>Fixes for Common Problems: When Internet Explorer Stops Working Properly</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/fixing-full-screen-in-obs-journey-for-2024/"><u>Fixing Full Screen in Obs Journey for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-get-outriders-running-again/"><u>Fixing the Issue: How to Get Outriders Running Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/grand-theft-auto-v-troubleshooting-fixing-errgfxd3dinit-graphics-issue/"><u>Grand Theft Auto V Troubleshooting: Fixing ERR_GFX_D3D_INIT Graphics Issue</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-iphone-15-pro-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From iPhone 15 Pro in the Best Ways</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-pc-boot-failures-when-playing-outriders-recent-solutions-222/"><u>How to Resolve PC Boot Failures When Playing Outriders - Recent Solutions (2#22)</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-uninstall-programs-on-windows-11/"><u>How to Uninstall Programs on Windows 11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-infinix-note-30-vip-racing-edition-by-drfone-android-unlock-android-unlock/"><u>How to unlock Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-update-or-download-logitech-g403-mouse-drivers-for-optimal-performance-on-your-computer/"><u>How to Update or Download Logitech G403 Mouse Drivers for Optimal Performance on Your Computer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-tecno-camon-30-pro-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Tecno Camon 30 Pro 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-live-streaming-basics-tips-and-tricks/"><u>In 2024, Live Streaming Basics  Tips and Tricks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-corsair-icue-malfunctions-a-guide-for-windows-1011-users/"><u>Overcoming Corsair iCUE Malfunctions: A Guide for Windows 10/11 Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/practical-technique-swap-film-direction-in-vlc-player/"><u>Practical Technique  Swap Film Direction in VLC Player</u></a></li>
+<li><a href="https://program-issues.techidaily.com/praeyst-for-the-gods-game-stops-working-properly-fixes-and-troubleshooting-tips/"><u>Praeyst for the Gods Game Stops Working Properly: Fixes & Troubleshooting Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-overcoming-launch-problems-with-saints-row-on-your-windows-pc-a-step-by-step-fix/"><u>Solved: Overcoming Launch Problems with Saints Row on Your Windows PC – A Step-by-Step Fix</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-why-your-laptops-internal-speakers-might-be-silent-and-what-to-do-about-it/"><u>Solved: Why Your Laptop's Internal Speakers Might Be Silent and What to Do About It</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-superpeople-dx9-issue-a-step-by-step-guide/"><u>Solving the 'Superpeople DX9 Issue' - A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/starting-valheim-without-trouble-overcoming-2024-launch-problems/"><u>Starting Valheim Without Trouble: Overcoming 2024 Launch Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-remedy-for-fixing-the-life-threatening-gaming-glitch-in-ghost-runner-for-windows-10-users/"><u>Step-by-Step Remedy for Fixing the Life-Threatening Gaming Glitch in Ghost Runner for WINDOWS 10 Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-mafia-trilogys-capstone-game-now-confirmed-for-launch/"><u>The Mafia Trilogy's Capstone Game Now Confirmed for Launch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-prevent-star-citizen-crashing-on-your-pc-whats-fixed/"><u>Troubleshoot and Prevent Star Citizen Crashing on Your PC – What's Fixed?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-resolving-cannot-start-csgo-problems/"><u>Troubleshooting Steps for Resolving 'Cannot Start CS:GO' Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-freezing-issues-in-borderlands-3-tips-and-tricks/"><u>Ultimate Guide: Resolving Freezing Issues in Borderlands 3 - Tips & Tricks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/zero-price-mac-video-maker/"><u>Zero-Price Mac Video Maker</u></a></li>
+</ul></div>

@@ -1,0 +1,262 @@
+---
+title: "Enhanced Performance & Stability Fixes for Total War: Warhammer III on Your Computer"
+date: 2024-08-23T17:39:58.335Z
+updated: 2024-08-24T17:39:58.335Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Enhanced Performance & Stability Fixes for Total War: Warhammer III on Your Computer"
+excerpt: "This Article Describes Enhanced Performance & Stability Fixes for Total War: Warhammer III on Your Computer"
+thumbnail: https://thmb.techidaily.com/64727a6fb30fc85eb70a4052d7d6ea68ac41c9b68c8e82ebf0f07967ea3707f2.jpg
+---
+
+## Maximize Performance: Increase Frames per Second (FPS) for a Better Experience in Ring of Elysium
+
+Want to increase FPS in Ring of Elysium? You’ve come to the right place! This article is going to show you how to optimize your computer and boost FPS for a better gaming experience.
+
+## 5 methods to try
+
+You may not have to try them all. Just choose the one you need.
+
+1. **[Optimize your in-game settings](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Change the power option](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Configure your graphics settings](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Overclock your GPU](https://tools.techidaily.com/drivereasy/download/)**
+
+ **What is FPS?**
+ FPS stands for**frames per second** . Basically, it measures how many images a GPU can render and how many images it can display in a second as well. The higher the FPS, the better the graphics and in-game transitions are.
+
+### Method 1: Optimize your in-game settings
+
+ Improper game settings can lower your game’s FPS and undermine your gaming performance. In this case, optimizing your in-game settings can help. Here is how to do it:
+
+**1)** Run your game.
+
+**2)** Click the**Settings button** at the bottom left corner.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-26.png)
+
+**3)** Click the**Quality** tab, and then modify the settings following the screenshot below.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-27-1024x558.png)
+
+**4)** Click**Apply** , then relaunch your game.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-28-1024x558.png)
+
+### Method 2: Update your graphics driver
+
+ One of the most common causes of the low FPS issue is an outdated graphics driver. To keep your game running smoothly, it’s essential that you have the latest correct graphics driver at all times.
+
+There are two ways you can update your graphics drivers:
+
+**[Option 1 – Manually](https://tools.techidaily.com/drivereasy/download/)**  – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
+
+OR
+
+**[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/ring-of-elysium-fps-boost/#b2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
+
+#### **Option 1 – Download and install the driver manually**
+
+ The manufacturer of your graphics card keeps updating drivers. To get them, you need to go to the **manufacturer’s** website, find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
+
+ Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
+
+#### **Option 2 – Automatically update graphics drivers**
+
+ If you don’t have the time, patience or computer skills to update the**graphics** driver manually, you can do it automatically with[](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks:
+
+ **1) [Download](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
+
+**2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
+
+**3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+ You can do it for free if you like, but it’s partly manual.
+
+ If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Method 3: Change the power option
+
+ Sometimes, your computer may slow down to save energy, which can affect your game’s FPS. If that’s the problem for you, you’ll need to set the power option to High Performance. Here is how:
+
+**1)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
+
+**2)** Under **View by,** click **Large icons** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
+
+**3)** Select **Power Options.**
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
+
+**4)** Select **High Performance** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
+
+ Restart your computer, and then relaunch your game to see if this worked for you.
+
+### Method 4: Configure your graphics settings
+
+ Another method to boost your game’s FPS is to optimize your graphics settings. Here is how to do it:
+
+* [**If you’re using an NVIDIA graphics products**](https://tools.techidaily.com/drivereasy/download/)
+* [**If you’re using an AMD graphics product**](https://tools.techidaily.com/drivereasy/download/)
+
+#### If you’re using an NVIDIA graphics product…
+
+**1)** Right-click your desktop and select**NVIDIA Control Panel** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-46.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
+**2)** Click**Manage 3D settings** , then**Program Settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-36.png)
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+**3)** Click the**Add** **button** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-37.png)
+
+**4)** Select**Ring of Elysium** , and then click**Add Selected Program** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-38.png)
+
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**5)** Modify the settings following the screenshot below.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-41.png)
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+#### If you’re using an AMD graphics product…
+
+**1)** Right-click**your desktop** , and select**AMD Radeon Settings.**
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-47.png)
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
+**2)** Click**Gaming** , then**Global Settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-45.png)
+
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**3)** Modify the settings following the screenshot below.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-42-1024x459.png)
+
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Method 5: Overclock your GPU
+
+ A slight overclock about by 10-15% can also improve your game’s performance. This is because overclocking your GPU can unlock the full potential of your graphics card and boost your FPS in Ring of Elysium. Check **[here](https://tools.techidaily.com/drivereasy/download/)**  to see how to do it.
+
+ Overclocking increases the stress on and temperature of all of your hardware, so you should do it with extreme care.
+
+ Hopefully, this article helped. Enjoy your game! If you have any questions or suggestions, feel free to leave a comment below.
+
+* [games](https://tools.techidaily.com/drivereasy/download/)
+* [Steam](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 7](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 8](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-ultimate-brain-challenge-top-trivia-networks-for-24/"><u>[New] Ultimate Brain Challenge - Top Trivia Networks for '24</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-the-king-of-fighters-xv-keeps-crashing-on-pc/"><u>[SOLVED] The King of Fighters XV Keeps Crashing on PC</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-digital-sound-and-picture-collaboration-space-for-2024/"><u>[Updated] Digital Sound & Picture Collaboration Space for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-speeding-up-live-instagram-broadcasts-on-desktop/"><u>[Updated] Speeding Up Live Instagram Broadcasts on Desktop</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-unique-images-unique-voice-podcast-graphic-principles/"><u>2024 Approved  Unique Images, Unique Voice  Podcast Graphic Principles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/5-effective-solutions-for-when-minecraft-freezes-or-stops-responding-on-windowsmac/"><u>5 Effective Solutions for When Minecraft Freezes or Stops Responding on Windows/Mac</u></a></li>
+<li><a href="https://program-issues.techidaily.com/achieve-optimal-frame-rates-expert-tips-for-overcoming-new-gameplay-lag-challenges/"><u>Achieve Optimal Frame Rates: Expert Tips for Overcoming New Gameplay Lag Challenges</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-reno-8t-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-n77s-solution-to-eliminate-black-screen-error-successfully/"><u>Cyberpunk N77's Solution to Eliminate Black Screen Error Successfully!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-hp-deskjet-3702-printer-drivers-latest-updates-available/"><u>Download HP DeskJet 3702 Printer Drivers - Latest Updates Available</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-techniques-for-thawing-out-your-chrome-browser-in-windows-11/"><u>Effective Techniques for Thawing Out Your Chrome Browser in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-frustrating-delays-the-modern-gamers-handbook-to-fixing-high-ping-and-latency-issues-in-chivalry-ii/"><u>Eliminate Frustrating Delays: The Modern Gamer's Handbook to Fixing High Ping & Latency Issues in Chivalry II</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-strategies-for-debugging-and-fixing-rust-application-crashes-successfully/"><u>Essential Strategies for Debugging and Fixing Rust Application Crashes Successfully</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/experts-choice-best-6-video-grabber-tools-for-mac-for-2024/"><u>Expert's Choice  Best 6 Video Grabber Tools for Mac for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-opening-problems-with-amd-radeon-graphics-driver-suite-easily/"><u>Fixing Opening Problems with AMD Radeon Graphics Driver Suite Easily</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-effectively-retrieve-your-email-address-the-ultimate-strategy-for-retrieval-success/"><u>How to Effectively Retrieve Your Email Address: The Ultimate Strategy for Retrieval Success</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-fixes-prevent-diablo-4-from-freezing-on-pc-ps5-and-xbox-consoles/"><u>Master the Fixes: Prevent Diablo 4 From Freezing on PC, PS5 & Xbox Consoles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722999874951-pc-gaming-made-easy-fix-stuttering-and-lag-in-bloodhunt-today/"><u>PC Gaming Made Easy: Fix Stuttering and Lag in Bloodhunt Today</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/pivotal-moments-top-20-anime-themes-for-2024/"><u>Pivotal Moments  Top 20 Anime Themes for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pro-playbook-elevate-your-game-with-these-absolutely-critical-to-avoid-any-potential-negative-impact-on-the-environment-and-human-health/"><u>Pro Playbook: Elevate Your Game with These Absolutely Critical to Avoid Any Potential Negative Impact on the Environment and Human Health.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solution-no-hassle-ways-to-resolve-fortnites-not-loading-errors/"><u>Quick Solution: No-Hassle Ways to Resolve Fortnite's Not Loading Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rapid-responses-improve-your-fps-and-eliminate-glitches-in-elden-ring/"><u>Rapid Responses: Improve Your FPS and Eliminate Glitches in Elden Ring</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-epic-games-launcher-not-starting-fast-and-simple-methods/"><u>Resolved: How to Fix Epic Games Launcher Not Starting Fast and Simple Methods</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-persistent-pc-shutdowns-when-playing-rogue-company-troubleshooting-steps/"><u>Resolved: Persistent PC Shutdowns When Playing Rogue Company – Troubleshooting Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-fallout-3-stability-issues-a-guide-for-windows-11-users/"><u>Resolving Fallout 3 Stability Issues: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/reviving-your-discord-webcam-a-step-by-step-guide-to-clear-up-camera-glitches/"><u>Reviving Your Discord Webcam: A Step-by-Step Guide to Clear Up Camera Glitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-your-windows-problem-why-valorant-wont-open-guide/"><u>Solve Your Windows Problem: Why Valorant Won't Open (Guide )</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-fires-of-rubicon-pc-issues-a-comprehensive-guide-to-enjoying-armored-core-natively-on-your-computer/"><u>Solving 'Fires of Rubicon' PC Issues: A Comprehensive Guide to Enjoying Armored Core Natively on Your Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-google-meet-microphone-problems-for-users-of-windows-11-and-10/"><u>Solving Google Meet Microphone Problems for Users of Windows 11 & 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013601449-solving-the-persistent-problems-with-game-launches-insurgency-sandstorm-stability/"><u>Solving the Persistent Problems with Game Launches - Insurgency: Sandstorm Stability.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-strategies-to-enhance-dota-2-play-without-lag/"><u>Step-by-Step Strategies to Enhance Dota 2 Play Without Lag</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-tutorial-to-prevent-overwatch-2-from-crashing-on-your-pc/"><u>Step-by-Step Tutorial to Prevent Overwatch 2 From Crashing on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-the-dread-of-crashing-controls-easy-fixes-inside/"><u>Stop the Dread of Crashing Controls – Easy Fixes Inside!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/successfully-overcame-install-errors-for-age-of-empires-iv-on-microsoft-digital-shop/"><u>Successfully Overcame Install Errors for Age of Empires IV on Microsoft Digital Shop</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-30-innovative-sales-platforms-outside-openais-ecosystem/"><u>Top 30 Innovative Sales Platforms Outside OpenAI’s Ecosystem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-elex-ii-fixing-your-game-from-endless-crashes-on-personal-computers-effectively/"><u>Troubleshooting ELEX II: Fixing Your Game From Endless Crashes on Personal Computers Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723001189649-troubleshooting-steps-for-assassins-creed-unity-freezing-issues/"><u>Troubleshooting Steps for Assassin’s Creed Unity Freezing Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-resolving-persistent-crashes-in-palworld-on-your-computer/"><u>Troubleshooting Steps for Resolving Persistent Crashes in PalWorld on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-stop-overwatch-2-from-continuously-crashing-on-your-computer/"><u>Troubleshooting Steps: Stop Overwatch 2 From Continuously Crashing on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-successfully-resolving-windows-cannot-find-ds4-driver/"><u>Troubleshooting Tips: Successfully Resolving 'Windows Cannot Find DS4 Driver'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/update-on-mafia-definitive-editions-launch-cancellation-issues-addressed/"><u>Update on Mafia: Definitive Edition's Launch Cancellation – Issues Addressed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/wave-goodbye-to-halo-infinite-lagging-on-windows-follow-these-7-quick-repairs/"><u>Wave Goodbye to Halo Infinite Lagging on Windows: Follow These ^[7 Quick Repairs]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-you-wont-be-playing-diablo-immortal-on-your-desktop-anytime-soon/"><u>Why You Won't Be Playing Diablo Immortal on Your Desktop Anytime Soon</u></a></li>
+</ul></div>

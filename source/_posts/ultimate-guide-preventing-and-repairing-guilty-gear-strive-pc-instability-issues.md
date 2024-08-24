@@ -1,0 +1,225 @@
+---
+title: "Ultimate Guide: Preventing and Repairing Guilty Gear Strive PC Instability Issues"
+date: 2024-08-23T17:37:57.806Z
+updated: 2024-08-24T17:37:57.806Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Ultimate Guide: Preventing and Repairing Guilty Gear Strive PC Instability Issues"
+excerpt: "This Article Describes Ultimate Guide: Preventing and Repairing Guilty Gear Strive PC Instability Issues"
+thumbnail: https://thmb.techidaily.com/7c4b3f31474d59dd334b247ce3128a185630128709ac4ffbfcbd9f4ba557fefe.jpg
+---
+
+## Prevent and Resolve FIFA 22 PC Instability Issues Now
+
+Any avid sport game fans won’t want to miss out on FIFA 22, the latest fantastic installment of the FIFA franchise. Although it’s been a while since this gam released, there are still complaints about the FIFA 22 crashing issue. If you’re on PC and encounter the same issue, don’t worry. In this post, we’ve put together a full list of solutions.
+
+## Fixes to try
+
+ You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
+
+1. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Change the DirectX settings](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Disable overlay](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Optimize the graphics settings](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1 – Verify the integrity of game files
+
+ Before trying anything more complicated, you could check if the game files are missing or corrupted. That will prevent your FIFA 22 from running normally. Below is the detailed instruction for an integrity check on **[Steam](https://tools.techidaily.com/drivereasy/download/)**  or **[Origin](https://tools.techidaily.com/drivereasy/download/)**  .
+
+#### If you’re on Steam
+
+1. Launch your Steam client and select**Library** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-1.jpg)
+2. Right-click**FIFA 22** and click**Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_16-16-14-3.jpg)
+3. Select the**Local Files** tab and click**Verify integrity of game files** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files.jpg)
+
+ Once the process completes, restart your game to see how it works. If the crashes reoccur, read[Fix 2](https://tools.techidaily.com/drivereasy/download/) .
+
+#### If you’re on Origin
+
+1. Open Origin and click**My Game Library** from the left pane. Then select FIFA 22 from the list.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/origin-verify-game-files.jpg)
+2. Click the**gear icon** under the Play button and click**Repair** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/origin-verify-game-files-2.jpg)
+
+ It may take a few minutes to scan and repair, and then you can test if the crashing issue is still there. If yes, try the second solution.
+
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 2 – Update your graphics driver
+
+ The constant FIFA 22 crashes can also indicate a driver issue. If you’re using a broken or outdated graphics driver, various gaming problems can occur and affect your experience. To avoid any annoying crashing issues, make sure to keep your graphics driver up-to-date.
+
+Here are two ways you can update the graphics driver easily and quickly:
+
+#### Option 1 – Download and install the driver manually
+
+ Graphics card manufacturers keep updating drivers. To get them, you need to go to their websites ([AMD](https://www.amd.com/en/support) or[NVIDIA](https://www.nvidia.com/Download/index.aspx) ), find the drivers corresponding with your specific flavor of Windows version and download it manually.
+
+ Once you’ve downloaded the correct drivers for your system, double-click the downloaded file and follow the on-screen instructions to install the driver.
+
+#### Option 2 – Automatically update the graphics driver
+
+ If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
+![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
+3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
+
+ Or click**Update** **All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
+![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ Now all your device drivers are the latest. Check if FIFA 22 is back to the normal state. If not, there are three more fixes to try.
+
+### Fix 3 – Change the DirectX settings
+
+ If you’re running into FIFA 22 crashing with a specific DirectX error, a possible method is to change the DirectX settings. Take the steps below to see if that helps your case.
+
+1. On your keyboard, press the**Window logo key** and**E** at the same time to open the File Explorer, and navigate to**Document** .
+2. Open the FIFA 22 folder. Then right-click the**fifasetup.ini file** and click**Open with** \>**Notepad** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/chaneg-directx-setting.jpg)
+3. If you see**DIRECTX\_SELECT = 0** , change the value to**1** . If it’s 1, change it to 0.
+4. Pree**Ctrl** and**S** on your keyboard to save the changes.
+
+ Test if FIFA 22 runs smoothly after the tweaks. If your game is still unplayable, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
+### Fix 4 – Disable overlay
+
+ In some cases, the overlay of the game launcher like Steam or Origin may cause FIFA 22 to crash or function improperly. It is an interface that allows you to access voice chat or other features. If that’s not necessary for you, just turn it off.
+
+#### On Steam
+
+1. Open Steam and select the**Library** tab.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-1.jpg)
+2. From the game list, right-click**FIFA** **22** and click**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_16-16-14-3.jpg)
+3. Untick**Enable the Steam Overlay while in-game** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable-steam-overaly.jpg)
+
+ Play the game again to see if this method does the trick. If not, follow[Fix 5](https://tools.techidaily.com/drivereasy/download/) to adjust the in-game settings.
+
+#### On Origin
+
+1. Launch Origin. Select**My Game Library** , and choose the FIFA 22 tile.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/origin-verify-game-files.jpg)
+2. Click the**gear icon** and click**Game Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable-origin-in-game.jpg)
+3. Make sure**Enable Origin In Game for FIFA 22 Ultimate Edition** is**unticked** . Click**Save** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable-origin-in-game-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ How does the game work with overlay disabled? If it keeps crashing as before, continue to the next fix.
+
+### Fix 5 – Optimize the graphics settings
+
+ Running FIFA 22 on high or ultra graphics may deliver a better experience. But if your machine isn’t powerful enough, the game may become unstable and you’d better lower certain settings.
+
+1. Launch FIFA 22 and select**Game** **Settings** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/game-settings.jpg)
+2. Select the**Windowed** or**Windowed** **Borderless** mode.  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/game-settings-2.jpg)
+3. Select**Lock to 60fps** under Frame Rates, and click**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/game-settings-3.jpg)
+
+ Open the game to check out on its performance. Still no luck? Try the last method.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 6 – Reinstall the game
+
+ If none of the fixes above resolves your FIFA 22 crashing issue, try reinstalling the game from scratch. After uninstalling FIFA 22, also remember to**delete the remaining game files** . And if possible,**install the game on SSD** , which, according to some players, solved the crashing dramatically.
+
+---
+
+ Hopefully this post helped. If you have any questions or suggestions, please feel free to leave your comment below.
+
+* [Fifa](https://tools.techidaily.com/drivereasy/download/)
+* [game crash](https://tools.techidaily.com/drivereasy/download/)
+* [Origin](https://tools.techidaily.com/drivereasy/download/)
+* [Steam](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-achieving-affiliate-success-with-online-videos-for-2024/"><u>[New] Achieving Affiliate Success with Online Videos for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-lustrous-android-video-techniques-for-every-user/"><u>[New] Lustrous Android Video Techniques for Every User</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-step-by-step-tailoring-your-way-to-youtube-subtitles-srt/"><u>[Updated] 2024 Approved  Step-by-Step  Tailoring Your Way to YouTube Subtitles (SRT)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-effective-methods-share-twitch-stream-on-facebook/"><u>[Updated] Effective Methods | Share Twitch Stream on Facebook?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-virtuality-current-realities-future-hurdles/"><u>[Updated] Exploring Virtuality  Current Realities, Future Hurdles</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-kinemaster-android-an-in-depth-gaming-guide-review/"><u>[Updated] KineMaster Android  An In-Depth Gaming Guide Review</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snapchats-creative-frontier-mastering-more-than-120-stories-with-individual-flair/"><u>[Updated] Snapchat's Creative Frontier  Mastering More than 120 Stories with Individual Flair</u></a></li>
+<li><a href="https://program-issues.techidaily.com/2024-ultimate-guide-to-diagnosing-and-solving-connection-problems-in-path-of-exile/"><u>2024 Ultimate Guide to Diagnosing and Solving Connection Problems in Path of Exile</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-black-ops-cold-war-unstucking-and-fixing-compiling-shaders-problems/"><u>Call of Duty Black Ops Cold War: Unstucking and Fixing 'Compiling Shaders' Problems</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oppo-find-x7-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-fix-for-error-code-crossbow-in-your-minecraft-adventures/"><u>Comprehensive Fix for 'Error Code: Crossbow' In Your Minecraft Adventures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-fuser-keeps-crashing-issues-in-windows-and-mac-os/"><u>Effective Solutions for 'Fuser Keeps Crashing' Issues in Windows and Mac OS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-to-stop-your-path-of-exile-from-freezing-up/"><u>Effective Solutions To Stop Your Path Of Exile From Freezing Up</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-fixing-youtube-sound-errors-in-windows-10-operating-system/"><u>Expert Tips for Fixing Youtube Sound Errors in Windows 10 Operating System</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Tecno Phantom V Fold? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-free-rotate-and-merge-videos-on-android-for-2024/"><u>How to Free Rotate and Merge Videos on Android for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/immortals-fenyx-rising-not-launching-solved/"><u>Immortals Fenyx Rising Not Launching [SOLVED]</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-lightweight-recording-tool-windows-compatible/"><u>In 2024, Lightweight Recording Tool, Windows Compatible</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-motorola-edge-40-pro-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Motorola Edge 40 Pro Phone Network-Ready</u></a></li>
+<li><a href="https://program-issues.techidaily.com/installing-hyper-v-for-windows-11-users-beginners-roadmap/"><u>Installing Hyper-V for Windows 11 Users – Beginner's Roadmap</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722994015275-league-of-legends-troubles-master-these-easy-fixes-for-a-seamless-gaming-experience/"><u>League of Legends Troubles? Master These Easy Fixes for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pathfinder-wrath-of-the-righteous-continuous-crash-fixes-and-solutions/"><u>Pathfinder: Wrath of the Righteous - Continuous Crash Fixes & Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-the-black-screen-issue-on-epic-games-launcher/"><u>Resolved: Fixing the Black Screen Issue on Epic Games Launcher</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-freezing-issues-in-borderlands-3-expert-tips-and-solutions/"><u>Resolving Freezing Issues in Borderlands 3: Expert Tips and Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revamp-horizon-zero-dawn-gameplay-with-fps-improvements-and-advanced-performance-boosting-strategies/"><u>Revamp Horizon Zero Dawn Gameplay with FPS Improvements and Advanced Performance Boosting Strategies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-for-outlook-fails-to-start-a-comprehensive-repair-guide/"><u>Solutions for 'Outlook Fails to Start': A Comprehensive Repair Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-for-path-of-exiles-instance-connectivity-troubleshooting-2024-update/"><u>Step-by-Step Solution for Path of Exile's Instance Connectivity Troubleshooting - 2024 Update</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-troubleshooting-when-league-of-legends-fails-to-start/"><u>Ultimate Guide: Troubleshooting When League of Legends Fails to Start</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-solutions-for-stabilizing-code-veal-during-play-sessions/"><u>Ultimate Solutions for Stabilizing Code Veal During Play Sessions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-guide-for-resolving-fifa-19-crash-issues-in-pc-gaming/"><u>Ultimate Troubleshooting Guide for Resolving FIFA 19 Crash Issues in PC Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-guide-to-stop-among-us-from-freezing-and-crashing/"><u>Ultimate Troubleshooting Guide to Stop Among Us From Freezing and Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unveiling-the-truth-behind-the-postponement-of-guilty-gare-strive/"><u>Unveiling the Truth Behind The Postponement of 'Guilty Gare Strive'</u></a></li>
+</ul></div>
