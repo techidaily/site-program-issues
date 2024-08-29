@@ -1,0 +1,222 @@
+---
+title: Mastering On-the-Go Tech Support with DriverEasy's Compact App
+date: 2024-08-28T06:37:57.221Z
+updated: 2024-08-29T06:37:57.221Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Mastering On-the-Go Tech Support with DriverEasy's Compact App
+excerpt: This Article Describes Mastering On-the-Go Tech Support with DriverEasy's Compact App
+thumbnail: https://thmb.techidaily.com/969f33b117977e3c9183a386d2bdc9ab1274e9f63db8d891784a69dcdfd3c683.jpg
+---
+
+## Master the Fix: Steam-Free Gaming with Persona 5 Strikers on PC Solved
+
+You just jumped into the stylish world of Persona but annoyed to find that Persona 5 Strikers keeps crashing. If you’re experiencing random game crashes or crashes on startup, don’t worry. You should be able to fix it by yourself in this post.
+
+ Before you proceed with the fixes below, please make sure your gear meets[the minimum requirements of Persona 5 Stri](https://gamesystemrequirements.com/game/persona-5-strikers) [kers](https://gamesystemrequirements.com/game/persona-5-strikers) .
+
+## Try these fixes
+
+ Persona 5 Strikers crashing might be caused by**lack of administrative rights** ,**corrupted game files,** or**software interference** ,**outdated graphics drivers** , etc.
+
+ No matter what the cause is, to solve your problem quickly, you should always try the following fixes:
+
+1. **[Close all unnecessary applications](https://tools.techidaily.com/drivereasy/download/)**
+2. [**Update your graphics drivers**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Verify the game files**](https://tools.techidaily.com/drivereasy/download/)
+4. [**Play the game in windowed mode**](https://tools.techidaily.com/drivereasy/download/)
+5. [**Run your game as an administrator**](https://tools.techidaily.com/drivereasy/download/)
+6. **[Tweak some settings in NVIDIA Control Panel](https://tools.techidaily.com/drivereasy/download/)**
+
+## 1\. Close all unnecessary applications
+
+ Your Persona 5 Strikers may be crashed by interference from some programs running in the background.
+
+ They include utility programs provided by your hardware manufacturers that change your components or system settings (MSI Afterburner or antivirus software, for example).
+
+ To see if that’s the case for you, press**Ctrl + Shift + Esc** to open Task Manager and close all those programs before you run your game. Then check to see if this is able to stop your crashing issue.
+
+ Note that some antivirus software will still keep running even when disabled. You can add your game to its exclusion list or uninstall it temporarily.
+
+## 2\. Update your graphics drivers
+
+ It’s very important to keep your graphics drivers updated to the latest version, whether for Persona 5 Strikers or other games. Graphics manufacturers keep releasing new drivers to fix known bugs and make minor improvements.
+
+There are mainly two ways for you to update your graphics driver:
+
+### Option 1: Manually
+
+ To manually update your graphics driver, you’ll need to visit the manufacturer’s official website ([**NVIDIA**](https://tools.techidaily.com/drivereasy/download/) ,[**AMD**](https://www.amd.com/en/support) , or **[Intel](https://downloadcenter.intel.com/)**  ) to download the latest driver for your operating system.
+
+ Note that when installing a driver manually, you’ll need to perform a clean installation so that the new driver can be recognized correctly.
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/02/clean.png)
+
+### Option 2: Automatically
+
+ If you don’t have the time, patience, or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the FREE or the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+ ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
+3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with the Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
+ ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
+4. Reboot your computer and launch the game to see if Persona 5 Strikers is launching properly.
+
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
+## 3\. Verify the game files
+
+ To make sure there are no corrupted or missing files, you can check the integrity of the game files. Here’s how to do it:
+
+1. Launch Steam, and go to the**Library** .
+2. Right-click on Persona 5 Strikers, and select**Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/02/persona-5-properties.png)
+3. Go to the**Local files** , and select**Verify the integrity of the game files** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/02/verify.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+ Wait for the verification to complete. Once done, you can relaunch your Persona 5 Strikers to test the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
+## 4\. Play the game in windowed mode
+
+ Another way to stop your Persona 5 Strikers from crashing is to play the game in windowed mode. Here’s how to do it:
+
+1. Go to your Steam Library, and right-click Persona 5 Strikers > select**Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/02/persona-5-properties.png)
+2. Under the**LAUNCH OPTIONS** , add**\-windowed** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/02/windowed-mode.png)
+3. Close the game’s **Properties** window and launch the game.
+
+ Now you will find the game stops crashing. If this method doesn’t work for you, don’t worry. You can try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
+## 5\. Run your game as an administrator
+
+ Persona 5 Strikers may not work properly if it lacks administrative rights. To make sure your game has full access to the game files, you can run the game as an administrator and launch your game from the installation folder.
+
+1. Navigate to your game installation folder (usually**C:/Steam Library/ steamapps/common/P5S/game.exe** ).  
+ Or you can right-click the game and select**Manage** \>**Browse local files** .
+2. Right-click the game.exe file, and select**Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-10.30.23-AM.png)
+3. Go to the**Compatibility** tab, and check the box next to the**Disable fullscreen optimizations** , and**Run this program as administrator** .  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/02/compatibility.png)
+4. Click**Apply** \>**OK** .
+
+ Now launch your game from there and see if this solved your crashing issue. If not, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 6\. Tweak some settings in NVIDIA Control Panel
+
+ Some find turning off Triple Buffering and setting Low Latency Mode to Ultra help them reduce Persona 5 Strikers crashing. Here’s how to do it:
+
+1. Right-click the desktop, and select**Nvidia Control Panel** .
+2. Go to**Manage 3D Settings** \>**Program Settings** \> select**Persona 5 Strikers** from the list. If the game isn’t on the list then add it.
+3. Set**Ultra** for**Low Latency Mode** and select**off** for**Tripple Buffering** .
+
+**Note:** Turning on Low Latency Mode will potentially reduce your FPS. This mode is off by default, which NVIDIA says leads to “maximum render throughput.” For most people most of the time, that’s a better option.
+
+ If this method doesn’t work in your case, you can revert back to its default settings.
+
+---
+
+ Hopefully, your Persona 5 Strikers works like a charm right now. But if none of these methods work for you, you may probably want to restart your PC and give your game a complete restart.
+
+ If this doesn’t work after that, you can perform a clean installation of the game. Many players are still complaining about getting constant crashes, and the real fix may come with the next patch.
+
+* [game crash](https://tools.techidaily.com/drivereasy/download/)
+* [games](https://tools.techidaily.com/drivereasy/download/)
+* [Steam](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/fixed-cod-modern-warfare-3-the-application-has-unexpectedly-stopped-working/"><u>[Fixed] COD Modern Warfare 3 The Application Has Unexpectedly Stopped Working</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-catchy-lyrics-on-the-rise-with-tiktoks-newest-songs-for-2024/"><u>[New] Catchy Lyrics on the Rise with TikTok's Newest Songs for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-streamline-your-media-experience-windows-films-to-vimeo/"><u>[Updated] 2024 Approved  Streamline Your Media Experience  Windows Films to Vimeo</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-most-utilized-firefox-screen-capturing-plugins/"><u>[Updated] Most Utilized Firefox Screen Capturing Plugins</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-unveiling-chrome-based-techniques-for-tiktok-content/"><u>[Updated] Unveiling Chrome-Based Techniques for TikTok Content</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-happy-haven-20-top-prison-jail-gifs-and-photos-for-an-optimistic-social-media-experience/"><u>2024 Approved  Happy Haven  20 Top Prison Jail GIFs & Photos for an Optimistic Social Media Experience</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-shake-eliminator-gear-for-handhocal-cams-2022/"><u>2024 Approved  Shake Eliminator Gear for Handhocal Cams 2022</u></a></li>
+<li><a href="https://howto.techidaily.com/best-methods-for-poco-m6-pro-4g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Poco M6 Pro 4G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bug-free-gaming-fixing-constant-crashes-in-cod-modern-warfare/"><u>Bug Free Gaming: Fixing Constant Crashes in Cod: Modern Warfare</u></a></li>
+<li><a href="https://program-issues.techidaily.com/continuous-audio-non-responsive-videos-on-youtube-heres-how-to-rectify-this-error-with-chrome-or-firefox/"><u>Continuous Audio, Non-Responsive Videos on YouTube? Here's How to Rectify This Error with Chrome or Firefox</u></a></li>
+<li><a href="https://program-issues.techidaily.com/destiny-2-troubleshooting-guide-overcoming-centipede-error-code/"><u>Destiny 2 Troubleshooting Guide - Overcoming Centipede Error Code</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722984318060-discords-webcam-woes-heres-how-you-can-get-it-working-again/"><u>Discord's Webcam Woes? Here's How You Can Get It Working Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-system-compatibility-for-vanguard-by-upgrading-insufficient-cpu-specs/"><u>Enhance System Compatibility for Vanguard by Upgrading Insufficient CPU Specs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-and-tricks-for-fixing-battlenet-wont-open-issues-the-definitive-2024-guide/"><u>Expert Tips and Tricks for Fixing Battle.net Won't Open Issues: The Definitive 2024 Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fallout-4-stuttering-heres-the-fix/"><u>Fallout 4 Stuttering? Here’s the Fix!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-pc-crashes-in-sons-of-the-forest-a-comprehensive-guide/"><u>Fixing PC Crashes in Sons of the Forest: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-the-launch-failure-of-farming-simulator-22-and-get-back-to-cultivating/"><u>How to Fix the Launch Failure of Farming Simulator 22 and Get Back to Cultivating</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-launch-problems-in-call-of-duty-black-ops-4-solutions-unveiled/"><u>How To Overcome Launch Problems in Call Of Duty: Black Ops 4 - Solutions Unveiled</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003939786-how-to-successfully-run-resident-evil-5-on-your-computer-solved/"><u>How To Successfully Run Resident Evil 5 On Your Computer - Solved</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ate-your-journey-into-asmr-filming-essential-insights-revealed-for-2024/"><u>Initiate Your Journey Into ASMR Filming – Essential Insights Revealed for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximize-gaming-performance-on-the-ascent-tips-for-fixing-frame-drops-and-enhancing-graphics-fluidity/"><u>Maximize Gaming Performance on 'The Ascent': Tips for Fixing Frame Drops & Enhancing Graphics Fluidity</u></a></li>
+<li><a href="https://program-issues.techidaily.com/modern-warfare-2-wont-start-troubleshooting-and-fixes/"><u>Modern Warfare 2 Won't Start: Troubleshooting and Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-sony-vegas-persistent-malfunction-troubleshooting-techniques-that-work/"><u>Overcoming Sony Vegas Persistent Malfunction: Troubleshooting Techniques That Work</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-xiaomi-redmi-a2plus-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Xiaomi Redmi A2+? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fix-guide-resolving-world-of-warships-issues-on-windows-machines-5-methods/"><u>Quick Fix Guide: Resolving World of Warships Issues on Windows Machines [5 Methods]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-resolving-issues-with-genshin-impact-startup/"><u>Quick Solutions: Resolving Issues with Genshin Impact Startup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-crashing-problems-on-your-arma-3-pc-latest-updates-for-gaming-smoothness/"><u>Resolving Crashing Problems on Your Arma 3 PC: Latest Updates for Gaming Smoothness</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013183034-solving-the-puzzle-of-football-manager-2022s-missing-debut-tips-and-tricks/"><u>Solving the Puzzle of Football Manager 2022'S Missing Debut – Tips and Tricks!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/speeding-up-fallout/"><u>Speeding Up Fallout 지정된 긴 로드 시간: 일관성 있는 수단</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steps-to-overcome-crashing-and-hitching-gameplay-smoothness-in-valheim-on-your-computer/"><u>Steps to Overcome Crashing and Hitching Gameplay Smoothness in Valheim on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-your-cs2-game-crashes-effective-strategies-and-patches-updated-guide/"><u>Troubleshoot Your CS2 Game Crashes: Effective Strategies & Patches - Updated Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004017408-troubleshooting-guide-adobe-startup-failure-issue-error-0xc00/"><u>Troubleshooting Guide: Adobe Startup Failure Issue - Error 0Xc00#</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-black-screen-issues-in-persona-5-strikers/"><u>Troubleshooting Guide: Fixing Black Screen Issues in Persona 5 Strikers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-guide-fixing-intel-hd-graphics-630-problems-on-your-windows-pc/"><u>Troubleshooting Guide: Fixing Intel HD Graphics 630 Problems on Your Windows PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-when-cs-go-fails-to-open/"><u>Troubleshooting Tips for When CS: GO Fails to Open</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-fortnite-warzone-lag-issues/"><u>Ultimate Guide: Solving Fortnite Warzone Lag Issues</u></a></li>
+</ul></div>

@@ -1,0 +1,247 @@
+---
+title: OBS Fixated! Overcome the Hurdle of Screen Capture Failure
+date: 2024-08-28T06:31:59.473Z
+updated: 2024-08-29T06:31:59.473Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes OBS Fixated! Overcome the Hurdle of Screen Capture Failure
+excerpt: This Article Describes OBS Fixated! Overcome the Hurdle of Screen Capture Failure
+thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068fdbe75a38577d96433ea41b.jpg
+---
+
+## Sea of Thieves Stuck on Load Screen? Here Are Your Fixes
+
+It’s not a pleasant experience when you run Sea of Thieves but**stuck on the loading screen** . Don’t worry, you’re not alone. For this problem, you need to restart the game and wait. But it doesn’t always help. The ideal state would be the developers release the latest version to fix this issue, but we’re not that lucky.
+
+ Well, there’s one thing you should do first is to make sure your Windows Operating system is up to date and meet the minimum requirements.
+
+**Minimum requirement for Sea of Thieves**
+
+| OS              | Windows 10                                   |
+| --------------- | -------------------------------------------- |
+| CPU             | Intel Core i3 2.0 GHz/ AMD Athlon IIT X3 455 |
+| Hard disk space | 9 GB                                         |
+| Graphics card   | NVIDIA GeForce GTX 660/ AMD Radeon HD 7850   |
+| RAM             | 4 GB                                         |
+
+**How to check for updates:**
+
+1. Press the**Windows Key + I** and click**Update & Security** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/update1.jpg)
+2. Click **Check for Updates** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/update.jpg)
+
+## Try these fixes
+
+ There are 7 fixes for you. You may not have to try them all; just work your way down the list until you find the one that works for you.
+
+1. [Run as administrator](https://tools.techidaily.com/drivereasy/download/)
+2. [Do an App reset](https://tools.techidaily.com/drivereasy/download/)
+3. [Change the Time & Region](https://tools.techidaily.com/drivereasy/download/)
+4. [Run Powershell](https://tools.techidaily.com/drivereasy/download/)
+5. [Use a VPN](https://tools.techidaily.com/drivereasy/download/)
+6. [Update your drivers and programs](https://tools.techidaily.com/drivereasy/download/)
+7. [Disable incompatible apps](https://tools.techidaily.com/drivereasy/download/)
+
+### Fix 1: Run as administrator
+
+ The privilege issue might be the reason for the problem. With high integrity access, Sea of Thieves can make full use of its features, so run the game as an administrator to see if this fixes your issue.
+
+1. Exit Sea of Thieves.
+2. Right-click on the Sea of Thieves icon and click **Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/properties.jpg)
+3. Under the **Compatibility** tab, tick **Run this program as an administrator** . Then click **OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/ad.jpg)
+4. Run the game to check whether the problem is solved or not.
+
+### Fix 2: Do an App reset
+
+ Reset the Sea of Thieves is a good option to try. This method will revert the game to its default settings which may fix the stuck on loading screen issue.
+
+1. Clean uninstall Sea of Thieves.
+2. Press the **Windows Key + R** together.
+3. Type “**wsreset.exe** ” and press**Enter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/windows-store-cache.jpg)
+4. Download and install the Sea of Thieves.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
+5. Press the**Windows key + I** together and click**Apps** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/app.jpg)
+6. Find and click **Sea of Thieves** on the list.
+7. Click **Advanced Options** and click**Reset** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/reset.jpg)
+8. Run Sea of Thieves to check.
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
+
+### Fix 3: Change the Time & Region
+
+ It’s possible that the stuck on loading screen problem is caused by the incorrect time and region. When you run Sea of Thieves, the game will compare the date and time automatically through the internet. If your PC time zone is different from your region, the connection may fail to load and cause the problem.  
+ Take a look at the time show on your screen, if it’s different from your region, you can follow the steps below to fix the problem.
+
+1. Press the **Windows Key** \+ I and click**Time & Language** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/timelanguage.jpg)
+2. Open the**Set time automatically** button.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/time.jpg)
+3. Check your time zone and date.
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
+4. Click **Region** and check your region is corrected.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/region-1.jpg)
+5. Reboot your PC
+6. Run Sea of Thieves to check.
+
+**Note** : If your language and region is set to **English (United States)** already please change it to **English (United Kingdom)** instead.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 4: Run Powershell
+
+ Besides these basic fixes, you can use Powershell to enforce the application to launch in the way you want.
+
+1. Press **Windows + R** to open the Run box.
+2. Type “powershell” and hit**Enter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/powershell.jpg)
+3. Copy and paste the following into the Powershell window and press Enter.  
+ **Get-AppXPackage | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($\_.InstallLocation)AppXManifest.xml”}**
+4. Run Sea of Thieves to check.
+
+### Fix 5: Use a VPN
+
+ The “stuck on loading screen” issue may be caused by internet problem. It is possible these situations may interpret your connection to the game servers: servers are full, your area has certain restrictions which may affect the connection, etc. Then you can use a VPN service to solve the problem. VPN can bypass geo-restrictions and let you connect with the server in any places of the world directly.
+
+ You can use the VPN you already have, if you don’t have one, it’s recommended to use [NordVPN](https://tools.techidaily.com/drivereasy/download/) .
+
+[NordVPN](https://tools.techidaily.com/drivereasy/download/) is a famous brand. Its server location covers 60 countries and the safety of this VPN is absolutely stunning. Also, it has a fast speed that can meet your need.
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  NordVPN in your device.
+2. Run NordVPN and open it.
+3. Connect to a server in a chosen location.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/nord.jpg)
+4. Run Sea of Thieves to check.
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+
+**Coupon TIP** : Get a [NordVPN coupon code](https://tools.techidaily.com/drivereasy/download/) before you buy it!
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 6: Update your drivers and programs
+
+ The outdated or wrong drivers for your graphics card, network card, sound card, etc. may cause problems. Updating your drivers is a good option to fix errors. This method can also provide you better gaming experience.
+
+**[Option 1 – Manually](https://tools.techidaily.com/drivereasy/download/)**  – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
+
+OR
+
+**[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/solvedsea-of-thieves-stuck-on-loading-screen/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
+
+#### **Option 1 –** **Download and install the driver manually**
+
+ Devices keep updating drivers. To get them, you need to go to the manufacturer website, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
+
+ Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
+
+#### **Option 2 – Automatically update drivers**
+
+ If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with Driver Easy.
+
+[Driver Easy](https://tools.techidaily.com/drivereasy/download/) will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the FREE or the [Pro version](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the [Pro version](https://tools.techidaily.com/drivereasy/download/) it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
+3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+4. Run Sea of Thieves to check.
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 7: Disable incompatible apps
+
+ Third-party applications might be the reason for the stuck on screen issue. You can try to disable apps like AfterBurner that show FPS, OSD, MSI, EVGA, etc and then restart your PC. If this doesn’t help, you can also try to disable your antivirus software like Trend Micro which has been known to cause conflicts.
+
+**IMPORTANT** : Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
+
+---
+
+ We hope you find the above information helpful. And if you have any ideas, suggestions, or questions, feel free to leave a comment below.
+
+* [games](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-design-and-construct-your-dream-mc-house/"><u>[New] 2024 Approved  Design and Construct Your Dream MC House</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-building-a-powerful-twitter-marketing-strategy/"><u>[New] Building a Powerful Twitter Marketing Strategy</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-creating-a-strong-brand-voice-with-social-media-videos/"><u>[New] Creating a Strong Brand Voice with Social Media Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-instagram-streamlining-the-process-of-image-addition/"><u>[New] Instagram  Streamlining the Process of Image Addition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-maximizing-revenue-a-youtube-channelers-guide/"><u>[New] Maximizing Revenue  A YouTube Channeler’s Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-podcast-cover-design-ten-essential-best-practices/"><u>[New] Podcast Cover Design  Ten Essential Best Practices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-wintv-guide-effective-techniques-in-windows-based-live-recording-for-2024/"><u>[New] WinTV Guide  Effective Techniques in Windows-Based Live Recording for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-get-your-stream-on-point-with-these-top-webcams-for-youtube/"><u>[Updated] 2024 Approved  Get Your Stream on Point with These Top Webcams for YouTube</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-ps5xbox-series-x-game-screens-the-ultimate-guide/"><u>[Updated] PS5/Xbox Series X Game Screens  The Ultimate Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-streaming-service-comparison-facebook-live-vs-youtube-live-and-spaces/"><u>[Updated] Streaming Service Comparison  Facebook LIVE Vs. YouTube Live & Spaces</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-stealthiest-instagram-story-viewers/"><u>[Updated] The Stealthiest Instagram Story Viewers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/15-best-facebook-analyzers-to-increase-sales/"><u>15 Best Facebook Analyzers to Increase Sales</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-how-to-resolve-when-borderlands-not-launches-correctly/"><u>Effective Fixes: How to Resolve When Borderlands nOt Launches Correctly</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/essential-9-puzzle-and-adventure-titles-for-unplugged-android-gaming/"><u>Essential 9 Puzzle & Adventure Titles for Unplugged Android Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/experience-the-epic-battle-god-of-war-ps4-port-delivers-as-a-stunning-pc-fps-title/"><u>Experience the Epic Battle: God of War PS4 Port Delivers as a Stunning PC FPS Title</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-resolving-connectivity-issues-in-street-fighter-6-on-windows-computers/"><u>Expert Tips for Resolving Connectivity Issues in Street Fighter 6 on Windows Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-minecraft-stutter-and-lag-issues-top-solutions/"><u>Fixing Minecraft Stutter & Lag Issues : Top Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Vivo Y78t? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-oppo-reno-11-pro-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do Oppo Reno 11 Pro 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-and-prevent-your-ark-software-from-crashing-effectively/"><u>How to Fix and Prevent Your Ark Software From Crashing Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-get-past-the-play-not-allowed-hurdle-in-fortnite/"><u>How to Get Past the 'Play Not Allowed' Hurdle in Fortnite</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-12-pro-without-apple-id-by-drfone-ios/"><u>In 2024, How to Erase an Apple iPhone 12 Pro without Apple ID?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-11-pro-max-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 11 Pro Max Unavailable Issue With Ease</u></a></li>
+<li><a href="https://program-issues.techidaily.com/lego-star-wars-the-skywalker-saga-resolved-pc-launch-issues-and-updated-tips-release/"><u>Lego Star Wars The Skywalker Saga - Resolved PC Launch Issues & Updated Tips Release</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mount-and-blade-ii-bannerlord-stability-fixes-for-a-smoother-gaming-experience/"><u>Mount & Blade II: Bannerlord Stability Fixes for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/nier-replicant-stability-enhanced-say-goodbye-to-game-crashes/"><u>NieR: Replicant Stability Enhanced – Say Goodbye to Game Crashes!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/precision-recording-advanced-screenrec-for-laptops-for-2024/"><u>Precision Recording  Advanced ScreenRec for Laptops for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-fixing-fall-guys-stuttering-and-lag-issues-in-pc-version/"><u>Solved: Fixing Fall Guys Stuttering and Lag Issues in PC Version</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-frame-rate-drops-and-stuttering-in-counter-strike-global-offensive-easy-fixes-guide/"><u>Solving Frame Rate Drops & Stuttering in Counter-Strike: Global Offensive - Easy Fixes Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-to-fix-dead-by-daylight-code-8014-problems/"><u>Step-by-Step Solutions to Fix Dead by Daylight Code 8014 Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/surviving-against-all-odds-how-black-history-embodies-the-principle-of-eternal-return/"><u>Surviving Against All Odds: How Black History Embodies the Principle of 'Eternal Return'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/taming-the-beast-a-step-by-step-guide-to-resolving-titanfall-2-issues/"><u>Taming the Beast: A Step-by-Step Guide to Resolving Titanfall 2 Issues</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/techniques-for-streaming-seminars-on-a-fee-free-basis-for-2024/"><u>Techniques for Streaming Seminars on a Fee-Free Basis for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/testing-your-custom-script-to-test-your-newly-created-custom-routine-trigger-it-using-its-designated-sound-cue-or-conditions-youve-set-up-the-google-assista417/"><u>Testing Your Custom Script: To Test Your Newly Created Custom Routine, Trigger It Using Its Designated Sound Cue or Conditions You've Set Up. The Google Assistant Should Now Respond According to the Actions Specified in Your Script</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-twitch-streamer-secrets-unraveling-common-conundrums-for-beginner-viewers/"><u>Top Twitch Streamer Secrets: Unraveling Common Conundrums for Beginner Viewers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-the-msi-mystic-light-issue-on-a-pc-with-windows/"><u>Troubleshooting Guide: Fixing the MSI Mystic Light Issue on a PC with Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-persistent-fuser-instability-in-windows/"><u>Troubleshooting Steps for Persistent Fuser Instability in Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-resolving-red-dead-redemption-2-pc-game-crashes/"><u>Troubleshooting Steps for Resolving Red Dead Redemption 2 PC Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-easily-overcome-genshin-impact-launch-issues/"><u>Troubleshooting Tips: Easily Overcome Genshin Impact Launch Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-how-to-escape-the-far-cry-5-perpetual-load-screen-issue/"><u>Troubleshooting: How to Escape the Far Cry 5 Perpetual Load Screen Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-unfreeze-fortnite-top-troubleshooting-steps/"><u>Ultimate Guide to Unfreeze Fortnite : Top Troubleshooting Steps</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+</ul></div>

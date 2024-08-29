@@ -1,0 +1,153 @@
+---
+title: "Fixing Oculus: How to Update or Replace Faulty Graphics Drivers"
+date: 2024-08-28T06:37:54.145Z
+updated: 2024-08-29T06:37:54.145Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Fixing Oculus: How to Update or Replace Faulty Graphics Drivers"
+excerpt: "This Article Describes Fixing Oculus: How to Update or Replace Faulty Graphics Drivers"
+thumbnail: https://thmb.techidaily.com/8e69d784c77bd739f0f1c851de79322ac9ec55e884e7ced93bcfd0b725d11a77.jpg
+---
+
+## Forza Horizon 5 Update Errors? Here’s How to Correct Your Graphics Driver Woes
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/forza-horizon-5-code-FH301.jpg)
+
+ Forza Horizon 5 is finally here. However, some players reported that they were unable to launch the game and got the message saying that “**Please update your graphics driver…(Code: FH301)** ”. If you’re facing the same error, don’t worry. Here we’ll tell you how to update your graphics driver easily and quickly.
+
+## Three ways to update your graphics driver
+
+1. **[Update graphics driver via Device Manager](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Update graphics driver automatically (Recommended)](https://www.drivereasy.com/knowledge/forza-horizon-5-update-graphics-driver/#Method2)**
+3. **[Update graphics driver manually](https://tools.techidaily.com/drivereasy/download/)**
+
+### Method 1: Update graphics driver via Device Manager
+
+ You can update your graphics driver via Device Manager. To do so, follow the instructions below:
+
+1. Right-click the**Start** button and then select**Device Manager** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/start-device-manager.jpg)
+2. In Device Manager, double-click**Display adapters** to expand it.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/display-adapter.jpg)
+3. Right-click your**graphics card** and select**Update driver** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/graphics-update-driver.jpg)
+4. Select**Search automatically for drivers** . Windows will automatically search for the latest driver for your graphics card and then install it.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/search-automatically-for-drivers.jpg)
+5. Once the process is complete, restart your computer.
+
+ If Windows doesn’t find a new driver, you can try looking for one from your graphics card manufacturer’s website or by using a third-party driver updater.
+
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
+### Method 2: Update graphics driver automatically (Recommended)
+
+ If you don’t have the time, patience or computer skills to update your graphics driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.**Driver Easy handles it all.**
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
+3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<!-- affiliate ads end -->
+ The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+ After installing the latest graphics driver, restart your PC for the changes to take effect. Now you should be able to launch Forza Horizon 5.
+
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Method 3: Update your graphics driver manually
+
+ You can also go to your graphics card manufacturer’s website to download and update your graphics driver. It takes time and computer skills to update your graphics driver this way. If you’re a tech-savvy user, you can try the following steps to download and install the latest graphics driver on your own.
+
+1. According to the graphics card you have, go to **[NVIDIA](https://tools.techidaily.com/drivereasy/download/)**  ,[**AMD**](https://www.amd.com/en/support) or **[Intel](https://downloadcenter.intel.com/product/80939/Graphics)**  website.
+2. Select the**type of your graphics card** and your**operating system** . Once you locate the correct one, select the latest version to**download** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/nvidia-driver.jpg)
+3. Once downloaded,**double-click** on the downloaded file and follow the on-screen instructions to install the driver.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
+4. **Restart** your PC and check if you can launch Forza horizon 5.
+
+---
+
+ Hopefully, this post helps you update your graphics driver and then you should be able to enjoy Forza Horizon 5\. If you have any questions or suggestions, feel free to leave us a comment below.
+
+* [driver update](https://tools.techidaily.com/drivereasy/download/)
+* [games](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/comprehensive-solutions-eliminating-pc-hacks-and-freezes-during-(span-stylecolor-0078af)halo-3(span)-sessions/"><u>[Comprehensive Solutions] Eliminating PC Hacks and Freezes During <Span Style=color: #0078AF;>Halo 3</Span> Sessions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-master-your-channel-identity-with-smart-naming/"><u>[New] 2024 Approved  Master Your Channel Identity with Smart Naming</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-navigating-the-art-of-film-making-on-facebook/"><u>[New] 2024 Approved  Navigating the Art of Film Making on Facebook</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-engaging-storytelling-with-snapchats-gifted-gifs/"><u>[New] Engaging Storytelling with Snapchat's Gifted GIFs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-10-frame-makers-revealed-2024-edition/"><u>[New] Top 10 Frame Makers Revealed  2024 Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fixing-inertia-and-jello-distortions-in-uav-clips/"><u>[Updated] Fixing Inertia and Jello Distortions in UAV Clips</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-understanding-your-twitter-archives-potential-for-2024/"><u>[Updated] Understanding Your Twitter Archive's Potential for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-affordable-cloud-keep-optimal-pricing-for-huge-archives/"><u>2024 Approved  Affordable Cloud Keep  Optimal Pricing for Huge Archives</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-unveiling-ipads-full-potential-a-timelapse-journey-begins-here/"><u>2024 Approved  Unveiling iPad's Full Potential  A Timelapse Journey Begins Here</u></a></li>
+<li><a href="https://program-issues.techidaily.com/clearing-up-network-issues-a-fix-for-discord-packet-loss-problems/"><u>Clearing Up Network Issues: A Fix for Discord Packet Loss Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-vanguard-pc-game-crash-fixes-top-solutions/"><u>CoD Vanguard PC Game Crash Fixes : Top Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-solutions-to-fix-frame-rate-hiccups-in-age-of-empires-iv/"><u>Comprehensive Solutions to Fix Frame Rate Hiccups in Age of Empires IV</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Vivo V29? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-bypassing-login-obstacles-on-steam-platform/"><u>Expert Advice: Bypassing Login Obstacles on Steam Platform</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-helldivers-ii-resolving-the-black-screen-at-launch/"><u>Fixing Helldivers II - Resolving the Black Screen at Launch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003265998-guide-to-fixing-the-recurring-crashes-of-ascent-in-pc-version-solved/"><u>Guide to Fixing the Recurring Crashes of Ascent in PC Version - Solved!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-horizon-zero-dawn-from-freezing-or-crashing-on-windows-1011/"><u>How to Prevent Horizon Zero Dawn From Freezing or Crashing on Windows 10/11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/illuminating-solutions-how-to-get-unstuck-from-nba-2k21s-persistent-black-screen-issue/"><u>Illuminating Solutions: How to Get Unstuck From NBA 2K21’s Persistent Black Screen Issue</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/in-depth-tutorial-on-correcting-the-dead-by-daylight-e8014-glitch/"><u>In-Depth Tutorial on Correcting the Dead by Daylight E8014 Glitch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722997706709-marvel-enthusiasts-rejoice-solve-guardians-of-the-galaxy-pc-crash-issues-using-our-top-8-fixes/"><u>Marvel Enthusiasts Rejoice: Solve Guardians of the Galaxy PC Crash Issues Using Our Top 8 Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/modern-warfare-launch-failures-solutions-and-fixes/"><u>Modern Warfare Launch Failures - Solutions and Fixes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/motorola-moto-g-stylus-2023-music-recovery-recover-deleted-music-from-motorola-moto-g-stylus-2023-by-fonelab-android-recover-music/"><u>Motorola Moto G Stylus (2023) Music Recovery - Recover Deleted Music from Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-error-code-327-in-star-wars-battlefront-ii-a-step-by-step-fix/"><u>Resolving 'Error Code 327' In Star Wars Battlefront II: A Step-by-Step Fix</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-ultimate-troubleshooting-guide-resolving-the-frontier-game-crashes-on-pc/"><u>Solved: Ultimate Troubleshooting Guide - Resolving the 'Frontier' Game Crashes on PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-microsoft-store-that-wont-start-up/"><u>Step-by-Step Solution for Microsoft Store That Won't Start Up</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-directx-problems-on-your-xbox-to-enjoy-cod-mw2-again/"><u>Troubleshoot DirectX Problems on Your Xbox to Enjoy COD MW2 Again!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-ready-or-not-keeps-failing-issues-for-windows-users/"><u>Troubleshooting Guide: Resolving 'Ready or Not Keeps Failing' Issues for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-overcoming-startup-problems-in-stardew-valley-game/"><u>Troubleshooting Tips - Overcoming Startup Problems in Stardew Valley Game</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-tips-solving-windows-11s-audio-problems-easily/"><u>Troubleshooting Tips: Solving Windows 11'S Audio Problems Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-resolved-lost-connection-with-battlenet-gaming-servers/"><u>Troubleshooting: Resolved - Lost Connection with Battle.net Gaming Servers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-why-steam-wont-open-on-windows-10-and-how-to-fix-it/"><u>Troubleshooting: Why Steam Won't Open on Windows 10 & How to Fix It</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008025051-windows-11-users-rejoice-civ-6-launch-issues-resolved/"><u>Windows 11 Users Rejoice: Civ 6 Launch Issues Resolved!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/yakuza-3-pc-version-how-to-stop-unexpected-exits-and-keep-gaming-smoothly/"><u>Yakuza 3 PC Version: How to Stop Unexpected Exits and Keep Gaming Smoothly</u></a></li>
+</ul></div>

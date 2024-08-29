@@ -1,0 +1,208 @@
+---
+title: "Smooth Sailing for Fallout 4: Tackle Stutter Problems Today"
+date: 2024-08-28T06:35:28.437Z
+updated: 2024-08-29T06:35:28.437Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Smooth Sailing for Fallout 4: Tackle Stutter Problems Today"
+excerpt: "This Article Describes Smooth Sailing for Fallout 4: Tackle Stutter Problems Today"
+thumbnail: https://thmb.techidaily.com/e9c990e25117479e90a6a7012f47011623d3e85d5155cf7861b563822cc331cb.jpg
+---
+
+## Troubleshooting Tips for Smooth Play in Halo Infinite - No More Stutters
+
+Halo Infinite is available now and some gamers have noticed that the game has been stuttering, lagging, and having low frame rates. If you encounter this issue and want to get it fixed, you’ve come to the right place. This post has gathered fixes that would help.
+
+## Try these fixes
+
+1. [Check the minimum system requirement](https://tools.techidaily.com/drivereasy/download/)
+2. [Update your graphic driver](https://tools.techidaily.com/drivereasy/download/)
+3. [Change in-game settings](https://tools.techidaily.com/drivereasy/download/)
+4. [Turn off background apps](https://tools.techidaily.com/drivereasy/download/)
+5. [Change NVIDIA resolution](https://tools.techidaily.com/drivereasy/download/)
+
+## Fix 1: Check the minimum system requirement
+
+ Before trying any complicated fixes, make sure your PC meets the minimum system requirement of Halo Infinite. You’ll meet Halo Infinite stuttering issue or other problems if your hardware is not powerful enough to support the game.
+
+| **OS**        | Windows 10 RS5 x64                |
+| ------------- | --------------------------------- |
+| **Processor** | AMD Ryzen 5 1600 or Intel i5-4440 |
+| **Memory**    | 8 GB RAM                          |
+| **Graphics**  | AMD RX 570 or Nvidia GTX 1050 Ti  |
+| **DirectX**   | Version 12                        |
+| **Storage**   | 50 GB available space             |
+
+ Halo Infinite supports indicates some minimum hardware specification GPUs may crash when playing intro cinematic sequences in 4k resolution.
+
+You can fix it by uninstalling the multiplayer HD texture packs.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+## Fix 2: Update your graphic driver
+
+ Halo Infinite stuttering or lagging problem is usually related to the graphic driver. Make sure your GPU is fully up to date, the older GPU drivers can lead to poor performance and micro stutter.
+
+There are mainly two ways you can update the graphics driver:
+
+**Option 1 – Manually** – Graphics card manufacturers will roll out graphics drivers optimized for the latest titles on a regular basis. You can download the most recent correct driver from their websites ( **[AMD](https://www.amd.com/en/support)**  or **[NVIDIA](https://tools.techidaily.com/drivereasy/download/)**  ) and install it manually.
+
+**Option 2 – Automatically (Recommended)** – If you don’t have the time, patience or computer skills to update your video driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for your exact GPU, and your Windows version, and it will download and install them correctly:
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
+3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+ Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
+![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
+4. Relaunch Halo Infinite and check if it fixes the stuttering issue.
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
+
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ If updating the graphics driver doesn’t work, you can move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
+## Fix 3: Change in-game settings
+
+ Some gamers found when they turn on VSYN with setting frames rate to 144 or 90, the stuttering issue has gone. You can have a try. It’s a simple and common fix that has helped a lot of gamers. You can give it a try.
+
+1) Run Halo Infinite.
+
+2) Click**SETTINGS** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
+
+ 3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
+
+ 4) Set**MINIMUM FRAME RATE** &**MAXIMUM FRAM RATE** . Enable**VSYNC** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
+
+ 5) Set**TEXTURE FILTERING** to**Ultra** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-34.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
+7) Run the game to check.
+
+If it’s not working, move to the next fix.
+
+## Fix 4: Turn off background apps
+
+ The background apps could be the culprit for the Halo Infinite stuttering issue. Especially the background recording apps that can cause performance issues when enabled. You can turn off these apps to improve performance.
+
+ 1) Press the**Ctrl + Shift + Esc** together to open Task Manager.
+
+ 2) In the**Process** tab, click the app and click**End task** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
+
+## Fix 5: Change NVIDIA resolution
+
+ Open the NVIDIA control panel and change the resolution from 4k to 1440p. Click**Apply > Yes** to save the change.
+
+ Jump back to the game and check the game. If it’s smooth, no stuttering, you can open NVIDIA control panel and change resolution back to 4K. The game should stay well.
+
+---
+
+ That’s all about how to fix Halo Infinite stuttering issue. Hope this post helps. If you have any suggestions or working methods, you’re welcome to leave a comment below.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/1716070019951-new-in-2024-learn-to-record-mac-display-like-a-pro/"><u>[New] In 2024, Learn to Record MAC Display Like a Pro!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-master-screen-grabbing-tech-list-1-8/"><u>[New] In 2024, Master Screen Grabbing Tech List #1-8</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-learn-to-convert-youtube-videos-on-twitter-downloads-for-2024/"><u>[New] Learn to Convert YouTube Videos on Twitter Downloads for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-seamlessly-scaling-photos-and-videos-via-iphone-features/"><u>[New] Seamlessly Scaling Photos & Videos via iPhone Features</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-your-monetized-channel-blueprint-for-online-creators/"><u>[Updated] 2024 Approved  Your Monetized Channel Blueprint for Online Creators</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-enhancing-filmmaking-top-choices-in-camera-lenses-for-2024/"><u>[Updated] Enhancing Filmmaking  Top Choices in Camera Lenses for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-music-to-video-seamless-audio-import-for-inshot/"><u>2024 Approved  Music to Video  Seamless Audio Import for InShot</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/artful-adaptation-digital-tools-that-turn-pics-into-prose-online/"><u>Artful Adaptation  Digital Tools that Turn Pics Into Prose Online</u></a></li>
+<li><a href="https://program-issues.techidaily.com/deciphering-and-resolving-the-critical-ark-catastrophe-effectively/"><u>Deciphering and Resolving the Critical ARK Catastrophe Effectively</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevate-user-interface-with-aesthetic-windows-11-backdrops/"><u>Elevate User Interface with Aesthetic Windows 11 Backdrops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-lag-and-improve-response-time-in-chivalry-ii-pro-tips-to-optimize-your-gaming-experience/"><u>Eliminate Lag & Improve Response Time in Chivalry II - Pro Tips to Optimize Your Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/end-of-the-line-troubleshooting-for-pc-gamers-solve-crashing-final-stages/"><u>End of the Line Troubleshooting for PC Gamers: Solve Crashing Final Stages</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ending-the-wait-essential-solutions-to-the-elder-scrolls-online-blackwood-performance-lags/"><u>Ending the Wait: Essential Solutions to 'The Elder Scrolls Online' Blackwood Performance Lags</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-pc-gaming-performance-a-comprehensive-guide-to-fixing-frames-per-second-degradation/"><u>Enhancing PC Gaming Performance: A Comprehensive Guide to Fixing Frames Per Second Degradation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/epic-gamers-guide-to-optimizing-hogwarts-legacy-conquering-lag-issues/"><u>Epic Gamer's Guide to Optimizing Hogwarts Legacy - Conquering Lag Issues !</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-call-of-duty-world-war-ii-solving-the-puzzling-black-screen-problems-in-windows/"><u>Fixing Call of Duty: World War II - Solving the Puzzling Black Screen Problems in Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-no-available-camera-on-your-snapchat-app/"><u>Fixing the Issue: 'No Available Camera' On Your Snapchat App</u></a></li>
+<li><a href="https://program-issues.techidaily.com/getting-your-hands-on-doom-eternal-despite-potential-postponement-fixes/"><u>Getting Your Hands on DOOM Eternal Despite Potential Postponement Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-reinstate-your-devices-access-post-error-22/"><u>Guide to Reinstate Your Device's Access Post Error 22</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-infinix-smart-7-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Infinix Smart 7 Phones with/without a PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-speed-fb-video-techniques-for-smooth-playback-for-2024/"><u>High-Speed FB Video Techniques for Smooth Playback for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v12-document-with-digital-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.2 document with digital signature service</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-path-of-exile-from-frequent-freezing-and-crashing-instances/"><u>How to Stop Path of Exile From Frequent Freezing and Crashing Instances</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-dead-walkers-dominance-leading-zombie-video-game-ranks/"><u>In 2024, Dead Walkers Dominance  Leading Zombie Video Game Ranks</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/inside-the-world-of-overwatch-a-thrilling-multiplayer-combat-game/"><u>Inside the World of Overwatch: A Thrilling Multiplayer Combat Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007216871-madden-22-trouble-heres-how-to-get-it-up-and-running-swiftly/"><u>Madden 22 Trouble? Here's How to Get It Up and Running Swiftly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-roller-champions-multiplayer-mayhem-a-step-by-step-strategy-guide-for-pc-gamers/"><u>Mastering Roller Champions Multiplayer Mayhem: A Step-by-Step Strategy Guide for PC Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-art-of-kernelbasedll-stability-fast-fixes-and-prevention-methods/"><u>Mastering the Art of KernelBase.dll Stability: Fast Fixes and Prevention Methods</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-world-of-warcraft-performance-solving-the-ultimate-lag-dilemma-low-fps/"><u>Mastering World of Warcraft Performance: Solving the Ultimate Lag Dilemma (Low FPS)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013471215-overcoming-robloxs-stubborn-loading-phase-proven-fixes/"><u>Overcoming Roblox's Stubborn Loading Phase: Proven Fixes!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-troubleshooting-fixing-siftus-frame-rate-issues-and-gameplay-hiccups/"><u>PC Troubleshooting: Fixing SIFTU's Frame Rate Issues and Gameplay Hiccups</u></a></li>
+<li><a href="https://extra-information.techidaily.com/perfect-your-pictures-focus-and-soft-edges-quickly/"><u>Perfect Your Picture's Focus & Soft Edges Quickly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/persistent-issues-in-pathfinders-latest-title-wrath-of-the-righteous-keeps-crashing-down/"><u>Persistent Issues in Pathfinder's Latest Title - Wrath of the Righteous Keeps Crashing Down</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-for-common-wwe-2k20-pc-stability-problems-get-back-to-gaming/"><u>Quick Fixes for Common WWE 2K20 PC Stability Problems - Get Back to Gaming!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rainbow-six-siege-fixed-now-successfully-starting-up/"><u>Rainbow Six Siege Fixed! Now Successfully Starting Up</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-startup-problems-with-pathfinder-wrath-of-the-righteous-a-comprehensive-walkthrough/"><u>Resolving Startup Problems with Pathfinder: Wrath of the Righteous - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-infinix-smart-8-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Infinix Smart 8 Phones</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-persistent-apex-legends-connection-errors-easily/"><u>Troubleshooting Guide: Resolving Persistent Apex Legends Connection Errors Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-performance-hiccups-in-red-dead-redemption-2-gameplay/"><u>Troubleshooting Performance Hiccups in Red Dead Redemption 2 Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-fixing-checking-for-updates-error-in-microsoft-flight-simulator-2020/"><u>Troubleshooting Tips for Fixing 'Checking for Updates' Error in Microsoft Flight Simulator 2020</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722997978900-troubleshooting-your-apex-legends-connections-expert-fixes/"><u>Troubleshooting Your Apex Legends Connections - Expert Fixes!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-phasmophobia-game-crashes-in-224-update/"><u>Ultimate Guide: Solving Phasmophobia Game Crashes in 2^24 Update</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unboxing-pureaudiofinder-a-look-into-the-latest-release/"><u>Unboxing PureAudioFinder  A Look Into the Latest Release</u></a></li>
+<li><a href="https://win-able.techidaily.com/upgrade-your-borderlands-n-experience-get-rid-of-those-irritating-lags/"><u>Upgrade Your Borderlands N Experience: Get Rid of Those Irritating Lags!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/vanguard-software-demands-higher-cpu-specs-upgrade-necessary/"><u>Vanguard Software Demands Higher CPU Specs - Upgrade Necessary</u></a></li>
+</ul></div>

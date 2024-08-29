@@ -1,0 +1,236 @@
+---
+title: Resolving Instant Issues with The Sims 3 for PC – Quick Solutions Inside
+date: 2024-08-28T06:30:19.753Z
+updated: 2024-08-29T06:30:19.753Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Resolving Instant Issues with The Sims 3 for PC – Quick Solutions Inside
+excerpt: This Article Describes Resolving Instant Issues with The Sims 3 for PC – Quick Solutions Inside
+thumbnail: https://thmb.techidaily.com/4ddb75c55f41c22a4f3ada299a0f1a1093c8ca9e10e43f8a8e61a1ff732d1283.jpg
+---
+
+## Resolving Instant Issues with The Sims 3 for PC – Quick Solutions Inside
+
+Your**Sims 3 keeps crashing** whenever you’re launching the game or in the middle of gaming? Don’t panic! Many players around the world have encountered the similar problem as you do. And they have**resolved their Sims 3 crash issue** with the solutions in this article.
+
+**Why does my Sims 3 keep crashing?** There are many reasons that may cause your Sims keeps crashing. Does your hardware specifications meet the minimum requirements? If not, your game can crash without doubts. The improper game settings in your Sims 3 may also crash your game. In addition, your Sims 3 may keep crashing by the issues because of your graphics card issues.
+
+ But don’t worry. Whether you’re getting issues like your**Sims 3 keeps crashes on the loading screen** , or**Sims 3 crashes with the black screen** , you can try the solutions in this post to fix these issues. Check it out.
+
+## How to stop Sims 3 from crashing?
+
+1. [Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)
+2. [Try Repair Game](https://tools.techidaily.com/drivereasy/download/)
+3. [Update your graphics card driver](https://tools.techidaily.com/drivereasy/download/)
+4. [Set Sims 3 to the Windowed mode](https://tools.techidaily.com/drivereasy/download/)
+5. [Update DirectX in your computer](https://tools.techidaily.com/drivereasy/download/)
+
+**Note** : before getting started, ensure your computer meets the minimum system requirement to play the game.
+
+---
+
+### Fix 1: Install the latest game patch
+
+ The developers keeps releasing the game updates to fix some bugs and improve your gaming experience, so you should check the latest patch and**install the game patch** to keep your Sims 3 up to date.
+
+ After updating, restart your computer and open Sims 3 to see if it stops crashing.
+
+---
+
+### Fix 2: Try Repair Game
+
+ If you’re getting the crashing issue in your Sims 3 that is installed via Origin, you can try to repair the game issue with the built-in game repairing tool.
+
+ 1) Go to**My Games** in**Origin Client** .
+
+ 2) Go to**The Sims 3** , and right click it.
+
+ 2) Select**Repair Game** , and follow the on-screen instructions to finish.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a73c0d605.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
+ 3) Restart your router/modern, and restart your computer.
+
+ 4) Open your Sims 3 to see if it work properly.
+
+ If this solution doesn’t work for you, don’t worry. We have other fixes to try.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+### Fix 3: Update your graphics card driver
+
+ The missing or outdated graphics card driver can cause the Sims 3 crashing, so you should make sure your graphics card driver is up to date, and update it if it’s not.
+
+ There’re two ways to update your graphics card driver:
+
+**Manually update the driver** – You can manually find the latest version of your video card from the manufacturer, download the driver from the manufacturer, and install it in your computer. This requires time and computer skills.
+
+**Automatically update the driver** – If you don’t have time or patience, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the**FREE** or the**Pro** version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a**30-day money back guarantee** ):
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1665b20185d.jpg)
+
+ 3) Click the**Update** button next to a flagged graphics card to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
+
+ Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f84eae6ca1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+4) Restart your computer to take effect.
+
+ Still no luck? OK there’s one more thing to try.
+
+---
+
+### Fix 4: Set Sims 3 to the Windowed mode
+
+ This method works for many users who have had the crashing issue. So you can change your Sims 3 to the Windowed mode to fix it. To do so, follow the steps below:
+
+If you can access to the game settings:
+
+ 1) Launch the Sims 3, click the**…** button on the bottom left.
+
+ 2) Click the**Options** menu.
+
+ 3) In the**Graphics** tab, uncheck**Enable Fullscreen Mode (** or select**Windowed Mode** in**Display Type** ).
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28a8b273272.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
+4) Save the changes.
+
+5) Restart The Sims 3.
+
+ If you can’t launch the game settings in your computer, you can press the**Alt** and**Enter** key at the same time to switch to the**Windowed Mode** . or you can:
+
+ 1) Open The Sims 3 folder in your computer, then find the**Options.ini** file.
+
+ 2) Right click**Options.ini file** and select**Open with Notepad** .
+
+ 3) Locate the line**fullscreen=1** , and change the value to**fullscreen=0** .
+
+ 4) Save the changes. (If you’re prompted to overwrite the file, click**OK** to confirm.)
+
+ Kindly note that the graphics settings in the Sims 3 can also impact your experience, so once you’re in the Windowed mode, you can change the game’s resolutions from the Graphics tab. Try using the lower resolution to see if it fixes the crashing issue.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 5: Update DirectX in your computer
+
+ If you’re running the old DirectX feature in your computer, you should consider updating the DirectX in your computer to fix the Sims 3 keeps crashing issue.
+
+#### **How to check the DirectX version and Feature Level in my computer?**
+
+ if you don’t know how to check the DirectX version, you can try this:
+
+ 1) On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box.
+
+ 2) Type**dxdiag** and click**OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aa31a511b.jpg)
+
+ 3) You can see the**DirectX Version** under the**System** tab.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aa69e72dc.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
+#### **How to update DirectX?**
+
+ As for the DirectX version, generally speaking, for Windows 10, Windows 8 and Windows 8.1, you can directly update your Windows to the latest version to install the latest DirectX in your computer. However, for Windows 7, Windows Vista and Windows XP, you may need to install a update package to install the latest DirectX in your computer.
+
+ You can go to the **[Microsoft website](https://support.microsoft.com/en-us/help/179113/how-to-install-the-latest-version-of-directx)**  for more information about how to install the latest version of DirectX on different Windows versions.
+
+ After installing the latest Windows update or update package, restart your computer and try the game again to see if it works.
+
+---
+
+ That’s it. Hope this post helps in resolving your**Sims 3 keeps crashing** issue.
+
+* [crash](https://tools.techidaily.com/drivereasy/download/)
+* [games](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/fixed-how-to-fix-outlook-not-connecting/"><u>[FIXED] How to Fix Outlook Not Connecting?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-first-captured-visual-saga-critique-with-alternate-views/"><u>[New] First Captured Visual Saga Critique with Alternate Views</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-smarter-storage-simpler-style-top-40-mobile-video-reducers-on-android/"><u>[New] Smarter Storage, Simpler Style  Top 40 Mobile Video Reducers on Android</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-truth-behind-aurora-hdr-image-clarity/"><u>[New] The Truth Behind Aurora HDR Image Clarity</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-expert-mac-animation-saver/"><u>2024 Approved  Expert Mac Animation Saver</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-tutorial-for-wm6-setup/"><u>2024 Approved  Ultimate Tutorial for WM6 Setup</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-comprehensive-examination-of-simple-hdr-methods/"><u>A Comprehensive Examination of Simple HDR Methods</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ace-your-installation-correcting-setup-hiccups-in-origin-games/"><u>Ace Your Installation: Correcting Setup Hiccups in Origin Games</u></a></li>
+<li><a href="https://program-issues.techidaily.com/avoiding-disruptions-expert-advice-on-solving-pc-games-crash-issues-in-the-modern-era/"><u>Avoiding Disruptions: Expert Advice on Solving PC Games Crash Issues in the Modern Era</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beating-the-challenge-a-users-handbook-on-correcting-steamvr-error-308/"><u>Beating the Challenge: A User's Handbook on Correcting SteamVR Error 308</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-strategies-to-fix-the-persistent-roblox-error-code-277-on-your-pc/"><u>Comprehensive Strategies to Fix the Persistent Roblox Error Code 277 on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-on-fixing-and-stabilizing-ring-of-elysium-for-uninterrupted-gaming/"><u>Expert Advice on Fixing and Stabilizing Ring of Elysium for Uninterrupted Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-on-getting-your-deathloop-game-running-smoothly/"><u>Expert Advice on Getting Your Deathloop Game Running Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009219937-fixing-battlenet-startup-errors-a-step-by-step-guide-to-get-you-gaming-again/"><u>Fixing Battle.net Startup Errors: A Step-by-Step Guide to Get You Gaming Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-constant-crashes-in-age-of-empires-iv-on-your-computer/"><u>Fixing Constant Crashes in Age of Empires IV on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-shadow-play-record-failure-in-windows-complete-guide/"><u>Fixing Shadow Play Record Failure in Windows – Complete Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-overcome-a-black-screen-on-discord-during-screen-share/"><u>Fixing the Issue: How to Overcome a Black Screen on Discord During Screen Share</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/full-tutorial-on-exploiting-googles-ai-driven-speech-transcription-service/"><u>Full Tutorial on Exploiting Google's AI-Driven Speech Transcription Service</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-apple-iphone-14-pro-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and Apple iPhone 14 Pro The Right Way</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-enable-msi-afterburner-detection-for-your-gpu-on-windows-1011-problem-solved/"><u>How to Enable MSI Afterburner Detection for Your GPU on Windows 10/11: Problem Solved</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>How to Fix Pokemon Go Route Not Working On Apple iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-lag-and-frame-drops-in-your-forza-horizon-5-adventure/"><u>How to Overcome Lag & Frame Drops in Your Forza Horizon 지정 5 Adventure</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-enhancing-communication-strategies-for-effective-call-logging/"><u>In 2024, Enhancing Communication  Strategies for Effective Call Logging</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-installation-problems-for-football-manager-2023-on-pc-and-consoles/"><u>Overcoming Installation Problems for Football Manager 2023 on PC and Consoles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-error-0xc0000005-glitch-in-call-of-duty-black-ops-cold-war/"><u>Overcoming the 'Error 0xC0000005' Glitch in Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013713976-pc-users-struggle-with-launching-necromunda-hired-gun-game-troubleshooting-tips-inside/"><u>PC Users Struggle with Launching Necromunda: Hired Gun Game - Troubleshooting Tips Inside!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-msvcr110dll-missing-error-in-helldivers-2-a-step-by-step-guide/"><u>Resolving the 'MSVCR110.dll Missing' Error in Helldivers 2: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-game-delays-in-baldurs-gate-discover-our-proven-stuttering-solutions/"><u>Say Goodbye to Game Delays in Baldur's Gate - Discover Our Proven Stuttering Solutions!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-davinci-resolve-non-launch-errors-in-windows-environments/"><u>Solving DaVinci Resolve Non-Launch Errors in Windows Environments</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellars-secrets-unveiled-a-comprehensive-guide-to-resetting-your-iphone/"><u>Stellar's Secrets Unveiled - A Comprehensive Guide to Resetting Your iPhone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-up-your-skills-techniques-for-a-smoother-experience-with-higher-fps-in-ring-of-elysium/"><u>Step Up Your Skills: Techniques for a Smoother Experience with Higher FPS in Ring of Elysium</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-for-launching-the-witcher-n-wild-hunt-successfully/"><u>Step-by-Step Solution for Launching The Witcher N: Wild Hunt Successfully</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-game-crashes-on-windows-effective-fixes-and-solutions-for-gamers/"><u>Stop Game Crashes on Windows: Effective Fixes & Solutions for Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-battlenet-launcher-issues-on-windows-10-and-11/"><u>Troubleshooting Guide: Fixing Battle.net Launcher Issues on Windows 10 & 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-how-to-prevent-starcraft-2-from-crashing-on-desktop-pcs/"><u>Troubleshooting: How to Prevent Starcraft 2 From Crashing on Desktop PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-solving-titanfall-2s-recurring-game-crash-problem/"><u>Ultimate Guide to Solving Titanfall 2'S Recurring Game Crash Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlocking-the-secrets-to-a-flawless-overwatch-launch-eradicate-the-black-screen-dilemma/"><u>Unlocking the Secrets to a Flawless Overwatch Launch: Eradicate the Black Screen Dilemma</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-is-my-fortnite-game-crashing-on-pc-troubleshoot-your-way-to-smooth-gaming/"><u>Why Is My Fortnite Game Crashing on PC? Troubleshoot Your Way to Smooth Gaming !</u></a></li>
+</ul></div>
