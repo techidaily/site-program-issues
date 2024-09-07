@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"program-issues.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8770</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9767</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8770</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9767</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/fixing-discord-webcam-issues-tips-and-techniques-to-restore-your-camera/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/5cbb31b0aa89284f511ea895d4dc406591717af976dec90561d5751a6efa2298.jpg" alt="Fixing Discord Webcam Issues: Tips and Techniques to Restore Your Camera" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/step-by-step-solution-for-overcoming-nvidia-geforce-error-e0x0003/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/4fec1082aae14c609dc25605c639b1fbe3c36aac7cabbe84615d93d1098bb494.jpg" alt="Step-by-Step Solution for Overcoming NVIDIA Geforce Error: E_0X0003" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/fixing-discord-webcam-issues-tips-and-techniques-to-restore-your-camera/">
-                            Fixing Discord Webcam Issues: Tips and Techniques to Restore Your Camera
+                        <a href="/step-by-step-solution-for-overcoming-nvidia-geforce-error-e0x0003/">
+                            Step-by-Step Solution for Overcoming NVIDIA Geforce Error: E_0X0003
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Fixing Discord Webcam Issues: Tips and Techniques to Restore Your Camera</p>
+                            <p>This Article Describes Step-by-Step Solution for Overcoming NVIDIA Geforce Error: E_0X0003</p>
 
                         
                     </div>
@@ -715,9 +772,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 23 2024 17:40:45 GMT+0800">
+            <span class="home-article-date" data-date="Sun Sep 01 2024 10:16:56 GMT+0800">
                 
-                    2024-08-23
+                    2024-09-01
                 
             </span>
         </span>
@@ -763,7 +820,7 @@
         
     </div>
 
-    <a href="/fixing-discord-webcam-issues-tips-and-techniques-to-restore-your-camera/">Read more<span class="seo-reader-text">Fixing Discord Webcam Issues: Tips and Techniques to Restore Your Camera</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/step-by-step-solution-for-overcoming-nvidia-geforce-error-e0x0003/">Read more<span class="seo-reader-text">Step-by-Step Solution for Overcoming NVIDIA Geforce Error: E_0X0003</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -779,21 +836,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/quick-fix-how-to-resolve-issues-with-non-functioning-steamvr/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/f567dab373423469fdd9df8f70e7990588879bfed38e1184b365dd128527e555.jpg" alt="Quick Fix: How to Resolve Issues with Non-Functioning SteamVR" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/mastering-fixes-for-palworlds-persistent-search-errors/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/497e0cf4a494c643d111720df0c9d81e356ffb4889a6eb2b11c281fd2cb5d878.jpg" alt="Mastering Fixes for PalWorld&#39;s Persistent Search Errors" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/quick-fix-how-to-resolve-issues-with-non-functioning-steamvr/">
-                            Quick Fix: How to Resolve Issues with Non-Functioning SteamVR
+                        <a href="/mastering-fixes-for-palworlds-persistent-search-errors/">
+                            Mastering Fixes for PalWorld&#39;s Persistent Search Errors
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Quick Fix: How to Resolve Issues with Non-Functioning SteamVR</p>
+                            <p>This Article Describes Mastering Fixes for PalWorld’s Persistent Search Errors</p>
 
                         
                     </div>
@@ -801,9 +858,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 23 2024 17:40:43 GMT+0800">
+            <span class="home-article-date" data-date="Sun Sep 01 2024 10:16:54 GMT+0800">
                 
-                    2024-08-23
+                    2024-09-01
                 
             </span>
         </span>
@@ -849,7 +906,7 @@
         
     </div>
 
-    <a href="/quick-fix-how-to-resolve-issues-with-non-functioning-steamvr/">Read more<span class="seo-reader-text">Quick Fix: How to Resolve Issues with Non-Functioning SteamVR</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/mastering-fixes-for-palworlds-persistent-search-errors/">Read more<span class="seo-reader-text">Mastering Fixes for PalWorld&#39;s Persistent Search Errors</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -865,21 +922,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/overcome-issues-and-enjoy-star-wars-jedi-fallen-order-a-guide-to-stability-on-windowsmac-os-x/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/eaa498618a30b7449a5127779e22901025842c318bde80345b630595fb88d747.jpg" alt="Overcome Issues and Enjoy Star Wars Jedi: Fallen Order - A Guide to Stability on Windows/Mac OS X" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/chrome-stuck-top-strategies-to-get-your-windows-11-running-smoothly-again/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/91d802feac954d9a2b7218b9de82c000f339447018e6cb53073b6a41a90f92e5.jpg" alt="Chrome Stuck? Top Strategies to Get Your Windows 11 Running Smoothly Again" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/overcome-issues-and-enjoy-star-wars-jedi-fallen-order-a-guide-to-stability-on-windowsmac-os-x/">
-                            Overcome Issues and Enjoy Star Wars Jedi: Fallen Order - A Guide to Stability on Windows/Mac OS X
+                        <a href="/chrome-stuck-top-strategies-to-get-your-windows-11-running-smoothly-again/">
+                            Chrome Stuck? Top Strategies to Get Your Windows 11 Running Smoothly Again
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Overcome Issues and Enjoy Star Wars Jedi: Fallen Order - A Guide to Stability on Windows&#x2F;Mac OS X</p>
+                            <p>This Article Describes Chrome Stuck? Top Strategies to Get Your Windows 11 Running Smoothly Again</p>
 
                         
                     </div>
@@ -887,9 +944,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 23 2024 17:40:42 GMT+0800">
+            <span class="home-article-date" data-date="Sun Sep 01 2024 10:16:53 GMT+0800">
                 
-                    2024-08-23
+                    2024-09-01
                 
             </span>
         </span>
@@ -935,7 +992,7 @@
         
     </div>
 
-    <a href="/overcome-issues-and-enjoy-star-wars-jedi-fallen-order-a-guide-to-stability-on-windowsmac-os-x/">Read more<span class="seo-reader-text">Overcome Issues and Enjoy Star Wars Jedi: Fallen Order - A Guide to Stability on Windows/Mac OS X</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/chrome-stuck-top-strategies-to-get-your-windows-11-running-smoothly-again/">Read more<span class="seo-reader-text">Chrome Stuck? Top Strategies to Get Your Windows 11 Running Smoothly Again</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -951,21 +1008,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/expert-tips-correcting-visual-distortions-encountered-in-rust-development/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/2241cb63c07ba14971fe0574ec2b53b239df58241996fcf78b83d8a047d570ec.jpeg" alt="Expert Tips: Correcting Visual Distortions Encountered in Rust Development" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-performance-hitches-in-forza-horizon-5-solutions-included/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/614e0e5c423fbfce776b4242bea85cadda084bd0ef851e6cf9024dcc8525ee26.jpg" alt="Troubleshooting Performance Hitches in Forza Horizon 5 - Solutions Included" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/expert-tips-correcting-visual-distortions-encountered-in-rust-development/">
-                            Expert Tips: Correcting Visual Distortions Encountered in Rust Development
+                        <a href="/troubleshooting-performance-hitches-in-forza-horizon-5-solutions-included/">
+                            Troubleshooting Performance Hitches in Forza Horizon 5 - Solutions Included
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Expert Tips: Correcting Visual Distortions Encountered in Rust Development</p>
+                            <p>This Article Describes Troubleshooting Performance Hitches in Forza Horizon 5 - Solutions Included</p>
 
                         
                     </div>
@@ -973,9 +1030,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 23 2024 17:40:41 GMT+0800">
+            <span class="home-article-date" data-date="Sun Sep 01 2024 10:16:52 GMT+0800">
                 
-                    2024-08-23
+                    2024-09-01
                 
             </span>
         </span>
@@ -1021,7 +1078,7 @@
         
     </div>
 
-    <a href="/expert-tips-correcting-visual-distortions-encountered-in-rust-development/">Read more<span class="seo-reader-text">Expert Tips: Correcting Visual Distortions Encountered in Rust Development</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-performance-hitches-in-forza-horizon-5-solutions-included/">Read more<span class="seo-reader-text">Troubleshooting Performance Hitches in Forza Horizon 5 - Solutions Included</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1037,21 +1094,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/effective-solutions-to-address-total-war-warhammer-iis-frequent-crash-incidents/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/ef372663750da3323ed4b8491ee9b4b175fd85bfcc73dd50c99f11aa454f80c7.jpg" alt="Effective Solutions to Address Total War: WARHAMMER II&#39;s Frequent Crash Incidents" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/effective-solutions-for-preventing-pc-malfunctions-when-playing-battlefront-ii/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/904e4358c32651c8870cd752598cbad0b1afa3205d185e4b265bf0a0d105bd32.jpg" alt="Effective Solutions for Preventing PC Malfunctions When Playing &#39;Battlefront II&#39;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/effective-solutions-to-address-total-war-warhammer-iis-frequent-crash-incidents/">
-                            Effective Solutions to Address Total War: WARHAMMER II&#39;s Frequent Crash Incidents
+                        <a href="/effective-solutions-for-preventing-pc-malfunctions-when-playing-battlefront-ii/">
+                            Effective Solutions for Preventing PC Malfunctions When Playing &#39;Battlefront II&#39;
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Effective Solutions to Address Total War: WARHAMMER II’s Frequent Crash Incidents</p>
+                            <p>This Article Describes Effective Solutions for Preventing PC Malfunctions When Playing ‘Battlefront II’</p>
 
                         
                     </div>
@@ -1059,9 +1116,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 23 2024 17:40:40 GMT+0800">
+            <span class="home-article-date" data-date="Sun Sep 01 2024 10:16:51 GMT+0800">
                 
-                    2024-08-23
+                    2024-09-01
                 
             </span>
         </span>
@@ -1107,7 +1164,7 @@
         
     </div>
 
-    <a href="/effective-solutions-to-address-total-war-warhammer-iis-frequent-crash-incidents/">Read more<span class="seo-reader-text">Effective Solutions to Address Total War: WARHAMMER II&#39;s Frequent Crash Incidents</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/effective-solutions-for-preventing-pc-malfunctions-when-playing-battlefront-ii/">Read more<span class="seo-reader-text">Effective Solutions for Preventing PC Malfunctions When Playing &#39;Battlefront II&#39;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1123,21 +1180,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/left-fixed-4-dead-2-how-to-stop-the-game-from-crashing/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/24c0edcba484cab644836ae0bb31bb9d7220262ab1b4fd8d660fcbd9d1d07966.jpg" alt="Left [FIXED] 4 Dead 2 – How to Stop the Game From Crashing" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshoot-the-fifa-19-directx-issue-in-a-jiffy-expert-tips-inside/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/7a63e0844da70bd2c7ec7a4a482b4a25c9f48b524efb6bb31d25ddff4661a97e.jpg" alt="Troubleshoot the FIFA 19 DirectX Issue in a Jiffy - Expert Tips Inside!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/left-fixed-4-dead-2-how-to-stop-the-game-from-crashing/">
-                            Left [FIXED] 4 Dead 2 – How to Stop the Game From Crashing
+                        <a href="/troubleshoot-the-fifa-19-directx-issue-in-a-jiffy-expert-tips-inside/">
+                            Troubleshoot the FIFA 19 DirectX Issue in a Jiffy - Expert Tips Inside!
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Left [FIXED] 4 Dead 2 – How to Stop the Game From Crashing</p>
+                            <p>This Article Describes Troubleshoot the FIFA 19 DirectX Issue in a Jiffy - Expert Tips Inside!</p>
 
                         
                     </div>
@@ -1145,9 +1202,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 23 2024 17:40:39 GMT+0800">
+            <span class="home-article-date" data-date="Sun Sep 01 2024 10:16:49 GMT+0800">
                 
-                    2024-08-23
+                    2024-09-01
                 
             </span>
         </span>
@@ -1193,7 +1250,7 @@
         
     </div>
 
-    <a href="/left-fixed-4-dead-2-how-to-stop-the-game-from-crashing/">Read more<span class="seo-reader-text">Left [FIXED] 4 Dead 2 – How to Stop the Game From Crashing</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshoot-the-fifa-19-directx-issue-in-a-jiffy-expert-tips-inside/">Read more<span class="seo-reader-text">Troubleshoot the FIFA 19 DirectX Issue in a Jiffy - Expert Tips Inside!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1209,21 +1266,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/zoom-and-pc-users-rejoice-solving-the-infamous-black-screen-dilemma/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/4fe1c562a7e3ab45c8b1f68d5fb5d836545aa73283e591a5a7261febdc4cbc2c.jpg" alt="Zoom and PC Users Rejoice! Solving the Infamous Black Screen Dilemma" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/effective-solutions-for-overcoming-dead-by-daylights-error-8014-problem/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/f17f33138f47cc809c1c7740ec4a954bd7d355028092c16b39a2af30bc8bac07.jpg" alt="Effective Solutions for Overcoming Dead by Daylight&#39;s Error 8014 Problem" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/zoom-and-pc-users-rejoice-solving-the-infamous-black-screen-dilemma/">
-                            Zoom and PC Users Rejoice! Solving the Infamous Black Screen Dilemma
+                        <a href="/effective-solutions-for-overcoming-dead-by-daylights-error-8014-problem/">
+                            Effective Solutions for Overcoming Dead by Daylight&#39;s Error 8014 Problem
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Zoom and PC Users Rejoice! Solving the Infamous Black Screen Dilemma</p>
+                            <p>This Article Describes Effective Solutions for Overcoming Dead by Daylight’s Error 8014 Problem</p>
 
                         
                     </div>
@@ -1231,9 +1288,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 23 2024 17:40:37 GMT+0800">
+            <span class="home-article-date" data-date="Sun Sep 01 2024 10:16:48 GMT+0800">
                 
-                    2024-08-23
+                    2024-09-01
                 
             </span>
         </span>
@@ -1279,7 +1336,7 @@
         
     </div>
 
-    <a href="/zoom-and-pc-users-rejoice-solving-the-infamous-black-screen-dilemma/">Read more<span class="seo-reader-text">Zoom and PC Users Rejoice! Solving the Infamous Black Screen Dilemma</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/effective-solutions-for-overcoming-dead-by-daylights-error-8014-problem/">Read more<span class="seo-reader-text">Effective Solutions for Overcoming Dead by Daylight&#39;s Error 8014 Problem</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1295,21 +1352,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-to-fix-2024-minecraft-lagging-issues-on-your-computer-quick-solutions/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/75030bd59360efbfc2946329061573b90f37300b7251c4b711e0f5f10f28322c.jpg" alt="How To Fix 2024 Minecraft Lagging Issues On Your Computer | Quick Solutions" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/optimizing-game-performance-addressing-modern-warfare-stutters-and-freezes-on-desktop-systems/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/4661968631eef5e118e434f91c87fd30d0c4ad99eff2c33463bfeb19637f99d3.jpg" alt="Optimizing Game Performance: Addressing &#39;Modern Warfare&#39; Stutters and Freezes on Desktop Systems" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-to-fix-2024-minecraft-lagging-issues-on-your-computer-quick-solutions/">
-                            How To Fix 2024 Minecraft Lagging Issues On Your Computer | Quick Solutions
+                        <a href="/optimizing-game-performance-addressing-modern-warfare-stutters-and-freezes-on-desktop-systems/">
+                            Optimizing Game Performance: Addressing &#39;Modern Warfare&#39; Stutters and Freezes on Desktop Systems
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes How To Fix 2024 Minecraft Lagging Issues On Your Computer | Quick Solutions</p>
+                            <p>This Article Describes Optimizing Game Performance: Addressing ‘Modern Warfare’ Stutters and Freezes on Desktop Systems</p>
 
                         
                     </div>
@@ -1317,9 +1374,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 23 2024 17:40:36 GMT+0800">
+            <span class="home-article-date" data-date="Sun Sep 01 2024 10:16:47 GMT+0800">
                 
-                    2024-08-23
+                    2024-09-01
                 
             </span>
         </span>
@@ -1365,7 +1422,7 @@
         
     </div>
 
-    <a href="/how-to-fix-2024-minecraft-lagging-issues-on-your-computer-quick-solutions/">Read more<span class="seo-reader-text">How To Fix 2024 Minecraft Lagging Issues On Your Computer | Quick Solutions</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/optimizing-game-performance-addressing-modern-warfare-stutters-and-freezes-on-desktop-systems/">Read more<span class="seo-reader-text">Optimizing Game Performance: Addressing &#39;Modern Warfare&#39; Stutters and Freezes on Desktop Systems</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1381,21 +1438,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/effortless-solutions-for-fixing-world-of-warcraft-crashes-a-comprehensive-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/310ebf5ae5294b3c09bff886e3c558b63079bc0b815690abddeb6c6ade1d7933.JPG" alt="Effortless Solutions for Fixing World of Warcraft Crashes: A Comprehensive Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-prevent-and-repair-ntdlldll-system-crashes-on-win-11win-10/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/f9e691ab1179ca5da97e6ab8b312a61013e41cba8e3a02b301a39e9364b303a9.jpg" alt="How to Prevent and Repair ntdll.dll System Crashes on Win 11/Win 10" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/effortless-solutions-for-fixing-world-of-warcraft-crashes-a-comprehensive-guide/">
-                            Effortless Solutions for Fixing World of Warcraft Crashes: A Comprehensive Guide
+                        <a href="/how-to-prevent-and-repair-ntdlldll-system-crashes-on-win-11win-10/">
+                            How to Prevent and Repair ntdll.dll System Crashes on Win 11/Win 10
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Effortless Solutions for Fixing World of Warcraft Crashes: A Comprehensive Guide</p>
+                            <p>This Article Describes How to Prevent and Repair ntdll.dll System Crashes on Win 11&#x2F;Win 10</p>
 
                         
                     </div>
@@ -1403,9 +1460,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 23 2024 17:40:35 GMT+0800">
+            <span class="home-article-date" data-date="Sun Sep 01 2024 10:16:46 GMT+0800">
                 
-                    2024-08-23
+                    2024-09-01
                 
             </span>
         </span>
@@ -1451,7 +1508,7 @@
         
     </div>
 
-    <a href="/effortless-solutions-for-fixing-world-of-warcraft-crashes-a-comprehensive-guide/">Read more<span class="seo-reader-text">Effortless Solutions for Fixing World of Warcraft Crashes: A Comprehensive Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-prevent-and-repair-ntdlldll-system-crashes-on-win-11win-10/">Read more<span class="seo-reader-text">How to Prevent and Repair ntdll.dll System Crashes on Win 11/Win 10</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1467,21 +1524,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/fixes-for-everest-space-ii-fails-to-load-on-windows-devices/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/7572b835422df4a46e1dde0ebf1594c94500d035cdbdf693fb3fdb8a7d6301cc.jpg" alt="Fixes For Everest Space II Fails To Load On Windows Devices" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/7-effective-solutions-to-prevent-diablo-iv-from-crashing-on-pc-ps5-and-xbox/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/04cd06d52399075f11c15c05a13e29b26c1429efba226e9e1f8c0fb8fb4b1fd0.jpg" alt="7 Effective Solutions to Prevent Diablo IV From Crashing on PC, PS5 &amp; Xbox" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/fixes-for-everest-space-ii-fails-to-load-on-windows-devices/">
-                            Fixes For Everest Space II Fails To Load On Windows Devices
+                        <a href="/7-effective-solutions-to-prevent-diablo-iv-from-crashing-on-pc-ps5-and-xbox/">
+                            7 Effective Solutions to Prevent Diablo IV From Crashing on PC, PS5 &amp; Xbox
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Fixes For Everest Space II Fails To Load On Windows Devices</p>
+                            <p>This Article Describes 7 Effective Solutions to Prevent Diablo IV From Crashing on PC, PS5 &amp; Xbox</p>
 
                         
                     </div>
@@ -1489,9 +1546,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Fri Aug 23 2024 17:40:34 GMT+0800">
+            <span class="home-article-date" data-date="Sun Sep 01 2024 10:16:44 GMT+0800">
                 
-                    2024-08-23
+                    2024-09-01
                 
             </span>
         </span>
@@ -1537,7 +1594,7 @@
         
     </div>
 
-    <a href="/fixes-for-everest-space-ii-fails-to-load-on-windows-devices/">Read more<span class="seo-reader-text">Fixes For Everest Space II Fails To Load On Windows Devices</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/7-effective-solutions-to-prevent-diablo-iv-from-crashing-on-pc-ps5-and-xbox/">Read more<span class="seo-reader-text">7 Effective Solutions to Prevent Diablo IV From Crashing on PC, PS5 &amp; Xbox</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1547,7 +1604,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/212/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/211/">211</a><a class="page-number" href="/page/212/">212</a><span class="page-number current">213</span><a class="page-number" href="/page/214/">214</a><a class="page-number" href="/page/215/">215</a><span class="space">&hellip;</span><a class="page-number" href="/page/877/">877</a><a class="extend next" rel="next" href="/page/214/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/212/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/211/">211</a><a class="page-number" href="/page/212/">212</a><span class="page-number current">213</span><a class="page-number" href="/page/214/">214</a><a class="page-number" href="/page/215/">215</a><span class="space">&hellip;</span><a class="page-number" href="/page/977/">977</a><a class="extend next" rel="next" href="/page/214/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

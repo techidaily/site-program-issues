@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"program-issues.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8770</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9767</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8770</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9767</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/pc-troubleshooting-guide-for-stable-battelfront-ii-gaming/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef3415c454c76fbd282fafbfc.jpg" alt="PC Troubleshooting Guide for Stable Battelfront II Gaming" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1723002243055-fix-your-cod-vanguard-pc-problems-solutions-for-the-2n-d4-release/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/1b03a5e6036c7cb6718c6a6143a34b2abcea9ecc6759bad1a07ac3acb8c3b3dd.jpg" alt="Fix Your CoD Vanguard PC Problems – Solutions for the 2N-D4 Release" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/pc-troubleshooting-guide-for-stable-battelfront-ii-gaming/">
-                            PC Troubleshooting Guide for Stable Battelfront II Gaming
+                        <a href="/1723002243055-fix-your-cod-vanguard-pc-problems-solutions-for-the-2n-d4-release/">
+                            Fix Your CoD Vanguard PC Problems – Solutions for the 2N-D4 Release
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes PC Troubleshooting Guide for Stable Battelfront II Gaming</p>
+                            <p>This Article Describes Fix Your CoD Vanguard PC Problems – Solutions for the 2N-D4 Release</p>
 
                         
                     </div>
@@ -715,9 +772,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Sep 01 2024 10:24:14 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 23:40:05 GMT+0800">
                 
-                    2024-09-01
+                    2024-09-05
                 
             </span>
         </span>
@@ -763,7 +820,7 @@
         
     </div>
 
-    <a href="/pc-troubleshooting-guide-for-stable-battelfront-ii-gaming/">Read more<span class="seo-reader-text">PC Troubleshooting Guide for Stable Battelfront II Gaming</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1723002243055-fix-your-cod-vanguard-pc-problems-solutions-for-the-2n-d4-release/">Read more<span class="seo-reader-text">Fix Your CoD Vanguard PC Problems – Solutions for the 2N-D4 Release</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -779,21 +836,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/overcoming-the-hurdle-when-red-dead-redemption-2-stops-starting/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/5ee746dbc8ada474503544ca04e806e436db5d4104755754e528cce96e41f403.jpg" alt="Overcoming the Hurdle: When Red Dead Redemption 2 Stops Starting" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/getting-helldivers-2-up-and-running-on-steam-a-step-by-step-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/25bf753c78130a921149c781a28200c1963f284bc6d075e275272bdd4200ee96.jpg" alt="Getting Helldivers 2 Up &amp; Running on Steam - A Step-by-Step Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/overcoming-the-hurdle-when-red-dead-redemption-2-stops-starting/">
-                            Overcoming the Hurdle: When Red Dead Redemption 2 Stops Starting
+                        <a href="/getting-helldivers-2-up-and-running-on-steam-a-step-by-step-guide/">
+                            Getting Helldivers 2 Up &amp; Running on Steam - A Step-by-Step Guide
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Overcoming the Hurdle: When Red Dead Redemption 2 Stops Starting</p>
+                            <p>This Article Describes Getting Helldivers 2 Up &amp; Running on Steam - A Step-by-Step Guide</p>
 
                         
                     </div>
@@ -801,9 +858,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Sep 01 2024 10:24:13 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 23:40:03 GMT+0800">
                 
-                    2024-09-01
+                    2024-09-05
                 
             </span>
         </span>
@@ -849,7 +906,7 @@
         
     </div>
 
-    <a href="/overcoming-the-hurdle-when-red-dead-redemption-2-stops-starting/">Read more<span class="seo-reader-text">Overcoming the Hurdle: When Red Dead Redemption 2 Stops Starting</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/getting-helldivers-2-up-and-running-on-steam-a-step-by-step-guide/">Read more<span class="seo-reader-text">Getting Helldivers 2 Up &amp; Running on Steam - A Step-by-Step Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -865,21 +922,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/overcoming-the-not-found-dilemma-msvcr110dll-in-helldivers-2/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/fba56e471126861872d44702a4719c3712dd082c4310b4a45ca55ed512e735ed.jpg" alt="Overcoming the &#39;Not Found&#39; Dilemma: MSVCR110.dll in HellDivers 2" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/exclusive-insight-on-the-postponed-launch-of-mafia-definitive-edition/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601ed8967bdbaf6f2fda50fa89.jpg" alt="Exclusive Insight on the Postponed Launch of Mafia: Definitive Edition" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/overcoming-the-not-found-dilemma-msvcr110dll-in-helldivers-2/">
-                            Overcoming the &#39;Not Found&#39; Dilemma: MSVCR110.dll in HellDivers 2
+                        <a href="/exclusive-insight-on-the-postponed-launch-of-mafia-definitive-edition/">
+                            Exclusive Insight on the Postponed Launch of Mafia: Definitive Edition
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Overcoming the ‘Not Found’ Dilemma: MSVCR110.dll in HellDivers 2</p>
+                            <p>This Article Describes Exclusive Insight on the Postponed Launch of Mafia: Definitive Edition</p>
 
                         
                     </div>
@@ -887,9 +944,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Sep 01 2024 10:24:12 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 23:40:02 GMT+0800">
                 
-                    2024-09-01
+                    2024-09-05
                 
             </span>
         </span>
@@ -935,7 +992,7 @@
         
     </div>
 
-    <a href="/overcoming-the-not-found-dilemma-msvcr110dll-in-helldivers-2/">Read more<span class="seo-reader-text">Overcoming the &#39;Not Found&#39; Dilemma: MSVCR110.dll in HellDivers 2</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/exclusive-insight-on-the-postponed-launch-of-mafia-definitive-edition/">Read more<span class="seo-reader-text">Exclusive Insight on the Postponed Launch of Mafia: Definitive Edition</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -951,21 +1008,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/resolved-dealing-with-persistent-death-stranding-pc-instability-problems/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/3f83cf37f566bce38971b018170626d6e67c9f875eec12a8f86b696a3d6ea101.jpg" alt="Resolved: Dealing with Persistent Death Stranding PC Instability Problems" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1723002592694-pc-gaming-made-simple-resolve-disco-elysium-game-crash-issues-today/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/061c3cb51f73174994130ac8ba7737b4e102bdd69124ffc25dc40b79dd6e4589.jpg" alt="PC Gaming Made Simple: Resolve &#39;Disco Elysium&#39; Game Crash Issues Today!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/resolved-dealing-with-persistent-death-stranding-pc-instability-problems/">
-                            Resolved: Dealing with Persistent Death Stranding PC Instability Problems
+                        <a href="/1723002592694-pc-gaming-made-simple-resolve-disco-elysium-game-crash-issues-today/">
+                            PC Gaming Made Simple: Resolve &#39;Disco Elysium&#39; Game Crash Issues Today!
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Resolved: Dealing with Persistent Death Stranding PC Instability Problems</p>
+                            <p>This Article Describes PC Gaming Made Simple: Resolve ‘Disco Elysium’ Game Crash Issues Today!</p>
 
                         
                     </div>
@@ -973,9 +1030,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Sep 01 2024 10:24:10 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 23:40:01 GMT+0800">
                 
-                    2024-09-01
+                    2024-09-05
                 
             </span>
         </span>
@@ -1021,7 +1078,7 @@
         
     </div>
 
-    <a href="/resolved-dealing-with-persistent-death-stranding-pc-instability-problems/">Read more<span class="seo-reader-text">Resolved: Dealing with Persistent Death Stranding PC Instability Problems</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1723002592694-pc-gaming-made-simple-resolve-disco-elysium-game-crash-issues-today/">Read more<span class="seo-reader-text">PC Gaming Made Simple: Resolve &#39;Disco Elysium&#39; Game Crash Issues Today!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1037,21 +1094,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/easy-fixes-for-common-maplestory-launching-troubles-expert-advice-and-tips/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/8b36213cf3c4388b8515bed526f0d42f540b1ba9bd34731fb80416cf28c2a508.jpg" alt="Easy Fixes for Common MapleStory Launching Troubles: Expert Advice and Tips" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-tips-fixing-pc-compatibility-for-an-optimal-disco-elysium-experience/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/5afe86849bf590d409853d04b8a99e11d10b3e991d982afab53fab4cf94688c5.jpg" alt="Troubleshooting Tips: Fixing PC Compatibility for an Optimal &#39;Disco Elysium&#39; Experience" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/easy-fixes-for-common-maplestory-launching-troubles-expert-advice-and-tips/">
-                            Easy Fixes for Common MapleStory Launching Troubles: Expert Advice and Tips
+                        <a href="/troubleshooting-tips-fixing-pc-compatibility-for-an-optimal-disco-elysium-experience/">
+                            Troubleshooting Tips: Fixing PC Compatibility for an Optimal &#39;Disco Elysium&#39; Experience
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Easy Fixes for Common MapleStory Launching Troubles: Expert Advice and Tips</p>
+                            <p>This Article Describes Troubleshooting Tips: Fixing PC Compatibility for an Optimal ‘Disco Elysium’ Experience</p>
 
                         
                     </div>
@@ -1059,9 +1116,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Sep 01 2024 10:24:09 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 23:39:59 GMT+0800">
                 
-                    2024-09-01
+                    2024-09-05
                 
             </span>
         </span>
@@ -1107,7 +1164,7 @@
         
     </div>
 
-    <a href="/easy-fixes-for-common-maplestory-launching-troubles-expert-advice-and-tips/">Read more<span class="seo-reader-text">Easy Fixes for Common MapleStory Launching Troubles: Expert Advice and Tips</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-tips-fixing-pc-compatibility-for-an-optimal-disco-elysium-experience/">Read more<span class="seo-reader-text">Troubleshooting Tips: Fixing PC Compatibility for an Optimal &#39;Disco Elysium&#39; Experience</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1123,21 +1180,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/fix-your-terraria-woes-a-six-step-guide-to-reestablishing-connection/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/a11de87af1b4d2d34686675787cceb79fcb33f46366094f6c66ff2c1fbfb8475.jpg" alt="Fix Your Terraria Woes: A Six-Step Guide to Reestablishing Connection" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/solution-stabilize-your-nox-player-experience-avoid-pc-disruptions/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c63be7c3be4720f86eba5080f.jpg" alt="Solution: Stabilize Your Nox Player Experience - Avoid PC Disruptions" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/fix-your-terraria-woes-a-six-step-guide-to-reestablishing-connection/">
-                            Fix Your Terraria Woes: A Six-Step Guide to Reestablishing Connection
+                        <a href="/solution-stabilize-your-nox-player-experience-avoid-pc-disruptions/">
+                            Solution: Stabilize Your Nox Player Experience - Avoid PC Disruptions
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Fix Your Terraria Woes: A Six-Step Guide to Reestablishing Connection</p>
+                            <p>This Article Describes Solution: Stabilize Your Nox Player Experience - Avoid PC Disruptions</p>
 
                         
                     </div>
@@ -1145,9 +1202,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Sep 01 2024 10:24:08 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 23:39:58 GMT+0800">
                 
-                    2024-09-01
+                    2024-09-05
                 
             </span>
         </span>
@@ -1193,7 +1250,7 @@
         
     </div>
 
-    <a href="/fix-your-terraria-woes-a-six-step-guide-to-reestablishing-connection/">Read more<span class="seo-reader-text">Fix Your Terraria Woes: A Six-Step Guide to Reestablishing Connection</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/solution-stabilize-your-nox-player-experience-avoid-pc-disruptions/">Read more<span class="seo-reader-text">Solution: Stabilize Your Nox Player Experience - Avoid PC Disruptions</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1209,21 +1266,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/solution-shared-running-ready-or-not-smoothly-on-pcs-no-more-glitches/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/29c87a2813101a91590a08620c363a707a12be2c13cdc82a6c440d60f80e5fd3.jpg" alt="Solution Shared: Running &#39;Ready or Not&#39; Smoothly on PCs No More Glitches!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/resolving-steam-platform-issues-persistent-freezes-and-lags/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/0275b65ec50c26c096fbd58891ad5416742f7595ba3ecd2f30cf7442df5bd214.png" alt="Resolving Steam Platform Issues: Persistent Freezes &amp; Lags" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/solution-shared-running-ready-or-not-smoothly-on-pcs-no-more-glitches/">
-                            Solution Shared: Running &#39;Ready or Not&#39; Smoothly on PCs No More Glitches!
+                        <a href="/resolving-steam-platform-issues-persistent-freezes-and-lags/">
+                            Resolving Steam Platform Issues: Persistent Freezes &amp; Lags
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Solution Shared: Running ‘Ready or Not’ Smoothly on PCs No More Glitches!</p>
+                            <p>This Article Describes Resolving Steam Platform Issues: Persistent Freezes &amp; Lags</p>
 
                         
                     </div>
@@ -1231,9 +1288,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Sep 01 2024 10:24:07 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 23:39:56 GMT+0800">
                 
-                    2024-09-01
+                    2024-09-05
                 
             </span>
         </span>
@@ -1279,7 +1336,7 @@
         
     </div>
 
-    <a href="/solution-shared-running-ready-or-not-smoothly-on-pcs-no-more-glitches/">Read more<span class="seo-reader-text">Solution Shared: Running &#39;Ready or Not&#39; Smoothly on PCs No More Glitches!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/resolving-steam-platform-issues-persistent-freezes-and-lags/">Read more<span class="seo-reader-text">Resolving Steam Platform Issues: Persistent Freezes &amp; Lags</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1295,21 +1352,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/bypassing-startup-problems-with-persona-5-strikers-a-comprehensive-fix-it-up/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/a01205544ff8168a67a8bfa126c67a299939543e9188165b03ba61640e3fc085.jpg" alt="Bypassing Startup Problems with Persona 5 Strikers - A Comprehensive Fix It Up!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/fix-your-palworld-eos-login-troubles-6-effective-strategies-that-work/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/ed7df24877c809d3df195ee4e441348959e5b212ad2e7ace317f9e06a46361d5.jpg" alt="Fix Your PalWorld EOS Login Troubles: 6 Effective Strategies That Work" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/bypassing-startup-problems-with-persona-5-strikers-a-comprehensive-fix-it-up/">
-                            Bypassing Startup Problems with Persona 5 Strikers - A Comprehensive Fix It Up!
+                        <a href="/fix-your-palworld-eos-login-troubles-6-effective-strategies-that-work/">
+                            Fix Your PalWorld EOS Login Troubles: 6 Effective Strategies That Work
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Bypassing Startup Problems with Persona 5 Strikers - A Comprehensive Fix It Up!</p>
+                            <p>This Article Describes Fix Your PalWorld EOS Login Troubles: 6 Effective Strategies That Work</p>
 
                         
                     </div>
@@ -1317,9 +1374,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Sep 01 2024 10:24:05 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 23:39:55 GMT+0800">
                 
-                    2024-09-01
+                    2024-09-05
                 
             </span>
         </span>
@@ -1365,7 +1422,7 @@
         
     </div>
 
-    <a href="/bypassing-startup-problems-with-persona-5-strikers-a-comprehensive-fix-it-up/">Read more<span class="seo-reader-text">Bypassing Startup Problems with Persona 5 Strikers - A Comprehensive Fix It Up!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/fix-your-palworld-eos-login-troubles-6-effective-strategies-that-work/">Read more<span class="seo-reader-text">Fix Your PalWorld EOS Login Troubles: 6 Effective Strategies That Work</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1381,21 +1438,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-steps-for-non-responsive-farming-simulator-22-game/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/b47fd0e753c3df7e85d7c99e9dd6f25592469353c9ed51bdab027cc3c0e36d8f.jpg" alt="Troubleshooting Steps for Non-Responsive Farming Simulator 22 Game" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/optimize-battlefield-2042-performance-get-rid-of-fps-dip-and-stuttering-on-pc-systems/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/063adb3e91f9e707cd239c6a9a79b813aee233d9ca23dd7f8b09ffae8f586c57.jpg" alt="Optimize Battlefield 2042 Performance: Get Rid of FPS Dip and Stuttering on PC Systems" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-steps-for-non-responsive-farming-simulator-22-game/">
-                            Troubleshooting Steps for Non-Responsive Farming Simulator 22 Game
+                        <a href="/optimize-battlefield-2042-performance-get-rid-of-fps-dip-and-stuttering-on-pc-systems/">
+                            Optimize Battlefield 2042 Performance: Get Rid of FPS Dip and Stuttering on PC Systems
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting Steps for Non-Responsive Farming Simulator 22 Game</p>
+                            <p>This Article Describes Optimize Battlefield 2042 Performance: Get Rid of FPS Dip and Stuttering on PC Systems</p>
 
                         
                     </div>
@@ -1403,9 +1460,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Sep 01 2024 10:24:04 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 23:39:53 GMT+0800">
                 
-                    2024-09-01
+                    2024-09-05
                 
             </span>
         </span>
@@ -1451,7 +1508,7 @@
         
     </div>
 
-    <a href="/troubleshooting-steps-for-non-responsive-farming-simulator-22-game/">Read more<span class="seo-reader-text">Troubleshooting Steps for Non-Responsive Farming Simulator 22 Game</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/optimize-battlefield-2042-performance-get-rid-of-fps-dip-and-stuttering-on-pc-systems/">Read more<span class="seo-reader-text">Optimize Battlefield 2042 Performance: Get Rid of FPS Dip and Stuttering on PC Systems</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1467,21 +1524,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/fix-your-gaming-experience-resolving-repeated-wwe-2k22-crashes-on-desktop/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2f2b7f6dd74a2f0921700773.jpg" alt="Fix Your Gaming Experience: Resolving Repeated WWE ^2K22 Crashes on Desktop" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1723013972679-master-the-stable-run-of-biomutant-on-your-pc-with-expert-tips-no-more-crashes/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/a59cf765d06f5418cdef7d00a3b67e1ee9116697553e1d530781cf64808b0b00.png" alt="Master the Stable Run of Biomutant on Your PC with Expert Tips - No More Crashes" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/fix-your-gaming-experience-resolving-repeated-wwe-2k22-crashes-on-desktop/">
-                            Fix Your Gaming Experience: Resolving Repeated WWE ^2K22 Crashes on Desktop
+                        <a href="/1723013972679-master-the-stable-run-of-biomutant-on-your-pc-with-expert-tips-no-more-crashes/">
+                            Master the Stable Run of Biomutant on Your PC with Expert Tips - No More Crashes
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Fix Your Gaming Experience: Resolving Repeated WWE ^2K22 Crashes on Desktop</p>
+                            <p>This Article Describes Master the Stable Run of Biomutant on Your PC with Expert Tips - No More Crashes</p>
 
                         
                     </div>
@@ -1489,9 +1546,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Sep 01 2024 10:24:03 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 23:39:52 GMT+0800">
                 
-                    2024-09-01
+                    2024-09-05
                 
             </span>
         </span>
@@ -1537,7 +1594,7 @@
         
     </div>
 
-    <a href="/fix-your-gaming-experience-resolving-repeated-wwe-2k22-crashes-on-desktop/">Read more<span class="seo-reader-text">Fix Your Gaming Experience: Resolving Repeated WWE ^2K22 Crashes on Desktop</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1723013972679-master-the-stable-run-of-biomutant-on-your-pc-with-expert-tips-no-more-crashes/">Read more<span class="seo-reader-text">Master the Stable Run of Biomutant on Your PC with Expert Tips - No More Crashes</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1547,7 +1604,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/57/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/56/">56</a><a class="page-number" href="/page/57/">57</a><span class="page-number current">58</span><a class="page-number" href="/page/59/">59</a><a class="page-number" href="/page/60/">60</a><span class="space">&hellip;</span><a class="page-number" href="/page/877/">877</a><a class="extend next" rel="next" href="/page/59/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/57/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/56/">56</a><a class="page-number" href="/page/57/">57</a><span class="page-number current">58</span><a class="page-number" href="/page/59/">59</a><a class="page-number" href="/page/60/">60</a><span class="space">&hellip;</span><a class="page-number" href="/page/977/">977</a><a class="extend next" rel="next" href="/page/59/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"program-issues.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8770</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9767</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8770</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9767</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-to-fix-stuttering-and-boost-fps-in-warzone/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/e108c80fe0ffda075f564c0d5802af9b2462fc3f4f8d59d2b3eaca6f2a980fa0.jpg" alt="How to Fix Stuttering and Boost FPS in Warzone" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/step-by-step-fixes-for-updating-minecrafts-core-game-client/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/d1308294694574ea6db8acba4a99168df2eb7c1da8079de3619058fd0f089920.jpg" alt="Step-by-Step Fixes for Updating Minecraft&#39;s Core Game Client" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-to-fix-stuttering-and-boost-fps-in-warzone/">
-                            How to Fix Stuttering and Boost FPS in Warzone
+                        <a href="/step-by-step-fixes-for-updating-minecrafts-core-game-client/">
+                            Step-by-Step Fixes for Updating Minecraft&#39;s Core Game Client
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes How to Fix Stuttering and Boost FPS in Warzone</p>
+                            <p>This Article Describes Step-by-Step Fixes for Updating Minecraft’s Core Game Client</p>
 
                         
                     </div>
@@ -715,9 +772,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 13 2024 13:19:19 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 16:51:29 GMT+0800">
                 
-                    2024-08-13
+                    2024-08-19
                 
             </span>
         </span>
@@ -763,7 +820,7 @@
         
     </div>
 
-    <a href="/how-to-fix-stuttering-and-boost-fps-in-warzone/">Read more<span class="seo-reader-text">How to Fix Stuttering and Boost FPS in Warzone</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/step-by-step-fixes-for-updating-minecrafts-core-game-client/">Read more<span class="seo-reader-text">Step-by-Step Fixes for Updating Minecraft&#39;s Core Game Client</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -779,21 +836,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/fixing-the-sea-of-thieves-game-crash-problems-easily/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/329d369e5db1c978f66185fe9a5482898ede3269e6a52b60eb890177d543e794.png" alt="Fixing the Sea of Thieves Game Crash Problems Easily" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/master-the-fix-eliminating-starcraft-2s-sudden-shutdown-problem-on-desktops/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/8acaf4a476033f54e704f652076d0feb19e147f8c9f9e89ae440088035de6366.jpg" alt="Master the Fix: Eliminating StarCraft 2&#39;S Sudden Shutdown Problem on Desktops" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/fixing-the-sea-of-thieves-game-crash-problems-easily/">
-                            Fixing the Sea of Thieves Game Crash Problems Easily
+                        <a href="/master-the-fix-eliminating-starcraft-2s-sudden-shutdown-problem-on-desktops/">
+                            Master the Fix: Eliminating StarCraft 2&#39;S Sudden Shutdown Problem on Desktops
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Fixing the Sea of Thieves Game Crash Problems Easily</p>
+                            <p>This Article Describes Master the Fix: Eliminating StarCraft 2’S Sudden Shutdown Problem on Desktops</p>
 
                         
                     </div>
@@ -801,9 +858,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 13 2024 13:19:18 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 16:51:27 GMT+0800">
                 
-                    2024-08-13
+                    2024-08-19
                 
             </span>
         </span>
@@ -849,7 +906,7 @@
         
     </div>
 
-    <a href="/fixing-the-sea-of-thieves-game-crash-problems-easily/">Read more<span class="seo-reader-text">Fixing the Sea of Thieves Game Crash Problems Easily</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/master-the-fix-eliminating-starcraft-2s-sudden-shutdown-problem-on-desktops/">Read more<span class="seo-reader-text">Master the Fix: Eliminating StarCraft 2&#39;S Sudden Shutdown Problem on Desktops</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -865,21 +922,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/1723011996231-fixing-cod-wwii-error-4128-issue-here-are-the-steps-you-need-to-know/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/718d1853d85918e9d3b7531d3e7e5d446b8b2d7ecc9512a603cf6d88a4e79188.jpg" alt="Fixing CoD WWII &#39;Error 4128&#39; Issue? Here Are the Steps You Need to Know" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/resolving-assassins-creed-rogue-freezing-issues-expert-fixing-tips-and-techniques/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/0ce905cbb913b2eefe4db5c72014c9485f061b0fd3b1b129c677df4a5fe1e713.jpg" alt="Resolving Assassin&#39;s Creed Rogue Freezing Issues - Expert Fixing Tips &amp; Techniques" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/1723011996231-fixing-cod-wwii-error-4128-issue-here-are-the-steps-you-need-to-know/">
-                            Fixing CoD WWII &#39;Error 4128&#39; Issue? Here Are the Steps You Need to Know
+                        <a href="/resolving-assassins-creed-rogue-freezing-issues-expert-fixing-tips-and-techniques/">
+                            Resolving Assassin&#39;s Creed Rogue Freezing Issues - Expert Fixing Tips &amp; Techniques
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Fixing CoD WWII ‘Error 4128’ Issue? Here Are the Steps You Need to Know</p>
+                            <p>This Article Describes Resolving Assassin’s Creed Rogue Freezing Issues - Expert Fixing Tips &amp; Techniques</p>
 
                         
                     </div>
@@ -887,9 +944,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 13 2024 13:19:17 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 16:51:26 GMT+0800">
                 
-                    2024-08-13
+                    2024-08-19
                 
             </span>
         </span>
@@ -935,7 +992,7 @@
         
     </div>
 
-    <a href="/1723011996231-fixing-cod-wwii-error-4128-issue-here-are-the-steps-you-need-to-know/">Read more<span class="seo-reader-text">Fixing CoD WWII &#39;Error 4128&#39; Issue? Here Are the Steps You Need to Know</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/resolving-assassins-creed-rogue-freezing-issues-expert-fixing-tips-and-techniques/">Read more<span class="seo-reader-text">Resolving Assassin&#39;s Creed Rogue Freezing Issues - Expert Fixing Tips &amp; Techniques</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -951,21 +1008,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/top-6-solutions-to-resolve-hogwarts-legacy-game-lagging/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/600ab240c6c8b1ad864f3c8d1c4daad9b77c19a5afa889dc63fba4f50be8c27e.jpg" alt="Top 6 Solutions to Resolve Hogwarts Legacy Game Lagging" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/fixing-game-stutters-and-frame-drops-for-smooth-play-in-forza-horizon-5/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/6050aa5ce58a3d916a0355d32e6800af8938ccf6ad706af2327feef0ddd5dc8b.jpg" alt="Fixing Game Stutters and Frame Drops for Smooth Play in Forza Horizon 5" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/top-6-solutions-to-resolve-hogwarts-legacy-game-lagging/">
-                            Top 6 Solutions to Resolve Hogwarts Legacy Game Lagging
+                        <a href="/fixing-game-stutters-and-frame-drops-for-smooth-play-in-forza-horizon-5/">
+                            Fixing Game Stutters and Frame Drops for Smooth Play in Forza Horizon 5
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Top 6 Solutions to Resolve Hogwarts Legacy Game Lagging</p>
+                            <p>This Article Describes Fixing Game Stutters and Frame Drops for Smooth Play in Forza Horizon 5</p>
 
                         
                     </div>
@@ -973,9 +1030,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 13 2024 13:19:16 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 16:51:25 GMT+0800">
                 
-                    2024-08-13
+                    2024-08-19
                 
             </span>
         </span>
@@ -1021,7 +1078,7 @@
         
     </div>
 
-    <a href="/top-6-solutions-to-resolve-hogwarts-legacy-game-lagging/">Read more<span class="seo-reader-text">Top 6 Solutions to Resolve Hogwarts Legacy Game Lagging</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/fixing-game-stutters-and-frame-drops-for-smooth-play-in-forza-horizon-5/">Read more<span class="seo-reader-text">Fixing Game Stutters and Frame Drops for Smooth Play in Forza Horizon 5</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1037,21 +1094,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/solving-persistent-issues-why-is-rocket-league-still-crashing/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/a8a502e12209ca4cf0a910d9af6975208a0b7497dd6ac900e046b6637a6b7e0e.jpg" alt="Solving Persistent Issues: Why Is Rocket League Still Crashing ?" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/solved-fixes-for-starfield-audio-glitches-no-more-skipping-or-hiccups/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a128d746578608e8851ede9e.jpg" alt="Solved: Fixes for Starfield Audio Glitches - No More Skipping or Hiccups" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/solving-persistent-issues-why-is-rocket-league-still-crashing/">
-                            Solving Persistent Issues: Why Is Rocket League Still Crashing ?
+                        <a href="/solved-fixes-for-starfield-audio-glitches-no-more-skipping-or-hiccups/">
+                            Solved: Fixes for Starfield Audio Glitches - No More Skipping or Hiccups
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Solving Persistent Issues: Why Is Rocket League Still Crashing ?</p>
+                            <p>This Article Describes Solved: Fixes for Starfield Audio Glitches - No More Skipping or Hiccups</p>
 
                         
                     </div>
@@ -1059,9 +1116,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 13 2024 13:19:15 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 16:51:24 GMT+0800">
                 
-                    2024-08-13
+                    2024-08-19
                 
             </span>
         </span>
@@ -1107,7 +1164,7 @@
         
     </div>
 
-    <a href="/solving-persistent-issues-why-is-rocket-league-still-crashing/">Read more<span class="seo-reader-text">Solving Persistent Issues: Why Is Rocket League Still Crashing ?</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/solved-fixes-for-starfield-audio-glitches-no-more-skipping-or-hiccups/">Read more<span class="seo-reader-text">Solved: Fixes for Starfield Audio Glitches - No More Skipping or Hiccups</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1123,21 +1180,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-steps-to-stop-forza-horizon-5-from-freezing-on-windows/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/9f88f4d439bd19afe08962ae532d3a6f41b689b2a4dc10b0fa384c3313d41768.jpg" alt="Troubleshooting Steps to Stop &#39;Forza Horizon 5&#39; From Freezing on Windows" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/ultimate-guide-resolving-the-blue-screen-of-death-in-hell-divers-2/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/5adbaedbc32c515398682e6a33ec3c2c1afff467021d3f18604d423ee17ce346.jpg" alt="Ultimate Guide: Resolving the Blue Screen of Death in Hell Divers 2" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-steps-to-stop-forza-horizon-5-from-freezing-on-windows/">
-                            Troubleshooting Steps to Stop &#39;Forza Horizon 5&#39; From Freezing on Windows
+                        <a href="/ultimate-guide-resolving-the-blue-screen-of-death-in-hell-divers-2/">
+                            Ultimate Guide: Resolving the Blue Screen of Death in Hell Divers 2
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting Steps to Stop ‘Forza Horizon 5’ From Freezing on Windows</p>
+                            <p>This Article Describes Ultimate Guide: Resolving the Blue Screen of Death in Hell Divers 2</p>
 
                         
                     </div>
@@ -1145,9 +1202,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 13 2024 13:19:14 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 16:51:23 GMT+0800">
                 
-                    2024-08-13
+                    2024-08-19
                 
             </span>
         </span>
@@ -1193,7 +1250,7 @@
         
     </div>
 
-    <a href="/troubleshooting-steps-to-stop-forza-horizon-5-from-freezing-on-windows/">Read more<span class="seo-reader-text">Troubleshooting Steps to Stop &#39;Forza Horizon 5&#39; From Freezing on Windows</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/ultimate-guide-resolving-the-blue-screen-of-death-in-hell-divers-2/">Read more<span class="seo-reader-text">Ultimate Guide: Resolving the Blue Screen of Death in Hell Divers 2</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1209,21 +1266,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/god-of-war-pc-stability-problems-solutions-and-fixes/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/0c48024453358ef6a98b286edd181eb113a17b3521d6666287ecd3868dbe5cda.jpg" alt="God of War PC Stability Problems - Solutions and Fixes" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/overcome-ui-issue-27711-on-call-of-duty-black-ops-cold-war-for-smoother-gaming/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/5f5f5b93e7d5296621d28cc46446de06ad76f2671bd83441f8c16419df01fcdb.jpg" alt="Overcome UI Issue #27711 on &#39;Call of Duty: Black Ops Cold War&#39; For Smoother Gaming" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/god-of-war-pc-stability-problems-solutions-and-fixes/">
-                            God of War PC Stability Problems - Solutions and Fixes
+                        <a href="/overcome-ui-issue-27711-on-call-of-duty-black-ops-cold-war-for-smoother-gaming/">
+                            Overcome UI Issue #27711 on &#39;Call of Duty: Black Ops Cold War&#39; For Smoother Gaming
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes God of War PC Stability Problems - Solutions and Fixes</p>
+                            <p>This Article Describes Overcome UI Issue #27711 on ‘Call of Duty: Black Ops Cold War’ For Smoother Gaming</p>
 
                         
                     </div>
@@ -1231,9 +1288,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 13 2024 13:19:13 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 16:51:22 GMT+0800">
                 
-                    2024-08-13
+                    2024-08-19
                 
             </span>
         </span>
@@ -1279,7 +1336,7 @@
         
     </div>
 
-    <a href="/god-of-war-pc-stability-problems-solutions-and-fixes/">Read more<span class="seo-reader-text">God of War PC Stability Problems - Solutions and Fixes</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/overcome-ui-issue-27711-on-call-of-duty-black-ops-cold-war-for-smoother-gaming/">Read more<span class="seo-reader-text">Overcome UI Issue #27711 on &#39;Call of Duty: Black Ops Cold War&#39; For Smoother Gaming</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1295,21 +1352,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/call-of-duty-wzn-20-pc-stability-issues-a-guide-to-fix-frequent-game-disruptions/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/0fb9e75f25af36e0c595b70caf722719ae176ebbaafa4088d329d674adb3fc6f.jpg" alt="Call of Duty WZN 2.0 PC Stability Issues: A Guide to Fix Frequent Game Disruptions" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/common-causes-and-fixes-for-persona-3-flare-pc-instability-issues/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/d4b0aeca5fbcd6a1a79d8f267934da7fc9e25344d0a71eb82ee67d6e6ce44256.jpg" alt="Common Causes &amp; Fixes for Persona 3 Flare PC Instability Issues" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/call-of-duty-wzn-20-pc-stability-issues-a-guide-to-fix-frequent-game-disruptions/">
-                            Call of Duty WZN 2.0 PC Stability Issues: A Guide to Fix Frequent Game Disruptions
+                        <a href="/common-causes-and-fixes-for-persona-3-flare-pc-instability-issues/">
+                            Common Causes &amp; Fixes for Persona 3 Flare PC Instability Issues
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Call of Duty WZN 2.0 PC Stability Issues: A Guide to Fix Frequent Game Disruptions</p>
+                            <p>This Article Describes Common Causes &amp; Fixes for Persona 3 Flare PC Instability Issues</p>
 
                         
                     </div>
@@ -1317,9 +1374,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 13 2024 13:19:11 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 16:51:21 GMT+0800">
                 
-                    2024-08-13
+                    2024-08-19
                 
             </span>
         </span>
@@ -1365,7 +1422,7 @@
         
     </div>
 
-    <a href="/call-of-duty-wzn-20-pc-stability-issues-a-guide-to-fix-frequent-game-disruptions/">Read more<span class="seo-reader-text">Call of Duty WZN 2.0 PC Stability Issues: A Guide to Fix Frequent Game Disruptions</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/common-causes-and-fixes-for-persona-3-flare-pc-instability-issues/">Read more<span class="seo-reader-text">Common Causes &amp; Fixes for Persona 3 Flare PC Instability Issues</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1381,21 +1438,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/1723009820023-effortless-gaming-resolve-resident-evil-villages-pc-lag-issues-here/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6ae22dbb42da5be064fc57fa.png" alt="Effortless Gaming: Resolve Resident Evil Village&#39;s PC Lag Issues Here!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1723010795706-mount-and-blade-2-bannerlord-stability-issues-corrected-solutions-inside/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/ebd065cf06c5a9fb0286c4909069a9647cc2d269684aea8711a00f6335b22f38.jpg" alt="Mount &amp; Blade 2: Bannerlord Stability Issues Corrected - Solutions Inside!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/1723009820023-effortless-gaming-resolve-resident-evil-villages-pc-lag-issues-here/">
-                            Effortless Gaming: Resolve Resident Evil Village&#39;s PC Lag Issues Here!
+                        <a href="/1723010795706-mount-and-blade-2-bannerlord-stability-issues-corrected-solutions-inside/">
+                            Mount &amp; Blade 2: Bannerlord Stability Issues Corrected - Solutions Inside!
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Effortless Gaming: Resolve Resident Evil Village’s PC Lag Issues Here!</p>
+                            <p>This Article Describes Mount &amp; Blade 2: Bannerlord Stability Issues Corrected - Solutions Inside!</p>
 
                         
                     </div>
@@ -1403,9 +1460,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 13 2024 13:19:10 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 16:51:20 GMT+0800">
                 
-                    2024-08-13
+                    2024-08-19
                 
             </span>
         </span>
@@ -1451,7 +1508,7 @@
         
     </div>
 
-    <a href="/1723009820023-effortless-gaming-resolve-resident-evil-villages-pc-lag-issues-here/">Read more<span class="seo-reader-text">Effortless Gaming: Resolve Resident Evil Village&#39;s PC Lag Issues Here!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1723010795706-mount-and-blade-2-bannerlord-stability-issues-corrected-solutions-inside/">Read more<span class="seo-reader-text">Mount &amp; Blade 2: Bannerlord Stability Issues Corrected - Solutions Inside!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1467,21 +1524,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/mastering-optimal-performance-expert-strategies-to-combat-fps-drops-in-valorant-updated-tips-and-tricks/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5b8df6a84d93cf668a943550.jpg" alt="Mastering Optimal Performance: Expert Strategies to Combat FPS Drops in Valorant - Updated Tips &amp; Tricks" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/solving-the-issue-what-to-do-if-the-msi-dragon-center-fails-to-function/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/a8037b9cb425e19a9ec57f5feba58cc91bfb4e98ab568e20793fc881abc0b40e.jpg" alt="Solving the Issue: What To Do If The MSI Dragon Center Fails to Function" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/mastering-optimal-performance-expert-strategies-to-combat-fps-drops-in-valorant-updated-tips-and-tricks/">
-                            Mastering Optimal Performance: Expert Strategies to Combat FPS Drops in Valorant - Updated Tips &amp; Tricks
+                        <a href="/solving-the-issue-what-to-do-if-the-msi-dragon-center-fails-to-function/">
+                            Solving the Issue: What To Do If The MSI Dragon Center Fails to Function
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Mastering Optimal Performance: Expert Strategies to Combat FPS Drops in Valorant - Updated Tips &amp; Tricks</p>
+                            <p>This Article Describes Solving the Issue: What To Do If The MSI Dragon Center Fails to Function</p>
 
                         
                     </div>
@@ -1489,9 +1546,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 13 2024 13:19:09 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 16:51:18 GMT+0800">
                 
-                    2024-08-13
+                    2024-08-19
                 
             </span>
         </span>
@@ -1537,7 +1594,7 @@
         
     </div>
 
-    <a href="/mastering-optimal-performance-expert-strategies-to-combat-fps-drops-in-valorant-updated-tips-and-tricks/">Read more<span class="seo-reader-text">Mastering Optimal Performance: Expert Strategies to Combat FPS Drops in Valorant - Updated Tips &amp; Tricks</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/solving-the-issue-what-to-do-if-the-msi-dragon-center-fails-to-function/">Read more<span class="seo-reader-text">Solving the Issue: What To Do If The MSI Dragon Center Fails to Function</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1547,7 +1604,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/487/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/486/">486</a><a class="page-number" href="/page/487/">487</a><span class="page-number current">488</span><a class="page-number" href="/page/489/">489</a><a class="page-number" href="/page/490/">490</a><span class="space">&hellip;</span><a class="page-number" href="/page/877/">877</a><a class="extend next" rel="next" href="/page/489/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/487/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/486/">486</a><a class="page-number" href="/page/487/">487</a><span class="page-number current">488</span><a class="page-number" href="/page/489/">489</a><a class="page-number" href="/page/490/">490</a><span class="space">&hellip;</span><a class="page-number" href="/page/977/">977</a><a class="extend next" rel="next" href="/page/489/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"program-issues.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8770</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9767</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8770</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9767</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/mastering-the-fix-overcoming-cannot-connect-to-the-server-in-lost-ark/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/2e369c90b98435218baf4d297cfbe94e377c61af5c1d1c6b298751c3dd981af2.jpg" alt="Mastering the Fix: Overcoming &#39;Cannot Connect to the Server&#39; In Lost Ark" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/valorant-game-stalling-solve-the-persistent-pc-freezes-and-play-smoothly/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/f29016c0fce2f518937f68251a2431a5f707a01cf190eb7eb7552fa0f6fd65d9.jpg" alt="Valorant Game Stalling? Solve the Persistent PC Freezes and Play Smoothly!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/mastering-the-fix-overcoming-cannot-connect-to-the-server-in-lost-ark/">
-                            Mastering the Fix: Overcoming &#39;Cannot Connect to the Server&#39; In Lost Ark
+                        <a href="/valorant-game-stalling-solve-the-persistent-pc-freezes-and-play-smoothly/">
+                            Valorant Game Stalling? Solve the Persistent PC Freezes and Play Smoothly!
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Mastering the Fix: Overcoming ‘Cannot Connect to the Server’ In Lost Ark</p>
+                            <p>This Article Describes Valorant Game Stalling? Solve the Persistent PC Freezes and Play Smoothly!</p>
 
                         
                     </div>
@@ -715,9 +772,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Sep 01 2024 10:36:11 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 23:55:40 GMT+0800">
                 
-                    2024-09-01
+                    2024-09-05
                 
             </span>
         </span>
@@ -763,7 +820,7 @@
         
     </div>
 
-    <a href="/mastering-the-fix-overcoming-cannot-connect-to-the-server-in-lost-ark/">Read more<span class="seo-reader-text">Mastering the Fix: Overcoming &#39;Cannot Connect to the Server&#39; In Lost Ark</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/valorant-game-stalling-solve-the-persistent-pc-freezes-and-play-smoothly/">Read more<span class="seo-reader-text">Valorant Game Stalling? Solve the Persistent PC Freezes and Play Smoothly!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -779,21 +836,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/advanced-tricks-for-superior-frame-rates-in-tainted-grail-conquest-unleashed/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/7081b5b1aed08c23ca46ebec624febb30813e940f65f28eb554f3d648f0fddb8.jpg" alt="Advanced Tricks for Superior Frame Rates in Tainted Grail: Conquest Unleashed" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/pc-compatibility-issues-fixed-in-latest-patch-for-euro-truck-simulator-2/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/0f3aee40842c77652092959c44bb37ef79d636e0b9ea84d35588db5436176752.jpeg" alt="PC Compatibility Issues Fixed in Latest Patch for Euro Truck Simulator 2!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/advanced-tricks-for-superior-frame-rates-in-tainted-grail-conquest-unleashed/">
-                            Advanced Tricks for Superior Frame Rates in Tainted Grail: Conquest Unleashed
+                        <a href="/pc-compatibility-issues-fixed-in-latest-patch-for-euro-truck-simulator-2/">
+                            PC Compatibility Issues Fixed in Latest Patch for Euro Truck Simulator 2!
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Advanced Tricks for Superior Frame Rates in Tainted Grail: Conquest Unleashed</p>
+                            <p>This Article Describes PC Compatibility Issues Fixed in Latest Patch for Euro Truck Simulator 2!</p>
 
                         
                     </div>
@@ -801,9 +858,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Sep 01 2024 10:36:09 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 23:55:38 GMT+0800">
                 
-                    2024-09-01
+                    2024-09-05
                 
             </span>
         </span>
@@ -849,7 +906,7 @@
         
     </div>
 
-    <a href="/advanced-tricks-for-superior-frame-rates-in-tainted-grail-conquest-unleashed/">Read more<span class="seo-reader-text">Advanced Tricks for Superior Frame Rates in Tainted Grail: Conquest Unleashed</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/pc-compatibility-issues-fixed-in-latest-patch-for-euro-truck-simulator-2/">Read more<span class="seo-reader-text">PC Compatibility Issues Fixed in Latest Patch for Euro Truck Simulator 2!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -865,21 +922,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/1723005997024-football-manager-2023-struggling-to-boot-heres-how-you-can-resolve-it/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/1127690728774d68859773ac2967a71d9b05c7378c0abebd2da2f4a67474809a.jpg" alt="Football Manager 2023 Struggling to Boot? Here&#39;s How You Can Resolve It" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-prevent-and-resolve-fifa-2-section-1-problem-as-the-theme-question-theme-question/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e4304dfa4fcbf005c1298bed966.jpg" alt="How to Prevent and Resolve FIFA 2 # Section 1: Problem as the Theme Question (Theme Question)" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/1723005997024-football-manager-2023-struggling-to-boot-heres-how-you-can-resolve-it/">
-                            Football Manager 2023 Struggling to Boot? Here&#39;s How You Can Resolve It
+                        <a href="/how-to-prevent-and-resolve-fifa-2-section-1-problem-as-the-theme-question-theme-question/">
+                            How to Prevent and Resolve FIFA 2 # Section 1: Problem as the Theme Question (Theme Question)
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Football Manager 2023 Struggling to Boot? Here’s How You Can Resolve It</p>
+                            <p>This Article Describes How to Prevent and Resolve FIFA 2 # Section 1: Problem as the Theme Question (Theme Question)</p>
 
                         
                     </div>
@@ -887,9 +944,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Sep 01 2024 10:36:07 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 23:55:37 GMT+0800">
                 
-                    2024-09-01
+                    2024-09-05
                 
             </span>
         </span>
@@ -935,7 +992,7 @@
         
     </div>
 
-    <a href="/1723005997024-football-manager-2023-struggling-to-boot-heres-how-you-can-resolve-it/">Read more<span class="seo-reader-text">Football Manager 2023 Struggling to Boot? Here&#39;s How You Can Resolve It</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-prevent-and-resolve-fifa-2-section-1-problem-as-the-theme-question-theme-question/">Read more<span class="seo-reader-text">How to Prevent and Resolve FIFA 2 # Section 1: Problem as the Theme Question (Theme Question)</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -951,21 +1008,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/fixing-the-blackwood-delays-in-the-elder-scrolls-online/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/95333bd91bfdee977e890c3d99a260180b34b4ad300f9b943b40a4dfe4ccda73.jpg" alt="Fixing the Blackwood Delays in The Elder Scrolls Online" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/world-of-tanks-blitz-stability-issues-heres-how-to-stop-the-game-from-crashing/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/77a0a1507f5da99a4dd0db6a1e358f4e656bf9fb2de63da75eb278005236e188.jpg" alt="World of Tanks Blitz Stability Issues? Here&#39;s How to Stop the Game From Crashing" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/fixing-the-blackwood-delays-in-the-elder-scrolls-online/">
-                            Fixing the Blackwood Delays in The Elder Scrolls Online
+                        <a href="/world-of-tanks-blitz-stability-issues-heres-how-to-stop-the-game-from-crashing/">
+                            World of Tanks Blitz Stability Issues? Here&#39;s How to Stop the Game From Crashing
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Fixing the Blackwood Delays in The Elder Scrolls Online</p>
+                            <p>This Article Describes World of Tanks Blitz Stability Issues? Here’s How to Stop the Game From Crashing</p>
 
                         
                     </div>
@@ -973,9 +1030,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Sep 01 2024 10:36:05 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 23:55:35 GMT+0800">
                 
-                    2024-09-01
+                    2024-09-05
                 
             </span>
         </span>
@@ -1021,7 +1078,7 @@
         
     </div>
 
-    <a href="/fixing-the-blackwood-delays-in-the-elder-scrolls-online/">Read more<span class="seo-reader-text">Fixing the Blackwood Delays in The Elder Scrolls Online</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/world-of-tanks-blitz-stability-issues-heres-how-to-stop-the-game-from-crashing/">Read more<span class="seo-reader-text">World of Tanks Blitz Stability Issues? Here&#39;s How to Stop the Game From Crashing</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1037,21 +1094,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/get-smooth-blocks-solving-freezing-issues-in-pc-version-of-minecraft/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/545f7379c0befa5a44cab74ccb395e1f4653a53c66c0461613d4a49d7a7f9a57.jpg" alt="Get Smooth Blocks: Solving Freezing Issues in PC Version of Minecraft" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/effective-ways-to-lower-your-computers-cpu-load-during-a-zoom-call/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/cff36c5116cca7d9115bbe8663d924812ff9d18b2e8fcb962fecc68f906b1369.jpg" alt="Effective Ways to Lower Your Computer&#39;s CPU Load During a Zoom Call" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/get-smooth-blocks-solving-freezing-issues-in-pc-version-of-minecraft/">
-                            Get Smooth Blocks: Solving Freezing Issues in PC Version of Minecraft
+                        <a href="/effective-ways-to-lower-your-computers-cpu-load-during-a-zoom-call/">
+                            Effective Ways to Lower Your Computer&#39;s CPU Load During a Zoom Call
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Get Smooth Blocks: Solving Freezing Issues in PC Version of Minecraft</p>
+                            <p>This Article Describes Effective Ways to Lower Your Computer’s CPU Load During a Zoom Call</p>
 
                         
                     </div>
@@ -1059,9 +1116,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Sep 01 2024 10:36:04 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 23:55:34 GMT+0800">
                 
-                    2024-09-01
+                    2024-09-05
                 
             </span>
         </span>
@@ -1107,7 +1164,7 @@
         
     </div>
 
-    <a href="/get-smooth-blocks-solving-freezing-issues-in-pc-version-of-minecraft/">Read more<span class="seo-reader-text">Get Smooth Blocks: Solving Freezing Issues in PC Version of Minecraft</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/effective-ways-to-lower-your-computers-cpu-load-during-a-zoom-call/">Read more<span class="seo-reader-text">Effective Ways to Lower Your Computer&#39;s CPU Load During a Zoom Call</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1123,21 +1180,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-complete-vrchat-failure-and-non-responsive-issues/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d56bb43f9e5c26e9a6768a6cd.jpg" alt="Troubleshooting Complete VRChat Failure and Non-Responsive Issues" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/addressing-and-correcting-ark-disruptions-a-step-by-step-guide-to-resolution/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/b357c4b8f72776975451a46d642e42d569af6d435c0d587f7372c46c2b7924bd.jpg" alt="Addressing and Correcting ARK Disruptions: A Step-by-Step Guide to Resolution" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-complete-vrchat-failure-and-non-responsive-issues/">
-                            Troubleshooting Complete VRChat Failure and Non-Responsive Issues
+                        <a href="/addressing-and-correcting-ark-disruptions-a-step-by-step-guide-to-resolution/">
+                            Addressing and Correcting ARK Disruptions: A Step-by-Step Guide to Resolution
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting Complete VRChat Failure and Non-Responsive Issues</p>
+                            <p>This Article Describes Addressing and Correcting ARK Disruptions: A Step-by-Step Guide to Resolution</p>
 
                         
                     </div>
@@ -1145,9 +1202,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Sep 01 2024 10:36:03 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 23:55:32 GMT+0800">
                 
-                    2024-09-01
+                    2024-09-05
                 
             </span>
         </span>
@@ -1193,7 +1250,7 @@
         
     </div>
 
-    <a href="/troubleshooting-complete-vrchat-failure-and-non-responsive-issues/">Read more<span class="seo-reader-text">Troubleshooting Complete VRChat Failure and Non-Responsive Issues</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/addressing-and-correcting-ark-disruptions-a-step-by-step-guide-to-resolution/">Read more<span class="seo-reader-text">Addressing and Correcting ARK Disruptions: A Step-by-Step Guide to Resolution</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1209,21 +1266,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/resolved-initialization-issue-with-vanguard-weapon-in-valorant-game/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/00c43aac4ac36494822026f46081d40ded4f30b2adeccfa477f16f86895593d2.jpg" alt="Resolved: Initialization Issue with Vanguard Weapon in Valorant Game" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/the-ultimate-fixes-for-critical-unreal-engine-4-setbacks-in-tales-of-arise/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/a69a15798572265a2574284260281ddf651b6e2edc67c914e7a3a40f4a1feb7f.png" alt="The Ultimate Fixes for Critical Unreal Engine 4 Setbacks in Tales of Arise" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/resolved-initialization-issue-with-vanguard-weapon-in-valorant-game/">
-                            Resolved: Initialization Issue with Vanguard Weapon in Valorant Game
+                        <a href="/the-ultimate-fixes-for-critical-unreal-engine-4-setbacks-in-tales-of-arise/">
+                            The Ultimate Fixes for Critical Unreal Engine 4 Setbacks in Tales of Arise
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Resolved: Initialization Issue with Vanguard Weapon in Valorant Game</p>
+                            <p>This Article Describes The Ultimate Fixes for Critical Unreal Engine 4 Setbacks in Tales of Arise</p>
 
                         
                     </div>
@@ -1231,9 +1288,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Sep 01 2024 10:36:01 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 23:55:31 GMT+0800">
                 
-                    2024-09-01
+                    2024-09-05
                 
             </span>
         </span>
@@ -1279,7 +1336,7 @@
         
     </div>
 
-    <a href="/resolved-initialization-issue-with-vanguard-weapon-in-valorant-game/">Read more<span class="seo-reader-text">Resolved: Initialization Issue with Vanguard Weapon in Valorant Game</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/the-ultimate-fixes-for-critical-unreal-engine-4-setbacks-in-tales-of-arise/">Read more<span class="seo-reader-text">The Ultimate Fixes for Critical Unreal Engine 4 Setbacks in Tales of Arise</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1295,21 +1352,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/overcoming-the-hurdle-la-noire-released-for-pc-enthusiasts/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/481d06bf1b3256f57ab62815340fcc460dfe18ec5f4531d4ca28b88dc8e90d86.jpg" alt="Overcoming the Hurdle: L.A. Noire Released for PC Enthusiasts" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/overcoming-content-warning-barriers-in-your-voice-chat-experience/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed98794f1ba27d0b681ad3c785.jpg" alt="Overcoming &#39;Content Warning&#39; Barriers in Your Voice Chat Experience" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/overcoming-the-hurdle-la-noire-released-for-pc-enthusiasts/">
-                            Overcoming the Hurdle: L.A. Noire Released for PC Enthusiasts
+                        <a href="/overcoming-content-warning-barriers-in-your-voice-chat-experience/">
+                            Overcoming &#39;Content Warning&#39; Barriers in Your Voice Chat Experience
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Overcoming the Hurdle: L.A. Noire Released for PC Enthusiasts</p>
+                            <p>This Article Describes Overcoming ‘Content Warning’ Barriers in Your Voice Chat Experience</p>
 
                         
                     </div>
@@ -1317,9 +1374,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Sep 01 2024 10:36:00 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 23:55:30 GMT+0800">
                 
-                    2024-09-01
+                    2024-09-05
                 
             </span>
         </span>
@@ -1365,7 +1422,7 @@
         
     </div>
 
-    <a href="/overcoming-the-hurdle-la-noire-released-for-pc-enthusiasts/">Read more<span class="seo-reader-text">Overcoming the Hurdle: L.A. Noire Released for PC Enthusiasts</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/overcoming-content-warning-barriers-in-your-voice-chat-experience/">Read more<span class="seo-reader-text">Overcoming &#39;Content Warning&#39; Barriers in Your Voice Chat Experience</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1381,21 +1438,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/valorant-input-lag-on-desktop-computers-comprehensive-fixes-for-gamers-2n-2024/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/f0d0c2a077419838d019249854e895427fabffcbae9e8b50e548bd608d26f443.PNG" alt="Valorant Input Lag on Desktop Computers: Comprehensive Fixes for Gamers 2N 2024" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/ultimate-troubleshooting-guide-to-eliminate-league-of-legends-black-screen-tips/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/caa6cead2c370efcf0282829aeb71cf5fae19a07fa272224ebe494dc43e30123.jpg" alt="Ultimate Troubleshooting Guide to Eliminate League of Legends&#39; Black Screen - Tips" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/valorant-input-lag-on-desktop-computers-comprehensive-fixes-for-gamers-2n-2024/">
-                            Valorant Input Lag on Desktop Computers: Comprehensive Fixes for Gamers 2N 2024
+                        <a href="/ultimate-troubleshooting-guide-to-eliminate-league-of-legends-black-screen-tips/">
+                            Ultimate Troubleshooting Guide to Eliminate League of Legends&#39; Black Screen - Tips
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Valorant Input Lag on Desktop Computers: Comprehensive Fixes for Gamers 2N 2024</p>
+                            <p>This Article Describes Ultimate Troubleshooting Guide to Eliminate League of Legends’ Black Screen - Tips</p>
 
                         
                     </div>
@@ -1403,9 +1460,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Sep 01 2024 10:35:59 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 23:55:28 GMT+0800">
                 
-                    2024-09-01
+                    2024-09-05
                 
             </span>
         </span>
@@ -1451,7 +1508,7 @@
         
     </div>
 
-    <a href="/valorant-input-lag-on-desktop-computers-comprehensive-fixes-for-gamers-2n-2024/">Read more<span class="seo-reader-text">Valorant Input Lag on Desktop Computers: Comprehensive Fixes for Gamers 2N 2024</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/ultimate-troubleshooting-guide-to-eliminate-league-of-legends-black-screen-tips/">Read more<span class="seo-reader-text">Ultimate Troubleshooting Guide to Eliminate League of Legends&#39; Black Screen - Tips</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1467,21 +1524,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/effective-tips-to-overcome-bdo-game-crashes-on-personal-computers/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/bb00ebc3d89d1362ca9b186657d254b37c10a245e721f7dc9d791e4530e6a65b.jpeg" alt="Effective Tips To Overcome BDO Game Crashes On Personal Computers" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-tips-fixing-the-issue-of-logitech-g-hub-malfunction-on-windows/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/ecd5393b4b11cd27ce9b151fec19432ec4c563d2b818d2405502179fc7ce1c3d.jpg" alt="Troubleshooting Tips: Fixing the Issue of Logitech G Hub Malfunction on Windows" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/effective-tips-to-overcome-bdo-game-crashes-on-personal-computers/">
-                            Effective Tips To Overcome BDO Game Crashes On Personal Computers
+                        <a href="/troubleshooting-tips-fixing-the-issue-of-logitech-g-hub-malfunction-on-windows/">
+                            Troubleshooting Tips: Fixing the Issue of Logitech G Hub Malfunction on Windows
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Effective Tips To Overcome BDO Game Crashes On Personal Computers</p>
+                            <p>This Article Describes Troubleshooting Tips: Fixing the Issue of Logitech G Hub Malfunction on Windows</p>
 
                         
                     </div>
@@ -1489,9 +1546,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Sep 01 2024 10:35:57 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 23:55:27 GMT+0800">
                 
-                    2024-09-01
+                    2024-09-05
                 
             </span>
         </span>
@@ -1537,7 +1594,7 @@
         
     </div>
 
-    <a href="/effective-tips-to-overcome-bdo-game-crashes-on-personal-computers/">Read more<span class="seo-reader-text">Effective Tips To Overcome BDO Game Crashes On Personal Computers</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-tips-fixing-the-issue-of-logitech-g-hub-malfunction-on-windows/">Read more<span class="seo-reader-text">Troubleshooting Tips: Fixing the Issue of Logitech G Hub Malfunction on Windows</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1547,7 +1604,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/3/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><a class="page-number" href="/page/2/">2</a><a class="page-number" href="/page/3/">3</a><span class="page-number current">4</span><a class="page-number" href="/page/5/">5</a><a class="page-number" href="/page/6/">6</a><span class="space">&hellip;</span><a class="page-number" href="/page/877/">877</a><a class="extend next" rel="next" href="/page/5/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/3/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><a class="page-number" href="/page/2/">2</a><a class="page-number" href="/page/3/">3</a><span class="page-number current">4</span><a class="page-number" href="/page/5/">5</a><a class="page-number" href="/page/6/">6</a><span class="space">&hellip;</span><a class="page-number" href="/page/977/">977</a><a class="extend next" rel="next" href="/page/5/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

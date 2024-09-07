@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"program-issues.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8770</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9767</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8770</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9767</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/mastering-roblox-error-277-troubleshooting-techniques-on-pc-expert-advice/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/680c73892fadaf0cd37020955286e78a6c2698cf86437727fe7a9aa1c7291d00.jpg" alt="Mastering Roblox Error 277 Troubleshooting Techniques on PC – Expert Advice" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1722997022114-poison-control-centers-can-provide-valuable-guidance-on-the-management-of-various-poisoning-scenarios/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/78573d1d50e3fe1a208211e6210a893de5cb63383e5008c1e4699b06b4a4f916.jpg" alt="Poison Control Centers Can Provide Valuable Guidance on the Management of Various Poisoning Scenarios" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/mastering-roblox-error-277-troubleshooting-techniques-on-pc-expert-advice/">
-                            Mastering Roblox Error 277 Troubleshooting Techniques on PC – Expert Advice
+                        <a href="/1722997022114-poison-control-centers-can-provide-valuable-guidance-on-the-management-of-various-poisoning-scenarios/">
+                            Poison Control Centers Can Provide Valuable Guidance on the Management of Various Poisoning Scenarios
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Mastering Roblox Error 277 Troubleshooting Techniques on PC – Expert Advice</p>
+                            <p>This Article Describes Poison Control Centers Can Provide Valuable Guidance on the Management of Various Poisoning Scenarios</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 06 2024 09:47:37 GMT+0800">
+            <span class="home-article-date" data-date="Tue Aug 06 2024 09:47:52 GMT+0800">
                 
                     2024-08-06
                 
@@ -763,7 +820,7 @@
         
     </div>
 
-    <a href="/mastering-roblox-error-277-troubleshooting-techniques-on-pc-expert-advice/">Read more<span class="seo-reader-text">Mastering Roblox Error 277 Troubleshooting Techniques on PC – Expert Advice</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1722997022114-poison-control-centers-can-provide-valuable-guidance-on-the-management-of-various-poisoning-scenarios/">Read more<span class="seo-reader-text">Poison Control Centers Can Provide Valuable Guidance on the Management of Various Poisoning Scenarios</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -779,21 +836,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/instant-remedies-for-resolving-game-latency-in-assassins-creed-valhalla/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f07504ad9ddbf600b0c76aae.jpg" alt="Instant Remedies for Resolving Game Latency in Assassin&#39;s Creed: Valhalla" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/the-definitive-2024-cheat-sheet-overcoming-battlenet-startup-errors/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/64de9954aaa9872e4109ed0fb3bd88e929af8b2024c5f17c9a376420ca579cf7.jpg" alt="The Definitive 2024 Cheat Sheet: Overcoming Battle.net Startup Errors" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/instant-remedies-for-resolving-game-latency-in-assassins-creed-valhalla/">
-                            Instant Remedies for Resolving Game Latency in Assassin&#39;s Creed: Valhalla
+                        <a href="/the-definitive-2024-cheat-sheet-overcoming-battlenet-startup-errors/">
+                            The Definitive 2024 Cheat Sheet: Overcoming Battle.net Startup Errors
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Instant Remedies for Resolving Game Latency in Assassin’s Creed: Valhalla</p>
+                            <p>This Article Describes The Definitive 2024 Cheat Sheet: Overcoming Battle.net Startup Errors</p>
 
                         
                     </div>
@@ -801,7 +858,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 06 2024 09:47:37 GMT+0800">
+            <span class="home-article-date" data-date="Tue Aug 06 2024 09:47:52 GMT+0800">
                 
                     2024-08-06
                 
@@ -849,7 +906,7 @@
         
     </div>
 
-    <a href="/instant-remedies-for-resolving-game-latency-in-assassins-creed-valhalla/">Read more<span class="seo-reader-text">Instant Remedies for Resolving Game Latency in Assassin&#39;s Creed: Valhalla</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/the-definitive-2024-cheat-sheet-overcoming-battlenet-startup-errors/">Read more<span class="seo-reader-text">The Definitive 2024 Cheat Sheet: Overcoming Battle.net Startup Errors</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -865,21 +922,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/overcoming-initial-launch-glitches-in-monster-hunter-rise-a-users-manual/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/05fdbf7e0ba6723060a8e38727f66904571eb715bf9889d14555bc1e8e657248.jpg" alt="Overcoming Initial Launch Glitches in Monster Hunter Rise: A User’s Manual" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/fixing-dolby-atmos-incompatibility-master-guide-for-windows-11-and-windows-10-users/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/f0a710f8b121815cf9221ed63e6d5399bb71fd342dd8940addf1aa95c2adb631.jpg" alt="Fixing Dolby Atmos Incompatibility: Master Guide for Windows 11 and Windows 10 Users" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/overcoming-initial-launch-glitches-in-monster-hunter-rise-a-users-manual/">
-                            Overcoming Initial Launch Glitches in Monster Hunter Rise: A User’s Manual
+                        <a href="/fixing-dolby-atmos-incompatibility-master-guide-for-windows-11-and-windows-10-users/">
+                            Fixing Dolby Atmos Incompatibility: Master Guide for Windows 11 and Windows 10 Users
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Overcoming Initial Launch Glitches in Monster Hunter Rise: A User’s Manual</p>
+                            <p>This Article Describes Fixing Dolby Atmos Incompatibility: Master Guide for Windows 11 and Windows 10 Users</p>
 
                         
                     </div>
@@ -887,7 +944,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 06 2024 09:47:37 GMT+0800">
+            <span class="home-article-date" data-date="Tue Aug 06 2024 09:47:52 GMT+0800">
                 
                     2024-08-06
                 
@@ -935,7 +992,7 @@
         
     </div>
 
-    <a href="/overcoming-initial-launch-glitches-in-monster-hunter-rise-a-users-manual/">Read more<span class="seo-reader-text">Overcoming Initial Launch Glitches in Monster Hunter Rise: A User’s Manual</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/fixing-dolby-atmos-incompatibility-master-guide-for-windows-11-and-windows-10-users/">Read more<span class="seo-reader-text">Fixing Dolby Atmos Incompatibility: Master Guide for Windows 11 and Windows 10 Users</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -951,21 +1008,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/solved-dayz-fps-drops-quickly-and-easily/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/f98d1257bcb7974aa260f701a6b07a2fc3189bb3402846997f3d07b92f92ca19.jpg" alt="[SOLVED] DayZ FPS Drops | Quickly &amp; Easily" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/mastering-the-skies-of-war-thunder-comprehensive-guide-for-fixing-fps-dip-in-204-update/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/25814137ff2b0c0573cec745d5d0a7576d58b816448c60f70b991c5a0f3d865d.jpeg" alt="Mastering the Skies of War Thunder: Comprehensive Guide for Fixing FPS Dip in 2^04 Update" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/solved-dayz-fps-drops-quickly-and-easily/">
-                            [SOLVED] DayZ FPS Drops | Quickly &amp; Easily
+                        <a href="/mastering-the-skies-of-war-thunder-comprehensive-guide-for-fixing-fps-dip-in-204-update/">
+                            Mastering the Skies of War Thunder: Comprehensive Guide for Fixing FPS Dip in 2^04 Update
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes [SOLVED] DayZ FPS Drops | Quickly &amp; Easily</p>
+                            <p>This Article Describes Mastering the Skies of War Thunder: Comprehensive Guide for Fixing FPS Dip in 2^04 Update</p>
 
                         
                     </div>
@@ -973,7 +1030,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 06 2024 09:47:37 GMT+0800">
+            <span class="home-article-date" data-date="Tue Aug 06 2024 09:47:52 GMT+0800">
                 
                     2024-08-06
                 
@@ -1021,7 +1078,7 @@
         
     </div>
 
-    <a href="/solved-dayz-fps-drops-quickly-and-easily/">Read more<span class="seo-reader-text">[SOLVED] DayZ FPS Drops | Quickly &amp; Easily</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/mastering-the-skies-of-war-thunder-comprehensive-guide-for-fixing-fps-dip-in-204-update/">Read more<span class="seo-reader-text">Mastering the Skies of War Thunder: Comprehensive Guide for Fixing FPS Dip in 2^04 Update</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1037,21 +1094,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/trouble-with-hogwarts-legacy-top-strategies-to-overcome-startup-failures/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/f68ca812bcde6ea11b49f44592ad32b754408fad9ec2378e7166d9ec2c6bf6c4.jpg" alt="Trouble with Hogwarts Legacy? Top Strategies to Overcome Startup Failures" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/baldurs-gate-performance-boosted-discover-the-six-key-solutions-to-stuttering-problems/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc721b43b4dca709d022c56e41.jpg" alt="Baldur&#39;s Gate Performance Boosted - Discover the Six Key Solutions to Stuttering Problems" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/trouble-with-hogwarts-legacy-top-strategies-to-overcome-startup-failures/">
-                            Trouble with Hogwarts Legacy? Top Strategies to Overcome Startup Failures
+                        <a href="/baldurs-gate-performance-boosted-discover-the-six-key-solutions-to-stuttering-problems/">
+                            Baldur&#39;s Gate Performance Boosted - Discover the Six Key Solutions to Stuttering Problems
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Trouble with Hogwarts Legacy? Top Strategies to Overcome Startup Failures</p>
+                            <p>This Article Describes Baldur’s Gate Performance Boosted - Discover the Six Key Solutions to Stuttering Problems</p>
 
                         
                     </div>
@@ -1059,7 +1116,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 06 2024 09:47:37 GMT+0800">
+            <span class="home-article-date" data-date="Tue Aug 06 2024 09:47:52 GMT+0800">
                 
                     2024-08-06
                 
@@ -1107,7 +1164,7 @@
         
     </div>
 
-    <a href="/trouble-with-hogwarts-legacy-top-strategies-to-overcome-startup-failures/">Read more<span class="seo-reader-text">Trouble with Hogwarts Legacy? Top Strategies to Overcome Startup Failures</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/baldurs-gate-performance-boosted-discover-the-six-key-solutions-to-stuttering-problems/">Read more<span class="seo-reader-text">Baldur&#39;s Gate Performance Boosted - Discover the Six Key Solutions to Stuttering Problems</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1123,21 +1180,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/latest-phasmophobia-game-updates-patch-notes-and-solutions/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/a26306e3d205a36c4a6b9d44bd1cf9f948f504e389465c9417b498ad1381c72e.jpg" alt="Latest Phasmophobia Game Updates: Patch Notes and Solutions" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/back-4-blood-performance-tweaks-top-tips-for-reducing-game-latency/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06feae865a9a356c9f8b695aec3.jpg" alt="Back 4 Blood Performance Tweaks: Top Tips for Reducing Game Latency" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/latest-phasmophobia-game-updates-patch-notes-and-solutions/">
-                            Latest Phasmophobia Game Updates: Patch Notes and Solutions
+                        <a href="/back-4-blood-performance-tweaks-top-tips-for-reducing-game-latency/">
+                            Back 4 Blood Performance Tweaks: Top Tips for Reducing Game Latency
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Latest Phasmophobia Game Updates: Patch Notes and Solutions</p>
+                            <p>This Article Describes Back 4 Blood Performance Tweaks: Top Tips for Reducing Game Latency</p>
 
                         
                     </div>
@@ -1145,7 +1202,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 06 2024 09:47:37 GMT+0800">
+            <span class="home-article-date" data-date="Tue Aug 06 2024 09:47:52 GMT+0800">
                 
                     2024-08-06
                 
@@ -1193,7 +1250,7 @@
         
     </div>
 
-    <a href="/latest-phasmophobia-game-updates-patch-notes-and-solutions/">Read more<span class="seo-reader-text">Latest Phasmophobia Game Updates: Patch Notes and Solutions</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/back-4-blood-performance-tweaks-top-tips-for-reducing-game-latency/">Read more<span class="seo-reader-text">Back 4 Blood Performance Tweaks: Top Tips for Reducing Game Latency</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1209,21 +1266,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/1723000577684-ace-the-game-again-easy-ways-to-get-apex-legends-loading-smoothly/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/cfb0e1f2c6527b7d4431251ab8890078af21f0bc88406680edc99866453f0d22.jpg" alt="Ace the Game Again: Easy Ways to Get Apex Legends Loading Smoothly!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/fixing-kodi-connection-issues-how-to-resolve-could-not-obtain-directory-info/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/9741597441538b9063ba6395b36f1ab44380cf26caea24d426b1c0daf15218fd.jpg" alt="Fixing Kodi Connection Issues: How to Resolve &#39;Could Not Obtain Directory Info&#39;" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/1723000577684-ace-the-game-again-easy-ways-to-get-apex-legends-loading-smoothly/">
-                            Ace the Game Again: Easy Ways to Get Apex Legends Loading Smoothly!
+                        <a href="/fixing-kodi-connection-issues-how-to-resolve-could-not-obtain-directory-info/">
+                            Fixing Kodi Connection Issues: How to Resolve &#39;Could Not Obtain Directory Info&#39;
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Ace the Game Again: Easy Ways to Get Apex Legends Loading Smoothly!</p>
+                            <p>This Article Describes Fixing Kodi Connection Issues: How to Resolve ‘Could Not Obtain Directory Info’</p>
 
                         
                     </div>
@@ -1231,7 +1288,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 06 2024 09:47:37 GMT+0800">
+            <span class="home-article-date" data-date="Tue Aug 06 2024 09:47:52 GMT+0800">
                 
                     2024-08-06
                 
@@ -1279,7 +1336,7 @@
         
     </div>
 
-    <a href="/1723000577684-ace-the-game-again-easy-ways-to-get-apex-legends-loading-smoothly/">Read more<span class="seo-reader-text">Ace the Game Again: Easy Ways to Get Apex Legends Loading Smoothly!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/fixing-kodi-connection-issues-how-to-resolve-could-not-obtain-directory-info/">Read more<span class="seo-reader-text">Fixing Kodi Connection Issues: How to Resolve &#39;Could Not Obtain Directory Info&#39;</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1295,21 +1352,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/tips-to-cut-down-on-god-of-wars-demand-on-your-computers-processor/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/f84b2c3b2f643243e9c367a28e725ddd1d16800a678efc068af4239160ee06bb.jpg" alt="Tips to Cut Down on God of War&#39;s Demand on Your Computer&#39;s Processor" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1723004857604-unleash-the-full-potential-of-horizon-zero-dawn-with-these-fps-boosting-and-performance-enhancement-tips/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/c7779ebd6615899057fd1d41459b53b981bc532c7ceba807afb11ae201e1d4e5.jpg" alt="Unleash the Full Potential of Horizon Zero Dawn with These FPS Boosting and Performance Enhancement Tips" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/tips-to-cut-down-on-god-of-wars-demand-on-your-computers-processor/">
-                            Tips to Cut Down on God of War&#39;s Demand on Your Computer&#39;s Processor
+                        <a href="/1723004857604-unleash-the-full-potential-of-horizon-zero-dawn-with-these-fps-boosting-and-performance-enhancement-tips/">
+                            Unleash the Full Potential of Horizon Zero Dawn with These FPS Boosting and Performance Enhancement Tips
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Tips to Cut Down on God of War’s Demand on Your Computer’s Processor</p>
+                            <p>This Article Describes Unleash the Full Potential of Horizon Zero Dawn with These FPS Boosting and Performance Enhancement Tips</p>
 
                         
                     </div>
@@ -1317,7 +1374,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 06 2024 09:47:37 GMT+0800">
+            <span class="home-article-date" data-date="Tue Aug 06 2024 09:47:52 GMT+0800">
                 
                     2024-08-06
                 
@@ -1365,7 +1422,7 @@
         
     </div>
 
-    <a href="/tips-to-cut-down-on-god-of-wars-demand-on-your-computers-processor/">Read more<span class="seo-reader-text">Tips to Cut Down on God of War&#39;s Demand on Your Computer&#39;s Processor</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1723004857604-unleash-the-full-potential-of-horizon-zero-dawn-with-these-fps-boosting-and-performance-enhancement-tips/">Read more<span class="seo-reader-text">Unleash the Full Potential of Horizon Zero Dawn with These FPS Boosting and Performance Enhancement Tips</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1381,21 +1438,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/boosting-your-gameplay-in-cyberpunk-2077-fixes-for-fps-fluctuations/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/08d0ed252ac6170c4a8fac055223d23fecc76ab6227921b368a4209f8523cce7.png" alt="Boosting Your Gameplay in Cyberpunk 2077: Fixes for FPS Fluctuations" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/no-more-crashes-with-paladins-latest-fixes-and-enhancements/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/c7d5334a16d86bd0def81a6a6e6f6a57897cdf76fff62c24b07135a4d8d600fb.jpg" alt="No More Crashes with Paladins: Latest Fixes and Enhancements" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/boosting-your-gameplay-in-cyberpunk-2077-fixes-for-fps-fluctuations/">
-                            Boosting Your Gameplay in Cyberpunk 2077: Fixes for FPS Fluctuations
+                        <a href="/no-more-crashes-with-paladins-latest-fixes-and-enhancements/">
+                            No More Crashes with Paladins: Latest Fixes and Enhancements
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Boosting Your Gameplay in Cyberpunk 2077: Fixes for FPS Fluctuations</p>
+                            <p>This Article Describes No More Crashes with Paladins: Latest Fixes and Enhancements</p>
 
                         
                     </div>
@@ -1403,7 +1460,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 06 2024 09:47:37 GMT+0800">
+            <span class="home-article-date" data-date="Tue Aug 06 2024 09:47:52 GMT+0800">
                 
                     2024-08-06
                 
@@ -1451,7 +1508,7 @@
         
     </div>
 
-    <a href="/boosting-your-gameplay-in-cyberpunk-2077-fixes-for-fps-fluctuations/">Read more<span class="seo-reader-text">Boosting Your Gameplay in Cyberpunk 2077: Fixes for FPS Fluctuations</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/no-more-crashes-with-paladins-latest-fixes-and-enhancements/">Read more<span class="seo-reader-text">No More Crashes with Paladins: Latest Fixes and Enhancements</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1467,21 +1524,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/fix-roblox-freezing-issues-on-your-computer-in-just-6-steps-latest-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/0f4e3cdd6a3a2810d9be01f02401b08a8ee0a737df3f1b1c4792de29fdd777e8.jpg" alt="Fix Roblox Freezing Issues on Your Computer in Just 6 Steps – Latest Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-victory-unlock-the-secrets-to-running-evil-genius-2/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/57b8dccb20eee61b9862d74c48858978ad644b0b3c9c032196c655a977f2efc6.jpg" alt="Troubleshooting Victory! Unlock the Secrets to Running Evil Genius 2" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/fix-roblox-freezing-issues-on-your-computer-in-just-6-steps-latest-guide/">
-                            Fix Roblox Freezing Issues on Your Computer in Just 6 Steps – Latest Guide
+                        <a href="/troubleshooting-victory-unlock-the-secrets-to-running-evil-genius-2/">
+                            Troubleshooting Victory! Unlock the Secrets to Running Evil Genius 2
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Fix Roblox Freezing Issues on Your Computer in Just 6 Steps – Latest Guide</p>
+                            <p>This Article Describes Troubleshooting Victory! Unlock the Secrets to Running Evil Genius 2</p>
 
                         
                     </div>
@@ -1489,7 +1546,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 06 2024 09:47:37 GMT+0800">
+            <span class="home-article-date" data-date="Tue Aug 06 2024 09:47:52 GMT+0800">
                 
                     2024-08-06
                 
@@ -1537,7 +1594,7 @@
         
     </div>
 
-    <a href="/fix-roblox-freezing-issues-on-your-computer-in-just-6-steps-latest-guide/">Read more<span class="seo-reader-text">Fix Roblox Freezing Issues on Your Computer in Just 6 Steps – Latest Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-victory-unlock-the-secrets-to-running-evil-genius-2/">Read more<span class="seo-reader-text">Troubleshooting Victory! Unlock the Secrets to Running Evil Genius 2</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1547,7 +1604,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/635/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/634/">634</a><a class="page-number" href="/page/635/">635</a><span class="page-number current">636</span><a class="page-number" href="/page/637/">637</a><a class="page-number" href="/page/638/">638</a><span class="space">&hellip;</span><a class="page-number" href="/page/877/">877</a><a class="extend next" rel="next" href="/page/637/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/635/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/634/">634</a><a class="page-number" href="/page/635/">635</a><span class="page-number current">636</span><a class="page-number" href="/page/637/">637</a><a class="page-number" href="/page/638/">638</a><span class="space">&hellip;</span><a class="page-number" href="/page/977/">977</a><a class="extend next" rel="next" href="/page/637/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"program-issues.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8770</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9767</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8770</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9767</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/the-players-manual-to-smoother-faster-playthroughs-in-fall-guys/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/a50833de398a016d5f4384db8ba343a7a22c031d122aae5cba2e71718d3b50f6.jpg" alt="The Player&#39;s Manual to Smoother, Faster Playthroughs in Fall Guys" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-prevent-age-of-wonders-planetfall-from-crashing-during-gameplay-on-your-computer/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/de1e2dcf5aeceec6efa479819bb7032cddf48c94924e3a65a00624e5b7030be4.jpg" alt="How to Prevent &#39;Age of Wonders: Planetfall&#39; From Crashing During Gameplay on Your Computer" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/the-players-manual-to-smoother-faster-playthroughs-in-fall-guys/">
-                            The Player&#39;s Manual to Smoother, Faster Playthroughs in Fall Guys
+                        <a href="/how-to-prevent-age-of-wonders-planetfall-from-crashing-during-gameplay-on-your-computer/">
+                            How to Prevent &#39;Age of Wonders: Planetfall&#39; From Crashing During Gameplay on Your Computer
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes The Player’s Manual to Smoother, Faster Playthroughs in Fall Guys</p>
+                            <p>This Article Describes How to Prevent ‘Age of Wonders: Planetfall’ From Crashing During Gameplay on Your Computer</p>
 
                         
                     </div>
@@ -715,9 +772,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Aug 28 2024 06:31:47 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 23:27:37 GMT+0800">
                 
-                    2024-08-28
+                    2024-09-05
                 
             </span>
         </span>
@@ -763,7 +820,7 @@
         
     </div>
 
-    <a href="/the-players-manual-to-smoother-faster-playthroughs-in-fall-guys/">Read more<span class="seo-reader-text">The Player&#39;s Manual to Smoother, Faster Playthroughs in Fall Guys</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-prevent-age-of-wonders-planetfall-from-crashing-during-gameplay-on-your-computer/">Read more<span class="seo-reader-text">How to Prevent &#39;Age of Wonders: Planetfall&#39; From Crashing During Gameplay on Your Computer</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -779,21 +836,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/diagnose-and-fix-incompatible-version-problems-when-playing-valheim-on-windows/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/b1a9c7a0993599ed99b0e206dce7f79b24d1d48116a23a6228f84489d96e11c6.jpg" alt="Diagnose &amp; Fix &#39;Incompatible Version&#39; Problems When Playing Valheim on Windows" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/ultimate-fixes-for-stuttering-in-half-life-alyx-boost-your-gaming-pcs-performance-now/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/63d0193e0fa009273c448c859b93e6725b6f99b3ee60a88ba18b85321387d187.jpg" alt="Ultimate Fixes for Stuttering in Half-Life: Alyx - Boost Your Gaming PC&#39;s Performance Now" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/diagnose-and-fix-incompatible-version-problems-when-playing-valheim-on-windows/">
-                            Diagnose &amp; Fix &#39;Incompatible Version&#39; Problems When Playing Valheim on Windows
+                        <a href="/ultimate-fixes-for-stuttering-in-half-life-alyx-boost-your-gaming-pcs-performance-now/">
+                            Ultimate Fixes for Stuttering in Half-Life: Alyx - Boost Your Gaming PC&#39;s Performance Now
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Diagnose &amp; Fix ‘Incompatible Version’ Problems When Playing Valheim on Windows</p>
+                            <p>This Article Describes Ultimate Fixes for Stuttering in Half-Life: Alyx - Boost Your Gaming PC’s Performance Now</p>
 
                         
                     </div>
@@ -801,9 +858,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Aug 28 2024 06:31:46 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 23:27:35 GMT+0800">
                 
-                    2024-08-28
+                    2024-09-05
                 
             </span>
         </span>
@@ -849,7 +906,7 @@
         
     </div>
 
-    <a href="/diagnose-and-fix-incompatible-version-problems-when-playing-valheim-on-windows/">Read more<span class="seo-reader-text">Diagnose &amp; Fix &#39;Incompatible Version&#39; Problems When Playing Valheim on Windows</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/ultimate-fixes-for-stuttering-in-half-life-alyx-boost-your-gaming-pcs-performance-now/">Read more<span class="seo-reader-text">Ultimate Fixes for Stuttering in Half-Life: Alyx - Boost Your Gaming PC&#39;s Performance Now</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -865,21 +922,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/elevate-your-battles-6-essential-tweaks-to-combat-stuttering-and-reduce-fps-drops-in-elden-ring/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01cdf2619fb3c06685fc0972f.jpg" alt="Elevate Your Battles: 6 Essential Tweaks to Combat Stuttering &amp; Reduce FPS Drops in Elden Ring" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/ultimate-troubleshooting-solving-fifa-21-pc-crashes-a-step-by-step-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/8ab6ea565c08148258cccefd3c4e69bde02c4b3dbfe57b65bd55e5629cfc57b6.jpg" alt="Ultimate Troubleshooting: Solving FIFA 21 PC Crashes – A Step-by-Step Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/elevate-your-battles-6-essential-tweaks-to-combat-stuttering-and-reduce-fps-drops-in-elden-ring/">
-                            Elevate Your Battles: 6 Essential Tweaks to Combat Stuttering &amp; Reduce FPS Drops in Elden Ring
+                        <a href="/ultimate-troubleshooting-solving-fifa-21-pc-crashes-a-step-by-step-guide/">
+                            Ultimate Troubleshooting: Solving FIFA 21 PC Crashes – A Step-by-Step Guide
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Elevate Your Battles: 6 Essential Tweaks to Combat Stuttering &amp; Reduce FPS Drops in Elden Ring</p>
+                            <p>This Article Describes Ultimate Troubleshooting: Solving FIFA 21 PC Crashes – A Step-by-Step Guide</p>
 
                         
                     </div>
@@ -887,9 +944,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Aug 28 2024 06:31:45 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 23:27:34 GMT+0800">
                 
-                    2024-08-28
+                    2024-09-05
                 
             </span>
         </span>
@@ -935,7 +992,7 @@
         
     </div>
 
-    <a href="/elevate-your-battles-6-essential-tweaks-to-combat-stuttering-and-reduce-fps-drops-in-elden-ring/">Read more<span class="seo-reader-text">Elevate Your Battles: 6 Essential Tweaks to Combat Stuttering &amp; Reduce FPS Drops in Elden Ring</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/ultimate-troubleshooting-solving-fifa-21-pc-crashes-a-step-by-step-guide/">Read more<span class="seo-reader-text">Ultimate Troubleshooting: Solving FIFA 21 PC Crashes – A Step-by-Step Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -951,21 +1008,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/overcoming-the-hurdle-detailed-guide-when-google-chrome-fails-to-open-up/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/98a99e3eeb7551ca233212f1d8efc0e3f75521feec7e96aa9478cde7f5ee2f72.jpg" alt="Overcoming the Hurdle: Detailed Guide When Google Chrome Fails to Open Up" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-overcome-lost-ark-errors-and-reconnect-successfully/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/b1b8ad1f82349ebf2764ddbc134fc39036adf7776e409dbc4a59416ae2925dba.jpg" alt="How to Overcome Lost Ark Errors and Reconnect Successfully" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/overcoming-the-hurdle-detailed-guide-when-google-chrome-fails-to-open-up/">
-                            Overcoming the Hurdle: Detailed Guide When Google Chrome Fails to Open Up
+                        <a href="/how-to-overcome-lost-ark-errors-and-reconnect-successfully/">
+                            How to Overcome Lost Ark Errors and Reconnect Successfully
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Overcoming the Hurdle: Detailed Guide When Google Chrome Fails to Open Up</p>
+                            <p>This Article Describes How to Overcome Lost Ark Errors and Reconnect Successfully</p>
 
                         
                     </div>
@@ -973,9 +1030,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Aug 28 2024 06:31:44 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 23:27:32 GMT+0800">
                 
-                    2024-08-28
+                    2024-09-05
                 
             </span>
         </span>
@@ -1021,7 +1078,7 @@
         
     </div>
 
-    <a href="/overcoming-the-hurdle-detailed-guide-when-google-chrome-fails-to-open-up/">Read more<span class="seo-reader-text">Overcoming the Hurdle: Detailed Guide When Google Chrome Fails to Open Up</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-overcome-lost-ark-errors-and-reconnect-successfully/">Read more<span class="seo-reader-text">How to Overcome Lost Ark Errors and Reconnect Successfully</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1037,21 +1094,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/avoid-game-disruption-essential-fixes-for-rocket-league-continuous-crashes/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/0004bab4ed76fb3b0e7b5e78faee5c8cd34739a5594338591ba06831ec971383.jpg" alt="Avoid Game Disruption: Essential Fixes for Rocket League Continuous Crashes" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/ultimate-guide-solving-fortnites-pogo-sticking-issues/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/81ce373281fd9aff14dae5d82f0fff51572cdd8c291988609733f2ca1401739f.jpg" alt="Ultimate Guide: Solving Fortnite&#39;s Pogo Sticking Issues" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/avoid-game-disruption-essential-fixes-for-rocket-league-continuous-crashes/">
-                            Avoid Game Disruption: Essential Fixes for Rocket League Continuous Crashes
+                        <a href="/ultimate-guide-solving-fortnites-pogo-sticking-issues/">
+                            Ultimate Guide: Solving Fortnite&#39;s Pogo Sticking Issues
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Avoid Game Disruption: Essential Fixes for Rocket League Continuous Crashes</p>
+                            <p>This Article Describes Ultimate Guide: Solving Fortnite’s Pogo Sticking Issues</p>
 
                         
                     </div>
@@ -1059,9 +1116,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Aug 28 2024 06:31:42 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 23:27:31 GMT+0800">
                 
-                    2024-08-28
+                    2024-09-05
                 
             </span>
         </span>
@@ -1107,7 +1164,7 @@
         
     </div>
 
-    <a href="/avoid-game-disruption-essential-fixes-for-rocket-league-continuous-crashes/">Read more<span class="seo-reader-text">Avoid Game Disruption: Essential Fixes for Rocket League Continuous Crashes</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/ultimate-guide-solving-fortnites-pogo-sticking-issues/">Read more<span class="seo-reader-text">Ultimate Guide: Solving Fortnite&#39;s Pogo Sticking Issues</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1123,21 +1180,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/left-dead-2-stability-solutions-overcoming-game-crash-issues-successfully/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f7257579ffa960f9e7a085032e4b04.png" alt="Left √Dead 2 Stability Solutions - Overcoming Game Crash Issues Successfully" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/resolved-black-ops-cold-war-interface-mistake-code-27711/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/c1f2394a481b4500340195e3c4792344b150afff1dec50e97267f5b7542797ed.jpeg" alt="Resolved: Black Ops Cold War Interface Mistake - Code 27711" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/left-dead-2-stability-solutions-overcoming-game-crash-issues-successfully/">
-                            Left √Dead 2 Stability Solutions - Overcoming Game Crash Issues Successfully
+                        <a href="/resolved-black-ops-cold-war-interface-mistake-code-27711/">
+                            Resolved: Black Ops Cold War Interface Mistake - Code 27711
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Left √Dead 2 Stability Solutions - Overcoming Game Crash Issues Successfully</p>
+                            <p>This Article Describes Resolved: Black Ops Cold War Interface Mistake - Code 27711</p>
 
                         
                     </div>
@@ -1145,9 +1202,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Aug 28 2024 06:31:41 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 23:27:30 GMT+0800">
                 
-                    2024-08-28
+                    2024-09-05
                 
             </span>
         </span>
@@ -1193,7 +1250,7 @@
         
     </div>
 
-    <a href="/left-dead-2-stability-solutions-overcoming-game-crash-issues-successfully/">Read more<span class="seo-reader-text">Left √Dead 2 Stability Solutions - Overcoming Game Crash Issues Successfully</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/resolved-black-ops-cold-war-interface-mistake-code-27711/">Read more<span class="seo-reader-text">Resolved: Black Ops Cold War Interface Mistake - Code 27711</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1209,21 +1266,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/discord-display-error-resolving-the-blackout-when-sharing-your-screen/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg" alt="Discord Display Error - Resolving the Blackout When Sharing Your Screen" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/improving-graphics-quality-fixes-for-blurry-screenshots-from-cod-warzone-on-pc/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/8710795f69b6885ee183c5bcebd20dd5644a88070a4884d479fae689522aa348.jpg" alt="Improving Graphics Quality: Fixes for Blurry Screenshots From COD: Warzone on PC" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/discord-display-error-resolving-the-blackout-when-sharing-your-screen/">
-                            Discord Display Error - Resolving the Blackout When Sharing Your Screen
+                        <a href="/improving-graphics-quality-fixes-for-blurry-screenshots-from-cod-warzone-on-pc/">
+                            Improving Graphics Quality: Fixes for Blurry Screenshots From COD: Warzone on PC
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Discord Display Error - Resolving the Blackout When Sharing Your Screen</p>
+                            <p>This Article Describes Improving Graphics Quality: Fixes for Blurry Screenshots From COD: Warzone on PC</p>
 
                         
                     </div>
@@ -1231,9 +1288,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Aug 28 2024 06:31:39 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 23:27:29 GMT+0800">
                 
-                    2024-08-28
+                    2024-09-05
                 
             </span>
         </span>
@@ -1279,7 +1336,7 @@
         
     </div>
 
-    <a href="/discord-display-error-resolving-the-blackout-when-sharing-your-screen/">Read more<span class="seo-reader-text">Discord Display Error - Resolving the Blackout When Sharing Your Screen</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/improving-graphics-quality-fixes-for-blurry-screenshots-from-cod-warzone-on-pc/">Read more<span class="seo-reader-text">Improving Graphics Quality: Fixes for Blurry Screenshots From COD: Warzone on PC</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1295,21 +1352,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/cortana-stalled-uncover-the-top-reasons-and-solutions-to-reactivate-it-now/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/97bc8f701c5a50640871957d35ec4f8e16308c84bcc3926e5048675a7dfb62d5.png" alt="Cortana Stalled? Uncover the Top Reasons &amp; Solutions to Reactivate It Now" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/improve-dayz-gameplay-quick-solutions-to-enhance-fps-efficiently/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/496184fd4152c46b6485f793c6a0f28b5d68db1c23dbf863c4ec7017ec6de406.jpg" alt="Improve DayZ Gameplay: Quick Solutions to Enhance FPS Efficiently" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/cortana-stalled-uncover-the-top-reasons-and-solutions-to-reactivate-it-now/">
-                            Cortana Stalled? Uncover the Top Reasons &amp; Solutions to Reactivate It Now
+                        <a href="/improve-dayz-gameplay-quick-solutions-to-enhance-fps-efficiently/">
+                            Improve DayZ Gameplay: Quick Solutions to Enhance FPS Efficiently
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Cortana Stalled? Uncover the Top Reasons &amp; Solutions to Reactivate It Now</p>
+                            <p>This Article Describes Improve DayZ Gameplay: Quick Solutions to Enhance FPS Efficiently</p>
 
                         
                     </div>
@@ -1317,9 +1374,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Aug 28 2024 06:31:38 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 23:27:27 GMT+0800">
                 
-                    2024-08-28
+                    2024-09-05
                 
             </span>
         </span>
@@ -1365,7 +1422,7 @@
         
     </div>
 
-    <a href="/cortana-stalled-uncover-the-top-reasons-and-solutions-to-reactivate-it-now/">Read more<span class="seo-reader-text">Cortana Stalled? Uncover the Top Reasons &amp; Solutions to Reactivate It Now</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/improve-dayz-gameplay-quick-solutions-to-enhance-fps-efficiently/">Read more<span class="seo-reader-text">Improve DayZ Gameplay: Quick Solutions to Enhance FPS Efficiently</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1381,21 +1438,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/yakuza-like-a-dragon-triumphantly-debuts-on-pc-platform/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/9b8cd7a1defe234b7c5e19ea975a65111eb68a7f947172e793fdb9bfe98621fe.jpg" alt="Yakuza: Like a Dragon Triumphantly Debuts on PC Platform" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-and-solving-forza-horizon-4-crashes-on-windows-computers/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/5f9bdb089a72cbfbce20351e13d8c69867a47335c73b8710c5509727c5e15028.jpg" alt="Troubleshooting and Solving Forza Horizon 4 Crashes on Windows Computers" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/yakuza-like-a-dragon-triumphantly-debuts-on-pc-platform/">
-                            Yakuza: Like a Dragon Triumphantly Debuts on PC Platform
+                        <a href="/troubleshooting-and-solving-forza-horizon-4-crashes-on-windows-computers/">
+                            Troubleshooting and Solving Forza Horizon 4 Crashes on Windows Computers
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Yakuza: Like a Dragon Triumphantly Debuts on PC Platform</p>
+                            <p>This Article Describes Troubleshooting and Solving Forza Horizon 4 Crashes on Windows Computers</p>
 
                         
                     </div>
@@ -1403,9 +1460,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Aug 28 2024 06:31:37 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 23:27:26 GMT+0800">
                 
-                    2024-08-28
+                    2024-09-05
                 
             </span>
         </span>
@@ -1451,7 +1508,7 @@
         
     </div>
 
-    <a href="/yakuza-like-a-dragon-triumphantly-debuts-on-pc-platform/">Read more<span class="seo-reader-text">Yakuza: Like a Dragon Triumphantly Debuts on PC Platform</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-and-solving-forza-horizon-4-crashes-on-windows-computers/">Read more<span class="seo-reader-text">Troubleshooting and Solving Forza Horizon 4 Crashes on Windows Computers</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1467,21 +1524,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/fixing-code-vein-pc-crashes-ultimate-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/a8e40efb5006e13aebe28791d59e1421fc71b918bf8b721d0c966b909b393e53.png" alt="Fixing &#39;Code Vein&#39; PC Crashes: Ultimate Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-guide-how-to-resolve-issues-with-non-functional-thaumaturge-feature/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/90c2e01727fc918de7950373ab7790d2b6bd79b92f560dcc1472e9356e8fe972.png" alt="Troubleshooting Guide: How to Resolve Issues with Non-Functional Thaumaturge Feature" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/fixing-code-vein-pc-crashes-ultimate-guide/">
-                            Fixing &#39;Code Vein&#39; PC Crashes: Ultimate Guide
+                        <a href="/troubleshooting-guide-how-to-resolve-issues-with-non-functional-thaumaturge-feature/">
+                            Troubleshooting Guide: How to Resolve Issues with Non-Functional Thaumaturge Feature
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Fixing ‘Code Vein’ PC Crashes: Ultimate Guide</p>
+                            <p>This Article Describes Troubleshooting Guide: How to Resolve Issues with Non-Functional Thaumaturge Feature</p>
 
                         
                     </div>
@@ -1489,9 +1546,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Aug 28 2024 06:31:35 GMT+0800">
+            <span class="home-article-date" data-date="Thu Sep 05 2024 23:27:25 GMT+0800">
                 
-                    2024-08-28
+                    2024-09-05
                 
             </span>
         </span>
@@ -1537,7 +1594,7 @@
         
     </div>
 
-    <a href="/fixing-code-vein-pc-crashes-ultimate-guide/">Read more<span class="seo-reader-text">Fixing &#39;Code Vein&#39; PC Crashes: Ultimate Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-guide-how-to-resolve-issues-with-non-functional-thaumaturge-feature/">Read more<span class="seo-reader-text">Troubleshooting Guide: How to Resolve Issues with Non-Functional Thaumaturge Feature</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1547,7 +1604,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/143/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/142/">142</a><a class="page-number" href="/page/143/">143</a><span class="page-number current">144</span><a class="page-number" href="/page/145/">145</a><a class="page-number" href="/page/146/">146</a><span class="space">&hellip;</span><a class="page-number" href="/page/877/">877</a><a class="extend next" rel="next" href="/page/145/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/143/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/142/">142</a><a class="page-number" href="/page/143/">143</a><span class="page-number current">144</span><a class="page-number" href="/page/145/">145</a><a class="page-number" href="/page/146/">146</a><span class="space">&hellip;</span><a class="page-number" href="/page/977/">977</a><a class="extend next" rel="next" href="/page/145/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"program-issues.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8770</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9767</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8770</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9767</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/easy-fix-guide-dealing-with-persistent-content-warning-crashes-on-personal-computers/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/5070ff282ccb187d0c91a9e169ae0c941c19518a9f8408e2327a12770828cd7d.jpg" alt="Easy Fix Guide: Dealing with Persistent Content Warning Crashes on Personal Computers" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-guide-for-life-is-strange-true-colors-eliminate-crashes/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/5584d777e110cbdbb48713bd82133ccfd2417ed4baa291781cd47c73ffc42e1f.jpeg" alt="Troubleshooting Guide for Life Is Strange: True Colors - Eliminate Crashes" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/easy-fix-guide-dealing-with-persistent-content-warning-crashes-on-personal-computers/">
-                            Easy Fix Guide: Dealing with Persistent Content Warning Crashes on Personal Computers
+                        <a href="/troubleshooting-guide-for-life-is-strange-true-colors-eliminate-crashes/">
+                            Troubleshooting Guide for Life Is Strange: True Colors - Eliminate Crashes
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Easy Fix Guide: Dealing with Persistent Content Warning Crashes on Personal Computers</p>
+                            <p>This Article Describes Troubleshooting Guide for Life Is Strange: True Colors - Eliminate Crashes</p>
 
                         
                     </div>
@@ -715,9 +772,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 06 2024 09:47:54 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 16:48:41 GMT+0800">
                 
-                    2024-08-06
+                    2024-08-19
                 
             </span>
         </span>
@@ -763,7 +820,7 @@
         
     </div>
 
-    <a href="/easy-fix-guide-dealing-with-persistent-content-warning-crashes-on-personal-computers/">Read more<span class="seo-reader-text">Easy Fix Guide: Dealing with Persistent Content Warning Crashes on Personal Computers</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-guide-for-life-is-strange-true-colors-eliminate-crashes/">Read more<span class="seo-reader-text">Troubleshooting Guide for Life Is Strange: True Colors - Eliminate Crashes</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -779,21 +836,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/fix-for-call-of-duty-vanguards-notorious-error-5573-explained/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/f29f99d4419c1c54f223ae0fe4e25f224aa2e0b29936958ff74ebecc1f44d1d0.png" alt="Fix for Call of Duty Vanguard&#39;s Notorious Error 5573 Explained" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/banish-black-screen-issues-in-fallout-4-effective-solutions-inside/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/97473d93769b74152c0b0b04df270598f5aded17925dea70fd12d869a1bbc744.jpg" alt="Banish Black Screen Issues in Fallout 4: Effective Solutions Inside" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/fix-for-call-of-duty-vanguards-notorious-error-5573-explained/">
-                            Fix for Call of Duty Vanguard&#39;s Notorious Error 5573 Explained
+                        <a href="/banish-black-screen-issues-in-fallout-4-effective-solutions-inside/">
+                            Banish Black Screen Issues in Fallout 4: Effective Solutions Inside
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Fix for Call of Duty Vanguard’s Notorious Error 5573 Explained</p>
+                            <p>This Article Describes Banish Black Screen Issues in Fallout 4: Effective Solutions Inside</p>
 
                         
                     </div>
@@ -801,9 +858,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 06 2024 09:47:54 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 16:48:40 GMT+0800">
                 
-                    2024-08-06
+                    2024-08-19
                 
             </span>
         </span>
@@ -849,7 +906,7 @@
         
     </div>
 
-    <a href="/fix-for-call-of-duty-vanguards-notorious-error-5573-explained/">Read more<span class="seo-reader-text">Fix for Call of Duty Vanguard&#39;s Notorious Error 5573 Explained</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/banish-black-screen-issues-in-fallout-4-effective-solutions-inside/">Read more<span class="seo-reader-text">Banish Black Screen Issues in Fallout 4: Effective Solutions Inside</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -865,21 +922,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/step-by-step-guide-to-correcting-black-screen-error-in-star-wars-battlefront-ii-gameplay/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/91715213b833560df5357cf6515828851bc7618f2025585b01b64f73f1ad8f14.jpg" alt="Step-by-Step Guide to Correcting Black Screen Error in Star Wars Battlefront II Gameplay" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-resident-evil-villages-pc-black-screen-problem/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/2fabafc66fe8d6c738eceaf2d94bef9969abb79ce6dfc7f79cdd9561a56a5238.jpg" alt="Troubleshooting Resident Evil Village&#39;s PC Black Screen Problem" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/step-by-step-guide-to-correcting-black-screen-error-in-star-wars-battlefront-ii-gameplay/">
-                            Step-by-Step Guide to Correcting Black Screen Error in Star Wars Battlefront II Gameplay
+                        <a href="/troubleshooting-resident-evil-villages-pc-black-screen-problem/">
+                            Troubleshooting Resident Evil Village&#39;s PC Black Screen Problem
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Step-by-Step Guide to Correcting Black Screen Error in Star Wars Battlefront II Gameplay</p>
+                            <p>This Article Describes Troubleshooting Resident Evil Village’s PC Black Screen Problem</p>
 
                         
                     </div>
@@ -887,9 +944,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 06 2024 09:47:54 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 16:48:39 GMT+0800">
                 
-                    2024-08-06
+                    2024-08-19
                 
             </span>
         </span>
@@ -935,7 +992,7 @@
         
     </div>
 
-    <a href="/step-by-step-guide-to-correcting-black-screen-error-in-star-wars-battlefront-ii-gameplay/">Read more<span class="seo-reader-text">Step-by-Step Guide to Correcting Black Screen Error in Star Wars Battlefront II Gameplay</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-resident-evil-villages-pc-black-screen-problem/">Read more<span class="seo-reader-text">Troubleshooting Resident Evil Village&#39;s PC Black Screen Problem</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -951,21 +1008,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/overcome-window-woes-with-our-guide-troubleshooting-call-of-duty-wwiis-dark-screens/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/6462de374e4f489455f584c5102443a7cb28c7609933729fa2bbdde0fb2df507.jpg" alt="Overcome Window Woes with Our Guide: Troubleshooting Call of Duty: WWII&#39;s Dark Screens" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/ultimate-guide-solving-the-final-epoch-bug-in-windows-computers/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/bab43c6ebbd68c7b02aa8931b44c8b3c5cf156c7a7bd1aa24fbe3ea34de877b1.jpg" alt="Ultimate Guide: Solving the Final Epoch Bug in Windows Computers" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/overcome-window-woes-with-our-guide-troubleshooting-call-of-duty-wwiis-dark-screens/">
-                            Overcome Window Woes with Our Guide: Troubleshooting Call of Duty: WWII&#39;s Dark Screens
+                        <a href="/ultimate-guide-solving-the-final-epoch-bug-in-windows-computers/">
+                            Ultimate Guide: Solving the Final Epoch Bug in Windows Computers
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Overcome Window Woes with Our Guide: Troubleshooting Call of Duty: WWII’s Dark Screens</p>
+                            <p>This Article Describes Ultimate Guide: Solving the Final Epoch Bug in Windows Computers</p>
 
                         
                     </div>
@@ -973,9 +1030,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 06 2024 09:47:54 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 16:48:38 GMT+0800">
                 
-                    2024-08-06
+                    2024-08-19
                 
             </span>
         </span>
@@ -1021,7 +1078,7 @@
         
     </div>
 
-    <a href="/overcome-window-woes-with-our-guide-troubleshooting-call-of-duty-wwiis-dark-screens/">Read more<span class="seo-reader-text">Overcome Window Woes with Our Guide: Troubleshooting Call of Duty: WWII&#39;s Dark Screens</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/ultimate-guide-solving-the-final-epoch-bug-in-windows-computers/">Read more<span class="seo-reader-text">Ultimate Guide: Solving the Final Epoch Bug in Windows Computers</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1037,21 +1094,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/game-not-starting-step-by-step-steps-to-confirm-integrity-of-your-gaming-files/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea0848996089325ea48fd7dd51fd22.jpg" alt="Game Not Starting? Step-by-Step Steps to Confirm Integrity of Your Gaming Files" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/dragon-age-origins-windows-11-crashes-now-fixed-enjoy-seamless-gaming-experience/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/ce6c03f084faa6d28f397065c83acb50be7be1ae3bde8fc728fb219e33b59c83.jpeg" alt="Dragon Age: Origins - Windows 11 Crashes Now Fixed, Enjoy Seamless Gaming Experience" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/game-not-starting-step-by-step-steps-to-confirm-integrity-of-your-gaming-files/">
-                            Game Not Starting? Step-by-Step Steps to Confirm Integrity of Your Gaming Files
+                        <a href="/dragon-age-origins-windows-11-crashes-now-fixed-enjoy-seamless-gaming-experience/">
+                            Dragon Age: Origins - Windows 11 Crashes Now Fixed, Enjoy Seamless Gaming Experience
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Game Not Starting? Step-by-Step Steps to Confirm Integrity of Your Gaming Files</p>
+                            <p>This Article Describes Dragon Age: Origins - Windows 11 Crashes Now Fixed, Enjoy Seamless Gaming Experience</p>
 
                         
                     </div>
@@ -1059,9 +1116,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 06 2024 09:47:54 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 16:48:37 GMT+0800">
                 
-                    2024-08-06
+                    2024-08-19
                 
             </span>
         </span>
@@ -1107,7 +1164,7 @@
         
     </div>
 
-    <a href="/game-not-starting-step-by-step-steps-to-confirm-integrity-of-your-gaming-files/">Read more<span class="seo-reader-text">Game Not Starting? Step-by-Step Steps to Confirm Integrity of Your Gaming Files</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/dragon-age-origins-windows-11-crashes-now-fixed-enjoy-seamless-gaming-experience/">Read more<span class="seo-reader-text">Dragon Age: Origins - Windows 11 Crashes Now Fixed, Enjoy Seamless Gaming Experience</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1123,21 +1180,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/1723009161830-why-was-there-a-delay-in-releasing-immortals-fenyx-rising-resolved/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/b60c76ffc589ae0e04ed8d9626d309109b105480cf9bd2a5898ac2cac1fa41f0.jpg" alt="Why Was There a Delay in Releasing Immortals: Fenyx Rising? Resolved!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/resolving-issues-final-fantasy-xv-pc-game-crashes-solutions-inside/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/831f2f90478586ac086abfd43f6d32639656f49a2d8163ca6c49196e0614246e.jpg" alt="Resolving Issues: Final Fantasy XV PC Game Crashes - Solutions Inside" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/1723009161830-why-was-there-a-delay-in-releasing-immortals-fenyx-rising-resolved/">
-                            Why Was There a Delay in Releasing Immortals: Fenyx Rising? Resolved!
+                        <a href="/resolving-issues-final-fantasy-xv-pc-game-crashes-solutions-inside/">
+                            Resolving Issues: Final Fantasy XV PC Game Crashes - Solutions Inside
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Why Was There a Delay in Releasing Immortals: Fenyx Rising? Resolved!</p>
+                            <p>This Article Describes Resolving Issues: Final Fantasy XV PC Game Crashes - Solutions Inside</p>
 
                         
                     </div>
@@ -1145,9 +1202,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 06 2024 09:47:53 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 16:48:36 GMT+0800">
                 
-                    2024-08-06
+                    2024-08-19
                 
             </span>
         </span>
@@ -1193,7 +1250,7 @@
         
     </div>
 
-    <a href="/1723009161830-why-was-there-a-delay-in-releasing-immortals-fenyx-rising-resolved/">Read more<span class="seo-reader-text">Why Was There a Delay in Releasing Immortals: Fenyx Rising? Resolved!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/resolving-issues-final-fantasy-xv-pc-game-crashes-solutions-inside/">Read more<span class="seo-reader-text">Resolving Issues: Final Fantasy XV PC Game Crashes - Solutions Inside</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1209,21 +1266,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/1723014147465-diablo-immortal-stability-issues-on-pc-heres-the-ultimate-fix/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c9a3e1b7624a8f2d1d718fa1.jpg" alt="Diablo Immortal Stability Issues on PC? Here&#39;s the Ultimate Fix !" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/fix-it-how-to-successfully-install-and-play-payday-2-on-your-computer/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/1fd97819f96aea4d97e8ac4ff57edab197b6c14d91b0c90b63f17b606d1e7ada.jpg" alt="Fix It! How to Successfully Install and Play Payday 2 on Your Computer" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/1723014147465-diablo-immortal-stability-issues-on-pc-heres-the-ultimate-fix/">
-                            Diablo Immortal Stability Issues on PC? Here&#39;s the Ultimate Fix !
+                        <a href="/fix-it-how-to-successfully-install-and-play-payday-2-on-your-computer/">
+                            Fix It! How to Successfully Install and Play Payday 2 on Your Computer
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Diablo Immortal Stability Issues on PC? Here’s the Ultimate Fix !</p>
+                            <p>This Article Describes Fix It! How to Successfully Install and Play Payday 2 on Your Computer</p>
 
                         
                     </div>
@@ -1231,9 +1288,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 06 2024 09:47:53 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 16:48:35 GMT+0800">
                 
-                    2024-08-06
+                    2024-08-19
                 
             </span>
         </span>
@@ -1279,7 +1336,7 @@
         
     </div>
 
-    <a href="/1723014147465-diablo-immortal-stability-issues-on-pc-heres-the-ultimate-fix/">Read more<span class="seo-reader-text">Diablo Immortal Stability Issues on PC? Here&#39;s the Ultimate Fix !</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/fix-it-how-to-successfully-install-and-play-payday-2-on-your-computer/">Read more<span class="seo-reader-text">Fix It! How to Successfully Install and Play Payday 2 on Your Computer</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1295,21 +1352,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/improving-performance-and-increasing-fps-in-the-world-of-tainted-grail-conquest/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc6fdf0b1b999475eb2576da4.jpg" alt="Improving Performance &amp; Increasing FPS in the World of Tainted Grail: Conquest" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1722996300933-pc-players-rejoice-as-tormented-souls-crashes-resolved/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/36f771b0e455ffd27a9b597a4a43e9338a94fa4efcb33fd8811a101c2c676422.png" alt="PC Players Rejoice as Tormented Souls Crashes Resolved!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/improving-performance-and-increasing-fps-in-the-world-of-tainted-grail-conquest/">
-                            Improving Performance &amp; Increasing FPS in the World of Tainted Grail: Conquest
+                        <a href="/1722996300933-pc-players-rejoice-as-tormented-souls-crashes-resolved/">
+                            PC Players Rejoice as Tormented Souls Crashes Resolved!
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Improving Performance &amp; Increasing FPS in the World of Tainted Grail: Conquest</p>
+                            <p>This Article Describes PC Players Rejoice as Tormented Souls Crashes Resolved!</p>
 
                         
                     </div>
@@ -1317,9 +1374,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 06 2024 09:47:53 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 16:48:34 GMT+0800">
                 
-                    2024-08-06
+                    2024-08-19
                 
             </span>
         </span>
@@ -1365,7 +1422,7 @@
         
     </div>
 
-    <a href="/improving-performance-and-increasing-fps-in-the-world-of-tainted-grail-conquest/">Read more<span class="seo-reader-text">Improving Performance &amp; Increasing FPS in the World of Tainted Grail: Conquest</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1722996300933-pc-players-rejoice-as-tormented-souls-crashes-resolved/">Read more<span class="seo-reader-text">PC Players Rejoice as Tormented Souls Crashes Resolved!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1381,21 +1438,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/guide-to-overcoming-startup-problems-for-saints-row-on-personal-computers/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/0e3820d1cc459c1675907e5894236de62a82183359872714a0c5168c962bf67b.jpg" alt="Guide to Overcoming Startup Problems for Saints Row on Personal Computers" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/busting-the-blockade-expert-guidance-to-stop-your-pcs-last-epoch-from-stalling/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/ffb0273089dad909d1970227a2adf2a6505fbce5d7b047cb362f211ef1496185.jpg" alt="Busting the Blockade: Expert Guidance to Stop Your PC&#39;s Last Epoch From Stalling" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/guide-to-overcoming-startup-problems-for-saints-row-on-personal-computers/">
-                            Guide to Overcoming Startup Problems for Saints Row on Personal Computers
+                        <a href="/busting-the-blockade-expert-guidance-to-stop-your-pcs-last-epoch-from-stalling/">
+                            Busting the Blockade: Expert Guidance to Stop Your PC&#39;s Last Epoch From Stalling
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Guide to Overcoming Startup Problems for Saints Row on Personal Computers</p>
+                            <p>This Article Describes Busting the Blockade: Expert Guidance to Stop Your PC’s Last Epoch From Stalling</p>
 
                         
                     </div>
@@ -1403,9 +1460,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 06 2024 09:47:53 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 16:48:33 GMT+0800">
                 
-                    2024-08-06
+                    2024-08-19
                 
             </span>
         </span>
@@ -1451,7 +1508,7 @@
         
     </div>
 
-    <a href="/guide-to-overcoming-startup-problems-for-saints-row-on-personal-computers/">Read more<span class="seo-reader-text">Guide to Overcoming Startup Problems for Saints Row on Personal Computers</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/busting-the-blockade-expert-guidance-to-stop-your-pcs-last-epoch-from-stalling/">Read more<span class="seo-reader-text">Busting the Blockade: Expert Guidance to Stop Your PC&#39;s Last Epoch From Stalling</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1467,21 +1524,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/resolving-valheim-wont-launch-at-startup-glitches-in-the-newest-update-of-2024/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/40c676885a2dc616461b86984d2bb33aa0260b3072dcf3b79b657b93df0cfe34.jpg" alt="Resolving &#39;Valheim Won&#39;t Launch at Startup&#39; Glitches in the Newest Update of 2024" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/6-proven-ways-to-fix-terraria-lost-connection/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/ac33af15cf041579bc397dccd8c499357fad1f59b7dfcfb6600bfa088b9589e3.jpg" alt="6 Proven Ways to Fix Terraria Lost Connection" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/resolving-valheim-wont-launch-at-startup-glitches-in-the-newest-update-of-2024/">
-                            Resolving &#39;Valheim Won&#39;t Launch at Startup&#39; Glitches in the Newest Update of 2024
+                        <a href="/6-proven-ways-to-fix-terraria-lost-connection/">
+                            6 Proven Ways to Fix Terraria Lost Connection
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Resolving ‘Valheim Won’t Launch at Startup’ Glitches in the Newest Update of 2024</p>
+                            <p>This Article Describes 6 Proven Ways to Fix Terraria Lost Connection</p>
 
                         
                     </div>
@@ -1489,9 +1546,9 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 06 2024 09:47:53 GMT+0800">
+            <span class="home-article-date" data-date="Mon Aug 19 2024 16:48:31 GMT+0800">
                 
-                    2024-08-06
+                    2024-08-19
                 
             </span>
         </span>
@@ -1537,7 +1594,7 @@
         
     </div>
 
-    <a href="/resolving-valheim-wont-launch-at-startup-glitches-in-the-newest-update-of-2024/">Read more<span class="seo-reader-text">Resolving &#39;Valheim Won&#39;t Launch at Startup&#39; Glitches in the Newest Update of 2024</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/6-proven-ways-to-fix-terraria-lost-connection/">Read more<span class="seo-reader-text">6 Proven Ways to Fix Terraria Lost Connection</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1547,7 +1604,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/502/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/501/">501</a><a class="page-number" href="/page/502/">502</a><span class="page-number current">503</span><a class="page-number" href="/page/504/">504</a><a class="page-number" href="/page/505/">505</a><span class="space">&hellip;</span><a class="page-number" href="/page/877/">877</a><a class="extend next" rel="next" href="/page/504/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/502/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/501/">501</a><a class="page-number" href="/page/502/">502</a><span class="page-number current">503</span><a class="page-number" href="/page/504/">504</a><a class="page-number" href="/page/505/">505</a><span class="space">&hellip;</span><a class="page-number" href="/page/977/">977</a><a class="extend next" rel="next" href="/page/504/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

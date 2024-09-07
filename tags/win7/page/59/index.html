@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"program-issues.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -591,7 +648,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">8770</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9767</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -629,74 +686,74 @@
               
                 
                     
-                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='09-01'>
+                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='09-05'>
                 
                     
-                        <a href="/1722995890358-deciphering-silent-dungeons-solutions-for-sound-problems-in-skyrim/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Deciphering Silent Dungeons: Solutions for Sound Problems in Skyrim.</span>
+                        <a href="/fixing-the-issue-why-does-mount-and-blade-ii-bannerlord-keep-crashing/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Fixing the Issue: Why Does Mount &amp; Blade II: Bannerlord Keep Crashing?</span>
                         </a>
                     
               
                 
                     
-                        <a href="/effortless-fixes-to-tackle-discord-javascripter-bugs/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Effortless Fixes to Tackle Discord JavaScripter Bugs</span>
+                        <a href="/optimizing-performance-fixing-issues-with-new-pokemon-unite-game-crashes-on-desktop-pcs/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Optimizing Performance - Fixing Issues with New &#39;Pokémon Unite&#39; Game Crashes on Desktop PCs</span>
                         </a>
                     
               
                 
                     
-                        <a href="/troubleshooting-and-repairing-dota-2-game-crashes-a-comprehensive-guide/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Troubleshooting and Repairing Dota 2 Game Crashes: A Comprehensive Guide</span>
+                        <a href="/mastering-dual-failures-in-pc-usage-effective-strategies-for-resolving-concurrent-crashes/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Mastering Dual Failures in PC Usage - Effective Strategies for Resolving Concurrent Crashes</span>
                         </a>
                     
               
                 
                     
-                        <a href="/solving-house-flipper-2-pc-crash-issues-a-comprehensive-guide/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Solving &#39;House Flipper 2&#39; PC Crash Issues: A Comprehensive Guide</span>
+                        <a href="/success-fix-the-continuous-loading-error-on-your-discord-golive-sessions/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Success! Fix the Continuous &#39;Loading&#39; Error on Your Discord GoLive Sessions</span>
                         </a>
                     
               
                 
                     
-                        <a href="/diy-guide-to-improve-blurry-graphics-in-call-of-duty-warzone-while-gaming-on-pc/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">DIY Guide to Improve Blurry Graphics in Call of Duty: Warzone While Gaming on PC</span>
+                        <a href="/cracked-it-fix-for-continuous-boot-screens-in-red-dead-redemption-ii-gameplay/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Cracked It! Fix for Continuous Boot Screens in Red Dead Redemption II Gameplay</span>
                         </a>
                     
               
                 
                     
-                        <a href="/google-chrome-crash-woes-here-are-effortless-remedies/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Google Chrome Crash Woes? Here Are Effortless Remedies</span>
+                        <a href="/pc-troubleshooting-6-effective-solutions-to-stop-stray-apps-from-crashing/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">PC Troubleshooting: 6 Effective Solutions to Stop &#39;Stray&#39; Apps From Crashing</span>
                         </a>
                     
               
                 
                     
-                        <a href="/banish-the-blues-fixing-continuous-kinect-xbox-f1-2021-pc-game-crashes/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Banish the Blues: Fixing Continuous Kinect Xbox F1 2021 PC Game Crashes</span>
+                        <a href="/resolved-fixes-for-frame-rate-drops-and-freezing-issues-in-call-of-duty-modern-warfare-2-pc/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Resolved: Fixes for Frame Rate Drops &amp; Freezing Issues in Call of Duty: Modern Warfare 2 (PC)</span>
                         </a>
                     
               
                 
                     
-                        <a href="/fixing-oculus-display-problems-updating-your-graphics-card-software/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Fixing Oculus Display Problems - Updating Your Graphics Card Software</span>
+                        <a href="/revamped-ultimate-guide-to-overcoming-the-recent-fnaf-security-glitch-in-your-game-on-pc/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Revamped: Ultimate Guide to Overcoming the Recent &#39;FNAF Security Glitch&#39; In Your Game on PC</span>
                         </a>
                     
               
                 
                     
-                        <a href="/solve-assassins-creed-mirage-crash-issues-expert-fixes-and-tricks/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Solve Assassin&#39;s Creed Mirage Crash Issues | Expert Fixes &amp; Tricks</span>
+                        <a href="/doom-eternal-not-launching-heres-the-fix/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">DOOM Eternal Not Launching? Here’s the Fix</span>
                         </a>
                     
               
                 
                     
-                        <a href="/the-solution-uncovered-bypassing-overwatchs-initial-black-screen-glitch/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">The Solution Uncovered: Bypassing Overwatch&#39;s Initial Black Screen Glitch</span>
+                        <a href="/trouble-with-logitech-g-hub-heres-what-you-need-to-know-about-fixing-it-on-windows/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Trouble with Logitech G Hub? Here&#39;s What You Need to Know About Fixing It on Windows</span>
                         </a>
                     
               
@@ -710,7 +767,7 @@
 
 <div class="tag-paginator">
 	<div class="paginator">
-    <a class="extend prev" rel="prev" href="/tags/win7/page/58/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/tags/win7/">1</a><span class="space">&hellip;</span><a class="page-number" href="/tags/win7/page/57/">57</a><a class="page-number" href="/tags/win7/page/58/">58</a><span class="page-number current">59</span><a class="page-number" href="/tags/win7/page/60/">60</a><a class="page-number" href="/tags/win7/page/61/">61</a><span class="space">&hellip;</span><a class="page-number" href="/tags/win7/page/877/">877</a><a class="extend next" rel="next" href="/tags/win7/page/60/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/tags/win7/page/58/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/tags/win7/">1</a><span class="space">&hellip;</span><a class="page-number" href="/tags/win7/page/57/">57</a><a class="page-number" href="/tags/win7/page/58/">58</a><span class="page-number current">59</span><a class="page-number" href="/tags/win7/page/60/">60</a><a class="page-number" href="/tags/win7/page/61/">61</a><span class="space">&hellip;</span><a class="page-number" href="/tags/win7/page/976/">976</a><a class="extend next" rel="next" href="/tags/win7/page/60/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
 </div>
