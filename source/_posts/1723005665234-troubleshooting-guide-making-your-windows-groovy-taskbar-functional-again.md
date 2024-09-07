@@ -1,0 +1,221 @@
+---
+title: "Troubleshooting Guide: Making Your Windows Groovy Taskbar Functional Again."
+date: 2024-09-05T23:34:57.363Z
+updated: 2024-09-06T23:34:57.363Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Troubleshooting Guide: Making Your Windows Groovy Taskbar Functional Again."
+excerpt: "This Article Describes Troubleshooting Guide: Making Your Windows Groovy Taskbar Functional Again."
+thumbnail: https://thmb.techidaily.com/ce2efe940111a7e6cca801caf2d213cdd3c650dded56c51fea507b1e98fc61ee.jpg
+---
+
+## Troubleshooting Guide: Stop Chivalry II From Crashing Now
+
+There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any progress in the full release. Chivalry 2 is a multiplayer slash and hacked action pack video game, it starts facing criticism due to bugs, glitches, and crashes.  
+ Don’t worry, you’re not the only one. This post is here to help. We gathered some easy fixes to solve the problem.
+
+ Before moving to the fixes, please check your hardware. Your PC needs to meet the minimum requirements of Chivalry 2.
+
+#### Minimum system requirements
+
+| CPU              | Intel Core i3-4370 or similar     |
+| ---------------- | --------------------------------- |
+| RAM              | 8 GB                              |
+| Operating system | Windows 10 64bit                  |
+| GPU              | NVIDIA GeForce GTX 660 or similar |
+| Storage          | 20 GB                             |
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Try these fixes
+
+ You don’t have to try them all; just work your way down the list until you find the one that works for you.
+
+1. [Run as administrator](https://tools.techidaily.com/drivereasy/download/)
+2. [Disable overclocking](https://tools.techidaily.com/drivereasy/download/)
+3. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
+4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
+
+### Fix 1: Run as administrator
+
+ If restarting the game and your PC doesn’t fix the issue, try running the game with admin rights. This will allow the game to use more system resources that might fix the issue. It’s a useful cliché method for most gamers.
+
+1. Right-click on the Chivalry 2 shortcut.
+2. Click the Compatibility tab and check**Run this program as an administrator** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
+3. Relaunch Chivalry 2 to see if it keeps crashing or not.
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+If it’s not working, move to next fix.
+
+### Fix 2: Disable overclocking
+
+ Are you running any OC software like MSI Afterburner? Shut it down. Don’t make your PC overhot is a way to fix the Chivalry 2 crashing problem. Gamers have reported that after underclocked or disable overclocking software, the game stops crashing.
+
+ What’s more, you have to end MSI Afterburner, RivaTuner OSD, and other RGB software on the Task Manager even you’ve turned them off. It’s because they will continue to work and take system resources in the background.
+
+1. Right-click on the Taskbar and click**Task Manager** .
+2. Turn off all unnecessary and resource-heavy applications.
+3. Restart the game and check.
+
+No luck with this one? Move to the next.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 3: Update your drivers
+
+ There will be crashes when you have driver issues. If you’re using an outdated or corrupted driver, crashes or other issues will come to you. However, Windows 10 doesn’t always give you the latest version. There’s a possibility your current graphics card driver isn’t cooperative with Windows 10.
+
+ There are two ways you can update your driver: manually and automatically.
+
+**[Option 1 – Manually](https://tools.techidaily.com/drivereasy/download/)**  – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
+
+OR
+
+**[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/solved-chivalry-2-crash/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
+
+#### **Option 1 –** **Download and install the driver manually**
+
+ You can download graphics drivers from the manufacturer official website. Search for the model you have and find the correct driver that suits your specific operating system. Then download the driver manually.
+
+#### **Option 2 – Automatically update drivers**
+
+ If you don’t have time or patience to manually update your graphics drivers, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the **FREE** or the **Pro** version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a **30-day money back guarantee** ):
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
+3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 4: Disable firewall/ antivirus software
+
+ Chivalry 2 requires players to connect the server to play. If the firewall on your system blocks the way, the game crash would happen. Disable the firewall or antivirus software to see the difference.
+
+ It’s hard for malware to create as critical issues as this one certainly is, but lately, we see several crypto-mining malware hijacking your CPU resources. For that purpose, we advise you to conduct a thorough scan with either Windows Defender or any third-party antivirus you have at your control. Many third-party options will scan your computer and successfully get rid of any malware they find.
+
+1. Press the**Windows logo key + I (i)** together to open**Settings** .
+2. Click **Settings** \> **Update & Security** .  
+![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
+3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+4. Turn settings off in **Microsoft Defender** **Firewall** .
+5. Relaunch the game to see if Chivalry 2 would crash or not.
+
+ If it’s working, whitelist the game into the firewall or antivirus software. Don’t forget to turn on the firewall and your antivirus software.
+
+---
+
+ Well, these are all the fixes for Chivalry 2 crashing issue. We hope you find this guide helpful and can enjoy Chivalry 2 without crashing.
+
+ If you have any doubt or even a suggestion, reach us in the comment section. Enjoy your day.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/irect-music-upload-top-tools-for-turning-spotify-into-youtube-listings/"><u>[New] Direct Music Upload Top Tools for Turning Spotify Into YouTube Listings</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-essential-tips-for-attending-tiktok-live-events/"><u>[Updated] Essential Tips for Attending TikTok Live Events</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-best-cameras-the-creme-de-la-crop-of-mobile-video-recorders/"><u>[Updated] In 2024, Best Cameras The Crème De La Crop of Mobile Video Recorders</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-cutting-edge-webcam-editing-emphasize-focus-not-the-fence/"><u>[Updated] In 2024, Cutting Edge Webcam Editing – Emphasize Focus, Not the Fence</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-navigating-networking-on-linkedin-for-2024/"><u>[Updated] Navigating Networking on LinkedIn for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-ultimate-collection-20-chuckle-inducing-detention-cell-photos-for-a-better-day/"><u>[Updated] Ultimate Collection 20 Chuckle-Inducing Detention Cell Photos for a Better Day</u></a></li>
+<li><a href="https://win-blog.techidaily.com/addressing-stagnation-solutions-for-when-society-hits-a-roadblock/"><u>Addressing Stagnation: Solutions for When Society Hits a Roadblock</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-error-how-to-overcome-cod-vanguards-obstacle-error-code-0x00001338-on-windowsmac/"><u>Beat the Error: How to Overcome COD Vanguard's Obstacle - Error Code 0X00001338 on Windows/Mac</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cs2-performance-issues-solved-eliminate-latency-and-reduce-your-ping-on-pc/"><u>CS2 Performance Issues Solved: Eliminate Latency & Reduce Your Ping on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-solutions-stop-wwe-2k20-from-crashing-on-your-windows-pc/"><u>Easy Solutions: Stop WWE 2K20 From Crashing on Your Windows PC!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-to-address-missing-haldll-problems-on-windows-xp-pcs/"><u>Effective Solutions to Address 'Missing hal.dll' Problems on Windows XP PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elevate-your-street-fighter-6-experience-a-step-by-step-guide-to-solving-lag-and-improving-connection-quality-on-pc/"><u>Elevate Your Street Fighter 6 Experience: A Step-by-Step Guide to Solving Lag and Improving Connection Quality on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-84-in-fortnite-troubleshooting-steps-for-fixing-cannot-connect-to-party/"><u>Error 84 in Fortnite - Troubleshooting Steps for Fixing 'Cannot Connect to Party'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-resolving-intel-software-desktop-applications-problems/"><u>Expert Tips for Resolving Intel Software Desktop Applications Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-not-responding-error-how-to-get-valorant-running-on-your-pc-latest-guide/"><u>Fix 'Not Responding' Error: How to Get Valorant Running on Your PC (Latest Guide)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-world-of-warcraft-unable-to-open-errors-on-pc-solutions-that-work/"><u>Fixing 'World of Warcraft Unable to Open' Errors on PC - Solutions That Work!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-launch-errors-for-armored-core-vi-fires-of-rubicon-players-experience/"><u>Fixing Launch Errors for Armored Core VI: Fires of Rubicon Players Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-when-nvidias-game-overlay-stops-responding/"><u>Fixing the Issue: When NVIDIA's Game Overlay Stops Responding</u></a></li>
+<li><a href="https://program-issues.techidaily.com/gaming-hack-elevating-your-gameplay-with-higher-fps-on-tainted-grail-conquest-stage/"><u>Gaming Hack: Elevating Your Gameplay with Higher FPS on Tainted Grail: Conquest Stage</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-i-corrected-my-nvidia-geforce-error-code-0x0003-a-step-by-step-guide/"><u>How I Corrected My NVIDIA GeForce Error Code 0X0003 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-eliminate-slowdowns-and-improve-performance-in-outriders/"><u>How to Eliminate Slowdowns and Improve Performance in Outriders</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/iconic-acting-snapshot-review/"><u>Iconic Acting Snapshot Review</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-craftsmanship-in-photos-and-videos-the-ultimate-8-mobile-enhancement-tools/"><u>In 2024, Craftsmanship in Photos & Videos The Ultimate 8 Mobile Enhancement Tools</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-farming-simulator-22-gameplay-fixing-fps-drops-on-the-pc-build/"><u>Optimizing Farming Simulator 22 Gameplay: Fixing FPS Drops on the PC Build</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-your-apex-legends-lag-and-disconnect-issues-here/"><u>Overcome Your Apex Legends Lag and Disconnect Issues Here</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-ubisoft-connect-errors-a-comprehensive-guide-users/"><u>Overcoming Ubisoft Connect Errors: A Comprehensive Guide Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-resolving-winwordexe-errors-in-seconds/"><u>Quick Solutions: Resolving WINWORD.EXE Errors in Seconds</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-call-of-duty-vanguard-error-n-code-0x00001338-on-pc-fix-guide/"><u>Resolve Call of Duty: Vanguard Error N Code 0X00001338 on PC - Fix Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722986917341-say-goodbye-to-game-interruptions-fixing-subnauticas-below-zero-crashes-on-desktops/"><u>Say Goodbye to Game Interruptions: Fixing Subnautica's Below Zero Crashes on Desktops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-detroit-game-issues-experience-the-perfect-run-on-windows-machine/"><u>Solved Detroit Game Issues: Experience the Perfect Run on Windows Machine</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-of-amd-radeon-software-failure-step-by-step-guide/"><u>Solving the Issue of AMD Radeon Software Failure: Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-overcome-pc-black-screen-errors-while-playing-resident-evil-village/"><u>Step-by-Step Guide to Overcome PC Black Screen Errors While Playing Resident Evil: Village</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steps-to-ensure-seamless-gameplay-prevent-eac-launch-errors-with-the-right-setup-of-easy-anti-cheat/"><u>Steps to Ensure Seamless Gameplay: Prevent EAC Launch Errors with the Right Setup of Easy Anti-Cheat</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-smart-shoppers-guide-to-affordable-cloud-space-for-2024/"><u>The Smart Shopper's Guide to Affordable Cloud Space for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-8-iphone-accessibility-options-for-users-with-visual-impairments/"><u>Top 8 iPhone Accessibility Options for Users with Visual Impairments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/trouble-with-your-fortnite-microphone-heres-how-to-fix-it-quickly-and-easily/"><u>Trouble With Your Fortnite Microphone? Here's How to Fix It Quickly & Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-steps-for-fixing-the-non-launch-of-warzone-20-on-pcs-updated-guide-2024/"><u>Troubleshoot Steps for Fixing the Non-Launch of Warzone 2.0 on PCs (Updated Guide, 2024)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-reactivating-your-msi-mystic-light-for-windows-pcs/"><u>Troubleshooting Guide: Reactivating Your MSI Mystic Light for Windows PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/usda-economic-research-service-nd-glyphosate-usage-in-us-crops-retrieved-from-httpswwwersusdagovwebdocspuptwg127045htmsthashocj6ztm9dpuf/"><u>USDA Economic Research Service (N.d.). Glyphosate Usage in U.S. Crops. Retrieved From https://www.ers.usda.gov/webdocs/PUPTWG/127045.htm#sthash.Ocj6zTm9.dpuf</u></a></li>
+<li><a href="https://program-issues.techidaily.com/warframe-stuck-on-start-screen-a-comprehensive-guide-to-fixing-it-fast/"><u>Warframe Stuck on Start Screen? A Comprehensive Guide to Fixing It Fast!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722982680843-warzone-directx-troubles-here-are-4-easy-fixes-to-restore-your-gameplay/"><u>Warzone DirectX Troubles? Here Are 4 Easy Fixes to Restore Your Gameplay!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-cant-i-start-my-adventure-solving-wings-of-ruin-game-launch-problems/"><u>Why Can't I Start My Adventure? Solving 'Wings of Ruin' Game Launch Problems</u></a></li>
+</ul></div>

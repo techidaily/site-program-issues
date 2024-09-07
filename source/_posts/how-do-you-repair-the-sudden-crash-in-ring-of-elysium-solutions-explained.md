@@ -1,0 +1,600 @@
+---
+title: How Do You Repair the Sudden Crash in Ring of Elysium? Solutions Explained!
+date: 2024-09-05T23:29:54.161Z
+updated: 2024-09-06T23:29:54.161Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes How Do You Repair the Sudden Crash in Ring of Elysium? Solutions Explained!
+excerpt: This Article Describes How Do You Repair the Sudden Crash in Ring of Elysium? Solutions Explained!
+thumbnail: https://thmb.techidaily.com/578092e9e17a69c476b3082e47519b7819155a500c43a741b28a10c98f28c4a5.jpg
+---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Defeat the Glitch: Mastering Ring of Elysium's Crash Problems – Solutions Inside
+
+_Ring of Elysium_ keeps crashing at startup, or it constantly closes to desktop in the middle of the game?
+
+ This is extremely frustrating and you’re certainly not alone! Many players are reporting it. But the good news is that you can fix it. Here are 10 solutions to try.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 10 Simple fixes to try
+
+ Here is a list of fixes that have resolved this issue for many players. You may not have to try them all; just work your way down the list until you find the one that works for you.
+
+1. **[Meet the minimum system requirements](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Run your game as an Administrator](https://tools.techidaily.com/drivereasy/download/)**
+3. **[End unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Verify the integrity of your game files](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/)
+7. **[Optimize your in-game settings](https://tools.techidaily.com/drivereasy/download/)**
+8. **[Change the power settings](https://tools.techidaily.com/drivereasy/download/)**
+9. **[Configure your graphics settings](https://tools.techidaily.com/drivereasy/download/)**
+10. **[Reinstall your game and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 1:**Meet the minimum system requirements**
+
+ If you’re gaming on the PC, it’s important that your computer meets the minimum system requirements to run_Ring of Elysium_ .
+
+ Here are the minimum requirements to play_Ring of Elysium_ :  
+**OS:** Windows 7, Windows 8.1, Windows 10  
+**Processor:** Intel i3 8130U(2Cores, 2.3GHz) or equivalent  
+**Memory:** 4 GB RAM  
+**Graphics:** NVIDIA GeForce GT 730 or equivalent  
+**Storage:** 10 GB available space
+
+ If your computer fails to meet the minimum requirements, you should skip the following fixes and run your game on another computer.**Here is how to view your hardware information:**
+
+**1)**  On your keyboard, press the **Windows logo**  key and **R** at the same time to invoke the Run dialog.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-212.png)
+
+**2)**  Type **dxdiag**  and click **OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
+
+**3)**  Check the information of your **operating system, processor and memory** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-131.png)
+
+**4)**  Click the **Display** tab, and then check your graphics card’s information.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
+
+ If your computer meets the minimum requirements, read on and check the fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 2:**Run your game as an Administrator**
+
+_Ring of Elysium_ or Steam sometimes can’t access certain game files on your computer under normal user mode, which could result in the crashing issue. To see if that’s the problem for you, try running Steam as an administrator, then launch your game from Steam. Follow the instructions below:
+
+**1)** Exit Steam.
+
+**2)** Right-click the**Steam icon** on your desktop and select **Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**4)**  Relaunch Steam and Ring of Elysium to test your issue.
+
+ You can hopefully run the game without crashing now. If the problem still exists, then go ahead with the fix below.
+
+### Fix 3: End unnecessary background programs
+
+ Some programs, especially overlay apps like Discord, may conflict with_Ring of Elysium_ or Steam, causing your game to crash. So, you should turn off unnecessary processes while you’re gaming. Here is how to do it:
+
+* **[If you’re on Windows 7…](https://tools.techidaily.com/drivereasy/download/)**
+* **[If you’re on Windows 8 or 10…](https://tools.techidaily.com/drivereasy/download/)**
+
+#### If you’re on Windows 7…
+
+**1)**  Right-click your taskbar and select **Start Task Manager** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-763.png)
+
+**2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.  
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-794.png)
+
+**3)** Right-click the resource-consuming process and select **End Process Tree** .
+
+ Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-809.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Try relaunching your game to see if this has resolved your issue. If this didn’t help, try **[fix4](https://tools.techidaily.com/drivereasy/download/)**  .
+
+---
+
+#### If you’re on Windows 8 or 10…
+
+**1)**  Right-click your taskbar and select **Task Manager** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-762.png)
+
+**2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-805.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**3)**  Right-click the resource-consuming process and select **End task** .
+
+ Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-810.png)
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Try launching_Ring of Elysium_ to see if it works properly now. If not, read on and check the next fix.
+
+### Fix 4: Install the latest game patch
+
+ The developers of_Ring of Elysium_ release regular game patches to fix bugs. It’s possible that a recent patch has stopped your game from running smoothly, and that a new patch is required to fix it.
+
+ To check if there is any update, go to the **[Ring of Elysium official website](https://www.ringofelysiumonline.com/en-US/news.html)**  and search for the latest patch**.**  If a patch is available, install it, then run Ring of Elysium again to check whether your problem has been resolved. If it hasn’t, or there was no new game patch available, move on to fix 5, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 5:**Verify the integrity of your game files**
+
+_Ring of Elysium_ may crash when a certain game file is damaged or missing. To fix it, try verifying the integrity of your game files on the Steam client. Here is how to do it:
+
+**1)** Run Steam.
+
+**2)**  Click **LIBRARY** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**3)**  Right-click **Ring of Elysium**  and select **Properties.**
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-2.png)
+
+**4)**  Click the **LOCAL FILES**  tab, then click **VERIFY INTEGRITY OF GAME FILES** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-3.png)
+
+ Wait for the scans to be complete, then relaunch_Ring of Elysium_ to see if your problem has been resolved. If not, try the next fix.
+
+### Fix 6: Update your graphics driver
+
+ One of the most common causes of the Ring of Elysium crashing issue is an outdated graphics driver. To keep your game running smoothly, it’s essential that you have the latest correct graphics driver at all times.
+
+There are two ways you can update your graphics drivers:
+
+**[Option 1 – Manually](https://tools.techidaily.com/drivereasy/download/)**  – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
+
+OR
+
+**[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/fix-ring-of-elysium-crashing-issues/#f2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
+
+#### **Option 1 – Download and install the driver manually**
+
+ The manufacturer of your graphics card keeps updating drivers. To get them, you need to go to the **manufacturer’s**  website, find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
+
+ Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
+
+#### **Option 2 – Automatically update graphics drivers**
+
+ If you don’t have the time, patience or computer skills to update your graphics driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks:
+
+ **1) [Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+**2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
+
+**3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
+
+ You can do it for free if you like, but it’s partly manual.
+
+ If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+### Fix 7: Optimize your in-game settings
+
+ Improper game settings can also cause game issues like freezing, lagging and crashing. If that’s the issue for you, optimizing your in-game settings might be able to fix your issue Here is how to do it:
+
+**1)** Run your game.
+
+**2)** Click the **Settings button**  at the bottom left corner.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-26.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**3)** Click the **Quality**  tab, and then modify the settings following the screenshot below.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-27-1024x558.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**4)**  Click **Apply** , then relaunch your game.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-28-1024x558.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 8: Change the power settings
+
+ The power plan on all computers is set to Balanced by default to save more energy, so your computer sometimes will slow down to save energy, which may be the reason why your game constantly crashes. Follow the instructions below to see how to fix it:
+
+**1)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
+
+**2)** Under **View by,** click **Large icons** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**3)** Select **Power Options.**
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
+
+**4)** Select **High Performance** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
+
+ Restart your computer and your game to see if this worked for you. If your problem persists, try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 9: Configure your graphics settings
+
+ Another possible cause of Ring of Elysium crashing issue is improper graphics settings. If that’s the problem for you, follow the instructions below to optimize your graphics settings:
+
+* **[If you’re using an NVIDIA graphics products](https://tools.techidaily.com/drivereasy/download/)**
+* **[If you’re using an AMD graphics product](https://tools.techidaily.com/drivereasy/download/)**
+
+#### If you’re using an NVIDIA graphics product…
+
+**1)** Right-click your desktop and select **NVIDIA Control Panel** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-46.png)
+
+**2)**  Click **Manage 3D settings** , then **Program Settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-36.png)
+
+**3)**  Click the **Add** **button** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-37.png)
+
+**4)**  Select **Ring of Elysium** , and then click **Add Selected Program** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-38.png)
+
+**5)**  Modify the settings following the screenshot below. Then, click**Apply** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-4.png)
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+#### If you’re using an AMD graphics product…
+
+**1)** Right-click **your desktop** , and select **AMD Radeon Settings.**
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-47.png)
+
+**2)**  Click **Gaming** , then **Global Settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-45.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**3)**  Modify the settings following the screenshot below.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-42-1024x459.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 10: Reinstall your game and/or Steam
+
+ If none of the fixes above worked for you, reinstalling your game and/or Steam is very likely the solution to your problem. Here is how to do it:
+
+* **[Reinstall Ring of Elysium](https://tools.techidaily.com/drivereasy/download/)**
+* **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
+
+#### Reinstall Ring of Elysium
+
+**1)** Run Steam.
+
+**2)**  Click **LIBRARY** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
+
+**3)**  Right-click **Ring of Elysium**  and select **Uninstall.**
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-8.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**4)** Click **DELETE** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-11.png)
+
+**5)**  Relaunch Steam to download and reinstall_Ring of Elysium_ .
+
+ Try launching your game again. Hope it runs properly now. If not, try uninstalling Steam.
+
+#### Reinstall Steam
+
+**1)** Right-click the **Steam icon** and select **Open file location** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-359.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**2)**  Right-click the **steamapps**  folder and select **Copy** . Then, place the copy in another location to back it up.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-360.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**3)**  On your keyboard, press the **Windows logo**  key and type **control** . Then, click **Control Panel** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-361.png)
+
+**4)** Under **View by** , select **Category.**  Then, select **Uninstall a program** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-374.png)
+
+**5)** Right-click **Steam** , and then click **Uninstall** . Then, wait for the process to be complete.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-364.png)
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ **6)[Download](https://store.steampowered.com/about/)**  and install Steam.
+
+**7)** Right-click the **Steam icon** and select **Open file location** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-365.png)
+
+**8)**  Move the backup **steamapps**  folder you create before to your current directory location.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-366.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**9)**  Restart_Ring of Elysium_ to test your problem.
+
+ Hopefully, this article helped in resolving your issue! If you have any questions or suggestions, please feel free to leave a comment below.
+
+* [games](https://tools.techidaily.com/drivereasy/download/)
+* [Steam](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 7](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 8](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-master-the-art-of-ios-screen-recording/"><u>[New] 2024 Approved Master the Art of iOS Screen Recording</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-transform-your-images-proven-pixlr-strategies/"><u>[New] Transform Your Images Proven Pixlr Strategies</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-webcampro-recordingstepssimplified/"><u>[New] WebCamPro RecordingStepsSimplified</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solved-intel-video-driver-issues-in-windows-1187/"><u>[Solved] Intel Video Driver Issues in Windows 11/8/7</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-become-a-text-meme-wizard-harnessing-genrator-power/"><u>[Updated] Become a Text Meme Wizard Harnessing Gen'rator Power</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-unveiling-the-best-for-screens-a-deep-dive-into-obs-studio-and-fraps/"><u>[Updated] In 2024, Unveiling the Best for Screens A Deep Dive Into OBS Studio & Fraps</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-essential-tips-for-premiere-pros-full-screen-mode/"><u>2024 Approved Essential Tips for Premiere Pro's Full Screen Mode</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-harmony-haven-gather-download-and-dissect-audio/"><u>2024 Approved Harmony Haven Gather, Download & Dissect Audio</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-superior-quality-recordings-the-1-to-18-camera-list/"><u>2024 Approved Superior Quality Recordings - The #1 to #18 Camera List</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/7-effective-troubleshooting-steps-to-resolve-stuck-loading-in-forza-horizon-5/"><u>7 Effective Troubleshooting Steps to Resolve Stuck Loading in Forza Horizon 5</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/behind-the-scenes-of-virtual-reality-films-for-2024/"><u>Behind the Scenes of Virtual Reality Films for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-your-utorrent-downloads-tips-for-overcoming-sluggish-performance/"><u>Boost Your uTorrent Downloads: Tips for Overcoming Sluggish Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cutting-edge-techniques-for-a-seamless-gaming-adventure-on-your-pc-banish-lag-in-202/"><u>Cutting-Edge Techniques for a Seamless Gaming Adventure on Your PC - Banish Lag in 202</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-recurring-shutdowns-in-ms-flight-simulator-2020-for-pc-users/"><u>Diagnosing and Repairing Recurring Shutdowns in MS Flight Simulator 2020 for PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-remedies-for-palworld-not-opening-correctly-tips-and-tricks/"><u>Easy Remedies for Palworld Not Opening Correctly - Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-seamless-gaming-correcting-halo-infinite-errors/"><u>Effective Solutions for Seamless Gaming: Correcting Halo Infinite Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-palworld-search-errors-in-your-sessions-with-these-fixes/"><u>Eliminate PalWorld Search Errors in Your Sessions with These Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-your-warzone-experience-solutions-for-smooth-playback-and-higher-fps/"><u>Enhancing Your Warzone Experience: Solutions for Smooth Playback and Higher FPS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-overcoming-the-starfield-high-cpu-challenge-with-advanced-tips-for-2023/"><u>Expert Advice: Overcoming the Starfield High CPU Challenge with Advanced Tips for 202ˈ3</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-resolving-no-signal-from-nvidia-graphics-card-quickly-and-easily/"><u>Expert Advice: Resolving 'No Signal From NVIDIA Graphics Card' Quickly and Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-to-overcoming-discord-live-stream-buffering-problems-now-solved/"><u>Expert Guide to Overcoming Discord Live Stream Buffering Problems – Now Solved</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-guide-overcoming-compatibility-problems-with-rainbow-six-extraction-drivers-and-hardware/"><u>Fix Guide: Overcoming Compatibility Problems with Rainbow Six Extraction Drivers and Hardware</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-sea-of-thieves-how-to-get-past-a-persistent-load-screen/"><u>Fixing Sea of Thieves: How to Get Past a Persistent Load Screen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fps-drops-in-borderlands-3-try-these-fixes-on-pc-2021/"><u>FPS Drops in Borderlands 3? Try These Fixes on PC | 2021</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-the-most-out-of-watch-dogs-legion-tricks-to-optimize-fps-and-eliminate-lags/"><u>Get the Most Out of Watch Dogs: Legion - Tricks to Optimize FPS & Eliminate Lags</u></a></li>
+<li><a href="https://program-issues.techidaily.com/getting-your-nvidia-geforce-overlay-back-on-track-solutions-and-tips/"><u>Getting Your Nvidia GeForce Overlay Back on Track - Solutions & Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/god-of-war-first-person-shooter-release-date-confirmed-for-pc-platform/"><u>God of War First-Person Shooter Release Date Confirmed for PC Platform</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-enable-gpu-usage-for-cyberpunk-2077-on-windows-11-systems/"><u>How to Enable GPU Usage for Cyberpunk 2077 on Windows 11 Systems</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-s17-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo S17? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-tier-80s-visual-tricks-for-elevated-editing/"><u>In 2024, Top-Tier 80S Visual Tricks for Elevated Editing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/inside-look-amd-visionary-mike-clark-discusses-the-swift-evolution-of-zen-tech-to-3nm-and-innovative-desktop-processors-coming-soon/"><u>Inside Look: AMD Visionary Mike Clark Discusses the Swift Evolution of Zen Tech to 3Nm and Innovative Desktop Processors Coming Soon</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-error-free-machine-learning-tips-to-resolve-the-last-epoch-problem-on-your-computer-2024-edition/"><u>Master Error-Free Machine Learning: Tips to Resolve the Last Epoch Problem on Your Computer, 2024 Edition</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/master-the-art-of-excluding-commercial-videos-from-social-media/"><u>Master the Art of Excluding Commercial Videos From Social Media</u></a></li>
+<li><a href="https://program-issues.techidaily.com/minecraft-lagging-issues-solutions-for-endless-loading-screens/"><u>Minecraft Lagging Issues: Solutions for Endless Loading Screens</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-interruptions-fixed-issues-causing-new-frontier-to-fail-on-desktops/"><u>No More Interruptions: Fixed Issues Causing 'New Frontier' To Fail on Desktops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-dragon-age-origins-performance-in-windows-11-environments/"><u>Optimizing Dragon Age: Origins Performance in Windows 11 Environments</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-minecraft-loading-problems-effective-fixes-for-gamers-everywhere/"><u>Overcome Minecraft Loading Problems: Effective Fixes for Gamers Everywhere</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-and-tips-for-stable-play-in-call-of-duty-black-ops-cold-war-on-pc/"><u>Resolved: Fixes & Tips for Stable Play in Call of Duty Black Ops Cold War on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-no-available-camera-input-error-in-snap-application/"><u>Resolving 'No Available Camera Input' Error in Snap Application</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-rocket-league-failed-to-start-a-step-by-step-guide-for-gamers/"><u>Resolving 'Rocket League Failed to Start': A Step-by-Step Guide for Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-death-stranding-pc-crashes-a-comprehensive-guide/"><u>Resolving Death Stranding PC Crashes - A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/seamless-gaming-experience-expert-fixes-for-maplestory-glitches-in-windows-10-tips/"><u>Seamless Gaming Experience: Expert Fixes for MapleStory Glitches in Windows 10 (Tips )</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-pc-issues-with-dragons-dogma-2-troubleshooting-guide/"><u>Solving PC Issues with Dragon's Dogma 2: Troubleshooting Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-motorola-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Motorola FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/top-5-ps1-emulators-bringing-classic-games-back/"><u>Top 5 PS1 Emulators - Bringing Classic Games Back</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-repair-steam-connection-failures-in-local-client-operations/"><u>Troubleshooting Guide: How to Repair Steam Connection Failures in Local Client Operations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-restoring-netflix-functionality-on-xbox-one/"><u>Troubleshooting Steps for Restoring Netflix Functionality on Xbox One</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-stop-escape-from-tarkov-from-frequent-crashes-during-pc-sessions/"><u>Troubleshooting Steps to Stop 'Escape From Tarkov' From Frequent Crashes During PC Sessions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-steam-cant-connect-to-cloud-servers/"><u>Troubleshooting Tips: Steam Can't Connect to Cloud Servers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-preventing-biomutant-from-crashing-on-pcs-latest-tips-for-2e24/"><u>Ultimate Guide to Preventing Biomutant From Crashing on PCs - Latest Tips for 2E24</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unsubscribe-from-hassle-eufy-t8200-review-reveals-premium-doorbell-security-without-monthly-fees/"><u>Unsubscribe From Hassle: Eufy T8200 Review Reveals Premium Doorbell Security Without Monthly Fees</u></a></li>
+</ul></div>

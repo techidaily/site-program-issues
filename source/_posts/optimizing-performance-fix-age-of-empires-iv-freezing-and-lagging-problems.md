@@ -1,0 +1,470 @@
+---
+title: "Optimizing Performance: Fix Age of Empires IV Freezing and Lagging Problems"
+date: 2024-09-05T23:54:31.007Z
+updated: 2024-09-06T23:54:31.007Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Optimizing Performance: Fix Age of Empires IV Freezing and Lagging Problems"
+excerpt: "This Article Describes Optimizing Performance: Fix Age of Empires IV Freezing and Lagging Problems"
+thumbnail: https://thmb.techidaily.com/9dde14122d86332e2939d12b71c8c112849e5b475313180be25192ee619462eb.jpg
+---
+
+## Dying Light the Sequel: Optimizing Performance & Ending PC Game Lag
+
+Dying Light 2 Stay Human is finally here – taking us to one of the last surviving cities. But there are some bugs in this new title. Players have been getting**terrible quality in graphics** ,**terrible FPS and stutters** , literally anything you wouldn’t want in a game. If you’re on the same boat and at a complete loss what to do, you’ve come to the right page.
+
+## How to achieve better frame rates and remove stutters
+
+ FPS drops and stuttering can occur when there are excessive startup entries, registry items, hardware/RAM decline, fragmented files and so on. To fix your problem, you can check the methods below.
+
+1. **[Make sure your PC is capable](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Download your game updates](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Close background processes](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Verify integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
+7. **[Change in-game settings](https://tools.techidaily.com/drivereasy/download/)**
+8. **[Enable hardware-accelerated GPU scheduling](https://tools.techidaily.com/drivereasy/download/)**
+9. **[Scan your PC for corrupted files](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 1\. Make sure your PC is capable
+
+ Before tweaking Windows and in-game settings, you’ll first need to make sure that you have at least**the minimum required specs** on your PC
+
+> _**64-bit processor and operating system required**_
+> _**operating system: Windows® 7**_
+> _**processor: Intel Core i3-9100 / AMD Ryzen 3 2300X**_
+> _**RAM: 8 GB RAM**_
+> _**Graphics card: NVIDIA® GeForce® GTX 1050 Ti / AMD Radeon™ RX 560 (4GB VRAM)**_
+> _**storage: 60 GB free space required**_
+
+ When the hardware you currently have meets the requirements, you can try the methods below for improving your low frame rate.
+
+## 2\. Download your game updates
+
+ Early in the life cycle of a new title, developers release patches with major performance impacts and bug fixes. So enable the automatic updates to ensure you don’t miss one. By default, auto-update is enabled. But sometimes that may not be your case. Thus you can manually enable it on[Steam](https://tools.techidaily.com/drivereasy/download/) or[Epic Games Launcher](https://tools.techidaily.com/drivereasy/download/) by following the instructions below.
+
+#### On Steam
+
+ 1) Open your Steam client. Under LIBRARY, right-click your game title and select**Properties** .  
+  
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/Dying-Light-2-verify-integrity-of-game-files-properties-1.png)
+
+ 2) Select the**UPDATES** tab and select the settings**Always keep this game updated** from AUTOMATIC UPDATES.
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/Dyling-light-2-automatic-updates-1200x850.jpg)
+
+#### On Epic Games Launcher
+
+ 1) Open your Epic Games Launcher. Navigate to your game in the**LIBRARY** .
+
+ 2) Click on the**gear icon (three dots)** next to your game to enter the Settings menu.
+
+ 3) Make sure the option**Auto Update** is toggled**on** .
+
+ If having the latest game updates doesn’t give you the best performance, you should try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 3\. Close background processes
+
+ There are certain background programs that are known for resource-hogging. They can slow things down and also throttling your bandwidth, which will be a problem for multiplayer and connection-dependent games. To prevent this from happening, follow the steps below to close some background processes.
+
+ (Screenshots below come from Windows 10\. If you’re running Windows 11, your screen will look slightly different. But the steps taken are exactly the same. )
+
+ 1) On your keyboard, press the **Windows logo + R keys** simultaneously to bring up the Run box.
+
+ 2) Type**taskmgr** and press Enter.  
+  
+![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
+
+ 3) Click the**CPU or Memory tab** to check whether anything is using up large chunks of your CPU or RAM (for instance, a web browser with dozens of tabs open).
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/12/Task-Manager-Memory.png)
+
+ 4) Find any programs or processes that can affect the PC performance, right-click on it and select**End task** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-background-applications.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Once you’ve done these, relaunch your game and test if you can notice an FPS boost.
+
+## 4\. Check for Windows updates
+
+ Windows updates usually fix errors and compatibility issues in Windows and associated software, and occasionally bring new features. To take advantage of Windows updates, definitely check if there are any updates available. This may be the easiest way to fix the issue you’re having without much troubleshooting.
+
+#### On Windows 10
+
+ 1) In the Search box, type **check for updates** . Then click **Check for updates**  from the results.
+
+![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
+
+ 2) Click on the **Check for updates**  button. If there are any updates available, it’ll automatically start to download and install it. Simply wait for the process to complete. Then you’ll be asked to restart your computer.
+
+![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
+
+#### On Windows 11
+
+ 1) On your keyboard, press the **Windows logo + I keys**  simultaneously to open Settings.
+
+ 2) Click **Windows Update** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/check-windows-update-1200x710.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 3) Click **Check for updates** . If it detects any updates available, it will download it for you.
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/check-for-updates-1200x685.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 4) When it finishes downloading the updates, click**Restart now** to restart your PC. Or you can **Schedule the restart** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/restart-after-windows-updates-1200x626.png)
+
+ If updating Windows doesn’t give you any luck, proceed to the next fix.
+
+## 5\. Update your graphics driver
+
+ Your outdated graphics driver is probably the top troublemaker for gaming problems and FPS drops in particular. To solve your issues, you need to download and install the latest graphics driver for your system. Game ready drivers are released regularly to optimize for new titles.
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/dying-light-2-geforce-game-ready-driver.jpg)
+
+ To get the latest graphics driver, you can go to the manufacturer’s download page and follow the on-screen instructions to manually download and install the correct driver corresponding with your system.
+
+[NVIDIA](https://tools.techidaily.com/drivereasy/download/) [AMD](https://www.amd.com/en/support)
+
+ Or you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It’s an automatic driver updater tool that helps you scan and detect any missing or outdated drivers, then download and install the latest drivers for your system, direct from the device provider. With Driver Easy, you don’t need to waste your hunting for driver updates. As it will do all the busy work for you.
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any devices with outdated drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.
+
+ This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+ After updating drivers, restart your PC and test your gameplay. If your problem persists, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## 6\. Verify integrity of game files
+
+ This may resolve installation corruption that prevents you from being able to enjoy the game to the fullest.
+
+ Now follow the steps below to verify cache files on[Steam](https://tools.techidaily.com/drivereasy/download/) or[Epic Games Launcher](https://tools.techidaily.com/drivereasy/download/) .
+
+#### On Steam
+
+1) Open your Steam client.
+
+2) Under LIBRARY, right-click**Dying Light 2** and select**Properties** .  
+  
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/Dying-Light-2-verify-integrity-of-game-files-properties-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 2) Select the **LOCAL FILES**  tab. Then click **Verify integrity of game files…** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/Dying-Light-2-verify-integrity-of-game-files.png)
+
+ Now Steam will verify your game’s files. This process may take several minutes. Once the process is completed, close the Window then launch your game. If you’re still getting low FPS and massive stutters, move on to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
+
+#### On Epic Games Launcher
+
+ 1) Open your Epic Games Launcher. Navigate to your game in the**LIBRARY** .
+
+ 2) Click on the**gear icon (three dots)** next to your game to enter the Settings menu.
+
+ 3) Select**Verify** from the drop-down.
+
+ Depending on the size of the game it may take a few minutes to verify all your files. Once it completes, launch your game and test the gameplay.
+
+## 7\. Change in-game settings
+
+ Most games will automatically test your PC after installation and assign custom settings. However, those settings don’t give frame rate the priority you’d like. Here are a few common settings to turn down (or off) for measurable performance boosts.
+
+ 1) Head across to the**Options** menu.
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/Dying-Light-2-settings-options.png)
+
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 2) Select the**VIDEO** tab at the very top. Then make the following changes：
+
+**Window Mode:** Fullscreen  
+**Resolution:** Set this option here to match the resolution of your display and no higher or now lower.  
+**Vertical Synchronization:** Off
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/Video-settings-Dyling-Light-2-1200x701.png)
+
+Now scroll down and make these changes:
+
+**Particles Quality:** Low  
+**Contact Shadows Quality:** None  
+**Ambient Occlusion Quality:** None  
+**Global Illumination Quality:** Low  
+**Global Illumination Quality:** Low  
+**Reflection Quality:** Low  
+**Fog Quality:** Low
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/image.png)
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Then apply the changes. Press the**Esc** key and click**OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/apply-the-changes.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ However, by applying these changes, you’ll have to settle for less in-game visual detail. If you find you’re sacrificing too much in your graphical settings to hit your frame rate target, there’s always another option: Upgrading to a new system with a faster GPU and CPU.
+
+## 8\. Enable hardware-accelerated GPU scheduling
+
+ The next method you should try is to enable the hardware-accelerated GPU scheduling. It is a feature that comes with a recent Windows update designed to boost in-game FPS. If you have the latest Windows version, a Geforce 10 series or later/ Radeon 5600 or 5700 series graphics card with the latest driver, you can enable this feature and see if you can notice a performance improvement. Now follow the steps below to enable it.
+
+ (Screenshots below come from Windows 10\. If you’re running Windows 11, your screen might look slightly different. )
+
+ 1) In the search box, type**graphics settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/graphics-settings.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 2) Toggle**on** Hardware-accelerated GPU scheduling. Then select**Desktop app** from the drop-down. Then click on the**Browse** button.  
+  
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/Dyling-Light-2-enable-accelerated-high-gpu-scheduling.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 3) Navigate to your game’s installation folder. If you’re on Steam, follow the instructions below to locate your game’s installation folder.
+
+ (If you’re playing it on Epic Games Launcher, it’s Default: **C:\\Program Files\\Epic Games\\\[Game Name\]** by default. )
+
+Locate the game’s installation folder on Steam:
+
+* Open your Steam client.
+* Under LIBRARY, right-click**Dying Light 2** and select**Manage** **\> Browse local files** .  
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/Dying-light-2-browse-local-files.png)
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+* Then open the files**ph > work > bin > x64** . Click the very top to copy the file path.
+
+ 4) Paste the path of the game’s installation file into the address bar. Then double-click on the game’s exe.file.
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/Dying-Light-2-add-to-the-list-gpu-scheduling.png)
+
+ 5) Once it’s added to the list, simply select it and click**Options** .  
+  
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/options.png)
+
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 6) Choose**High performance** and click**Save** .  
+  
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/high-performance-1.png)
+
+ Doing this will make sure that the game runs on the best graphics processor you have on your computer, not holding back any performance.
+
+ However, if this doesn’t give you any performance boost, try the next fix below.
+
+## 9\. Scan your PC for corrupted files
+
+ Graphics glitches and other critical issues can occur when your operating system becomes corrupted. Opening programs will be slower and response time will lag. To diagnose the problem you’re having, you should run a full scan on your system.
+
+ You can do it manually, for sure. But this could take hours and you might end up not solving your issues. In this case, you can use **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , a more powerful tool that scans your computer for invalid registry issues, fragmented files, and Windows tweaks.
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Fortect.
+
+ 2) Open Fortect and it will run a free scan of your PC and give you a detailed report of your PC status. This will take a few minutes.
+
+ 3) If Fortect detects any issues on your PC, click**Start Repair** to start the repair process.
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair-1200x742.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+When the process is complete, restart your PC.
+
+---
+
+ That’s it – the full guide on how you can get more FPS in Dying Light 2 Stay Human and reduce in-game stutters. If you have any ideas or questions, do not hesitate to drop us a line in the comment section below.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-liberating-laughter-from-lockdown-20-humorous-fb-incarceration-moments/"><u>[New] 2024 Approved Liberating Laughter From Lockdown 20 Humorous FB Incarceration Moments</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-reinforcing-silence-in-obs-recordings/"><u>[New] Reinforcing Silence in OBS Recordings</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-insta-style-the-essential-guide-to-instagram-story-magnification-for-2024/"><u>[Updated] Insta Style The Essential Guide to Instagram Story Magnification for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-revised-take-on-s3700-sony-bdp-review-for-2024/"><u>[Updated] Revised Take on S3700 Sony BDP Review for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-gaming-speed-in-apex-legends-discover-these-6-fast-fixes-for-a-better-fps/"><u>Boost Gaming Speed in Apex Legends: Discover These 6 Fast Fixes for a Better FPS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-the-obstacle-successful-solutions-for-persistent-loading-screens-in-roblox/"><u>Bypassing the Obstacle: Successful Solutions for Persistent Loading Screens in Roblox</u></a></li>
+<li><a href="https://program-issues.techidaily.com/civilization-vi-troubleshooting-fixing-the-issue-of-non-launch-on-windows-11/"><u>Civilization VI Troubleshooting: Fixing the Issue of Non-Launch on Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-correcting-microphone-issues-during-gameplay-among-us-on-pc/"><u>Diagnosing and Correcting Microphone Issues During Gameplay: Among Us on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-the-recurring-issue-of-snowrunner-appearing-unstable-on-your-computer/"><u>Effective Solutions for the Recurring Issue of SnowRunner Appearing Unstable on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-0x803f8001-no-more-ultimate-troubleshooting-tips-to-launch-minecraft-on-windows-1110-systems/"><u>Error 0X803f8001 No More: Ultimate Troubleshooting Tips to Launch Minecraft on Windows 11/10 Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-free-experience-achieved-effective-fixes-for-continuous-crashing-in-age-of-wonders-planetfall-on-pc/"><u>Error-Free Experience Achieved: Effective Fixes for Continuous Crashing in 'Age of Wonders: Planetfall' On PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-silence-solutions-for-lost-ark-audio-issues/"><u>Fixing the Silence: Solutions for 'Lost Ark' Audio Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/genshin-impact-stability-issues-tips-for-preventing-frequent-pc-game-crashes/"><u>Genshin Impact Stability Issues: Tips for Preventing Frequent PC Game Crashes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/grossenkonvertierung-fur-facebook-videos-losungsweg-zum-erfolg/"><u>Größenkonvertierung Für Facebook-Videos: Lösungsweg Zum Erfolg</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oneplus-ace-2-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast OnePlus Ace 2 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-gta-nlaunch-error-and-start-the-game-smoothly/"><u>How to Overcome 'GTA N_Launch' Error and Start the Game Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improving-frame-rates-in-war-thunder-expert-guide-to-boosting-your-fps-in-the-latest-game-patch/"><u>Improving Frame Rates in War Thunder - Expert Guide to Boosting Your FPS in the Latest Game Patch</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-samsung-galaxy-f14-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Samsung Galaxy F14 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-unleash-windowsmac-premium-pc-and-mac-screen-capture-tools/"><u>In 2024, Unleash Windows/Mac Premium PC and MAC Screen Capture Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-guide-for-resolving-the-perplexing-exit-code-0-glitch-in-your-favorite-game-minecraft/"><u>Master Guide for Resolving the Perplexing Exit Code 0 Glitch in Your Favorite Game, Minecraft</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-effective-solutions-for-preventing-dauntless-from-freezing-on-desktop-pcs/"><u>Mastering Stability: Effective Solutions for Preventing Dauntless From Freezing on Desktop PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/msfs-2020-pc-stability-problems-expert-fixes-for-persistent-crashes/"><u>MSFS 2020 PC Stability Problems: Expert Fixes for Persistent Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-your-fortnite-warzone-experience-eliminating-stutters-and-enhancing-fps/"><u>Optimize Your Fortnite Warzone Experience: Eliminating Stutters & Enhancing FPS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/path-of-exile-connectivity-woes-heres-your-ultimate-solution-in-depth-analysis-for-the-2024-playthrough/"><u>Path of Exile Connectivity Woes? Here's Your Ultimate Solution - In-Depth Analysis for the 2024 Playthrough</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013603855-pc-trouble-get-your-praey-for-the-gods-running-smoothly-again/"><u>PC Trouble? Get Your Praey for the Gods Running Smoothly Again!</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207052161-ps4-controller-not-holding-charge-solve-that-problem-now/"><u>PS4 Controller Not Holding Charge? Solve That Problem Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-why-isnt-my-discord-camera-working/"><u>Quick Solutions: Why Isn't My Discord Camera Working?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-problem-effective-solutions-when-overwatch-2-continuously-crashes-on-your-pc/"><u>Solving the Problem: Effective Solutions When Overwatch 2 Continuously Crashes on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005841281-stop-unexpected-pc-shutdowns-learn-the-6-best-ways-to-solve-stray-crashing-problems/"><u>Stop Unexpected PC Shutdowns: Learn the 6 Best Ways to Solve Stray Crashing Problems!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tackling-frame-rate-fluctuations-in-sifu-comprehensive-guide-to-enhancing-gameplay-on-pc/"><u>Tackling Frame Rate Fluctuations in Sifu: Comprehensive Guide to Enhancing Gameplay on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-final-nightmare-aftermath-update-securing-your-pc-from-game-crashes/"><u>The Final Nightmare Aftermath Update: Securing Your PC From Game Crashes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/thematic-concepts-for-daily-vlog-content-for-2024/"><u>Thematic Concepts for Daily Vlog Content for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-inaccessible-camera-problem-on-snap-effective-tips/"><u>Troubleshoot Inaccessible Camera Problem on Snap: Effective Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-eliminating-crashes-in-diablo-ii-reimagined-edition/"><u>Troubleshooting Guide: Eliminating Crashes in Diablo II Reimagined Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-overcoming-fifa-19-stability-problems-on-windows-machines/"><u>Troubleshooting Guide: Overcoming FIFA 19 Stability Problems on Windows Machines</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-solving-premiere-pro-instability-on-windows-11-and-10/"><u>Troubleshooting Guide: Solving Premiere Pro Instability on Windows 11 and 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-overcome-rainbow-six-siege-server-connections-errors/"><u>Troubleshooting Steps to Overcome Rainbow Six Siege Server Connections Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlock-optimal-gameplay-a-master-level-guide-to-solving-your-efts-lag-and-low-fps-issues/"><u>Unlock Optimal Gameplay: A Master-Level Guide to Solving Your EFT's Lag and Low FPS Issues</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Honor Magic V2? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-y100-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo Y100 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/winning-the-battle-against-fifa-2022-pc-crashes-expert-fixes-and-tips/"><u>Winning the Battle Against FIFA 2022 PC Crashes: Expert Fixes and Tips</u></a></li>
+</ul></div>

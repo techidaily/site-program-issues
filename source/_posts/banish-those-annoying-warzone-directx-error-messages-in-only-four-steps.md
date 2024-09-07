@@ -1,0 +1,546 @@
+---
+title: Banish Those Annoying Warzone DirectX Error Messages in Only Four Steps
+date: 2024-09-05T23:42:58.977Z
+updated: 2024-09-06T23:42:58.977Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Banish Those Annoying Warzone DirectX Error Messages in Only Four Steps
+excerpt: This Article Describes Banish Those Annoying Warzone DirectX Error Messages in Only Four Steps
+thumbnail: https://thmb.techidaily.com/ce80644caee7b986767dc148a3626afb6dedcf8d303ed5814c688bdf2e6498bb.jpg
+---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Expert Tips for Fixing Crashes in Football Manager 201 Grove Your Game with These Solutions
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_18-02-48.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+_**Football Manager 2019 (FM19)**_ keeps crashing at startup? Or it closes unexpectedly in the middle of the game?
+
+ This is extremely frustrating and you’re certainly not alone! Many players are reporting it. But the good news is that you can fix it. Here’s a list of solutions to try.
+
+## How to fix_FM19_ crashing?
+
+ You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
+
+1. **[Meet_FM19_ ‘s minimum specs](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Close unwanted background programs](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Verify the integrity of your game files](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/)
+5. **[Delete the Preferences and Caches Folder](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Set Game Launch Options](https://tools.techidaily.com/drivereasy/download/)**
+7. **[Change the power option](https://tools.techidaily.com/drivereasy/download/)**
+8. **[Reinstall your game and Steam](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1: Meet_FM19_ ‘s minimum specs
+
+#### **What are the minimum specs?**
+
+ The minimum specs are a listing of what hardware devices are required to operate your game properly. In most cases, game crash issues happen when players run the game on a computer that doesn’t meet the minimum requirements. Here are_FM19_ ‘s minimum specs:
+
+| **OS:**        | Windows 7 64-bit or newer                                                                |
+| -------------- | ---------------------------------------------------------------------------------------- |
+| **Processor:** | Intel Pentium 4, Intel Core or AMD Athlon – 2.2 GHz +                                    |
+| **Graphics:**  | Intel GMA X4500, NVIDIA GeForce 9600M GT or AMD/ATI Mobility Radeon HD 3650 – 256MB VRAM |
+| **Memory:**    | 2 GB RAM                                                                                 |
+| **Storage:**   | 7 GB available space                                                                     |
+
+#### How to check my computer specifications?
+
+**1)**  On your keyboard, press the **Windows logo**  key and **R** at the same time to invoke the Run dialog.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-11-45-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**2)**  Type **dxdiag**  and click **OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-33-01.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**3)** Check your**operating system, processor and memory** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-33-05.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**4)**  Click the **Display** tab, and then check your graphics card’s information.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-33-09.jpg)
+
+ Make sure that your computer meets the minimum requirements, then move on to the next fix, below.
+
+### Fix 2: End unnecessary background programs
+
+ Background programs and processes could slow down your computer and cause it to overload. Try turning off unneeded applications on your computer to see if any of them are causing your issue. Follow the instructions below:
+
+**1)**  Right-click your taskbar and select **Task Manager** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-35-01.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-35-08.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**3)**  Right-click the resource-consuming process and select **End task** .
+
+ Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-35-20.jpg)
+
+ Now, relaunch_FM19_ to see if it works correctly. If your problem persists, move on to Fix 3, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 3: Update your graphics driver
+
+ One of the most common causes of the game crashing issue is an outdated or faulty graphics driver. To run_FM19_ smoothly, it’s essential that you have the latest correct graphics driver.
+
+ You can update your device drivers manually, if you’re happy to do them one at a time. But this takes quite a while. Or you can update them all with just a couple of clicks with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
+
+ **1)[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+**2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-37-03.jpg)
+
+**3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-37-07.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ You can do it for free if you like, but it’s partly manual.
+
+ If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+**4)** Relaunch your game to test your issue.
+
+If your game still crashes, then go ahead with the next fix below.
+
+### Fix 4: Verify the integrity of your game files
+
+ The_FM19_ may fail when a certain game file is damaged or missing. Try verifying the integrity of your game files to see if that’s the core issue. Here is how to do it:
+
+**1)** Run Steam.
+
+**2)** Click **LIBRARY.**
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-18-38-1.jpg)
+
+**3)**  Right-click **Football Manager 2019**  and select **Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-38-40.jpg)
+
+**4)** Click the **LOCAL FILES** tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-08-25-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**5)** Relaunch your game after the process is finished.
+
+ You should now be able to launch your game and actually play! If not, try the fix, below.
+
+### Fix 5:**Delete the Preferences and Caches Folder**
+
+ Game cache files could also affect the performance of your game. Try clearing the_FM19_ Cache and Preferences folder to see if it fixes your issue. Here is how to do it:
+
+**1)** Make sure your game and Steam aren’t running on your PC.
+
+**2)** On your keyboard, press the**Windows logo** key and**E** at the same time.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-41-12.jpg)
+
+**3)** Type**C:\\Users\\** _Your Windows Username_ **\\AppData\\Local\\Sports Interactive\\Football Manager 2019** on the address bar, then press**Enter** on your keyboard.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-41-17.jpg)
+
+**4)** Delete the**Preferences** and**Cache folder** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-41-21.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Try launching_FM19_ again to see if this has resolved your issue. If it’s not, read on and check the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115912/19272" target="_top" id="2115912">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115912" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115912/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 6: Set Game Launch Options
+
+ Game Launch Options allow you to change game settings before launching it. It’s helpful if your issue is caused by improper in-game settings, and you can’t run your game at all. Here are two options to try:
+
+* **[Launch_FM19_ with the -renderer_direct3D9 option](https://tools.techidaily.com/drivereasy/download/)**
+* **[Launch_FM19_ with the -small_screen -windowed option](https://tools.techidaily.com/drivereasy/download/)**
+
+#### **Launch_FM19_ with the -renderer\_direct3D9 option**
+
+**1)** Run Steam.
+
+**2)** Click **LIBRARY** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-18-38-2.jpg)
+
+**3)**  Right-click**Football Manager 2019** and select **Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-47-26.jpg)
+
+**4)**  Click **SET LAUNCH OPTIONS.**
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-47-31.jpg)
+
+**5)**  Remove any launch options currently shown.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-47-38.jpg)
+
+**6)** Type**\-renderer\_direct3D9** and click **OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-48-02.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**7)** Launch_FM19_ through Steam.
+
+If you still have the problem, try running your game in Windowed mode.
+
+#### L **aunch_FM19_ with the -small\_screen -windowed option**
+
+**1)** Run Steam.
+
+**2)** Click **LIBRARY** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-08-13-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**3)**  Right-click**Football Manager 2019** and select **Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-38-40-1.jpg)
+
+**4)**  Click **SET LAUNCH OPTIONS.**
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-47-31-1.jpg)
+
+**5)**  Remove any launch options currently shown.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-47-38-1.jpg)
+
+**6)** Type**\-small\_screen -windowed** and click **OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-49-22.jpg)
+
+ Try launching your game again. If your problem still exists, don’t fret. There are still 2 more fixes to try.
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 7: Change the power option
+
+ Windows sets all computers to the Balanced power plan by default, so your computer may sometimes slow down to save energy, causing_FM19_ to crash. Try changing your power plan to High Performance to see if it fixes your problem. Follow the instructions below:
+
+**1)** On your keyboard, press the **Windows logo** key and R at the same time.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-11-45-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**2)** Type**control** , then press the**Enter** key on your keyboard.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-12-04-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**3)** Under View by, select**Large icons** , then click **Power Options.**
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-14-19-1.jpg)
+
+**4)** Select **High Performance** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-15-40-1.jpg)
+
+**5)** Restart your computer and your game.
+
+If your game is still unplayable, move on to the fix below.
+
+### Fix 8: Reinstall_FM19_ and Steam
+
+ FM19 crashing issue may happen because the game or the game launcher is not properly installed on your computer. Although it’s rare, you should still rule out the possibility.
+
+* **[Reinstall_FM19_](https://tools.techidaily.com/drivereasy/download/)**
+* **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
+
+#### **Reinstall_FM19_**
+
+**1)** Run Steam.
+
+**2)** Click **LIBRARY** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-08-13-2.jpg)
+
+**3)**  Right-click**Football Manager 2019** and select **Uninstall** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-54-15.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**4)** Relaunch Steam, then download and install_Football Manager 2019_ .
+
+If the game still crashes, try reinstalling the game launcher.
+
+#### **Reinstall Steam**
+
+**1)** Right-click the Steam icon and select Open file location.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-15-52-2.jpg)
+
+**2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-19-29-1.jpg)
+
+**3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-19-37.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**4)** Under **View by** , select **Category** . Then, click **Uninstall a program** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-13-14-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**5)**  Right-click **Steam** , and then click **Uninstall** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_18-00-57-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**6)** [](https://store.steampowered.com/about/) **[Download](https://store.steampowered.com/about/) [](https://store.steampowered.com/about/)**  and install Steam.
+
+**7)** Right-click the **Steam icon**  and select **Open file location** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-15-52-3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**8)**  Move the backup **steamapps folder**  you created to your current directory location.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-23-03-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**9)**  Relaunch your Steam and_FM19_ .
+
+ Hopefully, this article helped in resolving your problem. If you have any questions or suggestions, please feel free to leave a comment below.
+
+* [games](https://tools.techidaily.com/drivereasy/download/)
+* [Steam](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 7](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 8](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-analyzing-freecampros-webcam-capture-quality/"><u>[New] In 2024, Analyzing FreeCamPro's Webcam Capture Quality</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-prime-10-video-edits-boost-your-webcam-experience/"><u>[Updated] 2024 Approved Prime 10 Video Edits Boost Your Webcam Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-and-repairing-failed-texture-loads-on-call-of-duty-warzone/"><u>Addressing and Repairing Failed Texture Loads on Call of Duty: Warzone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-team-fortress-2s-endless-crash-problem-best-troubleshooting-techniques-and-solutions/"><u>Addressing Team Fortress 2'S Endless Crash Problem - Best Troubleshooting Techniques and Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-mastery-through-prompts-expert-guide-to-crafting-the-best-queries-7-must-know-tricks/"><u>AI Mastery Through Prompts: Expert Guide to Crafting the Best Queries (7 Must-Know Tricks)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battlefield-2042-fixes-implemented-fps-and-stuttering-problems-addressed-for-pc-gamers/"><u>Battlefield 2042 - Fixes Implemented: FPS and Stuttering Problems Addressed for PC Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-vanguard-bug-5573-explained-and-solved-enhance-your-gameplay/"><u>Call of Duty Vanguard Bug 5573 Explained and Solved - Enhance Your Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/complete-guide-fixing-vrchat-connectivity-issues-tips-and-tricks-to-get-you-back-online/"><u>Complete Guide: Fixing VRChat Connectivity Issues - Tips and Tricks to Get You Back Online!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dauntless-pc-glitched-heres-what-you-can-do-to-uncrash-it/"><u>Dauntless PC Glitched? Here's What You Can Do to Uncrash It</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-resolving-early-stage-explosions-in-atomic-heart-systems-at-boot-up/"><u>Diagnosing and Resolving Early-Stage Explosions in Atomic Heart Systems at Boot Up</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enjoy-seamless-gameplay-with-beyond-light-destiny-2-now-stable-and-optimized-for-pc-players/"><u>Enjoy Seamless Gameplay with BEYOND LIGHT - Destiny 2 Now Stable and Optimized for PC Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ensure-a-smooth-gaming-experience-with-these-fixes-for-dragon-age-origins-crashing-on-windows-10/"><u>Ensure a Smooth Gaming Experience with These Fixes for Dragon Age: Origins Crashing on Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-solutions-handling-continuous-pc-freezes-during-fuser-use/"><u>Essential Solutions: Handling Continuous PC Freezes During Fuser Use</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-resolving-recurring-snowrunner-pc-crash-issues-quickly-and-easily/"><u>Expert Advice: Resolving Recurring SnowRunner PC Crash Issues Quickly and Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-overcoming-recurring-lunabrowser-desktop-application-breakdowns-and-stability-problems/"><u>Expert Guide: Overcoming Recurring LunaBrowser Desktop Application Breakdowns and Stability Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-getting-past-the-launch-bug-in-call-of-duty-modern-warfare-2/"><u>Expert Tips For Getting Past The Launch Bug In Call Of Duty: Modern Warfare #2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-pc-boot-issues-solutions-for-when-outriders-refuses-to-start/"><u>Fixing PC Boot Issues: Solutions for When Outriders Refuses to Start</u></a></li>
+<li><a href="https://program-issues.techidaily.com/gtfo-crashes-demystified-a-users-handbook-to-stability-solutions/"><u>GTFO Crashes Demystified: A User's Handbook to Stability Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hell-let-loose-pc-version-stability-fixes-and-solutions/"><u>Hell Let Loose PC Version Stability: Fixes & Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-continuous-crashes-of-minecraft-dungeons-game-on-personal-computers/"><u>How to Resolve Continuous Crashes of Minecraft Dungeons Game on Personal Computers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-itel-p40-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Itel P40 Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6 Plus With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-realme-11x-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Realme 11X 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-iphone-xr-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From iPhone XR - 4 Easy Ways</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maplestory-crashes-on-windows-11-find-solutions-with-our-2023-best-practices/"><u>MapleStory Crashes on Windows 11? Find Solutions with Our 2023 Best Practices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-solving-recurrent-downtime-in-world-of-tanks-blitz-gaming/"><u>Mastering Stability: Solving Recurrent Downtime in World of Tanks Blitz Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-controller-detection-errors-in-steam-on-a-windows-platform/"><u>Overcoming Controller Detection Errors in Steam on a Windows Platform</u></a></li>
+<li><a href="https://program-issues.techidaily.com/perform-the-multiplication-on-both-sides/"><u>Perform the Multiplication on Both Sides:</u></a></li>
+<li><a href="https://program-issues.techidaily.com/permanent-solution-to-prevent-everspace-2-pc-from-freezing-or-crashing/"><u>Permanent Solution to Prevent Everspace 2 PC From Freezing or Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722982556902-problems-with-launching-dragon-age-inquisition-solutions-inside/"><u>Problems with Launching Dragon Age Inquisition - Solutions Inside!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-resolve-chromes-freezing-issue-on-windows-10/"><u>Quick Solutions: Resolve Chrome's Freezing Issue on Windows 10</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolving-excessive-ram-consumption-issues-in-windows-11/"><u>Resolving Excessive RAM Consumption Issues in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-minecraft-error-codes-a-step-by-step-guide-to-correcting-the-crossbow-issue/"><u>Resolving Minecraft Error Codes: A Step-by-Step Guide to Correcting the Crossbow Issue</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revolutionize-your-photo-editing-skills-with-pixlr-insights-for-2024/"><u>Revolutionize Your Photo Editing Skills with Pixlr Insights for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722996262439-steam-vr-detection-issues-6-fixes-you-need-to-try/"><u>Steam VR Detection Issues: 6 Fixes You Need to Try!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-to-stop-ps4-from-randomly-freezing-a-beginners-guide/"><u>Step by Step Solutions to Stop PS4 From Randomly Freezing - A Beginner's Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-ultimate-walkthrough-to-get-the-latest-sata-storage-device-drivers-on-your-pc-with-windows-os/"><u>The Ultimate Walkthrough to Get the Latest SATA Storage Device Drivers on Your PC with Windows OS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tired-of-titanfall-2-crashes-discover-easy-ways-to-keep-your-game-running-smoothly/"><u>Tired of Titanfall 2 Crashes? Discover Easy Ways to Keep Your Game Running Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-fixes-no-more-problems-starting-maplestory/"><u>Troubleshoot & Fixes: No More Problems Starting MapleStory</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-chromes-loading-problems-tips-and-tricks-for-optimal-performance/"><u>Troubleshooting Chrome's Loading Problems: Tips & Tricks for Optimal Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-persistent-crashes-in-elite-dangerous-a-comprehensive-guide-for-windows-users/"><u>Troubleshooting Persistent Crashes in Elite Dangerous: A Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-resolving-disconnected-status-from-blizzards-online-gaming-servers/"><u>Troubleshooting Steps: Resolving Disconnected Status From Blizzard's Online Gaming Servers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-eliminating-minecraft-lag-issues/"><u>Ultimate Guide: Eliminating Minecraft Lag Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solve-the-steam-black-screen-issue-and-enjoy-gaming/"><u>Ultimate Guide: Solve the Steam Black Screen Issue and Enjoy Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/warzone-visuals-glitched-heres-how-to-resolve-the-problem/"><u>Warzone Visuals Glitched? Here's How to Resolve the Problem</u></a></li>
+</ul></div>

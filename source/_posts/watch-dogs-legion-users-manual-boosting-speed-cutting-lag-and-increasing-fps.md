@@ -1,0 +1,269 @@
+---
+title: "Watch Dogs: Legion User's Manual: Boosting Speed, Cutting Lag, and Increasing FPS"
+date: 2024-09-05T23:34:49.776Z
+updated: 2024-09-06T23:34:49.776Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Watch Dogs: Legion User's Manual: Boosting Speed, Cutting Lag, and Increasing FPS"
+excerpt: "This Article Describes Watch Dogs: Legion User's Manual: Boosting Speed, Cutting Lag, and Increasing FPS"
+thumbnail: https://thmb.techidaily.com/b23bb1390888971501bf6f6573871e6ccaea8d6852036dd6da2c0d0c4b8e66aa.jpg
+---
+
+## Continuous PC Crashes While Playing Watch Dogs: Legion - Solved
+
+[Watch Dogs: Legion](https://www.epicgames.com/store/en-US/p/watch-dogs-legion?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=0a84818055e740a7be21a2e5b6162703) is finally out. While the game is surely a big hit in the 2020 game market, many gamers start complaining about the**constant crashes** that keep them from hacking DedSec. But don’t worry if you happen to be one of them. Here we’ve put together some fixes that work for many players, try them and stop the crash right away.
+
+## Try these fixes
+
+ You might not need to try them all. Simply work your way down until you find the one that gives you luck.
+
+1. [**Make sure your specs meet the minimum requirements**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Verify the integrity of game files**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Install all Windows updates**](https://tools.techidaily.com/drivereasy/download/)
+4. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
+5. [**Run Watch Dogs: Legion on DirectX 11**](https://tools.techidaily.com/drivereasy/download/)
+6. **[Stop overclocking your hardware](https://tools.techidaily.com/drivereasy/download/)**
+7. **[Disable in-game V-Sync](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1: Make sure your PC specs meet the requirements
+
+ It’s a bit cliché, but**checking your PC specs** should always be your first step in troubleshooting. Watch Dogs: Legion is no doubt, a graphically demanding title, even more so when Ray Tracing and DLSS are on. So before you try anything complicated, make sure your rigs are powerful enough for the game.
+
+#### Minimum requirements for Watch Dogs: Legion (Ray tracing off)
+
+| **CPU:**          | Intel Core i5-4460 3.2 GHz, AMD Ryzen 5 1400 3.2 GHz |
+| ----------------- | ---------------------------------------------------- |
+| **GPU:**          | NVIDIA GeForce GTX 970/GeForce GTX 1650              |
+| **Video memory:** | 4GB                                                  |
+| **RAM:**          | 8GB (Dual-channel setup)                             |
+| **OS:**           | Windows 10 (64 bit only)                             |
+
+ If Watch Dogs: Legion crashes on your high-end gaming PC, you can continue to the next fix.
+
+### Fix 2: Verify the integrity of game files
+
+ The constant crashes may indicate an**integrity issue** with your game files. If that’s the case, you can expect**constant crashes at a specific scene or mode** .
+
+ You can use the following steps to check for corrupted or missing game files:
+
+1. Open you UBISOFT CONNECT client.
+2. Navigate to **the Games tab** and move your mouse cursor to the game tile of Watch Dogs: Legion. Then click **the downward triangle** on the lower-right corner of the game tile.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-verify-game-1.jpg)
+3. Select**Verify files** . Then wait for the checking to complete.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-verify-game-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Now you can launch Watch Dogs: Legion and see if it crashes again.
+
+ If Watch Dogs: Legion crashes after verifying your game files, you can check out the next fix.
+
+### Fix 3: Install all Windows updates
+
+ Windows 10 includes 2 types of system updates, one tackles security issues and another offers a periodic performance boost. In most cases,**keeping your system up-to-date** can avoid lots of strange issues.
+
+Here’s a quick guide:
+
+1. On your keyboard, press the**Windows logo key** and**I** (the i key) at the same time to open the Windows Settings app. Then click**Update & Security** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
+2. Click**Check for updates** . It’ll take a while (up to an hour) for Windows to download and install available updates.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Usually you’ll need to check multiple times to install all the updates. So **repeat the above steps** until it prompts that your system is up to date after you clicked **Check for updates** .
+
+ Once you’ve installed all the system updates, restart your computer and test your gameplay in Watch Dogs: Legion.
+
+ If this method doesn’t give you luck, simply move on to the next one below.
+
+### Fix 4: Update your graphics driver
+
+ More often than not, you’ll be experiencing constant crashes if you’re using**a faulty or outdated graphics driver** . In order to adapt to the fast-changing game market, GPU manufacturers update their drivers on a regular basis, targeting compatibility issues and improving game performance. If the last time you updated drivers feels like ages ago, definitely do it now as it could very well save your day.
+
+ There’re mainly 2 ways you can update your graphics driver: manually or automatically.
+
+#### Option 1: Update your graphics driver manually
+
+ To manually update your graphics driver, first visit your graphics card manufacturer’s website:
+
+* **[NVIDIA](https://tools.techidaily.com/drivereasy/download/)**
+* **[AMD](https://www.amd.com/en/support)**
+
+ Then search for the model of your graphics card. Be sure to download the latest correct installer that’s compatible with your operating system. Once you’ve got the installer, launch it and follow the on-screen instructions to install the graphics driver.
+
+#### Option 2: Update your graphics driver automatically (Recommended)
+
+ If you don’t have the time, patience or computer skills to update your graphics drivers manually, you can, instead, do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . Driver Easy will automatically recognize your system and find the correct drivers for your exact graphics card, and your Windows version, and it will download and install them correctly:
+
+1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
+2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
+3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ Once you’ve updated your graphics driver, restart your PC and check if Watch Dogs: Legion crashes again.
+
+ If this solution doesn’t work for you, simply try the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 5: Run Watch Dogs: Legion on DirectX 11
+
+ Some Aiden Pearces reported that they managed to stop the crash by**running Watch Dogs: Legion on DirectX 11** . You can try the same as it might be the solution to your case too.
+
+So here’s how:
+
+1. Open you UBISOFT CONNECT client. Navigate to the**Games** tab and click**Watch Dogs: Legion** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-directx-11-1.jpg)
+2. From the left menu, select**Properties** . Then scroll down to the bottom. Under the**Game Launch arguments** section, click**Add command line arguments** .  
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-directx-11-02.jpg)
+3. Type or paste**\-dx11** (don’t forget the dash), then click**Save** .  
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-directx-11-03.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+Now you can launch Watch Dogs: Legion and check if the crash stops.
+
+ If this trick doesn’t help your case, simply**undo the changes** and continue to the next fix.
+
+### Fix 6: Stop overclocking your hardware
+
+ As we all know that**overclocking** is basically a zero-cost performance booster, be advised that it could also trigger**instability** of your game or system. So if you’re running overclocking software like**MSI Afterburner** and**Intel Extreme Tuning Utility (Intel XTU)** , or you’re overclocking using**BIOS settings** , try disabling them and check if Watch Dogs: Legion crashes again.
+
+ If you’re not overclocking your hardware, simply check out the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 7: Disable in-game V-Sync
+
+ V-Sync is**Vertical Sync** for short. It’s a graphics technology that synchronizes the frame rate of a game and the refresh rate of your monitor. While V-Sync could be the solution to the screen-tearing issue, there have been reports that this feature could also be the culprit of game crashing. So you can try to disable V-Sync in Watch Dogs: Legion and see how things go.
+
+To do so, simply follow these steps:
+
+1. Open Watch Dogs: Legion and go to**OPTIONS** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-disable-vsync-01.jpg)
+2. Select**VIDEO** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-disable-vsync-2.jpg)
+3. Set V-Sync to**Off** . Then on your keyboard, press the**space bar** to apply the changes.  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-disable-vsync-3.jpg)
+
+Now you can test your gameplay in Watch Dogs: Legion.
+
+---
+
+ So these are the fixes for your crashing issue with Watch Dogs: Legion. Hopefully, you’ve stopped the crash and can start recruiting new hackers. If you have any ideas or questions, feel free to leave a comment and we’ll get back to you ASAP.
+
+* [watch dogs](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/the-eternal-loop-uncovering-the-themes-of-continuity-in-black-survival/"><u>'The Eternal Loop': Uncovering the Themes of Continuity in Black Survival</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixed-dark-souls-3-crashing-issues/"><u>[Fixed] Dark Souls 3 Crashing Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixed-wow-screen-flickering-issue/"><u>[FIXED] WOW Screen Flickering Issue</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-snappy-zoom-calls-for-improved-engagement/"><u>[New] In 2024, Snappy Zoom Calls for Improved Engagement</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-unraveling-the-mystery-of-selecting-a-virtual-reality-device-tethered-connections-vs-mobility-freedom-for-2024/"><u>[New] Unraveling the Mystery of Selecting a Virtual Reality Device Tethered Connections vs Mobility Freedom for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-best-practices-for-documenting-chat-history-on-whatsapp/"><u>[Updated] 2024 Approved Best Practices for Documenting Chat History on WhatsApp</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-ultimate-action-vision-top-7-4k-camera-selections/"><u>2024 Approved Ultimate Action Vision Top 7 4K Camera Selections</u></a></li>
+<li><a href="https://program-issues.techidaily.com/5-proven-methods-to-address-no-user-logon-glitch-in-counter-strike-global-offensive/"><u>5 Proven Methods to Address No User Logon Glitch in Counter Strike: Global Offensive</u></a></li>
+<li><a href="https://program-issues.techidaily.com/age-of-empires-iv-fixes-for-troubled-downloads-and-setup-via-microsofts-app-platform/"><u>Age of Empires IV - Fixes for Troubled Downloads and Setup via Microsoft's App Platform</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722996647700-dayz-first-person-shooter-instant-and-simple-fixes-for-game-crashes/"><u>DayZ First-Person Shooter: Instant and Simple Fixes for Game Crashes!</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/disseminating-tweeted-videos-on-the-worlds-biggest-social-site-for-2024/"><u>Disseminating Tweeted Videos on the World's Biggest Social Site for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-techniques-to-overcome-javascript-challenges-in-your-discord-applications/"><u>Effortless Techniques to Overcome JavaScript Challenges in Your Discord Applications</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-crash-and-stutter-issues-of-bloodhunt-on-windows-computers-tips-and-tricks/"><u>Fixing the Crash and Stutter Issues of Bloodhunt on Windows Computers - Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-stutter-solutions-to-overcome-dying-lights-performance-slowdown/"><u>Fixing the Stutter: Solutions to Overcome Dying Light's Performance Slowdown</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-get-your-amazon-prime-videos-running-smoothly-again/"><u>How to Get Your Amazon Prime Videos Running Smoothly Again</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/madden-22-load-error-troubleshooting-steps-for-a-smooth-startup/"><u>Madden '22 Load Error Troubleshooting Steps for a Smooth Startup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximize-your-fps-ultimate-guide-to-fixing-drops-and-accelerating-gameplay-on-pc/"><u>Maximize Your FPS: Ultimate Guide to Fixing Drops and Accelerating Gameplay on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gaming-woes-heres-how-to-stop-apex-legends-from-crashing-unexpectedly/"><u>PC Gaming Woes? Here's How to Stop Apex Legends From Crashing Unexpectedly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-players-struggle-with-necromunda-hired-gun-continuous-crashing-solutions-inside/"><u>PC Players Struggle with Necromunda: Hired Gun Continuous Crashing - Solutions Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-for-when-utorrent-wont-connect-or-download-files-correctly/"><u>Quick Fixes for When uTorrent Won't Connect or Download Files Correctly</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/revitalize-reps-with-the-top-backdrop-tracks-for-training/"><u>Revitalize Reps with the Top Backdrop Tracks for Training</u></a></li>
+<li><a href="https://program-issues.techidaily.com/roblox-sound-problems-solved-fixes-for-players-with-windows-11-or-10/"><u>Roblox Sound Problems Solved - Fixes for Players with Windows 11 or 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/silence-no-more-comprehensive-solutions-to-evil-genius-2-audio-failure/"><u>Silence No More! Comprehensive Solutions to 'Evil Genius 2' Audio Failure</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/smile-sourcebook-event-specific-memetic-delights/"><u>Smile Sourcebook Event-Specific Memetic Delights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-clearing-up-the-mystery-of-persona-vee-strikers-black-screen-troubleshoot/"><u>Solved: Clearing Up the Mystery of Persona Vee Strikers' Black Screen Troubleshoot</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-resolving-the-battlenet-unable-to-launch-issue/"><u>Step-by-Step Solution: Resolving the 'Battle.net Unable to Launch' Issue</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamer-profitability-analysis-and-verification-for-2024/"><u>Streamer Profitability Analysis and Verification for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-your-zoom-video-problem-with-these-5-expert-tips/"><u>Troubleshoot Your Zoom Video Problem with These 5 Expert Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unleashing-creativity-with-17-premier-graphic-design-programs-available-today/"><u>Unleashing Creativity with 17 Premier Graphic Design Programs Available Today</u></a></li>
+</ul></div>

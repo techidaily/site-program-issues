@@ -1,0 +1,264 @@
+---
+title: Why Can't I Open Crusader Kings 2 & How to Get It Running Smoothly Again
+date: 2024-09-05T23:38:15.660Z
+updated: 2024-09-06T23:38:15.660Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Why Can't I Open Crusader Kings 2 & How to Get It Running Smoothly Again
+excerpt: This Article Describes Why Can't I Open Crusader Kings 2 & How to Get It Running Smoothly Again
+thumbnail: https://thmb.techidaily.com/4d762caa04f98755e083fa6f19084871af3024b44e5497cff1919865c9f50ec3.jpg
+---
+
+## Madden 20 for PC Stability Issues? Here's How You Can Get Things Running Smoothly Again
+
+Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not alone! While this is a very frustrating issue, it can be fixed…
+
+## How to fix**Madden 20** crashing
+
+ Here are 5 fixes that have helped other users resolve the**Madden 20** **crashing** issue. You may not have to try them all; just work your way down the list until you find the one that works for you.
+
+1. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Make sure your PC meets the system requirements of Madden 20](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Repair Madden 20](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Reinstall Origin and Madden 20](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 1: Update your device drivers
+
+ This problem may occur if you are using the wrong or outdated device drivers. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.**Driver Easy handles it all.**
+
+ You can update your drivers automatically with either the[**FREE**](https://tools.techidaily.com/drivereasy/download/) or the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  of Driver Easy. But with the Pro version it takes just 2 steps (and you get full support and a 30-day money back guarantee):
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
+
+ 3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
+
+ Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+4) Restart your computer for the changes to take effect.
+
+5) Launch Madden 20 to see if the crashing problems have been resolved. If yes, then great! If the game still crashes, please move on to**Fix** 2, below.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 2: Make sure your PC meets the system requirements of Madden 20
+
+ Madden may also crash if your PC fails to meet its system requirements. So you should check your PC specs to see if it meets the system requirement for Madden 20.
+
+**Minimum:**
+
+| OS               | **64-bit Windows 7/8.1/10**                   |
+| ---------------- | --------------------------------------------- |
+| Processor        | **FX-4330 (AMD) or i3-4350 (Intel)**          |
+| Memory           | **8GB**                                       |
+| Video card       | **Radeon RX 460 / GeForce GTX 660 or better** |
+| DirectX          | **11 Compatible video card or equivalent**    |
+| Hard-drive space | **48.5 GB**                                   |
+
+**Recommended:**
+
+| OS               | **64-bit Windows 10**                          |
+| ---------------- | ---------------------------------------------- |
+| Processor        | **FX-4330 (AMD) or i3-4350 (Intel)**           |
+| Memory           | **8 GB**                                       |
+| Video card       | **Radeon R9 270x / GeForce GTX 670 or better** |
+| DirectX          | **12 Compatible video card or equivalent**     |
+| Hard-drive space | **48.5GB**                                     |
+
+ If you’re not sure whether your PC meets the system requirements for Madden 20 or not, just follow the instructions below to check the specs of your PC:
+
+ 1) On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
+
+ 3) Click the **Display** tab and you can check what **graphics card** your PC is using.
+
+ 4) Close DirectX.
+
+ You may need to upgrade the hardware of your computer if it fails to meet the system requirement of Madden 20.
+
+ If you’re not comfortable checking the hardware specs on your computer, you can refer to[**this official help post**](https://help.ea.com/en-us/help/pc/how-to-gather-dxdiag-information/) to report the problem to EA Team and let them diagnose it for you.
+
+ Hardware components up-to-date but M20 still crashes? Don’t worry – here are a few more fixes for you to try.
+
+---
+
+### Fix 3: Repair Madden 20
+
+ The Madden 20 game crash error may also occur if the files are corrupt. So you can repair it in Origin.
+
+Here is how to do it:
+
+1) Open Origin.
+
+2) Click **My Game Library** , then right-click on **Madden 20** and click **Repair** .
+
+3) Follow the on-screen instructions for your game to be repaired.
+
+4) Restart your computer for the changes to take effect.
+
+5) Launch Madden 20 and see if it runs properly. If yes, then you’ve fixed the issue! If the crashing issue persists, please try **Fix 4** , below.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 4: Install the latest game patch
+
+ The developers of Madden 20, EA Tiburon, keep releasing game patches to fix bugs. It’s possible that a recent bug has stopped your game from running smoothly, and that a new patch is required for the problem. So it’s recommended that you go to **EA official website**  , check for the latest patch, download and install it. Then check if it fixes the Madden 20 game crash problem.
+
+ If there is no patches available, or the patch fails to address the problem, then please try**Fix 4** , below.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 5: Reinstall Origin and Madden 20
+
+ If the above steps don’t solve the issue, then it’s likely that the files in Origin or Madden 20 are corrupt. So you can reinstall the client and the game to see if it solves the problem.
+
+Here are the steps:
+
+ 1) On your keyboard, press the **Windows logo key** and **R** at the same time, then type **appwiz.cpl** and press**Enter** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 2) In the program list, locate **Origin** , then right-click on it and click**Uninstall** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
+
+ 4) Locate **Madden 20** and uninstall it too.
+
+ 5) Restart your computer.
+
+ 6) Download and install Origin from **[its official website](https://www.origin.com/)**  .
+
+ 7) Download and install Madden 20 in your computer.
+
+ 8) Run Madden 20 and see if it plays smoothly.
+
+---
+
+ Hopefully the article has pointed you in the right direction in resolving the Madden 20 crashing issue. If you have any questions, ideas or suggestions, please let me know in the comments. Thanks for reading!
+
+* [games](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-prime-video-entries-the-best-16-to-maximize-viewership/"><u>[New] 2024 Approved Prime Video Entries The Best 16 to Maximize Viewership</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-execute-a-budget-friendly-youtube-seminar/"><u>[Updated] 2024 Approved How to Execute a Budget-Friendly Youtube Seminar</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-esteemed-creators-best-of-breed-insta-hlv-makers/"><u>[Updated] Esteemed Creators Best-of-Breed Insta HLV Makers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-hack-the-art-of-instagram-reels-creation-for-2024/"><u>[Updated] Hack the Art of Instagram Reels Creation for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-get-rid-of-youtube-distractions-ad-blocking-on-chrome-firefox-and-ios/"><u>2024 Approved Get Rid of YouTube Distractions Ad-Blocking on Chrome, Firefox & iOS</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-the-artisans-of-cinematic-magic-unveiling-every-roles-importance-in-movie-creation/"><u>2024 Approved The Artisans of Cinematic Magic Unveiling Every Roles Importance in Movie Creation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/a-compatible-graphics-card-with-opengl-support/"><u>A Compatible Graphics Card with OpenGL Support</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/a-step-by-step-journey-to-itunes-audio-acquisition-on-ios-devices/"><u>A Step-by-Step Journey to iTunes Audio Acquisition on iOS Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/android-games-on-linux-devices-explained/"><u>Android Games on Linux Devices Explained</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ark-survival-ascended-debugging-the-persistent-pc-crash-issues-fix-1-9/"><u>ARK: Survival Ascended - Debugging the Persistent PC Crash Issues (Fix #1-9)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/biomutant-for-pc-expert-strategies-to-avoid-crashes-and-enhance-performance/"><u>Biomutant for PC: Expert Strategies to Avoid Crashes and Enhance Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/chrome-optimization-overcoming-high-cpu-usage-issues-successfully/"><u>Chrome Optimization - Overcoming High CPU Usage Issues Successfully</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-black-ops-cold-war-on-pc-how-to-ensure-smooth-game-startup-after-recent-fixes/"><u>Cod: Black Ops Cold War on PC - How to Ensure Smooth Game Startup After Recent Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013885752-consider-keeping-a-food-diary-to-monitor-what-youre-eating-and-make-sure-its-nutritionally-balanced/"><u>Consider Keeping a Food Diary to Monitor What You're Eating and Make Sure It’s Nutritionally Balanced.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-fixes-get-your-thaumaturge-app-running-smoothly-again-on-your-computer/"><u>Easy Fixes: Get Your Thaumaturge App Running Smoothly Again on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elevating-your-gaming-experience-solutions-for-smoothing-out-stuttering-and-boosting-fps-on-call-of-duty-warzone/"><u>Elevating Your Gaming Experience: Solutions for Smoothing Out Stuttering & Boosting Fps on Call of Duty: Warzone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-fortnite-lags-expert-tips-and-solutions-for-smooth-gaming/"><u>Eliminate Fortnite Lags: Expert Tips and Solutions for Smooth Gaming</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/enjoy-discounted-disney-entertainment-packages-through-verizon-carrier-services/"><u>Enjoy Discounted Disney Entertainment Packages Through Verizon Carrier Services</u></a></li>
+<li><a href="https://program-issues.techidaily.com/euro-truck-simulator-2-stability-issues-heres-how-you-can-prevent-the-game-from-freezing/"><u>Euro Truck Simulator 2 Stability Issues? Here's How You Can Prevent the Game From Freezing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-on-preventing-and-repairing-screen-stickiness-on-various-panels/"><u>Expert Advice on Preventing and Repairing Screen Stickiness on Various Panels</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977075700-fixing-compatibility-issues-with-intel-hd-graphics-nvidia-on-your-windows-pc-solved/"><u>Fixing Compatibility Issues with Intel HD Graphics nVIDIA on Your Windows PC – Solved!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-constant-game-interruptions-in-pathfinder-wrath-of-the-righteous/"><u>Fixing Constant Game Interruptions in Pathfinder: Wrath of the Righteous</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-life-threatening-glitches-quickly-a-comprehensive-guide-for-ark-gamers/"><u>Fixing Life-Threatening Glitches Quickly: A Comprehensive Guide for Ark Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/forza-horizon-4-pc/"><u>Forza Horizon 지정치 4: PC 오류 해결 방법</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guilty-gear-strive-optimization-tips-and-tricks-to-eliminate-lag/"><u>Guilty Gear Strive Optimization: Tips and Tricks to Eliminate Lag</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-cod-black-ops-cold-war-error-code-80070057-effectively/"><u>How to Resolve the 'Cod: Black Ops Cold War' Error Code 80070057 Effectively</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-oneplus-nord-ce-3-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock OnePlus Nord CE 3 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instagram-story-the-definitive-guide-to-screen-capture/"><u>In 2024, Instagram Story The Definitive Guide to Screen Capture</u></a></li>
+<li><a href="https://common-error.techidaily.com/kodi-streaming-smoothly-again-expert-guide-on-overcoming-buffering/"><u>Kodi Streaming Smoothly Again - Expert Guide on Overcoming Buffering</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-freezing-rogue-company-addresses-and-corrects-pc-stability-glitches/"><u>No More Freezing: Rogue Company Addresses and Corrects PC Stability Glitches</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-fallout-76-for-pc-ensuring-your-gpu-works-with-windows-11/"><u>Optimizing Fallout 76 for PC: Ensuring Your GPU Works with Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-performance-to-combat-hlalyx-latency-and-stuttering-problems-in-pc-version/"><u>Optimizing Performance to Combat HL:Alyx Latency and Stuttering Problems in PC Version</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-fifa-soccer-2020-game-crashing-issues/"><u>Resolved: How to Fix FIFA Soccer 2020 Game Crashing Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-cod-black-ops-fortress-fixing-lag-spikes-and-improving-frame-rate/"><u>Resolving Cod: Black Ops Fortress - Fixing Lag Spikes & Improving Frame Rate</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-youtube-video-playback-issues-stuck-audio-in-chrome-and-firefox/"><u>Resolving YouTube Video Playback Issues: Stuck Audio in Chrome and Firefox</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-impact-of-new-features-on-fortnite-gameplay-analyzing-fps-drops-in-season-8/"><u>The Impact of New Features on Fortnite Gameplay: Analyzing FPS Drops in Season 8</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-6-nft-makers-for-artists-to-unleash-imagination-for-2024/"><u>Top 6 NFT Makers for Artists to Unleash Imagination for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-correcting-the-error-code-0xc19001e1-on-your-windows-11-system/"><u>Troubleshooting and Correcting the 'Error Code 0XC19001e1' On Your Windows 11 System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-made-easy-resolving-the-ascent-pc-performance-issues/"><u>Troubleshooting Made Easy: Resolving 'The Ascent' PC Performance Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-to-prevent-cs2-from-exiting-unexpectedly-on-your-computer/"><u>Troubleshooting Tips to Prevent CS2 From Exiting Unexpectedly on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fixes-for-when-maplestory-launching-fails-a-step-by-step-guide/"><u>Ultimate Fixes for When Maplestory Launching Fails: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-valorant-wont-start-issues-on-pc/"><u>Ultimate Guide: Resolving 'Valorant Won't Start' Issues on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unblocking-issues-preventing-finals-from-launching-a-comprehensive-guide-to-the-2024-problem/"><u>Unblocking Issues Preventing Finals From Launching: A Comprehensive Guide to the 2024 Problem</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-mastering-compressor-a-step-by-step-guide-for-fcpx-users/"><u>Updated In 2024, Mastering Compressor A Step-by-Step Guide for FCPX Users</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/watching-itunes-films-on-your-android-device-discover-4-easy-methods/"><u>Watching iTunes Films on Your Android Device: Discover 4 Easy Methods!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/windows-compatibility-success-getting-the-msi-mystic-light-up-and-running-again/"><u>Windows Compatibility Success: Getting the MSI Mystic Light Up and Running Again</u></a></li>
+</ul></div>
