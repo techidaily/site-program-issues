@@ -1,0 +1,301 @@
+---
+title: Can't Get Utorrent to Work? Try Out These 7 Reliable Repairs!
+date: 2024-09-10T15:50:26.565Z
+updated: 2024-09-11T15:50:26.565Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Can't Get Utorrent to Work? Try Out These 7 Reliable Repairs!
+excerpt: This Article Describes Can't Get Utorrent to Work? Try Out These 7 Reliable Repairs!
+thumbnail: https://thmb.techidaily.com/00e6694a6e8523368549c14f60a0299171aaa265941fbab1955d445021800a72.jpg
+---
+
+## Utorrent Stuck or Unresponsive? Discover 7 Reliable Solutions
+
+This incredibly lightweight client – uTorrent – enjoys wide popularity around the world for its great efficiency and lightweight. Although it’s nearly a bug-free application, odds are that you may run into a uTorrent not responding issue. If your uTorrent keeps not responding however you try, don’t get panic, for it’s quite easy to fix…
+
+
+>  Disclaimer: This post includes affiliate links
+>
+>  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
+>
+
+
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+## Try these fixes
+
+1. **[Restart via Task Manager](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Run as admin](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Allow uTorrent through the firewall](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Disable proxies](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Deleting app data](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Delete downloading files](https://tools.techidaily.com/drivereasy/download/)**
+7. **[Reinstall the application](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1: Restart via Task Manager
+
+ Obviously, like what the warning said, the first thing is to close all uTorrent processes. To do it, you can end uTorrent and its related services in Task Manager and run it again.
+
+1. Press**Ctrl + Shift + Esc** at the same time to open Task Manager.
+2. Select**uTorrent** and select**End Task** .
+3. Click**File > Run New Task** .
+4. In the window that opens, click**Browse…**
+5. Navigate to the following path to launch uTorrent:  
+ C:UsersAppDataRoaminguTorrent
+
+ The error should be gone now and you can try the download again to test the issue. But if not, you can try the fix below.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+### Fix 2: Run as admin
+
+ This error can also be caused by limited access to download the file. Huge data transferring may make your account suspicious, thus your uTorrent needs admin privileges to work normally again. To avoid it, you can run uTorrent as admin permanently:
+
+1. Right-click uTorrent and select**Properties** .
+2. Check the box next to**Run this program as an administrator** .
+3. Click**Apply > OK** .
+4. Restart your computer then run uTorrent again.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+### Fix 3: Allow uTorrent through Firewall
+
+ Although the uTorrent setup wizard can automatically add an exception for uTorrent in Windows Firewall, you may have to add uTorrent as an exception manually in other antivirus or security apps.
+
+Follow the links below to check how to do it:
+
+* **[Bitdefender](https://www.bitdefender.com/support/how-do-i-exclude-a-folder-from-being-scanned-[bitdefender-windows-8-security]-1067.html)**
+* **[Norton](https://support.norton.com/sp/en/uk/home/current/solutions/v3672136)**
+* [**McAfee**](https://service.mcafee.com/webcenter/portal/oracle/webcenter/page/scopedMD/s55728c97%5F466d%5F4ddb%5F952d%5F05484ea932c6/Page29.jspx;jsessionid=MBCMIPhgfxv2uvwwJ9syAAJNvbjVPDfsk7My-wLzV3qwclJELmvW!-1078478202!1296122140?showFooter=false&locale=en-US&articleId=TS102056&leftWidth=0%25&showHeader=false&wc.contextURL=%2Fspaces%2Fcp&rightWidth=0%25&centerWidth=100%25&%5Fadf.ctrl-state=10hnhe30lv%5F75&%5FafrLoop=1182792076880083#!%40%40%3FshowFooter%3Dfalse%26locale%3Den-US%26%5FafrLoop%3D1182792076880083%26articleId%3DTS102056%26leftWidth%3D0%2525%26showHeader%3Dfalse%26wc.contextURL%3D%252Fspaces%252Fcp%26rightWidth%3D0%2525%26centerWidth%3D100%2525%26%5Fadf.ctrl-state%3D1bupvyoag3%5F4)
+* **[ESET NOD32](https://support.eset.com/en/exclude-files-or-folders-from-scanning-in-eset-windows-home-products)**
+* **[Trend Micro](https://esupport.trendmicro.com/en-us/home/pages/technical-support/1059964.aspx)**
+* **[Avast](https://support.avast.com/en-eu/article/Antivirus-scan-exclusions)**
+* **[AVG Antivirus](https://support.avg.com/SupportArticleView?l=en&urlname=AVG-Antivirus-scan-exclusions)**
+
+### Fix 4: Disable proxies
+
+ Besides boosting internet performance, proxy servers can also enable people to browse privately by hiding their IP. However, proxy servers are known to conflict with some network-based apps such as uTorrent. To fix this error, you can disable proxy servers:
+
+1. Press the Windows logo key and R at the same time and enter**inetcpl.cpl** .
+2. Go to the**Connection** tab and then select**LAN settings** .
+3. Uncheck the box next to**Use a proxy server for your LAN** .
+
+ For security and stability concerns, we recommend using Nord VPN instead, and you get a discount of up to 83% by getting the **[Nord VPN coupons](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Now you can restart uTorrent to test if the issue still persists. If it keeps not responding, then check the next fix below.
+
+### Fix 5: Deleting app data
+
+ Corrupt app data is also reported as another main cause of the problem. The recent changes on your computer may have corrupted the local configuration files, which causes your uTorrent to fail to read these data, hence causing uTorrent not responding error.
+
+ To fix it, you just need to navigate to the application configurations folder and delete the saved data from there.
+
+1. Press the Windows logo key + R, enter**%AppData%utorrent** in the Run box.
+2. Delete all the contents of the folder present.
+3. Restart your computer and launch uTorrent again.
+
+### Fix 6: Delete downloading files
+
+ It may be the downloading file that is causing your uTorrent unresponsive. To fix it, you can simply go to the Download directory and delete all downloaded files.
+
+ When you restart your uTorrent, it will resume the downloading task and this error may disappear now.
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+### Fix 7: Reinstall the application
+
+ If all of these workarounds fail to solve your issue, you can perform a clean reinstall.
+
+1. Press Windows + R, then enter**appwiz.cpl** in the Run box.
+2. Right-click uTorrent and select**Uninstall** .
+
+---
+
+## Bonus Tips
+
+ To improve your computer performance, you can try our powerful driver update tool – **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  – to update all outdated and corrupt drivers on your system. These outdated or corrupt drivers may end up lowering your FPS and even preventing your system from running smoothly.
+
+ This will save you all the trouble of searching for the correct driver online, such as your graphics card driver, CPU, and audio driver, and installing it manually.
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. Driver Easy handles all.
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/02/scan-now-1.png)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+ 3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – this includes full support and 30-day money back guarantee).
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/02/update-all-your-drivers-2-2.jpg)
+
+
+
+
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+
+
+
+ We also offer the**Free Version** :  
+  
+ Simply click the**Update** button next to the driver you want to update and Driver Easy will automatically download the correct driver for you. However, you’ll need to install it manually afterward.
+
+4) Restart your computer for the changes to take effect.
+
+* [crash](https://tools.techidaily.com/drivereasy/download/)
+* [program](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-mastering-media-your-step-by-step-video-tweet/"><u>[New] In 2024, Mastering Media Your Step-by-Step Video Tweet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007116441-solved-origin-wont-load-quickly-and-easily/"><u>[SOLVED] Origin Won’t Load | Quickly & Easily</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-save-and-play-gifs-on-an-iphone/"><u>[Updated] How to Save and Play GIFs on An iPhone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-navigating-zoom-to-elevate-your-facebook-lives/"><u>[Updated] In 2024, Navigating Zoom to Elevate Your Facebook Lives</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-youtubes-eco-film-hub-dive-into-green-screen-creativity/"><u>[Updated] Youtube’s Eco-Film Hub Dive Into Green Screen Creativity</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009531008-alien-fireteam-elite-stability-issues-on-pc-solutions-inside/"><u>Alien: Fireteam Elite Stability Issues on PC - Solutions Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bioshock-2-the-ultimate-edition-with-game-changing-fixes-and-refreshments/"><u>BioShock 2: The Ultimate Edition with Game-Changing Fixes & Refreshments</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-warzone-update-solves-pacific-server-problems/"><u>Call of Duty: Warzone Update Solves Pacific Server Problems</u></a></li>
+<li><a href="https://games-able.techidaily.com/can-you-use-ps5-for-ps4-games/"><u>Can You Use PS5 for PS4 Games?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/decode-and-fix-destiny-2s-centipede-error-for-a-smooth-gameplay-experience/"><u>Decode and Fix Destiny 2'S Centipede Error for a Smooth Gameplay Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005383441-error-2024-strikes-again-a-deep-dive-into-the-latest-hitch-in-cyberpunk-2077/"><u>Error 2024 Strikes Again! A Deep Dive Into the Latest Hitch in Cyberpunk 2077.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-fixing-pacific-disk-errors-and-preventing-system-failures-on-pc-or-laptop/"><u>Expert Advice: Fixing Pacific Disk Errors & Preventing System Failures on PC or Laptop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-getting-farming-simulator-ampler-to-start-properly/"><u>Expert Tips: Getting Farming Simulator Ampler to Start Properly</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/fullframe-alliance-how-to-choose-your-mcn-strategically-for-2024/"><u>FullFrame Alliance How to Choose Your MCN Strategically for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/google-chrome-not-opening-heres-how-you-can-fix-it/"><u>Google Chrome Not Opening? Here’s How You Can Fix It!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-error-0xc1eb190041-in-microsoft-windows-11-step-by-step-solution/"><u>How to Fix 'Error 0xC1eb190041' In Microsoft Windows 11 - Step-by-Step Solution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-unloading-textures-in-fortnites-battle-royale-mode/"><u>How to Fix Unloading Textures in Fortnite's Battle Royale Mode?</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-infinix-note-30-vip-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-restore-functionality-of-windows-spotlight-feature-on-windows-11/"><u>How to Restore Functionality of Windows Spotlight Feature on Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-counter-strike-2-from-crashing-on-windows-latest-fixes-and-tweaks/"><u>How to Stop Counter-Strike 2 From Crashing on Windows: Latest Fixes and Tweaks</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-oppo-a56s-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Oppo A56s 5G Phone that is Locked?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-chroma-key-techniques-in-live-broadcasts/"><u>Mastering Chroma Key Techniques in Live Broadcasts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/pattern-locks-are-unsafe-secure-your-motorola-moto-g84-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Motorola Moto G84 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993912665-resolve-the-black-ops-cold-war-visual-bug-code-27711-with-easy-steps/"><u>Resolve the Black Ops: Cold War Visual Bug Code [27711] with Easy Steps!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-league-of-legends-not-starting-here-are-your-top-strategies/"><u>Resolving 'League of Legends Not Starting?' Here Are Your Top Strategies !</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-video-not-working-errors-on-firefox-for-a-smooth-viewing-experience/"><u>Resolving Video Not Working Errors on Firefox for a Smooth Viewing Experience</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/securely-transforming-youtube-videos-into-mp3-files-3-techniques-for-2024/"><u>Securely Transforming YouTube Videos Into MP3 Files - 3 Techniques for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/simple-steps-to-resolve-lag-in-counter-strike-global-offensive/"><u>Simple Steps to Resolve Lag in Counter-Strike: Global Offensive</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004797636-solving-steam-remote-play-issues-top-troubleshooting-tips/"><u>Solving Steam Remote Play Issues: Top Troubleshooting Tips!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-nstep-guide-reactivating-logitechs-software-features-on-your-windows-machine/"><u>Step-by-nStep Guide: Reactivating Logitech's Software Features on Your Windows Machine</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-11-solutions-to-resolve-the-borderlands-3-wont-start-issue/"><u>Top 11 Solutions to Resolve the 'Borderlands 3 Won't Start' Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-overcoming-kodis-couldnt-retrieve-directory-information/"><u>Troubleshooting Guide: Overcoming Kodi's 'Couldn't Retrieve Directory Information'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-stuck-on-updates-for-the-microsoft-flight-simulator-2020/"><u>Troubleshooting Stuck on Updates for the Microsoft Flight Simulator 2020</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-fixing-unexpected-shutdowns-in-final-fantasy-xiv-for-windows-users/"><u>Troubleshooting: Fixing Unexpected Shutdowns in Final Fantasy XIV for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-reducing-latency-while-playing-dota-nd4-latest-techniques-unveiled/"><u>Ultimate Guide to Reducing Latency While Playing Dota nD4: Latest Techniques Unveiled</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unraveling-the-mystery-of-eternal-return-the-resilience-saga-continues/"><u>Unraveling the Mystery of 'Eternal Return': The Resilience Saga Continues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/untangling-the-mystery-of-lego-star-wars-the-skywalker-sagas-pc-crash-problem/"><u>Untangling the Mystery of Lego Star Wars: The Skywalker Saga's PC Crash Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-isnt-my-cortana-working-a-step-by-step-guide/"><u>Why Isn't My Cortana Working? A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-itel-a60s-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Itel A60s | Dr.fone</u></a></li>
+</ul></div>
+
+
+
+
