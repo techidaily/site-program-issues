@@ -1,7 +1,7 @@
 ---
 title: God of War - Overcoming Insufficient Memory Challenges for Uninterrupted Gameplay
-date: 2024-09-10T15:48:45.976Z
-updated: 2024-09-11T15:48:45.976Z
+date: 2024-09-10T17:27:42.205Z
+updated: 2024-09-16T22:26:35.511Z
 tags:
   - win11
   - win10
@@ -38,34 +38,6 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 ![Verify the game files in Epic Games launcher](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 3. Launch the game after the verifying process completed to see if it would crash again. If the game still crashes, try the next fix, below.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Fix 2: Update graphics driver
 
  The broken or outdated graphics driver may also be the main culprit behind the game crashing issues.
@@ -76,19 +48,12 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 
 There’re mainly two ways you can update your graphics drivers:
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Option 1: Manually
 
@@ -105,6 +70,13 @@ There’re mainly two ways you can update your graphics drivers:
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 Or
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -123,35 +95,8 @@ Or
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -178,18 +123,12 @@ Or
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 4. Restart your computer and launch the game.
 
@@ -214,43 +153,17 @@ Or
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to invoke the Run dialog. Type**appwiz.cpl** and press**Enter** to open the Programs and Features window in Control Panel.  
 ![Open Programs and Features window in Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/03/Open-Programs-and-Features-window-in-Control-Panel.jpg)
 2. **Right-click** on**Epics Games launcher** and select**Repair** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![how to repair Epics Games launcher](https://images.drivereasy.com/wp-content/uploads/2021/03/how-to-repair-Epics-Games-launcher.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  After Windows repaired Epics Games launcher, launch A Total War Saga: Troy to see if it will crash. If it still crashes, try the next fix, below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 7: Add A Total War Saga: Troy to the exceptions list of your 3rd party antivirus software
 
@@ -276,8 +189,6 @@ Or
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -287,43 +198,14 @@ Or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-record-video-with-logitech-webcam-guide/"><u>[New] In 2024, Record Video with Logitech Webcam [Guide]</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-chronicles-unveiled-the-best-narrative-channels-on-youtube-this-year/"><u>2024 Approved Chronicles Unveiled The Best Narrative Channels on YouTube This Year</u></a></li>
-<li><a href="https://program-issues.techidaily.com/5-best-ways-to-fix-zoom-cannot-start-video/"><u>5 Best Ways to Fix Zoom Cannot Start Video</u></a></li>
-<li><a href="https://win-dash.techidaily.com/amd-radeon-driver-update-guide-fixing-issues-and-enhancing-performance/"><u>AMD Radeon Driver Update Guide: Fixing Issues and Enhancing Performance</u></a></li>
-<li><a href="https://program-issues.techidaily.com/banish-lag-and-hitching-proven-methods-to-optimize-grand-theft-auto-5-performance/"><u>Banish Lag and Hitching: Proven Methods to Optimize Grand Theft Auto 5 Performance</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-lag-in-depth-techniques-to-fix-high-ping-challenges-in-back-4-blood/"><u>Beat the Lag: In-Depth Techniques to Fix High Ping Challenges in 'Back 4 Blood'</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boosting-your-gameplay-effective-tips-to-enhance-fps-and-minimize-lag-in-fall-guys/"><u>Boosting Your Gameplay: Effective Tips to Enhance FPS & Minimize Lag in Fall Guys</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/dias-del-mes-aprende-de-lunes-a-domingos-en-espanol/"><u>Días Del Mes: Aprende De Lunes a Domingos en Español</u></a></li>
-<li><a href="https://program-issues.techidaily.com/discord-and-javascript-woes-heres-how-to-fix-them/"><u>Discord and JavaScript Woes? Here’s How to Fix Them!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-ways-to-resolve-freezing-issues-between-chrome-and-windows-10/"><u>Easy Ways to Resolve Freezing Issues Between Chrome and Windows 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-for-preventing-qbittorrent-torrents-from-freezing-up/"><u>Effective Solutions for Preventing qBittorrent Torrents From Freezing Up</u></a></li>
-<li><a href="https://some-tips.techidaily.com/enhancing-client-trust-in-financial-institutions-with-abbyy-id-proofing-and-confirmation-services/"><u>Enhancing Client Trust in Financial Institutions with ABBYY ID Proofing and Confirmation Services</u></a></li>
-<li><a href="https://program-issues.techidaily.com/euro-truck-simulator-2-how-to-overcome-and-repair-persistent-pc-bugs/"><u>Euro Truck Simulator 2 - How to Overcome and Repair Persistent PC Bugs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-guide-resolving-cve-2024-6-exception-access-errors/"><u>Expert Guide: Resolving CVE-2024-6 Exception Access Errors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-garrys-mod-ultimate-guide-to-preventing-game-crashes-in-22024/"><u>Fixing Garry's Mod: Ultimate Guide to Preventing Game Crashes in 2^2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-zte-nubia-z60-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-unresponsive-utorrent-in-just-7-simple-steps-pro-tips-inside/"><u>How to Fix Unresponsive uTorrent in Just 7 Simple Steps - Pro Tips Inside</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-make-a-digital-signature-for-dotx-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to make a digital signature for .dotx file</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-lag-problems-in-resident-evil-village-on-your-pc-the-ultimate-guide/"><u>How To Resolve Lag Problems In Resident Evil Village on Your PC - The Ultimate Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-vivo-v30-lite-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo V30 Lite 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-craft-a-closer-vision-5-easy-ways-to-enhance-minecraft-screens/"><u>In 2024, Craft a Closer Vision 5 Easy Ways to Enhance Minecraft Screens</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-fixing-windows-system-crashes-dealing-with-blue-screen-error-0xc00eby/"><u>Mastering the Art of Fixing Windows System Crashes: Dealing with Blue Screen Error 0XC00eby</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-delays-in-half-life-aliest-comprehensive-solutions-for-a-smooth-pc-gaming-experience/"><u>Overcoming Delays in Half-Life: Aliest - Comprehensive Solutions for a Smooth PC Gaming Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-how-to-enable-gpu-usage-for-cyberpunk-2077-in-windows-10/"><u>Resolved: How to Enable GPU Usage for Cyberpunk 2077 in Windows 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-found-troubleshooting-steps-for-msi-mystic-light-issues-under-windows/"><u>Solution Found: Troubleshooting Steps for MSI Mystic Light Issues Under Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-forest-saga-pc-game-crashes-a-comprehensive-guide/"><u>Solving 'Forest Saga' PC Game Crashes - A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/speed-up-chrome-now-efficient-ways-to-optimize-your-browser-performance/"><u>Speed Up Chrome Now: Efficient Ways to Optimize Your Browser Performance</u></a></li>
-<li><a href="https://program-issues.techidaily.com/star-wars-jedi-fallen-order-how-to-fix-non-launching-problems-on-your-device/"><u>Star Wars Jedi: Fallen Order - How to Fix Non-Launching Problems on Your Device</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-fixing-dev-error-6634-in-cod-warzone-updated-tips/"><u>Step-by-Step Solutions for Fixing Dev Error 6634 in COD Warzone - Updated Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steps-for-a-smooth-experience-with-tiny-tinas-wonderlands-pc-patch-details/"><u>Steps for a Smooth Experience with Tiny Tina’s Wonderlands [PC Patch Details]</u></a></li>
-<li><a href="https://program-issues.techidaily.com/subnautica-beneath-the-ice-crash-error-fixes-and-tweaks-for-gaming-laptopspcs/"><u>Subnautica Beneath the Ice Crash Error Fixes & Tweaks for Gaming Laptops/PCs</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/top-facebook-song-videos-unveiled-a-making-of-chronicle/"><u>Top Facebook Song Videos Unveiled A Making-Of Chronicle</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722993515097-tower-of-fantasy-pc-game-persistently-fails-find-out-why/"><u>Tower of Fantasy PC Game Persistently Fails – Find Out Why</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-audio-malfunctions-in-microsofts-slide-decks/"><u>Troubleshooting Audio Malfunctions In Microsoft's Slide Decks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-overcoming-unresponsive-rust-programs-with-new-insights/"><u>Troubleshooting Guide: Overcoming Unresponsive Rust Programs with New Insights</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-life-is-strange-true-colors-solutions-for-persistent-game-crashes/"><u>Troubleshooting Life Is Strange: True Colors - Solutions for Persistent Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-fixing-lego-star-wars-the-skywalker-saga-pc-game-freezes-in-202/"><u>Troubleshooting Steps for Fixing Lego Star Wars: The Skywalker Saga PC Game Freezes in 202^</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-stop-rocket-league-from-freezing-tips-and-solutions/"><u>Ultimate Guide: Stop Rocket League From Freezing (Tips & Solutions)</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/upgrade-your-gaming-experience-with-officially-licensed-winx-dvd-copy-pro-instant-free-upgrade-available-now/"><u>Upgrade Your Gaming Experience with Officially Licensed WinX DVD Copy Pro – Instant, Free Upgrade Available Now!</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-navigating-through-booktoks-most-enthusiastic-recommendations/"><u>[Updated] In 2024, Navigating Through BookTok's Most Enthusiastic Recommendations</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-revolutionary-q500-the-ultimate-4k-bird-for-2024/"><u>[Updated] Revolutionary Q500 The Ultimate 4K Bird for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-exclusive-selection-11-audio-tech-winners/"><u>2024 Approved Exclusive Selection #11 Audio Tech Winners</u></a></li>
+<li><a href="https://program-issues.techidaily.com/anthem-startup-stuck-break-free-from-the-infinite-load-screen-error/"><u>Anthem Startup Stuck? Break Free From the Infinite Load Screen Error.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-to-stop-red-dead-online-from-crashing-on-your-computer-system/"><u>Expert Advice to Stop Red Dead Online From Crashing on Your Computer System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-cod-wwii-issue-understanding-and-overcoming-error-code-4128/"><u>Fixing the COD WWII Issue - Understanding and Overcoming Error Code ^4128</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-frame-rate-variations-fortnites-transformation-post-season-8-release/"><u>Understanding Frame Rate Variations - Fortnite's Transformation Post-Season 8 Release</u></a></li>
 </ul></div>
+

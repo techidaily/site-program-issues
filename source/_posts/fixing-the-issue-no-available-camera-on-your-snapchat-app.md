@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: 'No Available Camera' On Your Snapchat App"
-date: 2024-08-06T09:47:16.216Z
-updated: 2024-08-07T09:47:16.216Z
+date: 2024-09-13T20:54:08.235Z
+updated: 2024-09-16T18:04:40.503Z
 tags:
   - win11
   - win10
@@ -37,21 +37,12 @@ These days, players are super hyped for the Elden Ring release. However, a large
 
 1. In the Search box, type **windows firewall** and click **Windows Defender Firewall**  from the results.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/windows-firewall-1.jpg)
 2. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![allow an app through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
 3. Now you need to scroll down until you can find Elden Ring. If your game isn’t on the list, click on **Change settings > Allow another app…** .  
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![allow Modern Warfare through Windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/03/allow-modern-warfare-through-windows-firewall.jpg)
 4. Your File Explorer is now opening. Then you can navigate to the game’s installation folder and add it to the list. Then **check the boxes under the Domain, Private and Public tabs** , and click **OK** to save the settings.
 
@@ -64,9 +55,6 @@ Now see if you could start the game. If not, try the next method.
 1. On your keyboard, press the **Windows logo key + R**  at the same time to open the Run dialog box.
 2. Type **taskmgr**  and press **Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the **Processes**  tab, select the program and click **End task** until you close all the unneeded applications.  
 
@@ -83,26 +71,24 @@ Now see if you could start the game. If not, try the next method.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any devices with outdated drivers.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC and try to launch the game. If your problem persists, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Check for and install Windows updates
 
  Apart from keeping your drivers up to date, you should also update your Windows. Windows updates usually come with bug fixes (including fixes for compatibility issues) and bring new features. To diagnose your problem, you should check for and install Windows updates.
@@ -114,6 +100,13 @@ Now see if you could start the game. If not, try the next method.
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Wait for the process to complete and you should be asked to restart your computer.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
 #### On Windows 11
@@ -124,23 +117,13 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/check-windows-update.png)
 3. Click **Check for updates** . Then Windows will start downloading the updates if they are available.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/check-for-updates.png)
 4. When the process is complete, click **Restart now**  to restart your PC. Or you can **Schedule the restart** .  
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/restart-after-windows-updates.png)
 
  If installing Windows updates doesn’t seem to solve your issue, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## 5\. Run your game as administrator
 
  Running a program as an administrator could be a simple workaround to resolve issues due to the lack of administrative rights. So you can give it a try and see if it does the trick.
@@ -150,16 +133,34 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Elden-Ring-browse-files.png)
 2. Locate your game’s exe file. Right-click it and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Elden-Ring-exe-properties.png)
 3. Select the**Compatibility** tab. Check**Run this program as an administrator** . Then click**Apply > OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/run-Elden-Ring-as-administrator.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After applying the changes, try to relaunch your game and see how things go. If you still can’t play Elden Ring, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Verify integrity of game files
 
  Missing or corrupted game files will prevent your game from launching properly. To see if that’s the case with your Elden Ring, you can verify the integrity of your game files.
@@ -169,18 +170,12 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Elden-Ring-verify-integrity-of-game-files-properties.png)
 2. Choose the**LOCAL FILES** tab. Then click on the**Verify integrity of game files…** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Elden-Ring-verify-integrity-of-game-file.png)
 3. Steam will verify the game files. This process may take a few minutes.  
  (You may encounter file validation failures, which is normal. If that’s what’s happening to you, you can safely ignore this message. )  
 
  Once the process is complete, close the window.  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Elden-Ring-completed-verifying-integrity-of-game-files.png)
 
 If you still fail to launch Elden Ring, proceed to the next fix.
@@ -207,11 +202,30 @@ If you still fail to launch Elden Ring, proceed to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-streamlined-scheduling-combine-iphoneandroid-calendars-with-zoom-for-2024/"><u>[New] Streamlined Scheduling Combine iPhone/Android Calendars With Zoom for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-in-depth-look-at-ipad-display-logging/"><u>[Updated] 2024 Approved In-Depth Look at iPad Display Logging</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-optimizing-recording-quality-tips-and-tricks-for-ps3-gamers/"><u>2024 Approved Optimizing Recording Quality Tips and Tricks for PS3 Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-hdi-display-fidelity-mouse-options/"><u>Elite HDI Display Fidelity Mouse Options</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-call-of-duty-black-ops-4-launch-failure-issues/"><u>Fixes for 'Call of Duty Black Ops 4' Launch Failure Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-thaumaturge-malfunction-solutions-for-your-pc-problems/"><u>Fixing the Thaumaturge Malfunction – Solutions for Your PC Problems</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-tecno-phantom-v-fold-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Tecno Phantom V Fold FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-stream-mastery-on-mac-with-these-5-tools/"><u>In 2024, Stream Mastery on Mac with These 5 Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/liquid-serenity-crafting-the-perfect-whisper-quiet-computer-system-to-dive-into-your-own-maze-adventure/"><u>Liquid Serenity: Crafting the Perfect Whisper-Quiet Computer System to Dive Into Your Own Maze Adventure</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/navigating-the-path-to-youtube-video-co-creation-and-partnerships/"><u>Navigating the Path to YouTube Video Co-Creation & Partnerships</u></a></li>
+<li><a href="https://program-issues.techidaily.com/nier-automata-remaster-resolving-startup-difficulties-and-fixes/"><u>NieR: Automata Remaster - Resolving Startup Difficulties and Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-palworld-session-errors-in-your-quest-for-information/"><u>Overcoming PalWorld Session Errors in Your Quest for Information</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-freeze-issues-in-halo-infinite-on-your-computer-a-step-by-step-guide-with-seven-simple-solutions/"><u>Resolving the Freeze Issues in Halo Infinite on Your Computer: A Step-by-Step Guide with Seven Simple Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-repairing-star-wars-battlefront-2s-fatal-error-327-complete-solution-walkthrough/"><u>Troubleshooting and Repairing Star Wars Battlefront 2'S Fatal Error #327 - Complete Solution Walkthrough</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-msedgeexe-faults-in-windows-systems/"><u>Troubleshooting MSEdge.exe Faults in Windows Systems</u></a></li>
+<li><a href="https://driver-install.techidaily.com/unlock-latest-yoga-900-potential-with-new-drivers/"><u>Unlock Latest Yoga 900 Potential with New Drivers</u></a></li>
+</ul></div>
+

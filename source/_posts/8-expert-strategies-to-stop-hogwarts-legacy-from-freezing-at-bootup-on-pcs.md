@@ -1,7 +1,7 @@
 ---
 title: 8 Expert Strategies to Stop Hogwarts Legacy From Freezing at Bootup on PCs
-date: 2024-08-06T09:47:17.818Z
-updated: 2024-08-07T09:47:17.818Z
+date: 2024-09-14T18:48:43.361Z
+updated: 2024-09-16T17:35:59.811Z
 tags:
   - win11
   - win10
@@ -26,9 +26,6 @@ Atomic Heart crashing issue is annoying. This popular video game is not immune t
 7. **[Disable third-party software](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Update Flawless Widescreen
 
  If you’re using Flawless Widescreen on your PC, this plugin seems the culprit of the crashes. The development team has recognized the issue and fixed it in their latest update. But if you still encounter crashes, you can turn off the**Scanning Fix** checkbox from the Flawless Widescreen plugin and try the game again.
@@ -52,9 +49,6 @@ There are two ways to find the correct and the latest driver:
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -62,18 +56,12 @@ There are two ways to find the correct and the latest driver:
 
  Restart your computer for the changes to take effect, and then check Atomic Heart again. It should be running properly. If not, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## 3\. Kill WindowsExplorer.exe
 
  Some gamers found if you’re playing through the game pass, you can kill the WindowsExplorer.exe in the task manager to fix Atomic Heart crashing issue.
 
 1. Open Task manager by pressing Alt+Del+Shift together.
 2. Find Windows Explorer.exe task and end it.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/end-task-windows-explorer.jpg)
 3. Play the game again to check for crashes.
 
@@ -85,23 +73,27 @@ There are two ways to find the correct and the latest driver:
 
 1. Launch the Steam client and go to Library.
 2. Right-click Atomic Heart and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/Steam-right-click-Properties.jpg)
 3. Click the**Local Files** tab, then select**Verify Integrity of Game Files** .  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-game-files.jpg)
 4. When it’s done, relaunch Steam and the game.
 
 If it doesn’t help, move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Lower graphical settings
 
@@ -109,9 +101,6 @@ If it doesn’t help, move to the next fix.
 
  You can run Atomic Heart at medium or lower graphical settings and see if the issue goes away. Some gamers reported they were able to get through the_March Of Flowers_ quest without crashes by turning down all graphics settings to the minimum (including resolution) and turning off DLSS Super Resolution.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Repair system files
 
  Problematic system files (e.g. missing DLLs) can also affect the smooth launching and operation of the system and game. To check if your PC has flawed system files, you may want to run a quick and thorough scan with **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -124,14 +113,31 @@ Take a look at how it works:
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After the repairs, restart your computer and Atomic Heart to see if it fixes the problem.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Disable third-party software
 
@@ -157,11 +163,27 @@ Take a look at how it works:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-avoid-mainstream-underrated-movies-of-the-year/"><u>[New] 2024 Approved Avoid Mainstream Underrated Movies of the Year</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-top-6-defensive-mc-home-designs/"><u>[Updated] 2024 Approved Top 6 Defensive MC Home Designs</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-leading-edge-in-online-gif-conversion-to-video-best-5/"><u>[Updated] In 2024, Leading Edge in Online GIF Conversion to Video (Best 5)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/a-deep-dive-into-sns-hdr-does-it-justify-its-cost/"><u>A Deep Dive Into SNS HDR Does It Justify Its Cost?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/advanced-screen-transcriber-for-chromeos-for-2024/"><u>Advanced Screen Transcriber for ChromeOS for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/creating-original-ai-images-with-microsofts-copilot-toolkit/"><u>Creating Original AI Images with Microsoft's Copilot Toolkit</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/essential-mobile-cleaners-for-wiping-video-badges/"><u>Essential Mobile Cleaners for Wiping Video Badges</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-address-and-repair-the-bocw-user-interface-gaffe-error-27711/"><u>How to Address and Repair the BOCW User Interface Gaffe (Error 27711)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-your-vfx-creation-with-story-remix-and-windows-10-photos/"><u>In 2024, Streamline Your VFX Creation with Story Remix and Windows 10 Photos</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-not-working-on-samsung-galaxy-s23-tactical-edition-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Samsung Galaxy S23 Tactical Edition? 8 Solutions Inside | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-destiny-2-graphical-glitches-initialization-error-fix/"><u>Resolving Destiny 2 Graphical Glitches - Initialization Error Fix</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-your-itunes-warning-fixes-for-audio-setup-concerns-addressed/"><u>Understanding Your iTunes Warning: Fixes for Audio Setup Concerns Addressed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-is-my-pc-not-finding-matches-in-cod-warzone-expert-tips-for-players/"><u>Why Is My PC Not Finding Matches in COD Warzone? Expert Tips for Players</u></a></li>
+</ul></div>
+

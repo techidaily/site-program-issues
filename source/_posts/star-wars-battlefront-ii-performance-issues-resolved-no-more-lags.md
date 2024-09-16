@@ -1,7 +1,7 @@
 ---
 title: Star Wars Battlefront II Performance Issues Resolved - No More Lags
-date: 2024-09-10T15:48:44.765Z
-updated: 2024-09-11T15:48:44.765Z
+date: 2024-09-14T19:22:08.290Z
+updated: 2024-09-16T18:46:24.300Z
 tags:
   - win11
   - win10
@@ -66,20 +66,6 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 2: Update your graphics driver
 
  If your graphics driver is outdated or corrupted, it may cause the game FPS drops issue. Updating the graphics driver can not only enhance the performance of your graphics card, but also avoid many unexpected computer issues in the future.
@@ -110,20 +96,6 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 3: Install the latest DayZ patch
 
  The developers of DayZ release regular game patches to fix bugs. It’s possible that a recent patch has caused the FPS drops issue, and that a new patch is required to fix it.
@@ -131,20 +103,6 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
  If a patch is available, just download and install it to see if it can fix the FPS drops issue; if there’s no patches available, or if the issue persists after you installed the latest patch, try the next fix, below.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Modify the graphics settings
 
@@ -156,64 +114,19 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel.jpg)
 2. View Control Panel by **Large icons** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Click **NVIDIA Control Panel**  to open it.  
 
-
-
-
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvidia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvida-control-panel-3D-settings.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 #### Lower the in-game graphics settings
 
@@ -235,19 +148,12 @@ See if you can play the game smoothly. If not, try the next fix, below.
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 5: Restrict applications and downloads in the background
 
@@ -273,6 +179,13 @@ See if you can play the game smoothly. If not, try the next fix, below.
 
 Try the next fix below if this fix didn’t work for you.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Change the power plan of your PC
 
  Most PC are configured to **Balanced** , which may limits the operating capacity of your graphics card and CPU. If the power plan of your PC is **Power saver**  or **Balanced** , you might run into the game FPS drops issue.
@@ -283,34 +196,14 @@ Try the next fix below if this fix didn’t work for you.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Launch DayZ to see if you resolve the FPS drops issue. If not, try the next fix below to adjust your Windows system for the best performance.
 
@@ -327,19 +220,12 @@ Try the next fix below if this fix didn’t work for you.
 3. Select **Adjust for best performance**  and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/adjust-for-best-performance.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Launch DayZ to see if the FPS drops not mot. If not, congratulations! You’ve fixed this issue.
 
@@ -356,8 +242,6 @@ Try the next fix below if this fix didn’t work for you.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -367,40 +251,15 @@ Try the next fix below if this fix didn’t work for you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-analytics-tools-for-an-improved-tracking-of-your-instagram-metrics-for-2024/"><u>[New] Analytics Tools For an Improved Tracking of Your Instagram Metrics for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-face-fluidity-techniques-implementing-motion-blur-effects/"><u>[New] Face Fluidity Techniques Implementing Motion Blur Effects</u></a></li>
-<li><a href="https://program-issues.techidaily.com/addressing-and-repairing-the-issues-behind-persistent-black-screens/"><u>Addressing and Repairing the Issues Behind Persistent Black Screens</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boosting-performance-essential-tips-to-increase-fps-and-minimize-lag-in-fall-guys/"><u>Boosting Performance: Essential Tips to Increase FPS & Minimize Lag in Fall Guys</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723008173852-call-of-duty-black-ops-iv-wont-start-here-are-proven-fixes-to-get-you-gameplaying-asap/"><u>Call Of Duty Black Ops IV Won't Start? Here Are Proven Fixes to Get You Gameplaying ASAP!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/crash-free-experience-with-kurtzpel-top-strategies-to-overcome-technical-glitches/"><u>Crash-Free Experience with KurtzPel: Top Strategies to Overcome Technical Glitches</u></a></li>
-<li><a href="https://fox-info.techidaily.com/dawn-of-new-horizons-lighten-up-your-android-vids-for-2024/"><u>Dawn of New Horizons Lighten Up Your Android Vids for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/deciphering-and-fixing-call-of-duty-black-ops-cold-war-error-code-0xc0000005-comprehensive-guide/"><u>Deciphering and Fixing 'Call of Duty: Black Ops Cold War' Error Code 0Xc0000005 - Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-ways-how-to-prevent-vrchat-pc-applications-from-suddenly-shutting-down/"><u>Effective Ways: How to Prevent VRChat PC Applications From Suddenly Shutting Down</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortlessly-resolve-your-discord-installation-errors-with-these-simple-tips/"><u>Effortlessly Resolve Your Discord Installation Errors with These Simple Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/exclusive-windows-1011-climate-choices/"><u>Exclusive Windows 10/11 Climate Choices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723000066368-expert-solutions-for-the-notorious-terraria-crash-issue-get-rid-of-it-now/"><u>Expert Solutions for the Notorious Terraria Crash Issue - Get Rid of It Now!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/find-the-hottest-verizon-contract-termination-and-upgrade-promotions-now/"><u>Find the Hottest Verizon Contract Termination and Upgrade Promotions Now</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-modern-warfare-3-continuous-crashing-issues-in-pc-version-with-quick-tips/"><u>Fix Modern Warfare 3 Continuous Crashing Issues in PC Version with Quick Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-resolving-adobe-premiere-pro-crashes-on-windows-1110/"><u>Fixes and Solutions: Resolving Adobe Premiere Pro Crashes on Windows 11/10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-ghost-recon-breakpoints-crash-problems-a-fast-and-simple-guide/"><u>Fixing Ghost Recon Breakpoint's Crash Problems - A Fast and Simple Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-hardware-not-found-on-rainbow-six-expedition-comprehensive-driver-solutions/"><u>Fixing Hardware Not Found on Rainbow Six Expedition: Comprehensive Driver Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-the-program-cant-start-because-a-microsoft-visual-cplusplus-runtime-library-was-missing-in-adobe-software/"><u>How to Fix 'The Program Can't Start Because a Microsoft Visual C++ Runtime Library Was Missing' In Adobe Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-dragging-loaders-in-fallout-4-quickly/"><u>How to Fix Dragging Loaders in Fallout 4 Quickly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-persistent-crash-issues-in-metro-exodus-enhanced-edition-pc/"><u>How to Fix Persistent Crash Issues in Metro Exodus Enhanced Edition (PC)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-constant-buffering-in-apex-legends-error-fixes-explained/"><u>How to Overcome Constant Buffering in Apex Legends – Error Fixes Explained</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-12-mini-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 12 mini Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-samsung-galaxy-m14-4g-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Samsung Galaxy M14 4G?</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-s-best-free-wmv-video-concatenation-software/"><u>New S Best Free WMV Video Concatenation Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-performance-for-a-smooth-experience-in-age-of-empires-4/"><u>Optimizing Performance for a Smooth Experience in Age of Empires 4</u></a></li>
-<li><a href="https://program-issues.techidaily.com/outriders-launching-issues-successful-strategies-and-tips-to-play-without-glitches/"><u>Outriders Launching Issues? Successful Strategies and Tips to Play Without Glitches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-solution-how-to-stop-outriders-from-continuously-crashing/"><u>Quick Solution: How to Stop Outriders From Continuously Crashing</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Oppo A38? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-dota-2-issues-with-game-not-starting-or-getting-stuck-at-boot/"><u>Resolved: Fixes for Dota 2 Issues with Game Not Starting or Getting Stuck at Boot</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-cannot-reach-live-config-servers-troubleshooting-guide/"><u>Resolving 'Cannot Reach Live Config Servers': Troubleshooting Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723008712954-revamped-century-age-of-ashes-game-now-stable-and-smooth-for-pc-users/"><u>Revamped 'Century: Age of Ashes' Game Now Stable and Smooth for PC Users!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-stability-issues-with-code-vean-for-pc-players/"><u>Solving Stability Issues with Code Vean for PC Players</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-medium-and-pc-compatibility-woes-understanding-the-frequent-crashes/"><u>The Medium and PC Compatibility Woes: Understanding the Frequent Crashes</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nubia-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Nubia Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://program-issues.techidaily.com/untangle-gaming-woes-ensuring-smooth-performance-of-watch-dogs-legion-on-pc/"><u>Untangle Gaming Woes: Ensuring Smooth Performance of Watch Dogs Legion on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/wave-goodbye-to-your-pcs-troublesome-last-epoch-crashes-a-comprehensive-guide-full-of-fresh-fixes-from-2024/"><u>Wave Goodbye to Your PC's Troublesome Last Epoch Crashes: A Comprehensive Guide Full of Fresh Fixes From 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-aspect-ratios-in-action-facebooks-video-direction/"><u>[Updated] Aspect Ratios in Action Facebook's Video Direction</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-insightful-evaluation-of-the-latest-lg-360-cam-model/"><u>2024 Approved Insightful Evaluation of the Latest LG 360 Cam Model</u></a></li>
+<li><a href="https://some-tips.techidaily.com/abbyy-embarks-on-a-revolutionary-journey-in-organizing-documents-by-type/"><u>ABBYY Embarks on a Revolutionary Journey in Organizing Documents by Type</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-journey-to-downloadability-free-photo-frames-on-demand/"><u>In 2024, Journey to Downloadability Free Photo Frames on Demand</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-experience-fixing-low-frame-rates-in-forza-horizon-5-for-pc-gaming/"><u>Optimizing Your Experience: Fixing Low Frame Rates in Forza Horizon 5 for PC Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722994764250-pathfinder-wrath-of-the-righteous-persistent-crash-problems-now-solved/"><u>Pathfinder: Wrath of the Righteous - Persistent Crash Problems Now Solved</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-how-to-repair-content-warning-in-voice-chats-that-arent-working/"><u>Step-by-Step Solutions: How to Repair 'Content Warning' In Voice Chats That Aren't Working</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-your-gaming-session-from-ending-abruptly-overcoming-continuous-pc-crashes-with-new-titles/"><u>Stop Your Gaming Session From Ending Abruptly: Overcoming Continuous PC Crashes with New Titles</u></a></li>
 </ul></div>
+

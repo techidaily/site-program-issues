@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Excessive CPU Use in Phasmophobia: Effective Solutions and Tips"
-date: 2024-09-10T15:48:47.135Z
-updated: 2024-09-11T15:48:47.135Z
+date: 2024-09-12T17:53:05.084Z
+updated: 2024-09-16T18:45:59.458Z
 tags:
   - win11
   - win10
@@ -64,20 +64,6 @@ thumbnail: https://thmb.techidaily.com/b2db5fedee40970035cb3002dc7dfcbc1c0c6f7d7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -85,19 +71,12 @@ thumbnail: https://thmb.techidaily.com/b2db5fedee40970035cb3002dc7dfcbc1c0c6f7d7
 
  Relaunch the game to test your issue. If it’s still occurring, try the next fix below.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Fix 3: Verify Warframe cache files
 
@@ -111,45 +90,18 @@ thumbnail: https://thmb.techidaily.com/b2db5fedee40970035cb3002dc7dfcbc1c0c6f7d7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-35-03.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **3)**  After the process is complete, click**Optimize** .
 
 **4)** Launch the game to test your issue.
 
 Your game still freezes? Try the next fix below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 4: Lower in-game graphics settings
 
@@ -161,20 +113,6 @@ Your game still freezes? Try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-39-18.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **3)** Under the DISPLAY tab, go to**Graphics Quality > Preset** to **Medium** or **Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-31-55.jpg)
@@ -183,21 +121,14 @@ Your game still freezes? Try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-41-10.jpg)
 
-If your issue persists, then move on to the next fix below.
-
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+If your issue persists, then move on to the next fix below.
 
 ## Fix 5: Turn off unnecessary programs
 
@@ -227,8 +158,6 @@ If your issue persists, then move on to the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -238,65 +167,14 @@ If your issue persists, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-effortless-android-screenshot-and-screen-record/"><u>[New] 2024 Approved Effortless Android Screenshot & Screen Record</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/isrupt-unbidden-youtube-content-feeds-for-2024/"><u>[New] Disrupt Unbidden YouTube Content Feeds for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-troubleshooting-and-solving-left-4-dead-2-crashes/"><u>[SOLVED] Troubleshooting and Solving Left 4 Dead 2 Crashes</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-humor-and-memes-galore-iphones/"><u>[Updated] In 2024, Humor & Memes Galore, iPhones</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-live-tv-on-your-desktop-windows-pc-masterclass-in-capturing-screens/"><u>[Updated] In 2024, Live TV on Your Desktop Windows PC Masterclass in Capturing Screens</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-top-screen-recording-software-showdown-obs-or-fraps-battle/"><u>[Updated] In 2024, Top Screen Recording Software Showdown OBS or Fraps Battle</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-notes-navigated-steps-for-sound-submissions-to-youtube-for-2024/"><u>[Updated] Notes Navigated Steps for Sound Submissions to YouTube for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-best-free-srt-translators-online-an-elite-list-of-8/"><u>2024 Approved Best FREE SRT Translators Online An Elite List of 8</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-maximizing-4k-imaging-top-lens-choices/"><u>2024 Approved Maximizing 4K Imaging Top Lens Choices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/addressing-no-driver-found-errors-in-rainbow-six-extraction-a-step-by-step-guide/"><u>Addressing 'No Driver Found' Errors in Rainbow Six Extraction – A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/banish-outriders-unreal-engine-4-error-mastering-the-fix-for-a-smooth-gaming-experience/"><u>Banish Outriders' Unreal Engine 4 Error - Mastering the Fix for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/battle-the-glitches-effective-fixes-for-crashing-issues-in-final-fantasy-xv-pc-edition/"><u>Battle the Glitches: Effective Fixes for Crashing Issues in Final Fantasy XV PC Edition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/battlefront-ii-crash-fixes-effective-techniques-to-enhance-pc-gameplay-performance/"><u>Battlefront II Crash Fixes: Effective Techniques to Enhance PC Gameplay Performance</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-code-red-quick-solutions-for-playing-valorant-on-windows-in-202/"><u>Beat the Code Red: Quick Solutions for Playing Valorant on Windows in 202</u></a></li>
-<li><a href="https://program-issues.techidaily.com/call-of-duty-vanguard-and-the-mystery-of-error-0x00001338-n-a-complete-fix-for-pc/"><u>Call of Duty Vanguard and the Mystery of Error 0X00001338 (N) - A Complete Fix for PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cracking-the-code-stop-your-bloodborne-from-crashing-once-and-for-all-fixed/"><u>Cracking the Code: Stop Your 'Bloodborne' From Crashing Once and For All! [FIXED]</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-on-steam-how-to-fix-download-glitches-a-step-by-step-solution-guide/"><u>Cyberpunk 2077 on Steam - How To Fix Download Glitches: A Step-by-Step Solution Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/discord-overlay-issue-resolved-fix-it-fast-and-simple/"><u>Discord Overlay Issue Resolved: Fix It Fast and Simple</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-soundmax-drivers-for-windows-systems/"><u>Download & Install SoundMAX Drivers for Windows Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-guide-to-stop-slime-rancher-2-from-unexpectedly-shutting-down-on-windowsmacos/"><u>Easy Guide to Stop 'Slime Rancher 2' From Unexpectedly Shutting Down on Windows/MacOS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancing-your-gaming-experience-proven-methods-to-fix-ping-and-lag-challenges-in-street-fighter-6-on-pc/"><u>Enhancing Your Gaming Experience: Proven Methods to Fix Ping and Lag Challenges in Street Fighter 6 on PC</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/explore-the-leading-free-subtitle-tools-online/"><u>Explore the Leading Free Subtitle Tools Online</u></a></li>
-<li><a href="https://article-helps.techidaily.com/exploring-depths-smoothly-premium-camcorders-for-water-sports/"><u>Exploring Depths Smoothly Premium Camcorders for Water Sports</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-how-to-stop-halo-3-from-crashing-on-your-pc/"><u>Fixes and Solutions: How to Stop Halo 3 From Crashing on Your PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-overcome-constant-crashing-in-valheim-game/"><u>Fixes and Solutions: Overcome Constant Crashing in Valheim Game</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-problems-when-content-warning-doesnt-work-in-your-voice-chats/"><u>Fixing Problems When 'Content Warning' Doesn’t Work in Your Voice Chats</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/fixing-skewed-views-in-internet-based-videos-for-2024/"><u>Fixing Skewed Views in Internet-Based Videos for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-to-getting-days-gone-running-smoothly-on-your-pc-solved/"><u>Guide to Getting Days Gone Running Smoothly on Your PC [SOLVED]</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723004091413-how-to-address-the-notorious-error-4201-on-genshin-impact-detailed-fixes/"><u>How To Address the Notorious Error 4201 on Genshin Impact – Detailed Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-and-solve-crash-issues-on-your-playstation-or-pc-with-resident-evil/"><u>How to Prevent and Solve Crash Issues on Your PlayStation or PC with Resident Evil 지금</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-overwatch-from-crashing-due-to-graphics-drivers/"><u>How to Stop Overwatch From Crashing Due to Graphics Drivers</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-13-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 13 Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-7-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improved-resolution-on-outriders-say-goodbye-to-blurry-game-scenes/"><u>Improved Resolution on Outriders - Say Goodbye to Blurry Game Scenes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improving-game-fluidity-overcome-valheims-frame-rate-hurdles-with-these-2024-fixes/"><u>Improving Game Fluidity: Overcome Valheim's Frame Rate Hurdles with These 2024 Fixes</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/league-of-legends-connectivity-fix-overcoming-lag-and-disconnects/"><u>League of Legends Connectivity Fix: Overcoming Lag and Disconnects</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-optimal-performance-no-more-lag-with-resident-evil-village-on-your-pc/"><u>Mastering Optimal Performance: No More Lag with Resident Evil Village on Your PC!</u></a></li>
-<li><a href="https://win-able.techidaily.com/mlb-the-show-21-server-connectivity-latest-patch-solves-the-problems/"><u>MLB The Show 21 Server Connectivity - Latest Patch Solves the Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-glitches-in-football-manager-2022-for-your-desktop-effective-solutions-available/"><u>No More Glitches in Football Manager 2022 for Your Desktop – Effective Solutions Available!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-gta-style-interruptions-solve-hitman-3s-pc-crash-issues-in-the-new-year/"><u>No More GTA-Style Interruptions: Solve Hitman 3'S PC Crash Issues in the New Year</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723006434771-now-divide-both-sides-by-72-to-solve-for-x/"><u>Now, Divide Both Sides by 72 to Solve for X:</u></a></li>
-<li><a href="https://program-issues.techidaily.com/obs-screen-capture-woes-heres-how-to-get-it-up-and-running-again/"><u>OBS Screen Capture Woes? Here's How to Get It Up and Running Again</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-startup-difficulties-a-guide-to-farming-simulator-22-issues/"><u>Overcoming Startup Difficulties: A Guide to Farming Simulator 22 Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-technical-hurdles-for-a-seamless-playthrough-of-robocop-rogue-city-on-personal-computers/"><u>Overcoming Technical Hurdles for a Seamless Playthrough of RoboCop: Rogue City on Personal Computers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/perfect-peace-mastering-the-art-of-muting-individuals-on-gomeet-for-2024/"><u>Perfect Peace Mastering the Art of Muting Individuals on GoMeet for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-tips-to-enhance-performance-and-reduce-lag-in-your-elden-ring-adventure/"><u>Quick Tips to Enhance Performance & Reduce Lag in Your Elden Ring Adventure</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolve-your-sea-of-thieves-game-crash-issues-here/"><u>Resolve Your Sea of Thieves Game Crash Issues Here</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-dark-display-problems-in-rainbow-six-siege-on-your-computer/"><u>Resolving the Dark Display Problems in Rainbow Six Siege on Your Computer</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/seamless-adjustment-for-videos-and-graphics/"><u>Seamless Adjustment for Videos and Graphics</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-fixing-starfield-game-crashes-and-freezes-on-windows-pcs/"><u>Solved: Fixing Starfield Game Crashes and Freezes on Windows PCs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-issues-when-the-nvidia-control-panel-wont-launch-or-keeps-freezing/"><u>Solving Issues When the NVIDIA Control Panel Won't Launch or Keeps Freezing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-overcoming-battlenet-launch-failures/"><u>Step-by-Step Guide to Overcoming Battle.net Launch Failures</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-struggling-with-bf2042-expert-advice-for-resolving-pc-game-crashes/"><u>Stop Struggling with BF2042: Expert Advice for Resolving PC Game Crashes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/strategies-for-finding-individual-phone-details-in-cyberspace/"><u>Strategies for Finding Individual Phone Details in Cyberspace</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/streamsmart-beyond-the-dacast-shell-for-2024/"><u>StreamSmart Beyond the DaCast Shell for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723012418783-trouble-with-fall-guys-heres-how-to-stop-it-from-crashing-at-launch/"><u>Trouble with Fall Guys? Here’s How to Stop It From Crashing at Launch</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-pc-audio-issues-fixing-low-speaker-output-in-windows-11/"><u>Troubleshooting PC Audio Issues: Fixing Low Speaker Output in Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steams-remote-play-top-solutions-for-when-it-fails/"><u>Troubleshooting Steam's Remote Play: Top Solutions for When It Fails</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-the-non-responsive-corsair-icue-software-in-windows-11-environments/"><u>Troubleshooting the Non-Responsive Corsair iCUE Software in Windows 11 Environments</u></a></li>
-<li><a href="https://facebook.techidaily.com/what-remains-when-fb-is-gone/"><u>What Remains When FB Is Gone?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-streamers-dilemma-choose-between-obs-and-twitch/"><u>[Updated] 2024 Approved Streamer's Dilemma Choose Between OBS & Twitch</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-discovering-the-secret-to-instagram-voice-change-for-2024/"><u>[Updated] Discovering the Secret to Instagram Voice Change for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mp420247/"><u>「MP4ビデオを分解してご利用ください：2024新世代最高のフリーソフト7品評」</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-s23-ultra-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/installation-of-codegpt-in-visual-studio-code/"><u>Installation of CodeGPT in Visual Studio Code</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-constant-crashes-of-ascent-tips-and-solutions-for-a-smooth-gaming-experience/"><u>Resolving Constant Crashes of 'Ascent': Tips and Solutions for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-frame-drops-in-age-of-empires-iv-a-comprehensive-guide/"><u>Resolving Frame Drops in Age of Empires IV: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-what-to-do-if-paradox-launcher-wont-open/"><u>Solving the Issue: What to Do If Paradox Launcher Won't Open</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-overcoming-house-flipper-2-stalling-episodes-on-personal-computers/"><u>Step-by-Step Solution: Overcoming 'House Flipper 2' Stalling Episodes on Personal Computers</u></a></li>
 </ul></div>
+

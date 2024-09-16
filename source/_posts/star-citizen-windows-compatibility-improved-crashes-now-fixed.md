@@ -1,7 +1,7 @@
 ---
 title: Star Citizen Windows Compatibility Improved, Crashes Now Fixed
-date: 2024-09-10T15:51:03.450Z
-updated: 2024-09-11T15:51:03.450Z
+date: 2024-09-10T19:58:41.051Z
+updated: 2024-09-16T18:52:42.774Z
 tags:
   - win11
   - win10
@@ -17,27 +17,10 @@ thumbnail: https://thmb.techidaily.com/f5fc965758dead74b06c9dd7514fff9b2e384059d
 
 As soon as you load into the game, Star Citizen crashes immediately. This could be frustrating but don’t worry, this post could help.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -50,20 +33,6 @@ As soon as you load into the game, Star Citizen crashes immediately. This could 
 5. [Reset your character account](https://tools.techidaily.com/drivereasy/download/)
 6. [Increase page file size](https://tools.techidaily.com/drivereasy/download/)
 7. [Reset or reinstall Windows](https://tools.techidaily.com/drivereasy/download/)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Disconnect any peripheral devices
 
@@ -81,34 +50,14 @@ As soon as you load into the game, Star Citizen crashes immediately. This could 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-28_17-13-04.jpg)
 4. Click**Capture** . Under**Background recording** , turn off**Record in the background while I’m playing a game** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-28_17-11-48.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Kill background programs
 
@@ -120,20 +69,6 @@ If you’re using D3DGear, you must uninstall it to fix the issue.
 2. Choose the program and click**End task** . Repeat the process until you’ve closed all the unnecessary background apps.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-26-59.jpg)
 3. Reboot the game to check.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Update your driver
 
@@ -151,12 +86,27 @@ So, there are two ways that you can update your graphics driver:
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The PRO version comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
  (Alternatively, if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Reset your character account
 
@@ -165,26 +115,6 @@ So, there are two ways that you can update your graphics driver:
 1. Go to the[site](https://robertsspaceindustries.com/) and log in to your account.
 2. Click**Settings > Character reset** .
 3. Click**Reset Request** .
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 6: Increase page file size
 
@@ -212,8 +142,6 @@ So, there are two ways that you can update your graphics driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -221,52 +149,22 @@ So, there are two ways that you can update your graphics driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-dissecting-the-advantages-of-lg-bp350-display-tech/"><u>[New] 2024 Approved Dissecting the Advantages of LG BP350 Display Tech</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-incremental-diminution-strategies-for-fl-studio-enthusiasts/"><u>[New] Incremental Diminution Strategies for FL Studio Enthusiasts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-innovating-with-imagination-pro-tiktok-edits-revealed/"><u>[New] Innovating with Imagination Pro TikTok Edits Revealed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-oxygen-not-included-crashing-issues/"><u>[Solved] Oxygen Not Included Crashing Issues</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-utilizing-zooms-snap-functionality/"><u>[Updated] 2024 Approved Utilizing Zoom's Snap Functionality</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/8-ways-to-fix-external-hard-drive-not-showing-up-problem-in-mac/"><u>8 Ways to Fix External Hard Drive Not Showing Up Problem in Mac</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-saber-troubles-heres-how-to-prevent-unexpected-game-shutdowns/"><u>Beat Saber Troubles? Here's How to Prevent Unexpected Game Shutdowns!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypass-nba-2k24s-troublesome-error-727e66ac-comprehensive-guide-to-game-stability-and-performance-enhancements/"><u>Bypass NBA 2K24's Troublesome Error 727E66ac - Comprehensive Guide to Game Stability & Performance Enhancements</u></a></li>
-<li><a href="https://program-issues.techidaily.com/call-of-dutys-black-ops-cold-war-ui-problem-27711-fixed-and-enhanced-for-players/"><u>Call of Duty's Black Ops Cold War - UI Problem #27711: Fixed & Enhanced for Players</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cant-play-helldivers-2-on-steam-learn-how-to-resolve-it-now/"><u>Can't Play Helldivers 2 on Steam? Learn How to Resolve It Now</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cutting-edge-solutions-for-eliminating-dota-2-delays-and-improving-playtime-tips/"><u>Cutting Edge Solutions for Eliminating Dota 2 Delays and Improving Playtime - Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-to-follow-tips-for-rectifying-javascript-errors-in-discord-app-development/"><u>Easy-to-Follow Tips for Rectifying JavaScript Errors in Discord App Development</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-for-stabilizing-call-of-dutys-dead-zombie-war-on-pc-crash-issues-solved/"><u>Expert Advice for Stabilizing Call of Duty's Dead Zombie War on PC – Crash Issues Solved</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-low-fps-problems-while-playing-dying-light-a-comprehensive-guide/"><u>Fixing Low Fps Problems While Playing Dying Light - A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-understanding-and-preventing-unsatisfactory-frame-rates/"><u>Fixing the Issue: Understanding and Preventing Unsatisfactory Frame Rates</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-rainbow-six-extraction-from-crashing-while-playing-on-your-computer/"><u>How To Prevent Rainbow Six Extraction From Crashing While Playing on Your Computer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-tackle-file-corruption-problems-error-0x80070570-on-windows-11/"><u>How to Tackle File Corruption Problems (Error 0X80070570) on Windows 11</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-simplifying-the-process-of-mp3-download-from-pinterest/"><u>In 2024, Simplifying the Process of MP3 Download From Pinterest</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-smooth-playbacks-ultimate-guide-to-overcoming-game-lag-for-high-frame-rates/"><u>Master Smooth Playbacks: Ultimate Guide to Overcoming Game Lag for High Frame Rates</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-solution-to-eliminate-steamvr-error-message-308/"><u>Mastering the Solution to Eliminate SteamVR Error Message 308</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-performance-fix-age-of-empires-iv-freezing-and-lagging-problems/"><u>Optimizing Performance: Fix Age of Empires IV Freezing and Lagging Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-players-success-story-overcoming-rainbow-six-extraction-stability-problems/"><u>PC Players' Success Story: Overcoming Rainbow Six Extraction Stability Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-steam-cannot-update-cloud-data-issue/"><u>Resolving the 'Steam Cannot Update Cloud Data' Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722985062023-say-goodbye-to-tormented-souls-pc-glitches-crash-free-gaming-experience-guaranteed/"><u>Say Goodbye to Tormented Souls PC Glitches - Crash-Free Gaming Experience Guaranteed!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-lag-issues-in-avatar-frontiers-of-pandora-a-comprehensive-guide/"><u>Solving Lag Issues in 'Avatar: Frontiers of Pandora' - A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-overcoming-the-nvidia-geforce-0x0003-issue/"><u>Step-by-Step Solution: Overcoming the NVIDIA Geforce 0X0003 Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/successfully-resolving-star-wars-galaxies-the-old-republic-swtor-initialization-failures/"><u>Successfully Resolving Star Wars Galaxies The Old Republic (SWTOR) Initialization Failures</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-samsung-galaxy-a14-4g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Samsung Galaxy A14 4G FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-tecno-phantom-v-fold-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Tecno Phantom V Fold to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/trouble-with-amazon-prime-streaming-solutions-inside/"><u>Trouble with Amazon Prime Streaming? Solutions Inside!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/trouble-with-assassins-creed-freedom-cry-master-the-launch-fixes-for-optimal-playtime/"><u>Trouble with Assassin’s Creed Freedom Cry? Master the Launch Fixes for Optimal Playtime</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solving-pc-instability-with-elite-dangerous/"><u>Troubleshooting and Solving PC Instability with Elite Dangerous</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-why-your-pcs-nox-app-cant-stay-open-and-solutions/"><u>Troubleshooting Guide: Why Your PC's Nox App Can't Stay Open & Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-your-msi-dragon-centre-stops-responding/"><u>Troubleshooting Steps When Your MSI Dragon Centre Stops Responding</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-destinations-for-procuring-phones-at-best-value/"><u>Ultimate Destinations for Procuring Phones at Best Value</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fix-guide-for-pc-players-preventing-street-fighter-6-from-crashing-expert-advice/"><u>Ultimate Fix Guide for PC Players: Preventing Street Fighter 6 From Crashing (Expert Advice)</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/vimeos-no-money-solution-easy-editing-basics/"><u>Vimeo's No-Money Solution Easy Editing Basics</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-chordcatcher-software-insight/"><u>[New] ChordCatcher Software Insight</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-unleash-creativity-in-snaps-15-innovative-posting-techniques/"><u>[New] Unleash Creativity in Snaps 15 Innovative Posting Techniques</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-unlocking-the-world-of-premium-banners-for-media-for-2024/"><u>[New] Unlocking the World of Premium Banners for Media for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-fast-tracking-your-creative-spark-with-google-images-art/"><u>2024 Approved Fast-Tracking Your Creative Spark with Google Images Art</u></a></li>
+<li><a href="https://program-issues.techidaily.com/decode-and-solve-far-cry-6s-black-screen-troubleshooting-tips/"><u>Decode & Solve Far Cry 6'S Black Screen Troubleshooting Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-how-to-fix-and-prevent-packet-loss-on-your-discord-connection/"><u>Expert Tips: How to Fix and Prevent Packet Loss on Your Discord Connection</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722992794533-fix-your-fall-guys-issues-overcoming-launch-and-crash-problems-easily/"><u>Fix Your Fall Guys Issues: Overcoming Launch and Crash Problems Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-and-restore-bluetooth-functionality-on-your-windows-10-laptopdesktop-efficiently/"><u>How to Fix and Restore Bluetooth Functionality on Your Windows 10 Laptop/Desktop Efficiently!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-successfully-download-cyberpunk-2e77-from-steam-after-previous-errors/"><u>How to Successfully Download Cyberpunk 2E77 From Steam After Previous Errors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-geeky-gatherings-best-general-trivia-streams/"><u>In 2024, Geeky Gatherings Best General Trivia Streams</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maplestory-wont-open-discover-how-to-correct-the-game-initialization-issue/"><u>MapleStory Won't Open? Discover How to Correct the Game Initialization Issue</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-get-rid-of-tiktok-watermarks-best-free-online-removers/"><u>New In 2024, Get Rid of TikTok Watermarks Best Free Online Removers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-complete-guide-successfully-launching-valorant-on-pc-tips/"><u>The Complete Guide: Successfully Launching Valorant on PC - Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-get-your-steamvr-up-and-running-again-fast-solutions-inside/"><u>Troubleshoot and Get Your SteamVR Up & Running Again - Fast Solutions Inside</u></a></li>
 </ul></div>
-
-
-
 

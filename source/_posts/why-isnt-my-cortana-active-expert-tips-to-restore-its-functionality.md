@@ -1,7 +1,7 @@
 ---
 title: Why Isn't My Cortana Active? Expert Tips to Restore Its Functionality
-date: 2024-09-10T15:48:44.543Z
-updated: 2024-09-11T15:48:44.543Z
+date: 2024-09-11T19:28:58.597Z
+updated: 2024-09-16T18:00:20.859Z
 tags:
   - win11
   - win10
@@ -29,37 +29,9 @@ thumbnail: https://thmb.techidaily.com/2e9cfa327b9759eb425968540a827a94cde4fe4ea
 4. [Update your Microphone driver and audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Method 1: Reboot your Windows 10 PC
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Method 2: Check your region and language settings
 
@@ -77,20 +49,6 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 4) Make sure the region and language settings is matched with yours.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
@@ -105,26 +63,6 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
@@ -132,6 +70,13 @@ Check your region and language settings on your computer:
 3) Install the available updates.
 
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
 
@@ -153,19 +98,12 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
 
@@ -173,21 +111,14 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
-4) Reboot your Windows 10 and try Cortana again to see if it works.
-
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-
-
+4) Reboot your Windows 10 and try Cortana again to see if it works.
 
 ## Method 5: Reset your Cortana
 
@@ -197,41 +128,20 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Try Cortana again to see if it works.
 
@@ -244,8 +154,6 @@ Or click  **Update All** to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -255,41 +163,21 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-maximizing-earning-potential-with-strategic-facebook-video-ads/"><u>[New] 2024 Approved Maximizing Earning Potential with Strategic Facebook Video Ads</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/new-boost-your-tunes-quickly-top-phone-app-selection/"><u>[New] Boost Your Tunes Quickly Top Phone App Selection</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/row-your-channelnode-through-joint-videography-endeavors-for-2024/"><u>[New] Grow Your Channelnode Through Joint Videography Endeavors for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-top-rated-5-web-videography-editing-suites/"><u>[New] In 2024, Top-Rated 5 Web Videography Editing Suites</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-fortnite-not-loading-issues-quickly-and-easily/"><u>[Solved] Fortnite Not Loading Issues | Quickly & Easily</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-titanfall-2-keeps-crashing-quickly-and-easily/"><u>[Solved] Titanfall 2 Keeps Crashing | Quickly & Easily</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-perfect-full-screen-display-on-fb-videos-step-by-step-for-2024/"><u>[Updated] Perfect Full-Screen Display on FB Videos, Step by Step for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-shrink-it-down-youtubes-video-trimming-process/"><u>2024 Approved Shrink It Down YouTube's Video Trimming Process</u></a></li>
-<li><a href="https://program-issues.techidaily.com/age-of-empires-4-common-issues-and-how-to-fix-not-launching-problems/"><u>Age of Empires 4 - Common Issues and How to Fix Not Launching Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/conquer-the-crash-overcome-halo-infinite-keeps-freezing-on-your-computer-using-7-easy-fixes/"><u>Conquer the Crash: Overcome Halo Infinite Keeps Freezing on Your Computer Using 7 Easy Fixes!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/defeating-lag-a-step-by-step-guide-to-resolve-mw2s-dev-error-6068-tailored/"><u>Defeating Lag: A Step-by-Step Guide to Resolve MW2's Dev Error 6068 (Tailored )</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ending-game-crashes-in-dauntless-for-pc-users-a-step-by-step-guide/"><u>Ending Game Crashes in Dauntless for PC Users - A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-eliminate-relentless-screen-vibrations-with-these-fixes/"><u>Expert Advice: Eliminate Relentless Screen Vibrations with These Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-getting-call-of-dutys-modern-warfare-3-mw3-up-and-running-without-glitches-or-delays/"><u>Expert Tips: Getting Call of Duty's Modern Warfare 3 MW3 Up and Running Without Glitches or Delays</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-the-unseen-hazards-in-linkedins-new-gaming-section/"><u>Explore the Unseen Hazards in LinkedIn’s New Gaming Section</u></a></li>
-<li><a href="https://program-issues.techidaily.com/far-cry-nagged-by-unending-load-solutions-and-workaround/"><u>Far Cry Nagged by Unending Load - Solutions and Workaround</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-tips-preventing-subnautica-below-zero-from-crashing-on-your-pc/"><u>Fixes and Tips: Preventing Subnautica: Below Zero From Crashing on Your PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-cs-go-launch-issue-a-step-by-step-approach/"><u>Fixing the CS: GO Launch Issue - A Step-by-Step Approach</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-lost-in-thrilling-motorcycle-chaos-with-days-gone-now-drops-on-steam-and-epic-games-store/"><u>Get Lost in Thrilling Motorcycle Chaos with Days Gone – Now Drops on Steam and Epic Games Store</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-your-youtube-music-from-freezing-while-video-stops-playing-chrome-and-firefox/"><u>How to Prevent Your YouTube Music From Freezing, While Video Stops Playing (Chrome & Firefox)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-deathloop-from-stuttering-on-your-computer-a-complete-guide/"><u>How to Stop Deathloop From Stuttering on Your Computer - A Complete Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Samsung Galaxy A24? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/lost-ark-optimized-ensuring-smooth-frame-rates-and-stable-gameplay-for-enthusiasts/"><u>Lost Ark Optimized - Ensuring Smooth Frame Rates and Stable Gameplay for Enthusiasts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-instance-connection-in-path-of-exile-comprehensive-fixes-and-tips/"><u>Mastering Instance Connection in Path of Exile: Comprehensive Fixes & Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/minecraft-midnight-malfunction-unlock-painless-remedies-for-the-notorious-black-screen-issue/"><u>Minecraft Midnight Malfunction? Unlock Painless Remedies for the Notorious Black Screen Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722987923938-monster-hunter-rise-stuck-on-loading-screen-heres-the-solution/"><u>Monster Hunter Rise Stuck on Loading Screen? Here's the Solution</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-gameplay-disruptions-tackling-persistent-freezes-in-warframe/"><u>Overcoming Gameplay Disruptions: Tackling Persistent Freezes in Warframe</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixes-implemented-for-warzone-game-failure-to-start/"><u>Resolved: Fixes Implemented for Warzone Game Failure to Start</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-discord-glitches-for-a-smooth-streaming-experience-a-step-by-step-guide/"><u>Resolving Discord Glitches for a Smooth Streaming Experience: A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-euro-truck-simulator-2-pc-freezing-issues-a-step-by-step-fix/"><u>Solving Euro Truck Simulator 2 PC Freezing Issues: A Step-by-Step Fix</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-mystery-effective-ways-to-eliminate-packet-loss-in-discord/"><u>Solving the Mystery: Effective Ways to Eliminate Packet Loss in Discord</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-resolve-recurring-content-warning-failures-in-windows-systems/"><u>Step-by-Step Guide to Resolve Recurring Content Warning Failures in Windows Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/success-overcoming-issues-with-evil-genius-2-now-functioning/"><u>Success! Overcoming Issues with Evil Genius 2 - Now Functioning</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-ultimate-guide-to-rapid-and-simple-solutions-for-divison-2-freezes/"><u>The Ultimate Guide to Rapid and Simple Solutions for Divison 2 Freezes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-the-roblox-launch-issue/"><u>Ultimate Guide: Solving the Roblox Launch Issue</u></a></li>
-<li><a href="https://driver-download.techidaily.com/windows-compatible-amd-radeon-graphics-driver-downloads-available-now/"><u>Windows-Compatible AMD Radeon Graphics Driver Downloads Available Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/xbox-ones-joystick-pc-compatibility-triumph/"><u>Xbox One's Joystick: PC Compatibility Triumph</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mp3-broadcasting-made-easy-upload-tutorial-for-youtube/"><u>[New] MP3 Broadcasting Made Easy Upload Tutorial for YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-analyzing-active-presenters-advantage-on-screens/"><u>[Updated] Analyzing Active Presenter’s Advantage on Screens</u></a></li>
+<li><a href="https://program-issues.techidaily.com/a-comprehensive-guide-overcoming-dota-2s-vac-lockout/"><u>A Comprehensive Guide: Overcoming Dota 2'S VAC Lockout</u></a></li>
+<li><a href="https://fox-info.techidaily.com/case-study-approach-learning-from-successful-market-research-examples-for-2024/"><u>Case Study Approach Learning From Successful Market Research Examples for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-solving-voice-chat-not-working-due-to-content-warnings/"><u>Comprehensive Guide: Solving 'Voice Chat Not Working' Due to Content Warnings</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enigmatic-strategy-for-impeccable-tiktok-profile-linking/"><u>Enigmatic Strategy for Impeccable TikTok Profile Linking</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-constant-freezing-and-crashes-in-ghostwire-tokyo-for-windows-users/"><u>How to Resolve Constant Freezing and Crashes in Ghostwire: Tokyo for Windows Users</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-11-pro-max-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 11 Pro Max to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-instagrams-slow-motion-secrets-reels-done-right/"><u>In 2024, Instagram's Slow Motion Secrets Reels Done Right</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On OnePlus Ace 2? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/minecraft-on-pc-freeze-up-discover-effective-fixes-now/"><u>Minecraft on PC Freeze-Up? Discover Effective Fixes Now!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/mirror-of-society-top-100-inspiring-instagramcaptions/"><u>Mirror of Society Top 100 Inspiring #InstagramCaptions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-issue-why-evil-genius-2-failed-to-start/"><u>Resolving the Issue: Why Evil Genius 2 Failed to Start</u></a></li>
+<li><a href="https://techtrends.techidaily.com/retrieve-hidden-password-data-with-simple-steps-on-your-mac-computer/"><u>Retrieve Hidden Password Data with Simple Steps on Your Mac Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-when-your-outlook-fails-to-launch/"><u>Solving the Issue When Your Outlook Fails to Launch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-for-continuous-glitches-and-crashes-in-assassins-creed-valhalla-on-desktops/"><u>Troubleshooting Guide for Continuous Glitches and Crashes in Assassin's Creed: Valhalla on Desktops</u></a></li>
 </ul></div>
+
