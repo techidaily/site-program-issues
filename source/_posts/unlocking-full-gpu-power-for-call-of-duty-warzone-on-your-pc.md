@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Full GPU Power for Call of Duty: Warzone on Your PC"
-date: 2024-09-09T20:52:14.658Z
-updated: 2024-09-16T19:13:25.988Z
+date: 2024-09-15T22:03:54.184Z
+updated: 2024-09-21T20:16:59.449Z
 tags:
   - win11
   - win10
@@ -72,6 +72,13 @@ wireless router
 
  Check how Warzone works. If the driver update doesn’t give you luck, move on to the third solution.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3 – Run Warzone on DirectX 11
 
  If Warzone dev error 6328 constantly occurs and the game keeps crashing, you could switch to the DirectX 11 mode, which, as other users reported, gives a smoother gameplay. Here is how to do this:
@@ -83,6 +90,13 @@ wireless router
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.jpg)
 4. Click**Done** to confirm.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
 
@@ -99,33 +113,27 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5 – Delete the game cache files
@@ -138,10 +146,10 @@ wireless router
  Restart the Battle.net client and see whether you could play Warzone as normal. If the game is still unplayable, try the last method.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6 – Adjust the in-game graphics settings
@@ -154,13 +162,6 @@ wireless router
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Save the changes and restart Warzone to test. Then the game should be running perfectly without the 6328 error code.
 
@@ -186,21 +187,18 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instaboomtown-building-community-with-loop-videos/"><u>[New] In 2024, InstaBoomtown Building Community with Loop Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pro-level-video-edits-made-simple-in-windows-11/"><u>[New] Pro-Level Video Edits Made Simple in Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-gtfo-fps-drops-stuttering-and-performance-issues/"><u>[SOLVED] GTFO FPS Drops, Stuttering & Performance Issues</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-virtual-vision-creation-shaping-a-humorous-self-portrait/"><u>[Updated] Virtual Vision Creation Shaping a Humorous Self-Portrait</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-essential-travel-vloggers-the-ultimate-10-list/"><u>2024 Approved Essential Travel Vloggers The Ultimate 10 List</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-for-initializing-hitman-3-on-windows-platforms/"><u>Fixes and Solutions for Initializing Hitman 3 on Windows Platforms</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-network-connectivity-error-in-lost-ark-game/"><u>Fixing Network Connectivity Error in Lost Ark Game</u></a></li>
-<li><a href="https://program-issues.techidaily.com/flight-simulator-x-wont-start-heres-how-you-can-fix-that-problem-on-pc/"><u>Flight Simulator X Won't Start? Here's How You Can Fix That Problem on PC</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-apple-iphone-15-pro-max-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix Apple iPhone 15 Pro Max Could Not Be Activated/Reached Issue</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-overcoming-the-invisible-screen-hurdle-youtube-fixes/"><u>In 2024, Overcoming the Invisible Screen Hurdle YouTube Fixes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/iphone-videography-8-tips-of-recording-pro-videos/"><u>IPhone Videography 8 Tips of Recording Pro Videos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-found-when-your-hp-screen-goes-black/"><u>Solution Found: When Your HP Screen Goes Black</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-130-music-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from 130 Music</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-boosting-frame-rate-for-resident-evil-village-on-pc/"><u>Troubleshooting Tips: Boosting Frame Rate for Resident Evil Village on PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-new-m4-mac-mini-release-timeline-cost-estimates-and-tech-specs/"><u>Unveiling the New M4 Mac Mini - Release Timeline, Cost Estimates, and Tech Specs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/yakuza-samurai-spirit-triumphs-pc-gaming-masterpiece-unlocked/"><u>Yakuza: Samurai Spirit Triumphs - PC Gaming Masterpiece Unlocked</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-discover-the-best-instagram-video-editors-for-mobile-devices/"><u>[New] Discover the Best Instagram Video Editors for Mobile Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-organization-with-mematics-toolkit/"><u>2024 Approved Master Organization with Mematic's Toolkit</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-nokia-c32-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Nokia C32</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/dive-deep-into-the-digital-world-adding-panoramic-photos-to-your-feed-for-2024/"><u>Dive Deep Into the Digital World Adding Panoramic Photos to Your Feed for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/football-manager-2021-fixing-the-unresponsive-load-screen-issue/"><u>Football Manager 2021: Fixing the Unresponsive Load Screen Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-graphical-issues-in-your-rust-applications/"><u>How to Resolve Graphical Issues in Your Rust Applications</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-online-no-download-gif-conversion-services-reviewed/"><u>In 2024, Best Online No-Download GIF Conversion Services Reviewed</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-factory-unlock-your-telstra-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Factory Unlock Your Telstra iPhone 11 Pro Max</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-xs-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone XS Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-art-of-overcoming-gtfo-program-failures-quickly/"><u>Mastering the Art of Overcoming GTFO Program Failures Quickly</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/must-know-windows-10-tips-and-tricks-for-2024/"><u>Must-Know Windows 10 Tips and Tricks for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-couldnt-retrieve-directory-info-in-kodi-a-complete-guide/"><u>Overcoming 'Couldn't Retrieve Directory Info' In Kodi - A Complete Guide</u></a></li>
 </ul></div>
 

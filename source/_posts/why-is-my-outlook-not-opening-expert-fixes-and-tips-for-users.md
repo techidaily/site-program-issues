@@ -1,7 +1,7 @@
 ---
 title: Why Is My Outlook Not Opening? Expert Fixes & Tips for Users
-date: 2024-09-12T19:18:14.882Z
-updated: 2024-09-16T17:28:11.202Z
+date: 2024-09-16T18:04:01.406Z
+updated: 2024-09-21T20:46:02.228Z
 tags:
   - win11
   - win10
@@ -65,19 +65,6 @@ If it doesn’t help, please move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-26-59.jpg)
 3. Launch Discord camera to check.
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Update camera driver
 
  If your camera driver is not properly configured, outdated, or corrupt, it won’t work on your computer normally. In this situation, updating the driver may solve the problem.
@@ -110,14 +97,21 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Update your system
 
@@ -129,15 +123,23 @@ OR
 
 ![click Check for updates to see if your computer is up-to-date or if there are any updates available](https://images.drivereasy.com/wp-content/uploads/2020/10/click-check-for-updates-check-for-Windows-Updates.jpg)
 3. Update the system if there’s an available version.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Follow the on-screen information to finish the process. Reboot your computer and check the camera.
 
 If your camera is still not working on Discord, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Discord
@@ -149,15 +151,15 @@ If your camera is still not working on Discord, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. Find Discord and click to expand it. Click the**Uninstall** button.  
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-40-47.jpg)
 4. Follow the on-screen instructions to finish the process.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Press the**Windows logo key + R** to open the Run box and type**%appdata%** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-42-04.jpg)
@@ -165,13 +167,6 @@ If your camera is still not working on Discord, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-01.jpg)
 7. Open the Run box and type**%LocalAppData%** .  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-33.jpg)
 8. Find the Discord folder and delete it.  
@@ -202,19 +197,20 @@ If your camera is still not working on Discord, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-eliminating-camera-tremors-in-gopro-recordings/"><u>[New] Eliminating Camera Tremors in GoPro Recordings</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-pushing-packaging-to-new-heights-a-consumers-dream/"><u>[Updated] 2024 Approved Pushing Packaging to New Heights A Consumer's Dream</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-access-tons-of-free-vocal-textures/"><u>[Updated] Access Tons of Free Vocal Textures!</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-cutest-and-most-informative-igtvs-now-for-2024/"><u>[Updated] The Cutest & Most Informative IGTVs Now for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/expert-data-purging-strategies-and-articles-by-the-experts-at-stellar/"><u>Expert Data Purging Strategies & Articles by the Experts at Stellar</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-speech-delays-in-mass-effect-legendary-edition-a-comprehensive-guide/"><u>How to Fix Speech Delays in Mass Effect Legendary Edition - A Comprehensive Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-y100t-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Y100t</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-your-pc-from-crashing-while-playing-battlefield-5-easy-fix-tips/"><u>How to Stop Your PC From Crashing While Playing Battlefield 5: Easy Fix Tips</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-your-apple-iphone-13-mini-display-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror your Apple iPhone 13 mini Display? | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-navigating-the-best-iphone-options-for-adding-water-marks/"><u>In 2024, Navigating the Best iPhone Options for Adding Water Marks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-new-realities-metaverse-meets-omniverse-for-2024/"><u>Navigating New Realities Metaverse Meets Omniverse for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-overcome-ntdlldll-file-malfunctioning-on-windows-platforms/"><u>Step-by-Step Guide to Overcome ntdll.dll File Malfunctioning on Windows Platforms</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-the-fifa-21-failed-startup-problems-fixed/"><u>Troubleshooting the FIFA 21 Failed Startup Problems - Fixed!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/what-to-expect-from-rainbow-six-siege-no-new-features-revealed/"><u>What to Expect From Rainbow Six Siege : No New Features Revealed</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-pixelpioneer-creating-collages-for-instagramplusdevices/"><u>[Updated] In 2024, PixelPioneer Creating Collages for Instagram+Devices</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-quick-access-installing-and-using-tiktok-app-on-macbook/"><u>[Updated] Quick Access Installing and Using TikTok App on MacBook</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-virtual-upgrade-social-story-snipper-for-2024/"><u>[Updated] Virtual Upgrade Social Story Snipper for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-ethereal-escapes-slick-action-recorders/"><u>2024 Approved Ethereal Escapes Slick Action Recorders</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/decoding-instagrams-legal-framework-for-musicians-for-2024/"><u>Decoding Instagram's Legal Framework for Musicians for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/delay-alert-no-set-date-yet-for-diablo-immortals-arrival-on-desktop-systems/"><u>Delay Alert: No Set Date Yet for Diablo Immortal's Arrival on Desktop Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-launch-errors-a-comprehensive-guide-for-team-fortress-2/"><u>Fixing Launch Errors: A Comprehensive Guide for Team Fortress 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/gaming-smoothly-on-pc-with-aliens-fireteam-elite-how-to-stop-the-crashes/"><u>Gaming Smoothly on PC with Aliens: Fireteam Elite - How to Stop the Crashes</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-conversion-roadmap-turning-sdr-into-hdr-cinema/"><u>In 2024, Ultimate Conversion Roadmap Turning SDR Into HDR Cinema</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000003965-master-the-art-of-troubleshooting-device-malfunctions-secure-stability-today/"><u>Master the Art of Troubleshooting Device Malfunctions: Secure Stability Today!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mobile-savings-and-decoding-digital-threats/"><u>Mobile Savings & Decoding Digital Threats</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-final-cut-pros-greatest-hits-10-notable-films-you-need-to-see/"><u>New In 2024, Final Cut Pros Greatest Hits 10 Notable Films You Need to See</u></a></li>
+<li><a href="https://program-issues.techidaily.com/roblox-not-working-heres-how-to-repair-it-fast-a-2024-troubleshooting-guide/"><u>Roblox Not Working? Here's How to Repair It Fast: A 2024 Troubleshooting Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-2024-strategies-fixing-rocket-league-persistent-crashes/"><u>Top 2024 Strategies: Fixing 'Rocket League' Persistent Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-excessive-cpu-use-in-phasmophobia-effective-solutions-and-tips/"><u>Troubleshooting Excessive CPU Use in Phasmophobia: Effective Solutions and Tips</u></a></li>
 </ul></div>
 

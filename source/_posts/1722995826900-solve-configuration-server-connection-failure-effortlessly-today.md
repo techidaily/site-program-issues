@@ -1,7 +1,7 @@
 ---
 title: Solve ‘Configuration Server Connection Failure’ Effortlessly Today
-date: 2024-09-09T18:10:52.558Z
-updated: 2024-09-16T16:44:51.667Z
+date: 2024-09-20T18:41:32.237Z
+updated: 2024-09-21T17:49:44.876Z
 tags:
   - win11
   - win10
@@ -61,16 +61,10 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
  4) Once complete, you will need to click the**Check again** button. If there’s no issue detected, you can launch your game to check if the ‘Unable to connect to the live configuration servers’ issue disappears.
 
 <!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Reinstall the Teredo Adapter
@@ -81,6 +75,13 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
 
 ![command prompt admin](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Type **the following command** and press **Enter** .
 
 netsh interface Teredo set state disable
@@ -88,22 +89,21 @@ netsh interface Teredo set state disable
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Teredo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) On your keyboard, press the**Windows + R** key at the same time, and type**devmgmt.msc** . Then press**Ente** r.
 
 ![uninstall graphics driver](https://images.drivereasy.com/wp-content/uploads/2021/03/device-manager.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click **View** \> **Show hidden devices** .
 
@@ -118,13 +118,6 @@ netsh interface Teredo set state disable
 netsh interface Teredo set state type=default
 
  8) Now launch your game and check if the error message ‘Unable to connect to the live configuration servers’ is gone for now.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Turn on Windows Firewall
 
@@ -141,6 +134,19 @@ netsh advfirewall set allprofiles state on
 3) Close the Command Prompt.
 
  Launch your game again to test the issue, and if this method doesn’t do the trick, check the one below.
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Enable Xbox Live Networking Service & Xbox Live Auth Manager
 
@@ -179,19 +185,20 @@ netsh advfirewall set allprofiles state on
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-filmmakers-companion-filmora-for-youtube-trailers/"><u>[New] 2024 Approved Filmmaker's Companion Filmora for YouTube Trailers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-the-path-to-digital-riches-on-facebook/"><u>[New] 2024 Approved The Path to Digital Riches on Facebook</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-from-novice-to-pro-your-discord-broadcast-journey/"><u>[New] In 2024, From Novice to Pro Your Discord Broadcast Journey</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-visual-storytelling-adding-captions-to-images-in-oses-for-2024/"><u>[Updated] Visual Storytelling Adding Captions to Images in OSes for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-amd-classic-bundle/"><u>2024 Approved AMD Classic Bundle</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-fixing-startup-problems-with-amd-radeon-tools/"><u>Comprehensive Guide to Fixing Startup Problems with AMD Radeon Tools</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-laughs-the-ultimate-resource-for-free-templates/"><u>Crafting Laughs The Ultimate Resource for Free Templates</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-diagnosing-and-repairing-the-persistent-dark-mode-glitch-in-rainbow-six-siege-for-windows/"><u>Expert Advice: Diagnosing and Repairing the Persistent Dark Mode Glitch in Rainbow Six Siege for Windows</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-new-frontiers-apples-revelation-on-ai-technology-during-worldwide-developers-conference/"><u>Exploring New Frontiers: Apple's Revelation on AI Technology During Worldwide Developers Conference</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-beat-saber-solving-frequent-game-interruptions-and-crashes/"><u>Fix Your Beat Saber: Solving Frequent Game Interruptions and Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-to-stabilizing-your-pc-fixing-recurring-crashes-in-palworld/"><u>Guide to Stabilizing Your PC: Fixing Recurring Crashes in Palworld</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/make-learning-a-new-language-your-2024-new-years-resolution/"><u>Make Learning A New Language Your 2024 New Year's Resolution</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-game-delays-proven-fixes-and-tips-for-a-smooth-pc-experience-in/"><u>Overcoming Game Delays: Proven Fixes and Tips for a Smooth PC Experience In</u></a></li>
-<li><a href="https://win-answers.techidaily.com/successful-cyberpunk/"><u>Successful Cyberpunk</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-essential-guide-to-using-obs-for-youtube-and-twitch-for-2024/"><u>[New] Essential Guide to Using OBS for YouTube & Twitch for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-premier-selection-of-vr-cycling-options/"><u>[Updated] 2024 Approved The Premier Selection of VR Cycling Options</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-edge-headsets-for-drone-vr-use/"><u>2024 Approved Leading Edge Headsets for Drone VR Use</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-unveiling-the-best-practices-for-crafting-viral-instagram-reels/"><u>2024 Approved Unveiling the Best Practices for Crafting Viral Instagram Reels</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-strategies-for-preventing-pc-gaming-disruptions-and-crashes/"><u>Expert Strategies for Preventing PC Gaming Disruptions and Crashes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/from-content-creator-to-cash-generator-your-facebook-journey-for-2024/"><u>From Content Creator to Cash Generator Your Facebook Journey for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-i-fixed-the-persistent-black-screen-problem-on-my-device-a-step-by-step-guide/"><u>How I Fixed the Persistent Black Screen Problem on My Device - A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-enjoy-the-classic-gaming-experience-with-la-noire-for-pc-now-available/"><u>How to Enjoy the Classic Gaming Experience with L.A. Noire for PC – Now Available!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-essential-videography-the-leading-screen-recorder-apps/"><u>In 2024, Essential Videography The Leading Screen Recorder Apps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-crusader-kings-2-startup-errors-successfully-explained/"><u>Resolving Crusader Kings 2 Startup Errors Successfully Explained</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-improper-installation-issues-with-the-amd-ryzen-master-software/"><u>Resolving Improper Installation Issues with the AMD Ryzen Master Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/starcraft-2-troubleshooting-made-easy-overcoming-pc-compatibility-crashes-for-smooth-gaming/"><u>StarCraft 2 Troubleshooting Made Easy: Overcoming PC Compatibility Crashes for Smooth Gaming</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-oneplus-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change OnePlus IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo Y27 5G? | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-infinix-zero-30-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Infinix Zero 30 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

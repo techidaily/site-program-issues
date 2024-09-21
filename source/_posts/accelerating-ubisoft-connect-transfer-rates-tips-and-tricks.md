@@ -1,7 +1,7 @@
 ---
 title: Accelerating Ubisoft Connect Transfer Rates - Tips & Tricks
-date: 2024-09-14T22:44:42.520Z
-updated: 2024-09-16T20:09:42.858Z
+date: 2024-09-20T16:51:26.097Z
+updated: 2024-09-21T18:41:43.695Z
 tags:
   - win11
   - win10
@@ -72,6 +72,13 @@ If State of Decay 2 still crashes, go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/de-scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
 
@@ -95,13 +102,6 @@ If State of Decay 2 still crashes, go ahead with the next fix below.
 
 If this method doesn’t help, check out the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Reset State of Decay 2
 
  With Windows 10, you can reset an app’s data without uninstalling and reinstalling the app. This will restore an app to its default settings. So, before trying anything more complicated, you can reset State of Decay 2 to see if it can fix the crashing issue. Here’s how:
@@ -117,6 +117,13 @@ If this method doesn’t help, check out the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/reset.jpg)
 5. Once the process is complete, restart your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Launch State of Decay 2 to see if the problem is resolved.
 
 If the crashing issue occurs again, continue to the next fix.
@@ -128,13 +135,6 @@ If the crashing issue occurs again, continue to the next fix.
 1. On your keyboard, press the**Windows logo key** and**X** together to open the Quick Link menu. Then select**Apps and Features** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/apps-features.jpg)
 2. Under Apps & features, click**State of Decay 2** , then select**Move** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/move-app.jpg)
 3. In the pop-up window,**select a new drive** from the drop-down menu, then click**Move** again.  
@@ -151,6 +151,20 @@ If this method doesn’t do the trick, try the next fix.
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open Windows Settings. Then click**Time & Language** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/time-language.jpg)
 2. In the left panel, select**Language** . Under the Preferred languages section, click**Add a language** .  
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/add-a-language.jpg)
 3. Select**English (United States)** , then click**Next** .  
 
@@ -161,20 +175,13 @@ If this method doesn’t do the trick, try the next fix.
 5. After the language is fully installed, drag it to the first position in the list.  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/set-as-default.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now restart your PC and test if State of Decay 2 still crashes.
 
@@ -189,6 +196,14 @@ If this solution doesn’t work for you, continue to the next fix.
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
 
@@ -211,13 +226,6 @@ If this solution doesn’t work for you, continue to the next fix.
 1. On your keyboard, press the**Windows logo key** and**X** together to open the Quick Link menu. Then select**Apps and Features** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/apps-features.jpg)
 2. Under Apps & features, click**State of Decay 2** , then select**Uninstall** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall-app.jpg)
 3. Click**Uninstall** again.  
@@ -246,20 +254,19 @@ If this solution doesn’t work for you, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-mastering-youtube-autoplay-on-mobile-devices/"><u>[New] 2024 Approved Mastering YouTube Autoplay on Mobile Devices</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-blurry-to-bold-crafting-powerful-youtube-previews/"><u>[New] In 2024, From Blurry to Bold Crafting Powerful YouTube Previews</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-navigating-xbox-broadcasts-to-facebook-streams/"><u>[New] In 2024, Navigating Xbox Broadcasts to Facebook Streams</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-behind-the-scenes-crafting-confidential-snap-narratives-for-2024/"><u>[Updated] Behind the Scenes Crafting Confidential Snap Narratives for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-top-5-premium-hd-webcams-featuring-sound/"><u>[Updated] In 2024, Top 5 Premium HD Webcams Featuring Sound</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-guide-to-fostering-viewer-commitment-in-youtube-videos/"><u>[Updated] The Ultimate Guide to Fostering Viewer Commitment in YouTube Videos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/6-effective-strategies-to-resolve-terrarias-disconnection-issues/"><u>6 Effective Strategies to Resolve Terraria's Disconnection Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bluescreenbuster-a-detailed-tutorial-to-resolve-helldiver-iis-bsod-error/"><u>BlueScreenBuster: A Detailed Tutorial to Resolve Helldiver II's BSoD Error</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminate-jittery-graphics-for-a-smoother-experience-in-warzone/"><u>Eliminate Jittery Graphics for a Smoother Experience in Warzone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guilty-gear-strive-delay-issue-how-to-eliminate-it-for-a-smoother-experience/"><u>Guilty Gear Strive Delay Issue: How to Eliminate It for a Smoother Experience</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-how-to-fix-frame-rate-issues-in-dying-light-2-for-pc-gamers/"><u>Solved: How to Fix Frame Rate Issues in Dying Light 2 for PC Gamers</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/viewership-volume-the-financial-impact-of-one-million-views/"><u>Viewership Volume The Financial Impact of One Million Views</u></a></li>
-<li><a href="https://program-issues.techidaily.com/what-to-do-if-your-pacific-drive-is-not-bootable-a-guide/"><u>What to Do If Your Pacific Drive Is Not Bootable: A Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-learn-how-to-build-youtube-backlinks-for-your-channel/"><u>[New] 2024 Approved Learn How to Build YouTube Backlinks for Your Channel</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-leveraging-desktop-for-maximum-tiktok-exposure/"><u>[New] In 2024, Leveraging Desktop for Maximum TikTok Exposure</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-unveiling-youtubes-behind-the-scenes-editor-space/"><u>[Updated] Unveiling YouTube's Behind-the-Scenes Editor Space</u></a></li>
+<li><a href="https://program-issues.techidaily.com/connectivity-error-fixes-for-minecraft-players-how-to-restore-access-to-your-gaming-realm/"><u>Connectivity Error Fixes for Minecraft Players: How to Restore Access to Your Gaming Realm</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-steps-to-enhance-your-gopro-cinematography/"><u>Essential Steps to Enhance Your Gopro Cinematography</u></a></li>
+<li><a href="https://program-issues.techidaily.com/game-optimization-tips-how-to-maintain-steady-frame-rates-for-smooth-gaming-on-pcs/"><u>Game Optimization Tips: How to Maintain Steady Frame Rates for Smooth Gaming on PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-get-your-gamepad-working-with-steam-on-a-windows-machine/"><u>How to Get Your Gamepad Working With Steam on a Windows Machine</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-oneplus-ace-2-phone-that-is-locked-by-drfone-android/"><u>How to Reset a OnePlus Ace 2 Phone that is Locked?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/securing-your-content-adobe-presenter-captures/"><u>Securing Your Content Adobe Presenter Captures</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-to-dvd-to-mp4-conversion-at-no-cost-on-windows-operating-systems/"><u>Step-by-Step Guide to DVD to MP4 Conversion at No Cost on Windows Operating Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-activating-hyper-v-in-windows-10/"><u>Step-by-Step Guide: Activating Hyper-V in Windows 10</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-av1-encoding-insights-for-2024/"><u>Unlocking AV1 Encoding Insights for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unveiling-the-challenges-that-have-halted-the-ascents-release-date/"><u>Unveiling the Challenges That Have Halted 'The Ascent's Release Date</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-isnt-my-cortana-active-expert-tips-to-restore-its-functionality/"><u>Why Isn't My Cortana Active? Expert Tips to Restore Its Functionality</u></a></li>
 </ul></div>
 

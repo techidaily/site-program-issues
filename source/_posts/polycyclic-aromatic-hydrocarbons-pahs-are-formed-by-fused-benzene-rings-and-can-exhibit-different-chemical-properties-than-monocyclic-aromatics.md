@@ -1,7 +1,7 @@
 ---
 title: Polycyclic Aromatic Hydrocarbons (PAHs) Are Formed by Fused Benzene Rings and Can Exhibit Different Chemical Properties than Monocyclic Aromatics
-date: 2024-09-12T18:24:06.914Z
-updated: 2024-09-16T18:49:36.717Z
+date: 2024-09-15T18:50:08.400Z
+updated: 2024-09-21T21:23:44.097Z
 tags:
   - win11
   - win10
@@ -147,6 +147,13 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-938.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the **Roll Back Driver** option is grayed out, that means there’s no driver to roll back to. In this case you’ll have to try other fixes.
 
  4) Choose one of the reasons based on your own situation and click **Yes** .
@@ -158,13 +165,6 @@ In case you don’t know how, here’s the guidance:
  Now run FIFA 20 and check whether your crashing problem still exists. If it does, then please proceed to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update Windows operating system
 
@@ -204,13 +204,6 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-866.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your**fifasetup.ini** file is already set to**0** when you first open it, then try changing it to**1** instead.
 
  Run FIFA 20 and check whether it continues to crash. If it does, try out the next fix then.
@@ -231,24 +224,24 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-913.png)
 
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Exit NVIDIA Control Panel, restart your computer, then launch FIFA 20.
 
 If you continue to face the crashing problem, please move on to Fix 6.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Repair corrupted system files
 
@@ -265,16 +258,16 @@ If you continue to face the crashing problem, please move on to Fix 6.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) When Windows asks for permission to make changes to your device, click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-63.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) In the Command Prompt, type the following command (**note** that there’s a space between sfc and /):
 
@@ -283,6 +276,13 @@ sfc /scannow
  After you finish entering the command, hit **Enter** on your keyboard. Then the sfc tool will begin to scan all system files and repair the corrupted or missing ones.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-183.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Wait until the verification process completes. Then **restart** your computer for the changes to take effect.
 
@@ -295,6 +295,13 @@ sfc /scannow
  1) On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run dialog box. Type **cmd** and press **Ctrl+Shift+Enter**  to run Command Prompt as administrator.
 
 ![This image has an empty alt attribute; its file name is image-182.png](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If prompted for consent, click **Yes** .
 
@@ -319,13 +326,6 @@ dism.exe /online /cleanup-image /restorehealth
  If, after restoring the game files mistakenly deleted by your antivirus the game is still crashing, you should try to download and install it once again. However, make sure you turn off the antivirus temporarily during the reinstall process of FIFA 20.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Wait for more game updates
 
@@ -353,16 +353,21 @@ dism.exe /online /cleanup-image /restorehealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-groupgaze-video-extractor-for-2024/"><u>[New] GroupGaze Video Extractor for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-iphone-capabilities-by-combining-siri-with-the-ai-of-chatgpt-step-by-step-tutorial/"><u>Enhancing iPhone Capabilities by Combining Siri with the AI of ChatGPT – Step-by-Step Tutorial</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-htc-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock HTC Phone without Google Account?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-m14-4g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-motorola-moto-g04-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Motorola Moto G04 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-powershell-a-key-for-administrators/"><u>Mastering PowerShell: A Key for Administrators</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-lava-storm-5g-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Lava Storm 5G</u></a></li>
-<li><a href="https://program-issues.techidaily.com/successfully-resolving-star-wars-galaxies-the-old-republic-swtor-initialization-failures/"><u>Successfully Resolving Star Wars Galaxies The Old Republic (SWTOR) Initialization Failures</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solving-pc-instability-with-elite-dangerous/"><u>Troubleshooting and Solving PC Instability with Elite Dangerous</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-why-your-pcs-nox-app-cant-stay-open-and-solutions/"><u>Troubleshooting Guide: Why Your PC's Nox App Can't Stay Open & Solutions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/understanding-the-transformations-in-vegaspro-19/"><u>Understanding the Transformations in VegasPro '19</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-effectively-convert-iphone-photos-jpeg-png-into-pdfs/"><u>[New] How to Effectively Convert iPhone Photos (JPEG, PNG) Into PDFs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-shotchrome-ultra-premium-chromeos-snapshooter/"><u>[Updated] In 2024, ShotChrome Ultra Premium ChromeOS Snapshooter</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-uploading-movies-instagram-guide/"><u>[Updated] Uploading Movies Instagram Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-realme-11-proplus-frp-by-drfone-android/"><u>Full Guide to Bypass Realme 11 Pro+ FRP</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-and-resolve-fifa-2-section-1-problem-as-the-theme-question-theme-question/"><u>How to Prevent and Resolve FIFA 2 # Section 1: Problem as the Theme Question (Theme Question)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-itel-a70-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Itel A70 to iPad | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/leveraging-youtubes-cc-options-for-video-production/"><u>Leveraging YouTube's CC Options for Video Production</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-modern-warfare-3-a-comprehensive-guide-to-rectifying-memory-error-12707/"><u>Mastering Modern Warfare 3: A Comprehensive Guide to Rectifying Memory Error 12707</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-gameplay-in-avatar-frontiers-of-pandora-by-eliminating-lags-and-improving-frame-rate/"><u>Optimize Gameplay in Avatar: Frontiers of Pandora by Eliminating Lags and Improving Frame Rate</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-compatibility-issues-fixed-in-latest-patch-for-euro-truck-simulator-2/"><u>PC Compatibility Issues Fixed in Latest Patch for Euro Truck Simulator 2!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/peak-creation-suite-insightful-2023-analysis-for-2024/"><u>Peak Creation Suite Insightful 2023 Analysis for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premiere-pros-approach-to-clearing-iphone-video-overexposure/"><u>Premiere Pro's Approach to Clearing iPhone Video Overexposure</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steam-critical-failure-resolving-the-failed-to-load-steamuidll-fatal-error/"><u>Steam Critical Failure: Resolving the 'Failed to Load SteamUI.DLL' Fatal Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/ultimate-guide-to-netgear-nighthawk-x6-wi-fi-expansion-unit-a-full-feature-breakdown/"><u>Ultimate Guide to Netgear Nighthawk X6 Wi-Fi Expansion Unit - A Full Feature Breakdown</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlocking-the-gpeditmsc-tool-for-windows-home-users-a-step-by-step-guide/"><u>Unlocking the gpedit.msc Tool for Windows Home Users – A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/valorant-game-stalling-solve-the-persistent-pc-freezes-and-play-smoothly/"><u>Valorant Game Stalling? Solve the Persistent PC Freezes and Play Smoothly!</u></a></li>
 </ul></div>
 

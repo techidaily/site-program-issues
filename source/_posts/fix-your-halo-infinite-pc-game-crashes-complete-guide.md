@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Halo Infinite PC Game Crashes: Complete Guide"
-date: 2024-09-14T19:38:18.559Z
-updated: 2024-09-16T17:15:58.457Z
+date: 2024-09-15T20:22:18.988Z
+updated: 2024-09-21T19:51:53.713Z
 tags:
   - win11
   - win10
@@ -84,42 +84,22 @@ If updating drivers doesn’t help, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-temp-files-new-1.png)
 3. Press the**Ctrl + A keys** simultaneously to select all files. Then right-click and select**Delete** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
 4. If you receive the following prompt, simply check the box next to**Do this for all current items** and click**Skip** .  
 
 ![delete temporary files](https://images.drivereasy.com/wp-content/uploads/2021/08/skip-for-all-current-items.png)
 5. When it finishes deleting all temp files, head to your desktop. Right-click**Recycling Bin** and select**Empty Recycling Bin** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now launch Halo Infinite. If your problem persists, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Disable background applications
 
@@ -137,6 +117,13 @@ If updating drivers doesn’t help, try the next fix below.
 
  If turning off background applications doesn’t do the trick, proceed to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Verify integrity of game files
 
  A variety of issues may be caused by corrupted game files, e.g. glitched graphics. If you encounter the freezing issue, verify the cache files of Halo Infinite, which can help ensure that the installation is up-to-date and if necessary, repair any bad or corrupted game data. Thus, this can help you rule out the cause of your problem and fix it.
@@ -149,16 +136,16 @@ To verify the integrity of your game files, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-1.jpg)
 3. Select the**LOCAL FILES** tab. Then click**Verify integrity of game files…** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-integrity-of-game-fiiles.png)
 
  Now Steam will verify your game’s files. This process may take several minutes. Once the process is completed, close the Window then launch your game. If it still keeps freezing, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Uninstall Multiplayer High-Res Textures
 
@@ -170,7 +157,21 @@ To verify the integrity of your game files, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-1.jpg)
 3. Select the**DLC** tab. Then uncheck**Multiplayer High-Res Textures** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-multiplayer-high-res-textures.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this doesn’t help, try the next fix below.
 
@@ -183,13 +184,6 @@ If this doesn’t help, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-1.jpg)
 3. Select the**GENERAL** tab. Then uncheck**Enable the Steam Overlay while in-game** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-in-game-overlay.png)
 
@@ -228,12 +222,20 @@ When it’s completed, launch Halo Infinite and test the gameplay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/tribes-of-midgard-optimization-techniques-ensuring-smooth-play-by-preventing-unexpected-shutdowns/"><u>'Tribes of Midgard' Optimization Techniques: Ensuring Smooth Play by Preventing Unexpected Shutdowns</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-video-posting-pathway-for-twitter-and-tumblr-users/"><u>[Updated] 2024 Approved Video Posting Pathway for Twitter & Tumblr Users</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-step-by-step-transferring-snapshots-from-social-platform-to-device/"><u>2024 Approved Step-by-Step Transferring Snapshots From Social Platform to Device</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-google-pixel-8-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Google Pixel 8 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723010191790-experience-handsome-jacks-revenge-in-the-captivating-days-gone-pc-release-date-confirmed/"><u>Experience Handsome Jack's Revenge in the Captivating 'Days Gone' – PC Release Date Confirmed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-hell-let-loose-pc-stability-issues-resolved/"><u>Fixing Hell Let Loose PC Stability Issues: Resolved!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-oneplus-nord-3-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For OnePlus Nord 3 5G</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-optimal-hash-tags-for-youtube-success-story/"><u>[New] 2024 Approved Optimal Hash Tags for YouTube Success Story</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-balancing-act-tripod-use-for-stable-vlogging/"><u>[New] Balancing Act Tripod Use for Stable Vlogging</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-best-mac-video-editing-tools-reviewed-bandicam-vs-camtasia/"><u>[New] In 2024, Best Mac Video Editing Tools Reviewed Bandicam Vs Camtasia</u></a></li>
+<li><a href="https://program-issues.techidaily.com/6-top-fixes-for-a-non-functional-obs-microphone-updated-guide-2024/"><u>6 Top Fixes for a Non-Functional OBS Microphone - Updated Guide 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-integration-in-development-anticipating-changes-to-software-engineers-daily-operations/"><u>AI Integration in Development: Anticipating Changes to Software Engineers' Daily Operations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boosting-your-gaming-experience-overcoming-low-fps-challenges-in-the-latest-formula-one-video-game-on-pc/"><u>Boosting Your Gaming Experience: Overcoming Low FPS Challenges in the Latest Formula One Video Game on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003797147-continuous-pc-crashes-while-playing-watch-dogs-legion-solved/"><u>Continuous PC Crashes While Playing Watch Dogs: Legion - Solved</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/critical-solutions-for-lost-audio-after-updating-your-pc-to-win-11/"><u>Critical Solutions for Lost Audio After Updating Your PC to Win 11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exploring-the-field-gear-vs-lgcam-comparison/"><u>Exploring the Field Gear vs LGCam Comparison</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hear-and-heed-free-recognition-and-response-platform/"><u>In 2024, Hear and Heed Free Recognition & Response Platform</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-repair-process-of-directx-dll-file-directinput-issues-addressed/"><u>Mastering the Repair Process of DirectX DLL File: Directinput Issues Addressed</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-13t-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi 13T Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005757058-resolving-technical-issues-with-yakuza-6-pc-version-no-more-crashes/"><u>Resolving Technical Issues with Yakuza 6 PC Version - No More Crashes!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-truth-behind-the-postponement-of-guilty-gear-strive-launch/"><u>The Truth Behind the Postponement of Guilty Gear Strive Launch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-techniques-to-stop-frame-rate-issues-and-stuttering-in-battlefield-2042-on-desktops/"><u>Troubleshooting Techniques to Stop Frame Rate Issues & Stuttering in Battlefield 2042 on Desktops</u></a></li>
 </ul></div>
 

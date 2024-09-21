@@ -1,7 +1,7 @@
 ---
 title: Optimize Your Experience - Overcome Common Crashing Challenges in Football Manager 2021 on Windows Computers
-date: 2024-09-12T22:32:40.059Z
-updated: 2024-09-16T18:02:04.264Z
+date: 2024-09-14T18:43:16.401Z
+updated: 2024-09-21T18:23:31.864Z
 tags:
   - win11
   - win10
@@ -81,10 +81,10 @@ If the issue persists, go ahead with the next fix.
 4. Steam will verify the game’s files. This process may take several minutes.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Once done, relaunch Psychonauts 2 to see if the problem is resolved.
@@ -100,20 +100,14 @@ If the crashing issue remains, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/psychonauts2-properties-1.jpg)
 3. In the GENERAL section, enter**\-dx11** under LAUNCH OPTIONS.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-launch-options-dx11.jpg)
-
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-launch-options-dx11.jpg)
 
  This will force the game to run in DX11\. Then you can launch Psychonauts 2 again to see if the error still occurs.
 
@@ -131,41 +125,41 @@ Allow Psychonauts 2 through Windows Firewall:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-an-app-through-firewall.jpg)
 3. In the new window, click**Change settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/change-settings.jpg)
 4. Click**Allow another app…** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-another-app-1.jpg)
 5. In the pop-up window, click**Browse** to find Psychonauts 2, then click**Add** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/add-an-app.jpg)
 6. Click**OK** to save changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/ok.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The way to add Psychonauts 2 as an exception to your antivirus software will vary depending on the antivirus software you’re using.
 
  See if the game crashes after you allow the game through the firewall and add it as an exception to your antivirus software. If it persists, check out the last fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Psychonauts 2
 
@@ -192,18 +186,20 @@ Allow Psychonauts 2 through Windows Firewall:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-boost-visibility-and-engagement-with-smart-social-media-videos/"><u>[New] 2024 Approved Boost Visibility and Engagement with Smart Social Media Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-timelapse-using-gopro-hero5-black/"><u>[New] Mastering Timelapse Using GoPro Hero5 Black</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-premier-strategies-in-sport-broadcasting-technology/"><u>[Updated] 2024 Approved Premier Strategies in Sport Broadcasting Technology</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-sky-perfection-11-must-have-enhancements-for-phantom-drone/"><u>[Updated] 2024 Approved Sky Perfection 11 Must-Have Enhancements for Phantom Drone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-comprehensive-study-gecatas-game-record-functionality-for-2024/"><u>[Updated] Comprehensive Study Gecata's Game Record Functionality for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypassing-the-endless-load-screen-when-watching-or-hosting-a-discord-live-session/"><u>Bypassing the Endless Load Screen When Watching or Hosting a Discord Live Session</u></a></li>
-<li><a href="https://program-issues.techidaily.com/crashes-no-more-overcoming-total-war-warhammer-iis-technical-glitches/"><u>Crashes No More: Overcoming Total War: Warhammer II's Technical Glitches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/defeat-twitch-hiccups-7-strategies-for-resolving-playback-glitches/"><u>Defeat Twitch Hiccups: 7 Strategies for Resolving Playback Glitches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-low-fps-issues-for-dota-2-players-on-the-latest-windows-operating-system/"><u>Fixing Low FPS Issues for Dota 2 Players on the Latest Windows Operating System</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-riot-games-fixed-the-recurring-connectivity-bug-in-lols-latest-2aster-version/"><u>How Riot Games Fixed the Recurring Connectivity Bug in LoL's Latest 2Aster Version</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-honor-magic-6-lite-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Honor Magic 6 Lite Without PUK Codes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-prolonged-startup-for-pc-players-of-star-wars-battlefront-ii/"><u>Troubleshooting Prolonged Startup for PC Players of Star Wars: Battlefront II</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-streamlining-online-recording-of-webcamplusscreen/"><u>[Updated] In 2024, Streamlining Online Recording of Webcam+Screen</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-preventive-measures-for-smooth-streaming-with-obs/"><u>[Updated] Preventive Measures for Smooth Streaming with OBS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-free-high-quality-srt-translation-services-1-8/"><u>2024 Approved Free, High-Quality SRT Translation Services – #1-#8</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/analyzing-how-ai-restrictions-mould-our-digital-interactions/"><u>Analyzing How AI Restrictions Mould Our Digital Interactions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bright-ideas-for-dark-times-solving-the-perplexing-minecraft-black-screen-challenge/"><u>Bright Ideas for Dark Times: Solving the Perplexing Minecraft Black Screen Challenge</u></a></li>
+<li><a href="https://program-issues.techidaily.com/charting-a-new-course-overcoming-the-sea-of-thieves-endless-load-screen-challenge/"><u>Charting a New Course: Overcoming the Sea of Thieves Endless Load Screen Challenge</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-persistent-lag-in-deathloop-for-a-smoother-gaming-experience/"><u>Fixing Persistent Lag in Deathloop for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/football-manager-2021-crashing-on-pc-solved/"><u>Football Manager 2021 Crashing on PC [SOLVED]</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-art-of-fixing-palworlds-stability-issues-for-a-seamless-pc-gaming-experience/"><u>Master the Art of Fixing Palworld's Stability Issues for a Seamless PC Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-star-wars-jedi-fallen-order-not-launching-problem-solved/"><u>Overcome! Star Wars Jedi: Fallen Order Not Launching Problem Solved</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-oneplus-12r-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after OnePlus 12R has been deleted.</u></a></li>
+<li><a href="https://article-helps.techidaily.com/supercharged-productivity-while-flipping-audio-switches-for-2024/"><u>Supercharged Productivity While Flipping Audio Switches for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-playbook-mastering-roller-champions-crossplayer-mode-pc-edition/"><u>Ultimate Playbook: Mastering Roller Champions' Crossplayer Mode (PC Edition)</u></a></li>
 </ul></div>
 

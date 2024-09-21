@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] God of War Keeps Crashing on PC"
-date: 2024-09-14T18:48:56.605Z
-updated: 2024-09-16T19:57:32.730Z
+date: 2024-09-15T21:12:00.414Z
+updated: 2024-09-21T17:16:55.510Z
 tags:
   - win11
   - win10
@@ -105,10 +105,10 @@ If the Cult of the Lamb continues to crash, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-13_16-55-36.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  That’s it. Now you can run the game in the way you normally do, and it will automatically run as an administrator. Launch the game to see if the crashing issue is solved.
@@ -135,10 +135,16 @@ If the Cult of the Lamb continues to crash, try the next fix.
  Restart your PC to make changes apply. Then relaunch the game to check for any improvement.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5 Verify game files integrity
@@ -149,9 +155,24 @@ If the Cult of the Lamb continues to crash, try the next fix.
 2. Right-click **Cult of the Lamb** and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/skywalker-saga-crash-1.jpg)
 3. Select **LOCAL FILES** on the left and click **Verify integrity of game files…**  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/skywalker-saga-crash-2.jpg)
 
  Steam will verify the files of this game for you. Once done, exit the software client and launch it again. Have a test to see if the crashing issue is gone.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6 Repair system files
 
@@ -165,16 +186,17 @@ Here’s how it works:
 2. Open it and run a free scan for your computer (approx. 5 minutes).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 3. After the scan, check the generated summary and click **Start Repair** to start your fixing process (and you’ll need to pay for that).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  Fortect offers a **60-day money-back** guarantee, so don’t hesitate to contact them if you need any assistance. However, if the crashing of the Cult of the Lamb still persists, check the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 7 Add the game to whitelist
 
@@ -203,30 +225,10 @@ Still no luck? Try this final fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/task-manager-1.jpg)
 2. Choose the processes consuming too many resources, and then click **End task** .  
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-13_18-31-13.jpg)
 3. Click the **Detail**  tab. Right-click **Stray.exe** and set its priority to **High** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/game-stuttering-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Return to the game to check if the problem is solved. If it fails to tackle the problem, you can try to update your Windows or reinstall the game.
 
@@ -252,14 +254,15 @@ Still no luck? Try this final fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-easy-steps-to-blend-igtv-into-your-stories/"><u>[New] Easy Steps to Blend IGTV Into Your Stories</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-maximize-your-window-usage-top-30-unknown-tips-and-tricks-for-windows-11/"><u>[Updated] Maximize Your Window Usage Top 30 Unknown Tips and Tricks for Windows 11</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-instant-time-stamping-techniques-for-youtube-videos/"><u>2024 Approved Instant Time-Stamping Techniques for YouTube Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-step-by-estep-guide-to-using-vlc-media-player-with-apple-tv-and-watch-any-video/"><u>A Step-by-eStep Guide to Using VLC Media Player with Apple TV and Watch Any Video</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/boost-your-gaming-experience-new-hd-6950-drivers-w11/"><u>Boost Your Gaming Experience - New HD 6950 Drivers W11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cult-of-the-lamb-on-pc-keep-crashing-heres-how-to-solve-it/"><u>Cult of the Lamb on PC Keep Crashing? Here's How to Solve It!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-hell-let-loose-pc-stability-issues-resolved/"><u>Fixing Hell Let Loose PC Stability Issues: Resolved!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-your-pc-experience-with-fixed-f1-2e2021s-frame-rate-drop-say-goodbye-to-lag/"><u>Optimizing Your PC Experience with Fixed F1 2E2021's Frame Rate Drop - Say Goodbye to Lag!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-star-wars-squadrons-crashes-complete-troubleshooting-guide/"><u>Overcome Star Wars Squadrons Crashes: Complete Troubleshooting Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-free-method-to-record-your-youtube-watching-experience/"><u>[New] Free Method to Record Your YouTube Watching Experience</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-mastering-your-fb-profile-picture-update/"><u>2024 Approved Mastering Your FB Profile Picture Update</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-pioneering-your-way-up-on-youtube-26-key-strategies/"><u>2024 Approved Pioneering Your Way Up on YouTube 26 Key Strategies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diy-guide-to-fixing-division-2s-launch-issues-pro-gamer-hacks-updated/"><u>DIY Guide to Fixing Division 2'S Launch Issues - Pro Gamer Hacks (Updated)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-poco-x5-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Poco X5 Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-inexpensive-mac-mp3-formatter-utility/"><u>New 2024 Approved Inexpensive Mac MP3 Formatter Utility</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-8-best-daw-for-chromebook-to-make-music-for-2024/"><u>New 8 Best DAW for Chromebook to Make Music for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-error-post-update-fix/"><u>Printer Error Post-Update Fix</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-the-darkness-fixing-your-fallout-4s-persistent-pitch-black-problem/"><u>Resolve the Darkness: Fixing Your Fallout 4'S Persistent Pitch-Black Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-gameplay-glitches-overcoming-mouse-control-issues-in-resident-evil-village/"><u>Solving Gameplay Glitches: Overcoming Mouse Control Issues in Resident Evil Village</u></a></li>
 </ul></div>
 

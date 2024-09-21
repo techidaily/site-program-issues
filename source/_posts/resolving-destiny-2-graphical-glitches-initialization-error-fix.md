@@ -1,7 +1,7 @@
 ---
 title: Resolving Destiny 2 Graphical Glitches - Initialization Error Fix
-date: 2024-09-12T19:35:27.719Z
-updated: 2024-09-16T18:53:50.311Z
+date: 2024-09-20T21:09:43.860Z
+updated: 2024-09-21T21:27:11.408Z
 tags:
   - win11
   - win10
@@ -70,6 +70,13 @@ If SWTOR still won’t start, read on and try the next fix below.
 
 If this doesn’t work for you, then go ahead with the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  Your graphics card (GPU) is the most important component when it comes to determining gaming performance. If you’re using an outdated graphics driver, or the driver is corrupted, you’re likely to encounter game issues. So, make sure you update your graphics driver. There are two ways you can do this:
@@ -87,16 +94,10 @@ If this doesn’t work for you, then go ahead with the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-17-00.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -104,13 +105,6 @@ If this doesn’t work for you, then go ahead with the next fix.
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-17-08.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -120,13 +114,6 @@ If this doesn’t work for you, then go ahead with the next fix.
 **4)** Relaunch your game to test your issue.
 
 If your game still won’t launch, then go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Verify the integrity of game files
 
@@ -146,15 +133,22 @@ If your game still won’t launch, then go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-57-39.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Relaunch the game to test your issue.
 
 If SWTOR is still unplayable, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Delete the BitRaider folder
@@ -171,6 +165,13 @@ If SWTOR is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-38-29.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Relaunch the game and wait for the repair to be complete.
 
  **If you want to get rid of the Bitraider permanently, follow the instructions below:**
@@ -182,13 +183,6 @@ If SWTOR is still unplayable, move on to the next fix.
 **4)** Right-click**Launcher.settings** , then select**Open with** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-20-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Select**Notepad** .
 
@@ -240,18 +234,18 @@ If SWTOR is still unplayable, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-inside-metaverse-how-to-build-memes-that-pop-online/"><u>[New] 2024 Approved Inside Metaverse How to Build Memes That Pop Online</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bringing-back-life-to-laptop-tv-hdmi-link/"><u>Bringing Back Life to Laptop-TV HDMI Link</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-guide-resolving-performance-hiccups-in-deathloop-for-pcps5-users/"><u>Comprehensive Guide: Resolving Performance Hiccups in Deathloop for PC/PS5 Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-dilemma-resolving-chivalry-ii-game-crashes/"><u>Fixing the Dilemma: Resolving Chivalry II Game Crashes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-konica-minolta-printer-drivers-for-your-pc-supports-windows-11-to-7/"><u>Get the Latest Konica Minolta Printer Drivers for Your PC – Supports Windows 11 to 7</u></a></li>
-<li><a href="https://program-issues.techidaily.com/hitman-3-stability-secrets-for-pc-gamers-avoiding-crashes-in-the-new-year/"><u>Hitman 3 Stability Secrets for PC Gamers: Avoiding Crashes in the New Year</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/how-to-harness-iphones-full-potential-for-landscapes-for-2024/"><u>How to Harness iPhone's Full Potential for Landscapes for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-sony-xperia-5-v-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Sony Xperia 5 V Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/is-asmr-good-for-you-learn-the-benefits-here/"><u>Is ASMR Good for You? Learn the Benefits Here</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723009703102-overcome-gaming-hurdles-solving-pc-crashes-in-forza-horizon-4-easily/"><u>Overcome Gaming Hurdles: Solving PC Crashes in Forza Horizon 4 Easily!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-palworld-session-search-issue-a-comprehensive-guide/"><u>Solving the 'Palworld' Session Search Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-when-your-minecraft-load-screen-wont-proceed/"><u>Troubleshooting Tips When Your Minecraft Load Screen Won't Proceed</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/why-ai-based-plagiarism-checkers-are-flawed-addressing-the-bigger-issue/"><u>Why AI-Based Plagiarism Checkers Are Flawed: Addressing the Bigger Issue</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-ultimate-tutorial-for-full-utilization-of-final-cut-pro/"><u>[New] In 2024, Ultimate Tutorial for Full Utilization of Final Cut Pro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-sony-bdp-s6700-fresh-perspective-for-2024/"><u>[Updated] Sony BDP-S6700 - Fresh Perspective for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-sprint-towards-subscriber-goal-reach-1000/"><u>2024 Approved Sprint Towards Subscriber Goal Reach 1,000</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/confidential-information-at-risk-reasons-to-think-twice-before-trusting-chatgpt-with-sensitive-details/"><u>Confidential Information at Risk? Reasons to Think Twice Before Trusting ChatGPT with Sensitive Details</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eos-login-woes-overcome-common-palworld-access-challenges-with-these-fixes/"><u>EOS Login Woes? Overcome Common Palworld Access Challenges with These Fixes</u></a></li>
+<li><a href="https://os-tips.techidaily.com/handheld-gaming-on-steam-without-the-necessity-of-a-steam-deck/"><u>Handheld Gaming on Steam Without the Necessity of a Steam Deck</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-crashing-problems-with-wallpaper-engine-on-windows-1011/"><u>How to Resolve Crashing Problems with Wallpaper Engine on Windows 10/11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-nokia-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Nokia Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-solve-launcher-and-game-errors-fixing-crash-problems-in-the-outer-worlds-for-windowsmacos/"><u>How to Solve Launcher & Game Errors: Fixing Crash Problems in 'The Outer Worlds' For Windows/MacOS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-best-10-sites-to-get-free-images/"><u>In 2024, Best 10 Sites to Get Free Images</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723012884230-inside-look-at-cyberpunk-2077s-flatline-mishap-demystifying-error-2024/"><u>Inside Look at Cyberpunk 2077'S Flatline Mishap - Demystifying Error 2024!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-loading-error-on-your-football-manager-2021-game-step-by-step-guide/"><u>Resolving 'Loading' Error on Your Football Manager 2021 Game – Step-by-Step Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-no-more-flickering-displays/"><u>Win11 No More Flickering Displays</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing PC Instability in Madden 2Nolution: Solutions for a Smooth Experience"
-date: 2024-09-13T21:47:09.080Z
-updated: 2024-09-16T21:34:48.725Z
+date: 2024-09-18T19:01:20.592Z
+updated: 2024-09-21T18:04:23.920Z
 tags:
   - win11
   - win10
@@ -73,10 +73,10 @@ If this doesn’t help, you can take a look at the next fix below.
  If the latest graphics driver doesn’t do the charm, you can check out the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
@@ -87,34 +87,13 @@ If this doesn’t help, you can take a look at the next fix below.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once you’ve installed all the system updates, check if you can get Civ 6 working now.
 
 If this solution doesn’t help, you can continue to the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Perform a clean boot
 
@@ -124,16 +103,31 @@ If this solution doesn’t help, you can continue to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
@@ -152,6 +146,13 @@ If a clean boot doesn’t help, you can check out the next fix.
 1. Go to the support page of Microsoft. Under the**Visual Studio 2015, 2017 and 2019 section** , click**vc\_redist.x64.exe** and download the installer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/latest-c.jpg)
 2. Open the installer and follow the on-screen instructions to install.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also uninstall all the Visual C++ redistributable in**Programs and Features** , then reinstall them one by one. Be sure to choose the latest 64-bit installer.
 
@@ -182,21 +183,18 @@ If a clean boot doesn’t help, you can check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-boundless-creativity-celebrating-our-top-10-female-youtubers/"><u>[Updated] In 2024, Boundless Creativity Celebrating Our Top 10 Female YouTubers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-trendsetters-tunes-hits-of-the-week-for-yt-shorts-soundtracks/"><u>[Updated] In 2024, Trendsetters’ Tunes Hits of the Week for YT Shorts Soundtracks</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-pixels-to-perfection-youtubes-beauty-color-techniques-for-2024/"><u>[Updated] Pixels to Perfection Youtube's Beauty Color Techniques for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-miniature-harmonies-character-music-journey/"><u>2024 Approved Miniature Harmonies Character Music Journey</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723008166107-cracking-the-case-of-the-elusive-la-noire-pc-release-its-now-in-play/"><u>Cracking the Case of the Elusive L.A. Noire PC Release – It's Now in Play</u></a></li>
-<li><a href="https://extra-information.techidaily.com/expert-tips-for-a-closer-look-at-google-meet-participants/"><u>Expert Tips for a Closer Look at Google Meet Participants</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-redmi-note-12r-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi Redmi Note 12R</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-lag-and-freezes-effective-fixes-for-hearthstone-pc-performance-issues/"><u>Overcome Lag and Freezes: Effective Fixes for Hearthstone PC Performance Issues</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-xiaomi-13-ultra-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Xiaomi 13 Ultra</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-truth-about-elden-rings-launch-schedule-heres-what-fans-should-expect/"><u>The Truth About Elden Ring's Launch Schedule – Here’s What Fans Should Expect</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722996467083-troubleshooting-guide-eradicate-stuttering-in-your-pc-fortnite-battles-today/"><u>Troubleshooting Guide: Eradicate Stuttering in Your PC Fortnite Battles Today!</u></a></li>
-<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-overcome-street-fighter-nlag-issues-for-smoother-gaming-on-pc/"><u>Ultimate Guide: Overcome Street Fighter nLag Issues for Smoother Gaming on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unfreezing-overwatch-solutions-for-continuous-game-lag-and-freezes/"><u>Unfreezing Overwatch: Solutions for Continuous Game Lag and Freezes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/why-is-my-gta-5-online-experience-broken-and-how-to-repair-it/"><u>Why Is My GTA 5 Online Experience Broken and How to Repair It?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-cutting-edge-concepts-for-captivating-youtube-video-thumbnails/"><u>[New] 2024 Approved Cutting-Edge Concepts for Captivating YouTube Video Thumbnails</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-world-of-warcraft-low-fps-2024-tips/"><u>[SOLVED] World of Warcraft Low FPS – 2024 Tips</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagram-filter-techniques-for-a-stunning-feed/"><u>[Updated] In 2024, Instagram Filter Techniques for a Stunning Feed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-steps-to-resolve-compiling-shaders-hang-up-for-black-ops-cold-war-enthusiasts/"><u>Comprehensive Steps to Resolve 'Compiling Shaders' Hang-Up for Black Ops Cold War Enthusiasts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhanced-stability-now-smooth-and-bug-free-gaming-in-assassins-creed-valhalla-pc-version/"><u>Enhanced Stability: Now Smooth and Bug-Free Gaming in Assassin's Creed Valhalla PC Version</u></a></li>
+<li><a href="https://program-issues.techidaily.com/exclusive-insight-on-the-postponed-launch-of-mafia-definitive-edition/"><u>Exclusive Insight on the Postponed Launch of Mafia: Definitive Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723002243055-fix-your-cod-vanguard-pc-problems-solutions-for-the-2n-d4-release/"><u>Fix Your CoD Vanguard PC Problems – Solutions for the 2N-D4 Release</u></a></li>
+<li><a href="https://program-issues.techidaily.com/getting-helldivers-2-up-and-running-on-steam-a-step-by-step-guide/"><u>Getting Helldivers 2 Up & Running on Steam - A Step-by-Step Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-4-things-you-must-know-about-iphone-14-plus-activation-lock-by-drfone-ios/"><u>In 2024, 4 Things You Must Know About iPhone 14 Plus Activation Lock</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-xiaomi-redmi-note-12-4g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Xiaomi Redmi Note 12 4G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-nubia-red-magic-9-proplus-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Nubia Red Magic 9 Pro+</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-hidden-treasures-how-disneypluss-unique-add-ons-match-dvd-bonus-content/"><u>Unveiling Hidden Treasures: How Disney+'s Unique Add-Ons Match DVD Bonus Content!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/xbox-live-outage-current-server-status-update/"><u>Xbox Live Outage - Current Server Status Update</u></a></li>
 </ul></div>
 

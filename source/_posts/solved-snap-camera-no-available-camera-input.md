@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Snap Camera No Available Camera Input"
-date: 2024-09-09T19:24:18.608Z
-updated: 2024-09-16T22:08:58.411Z
+date: 2024-09-19T18:15:14.667Z
+updated: 2024-09-21T21:41:52.829Z
 tags:
   - win11
   - win10
@@ -117,6 +117,13 @@ Here’s how to update your drivers with Driver Easy:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Perform a clean boot
 
  Your game might suddenly close without giving you any error message. If you’re experiencing this kind of issue even after updating the graphics drivers, then we suggest you try performing Clean Boot. It can be a great way to troubleshoot the Halo 3 crashing issues.
@@ -135,10 +142,10 @@ To do so:
 ![hide all Microsoft services; disable all](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) In the same window, select the**Startup** tab and then click**Open Task Manager** .  
@@ -150,10 +157,10 @@ To do so:
 ![perform a clean boot; disable certain item](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-4-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Under the**Startup** tab of System Configuration, click**OK** .  
@@ -170,17 +177,24 @@ To do so:
   
 ![open as an administrator; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/run-as-administrator-Properties.jpg)
   
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the**Compatibility** tab and click**Run this program as an administrator** . Click**Apply** and**OK** .  
   
 ![run as administrator; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/run-as-administrator-compatability.jpg)
   
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Go to the directory where you installed Halo 3, and run the**.exe** file as administrator as well.  
   
@@ -198,19 +212,6 @@ To do so:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 7: Verify the integrity of game files
 
  Halo 3 is available on PC through Steam. But players have been experiencing sudden crashes in Halo 3 on Steam. It can be caused by a bad game cache, so you need to ensure that the integrity of game files is intact.  
@@ -222,17 +223,18 @@ To do so:
 ![verify integrity of game files on Steam; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/verify-integrity-of-game-files.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click**Halo 3** and select**Properties** .  
   
 ![verify integrity of game files; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/verify-integrity-of-game-files-properties.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Under the**LOCAL FILES** tab, click**VERIFY INTEGRITY OF GAME CACHE…** .  
   
 ![verify integrity of game files; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/integrity-of-cache.png)
@@ -264,20 +266,17 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-music-infused-content-sharing-strategies-for-facebook/"><u>[New] 2024 Approved Music-Infused Content Sharing Strategies for Facebook</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-for-continuous-palworld-game-crashes-on-desktop-systems/"><u>Effective Solutions for Continuous Palworld Game Crashes on Desktop Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/essential-fixes-for-when-the-outer-worlds-keeps-crashing-on-pc/"><u>Essential Fixes for When 'The Outer Worlds' Keeps Crashing on PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-recover-lost-desktop-items-and-icons-on-your-updated-windows-11-system/"><u>How to Recover Lost Desktop Items & Icons on Your Updated Windows 11 System</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-hp-laptop-hardware-drivers-installation-guide-for-windows-users/"><u>Latest HP Laptop Hardware Drivers: Installation Guide for Windows Users</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/laughter-and-tears-on-insta-the-ultimate-meme-page-list/"><u>Laughter & Tears on Insta The Ultimate Meme Page List</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-steps-for-successful-age-of-empires-iv-installation/"><u>Resolved: Troubleshooting Steps for Successful 'Age of Empires IV' Installation</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-guide-capturing-your-cloudcomputer-webex-sessions-and-webinar-streams/"><u>Step-by-Step Guide: Capturing Your Cloud/Computer Webex Sessions & Webinar Streams</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/systematic-approach-to-reducing-unnecessary-cpu-load-on-your-systems-idle-operations/"><u>Systematic Approach to Reducing Unnecessary CPU Load on Your System's Idle Operations</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-truth-behind-the-postponement-of-guilty-gear-strive-launch/"><u>The Truth Behind the Postponement of Guilty Gear Strive Launch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-methods-for-enhancing-your-ark-sanctuary-fps-performance-on-pc/"><u>Top Methods for Enhancing Your ARK: Sanctuary FPS Performance on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/uninterrupted-gaming-remedying-frequent-breakdowns-of-ffxiv-for-pc-users/"><u>Uninterrupted Gaming - Remedying Frequent Breakdowns of FFXIV for PC Users</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-in-computer-hardware-by-toms-review-corner/"><u>Unveiling the Best in Computer Hardware by Tom’s Review Corner</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-power-of-continuous-activity-tracking-with-fitbit-inspire-hr-a-full-evaluation/"><u>Unveiling the Power of Continuous Activity Tracking with Fitbit Inspire HR - A Full Evaluation</u></a></li>
-<li><a href="https://program-issues.techidaily.com/your-guide-to-shopping-for-televisions-online-top-6-retailers-revealed/"><u>Your Guide to Shopping for Televisions Online: Top 6 Retailers Revealed</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rom-raw-footage-to-polished-highlights-for-2024/"><u>[New] From Raw Footage to Polished Highlights for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-record-gameplay-with-obs-studio/"><u>[New] In 2024, Record Gameplay with OBS Studio</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-simplified-steps-for-saving-gotomeeting-sessions/"><u>[Updated] 2024 Approved Simplified Steps for Saving GoToMeeting Sessions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-elevating-your-channel-maximizing-adsense-on-youtube/"><u>[Updated] In 2024, Elevating Your Channel Maximizing AdSense on YouTube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-discover-best-watermarking-apps-for-images/"><u>2024 Approved Discover Best WaterMarking Apps for Images</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-warzone-fixes-the-infamous-ocean-crash-on-pacific-map/"><u>Call of Duty: Warzone Fixes the Infamous Ocean Crash on Pacific Map</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-correcting-the-nvidia-access-denied-mistake/"><u>Expert Advice: Correcting the NVIDIA Access Denied Mistake</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-to-resolving-apex-legends-technical-snags-and-crashes/"><u>Expert Guide to Resolving Apex Legends Technical Snags and Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-i-solved-my-problem-with-non-responsive-razer-synapse-software/"><u>How I Solved My Problem with Non-Responsive Razer Synapse Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719169201708-navigate-display-driver-startup-woes-with-ease-here/"><u>Navigate Display Driver Startup Woes with Ease, Here!</u></a></li>
+<li><a href="https://network-issues.techidaily.com/screen-blank-gpu-not-detected-2020/"><u>Screen Blank: GPU Not Detected 2020</u></a></li>
+<li><a href="https://program-issues.techidaily.com/turbocharge-your-gameplay-techniques-for-smoother-play-and-higher-fps-in-valorant/"><u>Turbocharge Your Gameplay: Techniques for Smoother Play & Higher FPS in Valorant</u></a></li>
 </ul></div>
 

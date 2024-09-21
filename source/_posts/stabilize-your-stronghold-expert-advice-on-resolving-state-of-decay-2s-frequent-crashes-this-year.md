@@ -1,7 +1,7 @@
 ---
 title: "Stabilize Your Stronghold: Expert Advice on Resolving State of Decay 2'S Frequent Crashes This Year"
-date: 2024-09-13T23:00:24.329Z
-updated: 2024-09-16T22:08:03.861Z
+date: 2024-09-18T18:29:59.690Z
+updated: 2024-09-21T18:36:30.303Z
 tags:
   - win11
   - win10
@@ -88,18 +88,18 @@ If State of Decay 2 still crashes, go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 3. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 
  Once you’ve installed all the updates, restart your computer and launch State of Decay 2 to see if the crashing issue remains.
 
 If this method doesn’t help, check out the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Reset State of Decay 2
 
@@ -110,6 +110,13 @@ If this method doesn’t help, check out the next solution.
 2. Under Apps & features, click**State of Decay 2** , then click**Advanced options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-options.jpg)
 3. Scroll down the page, then click**Reset** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/reset-app.jpg)
 4. Click**Reset** to confirm again.  
@@ -132,13 +139,6 @@ If the crashing issue occurs again, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/move-app.jpg)
 3. In the pop-up window,**select a new drive** from the drop-down menu, then click**Move** again.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/move2-1.jpg)
 
  After doing that, launch State of Decay 2 and check if the problem has gone away.
@@ -156,21 +156,29 @@ If this method doesn’t do the trick, try the next fix.
 3. Select**English (United States)** , then click**Next** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/next.jpg)
 4. Click**Install** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/install-language.jpg)
 5. After the language is fully installed, drag it to the first position in the list.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/set-as-default.jpg)
 
 Now restart your PC and test if State of Decay 2 still crashes.
 
 If this solution doesn’t work for you, continue to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Perform a clean boot
 
@@ -179,13 +187,6 @@ If this solution doesn’t work for you, continue to the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Type**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
@@ -202,13 +203,6 @@ If this solution doesn’t work for you, continue to the next fix.
 
  If the game still crashes after you disabled all the programs and services, try the last fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 9: Reinstall State of Decay 2
 
  If none of the fixes above solve your problem, try reinstalling State of Decay 2 as a last resort. This might help you get rid of the crashing issue. To do so:
@@ -219,6 +213,19 @@ If this solution doesn’t work for you, continue to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall-app.jpg)
 3. Click**Uninstall** again.  
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall.jpg)
 4. Restart your computer and reinstall the game.
@@ -244,20 +251,21 @@ If this solution doesn’t work for you, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-effortlessly-merge-your-memories-photos-from-iphone-to-snapchat-for-2024/"><u>[New] Effortlessly Merge Your Memories Photos From iPhone to Snapchat for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-masterful-sound-setup-ultimate-tips-and-gear-list-for-2024/"><u>[New] Masterful Sound Setup Ultimate Tips & Gear List for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-how-to-distinguish-real-from-sham-on-your-instagram-circle-quickly/"><u>[Updated] 2024 Approved How to Distinguish Real From Sham on Your Instagram Circle Quickly</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-first-lessons-in-frame-rate-and-fidelity-for-newbies/"><u>[Updated] The First Lessons in Frame Rate and Fidelity for Newbies</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/daybreak-dialogue-expressing-good-morning-in-various-languages/"><u>Daybreak Dialogue: Expressing 'Good Morning' In Various Languages</u></a></li>
-<li><a href="https://program-issues.techidaily.com/delay-alert-no-set-date-yet-for-diablo-immortals-arrival-on-desktop-systems/"><u>Delay Alert: No Set Date Yet for Diablo Immortal's Arrival on Desktop Systems</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/expert-level-recording-app-clean-and-clear/"><u>Expert-Level Recording App - Clean and Clear</u></a></li>
-<li><a href="https://program-issues.techidaily.com/gaming-smoothly-on-pc-with-aliens-fireteam-elite-how-to-stop-the-crashes/"><u>Gaming Smoothly on PC with Aliens: Fireteam Elite - How to Stop the Crashes</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-clear-video-soundtracks-free-vs-licensed-software-guide/"><u>In 2024, Clear Video Soundtracks Free Vs. Licensed Software Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723000003965-master-the-art-of-troubleshooting-device-malfunctions-secure-stability-today/"><u>Master the Art of Troubleshooting Device Malfunctions: Secure Stability Today!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maximizing-performance-unlocking-the-best-fps-settings-for-modern-warfare/"><u>Maximizing Performance: Unlocking the Best FPS Settings for Modern Warfare</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-user-not-valid-windows-1111-errors/"><u>Navigating Through 'User Not Valid' Windows 11/11 Errors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/roblox-not-working-heres-how-to-repair-it-fast-a-2024-troubleshooting-guide/"><u>Roblox Not Working? Here's How to Repair It Fast: A 2024 Troubleshooting Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-2024-strategies-fixing-rocket-league-persistent-crashes/"><u>Top 2024 Strategies: Fixing 'Rocket League' Persistent Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723010701758-troubleshoot-game-crashes-in-ghost-recon-breakpoint-with-ease-and-speed/"><u>Troubleshoot Game Crashes in Ghost Recon Breakpoint with Ease & Speed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-tycoon-titanics-unveil-the-best-12-for-your-ultimate-business-triumph/"><u>[Updated] In 2024, Tycoon Titanics Unveil the Best 12 for Your Ultimate Business Triumph</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-youtube-success-via-creator-studio-complete-handbook/"><u>[Updated] Mastering YouTube Success via Creator Studio Complete Handbook</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-full-potential-best-trio-for-zoom-conversion/"><u>[Updated] Unlock Full Potential Best Trio for Zoom Conversion</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-unveiling-ideal-techniques-for-obs-facebook-transition-for-2024/"><u>[Updated] Unveiling Ideal Techniques for OBS-Facebook Transition for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/accessible-alternatives-googles-simplicity-versus-samsungs-innovation/"><u>Accessible Alternatives Google's Simplicity Versus Samsung's Innovation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-startup-woes-effective-fixes-for-playing-warframe-smoothly-again/"><u>Banish Startup Woes: Effective Fixes for Playing Warframe Smoothly Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dragon-quest-xi-stability-fix-overcome-crash-errors-with-these-tips/"><u>Dragon Quest XI Stability Fix - Overcome Crash Errors with These Tips!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elevate-your-fall-guys-play-with-higher-frames-per-second-fps-and-lower-latency-solutions/"><u>Elevate Your Fall Guys Play with Higher Frames per Second (FPS) & Lower Latency Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-resolved-cold-war-in-call-of-duty-black-ops-pc-stability-issues/"><u>Fixing: [Resolved] Cold War in Call of Duty Black Ops - PC Stability Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722988961546-hitman-3-stuck-on-a-black-canvas-heres-your-pc-solution/"><u>Hitman 3 Stuck on a Black Canvas? Here's Your PC Solution!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-total-war-three-kingdoms-software-freezing-glitches/"><u>How to Overcome Total War: Three Kingdoms Software Freezing Glitches</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-plus-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 Plus To Android devices? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-cutting-edge-streaming-top-5-tools-for-capturing-every-meeting/"><u>In 2024, Cutting-Edge Streaming Top 5 Tools for Capturing Every Meeting</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quickly-end-wow-freezing-problems-with-these-simple-troubleshooting-steps/"><u>Quickly End WOW Freezing Problems with These Simple Troubleshooting Steps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleashing-performance-how-the-ryzen-9-9950x-eclipses-core-i9-14900k-by-18-while-maintaining-a-slender-power-footprint/"><u>Unleashing Performance: How the Ryzen 9 9950X Eclipses Core I9-14900K by 18% While Maintaining a Slender Power Footprint</u></a></li>
+<li><a href="https://program-issues.techidaily.com/valorants-low-framerate-solutions-unveiled-a-step-by-step-guide-to-achieving-smooth-gameplay/"><u>Valorant's Low Framerate Solutions Unveiled: A Step-by-Step Guide to Achieving Smooth Gameplay</u></a></li>
 </ul></div>
 

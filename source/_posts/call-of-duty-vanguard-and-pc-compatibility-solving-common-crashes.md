@@ -1,7 +1,7 @@
 ---
 title: "Call of Duty Vanguard and PC Compatibility: Solving Common Crashes"
-date: 2024-09-15T18:12:11.281Z
-updated: 2024-09-16T22:34:31.075Z
+date: 2024-09-20T18:28:18.053Z
+updated: 2024-09-21T20:46:20.615Z
 tags:
   - win11
   - win10
@@ -74,6 +74,13 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 
  Launch Arcadegeddon again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Close CPU / memory hogging applications
 
  Insufficient memory would also leading to the Arcadegeddon crashing issue. If there’s too many applications running in the background while you’re playing Arcadegeddon, your computer may run out of RAM and the game may crash.
@@ -84,22 +91,15 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 2. Select any other applications and programs that take up a large amount of **CPU** or **memory** , then click **End task** to close it.  
 ![Close CPU / memory hogging applications](https://images.drivereasy.com/wp-content/uploads/2021/05/Close-CPU-memory-hogging-applications.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If Arcadegeddon works well after you closed those CPU / memory hogging applications, congratulations!
 
  To prevent Arcadegeddon from crashing due to insufficient memory in the future, you may need to consider[upgrading the memory (RAM) on your computer](https://www.amazon.com/s?k=RAM&tag=drivereasycom-20) .
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Perform a clean boot
@@ -115,32 +115,32 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Restart** your PC and run Arcadegeddon to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
 
@@ -174,17 +174,15 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-mastering-the-art-of-making-and-tweaking-multi-snap-videos/"><u>[New] 2024 Approved Mastering the Art of Making & Tweaking Multi-Snap Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-battle-for-asgard-the-ragnarok-chronicles/"><u>[New] In 2024, Battle for Asgard The Ragnarök Chronicles</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-laughter-and-tears-connected-10-memes-that-resonate-on-ig/"><u>[Updated] In 2024, Laughter and Tears Connected 10 Memes That Resonate On IG</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-tiktok-unboxers-guide-to-enhanced-video-engagement-and-likes/"><u>[Updated] TikTok Unboxers Guide to Enhanced Video Engagement and Likes</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-choose-folder-for-stored-mac-screenshots/"><u>2024 Approved Choose Folder for Stored Mac Screenshots</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dying-light-lag-problems-here-are-the-fixes-to-optimize-your-gaming-experience/"><u>Dying Light Lag Problems? Here Are the Fixes to Optimize Your Gaming Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-high-disk-and-cpu-load-from-wsappx-a-step-by-step-guide/"><u>Fixing High Disk & CPU Load From WSAPPX: A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-black-desert-online-from-crashing-on-windows-1087-solved/"><u>How To Stop Black Desert Online From Crashing On Windows 10/8/7 (Solved)</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-art-of-crafting-content-for-snapchat-professionals-for-2024/"><u>The Art of Crafting Content for Snapchat Professionals for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-frame-rate-drops-in-call-of-duty-modern-warfare-3-202-a-comprehensive-guide/"><u>Troubleshooting Frame Rate Drops in Call of Duty: Modern Warfare 3 (202^) - A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/understanding-the-postponement-unraveling-death-stranding-launch-issues/"><u>Understanding the Postponement: Unraveling Death Stranding Launch Issues</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>What is Fake GPS Location Pro and Is It Good On Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-innovative-tech-voice-changing-apps-reviewed/"><u>[New] Innovative Tech Voice-Changing Apps Reviewed</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-b-roll-wisdom-enhancing-your-cinematic-quality-for-2024/"><u>[Updated] B-Roll Wisdom Enhancing Your Cinematic Quality for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/connect-your-iphone-to-your-desktop-effortlessly-a-comprehensive-fix/"><u>Connect Your iPhone to Your Desktop Effortlessly – A Comprehensive Fix!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/enhance-your-broadcasts-using-manycam-the-ultimate-virtual-webcam-solution/"><u>Enhance Your Broadcasts Using ManyCam - The Ultimate Virtual Webcam Solution</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/farming-secrets-stardew-on-ginger-isles-for-2024/"><u>Farming Secrets Stardew on Ginger Isles for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/football-manager-2021-fixing-the-unresponsive-load-screen-issue/"><u>Football Manager 2021: Fixing the Unresponsive Load Screen Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-graphical-issues-in-your-rust-applications/"><u>How to Resolve Graphical Issues in Your Rust Applications</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-camera-restored-obs-problem-fixed/"><u>In 2024, Camera Restored - OBS Problem Fixed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-r-type-final-2-performance-overcoming-persistent-crash-problems-on-desktops/"><u>Mastering R-Type Final 2 Performance: Overcoming Persistent Crash Problems on Desktops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-couldnt-retrieve-directory-info-in-kodi-a-complete-guide/"><u>Overcoming 'Couldn't Retrieve Directory Info' In Kodi - A Complete Guide</u></a></li>
 </ul></div>
 

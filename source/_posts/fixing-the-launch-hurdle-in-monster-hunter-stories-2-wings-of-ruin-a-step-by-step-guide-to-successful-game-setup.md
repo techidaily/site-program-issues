@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Launch Hurdle in Monster Hunter Stories 2: Wings of Ruin - A Step-by-Step Guide to Successful Game Setup"
-date: 2024-09-14T22:49:55.927Z
-updated: 2024-09-16T19:23:43.025Z
+date: 2024-09-19T18:13:25.951Z
+updated: 2024-09-21T20:00:57.508Z
 tags:
   - win11
   - win10
@@ -153,13 +153,6 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-218.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Restart your computer for the changes to take effect.
 
  Now run FIFA 20 and check whether your crashing problem still exists. If it does, then please proceed to the next fix.
@@ -174,29 +167,22 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-141.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the **Windows Update** tab, in the results pane, click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-947.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Wait for the system to search for available updates online. If there’s indeed a pending update, then Windows will automatically download the update and install it. Once the process completes, restart your computer for the changes to be fully implemented.
 
  Now launch FIFA 20 again and see whether it keeps crashing. If it does, then move on to the Fix 4 below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Change DirectX settings
 
@@ -214,6 +200,13 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-847.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) After “DIRECTX\_SELECT = 1” is located, change it to**DIRECTX\_SELECT = 0** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-866.png)
@@ -224,6 +217,13 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Adjust settings in NVIDIA Control Panel
 
  Make sure your computer is using the correct graphics card to run FIFA 20\. This is particularly important when you have two graphics cards mounted on one PC. Besides, you can fine-tune certain settings for FIFA 20 in NVIDIA Control Panel in order to reduce the risk of crashing.
@@ -231,13 +231,6 @@ In case you don’t know how, here’s the guidance:
  1) Right-click an empty area on your desktop to open the context menu. Then select**NVIDIA Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-903.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115936/19272" target="_top" id="2115936">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115936" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115936/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) In the NVIDIA Control Panel window, click**Manage 3D settings** in the left pane. On the right panel, go to the**Program Settings** tab and click**Add** to select FIFA 20 (navigate to your game file and double-click it). Then, you can customize settings for FIFA 20 based on your liking. For example, you can set**Vertical sync** to**On** .
 
@@ -250,6 +243,13 @@ In case you don’t know how, here’s the guidance:
 If you continue to face the crashing problem, please move on to Fix 6.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Repair corrupted system files
 
@@ -270,19 +270,6 @@ If you continue to face the crashing problem, please move on to Fix 6.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-63.png)
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) In the Command Prompt, type the following command (**note** that there’s a space between sfc and /):
 
 sfc /scannow
@@ -290,6 +277,13 @@ sfc /scannow
  After you finish entering the command, hit **Enter** on your keyboard. Then the sfc tool will begin to scan all system files and repair the corrupted or missing ones.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-183.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Wait until the verification process completes. Then **restart** your computer for the changes to take effect.
 
@@ -353,20 +347,16 @@ dism.exe /online /cleanup-image /restorehealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-techs-leading-edge-in-video-capturing-software/"><u>[New] 2024 Approved Tech's Leading Edge in Video Capturing Software</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-in-depth-guide-on-using-annotations-for-marketing/"><u>2024 Approved In-Depth Guide on Using Annotations for Marketing</u></a></li>
-<li><a href="https://driver-error.techidaily.com/effective-steps-for-fixing-improper-device-configuration-overcoming-error-1-hurdle/"><u>Effective Steps for Fixing Improper Device Configuration – Overcoming Error 1 Hurdle</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fcp-x-effects-made-simple-a-step-by-step-tutorial/"><u>FCP X Effects Made Simple A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-missing-startup-location-issue-on-fortnite-tips-and-tricks/"><u>Fixing the Missing Startup Location Issue on Fortnite - Tips & Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-cannot-connect-to-server-problem-in-minecraft-gaming/"><u>How To Overcome 'Cannot Connect to Server' Problem In Minecraft Gaming</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-ispoofer-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Honor V Purse? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-kickstart-creative-video-editing-with-xp-edition/"><u>In 2024, Kickstart Creative Video Editing with Xp Edition</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-easy-filmmaker-turn-your-ideas-into-a-movie/"><u>New The Easy Filmmaker Turn Your Ideas Into a Movie</u></a></li>
-<li><a href="https://program-issues.techidaily.com/nvidia-geforce-overlay-malfunction-here-are-the-fixes-you-need/"><u>NVIDIA GeForce Overlay Malfunction? Here Are the Fixes You Need!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-users-say-goodbye-to-frustration-a-step-by-step-solution-to-thaumaturge-app-malfunctions/"><u>PC Users, Say Goodbye to Frustration: A Step-by-Step Solution to Thaumaturge App Malfunctions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/rainbow-six-siege-connection-error-fixes-tips-for-a-smooth-multiplayer-experience/"><u>Rainbow Six Siege Connection Error Fixes - Tips for a Smooth Multiplayer Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/repair-steps-resolving-non-launch-problems-in-farming-simulator-22/"><u>Repair Steps: Resolving Non-Launch Problems in Farming Simulator 22</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-dilemma-of-your-iphone-not-recognizing-by-itunes-in-windows-11-environment/"><u>Resolving the Dilemma of Your iPhone Not Recognizing by iTunes in Windows 11 Environment</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-download-mastery-11-key-youtube-extractors/"><u>[New] 2024 Approved Download Mastery 11 Key YouTube Extractors</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-how-to-upload-your-music-to-youtube/"><u>[New] 2024 Approved How to Upload Your Music to YouTube</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-tecno-camon-30-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/google-chrome-not-opening-heres-how-you-can-fix-it/"><u>Google Chrome Not Opening? Here’s How You Can Fix It!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-error-0xc1eb190041-in-microsoft-windows-11-step-by-step-solution/"><u>How to Fix 'Error 0xC1eb190041' In Microsoft Windows 11 - Step-by-Step Solution</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-poco-c55-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Poco C55 to iPad | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-league-of-legends-not-starting-here-are-your-top-strategies/"><u>Resolving 'League of Legends Not Starting?' Here Are Your Top Strategies !</u></a></li>
+<li><a href="https://video-capture.techidaily.com/simplify-your-tech-life-capture-and-store-youtube-streaming-effortlessly/"><u>Simplify Your Tech Life Capture and Store YouTube Streaming Effortlessly</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/speedy-streaming-solutions-for-stuttery-shows/"><u>Speedy Streaming Solutions for Stuttery Shows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-stuck-on-updates-for-the-microsoft-flight-simulator-2020/"><u>Troubleshooting Stuck on Updates for the Microsoft Flight Simulator 2020</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-isnt-my-cortana-working-a-step-by-step-guide/"><u>Why Isn't My Cortana Working? A Step-by-Step Guide</u></a></li>
 </ul></div>
 

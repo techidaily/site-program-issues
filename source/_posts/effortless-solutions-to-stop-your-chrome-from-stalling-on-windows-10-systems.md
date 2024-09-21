@@ -1,7 +1,7 @@
 ---
 title: Effortless Solutions to Stop Your Chrome From Stalling on Windows 10 Systems
-date: 2024-09-09T18:29:52.998Z
-updated: 2024-09-16T16:40:22.773Z
+date: 2024-09-17T16:56:28.547Z
+updated: 2024-09-21T17:07:45.267Z
 tags:
   - win11
   - win10
@@ -79,6 +79,13 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Flush your DNS
 
  Flushing your DNS is another fix that may help you resolve this issue. If you don’t know how to do it, you can follow the steps below:
@@ -86,13 +93,6 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
  1\. On your keyboard, press **the Windows Logo Key** and **R** at the same time to open the Run dialog. Type **cmd**  and then press **Ctrl, Shift,**  and **Enter**  on your keyboard at the same time to run Command Prompt as administrator. You will be prompted for permission. Click **Yes** to run**Command Prompt** .
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/1-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2\. Type the command line **ipconfig /flushdns**  and press **Enter**  on your keyboard.
 
@@ -133,18 +133,18 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-591-1024x582.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. Wait until the verifying process completes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
 
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Play with VPN
 
@@ -166,26 +166,26 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4\. Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel, or click on the country pin on the map.
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5\. Launch Apex Legends and enjoy the game with your friends.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-590.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Apex Legends
@@ -199,10 +199,10 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-346-1024x728.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3\. Download and reinstall Apex Legends. Launch the game to see if you can pass the loading screen. If so, congratulations! You’ve resolved this issue.
@@ -226,21 +226,19 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-popsicle-projector-detailed-tutorial-on-screen-capture-tech/"><u>[Updated] 2024 Approved Popsicle Projector Detailed Tutorial on Screen Capture Tech</u></a></li>
-<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boost-productivity-with-easy-group-policy-navigation-in-win11/"><u>Boost Productivity with Easy Group Policy Navigation in Win11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-troubleshooting-dealing-with-lost-server-connections-in-escape-from-tarkov/"><u>Comprehensive Troubleshooting: Dealing with Lost Server Connections in Escape From Tarkov</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elden-ring-release-delayed-an-inside-look/"><u>Elden Ring Release Delayed: An Inside Look</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-of-asus-rog-gt-ac5300-perfect-for-gamers-and-hardcore-techies/"><u>Expert Analysis of Asus ROG GT-AC5300: Perfect for Gamers & Hardcore Techies</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/from-best-to-greatest-mondlys-journey-in-german-learning/"><u>From Best to Greatest: Mondly’s Journey in German Learning</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-display-apple-iphone-12-pro-screen-on-pc-easily-drfone-by-drfone-ios/"><u>How to Display Apple iPhone 12 Pro Screen on PC Easily? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-get-your-twitch-stream-up-and-running-again-with-these-groovy-7-fixes/"><u>How To Get Your Twitch Stream Up & Running Again With These Groovy 7 Fixes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-glide-and-glory-short-track-highlights-from-22/"><u>In 2024, Glide and Glory Short Track Highlights From '22</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-xiaomi-13-ultra-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Xiaomi 13 Ultra to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-issue-fixing-dead-by-daylight-error-code-8014/"><u>Resolving the Issue: Fixing Dead by Daylight Error Code 8014</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/rise-above-the-noise-nine-strategies-for-instagram-prominence-for-2024/"><u>Rise Above the Noise Nine Strategies for Instagram Prominence for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-to-clear-up-the-steam-launchers-black-screen-glitch-learn-how-in-our-latest-guide/"><u>Step-by-Step Fixes to Clear Up the Steam Launcher's Black Screen Glitch – Learn How in Our Latest Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-prevent-your-sons-of-the-forest-game-from-crashing-on-windows/"><u>Troubleshooting Steps to Prevent Your 'Sons of the Forest' Game From Crashing on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-when-razer-synapse-wont-start-up/"><u>Troubleshooting Tips When Razer Synapse Won't Start Up</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-the-elite-free-srt-translation-websites-of-choice/"><u>[New] Unveiling the Elite Free SRT Translation Websites of Choice</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-affordable-pc-monitoring-software-for-2024/"><u>[Updated] Affordable PC Monitoring Software for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-skyrocketing-sales-how-ad-revenue-transforms-youtube-videos-for-2024/"><u>[Updated] Skyrocketing Sales How Ad Revenue Transforms YouTube Videos for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-step-by-nstep-guide-using-chatgpt-to-cultivate-your-meditation-habit/"><u>A Step-by-nStep Guide: Using ChatGPT to Cultivate Your Meditation Habit</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/boost-your-system-top-10-microsoft-edge-tips-for-faster-computing/"><u>Boost Your System: Top 10 Microsoft Edge Tips for Faster Computing</u></a></li>
+<li><a href="https://win-forum.techidaily.com/digital-social-giants-mastering-interactions-on-facebook-twitter-instagram-youtube/"><u>Digital Social Giants: Mastering Interactions on Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-successfully-start-persona-n3-reload-when-it-wont-open/"><u>Expert Tips to Successfully Start Persona N3 Reload When It Won't Open</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-error-code-0xc0000022-a-step-by-step-guide-for-resolving-adobes-launch-issues/"><u>Fixing Error Code 0xC0000022: A Step-by-Step Guide for Resolving Adobe's Launch Issues</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-ultimate-guide-to-melodic-content-on-instagram/"><u>In 2024, The Ultimate Guide to Melodic Content on Instagram</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-avoid-data-loss-and-keep-every-interaction-secure/"><u>Mastering ChatGPT: Avoid Data Loss & Keep Every Interaction Secure</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-take-your-audio-to-the-next-level-top-10-editing-software/"><u>New Take Your Audio to the Next Level Top 10 Editing Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-installing-last-epoch-game-on-your-computer-latest-solutions-for-2am-users/"><u>Troubleshooting Tips for Installing 'Last Epoch' Game on Your Computer - Latest Solutions for 2Am Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-fixing-the-issue-of-logitech-g-hub-malfunction-on-windows/"><u>Troubleshooting Tips: Fixing the Issue of Logitech G Hub Malfunction on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/wwe-2k20-troubleshooting-fixing-pc-game-crash-issues-quickly-and-effortlessly/"><u>WWE 2K20 Troubleshooting: Fixing PC Game Crash Issues Quickly and Effortlessly</u></a></li>
 </ul></div>
 

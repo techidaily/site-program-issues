@@ -1,7 +1,7 @@
 ---
 title: "Effective Solutions for the 'Call of Duty: WW2' Error Code 4128 Problems"
-date: 2024-09-11T19:46:35.034Z
-updated: 2024-09-16T16:22:06.402Z
+date: 2024-09-19T20:33:30.309Z
+updated: 2024-09-21T17:46:18.274Z
 tags:
   - win11
   - win10
@@ -93,13 +93,6 @@ thumbnail: https://thmb.techidaily.com/c74303d4c07843e34b64af558ccf2dd47acf27f12
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Repair the game
 
  Ashen may crash if its game files are corrupted. In this case, you need to verify the integrity of the game files. You can follow the steps below to repair the game:
@@ -110,6 +103,13 @@ thumbnail: https://thmb.techidaily.com/c74303d4c07843e34b64af558ccf2dd47acf27f12
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 3. Launch Ashen when the verifying process completed.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  See if you can play the game without crashes. If not, try the next fix, below.
 
@@ -132,13 +132,6 @@ thumbnail: https://thmb.techidaily.com/c74303d4c07843e34b64af558ccf2dd47acf27f12
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
@@ -167,6 +160,13 @@ thumbnail: https://thmb.techidaily.com/c74303d4c07843e34b64af558ccf2dd47acf27f12
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Optimize your graphics card settings
 
  If the specs of your PC is not good enough, you can also try optimizing your graphics card settings. You can follow the steps below to modifying your graphics card settings.
@@ -184,32 +184,33 @@ Select your graphics card manufacturer first:
 2. View Control Panel by **Large icons** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
 #### Modify AMD graphics card settings
 
@@ -273,18 +274,17 @@ Select your graphics card manufacturer first:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-exploring-streaming-options-vimeo-vs-youtubes-popularity-for-2024/"><u>[Updated] Exploring Streaming Options Vimeo vs YouTube's Popularity for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/audioscapes-excellent-microphone-list-for-2024/"><u>Audioscape’s Excellent Microphone List for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diy-troubleshooting-for-common-directdraw-problems-and-solutions/"><u>DIY Troubleshooting for Common DirectDraw Problems and Solutions</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/effortless-harmony-creating-engaging-and-organized-youtube-playlists/"><u>Effortless Harmony Creating Engaging and Organized YouTube Playlists</u></a></li>
-<li><a href="https://program-issues.techidaily.com/getting-your-paradox-launcher-back-on-track-a-step-by-step-fixing-guide/"><u>Getting Your Paradox Launcher Back on Track - A Step-by-Step Fixing Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-black-desert-pc-crashes-expert-troubleshooting-tips/"><u>How to Fix Black Desert PC Crashes: Expert Troubleshooting Tips</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-a-beginners-roadmap-for-mobile-screening-on-snapchat/"><u>In 2024, A Beginner’s Roadmap for Mobile Screening on Snapchat</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-tips-for-effective-pip-use-on-edge-browser/"><u>In 2024, Expert Tips for Effective PIP Use on Edge Browser</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-iphone-6-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with iPhone 6 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-your-adventures-with-top-6-head-mounted-cameras-by-gopro-for-2024/"><u>Mastering Your Adventures with Top 6 Head-Mounted Cameras by GoPro for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-vivo-v29-pro-by-drfone-android/"><u>Three Ways to Sim Unlock Vivo V29 Pro</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005665234-troubleshooting-guide-making-your-windows-groovy-taskbar-functional-again/"><u>Troubleshooting Guide: Making Your Windows Groovy Taskbar Functional Again.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-critical-business-issues-preventing-startup/"><u>Ultimate Guide: Resolving Critical Business Issues Preventing Startup</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ecrets-of-hosting-no-cost-seminars-on-the-worlds-largest-video-platform/"><u>[New] Secrets of Hosting No-Cost Seminars on the World’s Largest Video Platform</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-honor-80-pro-straight-screen-edition-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Honor 80 Pro Straight Screen Edition Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/canon-camera-experience-no-cost-but-pay-for-more-luts-for-2024/"><u>Canon Camera Experience No Cost, But Pay for More LUTs for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-latency-in-outriders-my-step-by-step-solution/"><u>Eliminating Latency in Outriders: My Step-by-Step Solution</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/five-fantastic-iphones-for-podcast-fans-for-2024/"><u>Five Fantastic iPhones for Podcast Fans for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-constant-fails-solutions-for-ghostwire-tokyo-continuous-pc-crashes/"><u>Fixing Constant Fails - Solutions for Ghostwire: Tokyo Continuous PC Crashes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-13-ultra-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on 13 Ultra</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-pro-video-setup-utilizing-your-logitech-webcam/"><u>In 2024, Pro Video Setup Utilizing Your Logitech Webcam</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-r-type-final-2-performance-overcoming-persistent-crash-problems-on-desktops/"><u>Mastering R-Type Final 2 Performance: Overcoming Persistent Crash Problems on Desktops</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ating-videos-sequentially-for-free-youtube-guide-for-2024/"><u>Navigating Videos Sequentially for Free - YouTube Guide for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steps-toward-overcoming-humanitys-inaction/"><u>Steps Toward Overcoming Humanity's Inaction</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722989929121-titanfall-2-stability-issues-heres-how-you-can-fix-the-game-crashes-instantly/"><u>Titanfall 2 Stability Issues? Here's How You Can Fix the Game Crashes Instantly!</u></a></li>
 </ul></div>
 

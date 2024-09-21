@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Gameplay Experience: Solving Forza Horizon 5'S PC FPS Lagging Problem"
-date: 2024-09-12T21:23:12.080Z
-updated: 2024-09-16T17:21:21.960Z
+date: 2024-09-20T22:07:01.093Z
+updated: 2024-09-21T17:57:45.831Z
 tags:
   - win11
   - win10
@@ -83,28 +83,21 @@ If the lagging issue persists, try the next fix.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. If updating the network driver doesn’t solve your problem, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Allow Forza Horizon 5 through the firewall
 
@@ -129,6 +122,13 @@ If the lagging issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-09-14_13-11-21.jpg)
 3. Navigate to Forza Horizon 5 game folders and add the game executable to the list.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Find Forza Horizon 5 on the list,**tick the checkbox of Private network** , and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14-1.jpg)  
  This will ensure your firewall won’t block Forza Horizon 5 when you’re using a private network, for example, your home Wi-Fi. For safety reasons, we recommend you only select the private network, but you’re welcome to allow the game through all types of networks if needed.
@@ -143,21 +143,7 @@ If the lagging issue persists, try the next fix.
 2. Go to the**Details** tab. Right-click Forza Horizon 5 and**set the priority to high** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-49-09.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this fix doesn’t help with your problem, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Configure your DNS settings
 
@@ -183,6 +169,13 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2: Switch to a public DNS server
 
  We also recommend using a public DNS server to test the issue. Here we’ll use the Google DNS server as an example. Below are the steps:
@@ -191,26 +184,27 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -247,21 +241,19 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-to-no-cost-and-risk-free-vlc-player-download-for-macos/"><u>[New] Navigating to No-Cost & Risk-Free VLC Player Download for macOS</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-understanding-igtv-shutdown/"><u>[New] Understanding IGTV Shutdown</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-ultimate-crew-for-imaginative-audio-visual-art/"><u>[Updated] 2024 Approved Ultimate Crew for Imaginative Audio-Visual Art</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exploring-luts-for-sophisticated-photographic-changes/"><u>[Updated] Exploring LUTs for Sophisticated Photographic Changes</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-vivo-y27-4g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Vivo Y27 4G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortless-solutions-for-fixing-division-2-crash-problems-fast/"><u>Effortless Solutions for Fixing Division 2 Crash Problems Fast</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-discord-screen-audio-problem-during-broadcasting/"><u>How To Resolve Discord Screen Audio Problem During Broadcasting?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-solve-launcher-and-game-errors-fixing-crash-problems-in-the-outer-worlds-for-windowsmacos/"><u>How to Solve Launcher & Game Errors: Fixing Crash Problems in 'The Outer Worlds' For Windows/MacOS</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-oppo-a1x-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Oppo A1x 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-oneplus-open-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track OnePlus Open without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/minecraft-on-pc-freeze-up-discover-effective-fixes-now/"><u>Minecraft on PC Freeze-Up? Discover Effective Fixes Now!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-honor-90-pro-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-issue-why-evil-genius-2-failed-to-start/"><u>Resolving the Issue: Why Evil Genius 2 Failed to Start</u></a></li>
-<li><a href="https://program-issues.techidaily.com/snapchat-troubleshooting-solving-no-input-from-camera-device/"><u>Snapchat Troubleshooting - Solving No Input From Camera Device</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-issue-when-your-outlook-fails-to-launch/"><u>Solving the Issue When Your Outlook Fails to Launch</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/three-legal-and-safe-methods-of-downloading-youtube-tunes/"><u>Three Legal & Safe Methods of Downloading YouTube Tunes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-16-unique-metaverse-scenarios-demonstrating-vrs-impact/"><u>[New] 16 Unique Metaverse Scenarios Demonstrating VR's Impact</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-find-the-disappeared-watch-tile/"><u>[Updated] In 2024, Find the Disappeared Watch Tile</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-collection-of-top-asmr-microphones/"><u>[Updated] The Ultimate Collection of Top ASMR Microphones</u></a></li>
+<li><a href="https://program-issues.techidaily.com/code-vein-freezing-issues-heres-how-to-get-unstuck/"><u>Code Vein Freezing Issues? Here's How to Get Unstuck!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diagnosing-and-fixing-asus-webcam-issues-with-no-display-on-windows-nix-11/"><u>Diagnosing and Fixing ASUS Webcam Issues with No Display on Windows Nix-11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-no-rest-for-the-wicked-game-crashing-issues-on-your-computer/"><u>Diagnosing and Repairing 'No Rest for the Wicked' Game Crashing Issues on Your Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-install-logitech-driving-force-gt-steering-wheel-on-your-pc-with-windows-71011-step-by-step-guide/"><u>How to Install Logitech Driving Force GT Steering Wheel on Your PC with Windows 7/10/11 – Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-call-of-duty-world-war-ii-error-4128-quickly/"><u>How to Resolve Call of Duty World War II Error 4128 Quickly</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-windows-10-lenovo-thinks-driver-update/"><u>Optimize Windows 10: Lenovo Thinks Driver Update</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-valorants-crash-dilemma-a-quick-guide-to-mend-graphic-driver-issues/"><u>Resolve Valorant's Crash Dilemma - A Quick Guide to Mend Graphic Driver Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-how-to-stop-nioh-2-from-crashing-completely/"><u>Troubleshooting Tips: How To Stop Nioh 2 From Crashing Completely</u></a></li>
+<li><a href="https://program-issues.techidaily.com/winning-the-fight-against-slow-fps-how-to-optimize-valheim-on-your-pc/"><u>Winning the Fight Against Slow FPS: How to Optimize Valheim on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/workaround-to-permit-chrome-network-connectivity-on-pc/"><u>Workaround to Permit Chrome Network Connectivity on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-controllers-refuse-to-connect-fixes-for-pc/"><u>Xbox Controllers Refuse to Connect - Fixes for PC</u></a></li>
 </ul></div>
 

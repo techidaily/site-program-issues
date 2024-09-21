@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Repairing the Persistent Problem of Metro Exodus PC Crashes
-date: 2024-09-13T20:56:11.714Z
-updated: 2024-09-16T17:55:38.424Z
+date: 2024-09-17T19:19:14.487Z
+updated: 2024-09-21T17:07:14.317Z
 tags:
   - win11
   - win10
@@ -45,6 +45,13 @@ Does**Grand Theft Auto** (**GTA** ) **5 stutter**  whenever you’re in the midd
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/refresh.jpg)
 5. Relaunch the game to check.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Disable full-screen optimisations
 
  The full-screen mode could be the reason for the GTA stuttering issue. By disabling the full-screen mode may help you fix the issue.
@@ -55,13 +62,6 @@ Does**Grand Theft Auto** (**GTA** ) **5 stutter**  whenever you’re in the midd
 4. In the**Compatibility** mode, check the**Disable full-screen optimisations** box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/full.jpg)
 5. Relaunch the game and check.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update graphics card driver
 
@@ -92,26 +92,19 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will stutter or not.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Turn off VSync
 
@@ -123,6 +116,14 @@ To do so:
 2. Click **Graphics** and scroll down. Find **VSync** and turn it **OFF** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/off.jpg)  
  If it’s already **OFF** , try turning it**ON** , then restart your game and **turn VSync** **OFF** again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Restart your PC and GTA 5 again to see if it works.
 
  Hopefully, the above methods can help. If you have any questions, ideas or suggestions, please feel free to leave your comments.
@@ -144,17 +145,19 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-decoding-tseries-monetary-strategies-on-youtube-video-platforms/"><u>[New] 2024 Approved Decoding TSeries’ Monetary Strategies on YouTube Video Platforms</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-investigating-the-silence-of-non-suggestive-video-content-on-fb/"><u>[New] 2024 Approved Investigating the Silence of Non-Suggestive Video Content on FB</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-correct-iosandroid-video-failures-on-fb-for-2024/"><u>[New] Correct iOS/Android Video Failures on FB for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-navigating-job-interviews-with-confidence-and-competence-for-2024/"><u>[New] Navigating Job Interviews with Confidence and Competence for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-no-charge-frame-by-frame-youtube-tutorial/"><u>[New] The Ultimate No-Charge, Frame-by-Frame YouTube Tutorial</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-easy-way-to-snap-spectacular-slow-mo-on-android/"><u>[Updated] The Easy Way to Snap Spectacular Slow Mo on Android</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-jazzy-deadites-designer/"><u>2024 Approved Jazzy Deadites Designer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortless-ways-to-fix-your-steam-game-if-you-encounter-a-corrupt-disc-error/"><u>Effortless Ways to Fix Your Steam Game if You Encounter a Corrupt Disc Error</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-to-overcome-rainbow-six-extraction-crashes-on-your-personal-computer/"><u>Expert Tips to Overcome Rainbow Six Extraction Crashes on Your Personal Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-correct-critical-ue4-glitches-in-the-popular-mod-black-mesa-gobi-fix-guide/"><u>How to Correct Critical UE4 Glitches in the Popular Mod Black Mesa - Gobi Fix Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-thaumaturge-game-crash-issue-in-pc-a-step-by-step-guide/"><u>Solving the Thaumaturge Game Crash Issue in PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/synergy-of-tech-and-comfort-mercedes-ai-voice-update/"><u>Synergy of Tech & Comfort: Mercedes' AI Voice Update</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-masterful-guide-integrating-youtube-and-social-media-platforms-fb/"><u>[New] 2024 Approved Masterful Guide Integrating YouTube and Social Media Platforms FB</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-beginners-guide-to-crafting-trendy-mac-video-content/"><u>[Updated] 2024 Approved Beginner's Guide to Crafting Trendy Mac Video Content</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-navigating-the-changing-landscape-of-instagram-stories/"><u>[Updated] 2024 Approved Navigating the Changing Landscape of Instagram Stories</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-approaches-to-harvest-large-amounts-of-tiktok-media/"><u>[Updated] Innovative Approaches to Harvest Large Amounts of TikTok Media</u></a></li>
+<li><a href="https://program-issues.techidaily.com/6-top-fixes-for-a-non-functional-obs-microphone-updated-guide-2024/"><u>6 Top Fixes for a Non-Functional OBS Microphone - Updated Guide 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-hevc-h-265-content-on-motorola-g24-power-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Motorola G24 Power</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-poco-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-fixes-for-when-the-outer-worlds-keeps-crashing-on-pc/"><u>Essential Fixes for When 'The Outer Worlds' Keeps Crashing on PC</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-mixed-media-mastery-evaluating-splitcams-edge/"><u>In 2024, Mixed Media Mastery Evaluating SplitCam's Edge</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005757058-resolving-technical-issues-with-yakuza-6-pc-version-no-more-crashes/"><u>Resolving Technical Issues with Yakuza 6 PC Version - No More Crashes!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-truth-behind-the-postponement-of-guilty-gear-strive-launch/"><u>The Truth Behind the Postponement of Guilty Gear Strive Launch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-methods-for-enhancing-your-ark-sanctuary-fps-performance-on-pc/"><u>Top Methods for Enhancing Your ARK: Sanctuary FPS Performance on PC</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-your-aoc-monitor-steps-to-restore-functionality-on-windows-10-devices/"><u>Troubleshoot Your AOC Monitor: Steps to Restore Functionality on Windows 10 Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/your-guide-to-shopping-for-televisions-online-top-6-retailers-revealed/"><u>Your Guide to Shopping for Televisions Online: Top 6 Retailers Revealed</u></a></li>
 </ul></div>
 

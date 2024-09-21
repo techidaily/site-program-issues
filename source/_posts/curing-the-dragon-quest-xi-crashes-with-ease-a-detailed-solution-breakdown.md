@@ -1,7 +1,7 @@
 ---
 title: Curing the Dragon Quest XI Crashes with Ease – A Detailed Solution Breakdown
-date: 2024-09-10T22:45:20.811Z
-updated: 2024-09-16T19:19:29.733Z
+date: 2024-09-16T20:56:22.382Z
+updated: 2024-09-21T16:24:03.570Z
 tags:
   - win11
   - win10
@@ -86,10 +86,10 @@ Do the crashes disappear now? If not, try the next fix below.
  If you’re still unable to play the game, continue to the next fix then.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4 – Disable overlays
@@ -104,25 +104,11 @@ Do the crashes disappear now? If not, try the next fix below.
 3. Navigate to the**In-Game** tab. Then, untick**Enable the Steam Overlay while in-game** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-steam-overlay-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Disable Discord overlay
 
 1. Open Discord and click the**cogwheel icon** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/7-1-1.jpg)
 2. Select**Overlay** and**toggle off Enable in-game overlay** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/0-00.jpg)
 
@@ -136,21 +122,47 @@ Do the crashes disappear now? If not, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/graphics-settings-0.jpg)
 2. Go to the**Display** section.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Change the Screen Mode to**Windowed** and make sure to**turn off VSync** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/graphics-settings-2.jpg)
 4. Go Back to the Settings Menu and navigate to the**Graphics** tab.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/graphics-settings-1.jpg)
 5. **Turn down the options** one by one.  
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/graphics-settings-3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After applying the changes, you should see the game works better and the FPS boost.
 
@@ -175,16 +187,15 @@ Do the crashes disappear now? If not, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/fixed-world-of-warcraft-wow-crashing-issues-easilly/"><u>[Fixed] World of Warcraft (WOW) Crashing Issues. Easilly</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-to-erase-iphone-stellar-data-recovery/"><u>How to Erase iPhone - Stellar Data Recovery</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-edit-with-ease-prime-10-converters-unveiled/"><u>In 2024, Edit with Ease Prime 10 Converters Unveiled</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-nord-ce-3-lite-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus Nord CE 3 Lite 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Oppo A59 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-ultimate-guide-to-frame-rates-for-video-recorders/"><u>In 2024, The Ultimate Guide to Frame Rates for Video Recorders</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-call-of-duty-warzone-crashing-issues-on-pc-a-complete-guide/"><u>Overcoming Call of Duty: Warzone Crashing Issues on PC – A Complete Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/realigning-windows-group-policies-for-organizational-needs/"><u>Realigning Windows Group Policies for Organizational Needs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/seamless-discord-installation-overcoming-common-setup-obstacles-easily/"><u>Seamless Discord Installation: Overcoming Common Setup Obstacles Easily</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-iphone-11-pro-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on iPhone 11 Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-the-veil-of-invisibility-during-instagram-livestreams/"><u>[New] Mastering the Veil of Invisibility During Instagram Livestreams</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-revive-your-missing-iphone-x-crucial-tips-revealed/"><u>[New] Revive Your Missing iPhone X Crucial Tips Revealed</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/ape-to-wav-conversion-guide-for-pcs-macs-smartphones-and-tablets-online-methods-included/"><u>APE to WAV Conversion Guide for PCs, Macs, Smartphones & Tablets - Online Methods Included</u></a></li>
+<li><a href="https://program-issues.techidaily.com/definitive-guide-to-resolving-nier-repliecate-game-stalling-issues/"><u>Definitive Guide to Resolving NieR: Repliecate Game Stalling Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-the-windows-11-error-code-0xc19001e1/"><u>How to Overcome the Windows 11 Error Code 0xC19001E1</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-achieve-and-share-your-most-lengthy-instagram-videos/"><u>In 2024, How to Achieve and Share Your Most Lengthy Instagram Videos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-samsung-galaxy-a54-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Samsung Galaxy A54 5G Device</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-performance-preventing-euro-truck-simulator-2-from-crashing-on-windows-systems/"><u>Optimizing Performance: Preventing Euro Truck Simulator 2 From Crashing on Windows Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/valheim-initialization-issue-troubleshooting-steps-to-get-the-game-running/"><u>Valheim Initialization Issue : Troubleshooting Steps to Get the Game Running</u></a></li>
+<li><a href="https://driver-error.techidaily.com/wudfrd-startup-error-device-event-code-219/"><u>WudfRd Startup Error - Device Event Code 219</u></a></li>
 </ul></div>
 

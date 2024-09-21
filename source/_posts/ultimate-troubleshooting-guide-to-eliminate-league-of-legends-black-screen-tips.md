@@ -1,7 +1,7 @@
 ---
 title: Ultimate Troubleshooting Guide to Eliminate League of Legends' Black Screen - Tips
-date: 2024-09-13T22:08:48.568Z
-updated: 2024-09-16T20:49:02.546Z
+date: 2024-09-20T18:34:13.704Z
+updated: 2024-09-21T23:10:47.544Z
 tags:
   - win11
   - win10
@@ -81,6 +81,13 @@ If the issue remains, try the next fix.
 
 If this method doesn’t work for you, go ahead with the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Install all Windows updates
 
  Microsoft constantly releases Windows updates to fix the latest bugs and add new features. To improve the performance of your device, you should ensure that your operating system is fully updated. Here’s how:
@@ -89,25 +96,18 @@ If this method doesn’t work for you, go ahead with the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you’ve installed all the updates, restart your computer and Microsoft Flight Simulator to test if the game loads normally.
 
  If you still get stuck on the checking for updates screen, check out the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your network driver
 
@@ -162,26 +162,12 @@ on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 3. In the left panel, select**Windows Security** , then click**Virus & threat protection** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/virus-threat-protection.jpg)
 4. Under Virus & threat protection settings, select**Manage settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/manage-settings.jpg)
 5. Under Exclusions, select**Add or remove exclusions** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-remove-exclusions.jpg)
 6. Click**Add an exclusion** , and then select**Microsoft Flight Simulator** .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-an-exclusion.jpg)
 
@@ -192,21 +178,15 @@ on Windows 11:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Windows-Security.jpg)
 3. Click**Virus & threat protection** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Virus-and-threat-protection.jpg)
 4. Under**Virus & threat protection settings** , click**Manage settings** .  
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-virus-and-threat-protection-settings-manage-settings.jpg)
 5. Under**Exclusions** , click**Add or remove exclusions** .  
@@ -257,6 +237,14 @@ If this method doesn’t solve your problem, check out the last fix.
 2. Select**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/MFS-uninstall-pc.jpg)
 3. Click**Uninstall** again to remove the game.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Once uninstalled, check to make sure all files are deleted. The default installation location is:  
  **C:\\Users\\YourUsername\\AppData\\Local\\Packages\\Microsoft.FlightSimulator\_8wekyb3d8bbwe**  
  Note: If you have installed the packages in a custom folder, search for that folder instead.
@@ -269,6 +257,13 @@ If this method doesn’t solve your problem, check out the last fix.
 2. Right-click Microsoft Flight Simulator and then select**Manage** and click on**Uninstall** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/uninstall-Microsoft-Flight-Simulator.png)
 3. Click on **Uninstall**  to confirm your choice.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/uninstall-Microsoft-Flight-Simulator-Confirm.png)
 4. Once uninstalled, check to make sure that all the packages are deleted. The default package installation location is: **C:\\Users\\YourUsername\\AppData\\Roaming\\Microsoft Flight Simulator\\Packages**  
@@ -300,17 +295,12 @@ If this method doesn’t solve your problem, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gourmet-giants-culinary-stars-you-must-subscribe-to/"><u>[Updated] 2024 Approved Gourmet Giants Culinary Stars You Must Subscribe To</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-breakthrough-ai-creative-workstation-for-2024/"><u>[Updated] Breakthrough AI Creative Workstation for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-innovative-10-solutions-for-seamless-video-background-swapping/"><u>[Updated] Innovative 10 Solutions for Seamless Video Background Swapping</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/a-firsthand-look-at-what-sets-apart-the-apple-iphone-fifteenth-pro/"><u>A Firsthand Look at What Sets Apart the Apple iPhone ˈFifteenth Pro</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/how-the-havit-5-keeps-your-rig-frozen-in-action-a-detailed-laptop-cooling-pad-analysis/"><u>How the HAVIT 5 Keeps Your Rig Frozen in Action: A Detailed Laptop Cooling Pad Analysis</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-black-ops-cold-war-game-error-understanding-0xc0000005-issue/"><u>How to Fix Black Ops Cold War Game Error: Understanding 0Xc0000005 Issue</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-depth-insight-on-selecting-superior-valheim-seeds/"><u>In-Depth Insight on Selecting Superior Valheim Seeds</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pubg-performance-boosted-eradicate-stuttering-instantly-and-effortlessly/"><u>PUBG Performance Boosted: Eradicate Stuttering Instantly & Effortlessly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-critical-game-crashes-gobiv-fix-guide-for-ue4-based-borderlands-3-mods/"><u>Solving Critical Game Crashes: GOBIV Fix Guide for UE4-Based Borderlands 3 Mods</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-step-by-step-guide-to-stop-fifa-21-from-crashing-on-windows/"><u>Ultimate Step-by-Step Guide to Stop FIFA 21 From Crashing on Windows</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-smart-tips-for-gif-lovers-iphone-edition/"><u>[New] Smart Tips for GIF Lovers IPhone Edition</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-essential-cost-effective-screen-recording-tools/"><u>2024 Approved Essential Cost-Effective Screen Recording Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-strategies-for-uploading-and-live-streaming-past-videos-on-facebook/"><u>2024 Approved Strategies for Uploading and Live Streaming Past Videos on Facebook</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1715860416435-2024-approved-utilizing-internal-screen-recording-on-huaweis-mate-1020-and-p-models-p20-p10/"><u>2024 Approved Utilizing Internal Screen Recording on Huawei's Mate 10/20 & P Models (P20, P10).</u></a></li>
+<li><a href="https://program-issues.techidaily.com/5-effective-methods-to-get-battlenet-up-and-running-again/"><u>5 Effective Methods to Get Battle.net Up and Running Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-repair-a-non-functional-intel-system-assist-application/"><u>How to Repair a Non-Functional Intel System Assist Application</u></a></li>
+<li><a href="https://program-issues.techidaily.com/preventing-fifa-22-from-freezing-or-crashing-during-play-pc/"><u>Preventing FIFA 22 From Freezing or Crashing During Play (PC)</u></a></li>
 </ul></div>
 

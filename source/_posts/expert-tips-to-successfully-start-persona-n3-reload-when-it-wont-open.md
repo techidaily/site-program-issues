@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Successfully Start Persona N3 Reload When It Won't Open
-date: 2024-09-15T21:56:10.042Z
-updated: 2024-09-16T19:44:19.478Z
+date: 2024-09-20T16:51:59.916Z
+updated: 2024-09-21T23:01:09.611Z
 tags:
   - win11
   - win10
@@ -48,19 +48,6 @@ thumbnail: https://thmb.techidaily.com/cf912511c25f50537db88a8b568a9135cf27701df
 
  When you get a black screen on your Windows PC, you can try using the keyboard shortcut**Windows logo key + Ctrl + Shift + B** to restart your graphics driver. If Windows is responsive, your screen will flash and then the game should work fine. But if not, go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your graphics driver
 
  The black screen issue may occur if you’re using a faulty or outdated graphics driver. To see if that’s the case, you should update your graphics driver to the latest version. This may not only fix the potential problem but also improve your game performance.
@@ -75,6 +62,14 @@ There are mainly two ways to update your graphics driver:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is download them one at a time and manually install them.)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -82,6 +77,13 @@ There are mainly two ways to update your graphics driver:
  Once you’ve updated your graphics driver, restart your PC and launch Elden Ring again to see if your problem is resolved.
 
  If updating your graphics driver doesn’t solve your problem, check the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows updates
 
@@ -92,15 +94,16 @@ There are mainly two ways to update your graphics driver:
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under**Windows Update** , click**Check for updates** . Windows will automatically download and install the available updates.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
-3. Once you’ve installed all pending updates, restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
+3. Once you’ve installed all pending updates, restart your PC.
 
  Launch Elden Ring again and check if you still get stuck on a black screen.
 
@@ -115,6 +118,13 @@ If the issue persists, move on to the next fix.
 
  When updates are available, follow the on-screen instructions to download and install them.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Verify the integrity of game files
 
  If your game files are missing or corrupted, you may encounter a black screen in Elden Ring. To fix the problem, you can verify the integrity of game files on Steam. Here’s how:
@@ -124,15 +134,21 @@ If the issue persists, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. Select the**Install Files** tab and click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Verify-integrity-of-game-files.jpg)
 4. Wait a few minutes for Steam to verify the game files.
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once the process is complete, relaunch the game and check to see if you can get past the black screen.
 
@@ -147,34 +163,8 @@ If the issue remains, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. On the**General** tab, toggle off**Enable the Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Disable-in-game-overlay.jpg)
 4. Close the**Properties** window and launch the game.
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now check if the black screen issue has gone away.
 
@@ -201,20 +191,14 @@ Now check if the black screen issue has gone away.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-how-do-youtube-channels-get-paid-regularly/"><u>[New] 2024 Approved How Do YouTube Channels Get Paid Regularly?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-return-journey-maker-collection/"><u>[New] 2024 Approved Return Journey Maker Collection</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-action-camera-showdown-sj-cam-s6-takes-the-spotlight/"><u>[New] Action Camera Showdown SJ-CAM S6 Takes the Spotlight</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-boost-your-drive-10-top-motivation-films/"><u>2024 Approved Boost Your Drive 10 Top Motivation Films</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-vector-graphics-101-overview-of-varieties-and-tools/"><u>2024 Approved Vector Graphics 101 Overview of Varieties & Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/adaptable-video-format-shifter-smoothly-transition-from-any-video-type-to-flv-and-vice-versa/"><u>Adaptable Video Format Shifter: Smoothly Transition From Any Video Type to FLV and Vice Versa</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elevate-performance-in-horizon-zero-dawn-key-strategies-for-a-smoother-gaming-experience/"><u>Elevate Performance in Horizon Zero Dawn: Key Strategies for a Smoother Gaming Experience</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-building-community-through-thoughtful-facebook-giveaways/"><u>In 2024, Building Community Through Thoughtful Facebook Giveaways</u></a></li>
-<li><a href="https://program-issues.techidaily.com/modern-warfare-3-gaming-issues-understanding-the-causes-of-fps-drops-and-stuttering/"><u>Modern Warfare 3 Gaming Issues : Understanding the Causes of FPS Drops and Stuttering</u></a></li>
-<li><a href="https://games-able.techidaily.com/mwc-2024-star-products-featured-in-makeuseof/"><u>MWC 2024 Star Products Featured in MakeUseOf</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-freezes-in-naraka-point-blades-effective-solutions-inside/"><u>No More Freezes in Naraka: Point Blades – Effective Solutions Inside</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-solving-the-persistent-pc-crash-issue-in-valorant/"><u>Resolved: Solving the Persistent PC Crash Issue in Valorant</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-firefox-secure-connection-error-secerrorunknownissuer-with-ease/"><u>Solve Firefox Secure Connection Error (SEC_ERROR_UNKNOWN_ISSUER) with Ease</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-mystery-of-mir4-game-crashes-on-pc-a-comprehensive-guide/"><u>Solving the Mystery of Mir4 Game Crashes on PC - A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-addressing-crashes-in-pc-versions-of-starfield-adventure/"><u>Troubleshooting Tips: Addressing Crashes in PC Versions of Starfield Adventure</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-leading-edge-winning-16-free-media-applications-for-2024/"><u>[New] Leading Edge Winning 16 Free Media Applications for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-ultimate-list-of-window-screenshot-utilities/"><u>2024 Approved Ultimate List of Window Screenshot Utilities</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/captureelite-pro-windows-enhanced/"><u>CaptureElite Pro Windows Enhanced</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-and-tricks-for-a-working-obs-mic-top-6-solutions-for-the-current-year/"><u>Expert Tips and Tricks for a Working OBS Mic - Top 6 Solutions for the Current Year</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/mastering-macos-sierra-installation-procedures-for-2024/"><u>Mastering macOS Sierra Installation Procedures for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/professional-movavi-video-editor-software-purchase-and-download/"><u>Professional Movavi Video Editor Software - Purchase & Download</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-your-document-editing-hurdles-top-5-fixes-for-winwordexe-malfunctions/"><u>Resolve Your Document Editing Hurdles: Top 5 Fixes for winword.exe Malfunctions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-why-is-metro-exodus-pc-enhanced-edition-experiencing-crashes/"><u>Troubleshooting Guide: Why Is Metro Exodus (PC) Enhanced Edition Experiencing Crashes?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fixes to Clear Up the Steam Launcher's Black Screen Glitch – Learn How in Our Latest Guide
-date: 2024-09-10T21:26:52.481Z
-updated: 2024-09-16T20:09:25.211Z
+date: 2024-09-15T21:21:23.723Z
+updated: 2024-09-21T21:12:40.704Z
 tags:
   - win11
   - win10
@@ -67,6 +67,13 @@ Now see if you could start the game. If not, try the next method.
 
  It may take a couple of minutes for the process to complete. Once done, restart the game to test the issue. If the problem persists, move on to more fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3 – Update your graphics driver
 
  Game issues are usually driver-related. If you’re using a broken or outdated graphics driver, Lost Ark may not launch the right way. To gain the best in-game performance, you should update your graphics drivers regularly.
@@ -98,23 +105,23 @@ Now see if you could start the game. If not, try the next method.
 3. Select the**Compatibility** tab. Tick**Disable full-screen optimizations** and**Run this program as an administrator** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/run-as-administrator-lost-ark-1.jpg)
 4. Click**OK** .
 
- Try launching the game to see how things go. Still no luck? Take a look at the next method.
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Try launching the game to see how things go. Still no luck? Take a look at the next method.
 
 ### Fix 5 – Turn off unnecessary programs
 
@@ -124,14 +131,14 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/taks-manager-1.jpg)
 2. Select the program and click**End task** until you close all the unneeded applications.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/02/taks-manager-2.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/taks-manager-2.jpg)
 
  Restart and check the game. If it still can’t get past the loading screen, continue to Fix 6.
 
@@ -144,14 +151,15 @@ Now see if you could start the game. If not, try the next method.
 2. Right-click**Lost Ark** from the game list and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Under Launch Options, type**\-force-d3d9** and close the window.  
-![](https://images.drivereasy.com/wp-content/uploads/2022/02/swtich-to-dx9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/swtich-to-dx9.jpg)
 
  Now relaunch Steam and Lost Ark. Is it able to work correctly in the DX9 version? If not, try the next fix below.
 
@@ -169,13 +177,6 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Restart your game and check if Lost Ark goes back to the normal state.
 
@@ -201,17 +202,20 @@ Restart your game and check if Lost Ark goes back to the normal state.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-unleashing-photography-potential-with-lightroom-hdrs/"><u>[New] Unleashing Photography Potential with Lightroom HDRs</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-inquiring-into-the-benefit-of-verified-online-self-portraits/"><u>[Updated] 2024 Approved Inquiring Into the Benefit of Verified Online Self-Portraits</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-elite-selections-5-fast-screen-recorders-for-2024/"><u>[Updated] Elite Selections 5 Fast Screen Recorders for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-meetup-event-visual-format/"><u>[Updated] Meetup Event Visual Format</u></a></li>
-<li><a href="https://program-issues.techidaily.com/2024-ultimate-guide-solving-the-league-of-legends-not-launching-dilemma/"><u>2024 Ultimate Guide: Solving the 'League of Legends Not Launching' Dilemma</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/aac-3gp-movavi/"><u>AAC 3GP 크리우드에서 오픈 소스 영상 변환기 - Movavi</u></a></li>
-<li><a href="https://windows11.techidaily.com/adjusting-photo-snapshots-in-windows-11/"><u>Adjusting Photo Snapshots in Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/error-by-nvidia-windows-halted-problem-solved/"><u>Error by NVidia: Windows Halted, Problem Solved</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-graphics-hurdles-addressing-the-directx-problem-on-fifa-20-console-game/"><u>Overcoming Graphics Hurdles: Addressing the 'DirectX' Problem on FIFA 20 Console Game</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-repeated-pc-shutdowns-during-age-of-wonders-planetfall-gameplay-step-by-step-guide/"><u>Resolving Repeated PC Shutdowns During 'Age of Wonders: Planetfall' Gameplay - Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/star-citizen-windows-compatibility-improved-crashes-now-fixed/"><u>Star Citizen Windows Compatibility Improved, Crashes Now Fixed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-ark-survival-evolved-pc-crashes-top-9-solutions/"><u>Troubleshooting ARK: Survival Evolved PC Crashes – Top 9 Solutions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-proven-recorders-ioss-leading-screenshot-tools-for-2024/"><u>[New] Proven Recorders IOS's Leading Screenshot Tools for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-light-up-your-feed-expert-tips-for-instagram-highlights-3-steps/"><u>[Updated] Light Up Your Feed Expert Tips for Instagram Highlights (3 Steps)</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-essential-guide-for-gopro-live-streams-to-social-media-hubs-for-2024/"><u>[Updated] The Essential Guide for GoPro Live Streams to Social Media Hubs for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/canon-mx340-driver-download-for-windows-1087/"><u>Canon MX340 Driver Download for Windows 10/8/7</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-to-overcome-fatal-errors-encountered-while-playing-ghostrunner-on-windows-10/"><u>Effective Solutions to Overcome Fatal Errors Encountered While Playing Ghostrunner on Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-missing-startup-location-issue-on-fortnite-tips-and-tricks/"><u>Fixing the Missing Startup Location Issue on Fortnite - Tips & Tricks</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-iphone-8-plus-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your iPhone 8 Plus When You Forget the Passcode?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-cannot-connect-to-server-problem-in-minecraft-gaming/"><u>How To Overcome 'Cannot Connect to Server' Problem In Minecraft Gaming</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-honor-magic-6-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Honor Magic 6 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-vivo-y17s-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Vivo Y17s Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/mobile-friendly-video-posts-on-twitter-excluding-retweets-for-2024/"><u>Mobile-Friendly Video Posts on Twitter Excluding Retweets for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/nvidia-geforce-overlay-malfunction-here-are-the-fixes-you-need/"><u>NVIDIA GeForce Overlay Malfunction? Here Are the Fixes You Need!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rainbow-six-siege-connection-error-fixes-tips-for-a-smooth-multiplayer-experience/"><u>Rainbow Six Siege Connection Error Fixes - Tips for a Smooth Multiplayer Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/repair-steps-resolving-non-launch-problems-in-farming-simulator-22/"><u>Repair Steps: Resolving Non-Launch Problems in Farming Simulator 22</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-dilemma-of-your-iphone-not-recognizing-by-itunes-in-windows-11-environment/"><u>Resolving the Dilemma of Your iPhone Not Recognizing by iTunes in Windows 11 Environment</u></a></li>
 </ul></div>
 

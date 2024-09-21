@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the Epic Games Launcher - Swift Opening Techniques
-date: 2024-09-14T20:37:03.677Z
-updated: 2024-09-16T20:23:53.497Z
+date: 2024-09-19T22:49:01.737Z
+updated: 2024-09-21T22:16:32.378Z
 tags:
   - win11
   - win10
@@ -67,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Adjust your display settings
 
  Check your display settings if this issue persists. If you adjusted the size of text, apps, and other items, try changing it back. Here is how to check:
@@ -93,16 +86,10 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 ---
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
@@ -126,10 +113,10 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1072.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 _You can do it for free if you like, but it’s partly manual._
@@ -145,13 +132,6 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-496.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the**Shortcut** tab, locate the**Target:** field. Add_\-OpenGL_ to the end of the path filed. The contents of the Target field should look like the following:
 
 "C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe" -OpenGL
@@ -160,11 +140,25 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-497.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Run Epic Games Launcher again to see if this fix works.
 
  If it won’t open, try the next fix to disable your antivirus software temporarily.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Add Epic Games Launcher as an exception to your third-party antivirus application
 
@@ -179,10 +173,10 @@ _You can do it for free if you like, but it’s partly manual._
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Repair Epic Games Launcher
@@ -243,18 +237,15 @@ Normally, after you reinstall Epic Games Launcher, it should open.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-a-comprehensive-guide-to-laptop-screen-recording-techniques/"><u>[New] In 2024, A Comprehensive Guide to Laptop Screen Recording Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/outriders-game-performance-boosted-your-complete-guide-to-overcoming-lags/"><u>[Outriders] Game Performance Boosted - Your Complete Guide to Overcoming Lags</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-begin-the-stream-an-introduction-to-instagram-lives/"><u>[Updated] 2024 Approved Begin the Stream An Introduction to Instagram Lives</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-stepping-up-your-game-on-instagram/"><u>[Updated] 2024 Approved Stepping Up Your Game on Instagram</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-access-all-subtitles-top-10-free-tools-for-youtube-videos/"><u>2024 Approved Access All Subtitles Top 10 Free Tools for YouTube Videos</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-8-plus-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-puzzling-display-bug-in-the-rust-programming-language/"><u>Fixing the Puzzling Display Bug in the Rust Programming Language</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-initiating-efficient-conversations-on-snapchat-with-three-steps/"><u>In 2024, Initiating Efficient Conversations on Snapchat with Three Steps</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-oculus-glitches-by-resolving-graphics-card-driver-problems/"><u>Overcoming Oculus Glitches by Resolving Graphics Card Driver Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-no-rest-for-the-wicked-game-crashes-in-windows-a-comprehensive-guide/"><u>Solving 'No Rest for the Wicked' Game Crashes in Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-common-issues-fixes-for-ghostwire-tokyo-pc-game-freezes/"><u>Troubleshooting Common Issues: Fixes for Ghostwire: Tokyo PC Game Freezes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-addressing-destiny-2s-pc-performance-crashes-in-beyond-light/"><u>Troubleshooting Guide: Addressing Destiny 2'S PC Performance Crashes in Beyond Light</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/youtube-ready-360-videos-editing-and-sharing-made-simple/"><u>YouTube-Ready 360 Videos Editing & Sharing Made Simple</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-secret-to-professional-video-calls-on-zoom/"><u>[New] 2024 Approved The Secret to Professional Video Calls on Zoom</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-the-art-of-crafting-exclusive-cover-photos-on-instagram/"><u>[Updated] In 2024, Mastering the Art of Crafting Exclusive Cover Photos on Instagram</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-vivo-y02t-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bioshock-2-enhanced-edition-repairing-glitches-and-improving-gameplay/"><u>BioShock 2 Enhanced Edition - Repairing Glitches & Improving Gameplay</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-y02t-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo Y02T to PC? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/online-instructie-pmd-naar-mbp-zonder-kosten-magen-met-deftigheid-movavi/"><u>Online Instructie PMD Naar MBP: Zonder Kosten MAGEN Met Deftigheid – Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-spatial-audio-issues-on-your-pc-with-windows-11-or-10/"><u>Resolving Spatial Audio Issues on Your PC with Windows 11 or 10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-simples-pour-envoi-de-films-via-courriel/"><u>Techniques Simples Pour Envoi De Films via Courriel</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-your-broadcasts-with-manycam-top-rated-live-video-software-and-virtually-real-camcams/"><u>Transform Your Broadcasts with ManyCam: Top-Rated Live Video Software and Virtually Real Camcams</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-your-clownfish-microphone-mod-solutions-for-a-non-functioning-vocal-effect/"><u>Troubleshooting Your Clownfish Microphone Mod: Solutions for a Non-Functioning Vocal Effect</u></a></li>
 </ul></div>
 

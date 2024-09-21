@@ -1,7 +1,7 @@
 ---
 title: Final Glazing
-date: 2024-09-13T19:51:42.051Z
-updated: 2024-09-16T22:59:01.523Z
+date: 2024-09-18T17:58:50.233Z
+updated: 2024-09-21T20:46:37.389Z
 tags:
   - win11
   - win10
@@ -70,13 +70,6 @@ FIFA 20 DirectX Error
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3:**Modify fifasetup.ini**
 
  Another effective fix for the DirectX game crash error is modify**fifasetup.ini** .
@@ -86,6 +79,13 @@ Here is how to do it:
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and**R** at the same time, then type_**C: \\ Users \\% Username% \\ Documents \\ FIFA 20 Demo**_ and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-129.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Double-click on the**fifasetup.ini** file.
 
@@ -100,6 +100,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Update DirectX
 
  DirectX is a suite of components in Windows that allows heavy multimedia apps such as games to interact with your video and audio cards. If you’re running an old version of DirectX, it’s possible that it won’t be able to handle the graphics rendering and processing task, which might cause the DirectX error. So you should update DirectX to the latest version to see if it fixes the issue.
@@ -111,6 +118,13 @@ Here is how to do it:
  Still no joy? please move on to **Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Check if your PC meets the system requirements for FIFA 20
 
@@ -142,23 +156,9 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
@@ -187,19 +187,21 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-5-secrets-to-preventing-blank-scenes-with-obs-recording/"><u>[New] 5 Secrets to Preventing Blank Scenes with OBS Recording</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-inspire-humorous-graphics-for-online-platform/"><u>[New] Inspire Humorous Graphics for Online Platform</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-darkness-issue-with-mobile-computers/"><u>Correcting Darkness Issue with Mobile Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-guide-upgrading-and-repairing-older-version-minecraft-drivers/"><u>Expert Guide: Upgrading and Repairing Older Version Minecraft Drivers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-tweaks-for-optimizing-your-clownfish-voice-changer-performance-issues/"><u>Fixes and Tweaks for Optimizing Your Clownfish Voice Changer Performance Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-unloading-textures-in-fortnites-battle-royale-mode/"><u>How to Fix Unloading Textures in Fortnite's Battle Royale Mode?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-your-pc-from-freezing-with-call-of-duty-black-ops-cold-war-crash-troubleshooting/"><u>How to Prevent Your PC From Freezing with Call of Duty Black Ops Cold War (Crash Troubleshooting)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/lock-your-zte-nubia-z60-ultra-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your ZTE Nubia Z60 Ultra Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-gamers-rejoice-pathfinders-latest-patch-resolves-freezing-issues/"><u>PC Gamers Rejoice! Pathfinder's Latest Patch Resolves Freezing Issues.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/snapchats-ai-meets-bing-chat-in-a-skype-battle-discover-eight-major-contrasts-between-the-two-tech-giants/"><u>Snapchat's AI Meets Bing Chat in a Skype Battle: Discover Eight Major Contrasts Between the Two Tech Giants</u></a></li>
-<li><a href="https://games-able.techidaily.com/step-by-step-achieving-optimal-display-on-xbox-sandx/"><u>Step-by-Step: Achieving Optimal Display on Xbox S&X</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-core-ideas-behind-mixed-reality-for-2024/"><u>The Core Ideas Behind Mixed Reality for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-last-epoch-installation-problems-on-computers/"><u>Troubleshooting Guide: Fixing 'Last Epoch' Installation Problems on Computers</u></a></li>
-<li><a href="https://os-tips.techidaily.com/wireless-sync-mirroring-your-iphone-display-on-a-roku-tv-without-using-wi-fi/"><u>Wireless Sync: Mirroring Your iPhone Display on a Roku TV without Using Wi-Fi</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-keyword-mastery-unlocking-the-potential-of-youtube-tags/"><u>2024 Approved Keyword Mastery Unlocking the Potential of YouTube Tags</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-speed-kings-and-queens-of-2022/"><u>2024 Approved Speed Kings and Queens of 2022</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diy-troubleshooting-for-common-directdraw-problems-and-solutions/"><u>DIY Troubleshooting for Common DirectDraw Problems and Solutions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-reviews-at-toms-computer-world-gear-insights/"><u>Expert Reviews at Tom's Computer World: Gear Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/getting-your-paradox-launcher-back-on-track-a-step-by-step-fixing-guide/"><u>Getting Your Paradox Launcher Back on Track - A Step-by-Step Fixing Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratis-aac-to-ogg-konverteren-via-web-professioneel-en-eenvoudig/"><u>Gratis AAC-to-Ogg Konverteren via Web - Professioneel en Eenvoudig</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-black-desert-pc-crashes-expert-troubleshooting-tips/"><u>How to Fix Black Desert PC Crashes: Expert Troubleshooting Tips</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-xiaomi-redmi-note-12r-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Xiaomi Redmi Note 12R to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-12plus-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme 12+ 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/international-days-of-gratitude-and-thanks/"><u>International Days of Gratitude and Thanks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-issues-with-pacific-drive-freezing-on-windows-step-by-step-guide/"><u>Resolving Issues with Pacific Drive Freezing on Windows - Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-interest-everyones-free-with-our-youtube-banner-samples/"><u>Spark Interest - Everyone's Free With Our YouTube Banner Samples</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/swap-periscopes-lens-innovative-video-platforms-for-smartphones-for-2024/"><u>Swap Periscope's Lens Innovative Video Platforms for Smartphones for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005665234-troubleshooting-guide-making-your-windows-groovy-taskbar-functional-again/"><u>Troubleshooting Guide: Making Your Windows Groovy Taskbar Functional Again.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-critical-business-issues-preventing-startup/"><u>Ultimate Guide: Resolving Critical Business Issues Preventing Startup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/watch-dogs-legion-users-manual-boosting-speed-cutting-lag-and-increasing-fps/"><u>Watch Dogs: Legion User's Manual: Boosting Speed, Cutting Lag, and Increasing FPS</u></a></li>
 </ul></div>
 

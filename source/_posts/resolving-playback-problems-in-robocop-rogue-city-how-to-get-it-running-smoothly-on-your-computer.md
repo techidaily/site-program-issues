@@ -1,7 +1,7 @@
 ---
 title: "Resolving Playback Problems in RoboCop: Rogue City – How to Get It Running Smoothly on Your Computer"
-date: 2024-09-13T18:43:44.013Z
-updated: 2024-09-16T16:11:37.517Z
+date: 2024-09-18T19:03:18.547Z
+updated: 2024-09-21T22:20:07.687Z
 tags:
   - win11
   - win10
@@ -84,13 +84,6 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3 – Set high priority
 
  Setting high priority for Beyond Light allows it to access more system resources than other programs and thus run more smoothly. Here’s how:
@@ -100,10 +93,10 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 2. Select the**Details** tab.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-1-5.jpg)
@@ -112,16 +105,16 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-2-3.jpg)
 4. Click**Change priority** to confirm.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Relaunch the game and check whether it runs properly or not. If not, there are two more fixes below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Disable the shader cache
 
@@ -131,10 +124,24 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3-3.jpg)
 2. Click**3D Settings** \>**Manage 3D settings** on the left pane.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4-3.jpg)
 3. Under the Global Settings section, scroll down and**turn off Shader Cache** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-2.jpg)
 4. Go to**C:\\ProgramData\\NVIDIA Corporation\\NV\_Cache** and**delete the content of that folder** . (You can also copy them and store them elsewhere.)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch Beyond Light again and the crashing problem should no longer occur. If not, go to Fix 5 below.
 
@@ -147,13 +154,6 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 1. Open Steam and click the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-0.jpg)
 2. Right-click**Destiny 2 Beyond Light** and click**Manage** \>**Uninstall** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-2.jpg)
 3. On your keyboard, press the**Windows logo key** and**E** at the same time to open File Explorer.
@@ -186,15 +186,12 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-undercover-instagram-story-experience-top-5-tools-for-2024/"><u>[New] Undercover Instagram Story Experience, Top 5 Tools for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-enhance-productivity-mac-screen-capture-made-simple-using-shortcut-keys-for-2024/"><u>[Updated] Enhance Productivity Mac Screen Capture Made Simple Using Shortcut Keys for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-how-to-use-markers-in-video-recording-and-editing/"><u>2024 Approved How to Use Markers in Video Recording and Editing?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-12-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 12 Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/banish-those-bothersome-freezes-and-crashes-in-your-favorite-viking-world-valheim/"><u>Banish Those Bothersome Freezes & Crashes in Your Favorite Viking World, Valheim!</u></a></li>
-<li><a href="https://article-helps.techidaily.com/elevate-drones-to-new-peaks-with-these-crucial-supplementary-gear-for-2024/"><u>Elevate Drones to New Peaks with These Crucial Supplementary Gear for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/infographic-roundup-yts-shocking-reality-of-17-for-2024/"><u>Infographic Roundup YT's Shocking Reality of '17 for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steam-friendship-woes-be-gone-tackling-the-network-out-of-reach-fault/"><u>Steam Friendship Woes Be Gone: Tackling the Network Out-of-Reach Fault</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-battlefield-4-wont-open-on-pc/"><u>Troubleshooting Steps When Battlefield 4 Won't Open on PC</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ventura-upgrade-roadmap-for-your-mac/"><u>Ventura Upgrade Roadmap for Your Mac</u></a></li>
+<li><a href="https://program-issues.techidaily.com/accelerate-your-progress-expert-tips-for-swift-shader-tweaks-in-star-wars-battlefront-ii/"><u>Accelerate Your Progress: Expert Tips for Swift Shader Tweaks in Star Wars Battlefront II</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/breaking-down-how-nvidia-is-revolutionizing-synthetic-media-with-its-flexible-and-customizable-ai-foundations/"><u>Breaking Down How NVIDIA Is Revolutionizing Synthetic Media with Its Flexible and Customizable AI Foundations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-error-why-isnt-your-nvidia-screen-capture-working/"><u>Common Error: Why Isn't Your Nvidia Screen Capture Working?</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/enhancing-website-engagement-through-cookiebots-advanced-visitor-insights-and-analytics-tools/"><u>Enhancing Website Engagement Through Cookiebot's Advanced Visitor Insights and Analytics Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-errors-when-trying-to-open-your-razer-synapse-software/"><u>Fixing Errors When Trying To Open Your Razer Synapse Software</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-from-amateur-to-professional-iphone-filmmaking-8-key-tips/"><u>In 2024, From Amateur to Professional iPhone Filmmaking (8 Key Tips)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-nubia-red-magic-9-proplus-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Nubia Red Magic 9 Pro+ FRP Bypass</u></a></li>
 </ul></div>
 

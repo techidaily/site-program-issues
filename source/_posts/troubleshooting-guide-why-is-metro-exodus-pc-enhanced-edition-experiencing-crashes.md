@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Why Is Metro Exodus (PC) Enhanced Edition Experiencing Crashes?"
-date: 2024-09-10T22:44:52.127Z
-updated: 2024-09-16T22:59:21.517Z
+date: 2024-09-16T16:53:45.300Z
+updated: 2024-09-21T17:31:55.531Z
 tags:
   - win11
   - win10
@@ -81,17 +81,23 @@ If the lagging issue persists, try the next fix.
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. If updating the network driver doesn’t solve your problem, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Allow Forza Horizon 5 through the firewall
 
@@ -103,6 +109,13 @@ If the lagging issue persists, try the next fix.
 2. Type **control panel** , then click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-control-panel.jpg)
 3. Switch to **View by: small icons** , then click **Windows Defender Firewall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-09-27.jpg)
 4. Click **Allow an app or feature through Windows Defender Firewall** .  
@@ -116,27 +129,20 @@ If the lagging issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14.jpg)
 2. Click **Browse** .  
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-09-14_13-11-21.jpg)
 3. Navigate to Forza Horizon 5 game folders and add the game executable to the list.
 4. Find Forza Horizon 5 on the list,**tick the checkbox of Private network** , and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14-1.jpg)  
  This will ensure your firewall won’t block Forza Horizon 5 when you’re using a private network, for example, your home Wi-Fi. For safety reasons, we recommend you only select the private network, but you’re welcome to allow the game through all types of networks if needed.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If the lagging issue persists, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Set the game process priority to high
 
@@ -170,21 +176,7 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2: Switch to a public DNS server
 
@@ -193,6 +185,14 @@ Here’s how to do it:
 1. On your taskbar, right-click the**network icon** , then click**Open Network & Internet settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
@@ -205,6 +205,13 @@ Here’s how to do it:
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this fix doesn’t solve your problem, no worries, there’s one more fix you can try.
 
@@ -236,20 +243,15 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-can-instant-subscription-lead-to-higher-watch-time/"><u>[New] 2024 Approved Can Instant Subscription Lead to Higher Watch Time?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-premium-zero-price-point-live-capture-app-for-2024/"><u>[New] Premium Zero-Price Point Live Capture App for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-grow-your-channelnode-through-joint-videography-endeavors-for-2024/"><u>[Updated] Grow Your Channelnode Through Joint Videography Endeavors for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cracking-the-cod-top-strategies-to-overcome-dev-error-6328-in-warzone-updated/"><u>Cracking the Cod: Top Strategies to Overcome Dev Error 6328 in Warzone, Updated</u></a></li>
-<li><a href="https://program-issues.techidaily.com/defeat-the-launch-bug-expert-solutions-for-playing-fallout-3-this-year/"><u>Defeat the Launch Bug: Expert Solutions for Playing Fallout 3 This Year</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-strategies-to-get-counter-strike-going-again-after-a-failed-start/"><u>Effective Strategies to Get Counter-Strike Going Again After a Failed Start</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-launch-errors-a-guide-for-players-struggling-with-persona-3-f-escape/"><u>Fixing Launch Errors: A Guide for Players Struggling with Persona 3 F Escape</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-se-2022-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone SE (2022) to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-honor-90-pro-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Honor 90 Pro Phone Network-Ready</u></a></li>
-<li><a href="https://extra-support.techidaily.com/leading-av-creators-digital-edition-list-for-2024/"><u>Leading AV Creators Digital Edition List for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-screen-shimmers-your-definitive-guide-to-banishing-the-blink/"><u>No More Screen Shimmers – Your Definitive Guide to Banishing the Blink!</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-issue-why-doesnt-my-computer-turn-off-on-win-1/"><u>Solving the Issue: Why Doesn't My Computer Turn Off on Win 1#?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/spellbreak-pc-issues-resolved-fixes-for-stability-and-performance/"><u>Spellbreak PC Issues Resolved: Fixes for Stability and Performance</u></a></li>
-<li><a href="https://program-issues.techidaily.com/vrchat-stability-guide-discover-8-successful-fixes-to-enhance-gameplay-experience-on-pc/"><u>VRChat Stability Guide: Discover 8 Successful Fixes to Enhance Gameplay Experience on PC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-lcv-video-monitoring-analysis/"><u>[New] 2024 Approved LCV Video Monitoring Analysis</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-inside-the-speech-of-cyberspace-must-know-vr-terms/"><u>[New] Inside the Speech of Cyberspace Must-Know VR Terms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-snapchat-pics-with-playful-cartoon-lens/"><u>[New] Transform Your Snapchat Pics with Playful Cartoon Lens</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-banishing-black-edges-on-your-youtube-video/"><u>[Updated] In 2024, Banishing Black Edges on Your YouTube Video</u></a></li>
+<li><a href="https://driver-error.techidaily.com/alleviated-storage-controller-stress/"><u>Alleviated Storage Controller Stress</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/how-to-remove-background-in-figma-for-2024/"><u>How to Remove Background In Figma for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-the-ultimate-mix-of-soundtracks-and-visuals-adding-srt-to-mp4/"><u>In 2024, The Ultimate Mix of Soundtracks and Visuals Adding SRT to MP4</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-art-of-fixing-obs-studio-stability-issues-in-windows-111e-whats-new/"><u>Master the Art of Fixing OBS Studio Stability Issues in Windows 11/1E - What's New ?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/new-world-update-fixed-issues-while-battling-persistent-freezing-problems/"><u>New World Update: Fixed Issues While Battling Persistent Freezing Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-success-how-to-enjoy-a-seamless-hades-gaming-experience-on-pc/"><u>Troubleshooting Success: How to Enjoy a Seamless Hades Gaming Experience on PC</u></a></li>
 </ul></div>
 

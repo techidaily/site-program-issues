@@ -1,7 +1,7 @@
 ---
 title: How to Get Your Gamepad Working With Steam on a Windows Machine
-date: 2024-09-10T21:07:57.478Z
-updated: 2024-09-16T17:39:25.444Z
+date: 2024-09-17T16:43:58.951Z
+updated: 2024-09-21T22:40:17.582Z
 tags:
   - win11
   - win10
@@ -126,9 +126,23 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap10-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the**Compatibility** tab and click **Run compatibility troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Try recommended settings** to test-run program using recommended compatibility settings. Follow the on-screen instructions to see whether this troubleshooting option works or not.
 
@@ -150,6 +164,13 @@ Or
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 4: Add Origin as an exception to your third-party antivirus application**
 
  This issue may also be caused by your third-party antivirus application. Since the third-party antivirus application hooks very deep into your system, it may interfere with Origin.
@@ -161,6 +182,13 @@ Or
  If this fix still doesn’t work for you, try the next fix below to perform a clean boot.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 5: Perform a clean boot**
 
@@ -174,27 +202,20 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap17-2-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Select the**Startup** tab and click **Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap261-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) On the**Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-12.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Go back to the**System Configuration** window and click **OK** .
 
@@ -210,19 +231,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 6: Install the latest Windows updates**
 
  Sometimes this issue may occur if you didn’t install the latest Windows updates on your PC. Try performing Windows Update and this issue may get resolved. Here is how to do it:
@@ -231,23 +239,9 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap1-1-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click **Check for updates** to update your Windows system.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap267.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Restart your PC when the Windows update process completed.
 
@@ -301,19 +295,14 @@ iv. Restart your Windows system when it is completed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-streamlabs-or-obs-picking-the-best-software-for-your-channel/"><u>[New] In 2024, Streamlabs or OBS Picking the Best Software for Your Channel</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-twitch-vs-youtube-an-in-depth-comparative-analysis/"><u>[Updated] Twitch Vs. YouTube An In-Depth Comparative Analysis</u></a></li>
-<li><a href="https://program-issues.techidaily.com/busting-through-obstacles-the-broccoli-crash-issue-resolved-in-destiny-2-pre-2024-update/"><u>Busting Through Obstacles: The Broccoli Crash Issue Resolved in Destiny 2 Pre-2024 Update</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-windows-file-thumbnail-absence-in-version-11/"><u>Correcting Windows File Thumbnail Absence in Version 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/decode-and-solve-far-cry-6s-black-screen-troubleshooting-tips/"><u>Decode & Solve Far Cry 6'S Black Screen Troubleshooting Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-fixes-getting-your-logitech-g230-microphone-back-in-action/"><u>DIY Fixes: Getting Your Logitech G230 Microphone Back in Action!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-cod-vanguard-error-code-0x00001338-n-for-pc-complete-solutions/"><u>Fixing CoD Vanguard Error Code 0X00001338 (N) for PC: Complete Solutions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/fixing-the-issue-why-and-how-to-resolve-freezing-in-fallout-3-on-windows-10/"><u>Fixing the Issue: Why & How to Resolve Freezing in Fallout 3 on Windows 10</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-the-iphone-14-plus-sim-lock-4-easy-methods-by-drfone-ios/"><u>How To Unlock The iPhone 14 Plus SIM Lock 4 Easy Methods</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-apple-iphone-14-by-drfone-ios/"><u>How to Unlock Verizon Apple iPhone 14</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-ultimate-guide-to-add-chapters-to-a-youtube-video/"><u>In 2024, Ultimate Guide to Add Chapters To A YouTube Video</u></a></li>
-<li><a href="https://program-issues.techidaily.com/sharpening-graphics-in-call-of-duty-warzone-on-pc-a-step-by-step-fix/"><u>Sharpening Graphics in Call of Duty: Warzone on PC - A Step-by-Step Fix</u></a></li>
-<li><a href="https://program-issues.techidaily.com/starting-your-city-planning-journey-fixing-cities-skylines-2-initialization-woes/"><u>Starting Your City Planning Journey: Fixing Cities: Skylines 2 Initialization Woes</u></a></li>
-<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-meme-tacular-iphone-hacks/"><u>2024 Approved Meme-Tacular iPhone Hacks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/deathloop-on-pc-now-fluid-addressing-and-solving-past-stutter-issues/"><u>Deathloop on PC Now Fluid: Addressing and Solving Past Stutter Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dissecting-the-european-union-written-by-your-name/"><u>Dissecting the European Union' Written By: [Your Name]</u></a></li>
+<li><a href="https://video-capture.techidaily.com/efficient-practices-archiving-google-voice-transcripts-for-2024/"><u>Efficient Practices Archiving Google Voice Transcripts for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/experience-the-advanced-design-of-keychron-q1-he-embracing-magnetic-switch-innovation-in-modern-typing/"><u>Experience the Advanced Design of Keychron Q1 HE - Embracing Magnetic Switch Innovation in Modern Typing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/generating-funny-images-through-adobe-for-2024/"><u>Generating Funny Images Through Adobe for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-and-correct-the-witcher-3-crashing-glitches-while-gaming-on-a-windowsmac-pc/"><u>How to Overcome and Correct The Witcher 3 Crashing Glitches While Gaming on a Windows/Mac PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/repair-solutions-for-when-your-gta-nline-game-wont-start/"><u>Repair Solutions for When Your GTA Nline Game Won't Start</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionize-your-mobile-experience-unleash-the-power-of-live-wallpapers-that-serve-as-interactive-dashboards/"><u>Revolutionize Your Mobile Experience: Unleash the Power of Live Wallpapers That Serve as Interactive Dashboards!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Call of Duty's Black Ops Cold War - UI Problem #27711: Fixed & Enhanced for Players"
-date: 2024-09-11T19:26:54.529Z
-updated: 2024-09-16T22:55:34.375Z
+date: 2024-09-19T19:34:38.580Z
+updated: 2024-09-21T18:58:14.616Z
 tags:
   - win11
   - win10
@@ -58,6 +58,13 @@ There are two ways for you to do this:
 
  Does the driver update mitigate the freezes and boost your game’s performance? If the problem reoccurs, please continue to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3 – Disable fullscreen optimizations
 
  Fullscreen Optimizations is expected to improve games’ performance when they run in fullscreen mode, but that’s not always the case. If you keep running into Cold War freezing, you should disable this option.
@@ -67,31 +74,19 @@ Here are the steps:
 1. Right-click the**CoD Black Ops Cold War icon** on your desktop and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-13.jpg)
 2. Navigate to the**Compatibility** tab. Then, tick**Disable fullscreen optimizations** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/11.jpg)
 3. Click**Change high DPI settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/12.jpg)
 4. Tick**Override** **High DPI** **scaling behavior** and select**Application** from the drop-down menu below. Then, click**OK** .  
-
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/0-3.jpg)
 5. Click**OK** .  
@@ -109,29 +104,22 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/10.jpg)
 3. Click**Options** and click**Scan and Repair** .  
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After the process completes, relaunch the game to test the issue. If this fix doesn’t help, check out the last one.
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Lower the in-game graphics settings
 
@@ -143,6 +131,13 @@ Here are the steps:
 3. Lower the parameters under each section according to your needs.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/0-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Check how things go. If the freezing problem is persistent, you can contact **[Blizzard’s support](https://support.activision.com/contact-us)**  for further assistance. Since Black Ops Cold War is a relatively new game, we’d wait for the upcoming patches to resolve those known bugs.
 
@@ -168,16 +163,20 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-timing-your-instagram-posts-for-optimal-results/"><u>[New] 2024 Approved Timing Your Instagram Posts for Optimal Results</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-fastforward-lingertap-recording-for-2024/"><u>[New] FastForward LingerTap Recording for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-mastering-the-art-of-saving-twitter-jokes-gifs/"><u>[Updated] Mastering the Art of Saving Twitter Jokes (GIFs)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-amd-smbus-drivers-simple-steps-for-a-swift-upgrade/"><u>Download and Update AMD SMBus Drivers: Simple Steps for a Swift Upgrade</u></a></li>
-<li><a href="https://program-issues.techidaily.com/error-code-80asteroids-97-in-cod-black-ops-cold-war-heres-your-ultimate-fix/"><u>Error Code 80Asteroids 97 in COD: Black Ops Cold War? Here's Your Ultimate Fix</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-to-prevent-and-fix-obs-applications-from-freezing-on-your-windows-1011-device-in-2nd/"><u>Expert Tips to Prevent and Fix OBS Applications From Freezing on Your Windows 10/11 Device in 2nD</u></a></li>
-<li><a href="https://program-issues.techidaily.com/lunar-app-malfunctioning-learn-how-to-fix-continuous-shutdown-issues-in-your-browser/"><u>Lunar App Malfunctioning? Learn How to Fix Continuous Shutdown Issues in Your Browser</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fix-resolve-kernelbasedll-freezing-problem-instantly/"><u>Quick Fix: Resolve KernelBase.dll Freezing Problem Instantly</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-overcoming-package-deployment-barriers-in-windows/"><u>Strategies for Overcoming Package Deployment Barriers in Windows</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/the-most-engaged-twitters-most-watched-videos-for-2024/"><u>The Most Engaged Twitter's Most Watched Videos for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/yakuza-like-a-dragon-triumphs-in-steam-experience-the-epic-journey/"><u>Yakuza: Like A Dragon Triumphs in Steam - Experience the Epic Journey!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-disco-elysium-crashing-on-pc/"><u>[SOLVED] Disco Elysium Crashing on PC</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-transitioning-photos-from-physical-to-digital-storage/"><u>[Updated] In 2024, Transitioning Photos From Physical to Digital Storage</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/efficient-conversion-of-mxf-files-to-mov-format-across-windows-macos-and-cloud-services/"><u>Efficient Conversion of MXF Files to MOV Format Across Windows, macOS, & Cloud Services</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-on-eliminating-your-pcs-windows-restore-section/"><u>Expert Tips on Eliminating Your PC's Windows Restore Section</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-corsair-icue-problems-in-windows-10-and-11-a-step-by-step-solution/"><u>Fix Your Corsair iCUE Problems in Windows 10 and 11 - A Step by Step Solution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/halo-solved-crashing-on-computer-top-fixes-and-tips/"><u>Halo ([Solved] Crashing on Computer - Top Fixes and Tips</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-nokia-c12-plus-is-unlocked-by-drfone-android/"><u>How To Check if Your Nokia C12 Plus Is Unlocked</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-oppo-reno-11-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Oppo Reno 11 5G Lock Screen Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-pop-8-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Tecno Pop 8 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://program-issues.techidaily.com/lag-free-racing-experience-eliminating-slowdown-issues-in-forza-horizon-5/"><u>Lag-Free Racing Experience: Eliminating Slowdown Issues in Forza Horizon 5</u></a></li>
+<li><a href="https://program-issues.techidaily.com/snapchat-camera-not-showing-heres-how-you-can-solve-it/"><u>Snapchat Camera Not Showing? Here's How You Can Solve It!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-final-solution-to-rectify-visual-distortion-in-rust-programming/"><u>The Final Solution to Rectify Visual Distortion in Rust Programming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/warframe-wont-start-troubleshoot-common-issues-and-fixes/"><u>Warframe Won't Start? Troubleshoot Common Issues and Fixes!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
 </ul></div>
 

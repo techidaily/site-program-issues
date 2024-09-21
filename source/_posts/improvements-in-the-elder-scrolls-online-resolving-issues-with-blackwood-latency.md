@@ -1,7 +1,7 @@
 ---
 title: Improvements in The Elder Scrolls Online - Resolving Issues with Blackwood Latency
-date: 2024-09-11T17:02:55.253Z
-updated: 2024-09-16T22:42:14.580Z
+date: 2024-09-16T20:18:41.539Z
+updated: 2024-09-21T20:40:43.121Z
 tags:
   - win11
   - win10
@@ -84,13 +84,6 @@ _Code Vein_ randomly freezes your computer? You’re not alone! Many players are
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-40-48-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -98,10 +91,16 @@ _Code Vein_ randomly freezes your computer? You’re not alone! Many players are
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-41-00.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -138,6 +137,19 @@ If your game freezes again, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-42-06.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Right-click **Code Vein** and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-42-14.jpg)
@@ -167,6 +179,19 @@ If the freezing issue still happens, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-42-40.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Right-click the process you want to end and select **End Process Tree** .
 
  Don’t close any program that you’re not familiar with. It may be critical for the functioning of your computer.
@@ -193,13 +218,6 @@ If the freezing issue still happens, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-43-16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Try launching _Code Vein_  to see if it works properly now. If your issue persists, check the next fix.
 
 ### Fix 5: Set your PC power plan to High Performance
@@ -215,13 +233,6 @@ If the freezing issue still happens, try the fix below.
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-43-34.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Select **Power Options.**
 
@@ -258,6 +269,13 @@ If the freezing issue still happens, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-44-42.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)**  Click the **Advanced**  tab, and then click **Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-44-46.jpg)
@@ -269,6 +287,13 @@ If the freezing issue still happens, try the fix below.
 **6)** Click your **C drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-45-07.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **7)** Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
@@ -309,13 +334,6 @@ If the freezing issue still happens, try the fix below.
 **2)**  Right-click the **steamapps**  folder and select **Copy** . Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-46-23.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  On your keyboard, press the **Windows logo**  key and type **control** . Then, click **Control Panel** .
 
@@ -365,16 +383,20 @@ If the freezing issue still happens, try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-conquer-social-media-with-savvy-fb-video-choices/"><u>[Updated] Conquer Social Media with Savvy FB Video Choices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/common-solutions-for-starfield-crashes-and-stutters-during-playtime/"><u>Common Solutions for Starfield Crashes and Stutters During Playtime</u></a></li>
-<li><a href="https://win-forum.techidaily.com/customizing-your-pc-installation-tutorial-for-windows-11-on-prohibited-cpus/"><u>Customizing Your PC: Installation Tutorial for Windows 11 on Prohibited CPUs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-persistent-crashes-in-thunder-tier-one-on-windows-a-comprehensive-guide/"><u>Fixing Persistent Crashes in Thunder Tier One on Windows - A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-unreal-process-has-crashed-on-outriders-ue4-bug-explained/"><u>How to Fix 'Unreal Process Has Crashed' On Outriders - UE4 Bug Explained</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Infinix Smart 8 HD? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-compatible-drivers-available-now-download-updated-hp-deskjet-ink-advantage-f381-wi-fi-all-in-one-printer/"><u>Latest Compatible Drivers Available Now: Download Updated HP DeskJet Ink Advantage F381 Wi-Fi All-in-One Printer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-bloodhunts-freezing-and-skipping-issues-a-comprehensive-guide-for-pc-users/"><u>Solving Bloodhunt's Freezing & Skipping Issues: A Comprehensive Guide for PC Users</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-itel-p55-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Itel P55 5G</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlock-davinci-resolves-full-potential-overcoming-opening-issues-on-pc/"><u>Unlock DaVinci Resolve's Full Potential: Overcoming Opening Issues on PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlock-the-secrets-transitioning-into-and-out-of-your-iphones-restore-mode/"><u>Unlock the Secrets: Transitioning Into & Out of Your iPhone’s Restore Mode</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-achieve-higher-interactions-mastering-the-art-of-square-videos/"><u>[New] Achieve Higher Interactions Mastering the Art of Square Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-apex-sites-for-rich-3d-experiences-with-lustrous-text-art/"><u>[Updated] Apex Sites for Rich 3D Experiences with Lustrous Text Art</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-optimizing-your-fb-video-upload-journey-from-pc-plus-android-for-2024/"><u>[Updated] Optimizing Your FB Video Upload Journey From PC + Android for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-fixes-to-stop-your-discord-app-from-unexpectedly-quitting-during-online-gaming-broadcasts/"><u>Comprehensive Fixes to Stop Your Discord App From Unexpectedly Quitting During Online Gaming Broadcasts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-resolve-helldivers-iis-startup-black-screen-glitch/"><u>Comprehensive Guide to Resolve Helldivers II's Startup Black Screen Glitch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-solutions-for-unfreezing-fortnite-ultimate-guide-for-gamers/"><u>Expert Solutions for Unfreezing Fortnite : Ultimate Guide for Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-solutions-for-unstable-persona-4-golden-eliminate-crashing-issues-now/"><u>Expert Solutions for Unstable Persona 4 Golden - Eliminate Crashing Issues Now</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-sony-is-unlocked-by-drfone-android/"><u>How To Check if Your Sony Is Unlocked</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-optimize-system-performance-by-fixing-wsappxs-heavy-disk-and-cpu-demands/"><u>How to Optimize System Performance by Fixing WSAPPX's Heavy Disk & CPU Demands</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-stop-your-ipad-from-ringing-when-your-iphone-rings/"><u>How to Stop Your iPad From Ringing When Your iPhone Rings</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-oppo-reno-10-pro-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Oppo Reno 10 Pro 5G</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-google-nest-hub-gen-2-missing-the-feature-of-a-built-in-camera/"><u>In-Depth Look at the Google Nest Hub (Gen 2) - Missing the Feature of a Built-In Camera</u></a></li>
+<li><a href="https://program-issues.techidaily.com/successfully-initiating-deathloop-after-previous-failure-tips-and-tricks/"><u>Successfully Initiating Deathloop After Previous Failure - Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/trouble-with-mass-effect-legendary-edition-heres-how-to-fix-it/"><u>Trouble with Mass Effect Legendary Edition? Here's How to Fix It!</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-no-hassle-just-tones-5-free-online-generators/"><u>Updated In 2024, No Hassle, Just Tones 5 Free Online Generators</u></a></li>
 </ul></div>
 

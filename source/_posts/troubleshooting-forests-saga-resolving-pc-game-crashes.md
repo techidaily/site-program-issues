@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting 'Forest's Saga: Resolving PC Game Crashes"
-date: 2024-09-10T21:30:11.599Z
-updated: 2024-09-16T19:02:24.940Z
+date: 2024-09-20T19:40:28.842Z
+updated: 2024-09-21T22:53:58.808Z
 tags:
   - win11
   - win10
@@ -81,19 +81,6 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-353.png)
@@ -101,19 +88,6 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 **4)** Restart Oxygen Not Included from Steam.
 
 Hope the game runs smoothly now. If it’s not, check the fix below.
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4:**Run the game in compatibility mode**
 
@@ -131,6 +105,13 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-282.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-280.png)
@@ -145,6 +126,13 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
  If running your game in compatibility mode didn’t work for you, move on and try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5:**Change branches in Oxygen Not Included**
 
  If you’ve updated your game recently, and your game starts crashing now and then, try reverting your game version by changing your branch. Here is how to do it:
@@ -155,22 +143,15 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-896.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Right-click**Oxygen Not Included** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-284.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Click the**BETAS tab** .
@@ -205,13 +186,6 @@ If the game crashing issue persists, check the fix below.
 **3)** Restart your computer and your game to test your issue.
 
  This should fix your problem. If it didn’t, don’t fret. Check the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7:**Update your Graphics driver**
 
@@ -261,6 +235,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-575.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-576.png)
@@ -276,6 +257,13 @@ OR
 **1)**  If you’re running Steam now, right-click the Steam icon on the taskbar, and then select **Exit** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-494.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** On your keyboard, press the **Windows logo**  key and **E**  at the same time.
 
@@ -314,20 +302,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-avoiding-unwanted-accounts-on-insta/"><u>[New] In 2024, Avoiding Unwanted Accounts on Insta</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Honor Magic 6 Lite | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/chromatic-shift-strategies-for-skilled-alteration/"><u>Chromatic Shift Strategies for Skilled Alteration</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/crafting-an-engaging-fb-slideshow-experience/"><u>Crafting an Engaging FB Slideshow Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elite-gamers-guide-maximize-performance-with-these-6-fixes-for-low-fps-on-escape-from-tarkov/"><u>Elite Gamer's Guide: Maximize Performance with These 6 Fixes for Low FPS on Escape From Tarkov</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fortnite-lag-solved-top-techniques-for-smooth-gameplay-experience/"><u>Fortnite Lag Solved: Top Techniques for Smooth Gameplay Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-obs-stop-recording-problems-successfully-tips-and-tricks/"><u>How to Fix OBS Stop Recording Problems Successfully - Tips & Tricks</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oppo-reno-10-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-microsofts-premium-ergonomic-keyboard-top-quality-insights/"><u>In-Depth Analysis of Microsoft's Premium Ergonomic Keyboard – Top Quality Insights</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-solutions-for-when-origin-fails-to-load-get-back-online-now/"><u>Quick Solutions for When Origin Fails to Load - Get Back Online Now!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-issues-with-pacific-drive-freezing-on-windows-step-by-step-guide/"><u>Resolving Issues with Pacific Drive Freezing on Windows - Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-your-downloading-woes-utorrent-not-responding-here-are-7-smart-ways-to-fix-it/"><u>Solve Your Downloading Woes: Utorrent Not Responding? Here Are #7 Smart Ways to Fix It</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-palworlds-eos-login-mishaps-top-6-solutions/"><u>Troubleshooting Palworld's EOS Login Mishaps: Top 6 Solutions</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-motorola-razr-40-by-fonelab-android-recover-music/"><u>Undelete lost music from Motorola Razr 40</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-new-horizons-the-absolute-top-9-no-cost-language-websites-to-learn-languages-effortlessly/"><u>Unlocking New Horizons: The Absolute Top 9 No-Cost Language Websites to Learn Languages Effortlessly</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-diving-deep-incorporating-luts-into-your-creative-workflow-for-2024/"><u>[Updated] Diving Deep Incorporating LUTs Into Your Creative Workflow for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-exclusive-insights-3-secrets-to-capture-every-moment-on-discord/"><u>[Updated] In 2024, Exclusive Insights 3 Secrets to Capture Every Moment on Discord</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-frozen-screen-expert-advice-to-overcome-issues-in-call-of-duty-vanguard/"><u>Beat the Frozen Screen: Expert Advice to Overcome Issues in Call of Duty: Vanguard</u></a></li>
+<li><a href="https://fox-links.techidaily.com/best-ways-to-transcribe-twitter-videos-into-high-fidelity-mp3s/"><u>Best Ways to Transcribe Twitter Videos Into High-Fidelity MP3s</u></a></li>
+<li><a href="https://article-posts.techidaily.com/cutting-edge-tutorial-for-enabling-automatic-voice-conversion-in-slides/"><u>Cutting Edge Tutorial for Enabling Automatic Voice Conversion in Slides</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-7-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 7</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-persistent-crashes-in-thunder-tier-one-on-windows-a-comprehensive-guide/"><u>Fixing Persistent Crashes in Thunder Tier One on Windows - A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-unreal-process-has-crashed-on-outriders-ue4-bug-explained/"><u>How to Fix 'Unreal Process Has Crashed' On Outriders - UE4 Bug Explained</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-10-free-and-paid-luts-for-canon-camera/"><u>In 2024, 10 Free & Paid LUTs for Canon Camera</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-oneplus-open-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to OnePlus Open Phones? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-continuous-crashing-of-escape-from-tarkov-on-windows-pc/"><u>Resolved: Fixes for Continuous Crashing of Escape From Tarkov on Windows PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-improved-graphics-driver-compatibility-in-new-forza-horizon-version/"><u>Troubleshooting Steps for Improved Graphics Driver Compatibility in New Forza Horizon Version</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unleash-the-archive-best-public-domain-video-download-sites/"><u>Updated Unleash the Archive Best Public Domain Video Download Sites</u></a></li>
 </ul></div>
 

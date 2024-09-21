@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Critical 'Ark' Bug: A Step-by-Step Guide"
-date: 2024-09-11T22:23:36.029Z
-updated: 2024-09-16T22:22:07.091Z
+date: 2024-09-16T22:02:28.688Z
+updated: 2024-09-21T19:46:57.486Z
 tags:
   - win11
   - win10
@@ -82,23 +82,24 @@ If updating drivers doesn’t help, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
 4. If you receive the following prompt, simply check the box next to**Do this for all current items** and click**Skip** .  
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![delete temporary files](https://images.drivereasy.com/wp-content/uploads/2021/08/skip-for-all-current-items.png)
 5. When it finishes deleting all temp files, head to your desktop. Right-click**Recycling Bin** and select**Empty Recycling Bin** .  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now launch Halo Infinite. If your problem persists, move on to the next fix.
 
@@ -112,25 +113,11 @@ If updating drivers doesn’t help, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/Task-Manager-Memory.png)
 3. Locate the applications that are eating up a lot of memory. If you don’t need them while playing Halo Infinite, right-click each of them and select**End task** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-background-applications.png)
 
  If you use Razer Synapse, make sure you turn it off while playing Halo Infinite. Some players found that it affects your gameplay. It could be possible that Razer Synapse is in conflict with your game.
 
  If turning off background applications doesn’t do the trick, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Verify integrity of game files
 
@@ -144,13 +131,20 @@ To verify the integrity of your game files, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-1.jpg)
 3. Select the**LOCAL FILES** tab. Then click**Verify integrity of game files…** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-integrity-of-game-fiiles.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now Steam will verify your game’s files. This process may take several minutes. Once the process is completed, close the Window then launch your game. If it still keeps freezing, move on to the next fix.
@@ -166,6 +160,19 @@ To verify the integrity of your game files, follow the steps below:
 3. Select the**DLC** tab. Then uncheck**Multiplayer High-Res Textures** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-multiplayer-high-res-textures.png)
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this doesn’t help, try the next fix below.
 
@@ -193,13 +200,6 @@ If this doesn’t help, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 When it’s completed, launch Halo Infinite and test the gameplay.
 
 ---
@@ -223,21 +223,21 @@ When it’s completed, launch Halo Infinite and test the gameplay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-diy-unleashing-creative-power-in-animation-effects/"><u>[New] In 2024, DIY Unleashing Creative Power in Animation Effects</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-retro-revelry-exploring-the-ultimate-selection-of-gb-console-emulation-for-pcs/"><u>[New] In 2024, Retro Revelry Exploring The Ultimate Selection of GB Console Emulation for PCs</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-uncovering-niche-experts-on-instagram-a-guide-to-impactful-collaborators/"><u>[Updated] Uncovering Niche Experts on Instagram A Guide to Impactful Collaborators</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-mastering-speech-to-text-googles-perfect-translation-technique/"><u>2024 Approved Mastering Speech-to-Text Google's Perfect Translation Technique</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diy-guide-successful-connection-steps-for-kodi-where-directory-info-was-lost/"><u>DIY Guide: Successful Connection Steps for Kodi Where Directory Info Was Lost</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/excellent-collection-top-webcam-grips-and-mounts/"><u>Excellent Collection Top Webcam Grips & Mounts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-on-fixing-the-crash-problem-of-guilty-gear-strive-on-windowsmac-computers/"><u>Expert Tips on Fixing the Crash Problem of Guilty Gear Strive on Windows/Mac Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-to-fixing-path-of-exile-connection-errors-a-step-by-step-solution/"><u>Guide to Fixing Path of Exile Connection Errors : A Step-by-Step Solution</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/leveraging-ios-16-for-an-immersive-experience-with-live-events-on-the-iphone/"><u>Leveraging iOS 16 for an Immersive Experience with Live Events on the iPhone</u></a></li>
-<li><a href="https://network-issues.techidaily.com/notebook-led-fix-persistent-blink-ended/"><u>Notebook LED Fix: Persistent Blink Ended</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-the-application-unable-to-start-hurdle-in-adobe-software-error-code-0xc0c0000022/"><u>Overcoming the 'Application Unable to Start' Hurdle in Adobe Software (Error Code 0xC0^[c0000022)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-minecrafts-crossbow-glitches-and-error-messages/"><u>Resolving Minecraft's Crossbow Glitches and Error Messages</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ring-of-elysium-optimization-guide-raise-your-fps-for-a-better-experience/"><u>Ring of Elysium Optimization Guide: Raise Your FPS for a Better Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-resident-evil-village-pc-game-crashes-a-comprehensive-guide/"><u>Troubleshooting Resident Evil Village PC Game Crashes: A Comprehensive Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/ultimate-review-of-highest-quality-range-boosters-to-optimize-your-home-network/"><u>Ultimate Review of Highest Quality Range Boosters to Optimize Your Home Network</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-conquer-youtube-creator-studio-a-comprehensive-guide/"><u>[Updated] 2024 Approved Conquer YouTube Creator Studio A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-hidden-glances-instagram-story-viewing-without-revealing-personal-details-pc-android-iphone/"><u>[Updated] 2024 Approved Hidden Glances Instagram Story Viewing without Revealing Personal Details [PC, Android, iPhone]</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-discover-top-tier-ps3-games-on-your-pc-today-for-2024/"><u>[Updated] Discover Top-Tier PS3 Games on Your PC Today for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-essential-guide-to-state-of-the-art-screen-recorders/"><u>[Updated] In 2024, The Essential Guide to State-of-the-Art Screen Recorders</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-perfect-video-gear-starting-with-beginner-cameras/"><u>[Updated] Perfect Video Gear Starting with Beginner Cameras</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-anthems-perpetual-boot-problem-with-ease/"><u>Bypassing Anthem's Perpetual Boot Problem with Ease</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-discover-9-affordable-online-editors-for-youtube/"><u>In 2024, Discover 9 Affordable Online Editors for YouTube</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-reality-of-youtubes-fast-subscribe-technique/"><u>In 2024, The Reality of YouTube's Fast Subscribe Technique</u></a></li>
+<li><a href="https://program-issues.techidaily.com/league-of-legends-online-issue-solutions-connection-restored/"><u>League of Legends Online Issue Solutions: Connection Restored!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigating-through-chaos-understanding-black-survival-in-an-endless-cycle/"><u>Navigating Through Chaos: Understanding 'Black Survival' In an Endless Cycle</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-lag-and-drops-a-comprehensive-fix-for-modern-warfare-2-stuttering-on-pcs/"><u>Say Goodbye to Lag and Drops - A Comprehensive Fix for Modern Warfare 2 Stuttering on PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/speeding-up-fallout-4-solutions-for-reducing-extended-loading-periods/"><u>Speeding Up Fallout 4: Solutions for Reducing Extended Loading Periods</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722902470148-step-by-step-guide-to-fix-a-stuck-dvdbdcd-drive-no-need-to-panic/"><u>Step-by-Step Guide to Fix a Stuck DVD/BD/CD Drive: No Need to Panic!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-for-starcraft-2-end-game-crashes-and-how-to-fix-them/"><u>Troubleshooting Guide for Starcraft 2 - End Game Crashes & How to Fix Them</u></a></li>
+<li><a href="https://program-issues.techidaily.com/winning-against-high-ping-issues-expert-tips-for-optimal-performance-in-back-abort-blood/"><u>Winning Against High Ping Issues: Expert Tips for Optimal Performance in Back Abort Blood</u></a></li>
 </ul></div>
 

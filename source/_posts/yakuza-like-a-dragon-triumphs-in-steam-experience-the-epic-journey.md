@@ -1,7 +1,7 @@
 ---
 title: "Yakuza: Like A Dragon Triumphs in Steam - Experience the Epic Journey!"
-date: 2024-09-09T18:39:20.115Z
-updated: 2024-09-16T17:36:57.782Z
+date: 2024-09-14T20:39:19.984Z
+updated: 2024-09-21T21:06:07.992Z
 tags:
   - win11
   - win10
@@ -76,6 +76,13 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.jpg)
 3. Click the**Game Settings** tab. Then tick**Additional command line arguments** and enter**\-D3D11** in the text field.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.jpg)
 4. Click**Done** to confirm.
 
@@ -89,52 +96,40 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.jpg)
 2. Click**Settings** under the Performance section.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Delete the game cache files
 
@@ -154,14 +149,14 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings1.jpg)
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
 
  Save the changes and restart Warzone to test. Then the game should be running perfectly without the 6328 error code.
 
@@ -187,19 +182,19 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-increasing-clarity-and-detail-in-team-meets/"><u>[New] 2024 Approved Increasing Clarity and Detail in Team Meets</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-style-with-confidence-adding-border-artistry-to-your-instagram-posts/"><u>[New] In 2024, Style with Confidence Adding Border Artistry to Your Instagram Posts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-essential-templates-for-impactful-business-presentations/"><u>[Updated] 2024 Approved Essential Templates for Impactful Business Presentations</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-gigglegadget-assistant-for-2024/"><u>[Updated] GiggleGadget Assistant for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-intensify-your-videoleap-images-through-precision-zooming-for-2024/"><u>[Updated] Intensify Your Videoleap Images Through Precision Zooming for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/best-youtube-video-download-formats-of-2020-maximizing-quality-and-compatibility/"><u>Best YouTube Video Download Formats of 2020: Maximizing Quality and Compatibility</u></a></li>
-<li><a href="https://program-issues.techidaily.com/endless-loads-not-anymore-quick-solutions-for-madden-nfl-eborne-22s-stuck-screen/"><u>Endless Loads? Not Anymore! Quick Solutions for Madden NFL Eborne 22'S Stuck Screen</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/track-to-short-video-treasure-troves-free-access-for-2024/"><u>Fast Track to Short Video Treasure Troves (Free Access) for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/halo-infinite-pc-instability-solutions-no-more-disruptions/"><u>Halo Infinite PC Instability Solutions - No More Disruptions</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-play-mkv-movies-on-xiaomi-redmi-k70e-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do I play MKV movies on Xiaomi Redmi K70E?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/introductory-guide-to-the-amazfit-bip-a-top-pick-for-budget-friendly-smartwatches/"><u>Introductory Guide to the Amazfit Bip: A Top Pick for Budget-Friendly Smartwatches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-total-war-warhammer-ii-key-solutions-for-eliminating-runtime-issues/"><u>Mastering TOTAL WAR: WARHAMMER II - Key Solutions for Eliminating Runtime Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-overcoming-the-perplexing-loading-hurdle-in-minecraft/"><u>Troubleshooting Tips: Overcoming the Perplexing 'Loading' Hurdle in Minecraft</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-how-to-prevent-and-fix-modern-warfare-2-crashes-on-windows/"><u>Ultimate Guide: How to Prevent and Fix Modern Warfare 2 Crashes on Windows</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-gamers-guides-essential-tips-for-recording-riveting-races/"><u>[New] In 2024, Gamers' Guides Essential Tips for Recording Riveting Races</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ioneering-creativity-youtubes-playground-for-talent-for-2024/"><u>[New] Pioneering Creativity YouTube's Playground for Talent for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-shoot-exceptional-igtv-video-content-with-mobile-and-professional-cameras/"><u>[Updated] In 2024, Shoot Exceptional IGTV Video Content with Mobile & Professional Cameras</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-instantly-retire-your-digital-diaries-fb/"><u>2024 Approved Instantly Retire Your Digital Diaries (FB)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-rethink-your-feed-6-innovative-video-platforms-on-mobile-devices/"><u>2024 Approved Rethink Your Feed 6 Innovative Video Platforms on Mobile Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/division-2-wont-start-top-strategies-to-get-gaming-this-year/"><u>Division 2 Won't Start? Top Strategies to Get Gaming This Year!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-enhanced-productivity-learn-to-record-your-mac-screen/"><u>In 2024, Enhanced Productivity Learn to Record Your Mac Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-infinix-smart-7-hd-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Infinix Smart 7 HD Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://driver-download.techidaily.com/newest-nvidia-rtx-2080-graphics-drivers-available-now-compatible-with-win10-win7-and-win8/"><u>Newest NVIDIA RTX 2080 Graphics Drivers Available Now - Compatible with Win10, Win7 & Win8</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-paladins-game-crash-comprehensive-troubleshooting-guide/"><u>Resolving the Paladins Game Crash : Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-poco-f5-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Poco F5 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://program-issues.techidaily.com/successfully-resolving-star-wars-galaxies-the-old-republic-swtor-initialization-failures/"><u>Successfully Resolving Star Wars Galaxies The Old Republic (SWTOR) Initialization Failures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solving-pc-instability-with-elite-dangerous/"><u>Troubleshooting and Solving PC Instability with Elite Dangerous</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-why-your-pcs-nox-app-cant-stay-open-and-solutions/"><u>Troubleshooting Guide: Why Your PC's Nox App Can't Stay Open & Solutions</u></a></li>
 </ul></div>
 

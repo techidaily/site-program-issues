@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps When Your MSI Dragon Centre Stops Responding
-date: 2024-09-11T22:06:22.389Z
-updated: 2024-09-16T19:42:30.928Z
+date: 2024-09-19T18:04:11.826Z
+updated: 2024-09-21T20:20:39.965Z
 tags:
   - win11
   - win10
@@ -84,10 +84,10 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-35-03.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  After the process is complete, click**Optimize** .
@@ -95,13 +95,6 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 **4)** Launch the game to test your issue.
 
 Your game still freezes? Try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Lower in-game graphics settings
 
@@ -113,22 +106,29 @@ Your game still freezes? Try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-39-18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Under the DISPLAY tab, go to**Graphics Quality > Preset** to **Medium** or **Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-31-55.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Click**Confirm** on the bottom-right corner of your screen to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-41-10.jpg)
 
 If your issue persists, then move on to the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Turn off unnecessary programs
 
@@ -167,16 +167,21 @@ If your issue persists, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unlocking-your-cameras-screen-recording-features/"><u>[New] 2024 Approved Unlocking Your Camera's Screen Recording Features</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/comprehensive-guide-to-utilizing-telegram-web-services-for-2024/"><u>Comprehensive Guide to Utilizing Telegram Web Services for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-to-successfully-start-persona-n3-reload-when-it-wont-open/"><u>Expert Tips to Successfully Start Persona N3 Reload When It Won't Open</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-error-code-0xc0000022-a-step-by-step-guide-for-resolving-adobes-launch-issues/"><u>Fixing Error Code 0xC0000022: A Step-by-Step Guide for Resolving Adobe's Launch Issues</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-recording-with-precision-perfecting-ios-device-features-on-youtube/"><u>In 2024, Recording with Precision Perfecting iOS Device Features on YouTube</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/insightful-examination-of-wirecast-and-its-peers/"><u>Insightful Examination of WireCast & Its Peers</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/stepwise-strategy-creating-effective-youtube-subscriber-buttons/"><u>Stepwise Strategy Creating Effective YouTube Subscriber Buttons</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-fixing-the-issue-of-logitech-g-hub-malfunction-on-windows/"><u>Troubleshooting Tips: Fixing the Issue of Logitech G Hub Malfunction on Windows</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/troubleshooting-tips-smoothly-watching-mov-files-on-chrome/"><u>Troubleshooting Tips: Smoothly Watching MOV Files on Chrome</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unveiling-the-powerhouse-designer-an-in-depth-review-of-the-dell-xps-laptop-model-9640/"><u>Unveiling the Powerhouse Designer – An In-Depth Review of the Dell XPS Laptop, Model 9640</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-how-do-i-explore-every-shared-piece-by-friends-on-messages/"><u>[Updated] How Do I Explore Every Shared Piece by Friends on Messages?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-depth-analysis-cutzone-pro-review-unveiled-for-2024/"><u>[Updated] In-Depth Analysis CutZone Pro Review Unveiled for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-effective-fixes-to-ensure-your-airpods-connect-stably-with-only-one-device-at-a-time/"><u>6 Effective Fixes to Ensure Your AirPods Connect Stably with Only One Device at a Time</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/a-detailed-guide-to-crop-your-video-for-instagram/"><u>A Detailed Guide to Crop Your Video for Instagram</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/enhancing-user-experience-with-azure-speech-transcription-tools/"><u>Enhancing User Experience with Azure Speech Transcription Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-pc-instability-in-madden-2nolution-solutions-for-a-smooth-experience/"><u>Fixing PC Instability in Madden 2Nolution: Solutions for a Smooth Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-address-and-solve-vanguards-uninitialized-problem-on-valorant/"><u>How to Address and Solve Vanguard's Uninitialized Problem on Valorant</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-whatsapps-voice-exchange/"><u>In 2024, Navigating WhatsApp's Voice Exchange</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-iphone-14-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on iPhone 14</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-smooth-playthroughs-of-f1-2021-solutions-to-common-pc-issues/"><u>Mastering Smooth Playthroughs of F1 2021: Solutions to Common PC Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723002371951-nier-gestaltreplicant-stability-improved-no-more-system-crashes/"><u>NieR: Gestalt/Replicant Stability Improved - No More System Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-playback-problems-in-robocop-rogue-city-how-to-get-it-running-smoothly-on-your-computer/"><u>Resolving Playback Problems in RoboCop: Rogue City – How to Get It Running Smoothly on Your Computer</u></a></li>
+<li><a href="https://facebook.techidaily.com/todays-champions-of-facebook/"><u>Today's Champions of Facebook</u></a></li>
+<li><a href="https://program-issues.techidaily.com/trouble-with-discords-screen-mirroring-fix-it-easily-and-effectively/"><u>Trouble with Discord's Screen Mirroring? Fix It Easily & Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-tips-for-fixing-mordhaus-crash-errors/"><u>Ultimate Troubleshooting Tips for Fixing Mordhau's Crash Errors</u></a></li>
 </ul></div>
 

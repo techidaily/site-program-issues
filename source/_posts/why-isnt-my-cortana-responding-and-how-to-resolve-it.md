@@ -1,7 +1,7 @@
 ---
 title: Why Isn't My Cortana Responding and How to Resolve It?
-date: 2024-09-12T21:40:15.570Z
-updated: 2024-09-16T22:03:46.268Z
+date: 2024-09-16T16:11:23.581Z
+updated: 2024-09-21T21:20:14.505Z
 tags:
   - win11
   - win10
@@ -77,23 +77,16 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -104,6 +97,19 @@ This could take several minutes. Wait for the process to be complete.
 ## Fix 4 – Stop overclocking
 
  An unstable overclock will crash your game and the whole system. So, **if you’re overclocking your CPU or GPU, set the clock speed rate back to the default** to see if that resolves the crash issue. If it doesn’t, move on to the fix below.
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5 – Disable unnecessary programs
 
@@ -116,6 +122,13 @@ This could take several minutes. Wait for the process to be complete.
  **Make sure you diable any software overlays (Steam, Discord, Nvidia** **Geforce Experience** ,**etc).**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Restart your game to see if it runs correctly now.
 
@@ -134,10 +147,10 @@ Your game still won’t work correctly? Read on and try Fix 5.
 If the crashing still happens, continue with the next solution below.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 7 – Run the game in Windowed mode
@@ -151,19 +164,6 @@ If the crashing still happens, continue with the next solution below.
 **2)** Copy **%localappdata%Frontier DevelopmentsElite DangerousOptionsGraphics** and paste it into the text box, then press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-10-56.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Double-click**DisplaySettings.xml** to open the file.
 
@@ -192,16 +192,20 @@ If the crashing still happens, continue with the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-srt-demystified-in-depth-analysis-and-tips/"><u>[New] In 2024, SRT Demystified In-Depth Analysis and Tips</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-guide-to-earning-through-youtubing-enabling-monetization-on-mobile-devices/"><u>[Updated] The Ultimate Guide to Earning Through YouTubing Enabling Monetization on Mobile Devices</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ai-i-apologize-for-the-confusion-but-it-seems-there-was-a-typo-in-my-previous-response-here-are-5-corrected-and-improved-seo-titles-suitable-for-google-sear295/"><u>AI: I Apologize for the Confusion, but It Seems There Was a Typo in My Previous Response. Here Are 5 Corrected and Improved SEO Titles Suitable for Google Search Engine that Convey Similar Meanings to Download Toshiba Copier Drivers in Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-maximizing-graphics-card-usage-for-cyberpunk-2077-on-windows-11-solution/"><u>Guide: Maximizing Graphics Card Usage for Cyberpunk 2077 on Windows 11 (Solution)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-available-memory-shortage-in-god-of-war-easy-fixes/"><u>How to Overcome Available Memory Shortage in God of War: Easy Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-frame-rate-dips-in-battlefield-2042-for-a-smoother-pc-gaming-experience/"><u>How to Resolve Frame Rate Dips in Battlefield 2042 for a Smoother PC Gaming Experience</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Realme Narzo 60x 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-6-best-nft-services-for-creative-geniuses/"><u>In 2024, The Ultimate Guide to 6 Best NFT Services for Creative Geniuses</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/top-10-blenders-perfect-audio-soundscape-selection/"><u>Top 10 Blenders Perfect Audio Soundscape Selection</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/top-5-secret-story-viewers-tools-for-2024/"><u>Top 5 Secret Story Viewers' Tools for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-excellent-apps-for-streamlined-igtv-vertical-cuts/"><u>[New] 2024 Approved Excellent Apps for Streamlined IGTV Vertical Cuts</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-boost-your-channels-income-understanding-critical-view-thresholds/"><u>[New] Boost Your Channel's Income Understanding Critical View Thresholds</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-peer-to-peer-fb-video-grabber/"><u>[Updated] Peer-to-Peer FB Video Grabber</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-star-citizen-windows-errors-with-these-expert-solutions/"><u>Eliminate Star Citizen Windows Errors with These Expert Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-your-experience-by-minimizing-delay-and-maximizing-frames-per-second-fps-in-fall-guys/"><u>Enhance Your Experience by Minimizing Delay and Maximizing Frames per Second (FPS) in Fall Guys</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-resolving-constant-pc-system-crashes-in-the-latest-game-release/"><u>Fixes and Solutions: Resolving Constant PC System Crashes in the Latest Game Release</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-13-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 13</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Infinix Smart 7 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-drama-drafting-method/"><u>In 2024, Quick Drama Drafting Method</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-lag-eradicate-call-of-duty-warzone-directx-glitch-in-four-quick-steps/"><u>No More Lag! Eradicate Call of Duty: Warzone DirectX Glitch in Four Quick Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-game-interruptions-resolving-persistent-kicks-in-genshin-impact-pc-version/"><u>Say Goodbye to Game Interruptions: Resolving Persistent Kicks in Genshin Impact PC Version</u></a></li>
+<li><a href="https://program-issues.techidaily.com/skyrim-speed-hacks-elevate-your-adventure-by-accelerating-gameplay/"><u>Skyrim SPEED HACKS: Elevate Your Adventure by Accelerating Gameplay</u></a></li>
+<li><a href="https://blog-min.techidaily.com/why-fedora-linux-didnt-work-out-for-me-a-personal-review/"><u>Why Fedora Linux Didn't Work Out For Me – A Personal Review</u></a></li>
 </ul></div>
 

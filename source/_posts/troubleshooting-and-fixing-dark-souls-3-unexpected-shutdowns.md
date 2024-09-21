@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Fixing Dark Souls 3 Unexpected Shutdowns
-date: 2024-09-10T19:12:56.977Z
-updated: 2024-09-16T21:26:14.589Z
+date: 2024-09-14T17:24:41.808Z
+updated: 2024-09-21T16:06:36.785Z
 tags:
   - win11
   - win10
@@ -62,6 +62,19 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 
  Your problem still persists, don’t worry. There are other solutions.
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your video driver
 
  Many players have reported that the graphics card driver may be the culprit to the crashing issue, and updating the graphics driver helps resolve the problem. So you should update your graphics card driver to the latest version.
@@ -87,15 +100,28 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-707.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Once your driver has been updated, restart your computer.
 
 Now launch Dark Souls 3 and see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Set game options to LOW
 
@@ -105,13 +131,6 @@ Now launch Dark Souls 3 and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-709.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you can’t access the in-game settings, try this:
 
  1) On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box.
@@ -120,19 +139,6 @@ If you can’t access the in-game settings, try this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Open**DarkSouls3** folder.
 
  4) Open**GraphicsConfig.xml** with notepad.
@@ -140,13 +146,6 @@ If you can’t access the in-game settings, try this:
  5) Change the game effect settings to Low, especially for**Effects quality** ,**Shadow quality** , and**Light quality** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-711.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6) Save your file changes and restart your game.
 
@@ -171,6 +170,13 @@ Then play your game to see if it works properly.
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-705.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
 
@@ -197,17 +203,12 @@ Then play your game to see if it works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-achieving-youtube-apex-with-smart-management-tools/"><u>[New] In 2024, Achieving YouTube Apex with Smart Management Tools</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-chordcatcher-software-insight/"><u>[New] In 2024, ChordCatcher Software Insight</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-boosting-zoom-clarity-the-guide-to-using-filters-wisely/"><u>[Updated] 2024 Approved Boosting Zoom Clarity The Guide to Using Filters Wisely</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-saber-stability-issues-heres-how-you-can-stop-the-game-from-crashing/"><u>Beat Saber Stability Issues? Here's How You Can Stop the Game From Crashing!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-tricks-stop-terraria-from-crashing/"><u>Fixes & Tricks: Stop Terraria From Crashing</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/harmony-haven-gather-download-and-dissect-audio/"><u>Harmony Haven Gather, Download & Dissect Audio</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-connectivity-handbook-for-insta-and-tik/"><u>In 2024, The Ultimate Connectivity Handbook for Insta & Tik</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-your-easy-guide-to-youtube-downloads-on-idevices/"><u>In 2024, Your Easy Guide to YouTube Downloads on iDevices</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-make-your-videos-epic-how-to-add-slow-motion-in-windows-live-movie-maker/"><u>New In 2024, Make Your Videos Epic How to Add Slow Motion in Windows Live Movie Maker</u></a></li>
-<li><a href="https://fox-access.techidaily.com/premium-live-video-conferencing-systems-for-2024/"><u>Premium Live Video Conferencing Systems for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-the-cannot-load-asset-issue-error-4201-in-genshin-impact-tips-and-tricks/"><u>Troubleshooting the 'Cannot Load Asset' Issue (Error #4201) in Genshin Impact: Tips and Tricks</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-quick-fixes-to-fasten-tiktok-video-speed-for-2024/"><u>[New] Quick Fixes to Fasten TikTok Video Speed for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007116441-solved-origin-wont-load-quickly-and-easily/"><u>[SOLVED] Origin Won’t Load | Quickly & Easily</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-gastronomy-gurus-the-elite-of-food-vlogs/"><u>2024 Approved Gastronomy Gurus The Elite of Food Vlogs</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/how-to-purge-personal-youtube-history-records/"><u>How to Purge Personal YouTube History Records</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-video-not-working-errors-on-firefox-for-a-smooth-viewing-experience/"><u>Resolving Video Not Working Errors on Firefox for a Smooth Viewing Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/untangling-the-mystery-of-lego-star-wars-the-skywalker-sagas-pc-crash-problem/"><u>Untangling the Mystery of Lego Star Wars: The Skywalker Saga's PC Crash Problem</u></a></li>
 </ul></div>
 

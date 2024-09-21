@@ -1,7 +1,7 @@
 ---
 title: Get the Best Gaming Experience in Forza Horizon 5 with Updated Drivers
-date: 2024-09-10T16:38:28.666Z
-updated: 2024-09-16T18:07:15.135Z
+date: 2024-09-14T17:48:09.008Z
+updated: 2024-09-21T19:07:15.682Z
 tags:
   - win11
   - win10
@@ -83,13 +83,6 @@ If the lagging issue persists, try the next fix.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
@@ -113,22 +106,8 @@ If the lagging issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-09-27.jpg)
 4. Click **Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-10-08.jpg)
 5. Scroll down to see if Forza Horizon 5 is on the exception list. If so, that means the game is allowed through your firewall, and you can [jump to the next fix](https://tools.techidaily.com/drivereasy/download/) . If you can’t find Forza Horizon 5 in the exception list, follow the steps below to unblock the game.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Add Forza Horizon 5 to the exception list
 
@@ -137,25 +116,25 @@ If the lagging issue persists, try the next fix.
 2. Click **Browse** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-09-14_13-11-21.jpg)
 3. Navigate to Forza Horizon 5 game folders and add the game executable to the list.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Find Forza Horizon 5 on the list,**tick the checkbox of Private network** , and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14-1.jpg)  
  This will ensure your firewall won’t block Forza Horizon 5 when you’re using a private network, for example, your home Wi-Fi. For safety reasons, we recommend you only select the private network, but you’re welcome to allow the game through all types of networks if needed.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If the lagging issue persists, try the next fix.
 
@@ -166,6 +145,13 @@ If the lagging issue persists, try the next fix.
 1. Press**Ctrl** and**Shift** and**Esc** on the keyboard to open Task Manager.
 2. Go to the**Details** tab. Right-click Forza Horizon 5 and**set the priority to high** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-49-09.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this fix doesn’t help with your problem, try the next fix.
 
@@ -200,10 +186,25 @@ Here’s how to do it:
 2. Click**Change adapter options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -240,21 +241,18 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-get-ready-to-win-more-with-this-purely-gratis-voice-modifier/"><u>[Updated] In 2024, Get Ready to Win More with This Purely Gratis Voice Modifier</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-capturing-your-device-a-comprehensive-screen-recording-guide/"><u>2024 Approved Capturing Your Device A Comprehensive Screen Recording Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-rapid-clip-maker-with-preloaded-narration-option/"><u>2024 Approved Rapid Clip Maker with Preloaded Narration Option</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005827510-fix-your-total-war-warhammer-ii-glitches-with-these-proven-methods/"><u>Fix Your TOTAL WAR: WARHAMMER II Glitches with These Proven Methods</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-your-game-on-how-to-troubleshoot-when-monster-hunter-rise-doesnt-load/"><u>Get Your Game On! How To Troubleshoot When Monster Hunter Rise Doesn’t Load</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723003948697-if-switching-entirely-begin-with-a-gradual-transition-rather-than-an-abrupt-change/"><u>If Switching Entirely, Begin with a Gradual Transition Rather than an Abrupt Change</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-oneplus-11-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does OnePlus 11 5G Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-12-pro-max-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 12 Pro Max Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-gta-v-the-troubleshooting-guide-for-game-freezes-and-crashes/"><u>Solving GTA V: The Troubleshooting Guide for Game Freezes & Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722994116911-solving-your-diablo-immortal-troubles-no-more-pc-freezes/"><u>Solving Your Diablo Immortal Troubles – No More PC Freezes !</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/streamlining-support-interaction-ai-and-whatsapp-integration-guide/"><u>Streamlining Support Interaction: AI & WhatsApp Integration Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-sound-problems-during-powerpoint-slideshow/"><u>Troubleshooting Sound Problems During PowerPoint Slideshow</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-call-of-duty-warzone-disc-read-issues-errors-50-and-31-on-windows/"><u>Troubleshooting Steps for Call of Duty: Warzone 'Disc Read' Issues (Errors 5.0 and 3.1) on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fix-for-apex-legends-game-errors-boost-your-playtime-without-glitches/"><u>Ultimate Fix for 'Apex Legends' Game Errors – Boost Your Playtime Without Glitches</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-latest-top-darth-vader-voice-generators-for-all-platforms/"><u>Updated 2024 Approved Latest Top Darth Vader Voice Generators for All Platforms</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-easy-game-capture-top-3-methods-for-2024/"><u>Updated Easy Game Capture Top 3 Methods for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-accessible-and-quality-the-best-10-online-passport-photo-tools-revealed/"><u>[New] 2024 Approved Accessible & Quality The Best 10 Online Passport Photo Tools Revealed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-becoming-the-ultimate-streamer-on-youtube-and-twitch-using-obs/"><u>[New] In 2024, Becoming the Ultimate Streamer on YouTube and Twitch Using OBS</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-cyber-escapades-the-evolution-of-leisayers-realm/"><u>2024 Approved Cyber Escapades The Evolution of Leisayer's Realm</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-weave-webcomic-wonders-with-giphy/"><u>2024 Approved Weave Webcomic Wonders with Giphy</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-nokia-c22-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Nokia C22</u></a></li>
+<li><a href="https://fox-http.techidaily.com/assessing-xbox-live-server-stability-check-for-gamers-now/"><u>Assessing Xbox Live: Server Stability Check for Gamers Now</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-the-2021-m1-powered-apple-macbook-pro-16-a-top-choice-for-tech-enthusiasts/"><u>Comprehensive Analysis of the 2021 M1 Powered Apple MacBook Pro 16 - A Top Choice for Tech Enthusiasts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-resident-evil-village-performance-problems-on-pc-comprehensive-guide/"><u>Fixing Resident Evil Village Performance Problems on PC - Comprehensive Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simple-steps-unlinking-your-microsoft-account-from-windows-10-a-complete-guide/"><u>Simple Steps: Unlinking Your Microsoft Account From Windows 10 - A Complete Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-repair-intels-driver-and-support-tool-issues/"><u>Troubleshooting Guide: How to Repair Intel's Driver & Support Tool Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-your-phasmophobia-vr-stops-responding/"><u>Troubleshooting Steps When Your Phasmophobia VR Stops Responding</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fix-for-far-cry-6s-black-screen-issue-expert-advice-included/"><u>Ultimate Fix for Far Cry 6'S Black Screen Issue – Expert Advice Included</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Tormented Souls PC Glitches - Crash-Free Gaming Experience Guaranteed!
-date: 2024-09-12T18:21:56.961Z
-updated: 2024-09-16T19:04:18.783Z
+date: 2024-09-19T21:47:43.713Z
+updated: 2024-09-21T16:21:01.211Z
 tags:
   - win11
   - win10
@@ -72,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/abf0a7346439822b348738b1d89007d2223b683ac
 
  If verifying game files didn’t help your case, simply check out the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Install all Windows updates
 
  There’re 2 types of system updates in Windows 10, one addresses security and compatibility issues and another provides a regular feature update.**Keeping you system up to date** could help you avoid loads of stranger things.
@@ -82,6 +89,13 @@ You can use these steps to check for Windows updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click **Check for updates** . Windows will automatically download and install all the available updates. This might take up to an hour depending on your Internet speed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In some cases, you might need to check several times to get all the updates. Simply repeat these steps until it prompts**You’re up to date** when you click**Check for updates** .
 
@@ -115,13 +129,6 @@ If the crash happens again, you can take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -130,13 +137,6 @@ If the crash happens again, you can take a look at the next fix.
  Once you’ve updated your graphics driver, restart your PC and test the gameplay in Assassin’s Creed Valhalla.
 
  If the driver update doesn’t do the trick for you, simply continue to the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Lower in-game graphics settings
 
@@ -152,16 +152,10 @@ If the crash happens again, you can take a look at the next fix.
  If this trick failed to solve your problem, you can move on to the next one.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Disable peripherals
@@ -170,16 +164,16 @@ If the crash happens again, you can take a look at the next fix.
 
  If disabling peripherals doesn’t work for you, or you’re not using any at the first place, you can take a look at the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Check the launcher log
 
  If you’re a tech-savvy player, one effective way to troubleshoot is to check the**launcher\_log.txt** after crashing. The default location to find your log files is:**C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\logs** . In the file named**launcher\_log.txt** , you should see what happened exactly. Check if the crash involves certain game files. If yes, delete them and run a**Scan and Repair** to re-download the latest files.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Assassin’s Creed Valhalla
 
@@ -204,20 +198,18 @@ If the crash happens again, you can take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-how-to-turn-off-igtv/"><u>[New] How to Turn Off IGTV?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-enjoy-games-not-glitches-use-nvidia/"><u>[New] In 2024, Enjoy Games, Not Glitches - Use NVIDIA</u></a></li>
-<li><a href="https://program-issues.techidaily.com/addressing-and-correcting-ark-disruptions-a-step-by-step-guide-to-resolution/"><u>Addressing and Correcting ARK Disruptions: A Step-by-Step Guide to Resolution</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-ways-to-lower-your-computers-cpu-load-during-a-zoom-call/"><u>Effective Ways to Lower Your Computer's CPU Load During a Zoom Call</u></a></li>
-<li><a href="https://games-able.techidaily.com/explore-timeless-titles-playing-nintendo-on-ios/"><u>Explore Timeless Titles: Playing Nintendo on iOS</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-hardware-driver-on-windows-10-by-drivereasy-guide/"><u>How to Manually Install a Hardware Driver on Windows 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-and-resolve-fifa-2-section-1-problem-as-the-theme-question-theme-question/"><u>How to Prevent and Resolve FIFA 2 # Section 1: Problem as the Theme Question (Theme Question)</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-see-someones-location-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>How to See Someones Location on Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-xiaomi-redmi-13c-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Xiaomi Redmi 13C 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Life360 Notify When You Log Out On Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-content-warning-barriers-in-your-voice-chat-experience/"><u>Overcoming 'Content Warning' Barriers in Your Voice Chat Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-ultimate-fixes-for-critical-unreal-engine-4-setbacks-in-tales-of-arise/"><u>The Ultimate Fixes for Critical Unreal Engine 4 Setbacks in Tales of Arise</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-guide-to-eliminate-league-of-legends-black-screen-tips/"><u>Ultimate Troubleshooting Guide to Eliminate League of Legends' Black Screen - Tips</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725290582493-winx-dvd-copy-pro-dvdisodvd/"><u>WinX DVD Copy Pro: 即座にダウンロードできる公式ソフト - DVD/ISOイメージ/DVDフォルダー用簡単なコピーツール</u></a></li>
-<li><a href="https://program-issues.techidaily.com/world-of-tanks-blitz-stability-issues-heres-how-to-stop-the-game-from-crashing/"><u>World of Tanks Blitz Stability Issues? Here's How to Stop the Game From Crashing</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-essential-techniques-in-youtube-movie-production/"><u>[Updated] Essential Techniques in YouTube Movie Production</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-securing-snapshots-across-android-and-mac-platforms/"><u>[Updated] Securing Snapshots Across Android and Mac Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/avoid-the-frustration-of-days-gone-crashes-in-2e4-expert-fix-solutions-revealed/"><u>Avoid the Frustration of 'Days Gone' Crashes in 2E4: Expert Fix Solutions Revealed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cult-of-the-lamb-stability-hacks-no-more-pc-disruptions/"><u>Cult of the Lamb Stability Hacks - No More PC Disruptions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/enhancing-your-aesthetic-vision/"><u>Enhancing Your Aesthetic Vision</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005599902-facing-continuous-game-crashes-in-the-ascent-on-your-desktop-we-can-help/"><u>Facing Continuous Game Crashes in The Ascent on Your Desktop? We Can Help</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/google-meet-live-streaming-for-beginners-stepwise-guide-to-youtube-for-2024/"><u>Google Meet Live-Streaming for Beginners Stepwise Guide to YouTube for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-xiaomi-civi-3-disney-100th-anniversary-edition-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Xiaomi Civi 3 Disney 100th Anniversary Edition to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-deskjet-3755-all-in-one-printer-freshest-driver-version-available-for-windows-users/"><u>HP Deskjet 3755 All-In-One Printer: Freshest Driver Version Available for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/restore-auditory-bliss-in-fallout-4-pc-version-with-these-easy-hacks/"><u>Restore Auditory Bliss in Fallout 4 PC Version with These Easy Hacks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revive-your-stuck-rust-programs-2024-strategies/"><u>Revive Your Stuck Rust Programs: 2024 Strategies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-success-rainbow-six-siege-starts-without-problem/"><u>Troubleshooting Success! Rainbow Six Siege Starts Without Problem</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-edit-mp4-videos-on-windows-8-a-simple-guide-for-2024/"><u>Updated Edit MP4 Videos on Windows 8 A Simple Guide for 2024</u></a></li>
 </ul></div>
 

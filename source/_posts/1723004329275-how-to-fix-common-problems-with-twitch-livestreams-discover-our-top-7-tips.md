@@ -1,7 +1,7 @@
 ---
 title: How to Fix Common Problems With Twitch Livestreams - Discover Our Top 7 Tips!
-date: 2024-08-06T09:47:20.839Z
-updated: 2024-08-07T09:47:20.839Z
+date: 2024-09-19T20:38:35.553Z
+updated: 2024-09-21T18:31:27.549Z
 tags:
   - win11
   - win10
@@ -38,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8
 Here’s how to restart it:
 
 1. Unplug your modem (and your router, if it’s a separate device) from the power socket.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg) (a modem)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png) (a router)
 2. Wait **60 seconds**  for your modem (and your router) to cool off.
@@ -62,16 +59,10 @@ Here’s how to restart it:
 3. Click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
  Or, you can click the Update button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/06/de-uodate-all.jpg)
 
 **The Pro version of Driver Easy**  comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3 Change your DNS settings
 
  DNS (Domain Name System) is like an address book for the internet – it translates domain names to IP addresses so your device can load the correct website or server. Sometimes DNS issues cause errors or failed loading, so changing your DNS settings to alternate DNS servers can resolve the problem by routing your requests differently. Switching DNS provides a fresh lookup and mapping of domain names to IPs, allowing streams to connect successfully.
@@ -80,26 +71,32 @@ To fix this, you can try using Google Public DNS. Here’s how:
 
 1. On your keyboard, press the **Windows logo key** and **R** on your keyboard at the same time to invoke the Run box.
 2. Type “ncpa.cpl” and press **Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-386.png)
 3. Right click your Internet connection (**Ethernet** for wired connection or **Wi-Fi** for wireless), then select **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-387.png)
 4. Double click **Internet Protocol Version 4 (TCP/IPv4)** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-388.png)
 5. Select **Use the following DNS server addresses** , fill in the Google Public DNS addresses (**8.8.8.8** for **Preferred DNS server** and **8.8.4.4** for **Alternate** ), and then click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-389.png)
 6. Click **OK** .
 7. Restart your computer as well as your router/modem.
 
  Now check to see if this helps you load Twitch streams. If yes, then congrats! If the black screen persists, please try Fix 4, below.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4 Clear cache and cookies
 
@@ -109,18 +106,20 @@ Clear cache and cookies in Google Chrome:
 
 1. Open Google Chrome.
 2. In the top right corner of your screen, click the **three-vertical-dots** icon > **More tools > Clear browsing data…**  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![clear browsing data](https://images.drivereasy.com/wp-content/uploads/2017/10/clear-browsing-data.png)
 3. Click **Clear data** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cleardata.png)
 4. Restart Google Chrome.
-5. Open Twitch and see if you can play the streaming content properly. If it still doesn’t do the trick, please continue with **Fix 5** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Open Twitch and see if you can play the streaming content properly. If it still doesn’t do the trick, please continue with **Fix 5** , below.
+
 ## Fix 5 Disable browser extensions
 
  Ad blockers and other browser extensions can interfere with Twitch’s functionality and cause streams not to load. Disabling them temporarily can help resolve the issue. Follow the steps below to disable ad blockers and extensions in Google Chrome:
@@ -131,9 +130,6 @@ Clear cache and cookies in Google Chrome:
 3. Disable any ad blockers or extensions that you have installed by clicking the toggle switch next to them.
 4. Restart Google Chrome. If disabling browser extensions doesn’t help with the situation, please try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 6 Use VPN to change your IP address
 
  You won’t be able to visit Twitch if you are trying to open the website in a country without access to Twitch, as it isn’t readily available in some locations. Fortunately, there is a simple and reliable solution to this problem. Using a**VPN (Virtual Private Network)** will help you “mask” your IP to make it appear as though it’s coming from a country where Twitch is allowed.
@@ -149,18 +145,27 @@ Here’s how to use it:
 
  NordVPN’s**30-day money-back guarantee** allows you to test run the service for as long as 30 days – if you’re not 100% satisfied, refund anyway.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 7 Launch in safe mode
 
  If the problem continues to appear even after applying the above workarounds, we recommend launching the app in safe mode. Here’s how to do it:
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. Press **Win** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) **+R** keys to open the **Run** dialog.
 2. Type “**msconfig** ” in the search box and press Enter to open **System Configuration** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 3. Click the **Boot** tab, enable **Safe Boot** and the**Network** option, and then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/safe-mode.jpg)
@@ -173,11 +178,27 @@ Here’s how to use it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/clipsing-fears-in-your-first-10-videos/"><u>[New] Eclipsing Fears in Your First 10 Videos</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-a-compreenas-guide-to-producing-slow-motion-content-with-photos-and-internet/"><u>[New] In 2024, A Compreenas Guide to Producing Slow Motion Content with Photos & Internet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-lead-with-originality-10-tips-to-make-your-yt-shorts-shine/"><u>[New] In 2024, Lead With Originality 10 Tips to Make Your YT Shorts Shine</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unleashing-your-gaming-potential-with-fbx/"><u>[Updated] Unleashing Your Gaming Potential with FBX</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-screens-and-servers-exploring-the-deceased-webs-impact-on-your-digital-identity/"><u>Beyond Screens and Servers: Exploring the Deceased Web's Impact on Your Digital Identity</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-error-27711-in-call-of-duty-black-ops-cold-war-guide-and-tips/"><u>Fixing Error 27711 in Call of Duty: Black Ops Cold War - Guide & Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-why-does-mount-and-blade-ii-bannerlord-keep-crashing/"><u>Fixing the Issue: Why Does Mount & Blade II: Bannerlord Keep Crashing?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improved-gaming-experience-with-fix-to-pacific-crash-in-call-of-duty-warzone/"><u>Improved Gaming Experience with Fix to Pacific Crash in Call of Duty: Warzone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-dual-failures-in-pc-usage-effective-strategies-for-resolving-concurrent-crashes/"><u>Mastering Dual Failures in PC Usage - Effective Strategies for Resolving Concurrent Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-performance-fixing-issues-with-new-pokemon-unite-game-crashes-on-desktop-pcs/"><u>Optimizing Performance - Fixing Issues with New 'Pokémon Unite' Game Crashes on Desktop PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-game-lags-techniques-for-enhancing-your-fps/"><u>Solving Game Lags : Techniques for Enhancing Your FPS</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/workforce-evolution-gpts-impact-on-employment/"><u>Workforce Evolution: GPT's Impact on Employment?</u></a></li>
+</ul></div>
+

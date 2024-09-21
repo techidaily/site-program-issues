@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Graphics Hurdles: Addressing the 'DirectX' Problem on FIFA 20 Console Game"
-date: 2024-09-09T19:01:11.630Z
-updated: 2024-09-16T20:32:26.119Z
+date: 2024-09-15T19:34:02.465Z
+updated: 2024-09-21T19:21:19.135Z
 tags:
   - win11
   - win10
@@ -99,6 +99,13 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Driver-Easy-Scan-screen.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Update-drivers.jpg)  
 
@@ -118,7 +125,21 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 4. In RAMMap, click**Empty** and select**Empty Standby List** to clear your standby memory. This action would instantly restore free memory.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap832.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch Forza Horizon 4 after you clear your standby memory. If the game doesn’t crash, congratulations! You’ve fixed this problem. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 5: Disable your microphone for Forza Horizon 4**
 
@@ -131,6 +152,13 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 3. Restart your Windows system and launch Forza Horizon 4 again.
 
  See if you resolved this problem. If it still keeps crashing, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 6: Reset Forza Horizon 4**
 
@@ -145,13 +173,6 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap836.png)
 3. Click **Reset** to reset **Forza Horizon 4**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap837.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch Forza Horizon 4 to see if you fixed this issue. If this issue reappears, try the next fix, below.
 
@@ -175,13 +196,6 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 
 ###
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 9: Update your Windows system to the latest version**
 
  Sometimes the crash issue may occur if your Windows system is not the latest version. try updating your Windows system to the latest version and this issue may get resolved. Here is how to do it:
@@ -204,28 +218,8 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap841.png)
 3. Select the **Startup**  tab and click **Open Task Manager**  .  
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap843.png)
 4. On the **Startup**  tab in **Task Manager** , for **each**  startup item, select the item and then click   **Disabled**  .  
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap844.png)
 5. Go back to the **System Configuration**  window and click   **OK**  .  
@@ -249,15 +243,15 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap848.png)
 3. Open the**Microsoft** **Store**  app. In the search bar, type **f** **orza horizon 4** and click the **Search**  button.  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap850.png)
 4. Select the game you purchased before to start installing the game.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch the game to see if it will still keep crashing. Hopefully, you will be able to resolve this annoying issue by reinstalling the game.
 
@@ -282,16 +276,17 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-your-brand-explore-these-10-essential-youtube-creators/"><u>[New] 2024 Approved Elevate Your Brand Explore These 10 Essential YouTube Creators</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/busting-through-obstacles-the-broccoli-crash-issue-resolved-in-destiny-2-pre-2024-update/"><u>Busting Through Obstacles: The Broccoli Crash Issue Resolved in Destiny 2 Pre-2024 Update</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/economical-pc-playback-devices/"><u>Economical PC Playback Devices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-cod-vanguard-error-code-0x00001338-n-for-pc-complete-solutions/"><u>Fixing CoD Vanguard Error Code 0X00001338 (N) for PC: Complete Solutions</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-complete-examination-unboxing-logitechs-ultimate-4k-webcam/"><u>In 2024, Complete Examination Unboxing Logitech’s Ultimate 4K Webcam</u></a></li>
-<li><a href="https://fox-that.techidaily.com/navigating-the-pitfalls-how-to-overcome-ios-gift-sending-hurdles/"><u>Navigating the Pitfalls: How to Overcome iOS Gift Sending Hurdles</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-the-beat-engineers-companion-selecting-from-among-the-top-8-daw-tools-for-todays-urban-music-masters-for-2024/"><u>New The Beat Engineers Companion Selecting From Among the Top 8 DAW Tools for Todays Urban Music Masters for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-start-up-glitches-in-pathfinder-wrath-of-the-righteeous-a-guide-to-successful-launching/"><u>Overcoming Start-Up Glitches in Pathfinder: Wrath of the Righteeous - A Guide to Successful Launching</u></a></li>
-<li><a href="https://program-issues.techidaily.com/sharpening-graphics-in-call-of-duty-warzone-on-pc-a-step-by-step-fix/"><u>Sharpening Graphics in Call of Duty: Warzone on PC - A Step-by-Step Fix</u></a></li>
-<li><a href="https://program-issues.techidaily.com/starting-your-city-planning-journey-fixing-cities-skylines-2-initialization-woes/"><u>Starting Your City Planning Journey: Fixing Cities: Skylines 2 Initialization Woes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-instagrams-unusual-video-display-the-explanation/"><u>[New] Instagram's Unusual Video Display The Explanation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-comedy-canvas-painting-laughter-with-top-10-video-concepts/"><u>[Updated] 2024 Approved Comedy Canvas Painting Laughter with Top 10 Video Concepts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-how-to-ensure-fortnites-warzone-uses-gpu-in-windows-11/"><u>Fix: How to Ensure Fortnite's Warzone Uses GPU in Windows 11</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-leading-tools-for-instantaneous-gif-to-video-transformation/"><u>In 2024, Leading Tools for Instantaneous GIF to Video Transformation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/movavi-gifjpg/"><u>Movaviで簡単なオンライン画像フォーマット変更 - GIFからJPGへの無料変換</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-performance-to-tackle-fps-fluctuations-in-call-of-duty-modern-warfare-2-for-windows-players/"><u>Optimizing Performance to Tackle FPS Fluctuations in Call of Duty: Modern Warfare 2 for Windows Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-call-of-duty-warzone-crashing-issues-on-pc-a-complete-guide/"><u>Overcoming Call of Duty: Warzone Crashing Issues on PC – A Complete Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-epsons-lack-of-print-feature/"><u>Overcoming Epson's Lack of Print Feature</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-for-smoothing-out-v-ray-stutters-during-pc-rendering-process/"><u>Step-by-Step Troubleshooting for Smoothing Out V-Ray Stutters During PC Rendering Process</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-pick-review-nulaxy-km18-bluetooth-radio-for-your-ride-legacy-edition-analysis/"><u>Top Pick Review: Nulaxy KM18 Bluetooth Radio for Your Ride - Legacy Edition Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/trasforma-i-tuoi-video-mp4-in-file-audio-mp3-gratis-con-il-miglior-convertitore-windows-10/"><u>Trasforma I Tuoi Video MP4 in File Audio MP3 Gratis Con Il Miglior Convertitore Windows 10</u></a></li>
 </ul></div>
 

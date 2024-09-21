@@ -1,7 +1,7 @@
 ---
 title: How to Restore Google Meet Video Capabilities When Your Camera Won't Work
-date: 2024-09-14T20:22:12.662Z
-updated: 2024-09-16T21:04:13.014Z
+date: 2024-09-18T21:51:13.334Z
+updated: 2024-09-21T22:26:14.448Z
 tags:
   - win11
   - win10
@@ -99,18 +99,31 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/betas.png)
 4. Once the previous version of the game is installed, restore the game saves by copying them back into the game’s save folder.
 
- Nevertheless, corrupted or missing system files lead to bad gaming experiences and unstable computer usage as well. If you want to do a thorough check and repair, keep reading on.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Nevertheless, corrupted or missing system files lead to bad gaming experiences and unstable computer usage as well. If you want to do a thorough check and repair, keep reading on.
 
 ## Fixes for corrupted system files
 
  Factors resulting in corrupted system files involves power outage, system crash, hard disk problem and others. Check the following fixes to grapple with this issue.
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1 — Command line repair
 
@@ -121,15 +134,23 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 2. Copy and paste`**sfc /scannow**` and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/2023-10-25_11-11-39.png)
 3. This will begin the scan and wait for it to complete the verification and repair.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Alternatively, if you can want to view details of the SFC process, copy and paste the following command and press Enter. You will find a file named**sfcdetails.txt** on your desktop.  
 ` **findstr /c:"[SR]" %windir%\Logs\CBS\CBS.log >"%userprofile%\Desktop\sfcdetails.txt"** `  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/2023-10-27_11-39-40.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2 — Automatic system repair
@@ -143,29 +164,16 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 3. At the end of the scan, a summary of the issues detected will show up. Click**Star Repair** to fix them (and you’ll need to pay for the full version which comes with a**60-day money-back** guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After the repairs, restart your computer and the game to check for improvement.
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 — Restore file version
 
@@ -174,13 +182,6 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 1. Right-click on the file or folder and click**Restore previous versions** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/restore-win-11-version.jpg)
 2. Select a version and click**Restore** .  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win10-pv-restore.png)
 
@@ -206,18 +207,16 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-eliminating-watermarks-from-your-stock-collections/"><u>[New] Eliminating Watermarks From Your Stock Collections</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-mixing-music-into-your-instagram-visuals-for-2024/"><u>[New] Mixing Music Into Your Instagram Visuals for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-maximizing-insights-with-twitter-archive-analysis-for-2024/"><u>[Updated] Maximizing Insights with Twitter Archive Analysis for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/decode-and-fix-destiny-2s-centipede-error-for-a-smooth-gameplay-experience/"><u>Decode and Fix Destiny 2'S Centipede Error for a Smooth Gameplay Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-guide-upgrading-and-repairing-older-version-minecraft-drivers/"><u>Expert Guide: Upgrading and Repairing Older Version Minecraft Drivers</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723006987917-how-to-fix-game-lagging-on-pc-2024-tips/"><u>How to Fix Game Lagging on PC - 2024 Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-unloading-textures-in-fortnites-battle-royale-mode/"><u>How to Fix Unloading Textures in Fortnite's Battle Royale Mode?</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-restore-access-to-your-steam-social-circle/"><u>How To Restore Access to Your Steam Social Circle</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/in-2024-youtubes-first-visual-hook-creating-personalized-thumbnails/"><u>In 2024, YouTube's First Visual Hook Creating Personalized Thumbnails</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-gamers-rejoice-pathfinders-latest-patch-resolves-freezing-issues/"><u>PC Gamers Rejoice! Pathfinder's Latest Patch Resolves Freezing Issues.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-nstep-guide-reactivating-logitechs-software-features-on-your-windows-machine/"><u>Step-by-nStep Guide: Reactivating Logitech's Software Features on Your Windows Machine</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-reducing-latency-while-playing-dota-nd4-latest-techniques-unveiled/"><u>Ultimate Guide to Reducing Latency While Playing Dota nD4: Latest Techniques Unveiled</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-flavorful-frontier-groundbrenant-title-strategies-for-food-networks/"><u>[Updated] In 2024, Flavorful Frontier Groundbrenant Title Strategies for Food Networks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-for-initializing-hitman-3-on-windows-platforms/"><u>Fixes and Solutions for Initializing Hitman 3 on Windows Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-network-connectivity-error-in-lost-ark-game/"><u>Fixing Network Connectivity Error in Lost Ark Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/flight-simulator-x-wont-start-heres-how-you-can-fix-that-problem-on-pc/"><u>Flight Simulator X Won't Start? Here's How You Can Fix That Problem on PC</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-piecing-together-an-epic-tiktok-conclusion/"><u>In 2024, Piecing Together an Epic TikTok Conclusion</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-the-potential-of-chatgpt-through-its-advanced-custom-instruction-set/"><u>Leveraging the Potential of ChatGPT Through Its Advanced Custom Instruction Set</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/melhores-utilitarios-para-transformar-seus-dvds-em-mp4-no-mac-e-windows-deste-ano-202n-top-10-listados/"><u>Melhores Utilitários Para Transformar Seus DVDs Em MP4 No Mac E Windows Deste Ano (202N): Top 10 Listados</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamlessly-update-your-lenovo-thinkpad-t420-with-the-newest-windows-driver-software-expert-instructions-here/"><u>Seamlessly Update Your Lenovo ThinkPad T420 with the Newest Windows Driver Software - Expert Instructions Here!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/simplified-streaming-solutions-for-the-solo-broadcayer-for-2024/"><u>Simplified Streaming Solutions for the Solo Broadcayer for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transform-viewership-elevate-your-live-stream-game-with-just-a-few-supporters/"><u>Transform Viewership Elevate Your Live Stream Game with Just a Few Supporters</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-boosting-frame-rate-for-resident-evil-village-on-pc/"><u>Troubleshooting Tips: Boosting Frame Rate for Resident Evil Village on PC</u></a></li>
 </ul></div>
 

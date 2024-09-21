@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Performance: Unlocking the Best FPS Settings for Modern Warfare"
-date: 2024-09-10T20:56:33.626Z
-updated: 2024-09-16T16:53:50.784Z
+date: 2024-09-14T19:08:08.954Z
+updated: 2024-09-21T17:09:14.292Z
 tags:
   - win11
   - win10
@@ -91,10 +91,10 @@ OR
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Change the power option
@@ -104,13 +104,6 @@ OR
 **1)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Under **View by,** click **Large icons** .
 
@@ -124,14 +117,14 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
- Restart your computer, and then relaunch your game to see if this worked for you.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Restart your computer, and then relaunch your game to see if this worked for you.
 
 ### Method 4: Configure your graphics settings
 
@@ -146,9 +139,23 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-46.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click**Manage 3D settings** , then**Program Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-36.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click the**Add** **button** .
 
@@ -162,24 +169,18 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-41.png)
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### If you’re using an AMD graphics product…
 
 **1)** Right-click**your desktop** , and select**AMD Radeon Settings.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-47.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Click**Gaming** , then**Global Settings** .
 
@@ -188,13 +189,6 @@ OR
 **3)** Modify the settings following the screenshot below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-42-1024x459.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Overclock your GPU
 
@@ -225,13 +219,13 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-how-to-save-video-in-virtual-meetings/"><u>[New] In 2024, How to Save Video in Virtual Meetings</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-brand-consistency-in-action-inserting-logoswatermarks-into-videos/"><u>[Updated] 2024 Approved Brand Consistency in Action Inserting Logos/Watermarks Into Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-comprehensive-guide-to-obtaining-visual-assets/"><u>[Updated] Comprehensive Guide to Obtaining Visual Assets</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-top-tier-android-video-and-image-recording-tools-reviewed-for-2024/"><u>[Updated] Top-Tier Android Video & Image Recording Tools Reviewed for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/best-vistas-backgrounds-boosting-live-quality/"><u>Best Vistas Backgrounds Boosting Live Quality</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-for-continuous-team-fortress-2-game-crashes/"><u>Fixes and Solutions for Continuous Team Fortress 2 Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/tips-to-amplify-performance-in-horizon-zero-dawn-boost-fps-and-enjoy-seamless-action/"><u>Tips to Amplify Performance in Horizon Zero Dawn – Boost FPS & Enjoy Seamless Action</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-solving-robocop-rogue-city-game-crashes-on-desktop/"><u>Troubleshooting Steps for Solving RoboCop: Rogue City Game Crashes on Desktop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-snap-camera-no-available-camera-input/"><u>[Solved] Snap Camera No Available Camera Input</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-ignite-your-narratives-complimentary-fb-apps-for-everyday-users-for-2024/"><u>[Updated] Ignite Your Narratives Complimentary FB Apps for Everyday Users for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-elevating-windows-10-photos-visuals-through-personalized-filtersmusic/"><u>2024 Approved Elevating Windows 10 Photos Visuals Through Personalized Filters/Music</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-insights-into-google-maps-performance-on-apple-devices/"><u>Comprehensive Insights Into Google Maps Performance on Apple Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-critical-ark-bug-a-step-by-step-guide/"><u>Fixing the Critical 'Ark' Bug: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-a2-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/hp-printer-driver-download-and-update-for-windows-10-11/"><u>HP Printer Driver Download & Update for Windows 10, 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-hitman-3-unable-to-connect-issue-expert-solutions/"><u>Troubleshooting the 'Hitman 3 Unable to Connect' Issue: Expert Solutions</u></a></li>
 </ul></div>
 

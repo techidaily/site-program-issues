@@ -1,7 +1,7 @@
 ---
 title: "Crash Course Correction: How to Keep Manor Lords Running Smoothly on Windows"
-date: 2024-08-06T09:47:19.292Z
-updated: 2024-08-07T09:47:19.292Z
+date: 2024-09-20T17:45:20.903Z
+updated: 2024-09-21T21:24:01.997Z
 tags:
   - win11
   - win10
@@ -27,9 +27,6 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 4. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Origin and Madden 20](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### Fix 1: Update your device drivers
 
  This problem may occur if you are using the wrong or outdated device drivers. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -42,9 +39,6 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -87,9 +81,6 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
  1) On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
@@ -108,9 +99,6 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Repair Madden 20
 
  The Madden 20 game crash error may also occur if the files are corrupt. So you can repair it in Origin.
@@ -137,6 +125,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Reinstall Origin and Madden 20
 
  If the above steps don’t solve the issue, then it’s likely that the files in Origin or Madden 20 are corrupt. So you can reinstall the client and the game to see if it solves the problem.
@@ -145,17 +140,18 @@ Here are the steps:
 
  1) On your keyboard, press the **Windows logo key** and **R** at the same time, then type **appwiz.cpl** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
  2) In the program list, locate **Origin** , then right-click on it and click**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Locate **Madden 20** and uninstall it too.
 
@@ -179,11 +175,27 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-irresistible-topic-titler-machine/"><u>[New] Irresistible Topic Titler Machine</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypass-nba-2k24s-troublesome-error-727e66ac-comprehensive-guide-to-game-stability-and-performance-enhancements/"><u>Bypass NBA 2K24's Troublesome Error 727E66ac - Comprehensive Guide to Game Stability & Performance Enhancements</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-dutys-black-ops-cold-war-ui-problem-27711-fixed-and-enhanced-for-players/"><u>Call of Duty's Black Ops Cold War - UI Problem #27711: Fixed & Enhanced for Players</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/crafting-perfect-slack-filmo-meeting-experiences/"><u>Crafting Perfect Slack-Filmo Meeting Experiences</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/direct-download-for-updated-nvidia-rtx-2080-graphics-card-software-supported-by-windows-1078/"><u>Direct Download for Updated NVIDIA RTX 2080 Graphics Card Software – Supported by Windows 10/7/8</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-masterclass-building-and-programming-a-versatile-universal-remote/"><u>DIY Masterclass: Building & Programming a Versatile Universal Remote</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-low-fps-problems-while-playing-dying-light-a-comprehensive-guide/"><u>Fixing Low Fps Problems While Playing Dying Light - A Comprehensive Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-players-success-story-overcoming-rainbow-six-extraction-stability-problems/"><u>PC Players' Success Story: Overcoming Rainbow Six Extraction Stability Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-steam-cannot-update-cloud-data-issue/"><u>Resolving the 'Steam Cannot Update Cloud Data' Issue</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/smartphone-browser-showdown-youtube-app-analysis/"><u>Smartphone Browser Showdown YouTube App Analysis</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/streamline-and-enhance-with-these-key-zoom-setup-steps/"><u>Streamline & Enhance with These Key Zoom Setup Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/trouble-with-amazon-prime-streaming-solutions-inside/"><u>Trouble with Amazon Prime Streaming? Solutions Inside!</u></a></li>
+</ul></div>
+

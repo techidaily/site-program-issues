@@ -1,7 +1,7 @@
 ---
 title: How To Prevent Rainbow Six Extraction From Crashing While Playing on Your Computer
-date: 2024-09-10T17:46:29.141Z
-updated: 2024-09-16T18:22:22.758Z
+date: 2024-09-17T16:47:24.698Z
+updated: 2024-09-21T21:34:02.789Z
 tags:
   - win11
   - win10
@@ -56,22 +56,8 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/steam-library-1.jpg)
 2. Right-click**Gas Station Simulator** and select**Properties…** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/steam-properties.jpg)
 3. Navigate to the**LOCAL FILES** tab and select**Verify integrity of game files…** .  
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
@@ -79,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/80c8f2832769bf50662b01ca1e988a4c71933b23e
 Once done, relaunch the game and check if your problem is resolved.
 
 If the crashing issue persists, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Run the game as administrator
 
@@ -88,18 +81,25 @@ If the crashing issue persists, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.jpg)
 2. Navigate to the**Compatibility** tab, then check the box next to**Run this program as an administrator** and click**OK** to save changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-program-as-administrator.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you have done this, restart Steam and try launching the game again to see if your problem has been resolved.
 
 If the crashing issue remains, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -115,33 +115,27 @@ If the crashing issue remains, move on to the next fix.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/rtx660-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your graphics driver, restart your computer and launch Gas Station Simulator to see if the game crashes again.
 
  If updating your graphics driver doesn’t work for you, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Check your antivirus settings
 
@@ -193,20 +187,21 @@ If the crashing issue remains, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-infographic-mind-numbing-youtube-factsfigures-and-statistics-2017/"><u>[New] Infographic - Mind Numbing YouTube Facts,Figures and Statistics 2017</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-innovative-windows-10-cameras-unveiled-for-2024/"><u>[New] Innovative Windows 10 Cameras Unveiled for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-giggle-engineer-apocalyptic-comic-relief/"><u>[Updated] Giggle Engineer Apocalyptic Comic Relief</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypass-nba-2k24s-troublesome-error-727e66ac-comprehensive-guide-to-game-stability-and-performance-enhancements/"><u>Bypass NBA 2K24's Troublesome Error 727E66ac - Comprehensive Guide to Game Stability & Performance Enhancements</u></a></li>
-<li><a href="https://program-issues.techidaily.com/call-of-dutys-black-ops-cold-war-ui-problem-27711-fixed-and-enhanced-for-players/"><u>Call of Duty's Black Ops Cold War - UI Problem #27711: Fixed & Enhanced for Players</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722901173130-exploring-the-hottest-imessage-game-selection-of-2024-our-picks/"><u>Exploring The Hottest iMessage Game Selection of 2024: Our Picks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-low-fps-problems-while-playing-dying-light-a-comprehensive-guide/"><u>Fixing Low Fps Problems While Playing Dying Light - A Comprehensive Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Vivo X100 Pro? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-speedy-instagram-media-consumption-strategies/"><u>In 2024, Speedy Instagram Media Consumption Strategies</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-the-complete-guide-to-video-editing-with-windows-movie-maker/"><u>New In 2024, The Complete Guide to Video Editing with Windows Movie Maker</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-players-success-story-overcoming-rainbow-six-extraction-stability-problems/"><u>PC Players' Success Story: Overcoming Rainbow Six Extraction Stability Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-steam-cannot-update-cloud-data-issue/"><u>Resolving the 'Steam Cannot Update Cloud Data' Issue</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-unlocking-the-secrets-of-hardware/"><u>Tom's Tech Insights: Unlocking the Secrets of Hardware</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-techniques-to-combat-high-ping-and-lag-in-chivalry-ii-enhance-your-gaming-performance-now-2024-insights/"><u>Top Techniques to Combat High Ping & Lag in Chivalry II - Enhance Your Gaming Performance Now (2024 Insights)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/trouble-with-amazon-prime-streaming-solutions-inside/"><u>Trouble with Amazon Prime Streaming? Solutions Inside!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/kof-xv-on-pc-how-to-enjoy-seamless-gameplay-after-fixing-the-notorious-bugs/"><u>'KOF XV on PC': How to Enjoy Seamless Gameplay After Fixing the Notorious Bugs</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-twittickle-your-personalized-toolkit-for-cutest-tweets/"><u>[New] 2024 Approved TwitTickle Your Personalized Toolkit for Cutest Tweets</u></a></li>
+<li><a href="https://games-able.techidaily.com/2024s-most-stylish-and-functional-switch-accessories/"><u>2024'S Most Stylish and Functional Switch Accessories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-effective-methods-to-access-and-utilize-the-gpeditmsc-open-group-policy-editor-on-windows-10/"><u>5 Effective Methods to Access and Utilize the gpedit.msc Open Group Policy Editor on Windows 10</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordability-meets-simplicity-in-our-expert-review-of-the-z-edge-z3plus-dash-camera/"><u>Affordability Meets Simplicity in Our Expert Review of the Z-Edge Z3+ Dash Camera</u></a></li>
+<li><a href="https://network-issues.techidaily.com/eradicate-unseen-sims-screen/"><u>Eradicate Unseen Sims Screen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-halo-infinite-pc-game-crashes-complete-guide/"><u>Fix Your Halo Infinite PC Game Crashes: Complete Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-apex-legends-game-crash-troubleshooting-common-engine-issues/"><u>Fixing the Apex Legends Game Crash: Troubleshooting Common Engine Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/getting-past-the-starting-gate-strategies-to-fix-fall-guys-from-crashing-on-launch/"><u>Getting Past the Starting Gate: Strategies to Fix Fall Guys From Crashing on Launch</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-iphone-13-pro-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From iPhone 13 Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/modern-warfare-3-mw3-keeps-crashing-on-pc-easy-fixes/"><u>Modern Warfare 3 (MW3) Keeps Crashing on PC - Easy Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-crashes-solved-issues-with-team-fortress-2-stability/"><u>No More Crashes: Solved Issues with Team Fortress 2 Stability</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-launch-problems-in-evil-genius-2-for-an-optimal-gaming-experience/"><u>Overcoming Launch Problems in Evil Genius 2 for an Optimal Gaming Experience</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/splice-video-editor-for-mac-free-download-and-start-creating/"><u>Splice Video Editor for Mac Free Download and Start Creating</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-16-from-vivo-x100-pro-to-other-android-devices-data-transfer-apps-to-switch-phone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 16 from Vivo X100 Pro to Other Android Devices Data Transfer Apps to Switch Phone Easily | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-oppo-k11-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Oppo K11 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

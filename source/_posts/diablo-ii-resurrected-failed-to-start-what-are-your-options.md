@@ -1,7 +1,7 @@
 ---
 title: Diablo II Resurrected Failed to Start – What Are Your Options?
-date: 2024-09-15T18:55:00.386Z
-updated: 2024-09-16T20:14:33.595Z
+date: 2024-09-18T19:55:30.324Z
+updated: 2024-09-21T19:51:52.466Z
 tags:
   - win11
   - win10
@@ -83,6 +83,13 @@ If you don’t know how to find your PC specs, take the steps below.
 
  When Starfield or any other game fails to launch, outdated or incompatible graphics drivers can often be a leading cause of the problem. To ensure that your system is equipped with the latest software to support your game’s requirements, enhance performance, and maintain compatibility, you should**update your graphics drivers** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1: Manually update graphics drivers
 
  You can update your graphics driver by clicking on the link below based on your exact graphics card model. Then find the latest driver, and follow the on-screen instructions to download and install it for your system.
@@ -117,13 +124,6 @@ Below is the simple three-step guide.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/11/Update-AMD-Radeon-RX-6700-XT-with-Driver-Easy-no-version-info.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
 After driver updates, it’s a good practice to reboot your device.
@@ -142,18 +142,24 @@ To download and install the latest Windows updates, take these steps:
 
 ![Windows 11 check for Windows updates](https://images.drivereasy.com/wp-content/uploads/2022/04/win11-Windows-Update-Check-for-updates.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### On Windows 10
 
  Press the**Windows logo + I keys** simultaneously to open Settings. Then go to**Update & Security > Windows Update** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/windows-update-2.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Disable antivirus and firewall
 
@@ -172,20 +178,33 @@ To temporarily disable the Windows Firewall:
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-windows-features-on-or-off.png)
 4. Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network, and Public network. Then click **OK** .  
 
-![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-firewall.png)
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-firewall.png)
 
 To temporarily turn off your antivirus software:
 
 1. In the system tray, look for your antivirus.
 2. Right-click it and find an option to disable or pause protection.
 3. Then launch Starfield and see if it works.
+
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Verify the integrity of game files (Steam users)
 
@@ -200,19 +219,6 @@ To temporarily turn off your antivirus software:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-verify-the-integrity-of-game-files-on-Starfield.png)
 5. Steam will verify the game’s files – this process may take several minutes. When the process is complete, try to launch Starfield and see if it works.
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Update the Xbox and Gaming Services apps
 
@@ -233,16 +239,10 @@ Follow the steps below to do this.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/Xbox-status.png)
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Uninstall and reinstall the game
@@ -300,20 +300,21 @@ Below is how you can benefit from the use of Fortect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-the-art-of-self-care-with-asmr-sounds/"><u>[New] Mastering the Art of Self-Care with ASMR Sounds</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-speedy-instagram-content-mobile-and-online-solutions/"><u>[New] Speedy Instagram Content Mobile & Online Solutions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-building-engagement-the-role-of-youtube-shorts-template-design-for-2024/"><u>[Updated] Building Engagement The Role of YouTube Shorts Template Design for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-essential-steps-in-using-streamlabs-obs-successfully-for-2024/"><u>[Updated] Essential Steps in Using Streamlabs OBS Successfully for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bioshock-2-the-ultimate-edition-with-game-changing-fixes-and-refreshments/"><u>BioShock 2: The Ultimate Edition with Game-Changing Fixes & Refreshments</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/deciphering-genuine-connections-in-social-networks/"><u>Deciphering Genuine Connections in Social Networks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005383441-error-2024-strikes-again-a-deep-dive-into-the-latest-hitch-in-cyberpunk-2077/"><u>Error 2024 Strikes Again! A Deep Dive Into the Latest Hitch in Cyberpunk 2077.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-getting-farming-simulator-ampler-to-start-properly/"><u>Expert Tips: Getting Farming Simulator Ampler to Start Properly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/imessage-on-the-go-expert-instructions-for-texting-from-your-ipad/"><u>IMessage on the Go: Expert Instructions for Texting From Your iPad</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-samsung-gear-360-top-alternative-cameras-2023-edition/"><u>In 2024, Samsung Gear 360 Top Alternative Cameras 2023 Edition</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-follow-up-formula-climbing-to-1k-monthly-instagram-likes/"><u>In 2024, The Follow-Up Formula Climbing to 1K Monthly Instagram Likes</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-unveiling-virtual-horizons-a-deep-dive-into-6-metaverse-cases/"><u>In 2024, Unveiling Virtual Horizons A Deep Dive Into 6 Metaverse Cases</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722993912665-resolve-the-black-ops-cold-war-visual-bug-code-27711-with-easy-steps/"><u>Resolve the Black Ops: Cold War Visual Bug Code [27711] with Easy Steps!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-video-not-working-errors-on-firefox-for-a-smooth-viewing-experience/"><u>Resolving Video Not Working Errors on Firefox for a Smooth Viewing Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-fixing-unexpected-shutdowns-in-final-fantasy-xiv-for-windows-users/"><u>Troubleshooting: Fixing Unexpected Shutdowns in Final Fantasy XIV for Windows Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premiere-scenarios-in-eight-movie-types/"><u>[New] Premiere Scenarios in Eight Movie Types</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-ultimate-list-the-best-vr-game-advancements-for-2024/"><u>[New] Ultimate List The Best VR Game Advancements for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-explore-these-14-fascinating-text-based-animations/"><u>[Updated] 2024 Approved Explore These 14 Fascinating Text-Based Animations</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-capturing-live-gaming-decide-on-obsshadowplay-for-2024/"><u>[Updated] Capturing Live Gaming - Decide on OBS/ShadowPlay for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-driving-engagement-from-few-followers-to-million-views/"><u>2024 Approved Driving Engagement From Few Followers to Million Views</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-enhance-engagement-with-squared-up-social-media-content/"><u>2024 Approved Enhance Engagement with Squared-Up Social Media Content</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/a-step-by-step-guide-resolving-gtfo-related-errors/"><u>A Step-by-Step Guide: Resolving GTFO Related Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elite-gamers-guide-maximize-performance-with-these-6-fixes-for-low-fps-on-escape-from-tarkov/"><u>Elite Gamer's Guide: Maximize Performance with These 6 Fixes for Low FPS on Escape From Tarkov</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fortnite-lag-solved-top-techniques-for-smooth-gameplay-experience/"><u>Fortnite Lag Solved: Top Techniques for Smooth Gameplay Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-obs-stop-recording-problems-successfully-tips-and-tricks/"><u>How to Fix OBS Stop Recording Problems Successfully - Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-for-when-origin-fails-to-load-get-back-online-now/"><u>Quick Solutions for When Origin Fails to Load - Get Back Online Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-your-downloading-woes-utorrent-not-responding-here-are-7-smart-ways-to-fix-it/"><u>Solve Your Downloading Woes: Utorrent Not Responding? Here Are #7 Smart Ways to Fix It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-rainbow-six-sieges-voice-communication-issues-in-2n24/"><u>Troubleshooting Guide: Fixing Rainbow Six Siege's Voice Communication Issues in 2N24</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-palworlds-eos-login-mishaps-top-6-solutions/"><u>Troubleshooting Palworld's EOS Login Mishaps: Top 6 Solutions</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-unleash-the-fun-top-10-free-game-download-sites-for-pc-android-and-more/"><u>Updated In 2024, Unleash the Fun Top 10 Free Game Download Sites for PC, Android, and More</u></a></li>
 </ul></div>
 

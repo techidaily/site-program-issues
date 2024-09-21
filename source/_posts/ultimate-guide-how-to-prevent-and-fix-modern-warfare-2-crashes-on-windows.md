@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: How to Prevent and Fix Modern Warfare 2 Crashes on Windows"
-date: 2024-09-15T16:57:43.038Z
-updated: 2024-09-16T17:03:28.290Z
+date: 2024-09-16T20:15:38.837Z
+updated: 2024-09-21T23:07:37.773Z
 tags:
   - win11
   - win10
@@ -90,10 +90,10 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 3. Select the**Display** tab. In the Device section, you’ll see your graphics card’s name and manufacturer.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/graphics-card-name-and-manufacturer-new.jpg)
@@ -105,6 +105,19 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 * [NVIDIA](http://www.nvidia.com/drivers)
 * [AMD](http://www.amd.com/drivers)
 * [Intel](http://downloadcenter.intel.com/)
+
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Update your graphics driver automatically (recommended)
 
@@ -135,10 +148,10 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 3. Under the **Processes**  tab, right-click on each of the applications you don’t necessarily use while playing the game and select**End task** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
@@ -162,19 +175,6 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/task-manager-set-affinity.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/set-affinity-to-CPU-0-1-2-3.jpg)
 
  Don’t know how many cores your CPU has? Simply go to the**Performance** tab on the Task Manager. Then you’ll see the number of cores in your processor.
@@ -194,6 +194,14 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Dyling-Light-2-enable-accelerated-high-gpu-scheduling.png)
 3. Then go to your game’s installation folder and add the exe file to the list.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Now click on the**Options** button.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/enable-hardware-acceleration-modern-warfare-2.jpg)
@@ -209,13 +217,6 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 
 * [Steam](https://tools.techidaily.com/drivereasy/download/)
 * [Battle.net](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### On Steam
 
@@ -239,13 +240,6 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 
 If that doesn’t make any difference, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Tweak in-game settings
 
  Sometimes, the settings by default may not be tailored to your rigs. You can adjust them and check if that can give you a performance boost. Simply open your game settings and make the following adjustments.
@@ -257,6 +251,13 @@ If that doesn’t make any difference, try the next fix below.
 * Under the QUALITY section
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/modern-warfare-2-quality-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 8\. Run a full scan of your PC
 
@@ -291,21 +292,20 @@ If that doesn’t make any difference, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-effective-ways-to-watch-multiple-youtube-videos-at-one-time-for-2024/"><u>[Updated] Effective Ways to Watch Multiple YouTube Videos at One Time for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-progopro-sessions-four-meets-five/"><u>[Updated] ProGoPro Sessions Four Meets Five</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-from-novice-to-pro-the-complete-creator-hub-guide/"><u>2024 Approved From Novice to Pro The Complete Creator Hub Guide</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-motorola-g54-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Motorola G54 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortless-remedies-to-resolve-world-of-warcraft-instability-issues/"><u>Effortless Remedies to Resolve World of Warcraft Instability Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-problem-why-arent-the-2024-game-finals-launching-expert-advice-inside/"><u>Fixing the Problem: Why Aren't The 2024 Game Finals Launching? Expert Advice Inside!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-hot-40-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Hot 40 Pro to New Android? | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-troubleshoot-and-repair-ps4-freezing-glitches-with-simple-steps/"><u>How To Troubleshoot & Repair PS4 Freezing Glitches With Simple Steps</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-crashing-problems-in-nba-k23-for-pc-learn-our-best-solutions/"><u>Overcome Crashing Problems in NBA ^K23 for PC – Learn Our Best Solutions!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-game-stability-boosters-how-to-prevent-crashes/"><u>PC Game Stability Boosters: How to Prevent Crashes</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-to-fix-battlefield-2042-and-directx-interaction-challenges/"><u>Step-by-Step Solution to Fix Battlefield 2042 and DirectX Interaction Challenges</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-end-of-frustrating-input-delay-in-cyberpunk-2077-solutions-applied/"><u>The End of Frustrating Input Delay in Cyberpunk 2077 - Solutions Applied</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-the-issue-of-witcher-3-not-starting/"><u>Ultimate Guide: Solving the Issue of Witcher 3 Not Starting</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-creating-a-captivating-instagram-cover-for-your-topics-highlight/"><u>[New] 2024 Approved Creating a Captivating Instagram Cover for Your Topics Highlight</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-ensuring-visual-presentation-youtube-shorts-thumbnails-fix/"><u>[New] In 2024, Ensuring Visual Presentation YouTube Shorts Thumbnails Fix</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-your-gameplay-woes-tackling-resident-evil-villages-mouse-issues/"><u>Banish Your Gameplay Woes - Tackling Resident Evil Village's Mouse Issues</u></a></li>
+<li><a href="https://os-tips.techidaily.com/decoding-ocr-functionality-on-ios-devices-insights-into-operations-of-ocr-in-ios-18-and-17/"><u>Decoding OCR Functionality on iOS Devices: Insights Into Operations of OCR in iOS 18 and 17</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-problems-with-clownfish-microphone-modifications-a-step-by-step-guide-to-audio-restoration/"><u>Diagnosing Problems with Clownfish Microphone Modifications: A Step-by-Step Guide to Audio Restoration</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-email-subject-lines-the-chatgpt-way/"><u>Enhancing Email Subject Lines: The ChatGPT Way</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-armored-core-vi-startup-failures-expert-advice-on-getting-fires-of-rubicon-running/"><u>Fixing Armored Core VI Startup Failures - Expert Advice on Getting Fires of Rubicon Running</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-persistent-lag-in-deathloop-for-a-smoother-gaming-experience/"><u>Fixing Persistent Lag in Deathloop for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-not-detectable-issues-with-your-sd-card-easily/"><u>How to Fix 'Not Detectable' Issues with Your SD Card Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/madden-22-persistent-load-screen-problems-solutions-and-fixes/"><u>Madden 22 Persistent Load Screen Problems - Solutions and Fixes</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/mastering-the-kitchen-chaos-an-insightful-overcooked-2-critique/"><u>Mastering the Kitchen Chaos: An Insightful Overcooked! 2 Critique</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-to-get-your-division-2-game-running/"><u>Quick Fixes to Get Your Division 2 Game Running</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/synchronized-screenshots-pc-or-cloud-perfection-for-2024/"><u>Synchronized Screenshots PC or Cloud Perfection for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915169376-the-big-four-of-online-networking-connect-on-facebook-twitter-insta-and-you/"><u>The Big Four of Online Networking: Connect on Facebook, Twitter, Insta & You.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-launch-problems-in-rocket-league-game/"><u>Troubleshooting Launch Problems in Rocket League Game</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot Your Machine: Effective Solutions to Prevent PC Crashes"
-date: 2024-09-12T21:36:33.739Z
-updated: 2024-09-16T22:23:30.387Z
+date: 2024-09-14T16:25:39.020Z
+updated: 2024-09-21T19:18:17.260Z
 tags:
   - win11
   - win10
@@ -67,13 +67,6 @@ The outdated or broken graphics driver often crashes the game.
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Install the latest game patch
 
  The developers of Dirt 5 release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -83,10 +76,10 @@ The outdated or broken graphics driver often crashes the game.
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Disable Steam Overlay
@@ -97,16 +90,16 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
 
@@ -116,6 +109,13 @@ The outdated or broken graphics driver often crashes the game.
 2. In the**GENERAL** section, click **SET LAUNCH OPTIONS…**  
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 `-useallavailablecores -high`
 
@@ -151,17 +151,20 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-revival.techidaily.com/1726027914631-clipchamp/"><u>動画音量調整の専門知識：Clipchampで完璧にする方法</u></a></li>
-<li><a href="https://program-issues.techidaily.com/best-methods-to-solve-rocket-league-failure-to-start-dilemma/"><u>Best Methods to Solve Rocket League Failure to Start Dilemma</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-solutions-for-unstable-persona-4-golden-eliminate-crashing-issues-now/"><u>Expert Solutions for Unstable Persona 4 Golden - Eliminate Crashing Issues Now</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-thrustmaster-t150-stealth-plus-gamepad-up-and-running-fast-driver-downloads/"><u>Get Your Thrustmaster T150 Stealth Plus Gamepad Up and Running - Fast Driver Downloads</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-vivo-y27-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Vivo Y27 5G Phone Screen?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-get-league-of-legends-running-smoothly-again-2024-troubleshooting-guide/"><u>How To Get League of Legends Running Smoothly Again: 2024 Troubleshooting Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-get-the-latest-techkey-bluetooth-adapter-driver-for-windows-11-and-earlier-versions/"><u>How to Get the Latest Techkey Bluetooth Adapter Driver for Windows 11 & Earlier Versions</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-google-pixel-8-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Google Pixel 8 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-prodigy-machines-top-quality-computers-available/"><u>In 2024, Prodigy Machines Top-Quality Computers Available</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-7-plus-passcode-without-a-computer-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 7 Plus Passcode without a Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/successfully-initiating-deathloop-after-previous-failure-tips-and-tricks/"><u>Successfully Initiating Deathloop After Previous Failure - Tips & Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solutions-for-midgard-the-tribal-clashes/"><u>Troubleshooting and Solutions for Midgard: The Tribal Clashes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boost-your-revenue-yielding-earnings-from-youtube-at-500-followers/"><u>[Updated] In 2024, Boost Your Revenue Yielding Earnings From YouTube at 500 Followers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-perfect-pairing-top-ten-kiss-off-classics-at-romances-peak/"><u>2024 Approved Perfect Pairing Top Ten Kiss-Off Classics at Romance's Peak</u></a></li>
+<li><a href="https://program-issues.techidaily.com/anthem-startup-stuck-break-free-from-the-infinite-load-screen-error/"><u>Anthem Startup Stuck? Break Free From the Infinite Load Screen Error.</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apples-masterpiece-unveiled-a-deep-dive-into-the-215-4k-imac-review/"><u>Apple's Masterpiece Unveiled: A Deep Dive Into the 21.5 4K iMac Review!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bioshock-2-enhanced-edition-repairing-glitches-and-improving-gameplay/"><u>BioShock 2 Enhanced Edition - Repairing Glitches & Improving Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-to-stop-red-dead-online-from-crashing-on-your-computer-system/"><u>Expert Advice to Stop Red Dead Online From Crashing on Your Computer System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-your-forza-horizon-4-up-and-running-top-troubleshooting-guide/"><u>Get Your Forza Horizon 4 Up and Running : Top Troubleshooting Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-vivo-x-flip-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Vivo X Flip is off? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-huawei-nova-y91-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Huawei Nova Y91</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-spatial-audio-issues-on-your-pc-with-windows-11-or-10/"><u>Resolving Spatial Audio Issues on Your PC with Windows 11 or 10</u></a></li>
+<li><a href="https://facebook.techidaily.com/telegrams-stellar-performance-amidst-a-social-media-pause/"><u>Telegram's Stellar Performance Amidst a Social Media Pause</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/top-rated-freecorder-clones-get-them-for-free-on-your-pc-or-mac/"><u>Top-Rated Freecorder Clones: Get Them for Free on Your PC or MAC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-your-clownfish-microphone-mod-solutions-for-a-non-functioning-vocal-effect/"><u>Troubleshooting Your Clownfish Microphone Mod: Solutions for a Non-Functioning Vocal Effect</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-resolving-windows-10-failure-to-shut-down-problems-in-under-5-steps/"><u>Troubleshooting: Resolving Windows 10 Failure to Shut Down Problems in Under 5 Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-frame-rate-variations-fortnites-transformation-post-season-8-release/"><u>Understanding Frame Rate Variations - Fortnite's Transformation Post-Season 8 Release</u></a></li>
 </ul></div>
 

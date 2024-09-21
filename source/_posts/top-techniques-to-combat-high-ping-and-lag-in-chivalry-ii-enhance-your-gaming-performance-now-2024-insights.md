@@ -1,7 +1,7 @@
 ---
 title: Top Techniques to Combat High Ping & Lag in Chivalry II - Enhance Your Gaming Performance Now (2024 Insights)
-date: 2024-09-12T16:48:41.417Z
-updated: 2024-09-16T20:38:57.498Z
+date: 2024-09-18T17:13:07.115Z
+updated: 2024-09-21T20:15:16.129Z
 tags:
   - win11
   - win10
@@ -74,19 +74,6 @@ If this method doesn’t work, try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Elden Ring** from the game list and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Select**LOCAL FILES** and click**Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
@@ -101,16 +88,24 @@ If this method doesn’t work, try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. From the game list, right-click Elden Ring and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Untick**Enable the Steam Overlay while in-game** .  
-![](https://images.drivereasy.com/wp-content/uploads/2022/02/steam-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/02/steam-overlay.jpg)
 
 Restart the game and test. Still no luck? Continue to the next fix.
 
@@ -122,35 +117,29 @@ Restart the game and test. Still no luck? Continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Software devices** to open the category.  
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-1.jpg)
 3. Right-click**Microsoft Device Association Root Enumerator** and click**Disable device** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-2.jpg)
 4. Click**Yes** to confirm.  
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-3.jpg)
 
  Test if you has an instant FPS boost. If so, you can enable the device again while you’re not playing the game. If the issue reoccurs, turn the device on and then take a look at the last fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6 – Adjust the NVIDIA settings
 
@@ -161,10 +150,10 @@ Restart the game and test. Still no luck? Continue to the next fix.
 2. Click **3D settings** \> **Manage 3D settings** in the left pane.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4.jpg)
@@ -196,18 +185,18 @@ Restart the game and test. Still no luck? Continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-controlling-who-sees-your-youtube-productions/"><u>[New] In 2024, Controlling Who Sees Your Youtube Productions</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-disconnect-on-snapchat-are-they-blocked-in-2024/"><u>[New] The Disconnect on Snapchat Are They Blocked, In 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-to-follow-tips-for-rectifying-javascript-errors-in-discord-app-development/"><u>Easy-to-Follow Tips for Rectifying JavaScript Errors in Discord App Development</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-etsy-listing-image-ratio-advice/"><u>In 2024, Etsy Listing Image Ratio Advice</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/leaders-in-the-game-tiktoks-top-videographers-for-2024/"><u>Leaders in the Game TikTok's Top Videographers for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-imovie-free-alternatives-top-5-online-video-editors/"><u>New 2024 Approved IMovie Free Alternatives Top 5 Online Video Editors</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/optimal-stabilization-for-mirrorless-with-gimbals-for-2024/"><u>Optimal Stabilization for Mirrorless with Gimbals for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-performance-fix-age-of-empires-iv-freezing-and-lagging-problems/"><u>Optimizing Performance: Fix Age of Empires IV Freezing and Lagging Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722985062023-say-goodbye-to-tormented-souls-pc-glitches-crash-free-gaming-experience-guaranteed/"><u>Say Goodbye to Tormented Souls PC Glitches - Crash-Free Gaming Experience Guaranteed!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-lag-issues-in-avatar-frontiers-of-pandora-a-comprehensive-guide/"><u>Solving Lag Issues in 'Avatar: Frontiers of Pandora' - A Comprehensive Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-on-easy-window-battery-driver-updates-for-better-performance/"><u>Step-by-Step Tutorial on Easy Window Battery Driver Updates for Better Performance</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-your-msi-dragon-centre-stops-responding/"><u>Troubleshooting Steps When Your MSI Dragon Centre Stops Responding</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/zoom-mastery-achieving-precision-in-google-meet-sessions/"><u>Zoom Mastery Achieving Precision in Google Meet Sessions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-ultimate-list-of-text-tools-and-plugins/"><u>[Updated] 2024 Approved Ultimate List of Text Tools & Plugins</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-best-offer-top-business-cloud-solutions-for-2024/"><u>[Updated] Best Offer Top Business Cloud Solutions for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-mac-owners-guide-to-downloading-snapchat/"><u>[Updated] In 2024, Mac Owners' Guide to Downloading Snapchat</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-comprehensive-assessment-of-frozen-treats-on-display/"><u>2024 Approved Comprehensive Assessment of Frozen Treats on Display</u></a></li>
+<li><a href="https://program-issues.techidaily.com/discord-enhancement-glitches-settled-your-chat-app-is-up-to-date-again/"><u>Discord Enhancement Glitches Settled: Your Chat App Is Up-to-Date Again!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/te-your-stream-a-comprehensive-ad-revenue-guide-on-youtube-for-2024/"><u>Elevate Your Stream A Comprehensive Ad Revenue Guide on YouTube for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fix-missing-msodll-error-comprehensive-guidance-and-tips-for-quick-recovery/"><u>Fix Missing mso.dll Error - Comprehensive Guidance & Tips for Quick Recovery</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-microsoft-edge-net-framework-fault-your-complete-guide/"><u>Fixing the Microsoft Edge .NET Framework Fault: Your Complete Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-your-football-manager-2022-fix-addressing-release-troubles-and-solutions/"><u>Get Your Football Manager 2022 Fix - Addressing Release Troubles & Solutions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/optimize-your-memory-perfecting-iphone-album-organization-and-icloud-backup/"><u>Optimize Your Memory Perfecting iPhone Album Organization and iCloud Backup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-users-struggle-resolved-dealing-with-continuous-new-world-game-crashes/"><u>PC Users Struggle: Resolved - Dealing with Continuous 'New World' Game Crashes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/snapshot-preservation-android-and-mac-techniques-for-2024/"><u>Snapshot Preservation Android & Mac Techniques for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-nvidias-geforce-experience-steps-to-get-it-running-smoothly/"><u>Troubleshooting Nvidia's GeForce Experience: Steps to Get It Running Smoothly</u></a></li>
 </ul></div>
 

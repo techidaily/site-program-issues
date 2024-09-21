@@ -1,7 +1,7 @@
 ---
 title: Star Wars Battlefront II Performance Issues Resolved - No More Lags
-date: 2024-09-14T19:22:08.290Z
-updated: 2024-09-16T18:46:24.300Z
+date: 2024-09-16T16:49:00.248Z
+updated: 2024-09-21T18:21:52.954Z
 tags:
   - win11
   - win10
@@ -104,6 +104,13 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Modify the graphics settings
 
  Modifying the graphics settings is another easy fix to boost FPS in the game. You need to modify the graphics settings both in Nvidia Control Panel and in the game.
@@ -114,19 +121,32 @@ thumbnail: https://thmb.techidaily.com/f6e6b4d9497e69403999596a39a3f38ca99f274b0
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel.jpg)
 2. View Control Panel by **Large icons** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Click **NVIDIA Control Panel**  to open it.  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvidia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvida-control-panel-3D-settings.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Lower the in-game graphics settings
 
@@ -148,13 +168,6 @@ See if you can play the game smoothly. If not, try the next fix, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Restrict applications and downloads in the background
 
  The DayZ FPS drops issue may occur if you’re running some other applications or programs at the same time. So **try restricting applications and downloads in the background** before playing the game to see if this issue reappears. Here is how to do it:
@@ -162,6 +175,13 @@ See if you can play the game smoothly. If not, try the next fix, below.
 1. On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open **Task Manager** . You will be prompted for permission. Click **Yes** to open Task Manager.
 2. Select any other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Task-Manager.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Run DayZ again to see if you can play the game smoothly. If the FPS in DayZ still drops, try the next fix, below.
 
@@ -179,13 +199,6 @@ See if you can play the game smoothly. If not, try the next fix, below.
 
 Try the next fix below if this fix didn’t work for you.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Change the power plan of your PC
 
  Most PC are configured to **Balanced** , which may limits the operating capacity of your graphics card and CPU. If the power plan of your PC is **Power saver**  or **Balanced** , you might run into the game FPS drops issue.
@@ -198,16 +211,16 @@ Try the next fix below if this fix didn’t work for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch DayZ to see if you resolve the FPS drops issue. If not, try the next fix below to adjust your Windows system for the best performance.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Adjust your Windows system for the best performance
 
@@ -219,13 +232,6 @@ Try the next fix below if this fix didn’t work for you.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/system-property-window.png)
 3. Select **Adjust for best performance**  and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/adjust-for-best-performance.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch DayZ to see if the FPS drops not mot. If not, congratulations! You’ve fixed this issue.
 
@@ -251,15 +257,20 @@ Try the next fix below if this fix didn’t work for you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-aspect-ratios-in-action-facebooks-video-direction/"><u>[Updated] Aspect Ratios in Action Facebook's Video Direction</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-insightful-evaluation-of-the-latest-lg-360-cam-model/"><u>2024 Approved Insightful Evaluation of the Latest LG 360 Cam Model</u></a></li>
-<li><a href="https://some-tips.techidaily.com/abbyy-embarks-on-a-revolutionary-journey-in-organizing-documents-by-type/"><u>ABBYY Embarks on a Revolutionary Journey in Organizing Documents by Type</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Nokia 105 Classic? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Lava Blaze 2? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-journey-to-downloadability-free-photo-frames-on-demand/"><u>In 2024, Journey to Downloadability Free Photo Frames on Demand</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-your-experience-fixing-low-frame-rates-in-forza-horizon-5-for-pc-gaming/"><u>Optimizing Your Experience: Fixing Low Frame Rates in Forza Horizon 5 for PC Gaming</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722994764250-pathfinder-wrath-of-the-righteous-persistent-crash-problems-now-solved/"><u>Pathfinder: Wrath of the Righteous - Persistent Crash Problems Now Solved</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-how-to-repair-content-warning-in-voice-chats-that-arent-working/"><u>Step-by-Step Solutions: How to Repair 'Content Warning' In Voice Chats That Aren't Working</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-your-gaming-session-from-ending-abruptly-overcoming-continuous-pc-crashes-with-new-titles/"><u>Stop Your Gaming Session From Ending Abruptly: Overcoming Continuous PC Crashes with New Titles</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-alternative-solutions-to-game-bar-recording/"><u>[New] 2024 Approved Alternative Solutions to Game Bar Recording</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-execute-flawless-wirecast-broadcasts-on-youtube/"><u>[Updated] 2024 Approved How to Execute Flawless WireCast Broadcasts on YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-budget-friendly-choices-must-have-gopro-add-ons/"><u>2024 Approved Budget-Friendly Choices Must-Have GoPro Add-Ons</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/beyond-enhanced-graphics-exploring-the-full-potential-of-the-new-playstation-5/"><u>Beyond Enhanced Graphics: Exploring the Full Potential of the New PlayStation 5</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-persistent-errors-and-crashes-in-world-of-tanks-blitz-gameplay/"><u>Effective Fixes for Persistent Errors & Crashes in World of Tanks Blitz Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007990149-fortnite-access-denied-bypass-the-hassle-with-these-tips/"><u>Fortnite Access Denied? Bypass the Hassle with These Tips!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-what-to-do-when-you-encounter-a-missing-msvcr80dll-error/"><u>Guide: What to Do When You Encounter a Missing msvcr80.dll Error</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improve-your-baldurs-gate-gameplay-top-six-tactics-to-overcome-stuttering-and-freezing-challenges/"><u>Improve Your Baldur's Gate Gameplay: Top Six Tactics to Overcome Stuttering and Freezing Challenges</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovation-unleashed-cutting-edge-ar-games-for-2024/"><u>Innovation Unleashed Cutting-Edge AR Games for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-framerate-drops-how-to-optimize-deathloop-on-your-pc/"><u>Overcoming Framerate Drops: How to Optimize Deathloop on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-common-causes-of-and-fixes-for-the-black-screen-problem/"><u>Resolved: Common Causes of and Fixes for the Black Screen Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-strategies-for-reducing-chromes-high-system-resource-usage/"><u>Solution Strategies for Reducing Chrome's High System Resource Usage</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-stealthy-script-understanding-covert-tracking-codes-in-all-your-prints/"><u>The Stealthy Script: Understanding Covert Tracking Codes in All Your Prints</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-game-security-compromise-warning-message/"><u>Troubleshooting the 'Game Security Compromise' Warning Message</u></a></li>
 </ul></div>
 

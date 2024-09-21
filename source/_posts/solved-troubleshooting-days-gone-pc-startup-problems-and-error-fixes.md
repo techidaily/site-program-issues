@@ -1,7 +1,7 @@
 ---
 title: Solved! Troubleshooting Days Gone PC Startup Problems and Error Fixes
-date: 2024-09-15T19:38:21.696Z
-updated: 2024-09-16T16:20:23.764Z
+date: 2024-09-20T20:48:13.088Z
+updated: 2024-09-21T21:27:42.957Z
 tags:
   - win11
   - win10
@@ -62,10 +62,10 @@ No luck? Don’t worry. We have a few more fixes for you.
 3. Click**Apply** \>**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now you can run Resolve to test the issue. If DaVinci Resolve is still not responding, you can head on to the next fix below.
@@ -82,13 +82,21 @@ No luck? Don’t worry. We have a few more fixes for you.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![scan drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/scan-now-5.7.0.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -97,10 +105,10 @@ No luck? Don’t worry. We have a few more fixes for you.
  After updating your drivers, restart your PC and launch your Resolve to check if the issue has been resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5\. Increase the Virtual Memory
@@ -110,6 +118,14 @@ No luck? Don’t worry. We have a few more fixes for you.
 1. On your keyboard, press the**Windows** logo key +**R** key at the same time, and enter**sysdm.cpl** to open system settings.  
 ![command line](https://images.drivereasy.com/wp-content/uploads/2021/11/system-run-commands.jpg)
 2. Go to the**Advanced** tab and select**Settings** under**Performance** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![view the advanced settings](https://images.drivereasy.com/wp-content/uploads/2021/11/advanced.jpg)
 3. Once the Performance Options window is open, go to the**Advanced** tab and select**Change** .  
 ![adjust virtual memory size](https://images.drivereasy.com/wp-content/uploads/2021/11/property-options.jpg)
@@ -150,13 +166,6 @@ No luck? Don’t worry. We have a few more fixes for you.
 
  If DaVinci Resolve won’t launch after removing your antivirus software and disabling your VPN, you can try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 8\. Allow TCP Network Port Access
 
  Another reason why your DaVinci Resolve is not responding is that it lacks access to your TCP ports, which is necessary for your DaVinci Resolve to launch successfully.
@@ -171,19 +180,6 @@ Here’s how to troubleshoot this issue quickly:
    * Navigate to**C:\\Program Files\\Blackmagic Design\\DaVinci Resolve** .  
    * Double click on the**CaptureLogs.bat** file (or right-click and then run as administrator).  
    * It will generate a **log file**  to your desktop –**DaVinci-Resolve-logs-<current time>.zip** .
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 9\. Reinstall DaVinci Resolve
 
@@ -212,20 +208,21 @@ Here’s how to troubleshoot this issue quickly:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/30204431-new-in-2024-short-film-synopsis-must-know-points/"><u>[New] In 2024, Short Film Synopsis Must-Know Points</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-strategies-for-preventing-pc-gaming-disruptions-and-crashes/"><u>Expert Strategies for Preventing PC Gaming Disruptions and Crashes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/explore-the-latest-in-tech-with-toms-hardware-review/"><u>Explore the Latest in Tech with Tom's Hardware Review</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/cash-flow-estimator-apps-for-2024/"><u>Free Cash Flow Estimator Apps for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-enjoy-the-classic-gaming-experience-with-la-noire-for-pc-now-available/"><u>How to Enjoy the Classic Gaming Experience with L.A. Noire for PC – Now Available!</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-xiaomi-redmi-12-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Xiaomi Redmi 12 5G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-unlimited-visual-potential-free-themes-for-channels/"><u>In 2024, Unlimited Visual Potential – Free Themes for Channels</u></a></li>
-<li><a href="https://program-issues.techidaily.com/instantly-resolve-your-black-screen-woes-with-these-6-oculus-link-hacks/"><u>Instantly Resolve Your Black Screen Woes with These 6 Oculus Link Hacks!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/oppo-k11-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Oppo K11 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-bugs-effective-solutions-for-resident-evil-4-reboot-stability-issues/"><u>Overcoming Bugs: Effective Solutions for Resident Evil 4 Reboot Stability Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-issue-troubleshooting-steps-when-warframe-wont-start/"><u>Resolved Issue: Troubleshooting Steps When Warframe Won't Start</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-gaming-experience-with-a-patched-up-a-total-war-saga-troy-for-pc-users/"><u>Smooth Gaming Experience with a Patched-Up A Total War Saga: Troy for PC Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/starcraft-2-troubleshooting-made-easy-overcoming-pc-compatibility-crashes-for-smooth-gaming/"><u>StarCraft 2 Troubleshooting Made Easy: Overcoming PC Compatibility Crashes for Smooth Gaming</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-5-underwater-gopro-accessories/"><u>Top 5 Underwater Gopro Accessories</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unveiling-the-most-innovative-free-video-editors-for-idevices-for-2024/"><u>Unveiling the Most Innovative Free Video Editors for iDevices for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-soothing-stories-in-video-form-insights-and-critiques/"><u>[New] Soothing Stories in Video Form Insights and Critiques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-take-screenshots-on-a-chromebook-in-just-four-ways-for-2024/"><u>[New] Take Screenshots on a Chromebook in Just Four Ways for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-discovering-the-best-streamers-for-real-time-tv/"><u>[Updated] Discovering the Best Streamers for Real-Time TV</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-upload-shorts-video-on-youtube-for-2024/"><u>[Updated] How to Upload Shorts Video on YouTube for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/city-skylines-2-pc-malfunction-remedies-top-tips-for-stability/"><u>City Skylines 2 PC Malfunction Remedies: Top Tips for Stability</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-when-your-paradox-launcher-stops-working-correctly/"><u>Effective Fixes for When Your Paradox Launcher Stops Working Correctly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-outlook-wont-open/"><u>Fix: Outlook Won’t Open</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-anno-1800-game-resolving-persistent-directx-troubles/"><u>Fixing Anno 1800 Game: Resolving Persistent DirectX Troubles</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-voice-chat-glitches-expert-tips-to-restore-mic-functionality-in-call-of-duty-warzone-across-platforms/"><u>Fixing Voice Chat Glitches: Expert Tips to Restore Mic Functionality in Call of Duty Warzone Across Platforms</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/framing-your-story-with-effective-titles-for-2024/"><u>Framing Your Story with Effective Titles for 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-fix-apple-iphone-14-pro-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Fix Apple iPhone 14 Pro Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/las-15-primeras-sustituciones-ideales-a-obs-explicadas-paso-a-paso/"><u>Las 15 Primeras Sustituciones Ideales a OBS Explicadas Paso a Paso</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-cyberpunk-2077-performance-to-reduce-high-cpu-demand/"><u>Optimize Cyberpunk 2077 Performance to Reduce High CPU Demand</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-failed-connection-issue-with-your-local-steam-client/"><u>Resolved: How to Fix 'Failed Connection' Issue with Your Local Steam Client</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009455271-tower-of-fantasy-game-now-stable-fix-for-pc-crashing-glitches-unveiled/"><u>Tower of Fantasy Game Now Stable - Fix for PC Crashing Glitches Unveiled!</u></a></li>
 </ul></div>
 

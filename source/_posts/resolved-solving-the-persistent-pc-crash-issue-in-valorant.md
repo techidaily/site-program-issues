@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Solving the Persistent PC Crash Issue in Valorant"
-date: 2024-09-13T16:27:23.419Z
-updated: 2024-09-16T18:50:47.711Z
+date: 2024-09-17T18:32:16.242Z
+updated: 2024-09-21T22:04:03.290Z
 tags:
   - win11
   - win10
@@ -46,13 +46,6 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 1: Manually update your graphics driver
 
  To update your graphics driver manually, you can go to the official website:
@@ -62,6 +55,13 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
 [Intel](https://downloadcenter.intel.com/product/80939/Graphics)
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics driver (recommended)
 
@@ -86,13 +86,6 @@ Here’s how to update drivers with Driver Easy:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Delete temp files
 
  As the name suggests, temporary files are the kind of files that store temporary data that is created by Windows itself or the programs that users use. They can take up a considerable amount of space and slow down your PC. This can also affect the responsiveness of your programs. To make sure you can run your system smoothly, you should delete those temporary files and it won’t cause any problems.
@@ -115,6 +108,13 @@ Here’s how to update drivers with Driver Easy:
 
  After deleting the temp files, click on the Play button and you should be able to get into the main screen instantly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Disable firewall and antivirus software
 
  Windows firewall or antivirus software can help protect your computer from malware attacks. But sometimes they would block your game from launching or accessing the internet. Therefore, we would suggest you disable those antivirus software and Windows firewall temporarily before launching Among Us:
@@ -125,27 +125,27 @@ Here’s how to update drivers with Driver Easy:
   
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/temporarily-disable-firewall.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) From the left menu, click **Turn Windows Defender Firewall on or off** .  
   
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-windows-features-on-or-off.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network and Public network. Then click **OK** .  
   
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-firewall.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This may put you at greater risk for malware attacks. To be advised, don’t visit any unknown websites. If necessary, repeat the similar steps to turn on the firewall.
 
@@ -172,19 +172,18 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-bridge-the-gap-transferring-files-from-pc-to-ios/"><u>[Updated] Bridge the Gap Transferring Files From PC to iOS</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-demystifying-recmeisters-advanced-screen-capture-technology/"><u>[Updated] Demystifying Recmeister's Advanced Screen Capture Technology</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/common-problems-and-fixes-making-your-blue-yeti-microphone-function-correctly/"><u>Common Problems and Fixes: Making Your Blue Yeti Microphone Function Correctly</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-the-finest-large-screen-laptops-expert-reviews-s-best-17-inch-models/"><u>Discover The Finest Large Screen Laptops - Expert Reviews 'S Best 17-Inch Models</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-errors-on-the-msi-dragon-center-a-step-by-step-guide/"><u>Fixing Errors on the MSI Dragon Center: A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/forza-horizon-4-wont-boot-here-are-the-best-solutions-to-get-you-racing-by-2024/"><u>Forza Horizon 4 Won't Boot? Here Are the Best Solutions to Get You Racing by 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/iphone-12-mini-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone 12 mini Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/leading-sources-for-stunning-sky-hd-imagery-online/"><u>Leading Sources for Stunning Sky HD Imagery Online</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-bg3-pc-freezing-issues-a-step-by-step-guide/"><u>Solving BG3 PC Freezing Issues - A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723009001833-star-citizen-windows-compatibility-improved-no-more-unwanted-crashes/"><u>Star Citizen Windows Compatibility Improved - No More Unwanted Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-preventing-star-citizen-from-crashing-on-pc/"><u>Troubleshooting Tips for Preventing Star Citizen From Crashing on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-cyberpunk-2e77s-pc-crashes-with-easy-fixes/"><u>Ultimate Guide: Resolving Cyberpunk 2E77's PC Crashes with Easy Fixes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unveiling-the-titan-army-p2-27a2r-your-guide-to-affordable-high-performance-gaming-displays-at-180-hz/"><u>Unveiling the Titan Army P2#-27A2R - Your Guide to Affordable High-Performance Gaming Displays at 180 Hz</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-silent-symphony-streamlining-sound-scales-for-enhanced-viewing-experiences/"><u>Updated 2024 Approved Silent Symphony Streamlining Sound Scales for Enhanced Viewing Experiences</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-best-practices-in-youtube-thumbnail-sizes-and-ratios/"><u>[New] 2024 Approved Best Practices in YouTube Thumbnail Sizes and Ratios</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unique-soundscapes-for-your-one-person-show/"><u>[New] Unique Soundscapes for Your One-Person Show</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-smooth-gameplay-and-seamless-recordings-by-nvidia/"><u>[Updated] 2024 Approved Smooth Gameplay & Seamless Recordings by NVIDIA</u></a></li>
+<li><a href="https://program-issues.techidaily.com/anno-1800-and-directx-compatibility-solving-the-game-breaking-glitch/"><u>Anno 1800 & DirectX Compatibility: Solving the Game-Breaking Glitch!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/assemble-visual-media-for-queue-upgrade-for-2024/"><u>Assemble Visual Media for Queue Upgrade for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-vivo-y78plus-t1-edition-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Vivo Y78+ (T1) Edition to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-poco-c55-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Poco C55? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unhindered-movie-enjoyment-no-cost-video-player-pcmac/"><u>In 2024, Unhindered Movie Enjoyment - No Cost VIDEO Player (PC/Mac)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-hl-lags-or-crashes-how-to-stabilize-pc-for-hell-let-loose/"><u>No More HL Lags or Crashes: How to Stabilize PC for Hell Let Loose</u></a></li>
+<li><a href="https://program-issues.techidaily.com/persistent-gaming-pleasure-solutions-to-unanticipated-crashes-in-arise/"><u>Persistent Gaming Pleasure: Solutions to Unanticipated Crashes in Arise</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/resolving-the-silent-issue-fixing-no-audio-in-vlc-media-player-on-windows-10-and-macos/"><u>Resolving the Silent Issue: Fixing No Audio in VLC Media Player on Windows 10 & macOS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-to-disable-cross-device-connection-for-airpods-on-apple-ecosystem/"><u>Step-by-Step Guide to Disable Cross-Device Connection for AirPods on Apple Ecosystem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-solving-mass-effect-legendary-edition-crashes-on-pc-and-xbox/"><u>Troubleshooting Guide: Solving Mass Effect Legendary Edition Crashes on PC and Xbox</u></a></li>
 </ul></div>
 

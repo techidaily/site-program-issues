@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Phasmophobia: Tackling High Processor Usage"
-date: 2024-09-10T15:48:47.788Z
-updated: 2024-09-11T15:48:47.788Z
+date: 2024-09-17T22:50:13.965Z
+updated: 2024-09-21T18:02:18.168Z
 tags:
   - win11
   - win10
@@ -29,20 +29,6 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 | GPU              | NVIDIA GeForce GTX 660 or similar |
 | Storage          | 20 GB                             |
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -63,26 +49,6 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 
 If it’s not working, move to next fix.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 2: Disable overclocking
 
  Are you running any OC software like MSI Afterburner? Shut it down. Don’t make your PC overhot is a way to fix the Chivalry 2 crashing problem. Gamers have reported that after underclocked or disable overclocking software, the game stops crashing.
@@ -94,6 +60,13 @@ If it’s not working, move to next fix.
 3. Restart the game and check.
 
 No luck with this one? Move to the next.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your drivers
 
@@ -124,64 +97,18 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Disable firewall/ antivirus software
 
@@ -193,19 +120,6 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
@@ -224,8 +138,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -235,56 +147,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-crafting-flawless-game-captures-roblox-and-macos-techniques/"><u>[New] 2024 Approved Crafting Flawless Game Captures Roblox & macOS Techniques</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-complete-how-to-embedding-srt-tracks-into-mp4-media-2024/"><u>[New] Complete How-To Embedding SRT Tracks Into MP4 Media 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-mastering-the-skill-how-to-securely-record-on-whatsapp/"><u>[New] Mastering the Skill How to Securely Record on WhatsApp</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-digital-dimensions-metaverse-and-multiverse/"><u>[New] Navigating Digital Dimensions Metaverse and Multiverse</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pinnacle-performance-the-best-8k-camera-technology/"><u>[New] Pinnacle Performance The Best 8K Camera Technology</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-how-to-avoid-common-mistakes-in-nighttime-photography/"><u>[Updated] 2024 Approved How to Avoid Common Mistakes in Nighttime Photography</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-step-by-step-for-launching-your-own-livestream-channel/"><u>[Updated] Step-by-Step for Launching Your Own Livestream Channel</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unleashing-creativity-in-education-making-amazing-videography-a-reality-on-youtube/"><u>[Updated] Unleashing Creativity in Education Making Amazing Videography a Reality on YouTube</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boost-your-battles-in-league-of-legends-fix-that-frustrating-fps-slowdown-now/"><u>Boost Your Battles in League of Legends - Fix That Frustrating FPS Slowdown Now</u></a></li>
-<li><a href="https://extra-information.techidaily.com/cinematic-basics-a-list-of-essential-camera-movements-for-2024/"><u>Cinematic Basics A List of Essential Camera Movements for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/complete-fixes-for-persistent-black-screen-problems-in-zoom-on-pc/"><u>Complete Fixes for Persistent Black Screen Problems in Zoom on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-encounters-critical-error-2-the-year-game-status-explained/"><u>Cyberpunk 2077 Encounters Critical 'Error 2 the Year' - Game Status Explained</u></a></li>
-<li><a href="https://program-issues.techidaily.com/darkest-dungeon-2-pc-stability-issues-solutions-to-stop-the-game-from-crashing/"><u>Darkest Dungeon 2 PC Stability Issues - Solutions to Stop the Game From Crashing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-a-non-functional-paradox-launcher-a-step-by-step-approach/"><u>Diagnosing & Repairing a Non-Functional Paradox Launcher: A Step-by-Step Approach</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhance-playability-in-counter-strike-2-proven-methods-to-address-fps-drops-and-stuttering-on-pc/"><u>Enhance Playability in Counter-Strike 2: Proven Methods to Address FPS Drops and Stuttering on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/euro-truck-simulator-2-pc-crash-troubleshooting-guide/"><u>Euro Truck Simulator 2 PC Crash Troubleshooting Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-terraria-game-stability-best-troubleshooting-tips/"><u>Fix Terraria Game Stability - Best Troubleshooting Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-game-crashes-on-days-gone-expert-advice-for-players-in-202/"><u>Fixing Game Crashes on 'Days Gone': Expert Advice for Players in 202([[[[[]]]]])</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-pc-game-freezes-solutions-for-continuous-crashes-in-valheim/"><u>Fixing PC Game Freezes: Solutions for Continuous Crashes in Valheim</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-unstuck-from-madden-22s-endless-loading-screen-with-these-tips/"><u>Get Unstuck From Madden 22'S Endless Loading Screen with These Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722995370352-how-i-fixed-my-steam-server-connectivity-woes-read-on-for-solutions/"><u>How I Fixed My Steam-Server Connectivity Woes – Read On for Solutions!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improving-call-of-dutys-modern-warfare-3-performance-fixes-for-fps-stuttering/"><u>Improving Call of Duty's Modern Warfare 3 Performance - Fixes for FPS Stuttering</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-a-deep-dive-into-video-platform-wars-tiktok-vs-snapchat/"><u>In 2024, A Deep Dive Into Video Platform Wars TikTok vs Snapchat</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-enhancing-visibility-key-steps-in-social-media-video-marketing/"><u>In 2024, Enhancing Visibility Key Steps in Social Media Video Marketing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/in-depth-analysis-fixing-hitman-3s-elusive-connection-failure-glitch/"><u>In-Depth Analysis: Fixing Hitman 3'S Elusive Connection Failure Glitch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mass-effect-mastered-overcoming-freezing-glitches-on-the-ultimate-collection/"><u>Mass Effect Mastered: Overcoming Freezing Glitches on the Ultimate Collection</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-the-hunt-without-interruptions-resolve-far-cry-6-pc-performance-errors/"><u>Master the Hunt Without Interruptions: Resolve Far Cry 6 PC Performance Errors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-aliens-fireteam-elite-stability-issues-on-pc-for-a-seamless-gameplay-journey/"><u>Mastering 'Aliens: Fireteam Elite' Stability Issues on PC for a Seamless Gameplay Journey</u></a></li>
-<li><a href="https://program-issues.techidaily.com/outriders-bug-squashed-how-to-stop-ue4-madness-and-prevent-unreal-process-crashes/"><u>Outriders Bug Squashed: How to Stop 'UE4-Madness' And Prevent Unreal Process Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-lag-and-crashes-in-call-of-dute-modern-warfare-on-personal-computer-systems/"><u>Overcoming Lag and Crashes in Call of Dute: Modern Warfare on Personal Computer Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-gaming-evolves-as-god-of-wars-thrilling-fps-edition-debuts-online/"><u>PC Gaming Evolves as God of War's Thrilling FPS Edition Debuts Online</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722997721730-phoenix-point-crash-problems-heres-how-you-can-resolve-them-successfully/"><u>Phoenix Point Crash Problems? Here's How You Can Resolve Them Successfully</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722995400090-resolved-problems-with-maplestory-not-loading-how-i-fixed-it/"><u>Resolved Problems with MapleStory Not Loading - How I Fixed It</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-gameplay-interruptions-handling-fifa-19s-pc-malfunctions-with-ease/"><u>Resolving Gameplay Interruptions: Handling FIFA 19'S PC Malfunctions with Ease</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-palworld-eos-login-errors-with-these-6-proven-solutions/"><u>Resolving Palworld EOS Login Errors with These 6 Proven Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/rise-and-fall-of-cyberpunk-2077s-frame-rate-the-impact-of-recent-updates-on-fps/"><u>Rise and Fall of Cyberpunk 2077'S Frame Rate: The Impact of Recent Updates on FPS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/simple-steps-to-tackle-kernelbasedll-crashes-effectively/"><u>Simple Steps to Tackle KernelBase.dll Crashes Effectively</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-driving-awaits-fix-guide-to-get-your-forza-horizon-4-running/"><u>Smooth Driving Awaits: Fix Guide to Get Your Forza Horizon 4 Running</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-your-among-us-pc-voice-chat-problems-a-comprehensive-guide/"><u>Solve Your Among Us PC Voice Chat Problems - A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-how-to-stop-recurring-freezes-during-your-overwatch-matches/"><u>Solved: How To Stop Recurring Freezes During Your Overwatch Matches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-lost-ark-server-connection-issues-effective-strategies-inside/"><u>Solving 'Lost Ark' Server Connection Issues - Effective Strategies Inside!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-stardew-valley-crash-issues-on-your-computer/"><u>Solving Stardew Valley Crash Issues on Your Computer</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/streamline-video-communication-learn-to-add-timely-captions-on-fb-videos/"><u>Streamline Video Communication Learn to Add Timely Captions on FB Videos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-latest-expansion-scoop-on-rainbow-six-siege-new-features-ahead/"><u>The Latest Expansion Scoop on Rainbow Six Siege - New Features Ahead!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-ultimate-guide-to-fixing-a-non-responsive-rockstar-games-launcher-stay-updated-with-the-latest-2amz-solutions/"><u>The Ultimate Guide to Fixing a Non-Responsive Rockstar Games Launcher - Stay Updated with the Latest 2Amz Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723001046158-trouble-with-discords-screen-mirroring-fix-it-easily-and-effectively/"><u>Trouble with Discord's Screen Mirroring? Fix It Easily & Effectively!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-non-functioning-voice-chat-warnings/"><u>Troubleshooting Guide: Resolving Issues with Non-Functioning Voice Chat Warnings</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723002352605-try-simple-recipes-that-require-minimal-preparation-especially-on-busy-days-from-work/"><u>Try Simple Recipes that Require Minimal Preparation, Especially on Busy Days From Work</u></a></li>
-<li><a href="https://fox-info.techidaily.com/turning-tiktok-hits-into-mobile-ringtones-with-ease/"><u>Turning TikTok Hits Into Mobile Ringtones with Ease</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-dota-2s-stuttering-issues/"><u>Ultimate Guide: Solving Dota 2'S Stuttering Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/windows-pc-gamers-guide-lowering-valheim-lag-and-improving-connection/"><u>Windows PC Gamers' Guide: Lowering Valheim Lag and Improving Connection</u></a></li>
-<li><a href="https://program-issues.techidaily.com/winning-over-glitches-permanent-solutions-to-maplestory-crashing-on-windows-10/"><u>Winning Over Glitches: Permanent Solutions to MapleStory Crashing on Windows 10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-iphones-easy-guide-merge-music-and-video-without-spending-a-dime/"><u>[New] 2024 Approved IPhone's Easy Guide Merge Music and Video Without Spending a Dime</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unmasking-momentum-makers-seeking-out-niche-influencers/"><u>[New] Unmasking Momentum Makers Seeking Out Niche Influencers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-code-80asteroids-97-in-cod-black-ops-cold-war-heres-your-ultimate-fix/"><u>Error Code 80Asteroids 97 in COD: Black Ops Cold War? Here's Your Ultimate Fix</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/experience-cutting-edge-web-tracking-with-our-state-of-the-art-cookiebot-powered-platform/"><u>Experience Cutting-Edge Web Tracking with Our State-of-the-Art Cookiebot Powered Platform</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oppo-find-x7-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-the-persistent-black-screen-in-your-persona-nova-gameplay/"><u>How To Overcome The Persistent Black Screen in Your Persona Nova Gameplay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safe-stepping-stones-on-windows-11-top-8-to-skip/"><u>Safe Stepping Stones on Windows 11: Top 8 To Skip</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/strategies-for-harvesting-fb-status-video-archives-for-2024/"><u>Strategies for Harvesting FB Status Video Archives for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005393961-tormented-souls-stability-fixes-say-goodbye-to-incessant-program-failures-on-pc/"><u>Tormented Souls Stability Fixes - Say Goodbye to Incessant Program Failures on PC!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722982733676-troubleshooting-complete-no-more-fifa-20-crashes-for-windows-users/"><u>Troubleshooting Complete: No More FIFA 20 Crashes for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/yakuza-like-a-dragon-triumphs-in-steam-experience-the-epic-journey/"><u>Yakuza: Like A Dragon Triumphs in Steam - Experience the Epic Journey!</u></a></li>
 </ul></div>
+

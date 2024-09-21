@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting MSEdge.exe Faults in Windows Systems
-date: 2024-09-12T21:49:24.042Z
-updated: 2024-09-16T22:21:06.803Z
+date: 2024-09-20T16:21:59.311Z
+updated: 2024-09-21T18:46:32.261Z
 tags:
   - win11
   - win10
@@ -88,20 +88,21 @@ Once done, restart your PC and see if Warzone is using your GPU.
 2. In the left pane, click**Manage 3D settings** . Click**CUDA – GPUs** and select your graphics card. Then click**OK** to save the changes.  
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-1.jpg)
 3. In the left pane, select**Set PhysX Configuration** . Under**Select a PhysX processor** , click to expand the drop down list and**select your GPU** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-2.jpg)
 4. Now start your game and check if it’s running properly.
@@ -119,30 +120,24 @@ Once done, restart your PC and see if Warzone is using your GPU.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of Warzone. Choose**ModernWarfare.exe** in the game folder.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (By default it’s_%USERPROFILE%\\Documents\\Call of Duty Modern Warfare_ )  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/graphics-settings-warzone-browse.jpg)
 4. Click**Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-force-gpu-1.jpg)
 5. In the pop-up window, select**High performance** and click**OK** to apply the settings.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-force-gpu-2.jpg)
 6. You can do the same for**Modern Warfare Launcher.exe** . Once done, start Warzone and compare the GPU utilization with the gameplay.
 
  If this setting doesn’t help, take a look at the next solution below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Run Warzone in Windowed mode
 
@@ -154,16 +149,10 @@ Once done, restart your PC and see if Warzone is using your GPU.
 3. Now check if the game runs as expected.
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -185,20 +174,18 @@ Once done, restart your PC and see if Warzone is using your GPU.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-a-visual-marvel-unveiled-eizos-coloredge-cg318-4k-reviewed/"><u>[New] A Visual Marvel Unveiled EIZO's ColorEdge CG318-4K Reviewed</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-directly-stream-google-meet-youtube-edition-steps/"><u>[New] In 2024, Directly Stream Google Meet - YouTube Edition Steps</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-key-to-flawless-shots-using-a-tripod-correctly-in-video-blogging/"><u>[New] The Key to Flawless Shots Using a Tripod Correctly in Video Blogging</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-overcoming-thunder-tier-ones-recurring-pc-malfunctions-and-errors/"><u>[Solution] Overcoming Thunder Tier One's Recurring PC Malfunctions and Errors</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-channel-milestone-hurdle-cross-the-10k-view-threshold-fast-for-2024/"><u>[Updated] Channel Milestone Hurdle – Cross the 10K View Threshold Fast for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-pushing-the-boundaries-in-depth-review-of-benq-sw320s-4k-display/"><u>[Updated] Pushing the Boundaries In-Depth Review of BenQ SW320's 4K Display</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-essential-video-calls-phone-and-pcs-finest-tools/"><u>2024 Approved Essential Video Calls Phone & PC's Finest Tools</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-overcome-black-display-problems-in-persona-5-strikers/"><u>Comprehensive Guide to Overcome Black Display Problems in Persona 5 Strikers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-optimize-forza-horizon-5-graphics-with-the-right-driver-updates/"><u>How to Optimize Forza Horizon 5 Graphics with the Right Driver Updates</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-repair-and-update-your-itunes-for-perfect-audio-performance/"><u>How to Repair and Update Your iTunes for Perfect Audio Performance</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-editing-odyssey-journey-to-photo-mastery/"><u>In 2024, The Editing Odyssey Journey to Photo Mastery</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-motorola-moto-g04-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Motorola Moto G04 Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/language-insight-deciphering-por-que-vs-por-que/"><u>Language Insight: Deciphering 'Por Qué' Vs 'Por Que'</u></a></li>
-<li><a href="https://program-issues.techidaily.com/nuts-portugals-warm-climate-is-ideal-for-growing-nuts-like-walnuts-almonds-hazelnuts-and-chestnuts-which-are-often-used-in-desserts-such-as-pastel-de-nata-o574/"><u>Nuts: Portugal's Warm Climate Is Ideal for Growing Nuts Like Walnuts, Almonds, Hazelnuts and Chestnuts, Which Are Often Used in Desserts (Such as Pastel De Nata) or Added to Salads and Rice Dishes for a Satisfying Crunch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-issues-when-starfield-game-crashes-or-fails-to-load-on-pc/"><u>Resolving Issues: When Starfield Game Crashes or Fails to Load on PC</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-studio-setup-starters-top-17-lights-and-more/"><u>[New] 2024 Approved Studio Setup Starters - Top 17 Lights & More</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-access-youtube-beats-freshly-split-with-this-compelling-list-of-17-crackers-for-2024/"><u>[New] Access YouTube Beats Freshly Split With This Compelling List of 17 Crackers for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-optimal-environmental-film-tech-roundup/"><u>[New] In 2024, Optimal Environmental Film Tech Roundup</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-streamlining-the-process-of-saving-ps3-gaming-moments-for-2024/"><u>[New] Streamlining the Process of Saving PS3 Gaming Moments for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-masterclass-in-capturing-conversations-for-later-review/"><u>2024 Approved Masterclass in Capturing Conversations for Later Review</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-icloud-email-security-the-power-of-dual-stage-verification/"><u>Enhancing iCloud Email Security: The Power of Dual-Stage Verification</u></a></li>
+<li><a href="https://program-issues.techidaily.com/google-chrome-not-opening-heres-how-you-can-fix-it/"><u>Google Chrome Not Opening? Here’s How You Can Fix It!</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-error-0xc1eb190041-in-microsoft-windows-11-step-by-step-solution/"><u>How to Fix 'Error 0xC1eb190041' In Microsoft Windows 11 - Step-by-Step Solution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004797636-solving-steam-remote-play-issues-top-troubleshooting-tips/"><u>Solving Steam Remote Play Issues: Top Troubleshooting Tips!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-stuck-on-updates-for-the-microsoft-flight-simulator-2020/"><u>Troubleshooting Stuck on Updates for the Microsoft Flight Simulator 2020</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/unseen-by-your-computer-heres-how-to-reset-the-blue-yeti-microphone/"><u>Unseen by Your Computer? Here’s How to Reset the Blue Yeti Microphone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-audew-compact-air-compressor-top-performance-in-a-portable-package/"><u>Unveiling the Audew Compact Air Compressor - Top Performance in a Portable Package</u></a></li>
 </ul></div>
 

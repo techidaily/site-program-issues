@@ -1,7 +1,7 @@
 ---
 title: Modern Warfare 3 (MW3) Keeps Crashing on PC - Easy Fixes
-date: 2024-09-12T19:56:50.856Z
-updated: 2024-09-16T20:28:58.909Z
+date: 2024-09-20T20:36:53.363Z
+updated: 2024-09-21T22:44:15.569Z
 tags:
   - win11
   - win10
@@ -71,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/110fb399f984d23daa9e38ab73955fe742594ebb4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-system-requirements.png)
@@ -80,6 +87,13 @@ Here are the system requirements for Control:
  If you’re currently running Control with DirectX 12, it’s recommended that you run Control**with DirectX 11** to avoid the game crash issues.
 
  Restart the game to see if this fix works, if not, try the next fix below to modify your graphics card settings.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Modify your graphics card settings
 
@@ -97,21 +111,16 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View the Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
@@ -121,13 +130,6 @@ Here are the system requirements for Control:
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
@@ -139,6 +141,13 @@ Here are the system requirements for Control:
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by Large icons.  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select Intel Graphics Settings to open it.  
@@ -159,10 +168,10 @@ Here are the system requirements for Control:
  Launch Control again in reduced settings to see if it crashes or not. If the game still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Delete the “render.ini” file
@@ -196,13 +205,6 @@ Here are the system requirements for Control:
 
  After installing Microsoft Visual C++ 2013 and Microsoft .NET Framework, you need to restart Windows. Then launch Control to see if this issue persists. If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Install the latest Control patch
 
  Remedy Entertainment (the developer of Control) releases regular game patches to fix bugs and improve gaming performance. It’s possible that an older patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -219,13 +221,6 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 9: Add Control as an exception to your 3rd party antivirus software
 
@@ -274,18 +269,19 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-essential-guidelines-for-creating-compelling-youtube-shorts-templates/"><u>[New] 2024 Approved Essential Guidelines for Creating Compelling YouTube Shorts Templates</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-how-to-record-the-screen-with-adobe-captive-for-2024/"><u>[New] How To Record The Screen With Adobe Captive for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-detailed-overview-of-xvision-labs-comprehensive-study/"><u>[Updated] Detailed Overview of XVision Lab's Comprehensive Study</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-text-gymnastics-ingenious-techniques-for-animated-bounces-for-2024/"><u>[Updated] Text Gymnastics Ingenious Techniques for Animated Bounces for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-realme-gt-neo-5-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Realme GT Neo 5</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-for-fixing-phasmophobia-vr-malfunctions-quickly/"><u>Expert Advice for Fixing Phasmophobia VR Malfunctions Quickly</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-lenovo-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Lenovo Phone Screen?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/jokes-in-photos-your-path-to-memeloreality-for-2024/"><u>Jokes in Photos Your Path to Memeloreality for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/microsoft-edge-stability-issues-fixed-in-windows-11-resolved/"><u>Microsoft Edge Stability Issues Fixed in Windows 11 - Resolved</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-lava-blaze-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/transform-your-images-with-picart-clear-canvas-technique-for-2024/"><u>Transform Your Images with PicArt Clear Canvas Technique for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-for-persistent-crashing-in-grand-theft-auto-5/"><u>Troubleshooting Guide for Persistent Crashing in Grand Theft Auto 5</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-issues-when-launching-avatar-the-game-on-pandora-frontiers/"><u>Troubleshooting Guide: Resolving Issues When Launching 'Avatar - The Game' On Pandora Frontiers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-10-superior-virtual-background-switchers-guide/"><u>[New] 10 Superior Virtual Background Switchers Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeating-black-screen-glitches-in-far-cry-6-a-step-by-step-solution/"><u>Defeating Black Screen Glitches in Far Cry 6 – A Step-by-Step Solution</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-leverage-chatgpt-technology-for-effective-cover-letter-writing/"><u>How to Leverage ChatGPT Technology for Effective Cover Letter Writing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v14-document-with-electronic-signature-tool-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.4 document with electronic signature tool</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-harness-social-blade-for-profound-youtube-stats-analysis/"><u>In 2024, Harness Social Blade for Profound YouTube Stats Analysis</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/my-ai-snapchat-vs-chatgpt-which-is-better-for-your-interactive-experience/"><u>My AI (Snapchat) Vs. ChatGPT - Which Is Better For Your Interactive Experience?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perspective-play-using-edits-to-redefine-images-for-2024/"><u>Perspective Play Using Edits to Redefine Images for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-frequent-freezes-in-overwatch-gameplay/"><u>Resolved: Fixes for Frequent Freezes in Overwatch Gameplay</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solve-auto-connect-issues-top-6-tips-for-your-airpods-and-apple-device-pairing-woes/"><u>Solve Auto-Connect Issues: Top 6 Tips for Your AirPods & Apple Device Pairing Woes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-overcome-ntdlldll-file-malfunctioning-on-windows-platforms/"><u>Step-by-Step Guide to Overcome ntdll.dll File Malfunctioning on Windows Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-process-to-fetch-and-install-updated-drivers-for-the-logitech-g403-on-pc/"><u>Step-by-Step Process to Fetch and Install Updated Drivers for the Logitech G403 on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-pc-lag-with-these-swift-fixes-to-roblox-issues-edition/"><u>Stop PC Lag with These Swift Fixes to Roblox Issues Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/streamlining-time-lapse-photography-with-gopro-software-for-2024/"><u>Streamlining Time-Lapse Photography with GoPro Software for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-a-faulty-switch-repairs-or-exchange-choices/"><u>Tackling a Faulty Switch: Repairs or Exchange Choices</u></a></li>
 </ul></div>
 

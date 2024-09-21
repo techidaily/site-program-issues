@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Fallout 3 Crashes on Windows 11 – Solutions Inside"
-date: 2024-09-09T17:50:07.009Z
-updated: 2024-09-16T22:12:10.820Z
+date: 2024-09-14T18:51:10.076Z
+updated: 2024-09-21T17:04:20.988Z
 tags:
   - win11
   - win10
@@ -64,6 +64,13 @@ Here’s how you can check the file integrity on Steam:
 
  If the latest video driver doesn’t help you, check out the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Install all Windows updates
 
  The Windows 10 system updates help keep your system running smoothly. Usually Windows installs updates on a regular basis, but you can check manually to confirm you’re using the latest system.
@@ -71,6 +78,14 @@ Here’s how you can check the file integrity on Steam:
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
  After installing all the updates, restart your computer and check if you can launch Resident Evil 5 now.
@@ -86,10 +101,10 @@ Here’s how you can check the file integrity on Steam:
  Once you’ve installed the latest GFWL, restart your PC and check if Resident Evil 5 works now.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Replace game files with a fan-made patch
@@ -104,13 +119,6 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-2.jpg)
 4. Now check if Resident Evil 5 can launch normally.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Check for corrupted system files
 
  If none of the fixes above work for you, chances are you’re looking at a **system issue** . We all use our computers differently, it’s usually hard to tell what went wrong exactly. So before you reinstall Windows, you can try to scan your system with a professional repair tool.
@@ -122,20 +130,19 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -159,18 +166,18 @@ Here’s how you can check the file integrity on Steam:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-maximizing-impact-using-youtube-analytics-for-content-strategy/"><u>[New] 2024 Approved Maximizing Impact Using YouTube Analytics for Content Strategy</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-full-review-for-gopro-hero4-sliver/"><u>[New] Full Review for GoPro Hero4 Sliver</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideal-sound-compilation-premium-download-locales/"><u>[Updated] Ideal Sound Compilation Premium Download Locales</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-dji-protech-fpv-eyewear-inspection-report/"><u>[Updated] In 2024, DJI ProTech FPV Eyewear Inspection Report</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-speeding-up-projects-without-compromising-quality/"><u>[Updated] Speeding Up Projects Without Compromising Quality</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-for-the-call-of-duty-ww2-error-code-4128-problems/"><u>Effective Solutions for the 'Call of Duty: WW2' Error Code 4128 Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-overwatch-from-continuously-crashing-solutions-proven-effective/"><u>How to Stop Overwatch From Continuously Crashing – Solutions Proven Effective</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-leveraging-googles-platform-for-podcast-distribution/"><u>In 2024, Leveraging Google's Platform for Podcast Distribution</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-xiaomi-redmi-note-12-pro-4g-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Xiaomi Redmi Note 12 Pro 4G Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-diablo-iv-performance-top-7-tactics-to-fix-game-crashing-problems/"><u>Mastering Diablo IV Performance: Top 7 Tactics to Fix Game-Crashing Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-guide-for-managing-google-chromes-heavy-load-on-your-computers-cpu/"><u>Solution Guide for Managing Google Chrome’s Heavy Load on Your Computer's CPU</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-your-consoles-audio-issues-the-ultimate-mic-fix-guide-for-2nd4/"><u>Troubleshooting Your Console's Audio Issues - The Ultimate Mic Fix Guide for 2nD4</u></a></li>
-<li><a href="https://windows11.techidaily.com/ultimate-7-list-cost-free-windows-media-centers/"><u>Ultimate 7 List: Cost-Free Windows Media Centers</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-what-is-the-best-video-format-for-youtube/"><u>[New] In 2024, What Is the Best Video Format for YouTube?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-securing-perfect-images-on-pc-check-out-these-top-5-tools-for-2024/"><u>[New] Securing Perfect Images on PC? Check Out These Top 5 Tools for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-essential-techniques-to-elevate-your-channels-visibility/"><u>[Updated] Essential Techniques to Elevate Your Channel's Visibility</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-ultimate-guide-to-selecting-a-top-screen-recorder-obsfraps/"><u>[Updated] In 2024, The Ultimate Guide to Selecting a Top Screen Recorder (OBS/Fraps)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-creativity-adding-fonts-to-your-ae-workflow/"><u>2024 Approved Unleashing Creativity Adding Fonts to Your AE Workflow</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-to-fix-itunes-cannot-play-your-bought-4khd-movie-a-step-by-step-solution/"><u>How to Fix 'iTunes Cannot Play Your Bought 4K/HD Movie': A Step-by-Step Solution</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-apple-iphone-12-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On Apple iPhone 12 Making It Possible</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-crashes-starting-up-call-of-duty-warzone-successfully/"><u>Overcoming Crashes - Starting Up Call of Duty Warzone Successfully</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-gameplay-interruptions-expert-fixes-for-assassins-creed-odyssey-lag-and-stutters-on-pc/"><u>Resolve Gameplay Interruptions : Expert Fixes for Assassin's Creed Odyssey Lag and Stutters on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restarting-affected-windows-netflix-functions/"><u>Restarting Affected Windows Netflix Functions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-up-your-play-optimizing-horizon-zero-dawn-with-performance-boosting-techniques/"><u>Step Up Your Play: Optimizing Horizon Zero Dawn with Performance-Boosting Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/step-by-step-guide-to-high-quality-zoom-recordings-for-podcasters-for-2024/"><u>Step-by-Step Guide to High-Quality Zoom Recordings for Podcasters for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-the-blue-crash-comprehensive-fixes-for-helldivers-2-bsod-errors/"><u>Stop the Blue Crash: Comprehensive Fixes for HellDivers 2 BSOD Errors</u></a></li>
 </ul></div>
 

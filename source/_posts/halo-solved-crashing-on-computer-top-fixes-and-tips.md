@@ -1,7 +1,7 @@
 ---
 title: Halo ([Solved] Crashing on Computer - Top Fixes and Tips
-date: 2024-09-14T18:50:01.402Z
-updated: 2024-09-16T16:51:39.117Z
+date: 2024-09-20T21:49:36.803Z
+updated: 2024-09-21T21:12:10.073Z
 tags:
   - win11
   - win10
@@ -80,6 +80,13 @@ _Halo 3 Minimum System Requirements_
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Temporarily disable antivirus software
 
  There will be conflicts between antivirus scans and your enjoying your games. To avoid this, you’re supposed to try temporarily disabling your antivirus software.
@@ -93,13 +100,6 @@ _Halo 3 Minimum System Requirements_
 [Norton](https://support.norton.com/sp/en/uk/home/current/solutions/v3672136)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Update your video card drivers
 
@@ -123,6 +123,19 @@ Here’s how to update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and launch Halo3 to check if the issue is fixed. If not, try the next fix.
@@ -141,28 +154,27 @@ To do so:
 
 ![msconfig open task manager](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Select the**Services** tab.  
  Then click**Hide all Microsoft services** and click**Disable all** .
 
 ![hide all Microsoft services; disable all](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) In the same window, select the**Startup** tab and then click**Open Task Manager** .  
   
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Under the**Startup** tab in the Task Manager window, right-click on each**Enabled** Startup item, then click**Disable** . After that, close the window.  
   
@@ -174,6 +186,13 @@ To do so:
 
 7) Restart your computer and it’ll be in a clean boot environment.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5: Run Halo 3 as an administrator
 
  If you’ve tried all the fixes above and still haven’t resolved the Halo 3 crashing issue, then you should try running the game as an administrator.
@@ -183,17 +202,18 @@ To do so:
 ![open as an administrator; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/run-as-administrator-Properties.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click the**Compatibility** tab and click**Run this program as an administrator** . Click**Apply** and**OK** .  
   
 ![run as administrator; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/run-as-administrator-compatability.jpg)
   
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Go to the directory where you installed Halo 3, and run the**.exe** file as administrator as well.  
   
  4) Relaunch Halo 3.  
@@ -224,13 +244,6 @@ To do so:
   
 ![verify integrity of game files; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/verify-integrity-of-game-files-properties.jpg)
   
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Under the**LOCAL FILES** tab, click**VERIFY INTEGRITY OF GAME CACHE…** .  
   
@@ -263,17 +276,17 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-graph-gems-2017s-statistical-youtube-surprises/"><u>[New] 2024 Approved Graph Gems 2017'S Statistical YouTube Surprises</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-streaming-high-quality-vr-videos-made-easy-for-ios-users/"><u>[New] In 2024, Streaming High-Quality VR Videos Made Easy for IOS Users</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-poco-x6-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Poco X6 to Roku | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/anthem-startup-stuck-break-free-from-the-infinite-load-screen-error/"><u>Anthem Startup Stuck? Break Free From the Infinite Load Screen Error.</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/efficiently-managing-youtube-videos-with-the-watch-later-feature/"><u>Efficiently Managing YouTube Videos with the Watch Later Feature</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-to-stop-red-dead-online-from-crashing-on-your-computer-system/"><u>Expert Advice to Stop Red Dead Online From Crashing on Your Computer System</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-cod-wwii-issue-understanding-and-overcoming-error-code-4128/"><u>Fixing the COD WWII Issue - Understanding and Overcoming Error Code ^4128</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-xiaomi-redmi-a2plus-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Xiaomi Redmi A2+</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-simple-steps-to-master-no-cost-time-tracking/"><u>In 2024, Simple Steps to Master No-Cost Time Tracking</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-network-hiccups-a-step-by-step-guide-to-eliminate-lag-in-chivalry-2-new-insights/"><u>Overcome Network Hiccups: A Step-by-Step Guide to Eliminate Lag in Chivalry 2 (New Insights )</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pick-the-finest-format-converter-for-audio-files-in-wv-compare-mp3-flac-wav-and-more/"><u>Pick the Finest Format Converter for Audio Files in WV: Compare MP3, FLAC, WAV & More!</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-amplifying-your-tiktok-voice-strategies-for-more-views-and-likes/"><u>2024 Approved Amplifying Your TikTok Voice Strategies for More Views and Likes</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-laptop-display-distortion-a-step-by-step-approach/"><u>Addressing Laptop Display Distortion: A Step-by-Step Approach</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-code-0xc0000022-explained-successful-troubleshooting-of-adobe-application-starts/"><u>Error Code 0xC0000022 Explained - Successful Troubleshooting of Adobe Application Starts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-the-out-of-video-memory-error-in-fortnite-solution-inside/"><u>How to Fix the 'Out of Video Memory' Error in Fortnite (Solution Inside)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oppo-a78-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Oppo A78 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/proven-youtube-seo-methods-for-video-rankings-for-2024/"><u>Proven YouTube SEO Methods for Video Rankings for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-honor-magic5-ultimate-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://games-able.techidaily.com/steps-to-fix-lost-parts-in-win-1011-issues/"><u>Steps to Fix Lost Parts in Win 10/11 Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-crashes-in-cities-skylines-2-pc-expert-guide-to-stable-gameplay/"><u>Stop Crashes in Cities: Skylines 2 (PC): Expert Guide to Stable Gameplay</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-tv-streaming-services/"><u>Top Rated TV Streaming Services</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unbeatable-candidates-the-very-best-phones-at-video-recording/"><u>Unbeatable Candidates The Very Best Phones at Video Recording</u></a></li>
 </ul></div>
 

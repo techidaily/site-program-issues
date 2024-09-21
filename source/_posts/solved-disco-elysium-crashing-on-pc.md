@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Disco Elysium Crashing on PC"
-date: 2024-09-10T16:40:25.862Z
-updated: 2024-09-16T20:35:08.523Z
+date: 2024-09-15T20:14:41.390Z
+updated: 2024-09-21T18:08:24.452Z
 tags:
   - win11
   - win10
@@ -73,13 +73,6 @@ thumbnail: https://thmb.techidaily.com/4813724d53b5cad6b133b133522844cf1838d9743
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-71.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart your computer to take effect.
 
 Now launch Assassin’s Creed Odyssey and see if it stops crashing.
@@ -87,16 +80,10 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
  Still no luck? Don’t give up hope. There is something else you can do.
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Modify your in-game settings
@@ -106,6 +93,13 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
  1) Open Assassin’s Creed Odyssey Settings (the**Options** tab).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-72.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click the**Display** tab.
 
@@ -119,10 +113,16 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-74.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Turn off**VSync** .
@@ -146,10 +146,10 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 Open Assassin’s Creed Odyssey and see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Verify Integrity of Game Files
@@ -166,16 +166,16 @@ Open Assassin’s Creed Odyssey and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-79.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-80.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
 
@@ -208,19 +208,16 @@ Open Assassin’s Creed Odyssey and see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-true-score-analyzing-recordcasts-performance/"><u>[New] 2024 Approved The True Score Analyzing RecordCast's Performance</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-methods-for-making-meetings-memorable/"><u>[New] In 2024, Methods for Making Meetings Memorable</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-efficiently-posting-videos-instagram-upload-on-desktop/"><u>[Updated] In 2024, Efficiently Posting Videos Instagram Upload on Desktop</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transition-mastery-in-cinematic-productions-with-kinemaster/"><u>[Updated] Transition Mastery in Cinematic Productions with Kinemaster</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dealing-with-valorant-not-launching-2024-solutions-for-a-seamless-gaming-experience/"><u>Dealing with Valorant Not Launching: 2024 Solutions for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improved-performance-in-cyberpunk-2077-overcoming-previous-fps-declines/"><u>Improved Performance in Cyberpunk 2077: Overcoming Previous FPS Declines</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Realme Narzo 60 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-vivo-y02t-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Vivo Y02T to iPod | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Poco M6 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-smooth-performance-solutions-to-overcome-lag-issues-with-obs-streaming-and-screen-capture/"><u>Mastering Smooth Performance: Solutions to Overcome Lag Issues with OBS Streaming & Screen Capture</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/overcoming-the-scratch-disk-full-hurdle-in-adobe-photoshop-tips-and-tricks/"><u>Overcoming the 'Scratch Disk Full' Hurdle in Adobe Photoshop - Tips and Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722996220553-pubg-freezing-woes-on-windows-heres-how-to-get-smooth-playback/"><u>PUBG Freezing Woes on Windows? Here's How to Get Smooth Playback.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unstick-your-gameplay-a-guide-to-resolving-forza-horizon-ts-persistent-loading-problems-7-key-fixes/"><u>Unstick Your Gameplay: A Guide to Resolving Forza Horizon T's Persistent Loading Problems (7 Key Fixes)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-keyboard-warriors-guide-games-similar-to-gta-v-for-2024/"><u>[New] Keyboard Warriors' Guide Games Similar to GTA V for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-mastering-the-art-of-iphone-macro-and-micro-imaging-for-2024/"><u>[New] Mastering the Art of iPhone Macro & Micro Imaging for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-maximizing-memories-storing-digitalized-vintage-photographs-for-2024/"><u>[New] Maximizing Memories Storing Digitalized Vintage Photographs for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/boost-your-social-presence-on-instagram-by-using-trending-gifs-in-conversations/"><u>Boost Your Social Presence on Instagram by Using Trending GIFs in Conversations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-solved-how-to-correctly-install-and-activate-easy-anti-cheat-on-your-computer/"><u>Error Solved: How to Correctly Install and Activate Easy Anti-Cheat on Your Computer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/google-palm-2-versus-openai-gpt-4-a-deep-dive-into-their-unique-features/"><u>Google PaLM 2 Versus OpenAI GPT-4: A Deep Dive Into Their Unique Features</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/high-quality-webcam-capture-made-easy-review/"><u>High-Quality WebCam Capture Made Easy Review</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-for-rapid-boot-up-resolving-your-apex-legends-launch-problems/"><u>Quick Fixes for Rapid Boot-Up: Resolving Your Apex Legends Launch Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-gta-v-the-troubleshooting-guide-for-game-freezes-and-crashes/"><u>Solving GTA V: The Troubleshooting Guide for Game Freezes & Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fix-guide-for-preventing-disco-elysium-disruptions-during-playtime-on-pcs/"><u>Ultimate Fix Guide for Preventing 'Disco Elysium' Disruptions During Playtime on PCs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-honor-x9b-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Honor X9b Device</u></a></li>
 </ul></div>
 

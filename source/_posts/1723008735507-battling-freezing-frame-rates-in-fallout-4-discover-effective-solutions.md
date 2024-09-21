@@ -1,7 +1,7 @@
 ---
 title: Battling Freezing Frame Rates in Fallout 4? Discover Effective Solutions!
-date: 2024-09-15T21:38:08.943Z
-updated: 2024-09-16T21:08:17.317Z
+date: 2024-09-19T19:56:21.945Z
+updated: 2024-09-21T18:51:37.643Z
 tags:
   - win11
   - win10
@@ -84,31 +84,18 @@ You can update your video driver either manually or automatically.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95d9711631c.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back** guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
- Note: You can do it**for free** if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95da089dde0.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Note: You can do it**for free** if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95da089dde0.jpg)
 
 Launch Fallout 4 to see if it runs smoothly.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Change the resolutions back to your monitor size
 
@@ -122,12 +109,26 @@ Launch Fallout 4 to see if it runs smoothly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95db0636cd2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 2: Change the resolutions in Fallout 4 back to your monitor size
 
 1. Launch Fallout 4 on your computer.
 2. On the launcher menu, click**Options** .
 3. Make sure the Resolutions is set to same as your monitor size, that is, the**recommended one** you check in Step 1.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95dd0aed0a5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Save your settings and log in Fallout 4 to run it and see if it runs smoothly.
 
@@ -173,13 +174,6 @@ Run Fallout 4 to see if it goes smoothly.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Disable the V-sync feature
 
 **V-sync** (vertical sync) is the synchronization of your frame rate with the maximum refresh rat of the display being used. So being enabled, V-sync would**limits the frame rate** of your game. If the frame rates is low, everything displaying on Fallout 4 will slowdown. In this case, we recommend disabling the V-sync feature.
@@ -217,20 +211,17 @@ Run Fallout 4 to see if it goes smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-efficient-techniques-for-saving-online-meeting-transcripts/"><u>[New] Efficient Techniques for Saving Online Meeting Transcripts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-from-concept-to-crypto-asset-the-ultimate-list-of-nft-engines/"><u>[Updated] From Concept to Crypto Asset The Ultimate List of NFT Engines</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/browser-based-remote-access-mastering-your-raspberry-pi-through-raspberry-pi-connect/"><u>Browser-Based Remote Access: Mastering Your Raspberry Pi Through Raspberry Pi Connect</u></a></li>
-<li><a href="https://program-issues.techidaily.com/deciphering-and-fixing-error-code-tfla0002-for-successful-finals-completion/"><u>Deciphering and Fixing Error Code TFLA0002 for Successful Finals Completion</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/enhance-your-pc-viewing-experience-with-the-top-5-hdr-media-players-compatible-with-windows-11/"><u>Enhance Your PC Viewing Experience with the Top 5 HDR Media Players Compatible with Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/experience-seamless-search-mastery-with-perplexai-the-elite-guide-to-ai-google-tools-youre-missing-out-on/"><u>Experience Seamless Search Mastery with Perplex^AI - The Elite Guide to AI Google Tools You're Missing Out On</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-how-to-ensure-fortnites-warzone-uses-gpu-in-windows-11/"><u>Fix: How to Ensure Fortnite's Warzone Uses GPU in Windows 11</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-poco-c51-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Poco C51 Fingerprint Lock</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-performance-to-tackle-fps-fluctuations-in-call-of-duty-modern-warfare-2-for-windows-players/"><u>Optimizing Performance to Tackle FPS Fluctuations in Call of Duty: Modern Warfare 2 for Windows Players</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-recurrent-game-errors-mastering-stability-throughout-the-finals-on-windows-or-mac/"><u>Overcoming Recurrent Game Errors: Mastering Stability Throughout The Finals on Windows or Mac</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/-alteration-youtube-vids-fit-mac-displays-for-2024/"><u>Quick Alteration YouTube Vids Fit Mac Displays for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-for-smoothing-out-v-ray-stutters-during-pc-rendering-process/"><u>Step-by-Step Troubleshooting for Smoothing Out V-Ray Stutters During PC Rendering Process</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steps-to-resolve-steelseries-gg-engine-malfunctioning-on-pc-with-windows-os/"><u>Steps to Resolve SteelSeries GG Engine Malfunctioning on PC with Windows OS</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/tiktoks-viral-video-wave-twitters-top-10-rankings-for-2024/"><u>TikTok's Viral Video Wave Twitter's Top 10 Rankings for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-no-cost-top-tunes-in-your-library-today/"><u>[New] In 2024, No Cost Top Tunes in Your Library Today</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-best-practices-for-designing-compelling-youtube-video-thumbnails-for-2024/"><u>[Updated] Best Practices for Designing Compelling YouTube Video Thumbnails for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-expertise-in-film-perfecting-the-art-of-chroma-key/"><u>[Updated] In 2024, Expertise in Film Perfecting the Art of Chroma Key</u></a></li>
+<li><a href="https://program-issues.techidaily.com/6-quick-ways-to-fix-roblox-crashing-on-pc-2024/"><u>6 Quick Ways to Fix Roblox Crashing on PC - 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dead-by-daylight-error-code-8014-explained-steps-to-get-back-in-the-game/"><u>Dead By Daylight Error Code 8014 Explained: Steps to Get Back in the Game</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/decoding-anthropics-a-detailed-review-of-their-smart-photo-editor-features/"><u>Decoding Anthropics: A Detailed Review of Their Smart Photo Editor Features</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/currency-with-500-youtube-followers/"><u>Gain Currency with 500 YouTube Followers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-honor-magic-6-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Honor Magic 6? Fixed | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/play-days-gone-on-pc-enjoy-the-action-packed-adventure/"><u>Play Days Gone on PC: Enjoy the Action-Packed Adventure!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-your-amd-radeon-driver-problems-software-wont-launch/"><u>Resolve Your AMD Radeon Driver Problems - Software Won't Launch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-war-thunder-from-crashing-expert-hacks-and-advice-players/"><u>Stop War Thunder From Crashing - Expert Hacks and Advice Players</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-infinix-gt-10-pro-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Infinix GT 10 Pro</u></a></li>
 </ul></div>
 

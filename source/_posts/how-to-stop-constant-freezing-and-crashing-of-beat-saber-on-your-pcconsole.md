@@ -1,7 +1,7 @@
 ---
 title: How to Stop Constant Freezing and Crashing of Beat Saber on Your PC/Console
-date: 2024-09-12T19:16:44.489Z
-updated: 2024-09-16T17:18:37.631Z
+date: 2024-09-17T18:32:55.389Z
+updated: 2024-09-21T20:29:08.230Z
 tags:
   - win11
   - win10
@@ -73,13 +73,6 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
  Restart your game to see if this worked for you. If_Risk of Rain 2_ still crashes, go ahead with the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Disable your antivirus temporarily
 
  Sometimes, antivirus software can interfere with game performance. Temporarily disabling your antivirus can help determine if it’s causing the problem. You can consult your antivirus documentation for instructions on disabling it.
@@ -102,16 +95,16 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-36-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click the**LOCAL FILES** tab, and then click**VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-36-19.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Steam will replace corrupted game files automatically if it detects any. Relaunch your game to see if it works correctly now. If not, try the next fix.
 
@@ -129,6 +122,13 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-38-55.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click the list box below to select **Windows 7** , then click **Apply**  \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-39-05.jpg)
@@ -138,10 +138,10 @@ Encountering crashing issues while playing Risk of Rain 2 can be frustrating. Th
 If your problem still exists, go ahead with the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Steam
@@ -153,10 +153,10 @@ If your problem still exists, go ahead with the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-45-46.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Right-click the**steamapps** folder and select**Copy** . Then, place the copy in another location to back it up.
@@ -186,10 +186,10 @@ If your problem still exists, go ahead with the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_16-55-00.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After these steps, your game should run without crashing. If you have any questions or suggestions, please feel free to leave a comment below.
@@ -215,15 +215,14 @@ If your problem still exists, go ahead with the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/eliminate-star-citizen-windows-errors-with-these-expert-solutions/"><u>Eliminate Star Citizen Windows Errors with These Expert Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-resolving-constant-pc-system-crashes-in-the-latest-game-release/"><u>Fixes and Solutions: Resolving Constant PC System Crashes in the Latest Game Release</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/giggles-guide-to-sign-insign-out/"><u>Giggles Guide to Sign-In/Sign-Out</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-successfully-set-up-your-ipad-in-apples-recovery-mode/"><u>How To Successfully Set Up Your iPad in Apple's Recovery Mode</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-honor-magic-5-lite-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Honor Magic 5 Lite Phone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/izing-viewership-with-effective-game-streaming-for-2024/"><u>Maximizing Viewership with Effective Game Streaming for 2024</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-how-to-make-talking-emoji-on-iphone-in-easy-steps-for-2024/"><u>New How To Make Talking Emoji on iPhone in Easy Steps for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-lag-eradicate-call-of-duty-warzone-directx-glitch-in-four-quick-steps/"><u>No More Lag! Eradicate Call of Duty: Warzone DirectX Glitch in Four Quick Steps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/say-goodbye-to-game-interruptions-resolving-persistent-kicks-in-genshin-impact-pc-version/"><u>Say Goodbye to Game Interruptions: Resolving Persistent Kicks in Genshin Impact PC Version</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-elite-rankings-premium-raspberry-pi-cases-to-optimize-performance/"><u>The Elite Rankings: Premium Raspberry Pi Cases to Optimize Performance</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-mastery-guide-for-instagrams-favorite-interrogation-icon/"><u>[Updated] In 2024, Mastery Guide for Instagram's Favorite Interrogation Icon</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-samsung-galaxy-s23-ultra-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/bypass-print-job-delay-quickly/"><u>Bypass Print Job Delay Quickly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/flawlessly-integrate-your-asus-pce-ac56-wifi-adapter-with-the-latest-versions-of-windows-tutorial-issues-resolved/"><u>Flawlessly Integrate Your ASUS PCE-AC56 WiFi Adapter with the Latest Versions of Windows: Tutorial [ISSUES RESOLVED]</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/online-language-evolution-mondly-leads-the-pack-in-germany/"><u>Online Language Evolution: Mondly Leads the Pack in Germany</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-challenges-in-star-wars-battlefront-ii-fix-for-game-crashes-unveiled/"><u>Overcoming Challenges in Star Wars Battlefront II - Fix for Game Crashes Unveiled</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-hurdles-how-to-access-football-manager-2eba7f-4b98d6e5ddc3solve-release-issues/"><u>Overcoming the Hurdles – How To Access Football Manager 2Eba7f-4b98d6e5ddc3#/Solve-Release-Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-low-frames-per-second-fps-issues-for-an-optimal-dying-light-gaming-experience/"><u>Solving Low Frames Per Second (FPS) Issues for an Optimal Dying Light Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solving-kodi-network-errors-failed-directory-access/"><u>Troubleshooting and Solving Kodi Network Errors: Failed Directory Access</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Get Past the Stubborn Loading Barrier on Far Cry 5'S Startup
-date: 2024-09-13T22:37:42.002Z
-updated: 2024-09-16T20:01:39.315Z
+date: 2024-09-19T16:05:45.277Z
+updated: 2024-09-21T16:11:44.886Z
 tags:
   - win11
   - win10
@@ -92,13 +92,6 @@ There are mainly two ways to update your device drivers:
 
  Note: If you’re looking for advanced malware protection and don’t want it to mess with your Minecraft, you can check **[Malwarebyte](https://tools.techidaily.com/drivereasy/download/)** [**s**](https://tools.techidaily.com/drivereasy/download/) . (It offers the Free and Premium version, and the free version includes a 14-day trial of the premium.)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: End the runtime broker
 
  This is a temporary fix for many players, and you can try this to see if it works for you, too. Here’s how:
@@ -113,21 +106,35 @@ There are mainly two ways to update your device drivers:
 1. Right-click the**Start** menu (the Windows logo) and select**Windows PowerShell (Admin).**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/admin.jpg)  
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you are on Windows 11, it will be**Terminal (Amin)** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
 2. Type or paste**Get-AppxPackage \*photos\* | Remove-AppxPackage** and press**Enter** . This will uninstall the Windows Photo app from your machine.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Restart your PC to see if Minecraft can load normally.
 
 If this method doesn’t work for you, then try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Run Minecraft Launcher in compatibility mode
 
@@ -139,14 +146,14 @@ If this method doesn’t work for you, then try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/save-all.jpg)
 4. Click**Apply** \>**OK** .
 
- Now you can launch your Minecraft again to see if this issue has been resolved by now.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Now you can launch your Minecraft again to see if this issue has been resolved by now.
 
 ### Fix 7: Perform a clean reinstall
 
@@ -155,19 +162,6 @@ If this method doesn’t work for you, then try the next fix, below.
 1. On your keyboard, press the Windows key and R at the same time to open the Run box. Type**appwiz.cpl** and press**Enter** .  
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 2. Right-click Minecraft, and select**Uninstall** .
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Once complete, type**%appdata%** in the Windows Search bar, and select the**%appdata%** folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/appdata.jpg)
@@ -199,14 +193,20 @@ If this method doesn’t work for you, then try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-decoding-youtubes-srt-download-with-3-methods-for-2024/"><u>[Updated] Decoding YouTube's SRT Download with 3 Methods for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-excellent-apps-for-streamlined-igtv-vertical-cuts-for-2024/"><u>[Updated] Excellent Apps for Streamlined IGTV Vertical Cuts for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-region-code-freeing-tools-for-modern-windows-operating-systems-windows-10-and-11/"><u>Best Region Code Freeing Tools for Modern Windows Operating Systems (Windows 10 & 11)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/crafting-quieter-sounds-a-garageband-expertise-for-2024/"><u>Crafting Quieter Sounds A Garageband Expertise for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-errors-on-the-msi-dragon-center-a-step-by-step-guide/"><u>Fixing Errors on the MSI Dragon Center: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-choose-the-best-stereo-speakers-a-buyers-checklist/"><u>How To Choose The Best Stereo Speakers - A Buyer's Checklist</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-review-and-insight-into-movavi-editor-plus-now-available/"><u>In 2024, Review & Insight Into Movavi Editor Plus, Now Available</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723009001833-star-citizen-windows-compatibility-improved-no-more-unwanted-crashes/"><u>Star Citizen Windows Compatibility Improved - No More Unwanted Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-cyberpunk-2e77s-pc-crashes-with-easy-fixes/"><u>Ultimate Guide: Resolving Cyberpunk 2E77's PC Crashes with Easy Fixes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/levate-your-profits-youtubes-studio-monetization-simplified/"><u>[New] Elevate Your Profits YouTube's Studio Monetization Simplified</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-next-level-recording-discover-budget-friendly-choices/"><u>[Updated] 2024 Approved Next-Level Recording Discover Budget-Friendly Choices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-photoquilt-supreme-eightfold-creation-engine/"><u>[Updated] In 2024, PhotoQuilt Supreme Eightfold Creation Engine</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-discovering-the-perfect-shape-tailoring-aspect-ratios-in-videos/"><u>2024 Approved Discovering the Perfect Shape Tailoring Aspect Ratios in Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-ways-to-prevent-crashes-in-outpost-infinity-on-your-pc-gaming-experience/"><u>Effective Ways to Prevent Crashes in Outpost: Infinity on Your PC Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-gaming-experience-solutions-for-smoother-gameplay-and-higher-fps-in-warzone/"><u>Enhance Gaming Experience: Solutions for Smoother Gameplay & Higher FPS in Warzone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/establishing-deep-anchor-links-with-movavi-partners-your-key-to-seo-success/"><u>Establishing Deep Anchor Links with Movavi Partners: Your Key to SEO Success</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-launch-problem-a-comprehensive-guide-to-starting-avatar-frontiers-of-pandora/"><u>Fixing the Launch Problem: A Comprehensive Guide to Starting Avatar: Frontiers of Pandora</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-resolve-gameplay-interruptions-and-crashes-in-persona-4-golden/"><u>Guide to Resolve Gameplay Interruptions & Crashes in Persona 4 Golden</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-iphone-15-plus-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your iPhone 15 Plus in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/intel-faces-chip-malfunctions-imminent-solution-on-the-horizon/"><u>Intel Faces Chip Malfunctions: Imminent Solution on the Horizon</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-hl-lags-or-crashes-how-to-stabilize-pc-for-hell-let-loose/"><u>No More HL Lags or Crashes: How to Stabilize PC for Hell Let Loose</u></a></li>
+<li><a href="https://program-issues.techidaily.com/successfully-resolving-the-camera-not-found-error-on-snapchat-app/"><u>Successfully Resolving the 'Camera Not Found' Error on Snapchat App</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722997634642-terraria-continues-to-glitch-heres-how-you-can-fix-it-with-simple-hacks/"><u>Terraria Continues to Glitch? Here's How You Can Fix It with Simple Hacks !</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-noobs-manual-to-saving-streaming-radio-lines/"><u>The Noob's Manual to Saving Streaming Radio Lines</u></a></li>
 </ul></div>
 

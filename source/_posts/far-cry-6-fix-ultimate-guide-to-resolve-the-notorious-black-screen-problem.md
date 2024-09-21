@@ -1,7 +1,7 @@
 ---
 title: "Far Cry 6 Fix: Ultimate Guide to Resolve the Notorious Black Screen Problem"
-date: 2024-09-11T21:53:22.171Z
-updated: 2024-09-16T16:06:08.505Z
+date: 2024-09-19T16:52:58.646Z
+updated: 2024-09-21T22:10:44.795Z
 tags:
   - win11
   - win10
@@ -65,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/19760dde0975a0de0ce2cfe0db96677605f044bc9
 
 See if this issue reappears. If not, you have fixed this issue.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
 
  If you’re using a third-party antivirus application on your PC, you may encounter the**Discord overlay** not working issue. Your third-party antivirus application may interfere with**Discord** , so your **Discord overlay** may not run as expected. You can try   **adding your Discord to the whitelist of your third-party antivirus application** .
@@ -78,16 +85,10 @@ See if this issue reappears. If not, you have fixed this issue.
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable hardware acceleration in Discord
@@ -106,19 +107,6 @@ See if this issue reappears. If not, you have fixed this issue.
 
  Run your game again to see if this issue persists. If not, you have resolved this problem!
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Reinstall Discord
 
  If you’ve tried all the fixes above but this issue persists, try**reinstalling Discord** . Here is how to do it:
@@ -129,35 +117,9 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  iii.**Double-click** **Discord** to uninstall it.  
 
@@ -172,6 +134,13 @@ iv. Restart your PC.
  4)**Enable the in-game overlay feature** for your game. If you don’t know how to do it, refer to[](https://tools.techidaily.com/drivereasy/download/) **[Fix 1](https://tools.techidaily.com/drivereasy/download/)**  .
 
 See if this issue reappears. If not, you have fixed this issue!
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bonus tip: How to fix Discord connection errors?
 
@@ -190,6 +159,19 @@ See if this issue reappears. If not, you have fixed this issue!
  3) Launch NordVPN. Enter your NordVPN account and password, then click**Sign In** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
+
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
 
@@ -217,21 +199,18 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-a-pictures-tale-adding-meaningful-text-to-images-for-macwindows-for-2024/"><u>[New] A Picture's Tale Adding Meaningful Text to Images for Mac/Windows for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-ultimate-guide-to-reverse-playbacks-on-instavids-for-2024/"><u>[New] The Ultimate Guide to Reverse Playbacks on InstaVids for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-laughable-film-grabber-review/"><u>[Updated] Laughable Film Grabber Review</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-reimagining-editing-processes-the-revolutionary-world-of-magix-video-pro-x/"><u>[Updated] Reimagining Editing Processes The Revolutionary World of Magix Video Pro X</u></a></li>
-<li><a href="https://games-able.techidaily.com/cosmic-constructors-guide-gaming-powerhouses/"><u>Cosmic Constructor's Guide: Gaming Powerhouses</u></a></li>
-<li><a href="https://program-issues.techidaily.com/defeating-black-screen-glitches-in-far-cry-6-a-step-by-step-solution/"><u>Defeating Black Screen Glitches in Far Cry 6 – A Step-by-Step Solution</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/exploring-better-video-encoding-av1s-challenge-to-vp9/"><u>Exploring Better Video Encoding AV1's Challenge to VP9</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-effortlessly-view-mts-videos-a-comprehensive-tutorial-for-your-pc-or-mac/"><u>How To Effortlessly View MTS Videos: A Comprehensive Tutorial for Your PC or Mac</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-speech-delays-in-mass-effect-legendary-edition-a-comprehensive-guide/"><u>How to Fix Speech Delays in Mass Effect Legendary Edition - A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-your-pc-from-crashing-while-playing-battlefield-5-easy-fix-tips/"><u>How to Stop Your PC From Crashing While Playing Battlefield 5: Easy Fix Tips</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/modernize-your-computer-fast-update-drivers-smoothly-with-windows/"><u>Modernize Your Computer Fast - Update Drivers Smoothly with Windows</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-no-budget-no-problem-best-free-mod-video-editors-for-2024/"><u>New No Budget, No Problem Best Free MOD Video Editors for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-frequent-freezes-in-overwatch-gameplay/"><u>Resolved: Fixes for Frequent Freezes in Overwatch Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-overcome-ntdlldll-file-malfunctioning-on-windows-platforms/"><u>Step-by-Step Guide to Overcome ntdll.dll File Malfunctioning on Windows Platforms</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-process-to-fetch-and-install-updated-drivers-for-the-logitech-g403-on-pc/"><u>Step-by-Step Process to Fetch and Install Updated Drivers for the Logitech G403 on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-pc-lag-with-these-swift-fixes-to-roblox-issues-edition/"><u>Stop PC Lag with These Swift Fixes to Roblox Issues Edition</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-best-buys-in-the-realm-of-4k-video-tools/"><u>[New] In 2024, Best Buys in the Realm of 4K Video Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dota-nixing-game-crashes-a-comprehensive-guide-to-a-smooth-play-experience/"><u>Dota Nixing Game Crashes: A Comprehensive Guide to a Smooth Play Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-to-seamless-path-of-exile-instance-connections-avoid-common-pitfalls/"><u>Expert Guide to Seamless Path of Exile Instance Connections : Avoid Common Pitfalls</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-launch-errors-a-comprehensive-guide-for-team-fortress-2/"><u>Fixing Launch Errors: A Comprehensive Guide for Team Fortress 2</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722963987597-freshly-updated-hp-scanjet-printer-drivers-now-available-for-multiple-windows-versions/"><u>Freshly Updated HP Scanjet Printer Drivers Now Available for Multiple Windows Versions</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/how-to-share-tiktok-videos-to-facebook-in-2024/"><u>How to Share TikTok Videos to Facebook, In 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-se-2022-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone SE (2022) without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-laptop-friendly-tips-to-start-live-chats-with-whatsapp-desktop/"><u>In 2024, Laptop-Friendly Tips to Start Live Chats with WhatsApp Desktop</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-mastering-the-use-of-tags-for-maximum-reach/"><u>In 2024, YouTube Mastering the Use of Tags for Maximum Reach</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stabilize-your-stronghold-expert-advice-on-resolving-state-of-decay-2s-frequent-crashes-this-year/"><u>Stabilize Your Stronghold: Expert Advice on Resolving State of Decay 2'S Frequent Crashes This Year</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transform-your-dorm-room-into-an-immersive-hassle-free-wireless-film-hub/"><u>Transform Your Dorm Room Into an Immersive, Hassle-Free Wireless Film Hub</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723010701758-troubleshoot-game-crashes-in-ghost-recon-breakpoint-with-ease-and-speed/"><u>Troubleshoot Game Crashes in Ghost Recon Breakpoint with Ease & Speed</u></a></li>
 </ul></div>
 

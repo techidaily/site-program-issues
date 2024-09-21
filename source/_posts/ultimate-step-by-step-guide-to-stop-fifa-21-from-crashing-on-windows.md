@@ -1,7 +1,7 @@
 ---
 title: Ultimate Step-by-Step Guide to Stop FIFA 21 From Crashing on Windows
-date: 2024-09-15T21:52:06.282Z
-updated: 2024-09-16T20:18:29.831Z
+date: 2024-09-16T17:23:41.018Z
+updated: 2024-09-21T22:13:36.554Z
 tags:
   - win11
   - win10
@@ -100,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
@@ -109,13 +116,6 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -127,22 +127,15 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
@@ -150,13 +143,20 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -196,21 +196,17 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/updated-supreme-4k-display-selection-the-best-of-ten/"><u>[Updated] Supreme 4K Display Selection The Best of Ten</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-the-art-of-timestamped-media-on-the-gotube-platform-for-2024/"><u>[Updated] The Art of Timestamped Media on the GoTube Platform for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/baldurs-gate-3-pc-crash-issue-solved-enjoy-seamless-gaming-experience/"><u>Baldur's Gate 3 - PC Crash Issue Solved, Enjoy Seamless Gaming Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-for-fixing-phasmophobia-vr-malfunctions-quickly/"><u>Expert Advice for Fixing Phasmophobia VR Malfunctions Quickly</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-leading-5-drones-the-ultimate-professional-buy-guide/"><u>In 2024, Leading 5 Drones - The Ultimate Professional Buy Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-ps5-a-smart-buy-consider-these-4-alternatives/"><u>Is PS5 a Smart Buy? Consider These 4 Alternatives</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/launch-free-dvd-playback-capabilities-on-windowsmac-laptops/"><u>Launch Free DVD Playback Capabilities on Windows/Mac Laptops</u></a></li>
-<li><a href="https://program-issues.techidaily.com/microsoft-edge-stability-issues-fixed-in-windows-11-resolved/"><u>Microsoft Edge Stability Issues Fixed in Windows 11 - Resolved</u></a></li>
-<li><a href="https://win-dash.techidaily.com/resolved-compatibility-challenges-of-intel-hd-graphics-630-with-windows-operating-systems/"><u>Resolved: Compatibility Challenges of Intel HD Graphics 630 with Windows Operating Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-hitch-successful-activation-of-vanguard-skin-in-valorant-gameplay/"><u>Resolving the Hitch: Successful Activation of Vanguard Skin in Valorant Gameplay</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-samsung-galaxy-s24plus-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Samsung Galaxy S24+ Phone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solving-steam-issues-for-a-smooth-run-of-tiny-tinas-wonderlands-on-windows/"><u>Troubleshooting and Solving Steam Issues for a Smooth Run of Tiny Tina's Wonderlands on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-for-persistent-crashing-in-grand-theft-auto-5/"><u>Troubleshooting Guide for Persistent Crashing in Grand Theft Auto 5</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-issues-when-launching-avatar-the-game-on-pandora-frontiers/"><u>Troubleshooting Guide: Resolving Issues When Launching 'Avatar - The Game' On Pandora Frontiers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unlocking-fixes-for-your-onikuma-microphone-complete-troubleshooting-tutorial/"><u>Unlocking Fixes for Your Onikuma Microphone - Complete Troubleshooting Tutorial</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-how-to-fix-live-video-interrupted-on-facebook-in-2024/"><u>[New] How to Fix Live Video Interrupted on Facebook, In 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-premium-software-selection-upload-videos-for-twitter/"><u>[Updated] 2024 Approved Premium Software Selection Upload Videos for Twitter</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-next-gen-wraps-for-virtual-reality-enthusiasts-for-2024/"><u>[Updated] Next-Gen Wraps for Virtual Reality Enthusiasts for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/corsair-h115i-driver-solutions-for-seamless-operation-across-different-windows-versions/"><u>Corsair H115i Driver Solutions for Seamless Operation Across Different Windows Versions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/discovering-screenflow-on-macos-an-expert-review/"><u>Discovering ScreenFlow on MacOS An Expert Review</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-tips-for-eliminating-crackling-noise-from-computer-speakers-on-windows-platforms/"><u>Expert Tips for Eliminating Crackling Noise From Computer Speakers on Windows Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-steam-cannot-update-cloud-library-comprehensive-solutions/"><u>Fixing 'Steam Cannot Update Cloud Library': Comprehensive Solutions</u></a></li>
+<li><a href="https://win-updates.techidaily.com/gratuit-flv-to-wav-conversion-en-ligne-movevi-leader-du-web/"><u>Gratuit FLV-to-WAV Conversion en Ligne - Movevi: Leader Du Web</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-navigate-easy-customization-for-youtube-channel-urls/"><u>In 2024, Navigate Easy Customization for YouTube Channel URLs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-connectivity-hurdles-with-steams-servers-a-fix-guide/"><u>Overcoming Connectivity Hurdles with Steam's Servers: A Fix Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-persistent-crashes-in-necromunda-hired-gun-for-pc-gamers-solutions-explored/"><u>Overcoming Persistent Crashes in Necromunda: Hired Gun for PC Gamers - Solutions Explored</u></a></li>
 </ul></div>
 

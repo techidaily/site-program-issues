@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Successful Launches of CS:GO - Expert Strategies"
-date: 2024-08-06T09:47:19.556Z
-updated: 2024-08-07T09:47:19.556Z
+date: 2024-09-15T18:45:10.097Z
+updated: 2024-09-21T18:45:57.634Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ Players have been reporting an issue of extremely slow download speed in Origin.
 
 ![Origin slow download speed](https://images.drivereasy.com/wp-content/uploads/2020/09/EA-image-1-1200x675.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not need to try them all; simply work your way down the list until you find the one that works.
@@ -35,10 +32,6 @@ Players have been reporting an issue of extremely slow download speed in Origin.
 7. **[Reinstall Origin](https://tools.techidaily.com/drivereasy/download/)**
 8. **[If your problem persists…](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Fix 1: Check your network
 
  The Origin download requires a stable network. If you’re seeing slow speeds, it’s most likely an issue with your network. In this case, you can:
@@ -67,23 +60,12 @@ OR
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and **detect any outdated drivers** .
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
   
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/update-network-adapter-driver.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -110,9 +92,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Perform a clean boot
 
  A clean boot on PC or safe mode on Mac might help fix the issue by disabling all background programs including Steam. Because chances are they are interfering with your games. Below are the steps on how to perform a clean boot on a PC. If you’re using Mac, please visit the page on[How to use safe mode on your Mac](https://support.apple.com/en-us/HT201262) .
@@ -121,10 +100,14 @@ OR
 
  2) Type**msconfig** and click**OK** to open the**System Configuration** window.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![how to bring up system configuration](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click on the**Services** tab. Check the box to**Hide all Microsoft services** , then click**Disable all** .
 
@@ -142,16 +125,10 @@ OR
 
  7) Click**OK** to save your changes, then restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![perform a clean boot](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-4.png)
 
  8) Click**restart** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![perform a clean boot](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-5.png)
 
 ---
@@ -176,11 +153,15 @@ OR
 
 ![slow download speed](https://images.drivereasy.com/wp-content/uploads/2020/09/RD-mode.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**File** \>**Save As** .
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![Use R&D Mode Origin; Start Origin in R&D Mode](https://images.drivereasy.com/wp-content/uploads/2020/09/Start-Origin-in-RD-Mode-2-1.png)
 
  5) Type**EACore.ini** in the**File name** .
@@ -189,21 +170,35 @@ OR
 
 After that, you’ll see an icon on your desktop like the picture.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/EACore-icon.png)
 
  6) Now start Origin, and click Yes when the USE CONFIGURATION FILE ON DESKTOP window pops up. This will overwrite your old config file. After that, log into Origin.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![Use R&D Mode Origin; Start Origin in R&D Mode](https://images.drivereasy.com/wp-content/uploads/2020/09/Start-Origin-in-RD-Mode-4.png)
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The**EACore.ini** file is deleted from your desktop once you import it. If you want to leave R&D mode, you can navigate to the file by typing**%ProgramData%/Origin** in the Run box.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Clean the Origin cache file
 
@@ -211,9 +206,6 @@ After that, you’ll see an icon on your desktop like the picture.
 
  First, in the**menu bar** , click**Origin** and then**Exit** .
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![exit Origin](https://images.drivereasy.com/wp-content/uploads/2020/09/exit-Origin.png)
 
  To double-check if it’s running in the background, you can go to the**Task Manager** :
@@ -237,18 +229,12 @@ After that, you’ll see an icon on your desktop like the picture.
 
  2) Type**%ProgramData%/Origin** and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open the cache files](https://images.drivereasy.com/wp-content/uploads/2020/09/open-the-cache-files.png)
 
  3) Delete all the files and folders inside Origin**except for LocalContent** . Do not delete this folder.
 
  4) Open the**Run** box again. Type**%AppData%** and then click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access the appdata](https://images.drivereasy.com/wp-content/uploads/2020/09/access-the-appdata.png)
 
  5) In the**Roaming** folder, delete the**Origin** folder.
@@ -257,16 +243,17 @@ After that, you’ll see an icon on your desktop like the picture.
 
  6) In the**address bar** , click on**AppData** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![access the appdata](https://images.drivereasy.com/wp-content/uploads/2020/09/access-the-appdata-2-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  7) Double-click on the**Local** folder to open it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-the-origin-cache-1.png)
 
  8) Delete the**Origin** folder.
@@ -277,9 +264,6 @@ After that, restart your computer and log into Origin.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Fix 7: Reinstall Origin
 
  If none of the fixes listed above work for you, then you might consider uninstalling and reinstalling the app. To do so, you can:
@@ -320,11 +304,26 @@ Below is the VPN we would like to recommend:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-secrets-to-stunning-fisheye-sphere-photography/"><u>[New] In 2024, Secrets to Stunning Fisheye Sphere Photography</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-windows-11-capture-top-eight-tools-ranked/"><u>[New] In 2024, Windows 11 Capture Top Eight Tools Ranked</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/asterclass-banishing-green-on-your-mac-for-youtube-success-for-2024/"><u>[New] Masterclass Banishing Green on Your Mac for YouTube Success for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-playback-problem-why-cant-i-watch-video-on-sony-a6400-in-2024/"><u>[New] Playback Problem Why Can't I Watch Video on Sony A6400, In 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-how-to-fix-persistent-crashing-issues-on-your-pc-while-playing-call-of-dute-black-ops-cold-war/"><u>[SOLVED] How to Fix Persistent Crashing Issues on Your PC While Playing Call of Dute: Black Ops Cold War</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-alternative-platforms-windows-media-cutting-tools/"><u>[Updated] In 2024, Alternative Platforms WIndows Media Cutting Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/bridging-gap-integrating-zoom-into-your-gmail-setup/"><u>Bridging Gap Integrating Zoom Into Your Gmail Setup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/critical-bug-fixes-for-call-of-duty-gamers-addressing-modern-warfare-and-warzone-errors/"><u>Critical Bug Fixes for Call of Duty Gamers - Addressing Modern Warfare and Warzone Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-fixes-for-users-unable-to-access-discord-application/"><u>Essential Fixes for Users Unable to Access Discord Application</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/guide-on-how-to-enable-the-text-to-speech-function-on-iphone-for-2024/"><u>Guide on How to Enable the Text to Speech Function on iPhone for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intels-comprehensive-extended-warranty-program-unveiled-coverage-for-13th-and-14th-gen-core-i5-i7-and-i9-chips/"><u>Intel's Comprehensive Extended Warranty Program Unveiled: Coverage for 13Th & 14Th Gen Core I5, I7, & I9 Chips</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-realme-c67-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Realme C67 5G without Them Knowing | Dr.fone</u></a></li>
+</ul></div>
+

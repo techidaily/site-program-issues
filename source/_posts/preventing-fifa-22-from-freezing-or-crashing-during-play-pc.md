@@ -1,7 +1,7 @@
 ---
 title: Preventing FIFA 22 From Freezing or Crashing During Play (PC)
-date: 2024-09-15T17:01:05.557Z
-updated: 2024-09-16T21:35:57.783Z
+date: 2024-09-16T19:13:56.868Z
+updated: 2024-09-21T20:00:13.315Z
 tags:
   - win11
   - win10
@@ -67,9 +67,29 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also do it for free if you like, but it’s partly manual.
 
@@ -80,10 +100,10 @@ Here is how to verify the integrity of Dauntless:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Close the background programs
@@ -93,6 +113,13 @@ Here is how to verify the integrity of Dauntless:
  Hopefully your Dauntless crashing issue is resolved by now. If it’s still no joy, please move on to**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus program
 
@@ -105,13 +132,6 @@ Here is how to verify the integrity of Dauntless:
  Dauntless still crashes? Don’t worry, you have one more fix to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Run Dauntless on the dedicated graphics card
 
@@ -127,13 +147,6 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
@@ -143,13 +156,6 @@ Here is how to verify the integrity of Dauntless:
  5) In **Select the preferred graphics processor for this program** , select **High-performance NVIDIA processor** . Then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-24.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6) Launch Dauntless and check to see if the crashing issue is fixed.
 
@@ -174,17 +180,17 @@ Here is how to verify the integrity of Dauntless:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-essential-screen-recording-tips-for-windows-8-pros/"><u>[Updated] Essential Screen Recording Tips for Windows 8 Pros</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/can-adobe-premiere-pro-handle-av1-video-formats-for-importingexporting/"><u>Can Adobe Premiere Pro Handle AV1 Video Formats for Importing/Exporting?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/defeat-twitch-hiccups-7-strategies-for-resolving-playback-glitches/"><u>Defeat Twitch Hiccups: 7 Strategies for Resolving Playback Glitches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-low-fps-issues-for-dota-2-players-on-the-latest-windows-operating-system/"><u>Fixing Low FPS Issues for Dota 2 Players on the Latest Windows Operating System</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-riot-games-fixed-the-recurring-connectivity-bug-in-lols-latest-2aster-version/"><u>How Riot Games Fixed the Recurring Connectivity Bug in LoL's Latest 2Aster Version</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-novice-to-pro-steps-for-social-success/"><u>In 2024, From Novice to Pro Steps for Social Success</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Apple iPhone 11? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/restoring-sound-linkage-in-obs-broadcasts-for-2024/"><u>Restoring Sound Linkage in OBS Broadcasts for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-prolonged-startup-for-pc-players-of-star-wars-battlefront-ii/"><u>Troubleshooting Prolonged Startup for PC Players of Star Wars: Battlefront II</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fixes-to-eliminate-v-rising-frame-drops-and-freeze-ups-on-pc/"><u>Ultimate Fixes to Eliminate 'V Rising' Frame Drops and Freeze-Ups on PC</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-se-2022-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone SE (2022) to PC | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-destiny-2-error-code-centipede/"><u>[SOLVED] Destiny 2 Error Code Centipede</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-premium-screen-capturer-non-lagging-efficiency/"><u>[Updated] In 2024, Premium Screen Capturer Non-Lagging Efficiency</u></a></li>
+<li><a href="https://program-issues.techidaily.com/achieve-uninterrupted-gaming-defeating-garrys-mod-crashing-glitches-with-effective-fixes/"><u>Achieve Uninterrupted Gaming: Defeating Garry's Mod Crashing Glitches with Effective Fixes</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-apple-iphone-xr-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How To Leave a Life360 Group On Apple iPhone XR Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-iphone-se-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From iPhone SE? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Honor Magic 5 Lite? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-professional-insights-into-androids-recording-features/"><u>In 2024, Professional Insights Into Android's Recording Features</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/maximize-meteorological-measurements-with-the-ws-2902a-osprey-a-detailed-overview/"><u>Maximize Meteorological Measurements with the WS-2902A Osprey: A Detailed Overview</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-lag-and-freezes-effective-fixes-for-hearthstone-pc-performance-issues/"><u>Overcome Lag and Freezes: Effective Fixes for Hearthstone PC Performance Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-to-launch-valorant-successfully-on-pc-expert-advice-from-202/"><u>Step-by-Step Fixes to Launch Valorant Successfully on PC: Expert Advice From 202</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-cant-i-open-crusader-kings-2-and-how-to-get-it-running-smoothly-again/"><u>Why Can't I Open Crusader Kings 2 & How to Get It Running Smoothly Again</u></a></li>
 </ul></div>
 

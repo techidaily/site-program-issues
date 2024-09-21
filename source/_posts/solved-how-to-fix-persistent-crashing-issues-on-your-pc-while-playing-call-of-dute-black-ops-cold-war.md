@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] How to Fix Persistent Crashing Issues on Your PC While Playing Call of Dute: Black Ops Cold War"
-date: 2024-09-11T19:34:42.624Z
-updated: 2024-09-16T17:29:45.363Z
+date: 2024-09-15T18:21:26.616Z
+updated: 2024-09-21T16:26:53.837Z
 tags:
   - win11
   - win10
@@ -77,6 +77,13 @@ System requirements of WRC 10 from Steam
 
  When the verifying process completed, launch WRC 10 and check if this fix works. If the game still crashes, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Update your graphics driver
 
  Graphics driver is essential to the functioning of video games. If WRC 10 keeps crashing on your PC, it’s likely that you have the corrupted or outdated graphics driver on your PC. So you should update your drivers to see if it fixes the game crashing issues.
@@ -95,13 +102,6 @@ System requirements of WRC 10 from Steam
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -114,13 +114,6 @@ System requirements of WRC 10 from Steam
 
  Launch WRC 10 again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Temporarily disable anti-virus software
 
  Some 3rd party antivirus software would interfere with the game files, which may also crash the game.
@@ -130,6 +123,13 @@ System requirements of WRC 10 from Steam
  Run WRC 10 and check if this issue persists after you disabled the anti-virus software on your PC.
 
  If the game crashing issue persists, try the next fix to perform a clean boot.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Perform a clean boot
 
@@ -145,10 +145,10 @@ System requirements of WRC 10 from Steam
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
@@ -157,14 +157,14 @@ System requirements of WRC 10 from Steam
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Restart** your PC and launch WRC 10 to check if the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
@@ -200,19 +200,20 @@ System requirements of WRC 10 from Steam
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/exclusive-insight-on-the-postponed-launch-of-mafia-definitive-edition/"><u>Exclusive Insight on the Postponed Launch of Mafia: Definitive Edition</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2021-file-stellar-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2021 File | Stellar</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-palworld-eos-login-troubles-6-effective-strategies-that-work/"><u>Fix Your PalWorld EOS Login Troubles: 6 Effective Strategies That Work</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-continuous-crashing-of-the-lunar-client-on-your-computer/"><u>How to Resolve Continuous Crashing of the Lunar Client on Your Computer</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-resolve-frequent-rust-program-termination-issues-effectively/"><u>How to Resolve Frequent Rust Program Termination Issues Effectively</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Poco C65 | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-motorola-moto-g73-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Motorola Moto G73 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/navigating-the-market-unveiling-the-top-six-outlets-to-shop-for-laptops/"><u>Navigating the Market: Unveiling the Top Six Outlets to Shop for Laptops</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/old-school-giggles-unpacking-goofy-movie/"><u>Old School Giggles Unpacking 'Goofy Movie'</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723002592694-pc-gaming-made-simple-resolve-disco-elysium-game-crash-issues-today/"><u>PC Gaming Made Simple: Resolve 'Disco Elysium' Game Crash Issues Today!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-11-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 11 Data From iOS iCloud | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-steam-platform-issues-persistent-freezes-and-lags/"><u>Resolving Steam Platform Issues: Persistent Freezes & Lags</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-stabilize-your-nox-player-experience-avoid-pc-disruptions/"><u>Solution: Stabilize Your Nox Player Experience - Avoid PC Disruptions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-fixing-pc-compatibility-for-an-optimal-disco-elysium-experience/"><u>Troubleshooting Tips: Fixing PC Compatibility for an Optimal 'Disco Elysium' Experience</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-record-skype-meeting-on-windows-and-mac-skype-for-business/"><u>[New] How to Record Skype Meeting on Windows and Mac | Skype for Business</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-how-to-elevate-your-youtube-videos-popularity-through-persistent-cc-licensing/"><u>[Updated] 2024 Approved How to Elevate Your YouTube Video's Popularity Through Persistent CC Licensing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhanced-listening-experience-starfield-audio-error-corrections-for-continuous-playback/"><u>Enhanced Listening Experience - Starfield Audio Error Corrections for Continuous Playback</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-the-next-level-of-smart-writing-microsoft-introduces-copilot-ai-for-seamless-keyboard-interaction/"><u>Experience the Next Level of Smart Writing: Microsoft Introduces Copilot AI for Seamless Keyboard Interaction</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-vivo-y78plus-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Vivo Y78+ FRP Locks</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-slow-mo-to-fast-mo-top-10-free-video-speed-changing-apps-for-ios-and-android/"><u>In 2024, Slow Mo to Fast Mo Top 10 Free Video Speed Changing Apps for iOS and Android</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-vimeo-videos-on-instagram-a-complete-guide/"><u>In 2024, Vimeo Videos on Instagram A Complete Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-cyberpunk-2077-to-use-gpu-on-a-windows-10-machine/"><u>Optimizing Cyberpunk 2077 to Use GPU on a Windows 10 Machine</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gaming-relief-overcoming-forza-horizon-4s-infamous-crash-bug-solutions/"><u>PC Gaming Relief: Overcoming Forza Horizon 4'S Infamous Crash Bug Solutions</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/polyglot-programme-progression/"><u>Polyglot Programme Progression</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-guide-resolving-wwe-2k20-pc-shutdown-issues-smoothly/"><u>Quick Guide: Resolving WWE 2K20 PC Shutdown Issues Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-modern-warfare-3-app-crashing-fixes-and-solutions/"><u>Resolved: Modern Warfare 3 App Crashing - Fixes & Solutions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-connected-conexant-hd-drivers-windows-11/"><u>Secure Connected: Conexant HD Drivers Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-skydrive-issues-steps-to-resolve-city-building-not-launching/"><u>Troubleshooting SkyDrive Issues: Steps to Resolve City Building Not Launching</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-realme-10t-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Realme 10T 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
 

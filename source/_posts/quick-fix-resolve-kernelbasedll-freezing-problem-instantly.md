@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix: Resolve KernelBase.dll Freezing Problem Instantly"
-date: 2024-09-10T16:52:54.355Z
-updated: 2024-09-16T21:42:01.526Z
+date: 2024-09-18T20:56:27.516Z
+updated: 2024-09-21T22:20:34.166Z
 tags:
   - win11
   - win10
@@ -85,17 +85,18 @@ If this method doesn’t help, go ahead with the next fix below.
 2. Click the**View** tab and make sure**Hidden items** is ticked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-5.jpg)
 3. Navigate to the following locations:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
 4. Delete the**Preferences** and**Caches** folder.
 
 So does the crash go away now? If not, there is the last fix to try.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Set launch options
 
@@ -104,27 +105,34 @@ So does the crash go away now? If not, there is the last fix to try.
 1. Open Steam and go to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
-3. Click**Set Launch Options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
+3. Click**Set Launch Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
 
@@ -153,19 +161,20 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-depths-of-photo-manipulation/"><u>[Updated] Exploring the Depths of Photo Manipulation</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-make-your-time-lagged-footage-shine-with-easy-android-tricks/"><u>[Updated] Make Your Time-Lagged Footage Shine with Easy Android Tricks</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-step-by-step-guide-to-joining-and-initiating-zoom-meetings-on-android-for-2024/"><u>[Updated] Step-By-Step Guide to Joining & Initiating Zoom Meetings on Android for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723008735507-battling-freezing-frame-rates-in-fallout-4-discover-effective-solutions/"><u>Battling Freezing Frame Rates in Fallout 4? Discover Effective Solutions!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/curing-the-dragon-quest-xi-crashes-with-ease-a-detailed-solution-breakdown/"><u>Curing the Dragon Quest XI Crashes with Ease – A Detailed Solution Breakdown</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-realme-gt-5-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Realme GT 5 Pro Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/ensuring-peak-performance-updating-intel-82579lm-for-windows-users/"><u>Ensuring Peak Performance: Updating Intel 82579LM for Windows Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-and-tricks-for-a-working-obs-mic-top-6-solutions-for-the-current-year/"><u>Expert Tips and Tricks for a Working OBS Mic - Top 6 Solutions for the Current Year</u></a></li>
-<li><a href="https://program-issues.techidaily.com/final-fantasy-xv-stability-issues-on-pc-corrected-comprehensive-guide/"><u>Final Fantasy XV Stability Issues on PC Corrected - Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-diagnose-and-correct-the-issue-of-missing-texts-on-android-phones/"><u>How to Diagnose and Correct the Issue of Missing Texts on Android Phones</u></a></li>
-<li><a href="https://facebook.techidaily.com/redefining-relationships-beyond-facebook/"><u>Redefining Relationships Beyond Facebook</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolve-your-document-editing-hurdles-top-5-fixes-for-winwordexe-malfunctions/"><u>Resolve Your Document Editing Hurdles: Top 5 Fixes for winword.exe Malfunctions</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-8-android-fixes-for-time-lags-in-videos-for-2024/"><u>Top 8 Android Fixes for Time-Lags in Videos for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-why-is-metro-exodus-pc-enhanced-edition-experiencing-crashes/"><u>Troubleshooting Guide: Why Is Metro Exodus (PC) Enhanced Edition Experiencing Crashes?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-secrets-to-successfully-archive-facebook-messenger-chat/"><u>2024 Approved Secrets to Successfully Archive Facebook Messenger Chat</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cant-play-helldivers-2-on-steam-learn-how-to-resolve-it-now/"><u>Can't Play Helldivers 2 on Steam? Learn How to Resolve It Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cutting-edge-solutions-for-eliminating-dota-2-delays-and-improving-playtime-tips/"><u>Cutting Edge Solutions for Eliminating Dota 2 Delays and Improving Playtime - Tips</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/engaging-article-leader/"><u>Engaging Article Leader</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-for-stabilizing-call-of-dutys-dead-zombie-war-on-pc-crash-issues-solved/"><u>Expert Advice for Stabilizing Call of Duty's Dead Zombie War on PC – Crash Issues Solved</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ss-10-tools-to-grab-youtube-images-online/"><u>Harness 10 Tools to Grab YouTube Images Online</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-infinix-note-30-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Infinix Note 30</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-withwithout-sim-card-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro with/without SIM Card</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Xiaomi Redmi Note 13 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-windows-10s-complete-guide-to-saving-mov-content-with-ease/"><u>In 2024, Windows 10'S Complete Guide to Saving .mov Content with Ease</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-smooth-playbacks-ultimate-guide-to-overcoming-game-lag-for-high-frame-rates/"><u>Master Smooth Playbacks: Ultimate Guide to Overcoming Game Lag for High Frame Rates</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-solution-to-eliminate-steamvr-error-message-308/"><u>Mastering the Solution to Eliminate SteamVR Error Message 308</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-overcoming-the-nvidia-geforce-0x0003-issue/"><u>Step-by-Step Solution: Overcoming the NVIDIA Geforce 0X0003 Issue</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-fixes-successfully-downloading-and-playing-tiny-tinas-wonderlands-on-your-desktop-pc/"><u>Troubleshooting & Fixes - Successfully Downloading and Playing Tiny Tina’s Wonderlands on Your Desktop PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fix-guide-for-pc-players-preventing-street-fighter-6-from-crashing-expert-advice/"><u>Ultimate Fix Guide for PC Players: Preventing Street Fighter 6 From Crashing (Expert Advice)</u></a></li>
 </ul></div>
 

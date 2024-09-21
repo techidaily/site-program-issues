@@ -1,7 +1,7 @@
 ---
 title: "Gaming Smoothly on PC with Aliens: Fireteam Elite - How to Stop the Crashes"
-date: 2024-09-10T19:06:42.375Z
-updated: 2024-09-16T16:05:12.074Z
+date: 2024-09-20T18:36:13.895Z
+updated: 2024-09-21T20:21:15.832Z
 tags:
   - win11
   - win10
@@ -59,6 +59,13 @@ Just follow the steps below to verify integrity of game files:
 
 There’re mainly two ways you can update your graphics drivers:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -74,13 +81,6 @@ There’re mainly two ways you can update your graphics drivers:
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 Or
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -99,21 +99,14 @@ Or
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -154,6 +147,13 @@ Or
 
  See this issue persists after you stopped overclocking. If this fix didn’t help, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 6: Disable Steam Overlay
 
  Overlays are handy, but sometimes they would interfere with the game and even block the game files, leading to the game crashing issues.
@@ -164,18 +164,18 @@ Or
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
  If you’re using other apps with overlay features (e.g. Discord, Nvidia GeForce Experience, Twitch, etc.), ensure you’ve disabled the in-game overlay in those apps feature.
 
  Launch WWE 2K22 and see if the it crashes again. If this fix doesn’t work, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 7: Disable third-party antivirus software
 
@@ -208,21 +208,20 @@ Or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-step-by-step-guide-to-brightening-gopro-footage/"><u>[New] Step-by-Step Guide to Brightening GoPro Footage</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-adjust-your-android-images-right-here/"><u>[Updated] Adjust Your Android Images Right Here</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-streamline-your-slide-show-enable-voice-input-with-powerpoint/"><u>[Updated] Streamline Your Slide Show Enable Voice Input with PowerPoint</u></a></li>
-<li><a href="https://program-issues.techidaily.com/call-of-duty-warzone-fixes-the-infamous-ocean-crash-on-pacific-map/"><u>Call of Duty: Warzone Fixes the Infamous Ocean Crash on Pacific Map</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-call-logs-on-itel-s23-by-fonelab-android-recover-call-logs/"><u>Complete guide for recovering call logs on Itel S23</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-correcting-the-nvidia-access-denied-mistake/"><u>Expert Advice: Correcting the NVIDIA Access Denied Mistake</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-guide-to-resolving-apex-legends-technical-snags-and-crashes/"><u>Expert Guide to Resolving Apex Legends Technical Snags and Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-for-the-persistent-issue-halting-halo-infinites-pc-crashes/"><u>Fixes for the Persistent Issue: Halting Halo Infinite's PC Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-fatal-launch-stalls-expert-tips-for-a-smooth-company-debut/"><u>Fixing Fatal Launch Stalls - Expert Tips for a Smooth Company Debut</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-i-solved-my-problem-with-non-responsive-razer-synapse-software/"><u>How I Solved My Problem with Non-Responsive Razer Synapse Software</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-yuva-3-by-fonelab-android-recover-video/"><u>How to recover old videos from your Yuva 3</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Samsung Galaxy Z Flip 5? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Share/Fake Location on WhatsApp for Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-the-lameencdll-file-for-better-audacity-performance/"><u>Troubleshooting the 'lame_enc.dll' File for Better Audacity Performance</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ubuntu-installation-guide-ensure-system-compatibility-and-avoid-crashes/"><u>Ubuntu Installation Guide: Ensure System Compatibility & Avoid Crashes</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-in-2024-ready-to-dive-into-photo-talking-videos-heres-what-you-need-to-know/"><u>Updated In 2024, Ready To Dive Into Photo Talking Videos? Heres What You Need To Know</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-lightning-fast-lore-resurrecting-reddit-articles-lost/"><u>[New] Lightning-Fast Lore Resurrecting Reddit Articles Lost</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-god-of-war-keeps-crashing-on-pc/"><u>[SOLVED] God of War Keeps Crashing on PC</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-ultimate-list-best-virtual-playstation-3-software/"><u>[Updated] In 2024, Ultimate List Best Virtual PlayStation 3 Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-buzzwords-a-closer-look-at-gaming-promos/"><u>Beyond Buzzwords: A Closer Look at Gaming Promos</u></a></li>
+<li><a href="https://win-answers.techidaily.com/discover-koreas-best-music-platforms-top-4-picks-plus-guide-for-downloading-your-favorite-bgm/"><u>Discover Korea's Best Music Platforms - Top 4 Picks + Guide for Downloading Your Favorite BGM!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-madden-22s-load-screen-hang-up-for-smooth-gameplay-experience/"><u>Fixing Madden 22'S Load Screen Hang-Up for Smooth Gameplay Experience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your drivers with Windows Device Manager in Windows 11/10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-motorola-razr-40-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Motorola Razr 40</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-art-of-smooth-gaming-eliminating-lags-in-serious-sam-4-for-pc-users/"><u>Mastering the Art of Smooth Gaming: Eliminating Lags in Serious Sam 4 for PC Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/optimal-environmental-film-tech-roundup/"><u>Optimal Environmental Film Tech Roundup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-the-fifa-2020-game-crash-issue/"><u>Resolved: How to Fix the FIFA 2020 Game Crash Issue</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-expert-guide-to-swift-fb-profiling-for-2024/"><u>The Expert Guide to Swift FB Profiling for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-fix-guide-dealing-with-frequent-frontier-crashes-on-windows/"><u>The Ultimate Fix Guide: Dealing with Frequent Frontier Crashes on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-repairing-the-persistent-problem-of-metro-exodus-pc-crashes/"><u>Troubleshooting and Repairing the Persistent Problem of Metro Exodus PC Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-isnt-my-cortana-responding-and-how-to-resolve-it/"><u>Why Isn't My Cortana Responding and How to Resolve It?</u></a></li>
 </ul></div>
 

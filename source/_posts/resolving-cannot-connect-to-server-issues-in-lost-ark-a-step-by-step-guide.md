@@ -1,7 +1,7 @@
 ---
 title: "Resolving 'Cannot Connect to Server' Issues in Lost Ark: A Step-by-Step Guide"
-date: 2024-09-14T16:03:27.078Z
-updated: 2024-09-16T20:06:36.518Z
+date: 2024-09-15T21:13:55.069Z
+updated: 2024-09-21T22:24:19.564Z
 tags:
   - win11
   - win10
@@ -87,6 +87,19 @@ Here’s how you can download and install Windows updates:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
@@ -107,16 +120,10 @@ Here’s how you can do this:
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Select the**GENERAL**  tab. Then under the**LAUNCH OPTIONS** section, type**\-force -dx11** in the text field. This command line will allow you to run your game in DX11 mode.  
@@ -127,19 +134,6 @@ Here’s how you can do this:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Verify integrity of game files
 
  The built-in tool “verify integrity of game files” on Steam should be utilized when you try to troubleshoot any issues you’re having with the game. It helps ensure that your game files are intact and if necessary, repair any bad or corrupted game data.
@@ -149,6 +143,13 @@ To verify the integrity of game files, take these steps:
  1) Open your Steam client. Under LIBRARY, right-click your game title and select **Properties** .  
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Select the **LOCAL FILES**  tab and then click on the **Verify integrity of game files…**  button.
 
@@ -161,10 +162,10 @@ To verify the integrity of game files, take these steps:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Disable Steam overlay
@@ -178,19 +179,6 @@ To verify the integrity of game files, take these steps:
  2) Under the**GENERAL** tab, uncheck the box next to**Enable the Steam Overlay while in-game** .  
   
 ![disable Steam overlay Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-steam-overlay.png)
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now play Outriders to see if you can get better gaming performance.
 
@@ -206,16 +194,16 @@ Now play Outriders to see if you can get better gaming performance.
   
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Outriders and select **End task** .
 
 ![disable programs running in the background Call of Duty Black Ops Cold War crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After you’ve done these, play Outriders to check if it should look better.
 
@@ -238,17 +226,21 @@ Now play Outriders to see if you can get better gaming performance.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-capture-and-compose-best-writing-apps-for-photos-iosandroid/"><u>[Updated] Capture and Compose Best Writing Apps for Photos (iOS/Android)</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-from-blurry-edges-to-squared-perfection-the-imovie-guide-for-instagram-videos-for-2024/"><u>[Updated] From Blurry Edges to Squared Perfection The iMovie Guide for Instagram Videos for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-economics-of-video-promotion-platforms/"><u>2024 Approved The Economics of Video Promotion Platforms</u></a></li>
-<li><a href="https://program-issues.techidaily.com/banish-those-bothersome-freezes-and-crashes-in-your-favorite-viking-world-valheim/"><u>Banish Those Bothersome Freezes & Crashes in Your Favorite Viking World, Valheim!</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/d-the-scenes-youtube-live-thumbnail-secrets/"><u>Behind the Scenes YouTube Live Thumbnail Secrets</u></a></li>
-<li><a href="https://facebook.techidaily.com/best-practices-for-fb-job-announcements/"><u>Best Practices for FB Job Announcements</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-find-x6-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Oppo Find X6 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-building-meme-foundations/"><u>In 2024, Expert Tips Building Meme Foundations</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-11-pro-by-drfone-ios/"><u>In 2024, The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 11 Pro</u></a></li>
-<li><a href="https://program-issues.techidaily.com/league-of-legends-update-2024-fixes-and-features-including-the-infamous-connectivity-bug-resolution/"><u>League of Legends Update 2024 - Fixes and Features Including the Infamous Connectivity Bug Resolution</u></a></li>
-<li><a href="https://extra-information.techidaily.com/spin-renegade-suite/"><u>Spin Renegade Suite</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steam-friendship-woes-be-gone-tackling-the-network-out-of-reach-fault/"><u>Steam Friendship Woes Be Gone: Tackling the Network Out-of-Reach Fault</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-critical-platforms-offering-twitter-like-interaction-for-2024/"><u>[Updated] Critical Platforms Offering Twitter-Like Interaction for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-transformative-audio-techniques-srt-conversion-mastery/"><u>[Updated] In 2024, Transformative Audio Techniques SRT Conversion Mastery</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-green-screen-revolution-access-comprehensive-tutorials-from-4-leading-youtube-educators/"><u>[Updated] The Green Screen Revolution Access Comprehensive Tutorials From 4 Leading YouTube Educators</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-infinix-smart-8-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Infinix Smart 8 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/city-skylines-crash-no-more-top-fixes-and-tweaks-for-a-smooth-gaming-experience/"><u>City Skylines Crash No More: Top Fixes and Tweaks for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-pc-malfunctions-heres-how-to-resolve-them/"><u>Cyberpunk 2077 PC Malfunctions? Here's How to Resolve Them</u></a></li>
+<li><a href="https://program-issues.techidaily.com/football-manager-2020-stability-improvements-no-more-crashes/"><u>Football Manager 2020 Stability Improvements – No More Crashes!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-14-pro-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 14 Pro without Passcode or Face ID</u></a></li>
+<li><a href="https://win-webster.techidaily.com/introducing-flipbuilders-multilingual-feature-build-and-publish-in-german-easily/"><u>Introducing FlipBuilder's Multilingual Feature: Build and Publish in German Easily!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723211938862-keyboard-troubles-learn-how-to-perform-a-quick-reset/"><u>Keyboard Troubles? Learn How to Perform a Quick Reset</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-launch-problems-with-the-nier-replicant-remaster/"><u>Overcoming Launch Problems with the NieR Replicant Remaster</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723012617676-stop-playing-games-with-your-pc-resolve-ascent-crashing-issues-now/"><u>Stop Playing Games With Your PC: Resolve Ascent Crashing Issues Now</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/the-ultimate-tutorial-on-extracting-music-from-brstm-file-format/"><u>The Ultimate Tutorial on Extracting Music From BRSTM File Format</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-continuous-freezes-in-halo-3-for-pc-players/"><u>Troubleshooting Continuous Freezes in Halo 3 for PC Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-pc-freezes-for-sovled-necromunda-hired-gun-gaming-experience/"><u>Troubleshooting PC Freezes for [SOVLED] Necromunda: Hired Gun Gaming Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/uncover-hidden-windows-11-taskbar-investigative-tool/"><u>Uncover Hidden Windows 11 Taskbar Investigative Tool</u></a></li>
 </ul></div>
 

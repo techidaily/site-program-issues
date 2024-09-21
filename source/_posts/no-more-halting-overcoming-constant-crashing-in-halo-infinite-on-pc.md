@@ -1,7 +1,7 @@
 ---
 title: "No More Halting: Overcoming Constant Crashing in Halo Infinite on PC"
-date: 2024-09-15T20:40:12.887Z
-updated: 2024-09-16T17:57:05.459Z
+date: 2024-09-20T17:29:42.179Z
+updated: 2024-09-21T18:20:35.361Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
  Now that you’ve applied the changes, relaunch the game to test the issue. If the crashes persist, move on to the third fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3 – Rename the game folder
 
  It’s hard to explain why but renaming the Diablo Immortal folder is a simple trick that helped many users to run the game properly. To do this, follow the steps:
@@ -72,29 +79,22 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/de-5.7.2-scan-1.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/amd-6800xt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When the update finishes, reboot your computer for the changes to take effect. The game should be running more smoothly with better performance. If not, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair game files
@@ -118,14 +118,14 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-1-1.jpg)
 3. Select**Game Overlay** from the left pane and**toggle off** the button for**Enable in-game overlay** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Close Discord and relaunch your game. If the crashes occur again, you may need to contact Blizzard support for specific assistance.
 
@@ -151,16 +151,20 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-unveiling-solutions-to-youtube-short-pitfalls/"><u>[New] 2024 Approved Unveiling Solutions to YouTube Short Pitfalls</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-top-strategies-to-boost-your-obs-editing-skills/"><u>[New] Top Strategies to Boost Your OBS Editing Skills</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oneplus-nord-3-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My OnePlus Nord 3 5G Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-poco-x5-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-fixing-spiked-cpu-usage-on-modern-operating-systems-like-windows/"><u>Diagnosing & Fixing Spiked CPU Usage on Modern Operating Systems Like Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-to-combat-discords-packet-loss-problem/"><u>Effective Solutions to Combat Discord's Packet Loss Problem</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminating-latency-in-outriders-my-step-by-step-solution/"><u>Eliminating Latency in Outriders: My Step-by-Step Solution</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-fortnite-account-instant-solutions-for-login-issues/"><u>Fix Your Fortnite Account: Instant Solutions for Login Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-silent-menace-resolving-audio-issues-in-evil-genius-2/"><u>Fixing Silent Menace: Resolving Audio Issues in 'Evil Genius 2'</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-iphone-13-mini-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your iPhone 13 mini?</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-amplify-your-videos-value-anywhere-on-multiple-devices/"><u>In 2024, Amplify Your Video's Value Anywhere on Multiple Devices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-reclaim-original-vibrance-in-photographs-with-these-top-apps/"><u>[New] Reclaim Original Vibrance in Photographs with These Top Apps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ultimate-selection-of-non-bandicamp-cam-apps-for-mac-for-2024/"><u>[New] Ultimate Selection of Non-Bandicamp Cam Apps for Mac for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-soaring-past-competitors-mastering-drone-racing-and-best-fpv-drones/"><u>2024 Approved Soaring Past Competitors Mastering Drone Racing and Best FPV Drones</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-fixes-to-stop-your-discord-app-from-unexpectedly-quitting-during-online-gaming-broadcasts/"><u>Comprehensive Fixes to Stop Your Discord App From Unexpectedly Quitting During Online Gaming Broadcasts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/forza-horizon-grove-to-success-tips-for-overcoming-launch-difficulties/"><u>Forza Horizon Grove to Success: Tips for Overcoming Launch Difficulties</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-optimize-system-performance-by-fixing-wsappxs-heavy-disk-and-cpu-demands/"><u>How to Optimize System Performance by Fixing WSAPPX's Heavy Disk & CPU Demands</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-nubia-red-magic-8s-pro-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Nubia Red Magic 8S Pro Phone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-critical-review-of-the-newest-vegaspro/"><u>In 2024, A Critical Review of the Newest VegasPro</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-decoding-popular-themes-in-youtube-commentary/"><u>In 2024, Decoding Popular Themes in YouTube Commentary</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-oneplus-12-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on OnePlus 12 to Protect Your Individual Information</u></a></li>
+<li><a href="https://program-issues.techidaily.com/samurai-warriors-5-on-pc-resolving-unexpected-crashes-and-freezes/"><u>Samurai Warriors 5 on PC - Resolving Unexpected Crashes and Freezes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-freezing-and-crashing-problems-in-total-war-warhammer-ii-step-by-step/"><u>Troubleshooting Freezing & Crashing Problems in Total War: Warhammer II – Step by Step</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-successfully-refresh-minecrafts-primary-application/"><u>Troubleshooting Steps to Successfully Refresh Minecraft's Primary Application</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726027957212-flacmp3/"><u>フォルダ一括でFLACをMP3に、逆も可能な変換方法</u></a></li>
 </ul></div>
 

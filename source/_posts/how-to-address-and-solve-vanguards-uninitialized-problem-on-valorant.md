@@ -1,7 +1,7 @@
 ---
 title: How to Address and Solve Vanguard's Uninitialized Problem on Valorant
-date: 2024-09-13T18:05:34.405Z
-updated: 2024-09-16T17:58:53.833Z
+date: 2024-09-18T17:41:13.821Z
+updated: 2024-09-21T17:30:34.476Z
 tags:
   - win11
   - win10
@@ -79,13 +79,6 @@ If your game isn’t on the list, follow these steps:
 3. Once added, tick both the**Private** and**Public** boxes for the application.
 4. Restart your Battle.net and play the game again the test the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2\. Perform a network reset
 
  If the fix above didn’t fix your problem, the problem is not caused by your antivirus software or firewall interruption. You may want to follow these steps to reset your network quickly:
@@ -105,10 +98,10 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 4. Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3\. Change your DNS server
@@ -117,24 +110,25 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 2. Type in **ncpa.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa.jpg)
 3. Right-click your current network connection, and select **Properties** .  
-![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
-4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
+4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
 
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Preferred DNS server: 8.8.8.8**  
@@ -163,6 +157,13 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-network-driver-2.jpg)
 4. Once your drivers are up to date, restart your computer for the changes to take full effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5\. Use a VPN
 
@@ -202,15 +203,16 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapshot-savvy-exploring-the-depths-of-snapchat-filters/"><u>[New] In 2024, Snapshot Savvy Exploring the Depths of Snapchat Filters</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726028962900-3/"><u>3種類の動画フォーマットで最適なコーデックを選択するガイド</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-vivo-s17e-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Vivo S17e FRP Bypass Instantly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-artificebot-like-chatgpt-be-a-game-changer-for-modern-medicine/"><u>Can Artificebot Like ChatGPT Be a Game-Changer for Modern Medicine?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-fixes-to-stop-your-discord-app-from-unexpectedly-quitting-during-online-gaming-broadcasts/"><u>Comprehensive Fixes to Stop Your Discord App From Unexpectedly Quitting During Online Gaming Broadcasts</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/discover-the-best-in-technology-with-toms-equipment-reviews/"><u>Discover the Best in Technology with Tom's Equipment Reviews</u></a></li>
-<li><a href="https://program-issues.techidaily.com/forza-horizon-grove-to-success-tips-for-overcoming-launch-difficulties/"><u>Forza Horizon Grove to Success: Tips for Overcoming Launch Difficulties</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-blossoms-high-latency-issues-a-guide-for-pc-gamers/"><u>Resolving Blossom's High Latency Issues: A Guide for PC Gamers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/samurai-warriors-5-on-pc-resolving-unexpected-crashes-and-freezes/"><u>Samurai Warriors 5 on PC - Resolving Unexpected Crashes and Freezes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-freezing-and-crashing-problems-in-total-war-warhammer-ii-step-by-step/"><u>Troubleshooting Freezing & Crashing Problems in Total War: Warhammer II – Step by Step</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-syma-x5c-exploration-top-choice-for-novice-aerial-enthusiasts/"><u>[New] Syma X5C Exploration Top Choice for Novice Aerial Enthusiasts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-step-by-step-success-on-youtube-with-spectacision-music-videos-for-2024/"><u>[Updated] Step-by-Step Success on Youtube with Spectacision Music Videos for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-captivating-visual-transformation-software-for-pc-mac-linux/"><u>2024 Approved Captivating Visual Transformation Software for PC, Mac, Linux</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-tecno-phantom-v-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Tecno Phantom V Fold? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/deep-dive-into-jabra-talk-45s-crystal-clear-audio-and-durability/"><u>Deep Dive Into Jabra Talk 45'S Crystal Clear Audio & Durability</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-iris-pro-655-gpu-drivers-optimized-for-windows-10-and-windows-11/"><u>Intel Iris Pro 655 GPU Drivers - Optimized for Windows 10 & Windows 11</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/meme-generator-zombodroid-for-2024/"><u>MEME Generator Zombodroid for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/solving-the-mystery-of-your-pcs-constant-freezing-a-step-by-step-guide/"><u>Solving the Mystery of Your PC's Constant Freezing: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723012617676-stop-playing-games-with-your-pc-resolve-ascent-crashing-issues-now/"><u>Stop Playing Games With Your PC: Resolve Ascent Crashing Issues Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-continuous-freezes-in-halo-3-for-pc-players/"><u>Troubleshooting Continuous Freezes in Halo 3 for PC Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-pc-freezes-for-sovled-necromunda-hired-gun-gaming-experience/"><u>Troubleshooting PC Freezes for [SOVLED] Necromunda: Hired Gun Gaming Experience</u></a></li>
 </ul></div>
 

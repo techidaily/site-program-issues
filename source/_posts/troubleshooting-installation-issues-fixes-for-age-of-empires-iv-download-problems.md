@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Installation Issues: Fixes for Age of Empires IV Download Problems"
-date: 2024-08-06T09:47:22.082Z
-updated: 2024-08-07T09:47:22.082Z
+date: 2024-09-19T20:48:29.566Z
+updated: 2024-09-21T22:20:24.696Z
 tags:
   - win11
   - win10
@@ -30,50 +30,45 @@ In some cases, the culprit is NVIDA Streamer service, especially when it’s off
 
 2) Right-click **NVIDIA Streamer Service**  and click **Restart**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c2314a11508.jpg)
 
 3) See if your Shadowplay can record now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## 2: Reinstall NVIDIA Driver
 
 In some cases, GeForce Experience install programs that are not graphics driver on your PC. So you should reinstall NVIDIA display driver all over again. You can go to NVIDIA support website to search for and download the latest version of display driver available. Or you can update your video card driver via Device Manager or Windows Update. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee): 1)[**Download**](https://tools.techidaily.com/drivereasy/download/)and install Driver Easy. 2) Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9a8fa563d.png)3) Click the**Update**button next to the flagged NVIDIA device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9b0348294.jpg)4) Restart your PC for the change to take effect. See if Shadowplay works well.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ## 3: Upgrade GeForce Experience
 
 Beta version of GeForce Experience could get you faulty driver or other faulty NVIDIA applications. If you haven’t upgrade it to the latest version, do it now: 1) On your keyboard, press the**Windows logo key**and**R**at the same time. Type**appwiz.cpl**in and press**Enter**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c23613857ca.png)
 
 2) Right-click NVIDIA GeForce Experience and click**Uninstall**. Follow the on-screen instructions to uninstall it.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c236ca3feba.jpg)
 
 3) Go to NVIDIA support to download the latest version of GeForce Experience and install as instructed. 4) See if your Shadowplay not recording problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4: Enable desktop capture
 
 If desktop capture is disabled, Shadowplay won’t detect if you play the game full-screen. You can enable this feature for the recording to work again: 1) Open your Shadowplay. Click**Preference**. 2) Make sure the box for**Allow desktop capture**is ticked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c238e4810b3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) See if your Shadowplay can record now.
 
@@ -85,11 +80,30 @@ If desktop capture is disabled, Shadowplay won’t detect if you play the game f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-wirecast-versus-obs-which-broadcasting-tool-reigns-supreme/"><u>[New] 2024 Approved Wirecast Versus OBS Which Broadcasting Tool Reigns Supreme?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-from-overflow-to-order-edited-strategies-for-huge-tiktoks/"><u>[Updated] In 2024, From Overflow to Order Edited Strategies for Huge TikToks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-perfect-your-minecraft-recording-with-these-hacks/"><u>[Updated] In 2024, Perfect Your Minecraft Recording with These Hacks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unveiling-the-apple-podcast-submission-process/"><u>[Updated] In 2024, Unveiling the Apple Podcast Submission Process</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-navigating-macs-best-screen-capturing-apps-and-tech/"><u>2024 Approved Navigating Mac's Best Screen Capturing Apps & Tech</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cant-play-helldivers-2-on-steam-learn-how-to-resolve-it-now/"><u>Can't Play Helldivers 2 on Steam? Learn How to Resolve It Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cutting-edge-solutions-for-eliminating-dota-2-delays-and-improving-playtime-tips/"><u>Cutting Edge Solutions for Eliminating Dota 2 Delays and Improving Playtime - Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-for-stabilizing-call-of-dutys-dead-zombie-war-on-pc-crash-issues-solved/"><u>Expert Advice for Stabilizing Call of Duty's Dead Zombie War on PC – Crash Issues Solved</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-samsung-galaxy-a25-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-smooth-playbacks-ultimate-guide-to-overcoming-game-lag-for-high-frame-rates/"><u>Master Smooth Playbacks: Ultimate Guide to Overcoming Game Lag for High Frame Rates</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-solution-to-eliminate-steamvr-error-message-308/"><u>Mastering the Solution to Eliminate SteamVR Error Message 308</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigate-the-nuances-of-zooms-broadcast-technology-for-youtube-pros-for-2024/"><u>Navigate the Nuances of Zoom's Broadcast Technology for YouTube Pros for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-overcoming-the-nvidia-geforce-0x0003-issue/"><u>Step-by-Step Solution: Overcoming the NVIDIA Geforce 0X0003 Issue</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-king-of-gaming-stations-a-detailed-examination-of-the-xbox-one-x/"><u>The King of Gaming Stations - A Detailed Examination of the Xbox One X</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fix-guide-for-pc-players-preventing-street-fighter-6-from-crashing-expert-advice/"><u>Ultimate Fix Guide for PC Players: Preventing Street Fighter 6 From Crashing (Expert Advice)</u></a></li>
+</ul></div>
+

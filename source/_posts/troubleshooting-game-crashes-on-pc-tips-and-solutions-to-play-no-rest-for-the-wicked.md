@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Game Crashes on PC: Tips and Solutions to Play 'No Rest for the Wicked'"
-date: 2024-09-11T17:42:09.089Z
-updated: 2024-09-16T20:04:57.630Z
+date: 2024-09-16T18:02:35.015Z
+updated: 2024-09-21T18:11:24.399Z
 tags:
   - win11
   - win10
@@ -71,6 +71,13 @@ See if this issue reappears. If not, you have fixed this issue.
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Check for software interruption
 
  Maybe the**Discord overlay** not working issue is also triggered by the interruption from other applications running on your PC. Try**temporarily disabling them** to see if your**Discord overlay** works or not. If you’re running**the programs that have the overlay features** , or you’re running**the programs that can access your microphone** , they may interfere with your**Discord overlay** .
@@ -86,6 +93,13 @@ See if this issue reappears. If not, you have fixed this issue.
  1) Open your**Discord** , Click **the gear button** to open **User Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
 
@@ -104,10 +118,16 @@ See if this issue reappears. If not, you have fixed this issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
@@ -119,16 +139,10 @@ See if this issue reappears. If not, you have fixed this issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 iv. Restart your PC.
@@ -140,13 +154,6 @@ iv. Restart your PC.
  4)**Enable the in-game overlay feature** for your game. If you don’t know how to do it, refer to[](https://tools.techidaily.com/drivereasy/download/) **[Fix 1](https://tools.techidaily.com/drivereasy/download/)**  .
 
 See if this issue reappears. If not, you have fixed this issue!
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus tip: How to fix Discord connection errors?
 
@@ -165,13 +172,6 @@ See if this issue reappears. If not, you have fixed this issue!
  3) Launch NordVPN. Enter your NordVPN account and password, then click**Sign In** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
 
@@ -199,18 +199,19 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-hilarious-highlights-reddit-and-twitters-best-bits/"><u>[Updated] 2024 Approved Hilarious Highlights Reddit and Twitter's Best Bits</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-pro-tips-that-make-every-iphone-landscape-stand-out/"><u>2024 Approved Pro Tips That Make Every iPhone Landscape Stand Out</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-the-ultimate-solution-for-stopping-youtube-video-previews/"><u>2024 Approved The Ultimate Solution for Stopping YouTube Video Previews</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-infinix-hot-40-pro-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Infinix Hot 40 Pro Phone</u></a></li>
-<li><a href="https://win11.techidaily.com/banishing-xffffeee-error-from-your-inkjet-printer/"><u>Banishing XFFFFEEE Error From Your Inkjet Printer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/division-2-wont-start-top-strategies-to-get-gaming-this-year/"><u>Division 2 Won't Start? Top Strategies to Get Gaming This Year!</u></a></li>
-<li><a href="https://fox-access.techidaily.com/elevating-digital-portraits-with-acoustic-accents/"><u>Elevating Digital Portraits with Acoustic Accents</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-fallout-3-crashes-on-windows-11-solutions-inside/"><u>Fixing the Issue: Fallout 3 Crashes on Windows 11 – Solutions Inside</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-quickly-resolve-valorant-graphics-driver-crashed-issue-a-step-by-step-guide/"><u>How to Quickly Resolve Valorant 'Graphics Driver Crashed' Issue - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-epson-artisan-1430-drivers-on-your-pc-windows-11108-compatible-version/"><u>Install Epson Artisan 1430 Drivers on Your PC: Windows 11/10/8 Compatible Version</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/melody-matrix-tips-and-tricks-for-social-media-sounds/"><u>Melody Matrix Tips and Tricks for Social Media Sounds</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-issues-troubleshooting-steps-for-fifa-19-game-crashes-on-windows-machines/"><u>Resolved Issues: Troubleshooting Steps for FIFA 19 Game Crashes on Windows Machines</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-paladins-game-crash-comprehensive-troubleshooting-guide/"><u>Resolving the Paladins Game Crash : Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-advanced-accessories-for-immersive-gaming-worlds/"><u>[New] Advanced Accessories for Immersive Gaming Worlds</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-and-correcting-ark-disruptions-a-step-by-step-guide-to-resolution/"><u>Addressing and Correcting ARK Disruptions: A Step-by-Step Guide to Resolution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-ways-to-lower-your-computers-cpu-load-during-a-zoom-call/"><u>Effective Ways to Lower Your Computer's CPU Load During a Zoom Call</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Tecno Phantom V Fold? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionizing-classic-images-a-guide-to-enhancing-vhs-photos-on-pcs/"><u>In 2024, Revolutionizing Classic Images A Guide to Enhancing VHS Photos on PCs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/mastering-360-fb-live-broadcasts-for-2024/"><u>Mastering 360 FB Live Broadcasts for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/motion-review-full-scope-2023-for-2024/"><u>Motion Review Full Scope 2023 for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-content-warning-barriers-in-your-voice-chat-experience/"><u>Overcoming 'Content Warning' Barriers in Your Voice Chat Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pro-level-iphone-photo-techniques-identifying-ideal-perspectives/"><u>Pro-Level iPhone Photo Techniques Identifying Ideal Perspectives</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-fixes-for-critical-unreal-engine-4-setbacks-in-tales-of-arise/"><u>The Ultimate Fixes for Critical Unreal Engine 4 Setbacks in Tales of Arise</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-the-dsounddll-not-found-problem-on-your-pc/"><u>Troubleshooting the 'dsound.dll Not Found' Problem on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-guide-to-eliminate-league-of-legends-black-screen-tips/"><u>Ultimate Troubleshooting Guide to Eliminate League of Legends' Black Screen - Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/world-of-tanks-blitz-stability-issues-heres-how-to-stop-the-game-from-crashing/"><u>World of Tanks Blitz Stability Issues? Here's How to Stop the Game From Crashing</u></a></li>
 </ul></div>
 

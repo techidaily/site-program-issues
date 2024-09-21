@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Fixing Your PS4 When It Won't Stop Freezing"
-date: 2024-09-09T18:34:39.145Z
-updated: 2024-09-16T19:03:26.004Z
+date: 2024-09-19T18:21:47.558Z
+updated: 2024-09-21T20:11:35.825Z
 tags:
   - win11
   - win10
@@ -80,22 +80,8 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-7.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -111,14 +97,14 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-2.jpg)
 3. Navigate to the**Origin In-Game** tab, and toggle off**Enable Origin In-Game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Relaunch the game to test this method. If it doesn’t help, continue to the next one below.
 
@@ -131,14 +117,21 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-2.jpg)
 3. Navigate to the**Installs & Saves** tab, and then toggle off**Saves** .  
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-3.jpg)
 4. On your keyboard, press the**Windows logo key** and**E** at the same time to invoke File Explorer. Then, select**Document** from the left pane.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Rename your**Battlefield V** folder to Battlefield V backup or anything else.
@@ -155,6 +148,13 @@ To update your graphics driver, here are two safe ways for you:
 3. Right-click the**Battlefield 5** tile from the list, and click**Uninstall** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After the process finishes, you can reinstall the game from Origin again, and it should be working the right way as expected.
 
@@ -181,17 +181,16 @@ To update your graphics driver, here are two safe ways for you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-augment-your-cams-with-top-accessory-picks/"><u>[New] Augment Your Cams with Top Accessory Picks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beating-the-boot-bug-successfully-running-wow-on-pc-after-launch-issues/"><u>Beating the Boot Bug: Successfully Running WoW on PC After Launch Issues</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/building-computers-simplified-top-user-friendly-motherboards-reviewed/"><u>Building Computers Simplified: Top User-Friendly Motherboards Reviewed</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-install-canon-scanners-drivers-free-for-windows-step-by-step-instructions/"><u>Download and Install Canon Scanners Drivers Free for Windows: Step-by-Step Instructions</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On Apple iPhone 14 Pro Max?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-poco-x5-pro-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Poco X5 Pro to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/qualcomm-atheros-ar938x-driver-downloads-secure-and-easy/"><u>Qualcomm Atheros AR938X Driver Downloads - Secure and Easy</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-common-problems-fixing-ark-software-failures/"><u>Resolving Common Problems: Fixing ARK Software Failures</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-coredll-missing-error-a-comprehensive-guide/"><u>Solving 'Core.dll' Missing Error: A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-for-thaumaturge-not-loading-or-functioning-properly-on-desktop-systems/"><u>Step-by-Step Fixes for Thaumaturge Not Loading or Functioning Properly on Desktop Systems</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-essential-checklist-for-dolby-atmos-installation-in-windows/"><u>The Essential Checklist for Dolby Atmos Installation in Windows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-engaging-audiences-with-instagram-stories-surveys/"><u>[New] Engaging Audiences with Instagram Stories Surveys</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/crafting-personalized-ai-utilizing-gpt-for-tailored-chatbot/"><u>Crafting Personalized AI: Utilizing GPT for Tailored ChatBot</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-code-0xc0000022-explained-successful-troubleshooting-of-adobe-application-starts/"><u>Error Code 0xC0000022 Explained - Successful Troubleshooting of Adobe Application Starts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-the-out-of-video-memory-error-in-fortnite-solution-inside/"><u>How to Fix the 'Out of Video Memory' Error in Fortnite (Solution Inside)</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/improving-download-velocity-in-utorrent-a-comprehensive-guide/"><u>Improving Download Velocity in uTorrent - A Comprehensive Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-itel-a05s-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Itel A05s to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-mastering-youtube-insights-for-channel-expansion/"><u>In 2024, Mastering YouTube Insights for Channel Expansion</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-game-interruptions-follow-these-6-steps-to-stop-minecraft-crashing-issues-today/"><u>No More Game Interruptions: Follow These 6 Steps to Stop Minecraft Crashing Issues Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-crashes-in-cities-skylines-2-pc-expert-guide-to-stable-gameplay/"><u>Stop Crashes in Cities: Skylines 2 (PC): Expert Guide to Stable Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/uncover-the-causes-of-no-rest-for-the-wicked-malfunctions-on-windows-pcs-and-how-to-rectify-them/"><u>Uncover the Causes of 'No Rest for the Wicked' Malfunctions on Windows PCs and How to Rectify Them</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/unleashing-potential-advanced-xbox-live-captures/"><u>Unleashing Potential Advanced Xbox Live Captures</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Battling Endless Restarts? Here's a Fix for Constant Crashes in God of War on Windows/Mac
-date: 2024-09-15T19:31:08.076Z
-updated: 2024-09-16T22:45:33.522Z
+date: 2024-09-15T18:30:32.466Z
+updated: 2024-09-21T22:43:58.497Z
 tags:
   - win11
   - win10
@@ -72,16 +72,16 @@ If the issue persists, try the next fix below.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** \> **Verify integrity of game files…** . Wait a few minutes for Steam to validate the files of the game.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Restart Metro Exodus PC Enhanced Edition to check if this fix stops the crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Install the latest game patch
 
@@ -90,6 +90,13 @@ If the issue persists, try the next fix below.
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Run Metro Exodus PC Enhanced Edition again to see if the game crashes. If it didn’t work, or there was no new game patch available, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable in-game overlays
 
@@ -102,25 +109,19 @@ If the issue persists, try the next fix below.
 1. Launch **Steam** and go to your **LIBRARY** , then right-click on the Metro Exodus game title and click **Properties…** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
-![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  See if Metro Exodus PC Enhanced Edition crashes after you disabled all the in-game overlays. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Perform a clean boot
 
@@ -137,26 +138,26 @@ To perform a clean boot, just follow the steps below:
 2. Navigate to the **Services** tab, check **Hide all Microsoft services,** and then click **Disable all** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
@@ -189,19 +190,19 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-10-free-youtube-thumbnail-downloaderssavers-online/"><u>[New] In 2024, 10 Free YouTube Thumbnail Downloaders/Savers Online</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-for-continuous-palworld-game-crashes-on-desktop-systems/"><u>Effective Solutions for Continuous Palworld Game Crashes on Desktop Systems</u></a></li>
-<li><a href="https://facebook.techidaily.com/examining-private-settings-on-meta-and-facebook-quest-2/"><u>Examining Private Settings on Meta and Facebook Quest 2</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-on-fixing-the-crash-problem-of-guilty-gear-strive-on-windowsmac-computers/"><u>Expert Tips on Fixing the Crash Problem of Guilty Gear Strive on Windows/Mac Computers</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-tecno-spark-10-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Tecno Spark 10 Pro Phones with/without a PC</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-vital-tips-to-preserve-lol-competitions/"><u>In 2024, Vital Tips to Preserve LOL Competitions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-the-application-unable-to-start-hurdle-in-adobe-software-error-code-0xc0c0000022/"><u>Overcoming the 'Application Unable to Start' Hurdle in Adobe Software (Error Code 0xC0^[c0000022)</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-shockwave-flash-no-longer-supported-by-google-chrome/"><u>Resolved: Shockwave Flash No Longer Supported by Google Chrome</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-steps-for-successful-age-of-empires-iv-installation/"><u>Resolved: Troubleshooting Steps for Successful 'Age of Empires IV' Installation</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-overcoming-fortnites-edit-slowdown-issues-with-reliable-fixes/"><u>Step-by-Step Tutorial: Overcoming Fortnite's Edit Slowdown Issues with Reliable Fixes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/tech-disruption-identifying-vulnerable-occupations/"><u>Tech Disruption: Identifying Vulnerable Occupations?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/uninterrupted-gaming-remedying-frequent-breakdowns-of-ffxiv-for-pc-users/"><u>Uninterrupted Gaming - Remedying Frequent Breakdowns of FFXIV for PC Users</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-get-started-with-wax-a-beginners-guide-to-free-video-editing-software-for-2024/"><u>Updated Get Started with Wax A Beginners Guide to Free Video Editing Software for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/your-guide-to-shopping-for-televisions-online-top-6-retailers-revealed/"><u>Your Guide to Shopping for Televisions Online: Top 6 Retailers Revealed</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-improving-user-experience-vimeo-video-subtitles/"><u>2024 Approved Improving User Experience Vimeo Video Subtitles</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-next-gen-clarity-in-depth-review-of-best-8k-monitors/"><u>2024 Approved Next-Gen Clarity In-Depth Review of Best 8K Monitors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-the-issue-of-your-pacific-vehicle-not-starting-here/"><u>Fix the Issue of Your Pacific Vehicle Not Starting Here!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-the-persistent-issue-halting-halo-infinites-pc-crashes/"><u>Fixes for the Persistent Issue: Halting Halo Infinite's PC Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-obs-studio-crashes-on-windows-10-and-11-updated-guide-2024/"><u>Fixing Obs Studio Crashes on Windows 10 & 11 (Updated Guide, 2024)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-vivo-g2-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Vivo G2? Try These Fixes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-v30-lite-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Vivo V30 Lite 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/insight-into-watermark-functionality-for-fb-media/"><u>Insight Into Watermark Functionality for Fb Media</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-the-cost-of-applecareplus-justified-by-its-offered-benefits-and-features/"><u>Is the Cost of AppleCare+ Justified by Its Offered Benefits and Features?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-the-shadows-a-step-by-step-for-anonymous-instagram-live-viewing-for-2024/"><u>Navigating the Shadows A Step-by-Step for Anonymous Instagram Live Viewing for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/quick-recording-tips-for-your-next-google-meet-video-call-for-2024/"><u>Quick Recording Tips for Your Next Google Meet Video Call for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-issue-regain-your-login-privileges-on-origin-today/"><u>Resolved Issue: Regain Your Login Privileges on Origin Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-guide-to-solving-latency-issues-and-enhancing-your-rainbow-six-siege-experience/"><u>The Ultimate Guide to Solving Latency Issues & Enhancing Your Rainbow Six Siege Experience</u></a></li>
 </ul></div>
 

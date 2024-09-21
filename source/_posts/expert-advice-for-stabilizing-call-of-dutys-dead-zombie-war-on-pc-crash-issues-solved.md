@@ -1,7 +1,7 @@
 ---
 title: Expert Advice for Stabilizing Call of Duty's Dead Zombie War on PC – Crash Issues Solved
-date: 2024-09-11T18:19:12.866Z
-updated: 2024-09-16T17:35:19.113Z
+date: 2024-09-15T21:12:59.750Z
+updated: 2024-09-21T20:28:40.024Z
 tags:
   - win11
   - win10
@@ -62,10 +62,10 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
 If the issue persists, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Verify the integrity of game files
@@ -82,6 +82,13 @@ If the issue persists, try the next fix below.
 
  Restart Metro Exodus PC Enhanced Edition to check if this fix stops the crashes. If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Install the latest game patch
 
  4A Games, the developer of Metro Exodus PC Enhanced Edition, releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -91,10 +98,10 @@ If the issue persists, try the next fix below.
  Run Metro Exodus PC Enhanced Edition again to see if the game crashes. If it didn’t work, or there was no new game patch available, move on to the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Disable in-game overlays
@@ -110,6 +117,13 @@ If the issue persists, try the next fix below.
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
@@ -129,46 +143,21 @@ To perform a clean boot, just follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services,** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
-5. Go back to the **System Configuration** window and click **OK** .  
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
+5. Go back to the **System Configuration** window and click **OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
@@ -201,20 +190,20 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-androids-path-to-virtual-reality-tips-and-tricks/"><u>[Updated] Android's Path to Virtual Reality Tips and Tricks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/android-guide-enhance-your-video-for-2024/"><u>Android Guide Enhance Your Video for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/battlefield-5-pc-stability-guide-solve-your-game-crash-problems/"><u>Battlefield 5 PC Stability Guide - Solve Your Game Crash Problems!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-to-resolve-valheim-pc-stuttering-ensure-smooth-gameplay-today/"><u>Expert Tips to Resolve Valheim PC Stuttering – Ensure Smooth Gameplay Today</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-halo-infinite-pc-game-crashes-complete-guide/"><u>Fix Your Halo Infinite PC Game Crashes: Complete Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-the-best-gaming-experience-in-forza-horizon-5-with-updated-drivers/"><u>Get the Best Gaming Experience in Forza Horizon 5 with Updated Drivers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-correctly-address-and-solve-error-code-4128-on-call-of-duty-wwii-gameplay/"><u>How to Correctly Address and Solve Error Code 4128 on Call of Duty WWII Gameplay</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Tecno Spark Go (2024) | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-video-making-smartphones-announced-here/"><u>In 2024, Best Video-Making Smartphones Announced Here</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-launch-problems-in-evil-genius-2-for-an-optimal-gaming-experience/"><u>Overcoming Launch Problems in Evil Genius 2 for an Optimal Gaming Experience</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/quick-start-essentials-10-must-know-tips-for-aspiring-x-enthusiasts/"><u>Quick Start Essentials: 10 Must-Know Tips for Aspiring X Enthusiasts</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-samsung-galaxy-a34-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Samsung Galaxy A34 5G Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-for-gtfo-software-stability-issues/"><u>Step-by-Step Troubleshooting for GTFO Software Stability Issues</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/tech-insights-from-toms-hardware-exploring-the-latest-in-computing/"><u>Tech Insights From Tom's Hardware - Exploring the Latest in Computing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-broadcast-your-games-with-professional-skill/"><u>[New] 2024 Approved Broadcast Your Games with Professional Skill</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-low-cost-leverage-to-youtube-lore-sponsorship-hacks-for-small-spheres/"><u>[New] In 2024, Low-Cost Leverage to YouTube Lore Sponsorship Hacks for Small Spheres</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-step-by-step-approach-to-typography-addition-in-ae/"><u>[Updated] A Step-by-Step Approach to Typography Addition in AE</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-unlocking-fullscreen-footage-screen-recording-made-simple-for-mac-users-for-2024/"><u>[Updated] Unlocking Fullscreen Footage Screen Recording Made Simple for Mac Users for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boosting-your-gaming-performance-tips-to-minimize-lag-and-improve-fps-in-fall-guys/"><u>Boosting Your Gaming Performance: Tips to Minimize Lag & Improve FPS in Fall Guys</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-troubleshooting-tips-correcting-recurring-crashes-in-ark-program/"><u>Comprehensive Troubleshooting Tips: Correcting Recurring Crashes in ARK Program</u></a></li>
+<li><a href="https://program-issues.techidaily.com/final-glazing/"><u>Final Glazing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/free-online-converter-mp4-to-oggvorbis-movavi/"><u>Free Online Converter: MP4 to OGG/Vorbis - Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/hochskalieren-sie-ihre-videos-auf-hd4k-eine-anleitung-fur-windows-und-mac/"><u>Hochskalieren Sie Ihre Videos Auf HD/4K - Eine Anleitung Für Windows Und Mac</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-apple-iphone-6-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 5 Ways to Transfer Music from Apple iPhone 6 to Android | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008529620-optimizing-cyberpunk-2077-for-lower-cpu-consumption-fixed/"><u>Optimizing Cyberpunk 2077 for Lower CPU Consumption - Fixed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/removing-quick-launch-from-the-taskbar-for-a-cleaner-experience-on-your-pc/"><u>Removing Quick Launch From the Taskbar for a Cleaner Experience on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-persistent-launch-issues-with-war-thunder-202n4-troubleshooting-tips/"><u>Resolving Persistent Launch Issues with War Thunder 202N4 - Troubleshooting Tips</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-windows-graphics-with-hp-driver-update/"><u>Streamline Window's Graphics with HP Driver Update</u></a></li>
+<li><a href="https://program-issues.techidaily.com/version-confirmation-issue-for-players-of-ffxiv/"><u>Version Confirmation Issue for Players of FFXIV</u></a></li>
 </ul></div>
 

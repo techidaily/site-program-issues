@@ -1,7 +1,7 @@
 ---
 title: "Anno 1800 Update: Addressing and Correcting DirectX Trouble-Shooting Steps"
-date: 2024-09-15T22:09:09.048Z
-updated: 2024-09-16T17:05:06.068Z
+date: 2024-09-15T22:45:45.900Z
+updated: 2024-09-21T16:29:37.831Z
 tags:
   - win11
   - win10
@@ -56,10 +56,10 @@ Beta version of GeForce Experience could get you faulty driver or other faulty N
 3) Go to NVIDIA support to download the latest version of GeForce Experience and install as instructed. 4) See if your Shadowplay not recording problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4: Enable desktop capture
@@ -69,10 +69,10 @@ If desktop capture is disabled, Shadowplay won’t detect if you play the game f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c238e4810b3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) See if your Shadowplay can record now.
@@ -94,17 +94,20 @@ If desktop capture is disabled, Shadowplay won’t detect if you play the game f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-leading-edge-in-online-advertising-fb-insights-for-2024/"><u>[Updated] The Leading Edge in Online Advertising FB Insights for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-vivo-y200e-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722990661443-banish-freezes-forever-learn-how-pathfinder-for-pc-has-been-optimized-and-enhanced/"><u>Banish Freezes Forever! Learn How Pathfinder for PC Has Been Optimized and Enhanced.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-woes-solving-wolcen-pc-malfunctions-and-crashes/"><u>Fix Your Woes: Solving Wolcen PC Malfunctions and Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-persistent-90-load-bug-in-phasmophobia-updated-guide/"><u>Fixing the Persistent 90% Load Bug in Phasmophobia (Updated Guide )</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-t2-pro-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Vivo T2 Pro 5G Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-make-memories-count-learn-to-share-photos-right-now/"><u>In 2024, Make Memories Count Learn to Share Photos Right Now</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-realme-c53-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Realme C53 on Mac</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-common-causes-of-and-fixes-for-the-black-screen-problem/"><u>Resolved: Common Causes of and Fixes for the Black Screen Problem</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/soundscapes-from-social-media-videos/"><u>Soundscapes From Social Media Videos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-last-battle-not-anymore-fixing-persistent-pc-problems-with-the-final-saga/"><u>The Last Battle? Not Anymore! Fixing Persistent PC Problems with The Final Saga</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/top-ten-must-watch-vr-scenes-on-youtube/"><u>Top Ten Must-Watch VR Scenes on Youtube</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-blueprint-for-successful-metaverse-campaigns/"><u>[New] 2024 Approved Blueprint for Successful Metaverse Campaigns</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-charting-a-course-through-youtubes-maker-domain/"><u>[New] In 2024, Charting a Course Through YouTube's Maker Domain</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-how-to-record-your-favorite-youtube-show-regardless-of-your-gear/"><u>[Updated] How to Record Your Favorite YouTube Show, Regardless of Your Gear</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-your-potential-with-periscope-broadcasts/"><u>[Updated] Unleash Your Potential with Periscope Broadcasts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993012072-end-lost-arks-endless-pc-crashing-effective-techniques-revealed-here/"><u>End Lost Ark's Endless PC Crashing: Effective Techniques Revealed Here</u></a></li>
+<li><a href="https://program-issues.techidaily.com/exhaustive-solutions-to-the-persistent-relink-not-launching-error-in-granblue-fantasy-gaming/"><u>Exhaustive Solutions to the Persistent 'Relink Not Launching' Error in Granblue Fantasy Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-resolve-resident-evil-village-stutteringcrashing-on-pc-detailed-guide/"><u>Expert Tips to Resolve Resident Evil Village Stuttering/Crashing on PC - Detailed Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-infinix-smart-8-plus-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Infinix Smart 8 Plus Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-the-constant-crashing-issue-in-beat-saber-expert-guide/"><u>How to Fix the Constant Crashing Issue in Beat Saber: Expert Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-camera-not-working-on-discord-a-step-by-step-guide/"><u>How to Resolve 'Camera Not Working' On Discord: A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-studio-secrets-extensive-xvideoreview/"><u>In 2024, Unlocking Studio Secrets Extensive XVideoReview</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nokia-130-music-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia 130 Music Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/solution-guide-how-to-fix-windows-media-player-issues-with-mkv-video-formats/"><u>Solution Guide: How to Fix Windows Media Player Issues with MKV Video Formats</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-absence-of-football-manager-2e2-where-to-find-and-download-today/"><u>Solving the Absence of Football Manager 2E2: Where to Find & Download Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-finding-and-installing-logitech-g403-mouse-drivers-on-desktopslaptops/"><u>Step-by-Step Guide to Finding and Installing Logitech G403 Mouse Drivers on Desktops/Laptops</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Star Citizen Update Brings an End to Windows Users' Crash Woes - What You Need To Know!
-date: 2024-09-13T17:17:48.450Z
-updated: 2024-09-16T19:16:31.341Z
+date: 2024-09-14T20:51:38.318Z
+updated: 2024-09-21T20:20:30.804Z
 tags:
   - win11
   - win10
@@ -77,33 +77,33 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch the game to test your issue. If the crash still occurs, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4 – Stop overclocking
 
  An unstable overclock will crash your game and the whole system. So, **if you’re overclocking your CPU or GPU, set the clock speed rate back to the default** to see if that resolves the crash issue. If it doesn’t, move on to the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5 – Disable unnecessary programs
 
@@ -116,6 +116,13 @@ This could take several minutes. Wait for the process to be complete.
  **Make sure you diable any software overlays (Steam, Discord, Nvidia** **Geforce Experience** ,**etc).**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Restart your game to see if it runs correctly now.
 
@@ -134,10 +141,10 @@ Your game still won’t work correctly? Read on and try Fix 5.
 If the crashing still happens, continue with the next solution below.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 7 – Run the game in Windowed mode
@@ -147,13 +154,6 @@ If the crashing still happens, continue with the next solution below.
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-03-22.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Copy **%localappdata%Frontier DevelopmentsElite DangerousOptionsGraphics** and paste it into the text box, then press**Enter** .
 
@@ -186,20 +186,19 @@ If the crashing still happens, continue with the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/-step-by-step-guide-to-youtube-comms-management-for-2024/"><u>[New] A Step-by-Step Guide to YouTube Comms Management for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-simplified-techniques-for-browsing-youtube-comments/"><u>[New] Simplified Techniques for Browsing YouTube Comments</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-destiny-2-error-code-centipede/"><u>[SOLVED] Destiny 2 Error Code Centipede</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-elevate-your-reels-to-new-heights-with-top-6-innovative-apps/"><u>2024 Approved Elevate Your Reels to New Heights with Top 6 Innovative Apps</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-handbook-of-xbox-one-zoom-communication/"><u>2024 Approved The Complete Handbook of Xbox One Zoom Communication</u></a></li>
-<li><a href="https://program-issues.techidaily.com/achieve-uninterrupted-gaming-defeating-garrys-mod-crashing-glitches-with-effective-fixes/"><u>Achieve Uninterrupted Gaming: Defeating Garry's Mod Crashing Glitches with Effective Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-for-common-errors-when-launching-star-wars-the-old-republic-swtor/"><u>Fixes for Common Errors When Launching Star Wars The Old Republic (SWTOR)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-infinix-hot-40-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Infinix Hot 40?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-iphone-14-plus-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your iPhone 14 Plus in Minutes with ICCID Code Everything You Need to Know</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-lag-and-freezes-effective-fixes-for-hearthstone-pc-performance-issues/"><u>Overcome Lag and Freezes: Effective Fixes for Hearthstone PC Performance Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-to-launch-valorant-successfully-on-pc-expert-advice-from-202/"><u>Step-by-Step Fixes to Launch Valorant Successfully on PC: Expert Advice From 202</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-apple-iphone-8-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From Apple iPhone 8</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-edit-avi-files-with-ease-top-windows-8-video-editor-2023-for-2024/"><u>Updated Edit AVI Files with Ease Top Windows 8 Video Editor - 2023 for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/vocal-victory-ballads-best-suited-for-engagement-bliss-for-2024/"><u>Vocal Victory Ballads Best Suited for Engagement Bliss for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/why-cant-i-open-crusader-kings-2-and-how-to-get-it-running-smoothly-again/"><u>Why Can't I Open Crusader Kings 2 & How to Get It Running Smoothly Again</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-your-mac-interface-with-speech-recognition-software-review/"><u>2024 Approved Transform Your Mac Interface with Speech Recognition Software Review</u></a></li>
+<li><a href="https://program-issues.techidaily.com/accelerate-your-progress-expert-tips-for-swift-shader-tweaks-in-star-wars-battlefront-ii/"><u>Accelerate Your Progress: Expert Tips for Swift Shader Tweaks in Star Wars Battlefront II</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beyond-the-touchdown-resolving-your-football-manager-2019-freezing-issues/"><u>Beyond the Touchdown: Resolving Your Football Manager 2019 Freezing Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/efficient-ways-to-fix-a-non-functioning-steamvr-system/"><u>Efficient Ways to Fix a Non-Functioning SteamVR System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-errors-when-trying-to-open-your-razer-synapse-software/"><u>Fixing Errors When Trying To Open Your Razer Synapse Software</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-plus-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s Plus To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-lenovo-phone-by-drfone-android/"><u>How to Unlock a Network Locked Lenovo Phone?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-apple-iphone-12-pro-max-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your Apple iPhone 12 Pro Max without Security Questions?</u></a></li>
+<li><a href="https://facebook.techidaily.com/is-the-solution-in-reels-can-facebook-outdo-tiktok/"><u>Is the Solution in Reels: Can Facebook Outdo TikTok?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/must-have-talker-alteration-tech-for-content-makers/"><u>Must-Have Talker Alteration Tech for Content Makers</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/must-know-elements-in-buying-sound-gear/"><u>Must-Know Elements in Buying Sound Gear</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-lag-issues-in-avatar-the-game-fix-low-fps-and-smoothing-out-stutter/"><u>Solving Lag Issues in 'Avatar: The Game' - Fix Low FPS & Smoothing Out Stutter</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/trio-of-excellent-online-centers-for-quick-language-acquisition/"><u>Trio of Excellent Online Centers for Quick Language Acquisition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-zoom-freezes-and-crashes-advanced-fixes-for-users-of-windows-11-and-10/"><u>Troubleshooting Zoom Freezes and Crashes: Advanced Fixes for Users of Windows 11 & 10</u></a></li>
 </ul></div>
 

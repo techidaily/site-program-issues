@@ -1,7 +1,7 @@
 ---
 title: "Resolving Repeated PC Shutdowns During 'Age of Wonders: Planetfall' Gameplay - Step-by-Step Guide"
-date: 2024-09-10T16:20:26.565Z
-updated: 2024-09-16T19:34:31.747Z
+date: 2024-09-15T22:01:32.636Z
+updated: 2024-09-21T19:01:24.540Z
 tags:
   - win11
   - win10
@@ -89,17 +89,16 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Verify on GOG Galaxy
@@ -107,6 +106,13 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 1. Launch GOG Galaxy.
 2. Click the game in your Library.
 3. Click on the**Customize button** ![](https://images.drivereasy.com/wp-content/uploads/2021/09/customization-button-GOG-Galaxy.png) (on the right side of the Play button), select**Manage installation > Verify / Repair** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![how to verify integrity of game files on GOG Galaxy](https://images.drivereasy.com/wp-content/uploads/2020/12/GOG-GALAXY.png)
 
@@ -124,22 +130,22 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-1.jpg)
 3. Click **In-Game** . Uncheck the box **Enable the Steam Overlay while in-game** . Then click **OK** to save the changes.  
 
-![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-2.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-2.jpg)
 
  After applying the changes, play Pathfinder: Wrath of the Righteous and your problem should be alleviated. However, if the freezing issue still occurs, don’t worry. Below are other fixes for you to try.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Launch your game from .exe file
@@ -158,20 +164,14 @@ However, if it doesn’t give you any luck, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit.png)
 3. Go to**ComputerHKEY\_CURRENT\_USERSOFTWAREowlcat** and delete the entire key.  
 
-![delete registry key](https://images.drivereasy.com/wp-content/uploads/2021/09/registry.png)
-
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![delete registry key](https://images.drivereasy.com/wp-content/uploads/2021/09/registry.png)
 
 Once done, restart your game and test the gameplay.
 
@@ -204,13 +204,16 @@ Once done, restart your game and test the gameplay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-crafting-captivating-animations-creating-gifs-from-your-favorite-youtube-videos/"><u>[New] Crafting Captivating Animations Creating GIFs From Your Favorite YouTube Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-homemade-video-making-top-5-efficient-methods-you-must-know-for-2024/"><u>[New] Homemade Video Making Top 5 Efficient Methods You Must Know for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-fixing-atomic-hearts-failures-at-boot-time/"><u>Diagnosing and Fixing Atomic Hearts Failures at Boot Time</u></a></li>
-<li><a href="https://article-posts.techidaily.com/leading-spots-for-digital-3d-glamour-text-artistry-for-2024/"><u>Leading Spots for Digital 3D Glamour Text Artistry for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quick-steps-for-a-fresh-install-of-asus-maximus-x-hero-gpu-drivers/"><u>Quick Steps for a Fresh Install of ASUS Maximus X Hero GPU Drivers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/spark-interest-and-build-community-through-these-10-igtv-approaches-for-2024/"><u>Spark Interest and Build Community Through These 10 IGTV Approaches for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-11-solutions-to-resolve-the-borderlands-3-wont-start-issue/"><u>Top 11 Solutions to Resolve the 'Borderlands 3 Won't Start' Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unraveling-the-mystery-of-eternal-return-the-resilience-saga-continues/"><u>Unraveling the Mystery of 'Eternal Return': The Resilience Saga Continues</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-uncover-exquisite-vr-trails-for-bikers/"><u>[New] Uncover Exquisite VR Trails for Bikers</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-apple-iphone-6-plus-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>4 Methods to Turn off Life 360 On Apple iPhone 6 Plus without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723807936957-do-you-need-a-vpn-yes-you-do-heres-why/"><u>Do You Need a VPN? Yes, You Do. Here's Why.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-strategies-to-get-counter-strike-going-again-after-a-failed-start/"><u>Effective Strategies to Get Counter-Strike Going Again After a Failed Start</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-youtubes-missing-minute-media-for-2024/"><u>Fixed YouTube's Missing Minute Media for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-launch-errors-a-guide-for-players-struggling-with-persona-3-f-escape/"><u>Fixing Launch Errors: A Guide for Players Struggling with Persona 3 F Escape</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-mastering-close-up-techniques-for-film-clarity/"><u>In 2024, Mastering Close-Up Techniques for Film Clarity</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-screen-shimmers-your-definitive-guide-to-banishing-the-blink/"><u>No More Screen Shimmers – Your Definitive Guide to Banishing the Blink!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/spellbreak-pc-issues-resolved-fixes-for-stability-and-performance/"><u>Spellbreak PC Issues Resolved: Fixes for Stability and Performance</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-comprehensive-method-for-changing-ape-audio-tracks-to-high-quality-mp3-playback/"><u>The Comprehensive Method for Changing APE Audio Tracks to High-Quality MP3 Playback</u></a></li>
+<li><a href="https://program-issues.techidaily.com/vrchat-stability-guide-discover-8-successful-fixes-to-enhance-gameplay-experience-on-pc/"><u>VRChat Stability Guide: Discover 8 Successful Fixes to Enhance Gameplay Experience on PC</u></a></li>
 </ul></div>
 

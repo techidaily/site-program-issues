@@ -1,7 +1,7 @@
 ---
 title: Six Essential Tricks to Optimize Frame Rates and Eliminate Lag in Elden Ring
-date: 2024-09-12T19:43:29.568Z
-updated: 2024-09-16T21:00:54.466Z
+date: 2024-09-17T20:59:11.194Z
+updated: 2024-09-21T19:21:43.172Z
 tags:
   - win11
   - win10
@@ -96,20 +96,20 @@ To do so:
 3. Copy**ipconfig /flushdns** , and paste it in the pop-up window. Then press**Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
@@ -122,18 +122,25 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
+
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
@@ -142,16 +149,16 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run your game again to see if the frame rate per second still drops. If the problem still persists, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Update graphics card and network card drivers
 
@@ -190,10 +197,10 @@ and your network card manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -246,19 +253,16 @@ To change the power mode:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-navigating-through-windows-11-a-guide-to-automatic-hdr-mode/"><u>[New] 2024 Approved Navigating Through Windows 11 A Guide to Automatic HDR Mode</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-simplified-guide-efficient-screen-recording-for-dell-users/"><u>[New] In 2024, Simplified Guide Efficient Screen Recording for Dell Users</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-unleash-creativity-the-best-9-gif-recorders-to-preserve-windows-animation/"><u>[New] In 2024, Unleash Creativity The Best 9 GIF Recorders to Preserve Windows Animation</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-dive-into-aerialbroadcasting-tech-dji-vs-gopro-vs-insta360-showdown/"><u>A Dive Into Aerial/Broadcasting Tech DJi vs GoPro vs Insta360 Showdown</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-for-successfully-launching-starfield-on-pc-and-xbox-platforms/"><u>Expert Tips for Successfully Launching Starfield on PC and Xbox Platforms</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/fabricate-fascinating-face-painting-gifs-on-giphy-for-2024/"><u>Fabricate Fascinating Face-Painting Gifs on Giphy for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/forza-horizon-npc-gameplay-stability-improvement-fps-enhancements/"><u>Forza Horizon nPC Gameplay Stability Improvement - FPS Enhancements</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/friend-to-friend-play-mastering-the-xbox-one-gamesharing-process/"><u>Friend-to-Friend Play: Mastering the Xbox One Gamesharing Process</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-preserving-the-pulse-of-internet-radio-waves/"><u>In 2024, Preserving the Pulse of Internet Radio Waves</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-game-latency-problem-in-outriders-a-step-by-step-guide/"><u>Resolving the Game Latency Problem in Outriders - A Step-by-Step Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/start-by-assembling-your-mounting-equipment-ensuring-that-everything-is-stable-and-secure-before-proceeding-with-the-rest-of-the-setup-safety-should-always-61/"><u>Start by Assembling Your Mounting Equipment, Ensuring that Everything Is Stable and Secure Before Proceeding with the Rest of the Setup. Safety Should Always Be a Priority when Working with Lasers.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/tips-to-amplify-performance-in-horizon-zero-dawn-boost-fps-and-enjoy-seamless-action/"><u>Tips to Amplify Performance in Horizon Zero Dawn – Boost FPS & Enjoy Seamless Action</u></a></li>
-<li><a href="https://program-issues.techidaily.com/why-wont-msi-afterburner-identify-my-gpu-fixes-for-windows-10-and-11-users/"><u>Why Won't MSI Afterburner Identify My GPU? Fixes for Windows 10 and 11 Users</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/windows-10-photos-app/"><u>Windows 10 Photos App - 動画編集後にエクスポート失敗時の解決策</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-snap-camera-no-available-camera-input/"><u>[Solved] Snap Camera No Available Camera Input</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-whats-ideal-for-you-understanding-vimeo-membership-tiers/"><u>[Updated] In 2024, What's Ideal for You? Understanding Vimeo Membership Tiers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-resolve-instagrams-video-problems-swiftly-for-2024/"><u>[Updated] Resolve Instagram's Video Problems Swiftly for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-20-anime-song-opens-in-ranking-for-2024/"><u>Best 20 Anime Song Opens in Ranking for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/education-on-demand-a-list-of-9-crucial-tech-tools-every-learner-needs/"><u>Education on Demand: A List of 9 Crucial Tech Tools Every Learner Needs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-critical-ark-bug-a-step-by-step-guide/"><u>Fixing the Critical 'Ark' Bug: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-a-step-by-step-guide-to-resolving-steamvr-error-code-308/"><u>Fixing the Issue: A Step-by-Step Guide to Resolving SteamVR Error Code 308</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-no-fee-online-and-app-photo-refining-software/"><u>In 2024, Best No-Fee, Online & App Photo Refining Software</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-concurrent-photoplusvideo-on-iphone/"><u>In 2024, The Art of Concurrent Photo+Video on iPhone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-motorola-moto-g04-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Motorola Moto G04 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-hitman-3-unable-to-connect-issue-expert-solutions/"><u>Troubleshooting the 'Hitman 3 Unable to Connect' Issue: Expert Solutions</u></a></li>
 </ul></div>
 

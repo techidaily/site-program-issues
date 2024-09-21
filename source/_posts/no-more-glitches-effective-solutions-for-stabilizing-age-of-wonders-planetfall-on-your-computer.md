@@ -1,7 +1,7 @@
 ---
 title: "No More Glitches: Effective Solutions for Stabilizing 'Age of Wonders: Planetfall' On Your Computer"
-date: 2024-09-14T18:55:44.902Z
-updated: 2024-09-16T18:17:54.416Z
+date: 2024-09-15T17:56:58.462Z
+updated: 2024-09-21T17:24:48.306Z
 tags:
   - win11
   - win10
@@ -106,28 +106,28 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -138,13 +138,6 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Initiate Full Repair** .
 
@@ -169,15 +162,22 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -201,19 +201,18 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-best-free-online-photo-tools-ranked-15/"><u>[New] 2024 Approved Best Free Online Photo Tools Ranked #15</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-nano-drones-10-your-next-flight-companion/"><u>[New] In 2024, Nano Drones 10 - Your Next Flight Companion?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-swift-and-efficient-turning-youtube-vids-into-mp4-high-definition-via-online-service/"><u>[Updated] 2024 Approved Swift & Efficient Turning YouTube Vids Into MP4, High-Definition via Online Service</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-harness-quick-download-powers-for-tiktok-videos/"><u>[Updated] Harness Quick-Download Powers for TikTok Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-10-top-editing-apps-at-no-cost-online/"><u>[Updated] In 2024, 10 Top Editing Apps at No Cost Online</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-investigating-cash-for-review-scenarios/"><u>[Updated] Investigating Cash-for-Review Scenarios</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-motorola-g24-power-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Motorola G24 Power? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortless-fix-resolving-the-origin-app-crash-problem-swiftly/"><u>Effortless Fix: Resolving the 'Origin' App Crash Problem Swiftly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-address-and-repair-the-bocw-user-interface-gaffe-error-27711/"><u>How to Address and Repair the BOCW User Interface Gaffe (Error 27711)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-reels-crafting-exquisite-slow-motion-content/"><u>In 2024, Instagram Reels Crafting Exquisite Slow-Motion Content</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-itel-a60s-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Itel A60s Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-crashes-in-nier-gestaltic-reverie-optimized-gameplay-tips-inside/"><u>No More Crashes in NieR: Gestaltic Reverie – Optimized Gameplay Tips Inside</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-players-rejoice-new-world-now-runs-smoothly-without-unexpected-shutdowns/"><u>PC Players Rejoice: 'New World' Now Runs Smoothly without Unexpected Shutdowns</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722995826900-solve-configuration-server-connection-failure-effortlessly-today/"><u>Solve ‘Configuration Server Connection Failure’ Effortlessly Today</u></a></li>
+<li><a href="https://fox-links.techidaily.com/action-camera-face-off-comparing-pro-3-models-on-market/"><u>Action Camera Face-Off Comparing Pro 3 Models on Market</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypass-the-blackout-effective-solutions-to-start-your-2024-nba-2k21-gaming-experience/"><u>Bypass the Blackout: Effective Solutions to Start Your 2024 NBA 2K21 Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-for-launch-issues-in-ubisofts-deathloop-game/"><u>Expert Advice for Launch Issues in Ubisoft's Deathloop Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-ghostrunner-critical-failure-issue-in-windows-10-a-comprehensive-guide/"><u>Fixing the GhostRunner Critical Failure Issue in Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-launch-problems-in-avatar-pandora-edition-tips-and-solutions/"><u>How To Overcome Launch Problems in Avatar: Pandora Edition – Tips and Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-repair-and-update-your-itunes-for-perfect-audio-performance/"><u>How to Repair and Update Your iTunes for Perfect Audio Performance</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-samsung-galaxy-xcover-6-pro-tactical-edition-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Samsung Galaxy XCover 6 Pro Tactical Edition.</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-compreranzo-il-background-ottenere-video-piu-chiaro-su-youtube/"><u>In 2024, Compreranzo Il Background Ottenere Video Più Chiaro Su YouTube</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-resetting-final-cut-pro-x-the-ultimate-troubleshooting-solution-for-2024/"><u>New Resetting Final Cut Pro X The Ultimate Troubleshooting Solution for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/nuts-portugals-warm-climate-is-ideal-for-growing-nuts-like-walnuts-almonds-hazelnuts-and-chestnuts-which-are-often-used-in-desserts-such-as-pastel-de-nata-o574/"><u>Nuts: Portugal's Warm Climate Is Ideal for Growing Nuts Like Walnuts, Almonds, Hazelnuts and Chestnuts, Which Are Often Used in Desserts (Such as Pastel De Nata) or Added to Salads and Rice Dishes for a Satisfying Crunch</u></a></li>
+<li><a href="https://fox-within.techidaily.com/stream-and-save-on-demand-top-tool-for-tagesschau-content-videocaptures-to-audio-extraction-made-simple/"><u>Stream and Save on Demand: Top Tool for Tagesschau Content – Videocaptures to Audio Extraction Made Simple</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/taking-twitters-short-form-stories-and-making-them-come-alive-as-gifs/"><u>Taking Twitter's Short Form Stories and Making Them Come Alive as GIFS</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Frames: Ultimate Guide to Resolving Low FPS in War Thunder"
-date: 2024-08-06T09:47:22.618Z
-updated: 2024-08-07T09:47:22.618Z
+date: 2024-09-20T17:26:32.090Z
+updated: 2024-09-21T18:33:16.710Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 
  Here are 6 fixes to try. You may not have to try them all; just work your way down the list until you find the one that does the trick!
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixes to try
 
 * [Fix 1: Restart your computer](https://tools.techidaily.com/drivereasy/download/)
@@ -31,17 +28,10 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 * [Fix 5: Exit full-screen mode](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 6: Reinstall Zoom](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 1: Restart your computer
 
  If you haven’t tried this yet, give it a shot. A simple reboot almost always works when it comes to software glitches.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## Fix 2: Turn off automatic GPU switching
 
 **GPU switching** allows you to maximize your graphic performance and prolong battery life when you have more than one graphics card. For many users, turning off the auto GPU switching feature fix the Zoom black screen issues.
@@ -56,16 +46,10 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 
  3) Select**Program Settings** , then click**Add** .
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/8.jpg)
 
  4) Click**Browse** .
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/10-1.jpg)
 
  5) Find**Cpthost.exe** from the Zoom bin directory (located at C:/>Users>YOURUSERNAME>AppData>Roaming>Zoom>bin).
@@ -74,9 +58,6 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 
  6) Under Select the preferred graphics processor for this program, select**Integrated graphics**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/11.jpg)
 
  7) Click**Apply** .
@@ -85,9 +66,6 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 
  If this didn’t fix Zoom black screen issues for you, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ## Fix 3: Update your graphics driver
 
  This issue could happen when your graphics driver is not compatible or gets corrupted somehow. So you want to make sure that your graphics driver is updated.
@@ -102,24 +80,12 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![update graphics driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/01/de-1.jpg)
 
  3) Click the **Update button** next to the video driver to automatically download the correct version of that driver, then you can manually install it.
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-2-4.jpg)
 
  You can do it for free if you want, but it’s partly manual.
@@ -151,6 +117,13 @@ If you still have the problem, then try the next fix below.
 
  Try screen sharing again with Zoom. If the black screen issue happens again, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5: Exit full-screen mode
 
  If you’re running Zoom on the full-screen mode when the issue occurs, try exiting out of the full screen and then share your screen.
@@ -161,12 +134,23 @@ If you still have the problem, then try the next fix below.
 
  3)**Uncheck** Enter full screen automatically when starting or joining a meeting.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-full-screen.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If the issue still exists, then move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Reinstall Zoom
 
@@ -177,6 +161,13 @@ If the issue still exists, then move on to the next fix below.
  2) Type**appwiz.cpl** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/unstall-roblox-1-.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Right-click Zoom and click**Uninstall** .
 
@@ -193,11 +184,28 @@ If the issue still exists, then move on to the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-unveiling-the-art-of-closer-views-on-microsoft-teams/"><u>[New] 2024 Approved Unveiling the Art of Closer Views on Microsoft Teams</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-earning-in-the-limelight-without-ads-a-comprehensive-guide-to-youtube-income/"><u>[New] In 2024, Earning in the Limelight without Ads A Comprehensive Guide to YouTube Income</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-a-complete-overview-of-vsco-photo-editor/"><u>[Updated] 2024 Approved A Complete Overview of VSCO Photo Editor</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-easy-ways-to-record-console-gameplay/"><u>[Updated] Easy Ways to Record Console Gameplay</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-rhythm-renders-infusing-sound-into-your-visual-storytelling-fb-for-2024/"><u>[Updated] Rhythm Renders Infusing Sound Into Your Visual Storytelling (FB) for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-art-of-optimizing-your-yt-channel-description/"><u>[Updated] The Art of Optimizing Your YT Channel Description</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-resolving-performance-hiccups-in-deathloop-for-pcps5-users/"><u>Comprehensive Guide: Resolving Performance Hiccups in Deathloop for PC/PS5 Users</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-bluetooth-dongle-drivers-for-windows-with-easy-download-steps/"><u>Get the Newest Bluetooth Dongle Drivers for Windows with Easy Download Steps!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/heart-of-iron-iv-troubleshooting-guide-overcoming-game-crashes-successfully/"><u>Heart of Iron IV Troubleshooting Guide: Overcoming Game Crashes Successfully</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-microphone-fixes-on-xbox-avoid-common-pitfalls-and-apply-our-best-solutions/"><u>Mastering Microphone Fixes on Xbox - Avoid Common Pitfalls & Apply Our Best Solutions !</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gaming-woes-solved-how-to-stop-new-world-from-continually-crashing-down/"><u>PC Gaming Woes Solved: How to Stop 'New World' From Continually Crashing Down</u></a></li>
+<li><a href="https://windows11.techidaily.com/play-ocm-like-pros-strategies-and-tips-for-the-uninitiated/"><u>Play OCM Like Pros: Strategies and Tips for the Uninitiated</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-game-freezes-immediately-with-this-guides-similar-problem/"><u>Resolve Game Freezes Immediately with This Guide's # Similar Problem</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-ranked-virtual-reality-headphones-a-comprehensive-guide/"><u>Top-Ranked Virtual Reality Headphones : A Comprehensive Guide</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "Stop League of Legends From Freezing: A Step-by-Step Guide"
-date: 2024-09-09T19:28:00.961Z
-updated: 2024-09-16T19:22:55.676Z
+date: 2024-09-17T16:09:57.496Z
+updated: 2024-09-21T20:52:35.960Z
 tags:
   - win11
   - win10
@@ -98,10 +98,10 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
@@ -112,23 +112,9 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
 
@@ -137,16 +123,10 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
@@ -158,6 +138,19 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Initiate Full Repair** .
 
@@ -185,6 +178,13 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Run League of Legends to see if you resolved this issue.
 
  Hopefully, you find this post helpful! As always, if you have any other solutions to fix League of Legends crashes, or if you have any questions or suggestions on this issue, you’re more than welcome to leave us a comment below.
@@ -207,15 +207,16 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-mac-studio-screen-and-sounds-recording-feature/"><u>[New] 2024 Approved Mac Studio Screen & Sounds Recording Feature</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-perfectly-smooth-window-snap-tool-for-2024/"><u>[New] Perfectly Smooth Window Snap Tool for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-steps-for-confirming-youtube-identity/"><u>[New] Steps for Confirming YouTube Identity</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-tailoring-your-archive-strategy-on-instagram-for-2024/"><u>[New] Tailoring Your Archive Strategy on Instagram for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-saving-your-best-on-instagram-a-comprehensive-guide/"><u>[Updated] In 2024, Saving Your Best on Instagram A Comprehensive Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/distinguished-makers-elite-instagram-highlight-constructors-for-2024/"><u>Distinguished Makers Elite Instagram Highlight Constructors for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maximizing-gaming-performance-solving-dying-lights-frame-rate-struggles-effectively/"><u>Maximizing Gaming Performance: Solving Dying Light's Frame Rate Struggles Effectively</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/perfectly-polished-pictures-top-grid-tools-revealed/"><u>Perfectly Polished Pictures Top Grid Tools Revealed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722996159986-resolved-issues-with-starting-nier-automata-remake-edition/"><u>Resolved: Issues with Starting NieR: Automata Remake Edition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-modern-warfare-3-app-crashing-fixes-and-solutions/"><u>Resolved: Modern Warfare 3 App Crashing - Fixes & Solutions</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-a-beginners-guide-making-your-podcasts-rss-feed/"><u>[New] 2024 Approved A Beginner's Guide Making Your Podcast's RSS Feed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-ideal-suggestions-superior-mobile-melody-designers/"><u>2024 Approved Ideal Suggestions Superior Mobile Melody Designers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-those-annoying-warzone-directx-error-messages-in-only-four-steps/"><u>Banish Those Annoying Warzone DirectX Error Messages in Only Four Steps</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/beware-the-risk-in-fake-followers-on-youtube-for-2024/"><u>Beware The Risk in Fake Followers on YouTube for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/crusader-kings-ii-not-loading-properly-uncover-the-reasons-and-get-it-running-smoothly-again/"><u>Crusader Kings II Not Loading Properly? Uncover the Reasons & Get It Running Smoothly Again</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/experience-the-new-unleash-a-set-of-50-designs-for-free-in-2024/"><u>Experience the New Unleash a Set of 50 Designs for Free, In 2024</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-proaudio-professionals-guide-analyzing-and-reviewing-the-top-8-daws-for-mac/"><u>New In 2024, ProAudio Professionals Guide Analyzing and Reviewing the Top 8 DAWs for Mac</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-slow-mo-showdown-top-10-video-players-compared/"><u>New In 2024, The Slow-Mo Showdown Top 10 Video Players Compared</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-hurdle-successfully-launching-age-of-empires-4/"><u>Overcoming the Hurdle: Successfully Launching Age of Empires 4</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-latency-issues-in-half-life-alyx-eliminating-pc-game-lag-and-stutters/"><u>Resolving Latency Issues in Half-Life: Alyx – Eliminating PC Game Lag & Stutters</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-resolve-issues-with-corsair-icue-compatibility-in-windows-11/"><u>Troubleshooting Steps to Resolve Issues with Corsair iCUE Compatibility in Windows 11</u></a></li>
 </ul></div>
 

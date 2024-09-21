@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Sounds: Troubleshooting Lack of Audio in Evil Genius 2 Game"
-date: 2024-09-10T22:46:20.548Z
-updated: 2024-09-16T21:06:38.691Z
+date: 2024-09-16T22:42:57.723Z
+updated: 2024-09-21T18:00:00.972Z
 tags:
   - win11
   - win10
@@ -86,13 +86,6 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-353.png)
@@ -108,13 +101,6 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 **1)** On your keyboard, press the **Windows logo**  key and **E**  at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Paste   **C:\\Program Files (x86)\\Steam\\steamapps\\common\\Oxygen Not Included** in the address bar.
 
@@ -132,11 +118,25 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-279.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Relaunch your game to check if your issue had been resolved.
 
  If you still get the error code in Windows 8 mode, repeat **steps 1 – 3**  and select **Windows 7**  from the drop-down list.
 
  If running your game in compatibility mode didn’t work for you, move on and try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5:**Change branches in Oxygen Not Included**
 
@@ -156,31 +156,11 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-287.png)
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Click the**list box** to open the drop-down menu, select the name of the branch you want to play.
 
  If you’re given a password to unlock the appropriate branch, type the password in the box next to**CHECK CODE** , click**CHECK CODE** and your branch will now be in the dropdown menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-288.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Click the**Local Files tab,** then click**VERIFY INTEGRITY OF GAME FILES** . ( Your game will be updated to the new branch, then.)
 
@@ -204,19 +184,6 @@ If the game crashing issue persists, check the fix below.
 **3)** Restart your computer and your game to test your issue.
 
  This should fix your problem. If it didn’t, don’t fret. Check the fix below.
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7:**Update your Graphics driver**
 
@@ -254,6 +221,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -274,6 +248,19 @@ OR
 
  If Oxygen Not Included crashing still happens after the update, try the fix below.
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 9: Reinstall the game
 
  If none of the fixes above helped, reinstalling your game is very likely the solution for you. Follow the instructions below:
@@ -289,6 +276,13 @@ OR
 **3)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)**  Highlight the **Oxygen Not Included folder** , and then press the **Del** key on your keyboard to delete the folder.
 
@@ -319,18 +313,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-elevate-instagram-creativity-with-musical-elements/"><u>[New] 2024 Approved Elevate Instagram Creativity with Musical Elements</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-exploring-benq-bl2711u-ultra-hd-monitor-deep-dive/"><u>[New] Exploring BenQ BL2711U Ultra-HD Monitor Deep Dive</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-swtor-not-launching-issues/"><u>[Solved] SWTOR Not Launching Issues</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-optimizing-video-content-with-powerful-hashtags-on-youtube/"><u>[Updated] 2024 Approved Optimizing Video Content with Powerful Hashtags on YouTube</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-conquering-peaks-comparing-gopro-hero5-black-and-session/"><u>2024 Approved Conquering Peaks Comparing GoPro Hero5 Black and Session</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-8-easy-to-use-replacements-for-makemkv-on-windows-convert-your-dvds-into-video-formats-like-mp4-mkv-and-more/"><u>Best 8 Easy-to-Use Replacements for MakeMKV on Windows: Convert Your DVDs Into Video Formats Like MP4, MKV & More</u></a></li>
-<li><a href="https://program-issues.techidaily.com/complete-fixes-overcoming-the-vanguard-not-initialized-challenge-in-valorant/"><u>Complete Fixes: Overcoming the 'Vanguard Not Initialized' Challenge in VALORANT</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/eden-echoes-best-rural-role-playing-realms-for-2024/"><u>Eden Echoes Best Rural Role-Playing Realms for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guilty-gear-strive-performance-enhanced-say-goodbye-to-lags/"><u>Guilty Gear Strive Performance Enhanced: Say Goodbye to Lags!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Tecno Camon 20 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-lags-ultimate-guide-to-unfreeze-your-borderlands-3-game/"><u>Resolving Lags: Ultimate Guide to Unfreeze Your Borderlands 3 Game</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/steelseries-arctis-5-drivers-download-and-install/"><u>SteelSeries Arctis 5 Drivers | Download & Install</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/unveil-the-leading-10-hidden-story-viewers/"><u>Unveil the Leading 10 Hidden Story Viewers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-crafting-the-perfect-gaming-channel-header/"><u>[New] 2024 Approved Crafting the Perfect Gaming Channel Header</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-navigate-to-constant-watch-enable-auto-play-feature-for-youtube-videos-on-fb/"><u>[New] In 2024, Navigate to Constant Watch Enable Auto-Play Feature for YouTube Videos on FB</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-from-beginner-to-champion-essential-drone-races-tips-and-best-models-for-2024/"><u>[Updated] From Beginner to Champion Essential Drone Races Tips and Best Models for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-transform-into-an-ultimate-hit-essential-seo-tips-for-youtube-videos/"><u>[Updated] In 2024, Transform Into an Ultimate Hit Essential SEO Tips for YouTube Videos</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-realme-gt-3-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-missing-startup-location-issue-on-fortnite-tips-and-tricks/"><u>Fixing the Missing Startup Location Issue on Fortnite - Tips & Tricks</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harmonious-handling-of-hues-top-6-mac-video-apps-in-big-sur-for-2024/"><u>Harmonious Handling of Hues Top 6 Mac Video Apps in Big Sur for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-magic-5-lite-lock-screen-password-by-drfone-android/"><u>How To Change Honor Magic 5 Lite Lock Screen Password?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-optimize-forza-horizon-5-graphics-with-the-right-driver-updates/"><u>How to Optimize Forza Horizon 5 Graphics with the Right Driver Updates</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-cannot-connect-to-server-problem-in-minecraft-gaming/"><u>How To Overcome 'Cannot Connect to Server' Problem In Minecraft Gaming</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-hdr-tutorial-for-exceptional-portraits/"><u>In 2024, The Ultimate HDR Tutorial for Exceptional Portraits</u></a></li>
+<li><a href="https://program-issues.techidaily.com/nvidia-geforce-overlay-malfunction-here-are-the-fixes-you-need/"><u>NVIDIA GeForce Overlay Malfunction? Here Are the Fixes You Need!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-common-problems-restarting-a-failed-content-warning-in-voice-chat-systems/"><u>Overcoming Common Problems: Restarting a Failed 'Content Warning' In Voice Chat Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-users-say-goodbye-to-frustration-a-step-by-step-solution-to-thaumaturge-app-malfunctions/"><u>PC Users, Say Goodbye to Frustration: A Step-by-Step Solution to Thaumaturge App Malfunctions</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/pondering-the-impact-of-higher-featured-apple-watch-on-daily-use/"><u>Pondering the Impact of Higher Featured Apple Watch on Daily Use</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rainbow-six-siege-connection-error-fixes-tips-for-a-smooth-multiplayer-experience/"><u>Rainbow Six Siege Connection Error Fixes - Tips for a Smooth Multiplayer Experience</u></a></li>
 </ul></div>
 

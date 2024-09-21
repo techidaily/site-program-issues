@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Activating Hyper-V in Windows 10"
-date: 2024-09-15T18:03:59.769Z
-updated: 2024-09-16T21:00:59.569Z
+date: 2024-09-15T17:53:49.254Z
+updated: 2024-09-21T21:54:55.117Z
 tags:
   - win11
   - win10
@@ -75,10 +75,10 @@ Don’t forget to enable the software afterward.
 If the error persists, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Use Windows troubleshooter
@@ -118,13 +118,6 @@ Here’s how to fix it:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
@@ -143,10 +136,10 @@ Here’s how to fix it:
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Type**sfc /scannow** (or copy-paste) and press **Enter** . Then wait for the verification is 100% complete.  
@@ -162,25 +155,28 @@ Here’s how to fix it:
 1. Press**Windows logo key + I** together on your keyboard. Then click**System** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/click-on-System.jpg)
 2. Click**Storage** on the left panel and you can view the storage usage of your computer.  
-![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3efb39ec79c.png)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3efb39ec79c.png)
 
 If you want to reduce the amount of space being used:
 
 1. Click**Free up space now** .![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3ea56da75b4.jpg)
 2. Wait for the scanning process to be complete.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Select the_files you want to remove_ , then click**Remove files** .  
  Before you select an option, read carefully its description to learn what you’ll remove if doing so.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3ea79456d1d.jpg)
@@ -192,13 +188,6 @@ If you want to reduce the amount of space being used:
 2. Click_the disk you’re going to clean up_ .![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3f021078a01.jpg)
 3. Check the space usage of_each data type_ . If you want to manage the usage of a type,**click it** to view more details.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 \* The following are a few things we recommend you take a look at:  
    * **The data type that uses the most amount of space**  
    * **Apps & Games** to see if there are any program installed you don’t need  
@@ -206,6 +195,13 @@ If you want to reduce the amount of space being used:
    * **Desktop**  
    * …  
    ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3f07dd26e5a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This should free up a lot of space for your Windows 10 computer. Reboot your PC and update your system.
 
@@ -236,20 +232,20 @@ If you want to reduce the amount of space being used:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-chart-toppers-top-10-youtube-personalities-in-views/"><u>[New] 2024 Approved Chart-Toppers Top 10 YouTube Personalities in Views</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-how-to-fix-saints-row-not-launching-on-pc/"><u>[SOLVED] How to Fix Saints Row Not Launching on PC</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-hidden-drain-unearthing-deceptive-likes-costs/"><u>[Updated] In 2024, The Hidden Drain Unearthing Deceptive Likes' Costs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-hacks-keeping-wwe-2k20-running-without-pc-disruptions/"><u>Easy Hacks: Keeping WWE 2K20 Running Without PC Disruptions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/evil-genius-2-launch-success-problem-solving-strategies-revealed/"><u>Evil Genius 2 Launch Success: Problem Solving Strategies Revealed!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-cannot-update-expert-strategies-to-refresh-your-minecraft-game-client-smoothly/"><u>Fixing 'Cannot Update' - Expert Strategies to Refresh Your Minecraft Game Client Smoothly</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Vivo V30? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-black-ops-cold-war-a-step-by-step-fix-for-the-error-code-0xc0000005/"><u>Mastering Black Ops Cold War: A Step-by-Step Fix for the 'Error Code 0xC0000005'</u></a></li>
-<li><a href="https://video-capture.techidaily.com/streamline-live-tv-capture-in-windows-free-methods-for-2024/"><u>Streamline Live TV Capture in Windows (Free Methods) for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-best-google-wireless-nest-doorbell-battery-version-on-the-market-expert-review/"><u>The Best Google Wireless Nest Doorbell (Battery Version) on the Market: Expert Review</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-persistent-crashes-in-pc-playthrough-of-god-of-war/"><u>Troubleshooting Steps for Persistent Crashes in PC Playthrough of 'God of War'</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fix-guide-overcoming-cod-vanguard-pc-stability-issues/"><u>Ultimate Fix Guide: Overcoming CoD Vanguard PC Stability Issues</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-realme-c51-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Realme C51 FRP Bypass</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-here-weve-selected-some-of-the-best-online-video-compressors-for-compressing-webm-videos-with-best-quality/"><u>Updated 2024 Approved Here Weve Selected some of the Best Online Video Compressors for Compressing WebM Videos with Best Quality</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-streamlined-techniques-for-rapid-mac-screen-recording/"><u>[Updated] Streamlined Techniques for Rapid Mac Screen Recording</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-boost-your-home-project-film-quality-fast-and-simple/"><u>2024 Approved Boost Your Home Project Film Quality Fast and Simple</u></a></li>
+<li><a href="https://program-issues.techidaily.com/avoid-microsoft-edge-crashes-effective-fixes-for-windows-10-users/"><u>Avoid Microsoft Edge Crashes: Effective Fixes for Windows 10 Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gauging-true-worth-of-chatgpt-pro/"><u>Gauging True Worth of ChatGPT Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-call-of-duty-world-war-ii-error-4128-quickly/"><u>How to Resolve Call of Duty World War II Error 4128 Quickly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-tecno-spark-10-5g-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Tecno Spark 10 5G Phone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-realme-12-proplus-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Realme 12 Pro+ 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-bringing-videos-to-life-using-youtube-in-educational-environments/"><u>In 2024, Bringing Videos to Life Using YouTube in Educational Environments</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-oppo-reno-8t-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Oppo Reno 8T 5G Face Lock?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmony-in-hd-crafting-melodic-instagram-videos/"><u>In 2024, Harmony in HD Crafting Melodic Instagram Videos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/innovative-free-chat-platforms-with-shared-screen-viewing/"><u>Innovative Free Chat Platforms with Shared Screen Viewing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722998119366-pacific-islanders-flying-problem-in-call-of-duty-warzone-now-fixed/"><u>Pacific Islanders' Flying Problem in Call of Duty: Warzone Now Fixed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-valorants-crash-dilemma-a-quick-guide-to-mend-graphic-driver-issues/"><u>Resolve Valorant's Crash Dilemma - A Quick Guide to Mend Graphic Driver Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-how-to-stop-nioh-2-from-crashing-completely/"><u>Troubleshooting Tips: How To Stop Nioh 2 From Crashing Completely</u></a></li>
+<li><a href="https://program-issues.techidaily.com/winning-the-fight-against-slow-fps-how-to-optimize-valheim-on-your-pc/"><u>Winning the Fight Against Slow FPS: How to Optimize Valheim on Your PC</u></a></li>
 </ul></div>
 

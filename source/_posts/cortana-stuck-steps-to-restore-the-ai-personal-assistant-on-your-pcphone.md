@@ -1,7 +1,7 @@
 ---
 title: Cortana Stuck? Steps to Restore the AI Personal Assistant on Your PC/Phone
-date: 2024-09-11T16:50:18.387Z
-updated: 2024-09-16T21:52:35.442Z
+date: 2024-09-18T20:31:30.801Z
+updated: 2024-09-21T19:06:52.154Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ If Biomutant still crashes, there are more fixes below.
 
  Sometimes the program glitches like crashes can be resolved by a simple restart. You could**restart your computer and Steam** to see if this helps your case. If not, try the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3 – Verify integrity of game files
 
  When there’s something wrong with Biomutant, it’s necessary to do an integrity check to see if any corrupted or missing game files are causing the crashes. Here are the steps:
@@ -49,15 +56,16 @@ If Biomutant still crashes, there are more fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. From the game list, right-click**Biomutant** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Select the**Local Files** tab on the left and click**Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/steam-verify-game-files-1.jpg)
 
  Wait a few minutes for the process to complete and test the game. If the same issue persists, move on to the next solution.
@@ -81,32 +89,25 @@ There are two ways to do this:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you could click**Update** to do it for free, but it’s partly manual.  
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-6900xt.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  So does the driver update dramatically boost the game performance? If not, check out the next method below.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Disable overlays
 
@@ -116,16 +117,16 @@ There are two ways to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click Biomutant on the list and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. On the **General** tab, untick **Enable Steam overlay while in-game** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After the setting is configured correctly, restart the game and it should be working fine.
 
@@ -149,21 +150,20 @@ There are two ways to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-fonepaw-screen-recorder-downloadreview/"><u>[New] Fonepaw Screen Recorder Download|Review</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-ultimate-screen-recorders-handbook-by-zd-soft-professionals/"><u>[New] In 2024, The Ultimate Screen Recorder’s Handbook by ZD Soft Professionals</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-camera-woes-over-obs-now-functioning/"><u>[Updated] 2024 Approved Camera Woes Over OBS Now Functioning</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-streamlined-screen-recording-on-mac-best-apps-of-choice/"><u>[Updated] Streamlined Screen Recording on Mac Best Apps of Choice</u></a></li>
-<li><a href="https://program-issues.techidaily.com/banishing-sea-of-thieves-launch-errors-a-step-by-step-success-story/"><u>Banishing Sea of Thieves Launch Errors: A Step-by-Step Success Story</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/dells-fresh-approach-elevating-the-experience-with-innovative-keyboard-and-mouse-design/"><u>Dell's Fresh Approach: Elevating the Experience with Innovative Keyboard & Mouse Design</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/demystifying-predictive-ais-workings-in-simple-terms/"><u>Demystifying Predictive AI's Workings in Simple Terms</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-guide-how-to-overcome-the-battlefield-4-not-opening-on-pc-dilemma/"><u>Expert Guide: How to Overcome the 'Battlefield 4 Not Opening on PC' Dilemma</u></a></li>
-<li><a href="https://program-issues.techidaily.com/garrys-mod-crashes-no-more-updated-fix-guide-for-gamers/"><u>Garry's Mod Crashes No More - Updated Fix Guide for Gamers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-lost-ark-running-again-expert-tips-for-launch-failures/"><u>Get Lost Ark Running Again : Expert Tips for Launch Failures</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-13-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 13 Passcode Easily Video Inside</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-viral-video-alert-the-days-10-heat-generating-tweets/"><u>In 2024, Viral Video Alert The Day's 10 Heat-Generating Tweets</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-lag-stable-playthrough-of-assassins-creed-odyssey-on-windows/"><u>No More Lag - Stable Playthrough of Assassin's Creed Odyssey on Windows!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-gaming-lag-no-more-modern-fixes-and-techniques-of-2024/"><u>PC Gaming Lag No More: Modern Fixes and Techniques of 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/silent-scribes-unveiling-the-best-speech-to-text-tools/"><u>Silent Scribes Unveiling the Best Speech-to-Text Tools</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-stop-diablo-4-from-crashing-on-your-gaming-console-or-pc/"><u>Troubleshooting Tips: Stop Diablo 4 From Crashing on Your Gaming Console or PC</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-sky-high-creations-professional-tips-for-drone-video-mastery/"><u>[New] Sky High Creations Professional Tips for Drone Video Mastery</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-exploring-high-speed-action-a-top-5-game-list-for-2024/"><u>[Updated] Exploring High-Speed Action A Top 5 Game List for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-mastering-media-your-step-by-step-video-tweet/"><u>[Updated] In 2024, Mastering Media Your Step-by-Step Video Tweet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/online-mka-to-mp4-converter-by-movavi/"><u>「無償で動画形式を簡単に切り替えるOnline MKA to MP4 Converter by Movavi」</u></a></li>
+<li><a href="https://program-issues.techidaily.com/accelerating-ubisoft-connect-transfer-rates-tips-and-tricks/"><u>Accelerating Ubisoft Connect Transfer Rates - Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battlefield-2042-performance-optimized-no-more-fps-dips-or-hitches-on-your-computer/"><u>Battlefield 2042 Performance Optimized: No More FPS Dips or Hitches on Your Computer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hatch-humorous-habits-for-2024/"><u>Hatch Humorous Habits for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-huawei-p60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-the-persistent-black-screen-in-your-persona-nova-gameplay/"><u>How To Overcome The Persistent Black Screen in Your Persona Nova Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-unresponsive-minecraft-gameplay-in-windows-environments/"><u>How to Resolve Unresponsive Minecraft Gameplay in Windows Environments</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/penning-podcasts-to-perfection-a-compreomed-writers-guide-for-2024/"><u>Penning Podcasts to Perfection A Compreomed Writer’s Guide for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005393961-tormented-souls-stability-fixes-say-goodbye-to-incessant-program-failures-on-pc/"><u>Tormented Souls Stability Fixes - Say Goodbye to Incessant Program Failures on PC!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722982733676-troubleshooting-complete-no-more-fifa-20-crashes-for-windows-users/"><u>Troubleshooting Complete: No More FIFA 20 Crashes for Windows Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-restore-your-windows-11-start-menu/"><u>Troubleshooting Tips: Restore Your Windows 11 Start Menu</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-top-ai-rap-voice-generators-upgrade-your-rap-for-2024/"><u>Updated Top AI Rap Voice Generators Upgrade Your Rap for 2024</u></a></li>
 </ul></div>
 

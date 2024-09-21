@@ -1,7 +1,7 @@
 ---
 title: "PC Players Rejoice: 'New World' Now Runs Smoothly without Unexpected Shutdowns"
-date: 2024-09-11T21:04:35.224Z
-updated: 2024-09-16T21:57:15.745Z
+date: 2024-09-20T19:34:04.333Z
+updated: 2024-09-21T20:14:56.160Z
 tags:
   - win11
   - win10
@@ -80,10 +80,10 @@ You can then launch Detroit: Become Human and see if it crashes again.
  If this solution doesn’t work for you, please continue to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3:**Close all** background**applications**
@@ -119,25 +119,11 @@ If this fix failed to solve your issue, please move on to the next one.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and see if Detroit: Become Human crashes again.
 
  If this fix doesn’t give you any luck, take a look at the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Install all Windows updates
 
@@ -149,7 +135,21 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Windows will automatically search and install available system updates. This might take up to an hour.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click Check for updates.
 
@@ -167,17 +167,17 @@ For example, you can follow these steps to disable Steam overlay:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/steam-disable-overlay.jpg)
 2. From the left menu, select**In-Game** . Under**The Steam Overlay** section, uncheck these boxes. Then click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 3. Launch Detroit: Become Human and test your gameplay.
 
 If the crashing reappears, please check out the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Disable your controller
 
@@ -208,20 +208,21 @@ If the crashing reappears, please check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-revolutionizing-youtube-success-through-smart-title-strategy/"><u>[New] In 2024, Revolutionizing YouTube Success Through Smart Title Strategy</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-fb-videos-made-quick-proximity-tricks-for-instant-uploaddownload/"><u>[Updated] 2024 Approved FB Videos Made Quick Proximity Tricks for Instant Upload/Download</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-minecraft-youtube-banners-with-templates/"><u>[Updated] 2024 Approved Free Minecraft YouTube Banners with Templates</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-sculpt-striking-signs-with-stock-designs-at-no-cost/"><u>[Updated] 2024 Approved Sculpt Striking Signs with Stock Designs at No Cost</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-crafty-concepts-designing-unforgettable-instagram-puzzle-feeds-for-2024/"><u>[Updated] Crafty Concepts Designing Unforgettable Instagram Puzzle Feeds for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-first-steps-for-joining-online-video-chats-google-meet-for-2024/"><u>[Updated] First Steps for Joining Online Video Chats (Google Meet) for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723011272458-fixes-for-star-wars-squadrons-game-breaking-glitches-now-solved/"><u>Fixes for Star Wars: Squadrons Game-Breaking Glitches - Now Solved!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-realme-c51-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Realme C51? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/marvel-enthusiasts-rejoice-solve-guardians-of-the-galaxy-pc-crash-issues-using-our-top-8-fixes/"><u>Marvel Enthusiasts Rejoice: Solve Guardians of the Galaxy PC Crash Issues Using Our Top 8 Fixes!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-stability-tweaks-to-fix-and-optimize-elite-dangerous-on-your-personal-computer/"><u>Mastering Stability Tweaks to Fix and Optimize Elite Dangerous on Your Personal Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/nba-2k24-error-resolution-tackling-issue-727e66ac-with-proven-strategies/"><u>NBA 2K24 Error Resolution: Tackling Issue 727E66AC with Proven Strategies</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-glitches-effective-solutions-for-stabilizing-age-of-wonders-planetfall-on-your-computer/"><u>No More Glitches: Effective Solutions for Stabilizing 'Age of Wonders: Planetfall' On Your Computer</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-ultimate-visual-companion-premium-webcams-for-podcasts/"><u>The Ultimate Visual Companion Premium Webcams for Podcasts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlocking-sounds-troubleshooting-lack-of-audio-in-evil-genius-2-game/"><u>Unlocking Sounds: Troubleshooting Lack of Audio in Evil Genius 2 Game</u></a></li>
-<li><a href="https://fox-that.techidaily.com/ways-to-restrict-your-airpods-from-linking-with-multiple-apple-products/"><u>Ways to Restrict Your AirPods From Linking With Multiple Apple Products</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-ig-spotlight-superheroes-top-tier-covers-on-the-go/"><u>[New] 2024 Approved IG Spotlight Superheroes Top-Tier Covers on the Go</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-overcoming-low-resolution-output-in-obs/"><u>[New] Overcoming Low-Resolution Output in OBS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-advanced-authorized-streaming-systems/"><u>[Updated] Advanced Authorized Streaming Systems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-quick-and-easy-iphone-screen-recording-tutorial/"><u>[Updated] Quick & Easy IPhone Screen Recording Tutorial</u></a></li>
+<li><a href="https://fox-http.techidaily.com/complete-evaluation-the-dji-inspire-1-unveiled-for-2024/"><u>Complete Evaluation The DJI Inspire 1 Unveiled for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-razr-40-support-avchd-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Does Razr 40 support AVCHD video?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fortnite-update-glitches-heres-how-to-tackle-the-disappearing-entry-point-dilemma/"><u>Fortnite Update Glitches? Here's How to Tackle the Disappearing Entry Point Dilemma</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-do-you-repair-the-sudden-crash-in-ring-of-elysium-solutions-explained/"><u>How Do You Repair the Sudden Crash in Ring of Elysium? Solutions Explained!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-get-elden-rings-multiplayer-mode-back-up-and-running-a-comprehensive-fix/"><u>How to Get Elden Ring's Multiplayer Mode Back Up and Running: A Comprehensive Fix</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-top-6-free-talking-stock-photo-sites-for-2024/"><u>New Top 6 Free Talking Stock Photo Sites for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000268251-no-sound-in-lost-ark-here-are-the-solutions-you-need/"><u>No Sound in Lost Ark? Here Are the Solutions You Need!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-call-of-duty-warzone-performance-by-activating-the-gpu-on-your-windows-11-machine/"><u>Optimizing Call of Duty: Warzone Performance by Activating the GPU on Your Windows 11 Machine</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009181263-revive-the-villainy-fix-noise-failures-in-evil-genius-2-easily/"><u>Revive the Villainy – Fix Noise Failures in 'Evil Genius 2' Easily!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-taking-screengrabs-on-an-hp-desktop-replacement/"><u>The Ultimate Guide to Taking Screengrabs on an HP Desktop Replacement</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723001093717-unraveling-the-mystery-behind-nier-replicant-game-freeze-error-corrected/"><u>Unraveling the Mystery Behind NieR: Replicant Game Freeze Error Corrected</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-essentials-an-in-depth-review-of-lightroom-for-android-for-2024/"><u>Unveiling the Essentials An In-Depth Review of Lightroom for Android for 2024</u></a></li>
 </ul></div>
 

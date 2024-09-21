@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Battlefield 2042: Fixing Persistent DirectX Errors Easily"
-date: 2024-09-10T19:03:42.499Z
-updated: 2024-09-16T17:26:02.332Z
+date: 2024-09-17T16:37:01.114Z
+updated: 2024-09-21T16:08:44.132Z
 tags:
   - win11
   - win10
@@ -63,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 
  Run Vegas Pro to see if the problem persists. If it does, move on to the solution below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Scan and repair system files
 
  The Sony Vegas Pro crashing issue could be triggered by corrupted Windows files. For basic troubleshooting, you can try running the**sfc /scannnow** command. If it doesn’t fix your problem, you may need a more powerful tool to scan and repair your system.
@@ -74,14 +81,20 @@ thumbnail: https://thmb.techidaily.com/8398659134dc24374c71d0ed649ae9e802ceefac0
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -106,6 +119,13 @@ If the issue is still there, you can move on to the next fix.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
@@ -144,22 +164,8 @@ If the issue is still there, you can move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_16-31-39.jpg)
 3. Turn**Off** the**GPU acceleration of video processing** . Click**Apply** then**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Note that GPU acceleration does make things faster, but it could also increase system instability. So it’s not a good idea to turn it on if you experience constant crashes. However, if you have a powerful GPU, you could try to turn the acceleration on and off to see which way works better in your case.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_16-45-14.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re only trying to adjust this part of the settings, restart Vegas Pro to test if the issue returns. Or you could move on to work with other settings below.
 
@@ -177,6 +183,13 @@ If the issue is still there, you can move on to the next fix.
 3. For**Enable multi-core rendering for playback** , change the value to**FALSE** ; for**Disable multi-core rendering** , set the value to**TRUE** . Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-32-52-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Restart Vegas Pro to make sure the changes are saved, then check if your problem persists. If this doesn’t seem to help, try the next fix.
 
 ### Fix 7: Disable a CPU processor for Vegas Pro
@@ -188,22 +201,15 @@ If the issue is still there, you can move on to the next fix.
 2. Switch to the**Details** tab and scroll to find**Vegas Pro** . Right-click the process then select**Set affinity** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-54-37-1.jpg)
 3. **Uncheck any one box of the CPU processor** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-56-07-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Run Vegas Pro to see if the problem is solved.
 
@@ -229,18 +235,14 @@ Run Vegas Pro to see if the problem is solved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-correcting-excessive-encoding-in-obs/"><u>[New] In 2024, Correcting Excessive Encoding in OBS</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-mp3-recording-guide-exclusive-to-free-skype-calls/"><u>[New] MP3 Recording Guide Exclusive to Free Skype Calls</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-elevate-your-youtube-presence-featuring-essential-channels-tutorial-for-2024/"><u>[Updated] Elevate Your Youtube Presence Featuring Essential Channels Tutorial for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/businesses-dilemnas-five-arguments-for-keeping-ai-out/"><u>Businesses' Dilemnas: Five Arguments for Keeping AI Out</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/capturing-clarity-top-methods-for-ppt-videos/"><u>Capturing Clarity Top Methods for PPT Videos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-ways-to-address-lost-arks-stability-problems-and-pc-game-crashes/"><u>Effective Ways to Address Lost Ark's Stability Problems & PC Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/end-gta-5-hiccups-effective-solutions-to-keep-your-game-running-smoothly/"><u>End GTA 5 Hiccups: Effective Solutions to Keep Your Game Running Smoothly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-optimize-your-gameplay-by-reducing-cpu-usage-in-phasmophobia/"><u>How to Optimize Your Gameplay by Reducing CPU Usage in Phasmophobia</u></a></li>
-<li><a href="https://program-issues.techidaily.com/kofxv-pc-issues-why-does-the-king-of-fighters-keep-crashing-and-how-to-fix-it/"><u>KOFXV PC Issues: Why Does The King of Fighters Keep Crashing and How To Fix It?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/powerpoint-playback-problems-step-by-step-guide-to-fixing-audio-glitches/"><u>PowerPoint Playback Problems: Step-by-Step Guide to Fixing Audio Glitches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-how-to-enable-gpu-support-for-cyberpunk-2077-on-a-windows-10-pc/"><u>Resolved: How to Enable GPU Support for Cyberpunk 2077 on a Windows 10 PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-successful-strategies-to-fix-borderlands-3-loading-problems-11-methods/"><u>Ultimate Guide: Successful Strategies to Fix Borderlands 3 Loading Problems (11 Methods)</u></a></li>
-<li><a href="https://win-able.techidaily.com/windows-1111-hd8k/"><u>Windows 11/11で無料ビデオ解像度チェンジ: HDから8Kまでのシームレスなアップグレードテクニック</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-essential-knowledge-for-engaging-with-asmr-videos-for-2024/"><u>[Updated] Essential Knowledge for Engaging with ASMR Videos for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/2024s-best-budget-friendly-processors-analyzed-and-ranked-cnet-ratings/"><u>2024'S Best Budget-Friendly Processors Analyzed and Ranked - CNET Ratings</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-to-stop-red-dead-online-from-crashing-on-your-computer-system/"><u>Expert Advice to Stop Red Dead Online From Crashing on Your Computer System</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/expert-level-workshop-programming-timer-functions-for-obs-productions-for-2024/"><u>Expert-Level Workshop Programming Timer Functions for OBS Productions for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-your-forza-horizon-4-up-and-running-top-troubleshooting-guide/"><u>Get Your Forza Horizon 4 Up and Running : Top Troubleshooting Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovating-audio-artistry-using-chatgpt-in-digital-production/"><u>Innovating Audio Artistry: Using ChatGPT in Digital Production</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-5-best-places-to-find-freelance-work/"><u>The 5 Best Places to Find Freelance Work</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-frame-rate-variations-fortnites-transformation-post-season-8-release/"><u>Understanding Frame Rate Variations - Fortnite's Transformation Post-Season 8 Release</u></a></li>
 </ul></div>
 

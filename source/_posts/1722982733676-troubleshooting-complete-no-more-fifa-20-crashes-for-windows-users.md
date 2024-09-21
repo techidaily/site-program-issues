@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Complete: No More FIFA 20 Crashes for Windows Users"
-date: 2024-09-11T17:29:27.244Z
-updated: 2024-09-16T19:40:37.243Z
+date: 2024-09-18T20:55:59.175Z
+updated: 2024-09-21T21:07:51.716Z
 tags:
   - win11
   - win10
@@ -73,22 +73,16 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Go to the LOCAL FILES tab, and click**Verify Integrity of game files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-game-files.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Wait for the process to complete. It may take a few seconds to verify the integrity of your game files.
 
@@ -104,7 +98,21 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-in-dx-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now when you click the Play button, the game is always run in DX11\. If this method doesn’t do the trick, you can change the launch option back to**\-force -dx12** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5\. Launch the game in your game folder
 
@@ -114,29 +122,9 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/browse.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Right-click**OUTRIDERS-Win64-Shipping** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties-game-exe.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Go to the**Compatibility** tab, and check**Run this program as an administrator** .
 
@@ -159,10 +147,10 @@ There are mainly two methods for you to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/allow-firewall.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Now you can click**Change settings** and scroll down to Outriders to make sure the**Private** and**Public** boxes are both checked.
@@ -195,18 +183,20 @@ There are mainly two methods for you to update the graphics driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-pioneering-photography-insight-with-complementary-works/"><u>[Updated] In 2024, Pioneering Photography Insight with Complementary Works</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-monitor-matters-how-to-opt-for-the-best-visual-experience-with-4k-displays/"><u>[Updated] Monitor Matters How to Opt for the Best Visual Experience with 4K Displays</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-essential-techniques-for-green-screen-shooting-excellence/"><u>2024 Approved Essential Techniques for Green Screen Shooting Excellence</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-giggle-genesis-app/"><u>2024 Approved Giggle Genesis App</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-hitman-3-pc-crashes-essential-troubleshooting-guide-for-gamers/"><u>Fixing Hitman 3 PC Crashes: Essential Troubleshooting Guide for Gamers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-honor-magic-v2-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Honor Magic V2</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-your-hardware-drivers-on-windows-10-by-drivereasy-guide/"><u>How to use Device Manager to reinstall your hardware drivers on Windows 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/illuminating-the-path-to-play-eradicating-nba-2k21s-stubborn-black-screen-challenge/"><u>Illuminating the Path to Play: Eradicating NBA 2K21's Stubborn Black Screen Challenge</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-by-toms-computing-hub/"><u>In-Depth Analysis by Tom's Computing Hub</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-halting-overcoming-constant-crashing-in-halo-infinite-on-pc/"><u>No More Halting: Overcoming Constant Crashing in Halo Infinite on PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-best-zero-internet-auto-race-games-of-2023-premium-fun-without-data-drain/"><u>The Best Zero-Internet Auto Race Games of 2023 - Premium Fun Without Data Drain!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-tips-for-boosting-gameplay-smoothness-eliminate-fps-drops-on-your-pc/"><u>Top Tips for Boosting Gameplay Smoothness: Eliminate FPS Drops on Your PC</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-behind-the-numbers-carryminatis-youtube-wealth/"><u>[Updated] In 2024, Behind the Numbers CarryMinati’s YouTube Wealth</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-paint-your-vision-top-8-best-drawing-apps-for-iphone-enthusiasts-for-2024/"><u>[Updated] Paint Your Vision Top 8 Best Drawing Apps for iPhone Enthusiasts for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-unlock-epic-video-with-gopro-time-lapse-strategies/"><u>2024 Approved Unlock Epic Video with GoPro Time Lapse Strategies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elden-ring-release-delayed-an-inside-look/"><u>Elden Ring Release Delayed: An Inside Look</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/enhance-visual-quality-in-your-obs-edits-today/"><u>Enhance Visual Quality in Your OBS Edits Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-get-your-twitch-stream-up-and-running-again-with-these-groovy-7-fixes/"><u>How To Get Your Twitch Stream Up & Running Again With These Groovy 7 Fixes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-beyond-whats-visible-insights-into-instagram-story-consumers/"><u>In 2024, Beyond What's Visible Insights Into Instagram Story Consumers</u></a></li>
+<li><a href="https://facebook.techidaily.com/limit-online-spotlight-with-facebooks-privacy-restriction-list/"><u>Limit Online Spotlight with Facebook's Privacy Restriction List</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-finding-people-with-our-list-of-8-leading-search-engines/"><u>Master the Art of Finding People with Our List of 8 Leading Search Engines</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-reverse-tiktok-videos-like-a-pro-a-step-by-step-tutorial/"><u>New Reverse TikTok Videos Like a Pro A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-issue-fixing-dead-by-daylight-error-code-8014/"><u>Resolving the Issue: Fixing Dead by Daylight Error Code 8014</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-relink-issue-in-granblue-fantasy-a-step-by-step-guide/"><u>Solving the 'Relink' Issue in Granblue Fantasy - A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-to-clear-up-the-steam-launchers-black-screen-glitch-learn-how-in-our-latest-guide/"><u>Step-by-Step Fixes to Clear Up the Steam Launcher's Black Screen Glitch – Learn How in Our Latest Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-prevent-your-sons-of-the-forest-game-from-crashing-on-windows/"><u>Troubleshooting Steps to Prevent Your 'Sons of the Forest' Game From Crashing on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-when-razer-synapse-wont-start-up/"><u>Troubleshooting Tips When Razer Synapse Won't Start Up</u></a></li>
 </ul></div>
 

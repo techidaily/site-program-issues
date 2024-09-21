@@ -1,7 +1,7 @@
 ---
 title: How to Get and Install the Newest Logitech G403 Software on Your Computer
-date: 2024-09-14T16:39:45.948Z
-updated: 2024-09-16T19:26:36.097Z
+date: 2024-09-15T18:02:58.373Z
+updated: 2024-09-21T21:09:20.682Z
 tags:
   - win11
   - win10
@@ -67,13 +67,6 @@ Recommended
 
 If the issue remains, check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your graphics driver
 
  A faulty or outdated graphics driver could impact your game performance and cause the black screen issue. To ensure Halo Infinite works properly on your device, you need to keep your graphics driver up to date.
@@ -96,10 +89,10 @@ If the issue remains, check out the next fix.
 If the issue persists, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115941/19272" target="_top" id="2115941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115941" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Check for Windows updates
@@ -110,6 +103,13 @@ If the issue persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you’ve installed all the updates, restart your computer and launch Halo Infinite again to see if the black screen issue has gone away.
 
@@ -127,26 +127,27 @@ If the issue persists, take a look at the next fix.
 3. Locate**HaloInfinite.exe** from the list of apps. If not listed, click**Change settings > Allow another app…** , then locate**HaloInfinite.exe** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
 4. Checkmark both**Private** and**Public** settings.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click**OK** .
 
  If you’re also running any third-party antivirus program, you should temporarily disable it before launching the game.
 
  Check if you still get a black screen when launching Halo Infinite. If the issue persists, continue with the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Perform a clean boot
 
@@ -182,10 +183,10 @@ If the issue persists, take a look at the next fix.
 3. Follow the on-screen instructions to uninstall the game.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Reinstall Halo Infinite.
@@ -214,15 +215,18 @@ Now you should be able to run the game without any problems.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-decoding-ig-analytics-mastering-the-art-of-social-media-insights/"><u>[New] Decoding IG Analytics Mastering the Art of Social Media Insights</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-cost-effective-amazon-basics-6-sheet-cross-cut-shredder-a-thorough-review/"><u>Evaluating the Cost-Effective Amazon Basics 6 Sheet Cross Cut Shredder – A Thorough Review</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-successfully-download-cyberpunk-2e77-from-steam-after-previous-errors/"><u>How to Successfully Download Cyberpunk 2E77 From Steam After Previous Errors</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-honor-70-lite-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Honor 70 Lite 5G Activity | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-arduino-usb-drivers-compatible-with-windows-os/"><u>Latest Arduino USB Drivers Compatible with Windows OS</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/next-gen-gaming-unleashed-a-comprehensive-review-of-the-alienware-aurora-r9-by-dell/"><u>Next-Gen Gaming Unleashed: A Comprehensive Review of the Alienware Aurora R9 by Dell</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/proven-mac-imaging-comprerante-and-comparing-5-efficient-techniques/"><u>Proven Mac Imaging Comprerante & Comparing 5 Efficient Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-complete-guide-successfully-launching-valorant-on-pc-tips/"><u>The Complete Guide: Successfully Launching Valorant on PC - Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-definitive-guide-to-preventing-and-fixing-last-epoch-errors-on-your-pc-top-tips-and-tricks-updated/"><u>The Definitive Guide to Preventing and Fixing Last Epoch Errors on Your PC: Top Tips & Tricks (Updated )</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-and-get-your-steamvr-up-and-running-again-fast-solutions-inside/"><u>Troubleshoot and Get Your SteamVR Up & Running Again - Fast Solutions Inside</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-exclusive-roundup-top-tier-no-cost-luts-available/"><u>[New] 2024 Approved Exclusive Roundup Top-Tier, No-Cost LUTs Available</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-ultimate-guide-to-selective-mounting-gopros-best-6-helmet-accessories/"><u>[New] The Ultimate Guide to Selective Mounting GoPro's Best 6 Helmet Accessories</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-a-gamers-guide-to-twisting-videos-on-youtube-2e/"><u>[Updated] A Gamer's Guide to Twisting Videos on YouTube (2E)</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-poco-x5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creating-custom-workout-plans-gpts-safe-approach/"><u>Creating Custom Workout Plans: GPT's Safe Approach</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-cuppidate-addressing-heavy-cpu-demands-for-better-performance/"><u>Cyberpunk Cuppidate: Addressing Heavy CPU Demands for Better Performance</u></a></li>
+<li><a href="https://driver-error.techidaily.com/expert-advice-on-correcting-the-hcmon-driver-installation-problem/"><u>Expert Advice on Correcting the HCMon Driver Installation Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-preventing-and-resolving-crashes-in-battlefield-5-on-windows-systems/"><u>Expert Advice: Preventing and Resolving Crashes in Battlefield 5 on Windows Systems</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fixed-resolving-installer-snags-for-nvidia/"><u>Fixed: Resolving Installer Snags for Nvidia</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-mysterious-leaf-glitch-in-apex-legends-ultimate-solutions-for-2n-22-players/"><u>Fixing the Mysterious 'Leaf' Glitch in Apex Legends: Ultimate Solutions for 2N-22 Players</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-realme-c67-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Realme C67 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-6-fixes-for-a-non-functioning-game-capture-microphone/"><u>Top 6 Fixes for a Non-Functioning Game Capture Microphone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-honor-80-pro-straight-screen-edition-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Honor 80 Pro Straight Screen Edition Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 </ul></div>
 

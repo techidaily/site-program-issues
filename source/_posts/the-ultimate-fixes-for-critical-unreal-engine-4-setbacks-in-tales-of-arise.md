@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Fixes for Critical Unreal Engine 4 Setbacks in Tales of Arise
-date: 2024-09-10T20:29:47.724Z
-updated: 2024-09-16T20:23:26.613Z
+date: 2024-09-20T19:07:56.278Z
+updated: 2024-09-21T21:46:55.003Z
 tags:
   - win11
   - win10
@@ -67,6 +67,13 @@ If your issue continues to occur, you can move to the next fix.
 
  If this fix doesn’t help your case, simply take a look at the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Verify your game files
 
  This issue might happen when Cyberpunk 2077 files on your PC are corrupt or missing. If you’re playing the game on Steam, follow the instructions below to verify your game files:
@@ -76,31 +83,18 @@ If your issue continues to occur, you can move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_15-04-01.jpg)
 3. Right-click **Cyberpunk 2077**  and select **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** . This could take several minutes. Wait for the process to be complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/verify-integrity-of-game-files-Steam-1.jpg)
 5. Relaunch Cyberpunk 2077 to check the issue.
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your game still won’t run correctly, then go ahead with the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Adjust your virtual memory
 
@@ -113,6 +107,20 @@ If your issue continues to occur, you can move to the next fix.
 1. On your keyboard, press the **Windows logo** key and type **advanced system settings.** Then click **View advanced system settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-41.jpg)
 2. Click **Settings** .  
+
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-35.jpg)
 3. Click the **Advanced**  tab, and then click **Change** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-31.jpg)
@@ -121,22 +129,8 @@ If your issue continues to occur, you can move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-27-1.jpg)
 5. Click your **C drive** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-22.jpg)
 6. Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-16.jpg)
 7. Click **Set** , then **OK** .  
@@ -168,22 +162,29 @@ You can follow these simple steps to do a clean boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box before **Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your video card or sound card manufacturer, such as **Realtek** , **AMD** , **NVIDIA**  and **Intel** . Then click **OK**  to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig-uncheck-services-clean-boot.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC and check if Cyberpunk 2077 freezing again.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -206,20 +207,14 @@ You can follow these simple steps to do a clean boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-comprehensive-solution-for-partially-muted-fb-video-tracks-for-2024/"><u>[New] Comprehensive Solution for Partially Muted FB Video Tracks for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-unravel-the-best-web-resources-for-perfecting-your-video-subtitles/"><u>[Updated] Unravel the Best Web Resources for Perfecting Your Video Subtitles</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-the-syma-x8c-user-guide-insights/"><u>2024 Approved The Syma X8C User Guide Insights</u></a></li>
-<li><a href="https://program-issues.techidaily.com/assassins-creed-rogue-launch-issues-discover-effective-troubleshooting-steps/"><u>Assassin’s Creed Rogue Launch Issues? Discover Effective Troubleshooting Steps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-compiled-shader-glitch-for-a-smooth-cod-black-ops-cold-war-gaming-experience/"><u>Fixing the Compiled Shader Glitch for a Smooth COD: Black Ops Cold War Gaming Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-a-step-by-step-guide-to-resolving-steamvr-error-code-308/"><u>Fixing the Issue: A Step-by-Step Guide to Resolving SteamVR Error Code 308</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-witcher-3-wild-hunt-wont-launch/"><u>How to Fix Witcher 3: Wild Hunt Won't Launch</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-get-the-latest-drivers-for-your-brother-mfc-l2e6wd-wireless-all-in-one-printer-on-a-windows-pc/"><u>How to Get the Latest Drivers for Your Brother MFC-L2e6WD Wireless All-in-One Printer on a Windows PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-your-pc-from-crashing-while-playing-euro-truck-simulator-2/"><u>How to Stop Your PC From Crashing While Playing Euro Truck Simulator 2</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-apex-creations-workspace-assessment/"><u>In 2024, Apex Creations Workspace Assessment</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-6s-plus-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 6s Plus In Different Conditionsin | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-vivo-x90s-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Vivo X90S FRP Bypass</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ovenproof-gloves-or-potholders/"><u>Ovenproof Gloves or Potholders</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/revealing-artistic-strategies-in-fb-video-marketing/"><u>Revealing Artistic Strategies in FB Video Marketing</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/the-prime-camera-choices-revealing-the-best-for-2024/"><u>The Prime Camera Choices – Revealing the Best for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-strategies-for-optimal-ram-in-the-world-of-minecraft-for-2024/"><u>[New] Strategies for Optimal RAM in the World of Minecraft for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explore-best-10-free-srt-converter-apps-online/"><u>[Updated] Explore Best 10 Free Srt Converter Apps Online</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/2024-approved-the-power-of-ai-thumbnail-generators/"><u>2024 Approved The Power of AI Thumbnail Generators</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/conversion-vod-libre-de-lmpeg-a-vob-sur-internet-convertisseur-gratuit/"><u>Conversion VOD Libre De L'MPEG À VOB Sur Internet - Convertisseur Gratuit</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-fixes-for-tackling-windows-update-standstill-at-zero-percent/"><u>Effortless Fixes for Tackling Windows Update Standstill at Zero Percent</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-halting-overcoming-constant-crashing-in-halo-infinite-on-pc/"><u>No More Halting: Overcoming Constant Crashing in Halo Infinite on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-tips-for-boosting-gameplay-smoothness-eliminate-fps-drops-on-your-pc/"><u>Top Tips for Boosting Gameplay Smoothness: Eliminate FPS Drops on Your PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/transferring-your-memories-effortlessly-downloading-all-icloud-photos-onto-different-devices/"><u>Transferring Your Memories Effortlessly: Downloading All iCloud Photos Onto Different Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/zoom-blackout-blues-heres-your-ultimate-guide-to-clear-the-screen/"><u>Zoom Blackout Blues? Here’s Your Ultimate Guide to Clear the Screen</u></a></li>
 </ul></div>
 

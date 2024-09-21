@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Troubleshooting for GTFO Software Stability Issues
-date: 2024-09-09T20:56:08.419Z
-updated: 2024-09-16T21:35:18.467Z
+date: 2024-09-18T22:54:48.213Z
+updated: 2024-09-21T20:22:05.983Z
 tags:
   - win11
   - win10
@@ -75,10 +75,10 @@ thumbnail: https://thmb.techidaily.com/110fb399f984d23daa9e38ab73955fe742594ebb4
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-setting-1024x592.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
@@ -92,13 +92,6 @@ Here are the system requirements for Control:
  If you’re currently running Control with DirectX 12, it’s recommended that you run Control**with DirectX 11** to avoid the game crash issues.
 
  Restart the game to see if this fix works, if not, try the next fix below to modify your graphics card settings.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Modify your graphics card settings
 
@@ -118,15 +111,15 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
@@ -174,13 +167,6 @@ Here are the system requirements for Control:
 
  See if the game will crash or not. Normally this issue should be resolved. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Perform a Windows Update
 
  According to the game developers, if MS Visual C++ is missing or corrupted, you may also run into the Control crash issue. To resolve this problem, you need to reinstall Official Microsoft Visual C++ 2013 and .NET Framework.
@@ -200,6 +186,13 @@ Here are the system requirements for Control:
 [https://www.microsoft.com/en-us/download/details.aspx?id=30653](https://www.microsoft.com/en-us/download/details.aspx?id=30653)
 
  After installing Microsoft Visual C++ 2013 and Microsoft .NET Framework, you need to restart Windows. Then launch Control to see if this issue persists. If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Install the latest Control patch
 
@@ -226,6 +219,13 @@ Here are the system requirements for Control:
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 10: Run Program Compatibility Troubleshooter
 
  If Control often crashes on your Windows 10 PC, you can try running Windows Program Compatibility Troubleshooter to run the game in Windows 7 mode. Here’s how to do it:
@@ -238,10 +238,10 @@ Here are the system requirements for Control:
 3. Double-click the shortcut of Control on your desktop to launch it. This time Control will run in the compatibility mode you set in step 2.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 See if this fix works for you. If not, try the next fix, below.
@@ -272,17 +272,20 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-best-3d-entrance-makers-for-youtube-creators/"><u>[New] 2024 Approved Best 3D Entrance Makers for YouTube Creators</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-no-money-no-problem-the-best-free-subtitles-apps/"><u>[New] 2024 Approved No Money, No Problem The Best Free Subtitles Apps</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-optimal-zoom-audio-enhancing-quality-two-fold-approach-for-2024/"><u>[New] Optimal Zoom Audio Enhancing Quality, Two-Fold Approach for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-massive-subscriber-jump-for-a-sensible-5-investment/"><u>[Updated] Massive Subscriber Jump for a Sensible $5 Investment</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-itel-s23plus-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/achieving-unparalleled-detail-with-remote-screens/"><u>Achieving Unparalleled Detail with Remote Screens</u></a></li>
-<li><a href="https://program-issues.techidaily.com/banish-those-annoying-warzone-directx-error-messages-in-only-four-steps/"><u>Banish Those Annoying Warzone DirectX Error Messages in Only Four Steps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/crusader-kings-ii-not-loading-properly-uncover-the-reasons-and-get-it-running-smoothly-again/"><u>Crusader Kings II Not Loading Properly? Uncover the Reasons & Get It Running Smoothly Again</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-latency-issues-in-half-life-alyx-eliminating-pc-game-lag-and-stutters/"><u>Resolving Latency Issues in Half-Life: Alyx – Eliminating PC Game Lag & Stutters</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-9-best-free-online-languages-courses-your-ultimate-guide/"><u>Top 9 Best Free Online Languages Courses - Your Ultimate Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-choosing-a-leading-smart-ac/"><u>Ultimate Guide to Choosing a Leading Smart AC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-bringing-images-to-life-windows-and-mac-text-integration-techniques/"><u>[New] Bringing Images to Life Windows & Mac Text Integration Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-transform-your-digital-portfolio-with-onscreen-cropping/"><u>[Updated] In 2024, Transform Your Digital Portfolio with Onscreen Cropping</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diy-guide-successful-connection-steps-for-kodi-where-directory-info-was-lost/"><u>DIY Guide: Successful Connection Steps for Kodi Where Directory Info Was Lost</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-on-fixing-the-crash-problem-of-guilty-gear-strive-on-windowsmac-computers/"><u>Expert Tips on Fixing the Crash Problem of Guilty Gear Strive on Windows/Mac Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-fixing-path-of-exile-connection-errors-a-step-by-step-solution/"><u>Guide to Fixing Path of Exile Connection Errors : A Step-by-Step Solution</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-apple-iphone-8-plusipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked Apple iPhone 8 Plus/iPad/iPod</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-step-by-step-guide-to-screen-capturing-hulu-content-seamlessly/"><u>In 2024, Step-by-Step Guide to Screen Capturing Hulu Content Seamlessly</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-iphone-12-pro-max-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock From your iPhone 12 Pro Max</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-load-fixing-far-cry-5-endless-boot-loop/"><u>Overcoming the Load: Fixing 'Far Cry 5' Endless Boot Loop!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-minecrafts-crossbow-glitches-and-error-messages/"><u>Resolving Minecraft's Crossbow Glitches and Error Messages</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ring-of-elysium-optimization-guide-raise-your-fps-for-a-better-experience/"><u>Ring of Elysium Optimization Guide: Raise Your FPS for a Better Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-doom-eternal-crashes-effective-troubleshooting-steps/"><u>Solving DOOM Eternal Crashes: Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://windows11.techidaily.com/swiftly-overcoming-disruptions-after-a-windows-update/"><u>Swiftly Overcoming Disruptions After a Windows Update</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/top-choice-elite-videographer-tool-for-vimeo/"><u>Top Choice Elite Videographer Tool for Vimeo</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-resident-evil-village-pc-game-crashes-a-comprehensive-guide/"><u>Troubleshooting Resident Evil Village PC Game Crashes: A Comprehensive Guide</u></a></li>
 </ul></div>
 

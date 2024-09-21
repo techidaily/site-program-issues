@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Endless Load: Resolving Anthem's Infinity Loop Issue"
-date: 2024-09-14T17:50:13.193Z
-updated: 2024-09-16T22:29:25.041Z
+date: 2024-09-17T18:01:16.563Z
+updated: 2024-09-21T21:31:06.045Z
 tags:
   - win11
   - win10
@@ -70,19 +70,6 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 
  Launch FUSER and see if the latest graphics driver stops the crash. If this fix doesn’t work for you, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Install the latest game patch
 
  The developer of FUSER releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -92,10 +79,16 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
  Run FUSER again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Turn off VSync
@@ -125,16 +118,23 @@ You can try turning off VSync and see if this issue persists.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
@@ -171,19 +171,16 @@ You can try turning off VSync and see if this issue persists.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-ultimate-guide-to-adaptive-igtv-video-dimensions/"><u>[Updated] In 2024, The Ultimate Guide to Adaptive IGTV Video Dimensions</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unleashing-power-plays-exclusive-insights-into-best-7-total-war-battles/"><u>[Updated] In 2024, Unleashing Power Plays Exclusive Insights Into Best 7 Total War Battles</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-xiaomi-14-pro-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Xiaomi 14 Pro Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/defeating-black-screen-glitches-in-far-cry-6-a-step-by-step-solution/"><u>Defeating Black Screen Glitches in Far Cry 6 – A Step-by-Step Solution</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expertly-reviewed-the-elite-ceiling-audio-choices/"><u>Expertly Reviewed: The Elite Ceiling Audio Choices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-steam-cannot-update-cloud-library-comprehensive-solutions/"><u>Fixing 'Steam Cannot Update Cloud Library': Comprehensive Solutions</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-tecno-pova-5-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Tecno Pova 5 Phones</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-connectivity-hurdles-with-steams-servers-a-fix-guide/"><u>Overcoming Connectivity Hurdles with Steam's Servers: A Fix Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-and-painless-installation-of-a-vpn-on-your-mac-device/"><u>Quick and Painless Installation of a VPN on Your Mac Device</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-frequent-freezes-in-overwatch-gameplay/"><u>Resolved: Fixes for Frequent Freezes in Overwatch Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-process-to-fetch-and-install-updated-drivers-for-the-logitech-g403-on-pc/"><u>Step-by-Step Process to Fetch and Install Updated Drivers for the Logitech G403 on PC</u></a></li>
-<li><a href="https://windows11.techidaily.com/steps-to-resolve-failed-page-loading-on-ms-store/"><u>Steps to Resolve Failed Page Loading on MS Store</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-pc-lag-with-these-swift-fixes-to-roblox-issues-edition/"><u>Stop PC Lag with These Swift Fixes to Roblox Issues Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/swiftly-solve-your-windows-fbm-hiccups-today/"><u>Swiftly Solve Your Windows FBM Hiccups Today</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-brilliant-asus-monitor-ultrahd-true-black/"><u>[New] Brilliant Asus Monitor UltraHD, True Black</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-streamlining-your-gaming-diary-overwatch-video-documentation/"><u>[Updated] Streamlining Your Gaming Diary Overwatch Video Documentation</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-pure-sound-capture-on-your-mac/"><u>2024 Approved Pure Sound Capture on Your Mac</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dota-nixing-game-crashes-a-comprehensive-guide-to-a-smooth-play-experience/"><u>Dota Nixing Game Crashes: A Comprehensive Guide to a Smooth Play Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-to-seamless-path-of-exile-instance-connections-avoid-common-pitfalls/"><u>Expert Guide to Seamless Path of Exile Instance Connections : Avoid Common Pitfalls</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-boundaries-distinguishing-natural-language-processing-from-machine-learning-techniques/"><u>Exploring the Boundaries: Distinguishing Natural Language Processing From Machine Learning Techniques</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-infinix-smart-8-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Infinix Smart 8 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-screenshots-on-iphone-13-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Screenshots on iPhone 13? | Stellar</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stabilize-your-stronghold-expert-advice-on-resolving-state-of-decay-2s-frequent-crashes-this-year/"><u>Stabilize Your Stronghold: Expert Advice on Resolving State of Decay 2'S Frequent Crashes This Year</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723010701758-troubleshoot-game-crashes-in-ghost-recon-breakpoint-with-ease-and-speed/"><u>Troubleshoot Game Crashes in Ghost Recon Breakpoint with Ease & Speed</u></a></li>
 </ul></div>
 

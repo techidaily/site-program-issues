@@ -1,7 +1,7 @@
 ---
 title: Overcoming Lag and Crashes When Playing PC Version of God of War
-date: 2024-09-14T19:32:00.884Z
-updated: 2024-09-16T21:36:01.119Z
+date: 2024-09-17T17:07:24.767Z
+updated: 2024-09-21T20:04:56.091Z
 tags:
   - win11
   - win10
@@ -62,10 +62,10 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
  Now see if Hitman 3 works properly. If not, there are two more fixes to try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3 – Verify the integrity of game files
@@ -76,21 +76,21 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-1-2.jpg)
 2. Mouse over the**Hitman 3 tile** and click**the icon with three dots** at the lower right corner. Then, select**Verify** .  
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-2.jpg)
 3. After the process completes, launch Hitman 3 to test.
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Does the game works the right way or does it still crash? If the latter, don’t frustrate and check out the next fix.
 
@@ -108,10 +108,10 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 3. Click the**Update** button next to the_flagged graphics driver_ to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all the drivers_ that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
@@ -134,28 +134,29 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 3. Navigate to the**Advanced** tab. Then, click**Change** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-3-2.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-3.jpg)
-5. Select the**C drive** and click**Custom size** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-3.jpg)
+5. Select the**C drive** and click**Custom size** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-5.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has. Then, click **OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : According to Microsoft, you should set virtual memory no less than**1.5 times** and no more than **3 times** the amount of RAM on your computer. For example, if you have 8 GB RAM, the**Initial size** should be 8 x 1024 x 1.5 = 12288 MB while the **Maximum size** should be 8 x 1024 x 3 = 24576 MB. If you don’t know how much RAM you have, read our post to[check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart the computer for changes to take effect. Once you’ve done that, run Hitman 3 and the crashes should be resolved now.
 
@@ -181,21 +182,21 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-digital-footprint-and-interactive-iconography-honors/"><u>[New] 2024 Approved Digital Footprint and Interactive Iconography Honors</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-how-can-i-share-youtube-videos-on-facebook/"><u>[New] How Can I Share YouTube Videos on Facebook?</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-expert-picks-top-5-high-performing-android-recorders/"><u>[Updated] In 2024, Expert Picks Top 5 High-Performing Android Recorders</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-techniques-for-live-broadcasting-recorded-videographies-on-fb/"><u>[Updated] Techniques for Live Broadcasting Recorded Videographies on FB</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpts-intelligence-is-it-declining-or-stable-according-to-openai/"><u>ChatGPT's Intelligence: Is It Declining or Stable According to OpenAI?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/dell-g5-5090-comprehensive-overview-and-assessment-of-an-exceptional-value-focused-gaming-rig/"><u>Dell G5 5090 - Comprehensive Overview and Assessment of an Exceptional Value-Focused Gaming Rig</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-fixing-atomic-hearts-failures-at-boot-time/"><u>Diagnosing and Fixing Atomic Hearts Failures at Boot Time</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-how-to-fix-and-prevent-packet-loss-on-your-discord-connection/"><u>Expert Tips: How to Fix and Prevent Packet Loss on Your Discord Connection</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722992794533-fix-your-fall-guys-issues-overcoming-launch-and-crash-problems-easily/"><u>Fix Your Fall Guys Issues: Overcoming Launch and Crash Problems Easily</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-restore-functionality-of-windows-spotlight-feature-on-windows-11/"><u>How to Restore Functionality of Windows Spotlight Feature on Windows 11</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Google Pixel Fold? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-snap-to-perfection-editing-strategies-that-work-wonders/"><u>In 2024, Snap to Perfection Editing Strategies That Work Wonders</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maplestory-wont-open-discover-how-to-correct-the-game-initialization-issue/"><u>MapleStory Won't Open? Discover How to Correct the Game Initialization Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-11-solutions-to-resolve-the-borderlands-3-wont-start-issue/"><u>Top 11 Solutions to Resolve the 'Borderlands 3 Won't Start' Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unraveling-the-mystery-of-eternal-return-the-resilience-saga-continues/"><u>Unraveling the Mystery of 'Eternal Return': The Resilience Saga Continues</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-wmv-video-splitter-free-download-top-choices/"><u>Updated WMV Video Splitter Free Download Top Choices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premier-real-time-video-distribution-tools/"><u>[New] Premier Real-Time Video Distribution Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-innovative-solutions-advanced-mobile-recording-on-android/"><u>[Updated] Innovative Solutions Advanced Mobile Recording on Android</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-snapshot-sophistication-editing-to-dazzle/"><u>2024 Approved Snapshot Sophistication Editing to Dazzle</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dying-light-lag-problems-here-are-the-fixes-to-optimize-your-gaming-experience/"><u>Dying Light Lag Problems? Here Are the Fixes to Optimize Your Gaming Experience</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/fb-link-savers-discover-8-free-and-easy-online-tools/"><u>FB Link Savers Discover 8 Free & Easy Online Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-solve-gtfo-crashing/"><u>How to Solve GTFO Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-black-desert-online-from-crashing-on-windows-1087-solved/"><u>How To Stop Black Desert Online From Crashing On Windows 10/8/7 (Solved)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-se-2020-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone SE (2020) Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-crafting-captivating-asmr-scenes-techniques-for-successful-recording/"><u>In 2024, Crafting Captivating ASMR Scenes Techniques for Successful Recording</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-streaming-successfully-resolving-obs-screen-capture-problems/"><u>Mastering Streaming Successfully: Resolving OBS Screen Capture Problems</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-dvr-wars-tivo-and-comcast-go-head-to-head/"><u>New In 2024, DVR Wars TiVo and Comcast Go Head-to-Head</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-xiaomi-13-ultra-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Xiaomi 13 Ultra Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-corrective-measures-enable-successful-maplestory-game-boot-up/"><u>Resolved: Corrective Measures Enable Successful MapleStory Game Boot-Up</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-frame-rate-drops-in-call-of-duty-modern-warfare-3-202-a-comprehensive-guide/"><u>Troubleshooting Frame Rate Drops in Call of Duty: Modern Warfare 3 (202^) - A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-the-postponement-unraveling-death-stranding-launch-issues/"><u>Understanding the Postponement: Unraveling Death Stranding Launch Issues</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unpacking-the-lg-k92-assessing-whether-5g-connectivity-justifies-the-investment/"><u>Unpacking the LG K92 – Assessing Whether 5G Connectivity Justifies the Investment</u></a></li>
 </ul></div>
 

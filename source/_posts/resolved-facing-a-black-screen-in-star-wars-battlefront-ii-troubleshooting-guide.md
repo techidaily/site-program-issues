@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Facing a Black Screen in Star Wars Battlefront II - Troubleshooting Guide"
-date: 2024-09-13T16:14:58.969Z
-updated: 2024-09-16T18:47:54.781Z
+date: 2024-09-14T17:02:37.170Z
+updated: 2024-09-21T19:27:52.384Z
 tags:
   - win11
   - win10
@@ -131,6 +131,13 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap10-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the**Compatibility** tab and click **Run compatibility troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11-2.png)
@@ -138,6 +145,13 @@ Or
  3) Click**Try recommended settings** to test-run program using recommended compatibility settings. Follow the on-screen instructions to see whether this troubleshooting option works or not.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/pasted-image-1-1-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) If it still doesn’t work, then run the Program Compatibility Troubleshooter again and**select the second option** **to choose compatibility settings based on problems you notice** .
 
@@ -151,16 +165,16 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this fix works, your Origin will open when you double-click its shortcut. If not, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 4: Add Origin as an exception to your third-party antivirus application**
 
@@ -198,13 +212,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap262-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Click**Restart** to restart your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap263-1.png)
@@ -215,13 +222,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 6: Install the latest Windows updates**
 
  Sometimes this issue may occur if you didn’t install the latest Windows updates on your PC. Try performing Windows Update and this issue may get resolved. Here is how to do it:
@@ -230,22 +230,29 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap1-1-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Check for updates** to update your Windows system.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap267.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Restart your PC when the Windows update process completed.
 
  If this fix works, Origin will open when you double-click its shortcut on the desktop. If not, try the next fix to reinstall Origin.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 7: Reinstall Origin**
 
@@ -266,13 +273,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
  iii. Double-click**Origin** to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap268.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 iv. Restart your Windows system when it is completed.
 
@@ -300,15 +300,16 @@ iv. Restart your Windows system when it is completed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/1722987679195-fixed-diablo-immortal-keeps-crashing-pc-guide-2024/"><u>[FIXED] Diablo Immortal Keeps Crashing - PC Guide 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-exploring-facebooks-2023-video-revolution-the-rise-of-compact-clips/"><u>[New] In 2024, Exploring Facebook's 2023 Video Revolution The Rise of Compact Clips</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-essential-8-tools-linux-based-edits-software/"><u>[Updated] 2024 Approved Essential 8 Tools Linux-Based Edits Software</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-high-end-audio-with-sonys-innovative-wh-1000xm4-headphones/"><u>Exploring High-End Audio with Sony's Innovative WH-1000XM4 Headphones</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-praeys-for-the-gods-solutions-to-prevent-pc-crashes/"><u>Fix Praeys for the Gods: Solutions to Prevent PC Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-cyberpunk-2077-wont-start-problem/"><u>How to Fix Cyberpunk 2077 Won't Start Problem</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-netflix-app-when-it-stops-working-in-windows/"><u>How to Fix the Netflix App When It Stops Working in Windows</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-itel-p55t-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Itel P55T</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-guide-overcoming-error-0x803f8001-in-minecraft-for-windows-users/"><u>Solution Guide: Overcoming Error 0X803f8001 in Minecraft for Windows Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unveiling-immersion-the-lg-360-virtual-reality-experience/"><u>Unveiling Immersion The LG 360 Virtual Reality Experience</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-intriguing-world-of-triller-vs-tiktok/"><u>[New] 2024 Approved The Intriguing World of Triller vs TikTok</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-into-the-abyss-and-beyond-shadowbearer-vs-daybeam/"><u>[New] Into the Abyss and Beyond Shadowbearer Vs Daybeam</u></a></li>
+<li><a href="https://program-issues.techidaily.com/document-all-interactions-with-customers-in-a-timely-manner-using-the-appropriate-tracking-software-or-tools-provided-by-our-company/"><u>Document All Interactions with Customers in a Timely Manner Using the Appropriate Tracking Software or Tools Provided by Our Company</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-pc-crashes-in-assassins-creed-odyssey-quick-guide/"><u>How To Fix PC Crashes In Assassin's Creed Odyssey - Quick Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-zte-blade-a73-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of ZTE Blade A73 5G?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-compelling-podcast-teasers/"><u>In 2024, Crafting Compelling Podcast Teasers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-social-media-savant-writes-on-mastering-brand-promotion/"><u>In 2024, The Social Media Savant' Writes on Mastering Brand Promotion</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-stability-advanced-fixes-for-persistent-lag-in-fallout-4-yearbook/"><u>Mastering Stability: Advanced Fixes for Persistent Lag in Fallout 4 [Yearbook]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-ubisoft-connects-sluggish-downloads-expert-tips-and-tricks/"><u>Solving Ubisoft Connect's Sluggish Downloads: Expert Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007515708-stardew-valley-wont-open-try-these-steps/"><u>Stardew Valley Won’t Open? Try These Steps!</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/wmv-and-m4a-movavi/"><u>オンラインでの圧縮フリーWMV & M4A変換 - Movavi</u></a></li>
 </ul></div>
 

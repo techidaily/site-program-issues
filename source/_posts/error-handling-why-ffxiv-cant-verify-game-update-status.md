@@ -1,7 +1,7 @@
 ---
 title: "Error Handling: Why FFXIV Can't Verify Game Update Status"
-date: 2024-08-06T09:47:22.393Z
-updated: 2024-08-07T09:47:22.393Z
+date: 2024-09-15T21:04:51.867Z
+updated: 2024-09-21T20:06:16.133Z
 tags:
   - win11
   - win10
@@ -15,10 +15,6 @@ thumbnail: https://thmb.techidaily.com/87aca7f6dd67e673512ab0a4b65285915e96bdcd3
 
 ## Enhance Gameplay in Forza Horizon 5 with the Latest Graphics Card Driver Updates
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/forza-horizon-5-code-FH301.jpg)
 
  Forza Horizon 5 is finally here. However, some players reported that they were unable to launch the game and got the message saying that “**Please update your graphics driver…(Code: FH301)** ”. If you’re facing the same error, don’t worry. Here we’ll tell you how to update your graphics driver easily and quickly.
@@ -38,9 +34,6 @@ The ultimate burning program for all your needs!</a>
 2. In Device Manager, double-click**Display adapters** to expand it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/display-adapter.jpg)
 3. Right-click your**graphics card** and select**Update driver** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/graphics-update-driver.jpg)
 4. Select**Search automatically for drivers** . Windows will automatically search for the latest driver for your graphics card and then install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/search-automatically-for-drivers.jpg)
@@ -56,16 +49,9 @@ The ultimate burning program for all your needs!</a>
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -73,19 +59,28 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  After installing the latest graphics driver, restart your PC for the changes to take effect. Now you should be able to launch Forza Horizon 5.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 3: Update your graphics driver manually
 
  You can also go to your graphics card manufacturer’s website to download and update your graphics driver. It takes time and computer skills to update your graphics driver this way. If you’re a tech-savvy user, you can try the following steps to download and install the latest graphics driver on your own.
 
 1. According to the graphics card you have, go to **[NVIDIA](https://tools.techidaily.com/drivereasy/download/)**  ,[**AMD**](https://www.amd.com/en/support) or **[Intel](https://downloadcenter.intel.com/product/80939/Graphics)**  website.
 2. Select the**type of your graphics card** and your**operating system** . Once you locate the correct one, select the latest version to**download** .  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/nvidia-driver.jpg)
 3. Once downloaded,**double-click** on the downloaded file and follow the on-screen instructions to install the driver.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. **Restart** your PC and check if you can launch Forza horizon 5.
 
 ---
@@ -101,11 +96,23 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-audio-alerts-high-quality-pages/"><u>[New] Ultimate Audio Alerts High-Quality Pages</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-tips-and-tricks-to-prevent-dreamlight-valley-from-freezing-your-pc-screen/"><u>Essential Tips and Tricks to Prevent Dreamlight Valley From Freezing Your PC Screen</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-blacklist-why-it-occurs/"><u>Facebook Blacklist: Why It Occurs</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-resolving-black-screen-problems-in-epic-games-launcher/"><u>Fixing the Issue: Resolving Black Screen Problems in Epic Games Launcher</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-iphone-14-pro-by-drfone-ios/"><u>How To Unlock A Found iPhone 14 Pro?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tigating-top-viewed-comments-for-2024/"><u>Investigating Top Viewed Comments for 2024</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-tecno-pop-8-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Tecno Pop 8</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-battlefield-2042-fixing-persistent-directx-errors-easily/"><u>Troubleshooting Battlefield 2042: Fixing Persistent DirectX Errors Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/victory-over-overwatch-errors-tackling-the-graphics-driver-problem-once-and-for-all/"><u>Victory over Overwatch Errors: Tackling the Graphics Driver Problem Once and For All</u></a></li>
+</ul></div>
+

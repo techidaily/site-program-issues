@@ -1,7 +1,7 @@
 ---
 title: "Forza Horizon 4 PC Crash Issues Resolved: Troubleshooting Guide"
-date: 2024-09-12T22:15:17.774Z
-updated: 2024-09-16T20:03:58.295Z
+date: 2024-09-20T20:16:09.326Z
+updated: 2024-09-21T18:00:36.694Z
 tags:
   - win11
   - win10
@@ -70,13 +70,6 @@ If you’re playing_Euro Truck Simulator 2 (ETS2)_ on your PC and it starts cras
 
 If no, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Check for mod errors
 
  If you’ve installed a mod and it’s no longer compatible with the current version of Euro Truck Simulator 2, then it could cause your game to crash.
@@ -84,13 +77,6 @@ If no, try the fix below.
  To see if that’s the issue for you, you can go to**C:\\Users\\Your user name\\documents\\euro truck simulator 2\\** and check the**game.log.txt file** for mod errors.
 
  If it turns out to be a mod issue, you’ll need to either update the mod or roll back your game to its previous version.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Clear your game cache files
 
@@ -111,13 +97,6 @@ Follow the instructions below to see how:
 **4)**  Right-click the**Steam folder** and select**Delete** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_15-54-14.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Restart your game to check if this worked for you.
 
@@ -174,9 +153,23 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-46-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Click the **Compatibility tab** , then check **Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-40-30.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)**  Click **Apply** , then **OK** .
 
@@ -212,10 +205,10 @@ If your game is still unplayable, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-54-40.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Try relaunching_ETS2_ to see if this has resolved your issue. If your game crashes again, check the next fix, below.
@@ -226,15 +219,22 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-55-41.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-56-02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Right-click the resource-consuming process and select **End task** .
@@ -286,16 +286,15 @@ If your game is still unplayable, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-investing-in-quality-the-path-to-top-tier-fb-video-ads-for-2024/"><u>[New] Investing in Quality The Path to Top-Tier FB Video Ads for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-speedy-steps-screenshot-simplification-on-dell/"><u>[New] Speedy Steps Screenshot Simplification on Dell</u></a></li>
-<li><a href="https://program-issues.techidaily.com/banish-common-issues-making-your-iphone-compatible-with-itunes-for-windows-10-users/"><u>Banish Common Issues: Making Your iPhone Compatible with iTunes for Windows 10 Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722984661140-beat-the-connection-failed-glitch-in-hitman-3-solutions-that-work/"><u>Beat the 'Connection Failed' Glitch in Hitman 3 - Solutions That Work</u></a></li>
-<li><a href="https://win-blog.techidaily.com/comprehensive-guide-to-fixing-rainbow-six-siege-delays-and-lags/"><u>Comprehensive Guide to Fixing Rainbow Six Siege Delays and Lags</u></a></li>
-<li><a href="https://driver-error.techidaily.com/ensuring-smooth-gaming-regularly-update-windows-10s-deadrivers/"><u>Ensuring Smooth Gaming: Regularly Update Windows 10'S DeaDrivers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/facebook-tutorial-how-to-create-facebook-account-for-2024/"><u>Facebook Tutorial How to Create Facebook Account for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-on-your-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID On Your Apple iPhone 13 mini</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Tecno Spark Go (2024) | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-crashes-in-football-manager-2020-expert-advice-and-fixes/"><u>Resolving Crashes in Football Manager 2020 - Expert Advice and Fixes</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/samsung-galaxy-s10plus-vs-s20-a-comprehensive-performance-analysis/"><u>Samsung Galaxy S10+ vs S20: A Comprehensive Performance Analysis</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-ultimate-handbook-for-youtube-video-creation/"><u>[New] 2024 Approved The Ultimate Handbook for YouTube Video Creation</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-enhance-privacy-and-speed-the-best-7-android-adblocks/"><u>[New] In 2024, Enhance Privacy & Speed The Best 7 Android AdBlocks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-lava-yuva-3-pro-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Lava Yuva 3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-those-annoying-warzone-directx-error-messages-in-only-four-steps/"><u>Banish Those Annoying Warzone DirectX Error Messages in Only Four Steps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/choosing-the-right-gimbal-dslr-vs-mirrorless-edition/"><u>Choosing the Right Gimbal DSLR vs Mirrorless Edition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/digital-chromatic-conventions-in-media-production/"><u>Digital Chromatic Conventions in Media Production</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-airwaves-to-your-iphone-mastery-of-podcast-downloads-for-2024/"><u>From Airwaves to Your iPhone Mastery of Podcast Downloads for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-solve-persistent-crashes-in-warzone-20-for-windows-users/"><u>How to Solve Persistent Crashes in Warzone 2.0 for Windows Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-tecno-spark-10c-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Tecno Spark 10C Phone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-resolve-issues-with-corsair-icue-compatibility-in-windows-11/"><u>Troubleshooting Steps to Resolve Issues with Corsair iCUE Compatibility in Windows 11</u></a></li>
 </ul></div>
 

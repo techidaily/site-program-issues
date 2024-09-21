@@ -1,7 +1,7 @@
 ---
 title: Minecraft Launch Issues? Here's How to Bypass That Frustrating Startup Screen
-date: 2024-09-09T20:18:15.165Z
-updated: 2024-09-16T16:52:16.096Z
+date: 2024-09-16T17:05:18.230Z
+updated: 2024-09-21T16:21:35.605Z
 tags:
   - win11
   - win10
@@ -65,13 +65,20 @@ There are mainly two ways to update your graphics driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is download them one at a time and manually install them.)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -90,10 +97,10 @@ There are mainly two ways to update your graphics driver:
 2. Under**Windows Update** , click**Check for updates** . Windows will automatically download and install the available updates.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
@@ -110,10 +117,10 @@ If the issue persists, move on to the next fix.
 2. Click on the**Check for updates** button.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![win11 - Download & install Windows Update](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
@@ -129,15 +136,15 @@ If the issue persists, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. Select the**Install Files** tab and click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Verify-integrity-of-game-files.jpg)
 4. Wait a few minutes for Steam to verify the game files.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once the process is complete, relaunch the game and check to see if you can get past the black screen.
 
@@ -151,13 +158,6 @@ If the issue remains, take a look at the next fix.
 2. Right-click**Elden Ring** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. On the**General** tab, toggle off**Enable the Steam Overlay while in-game** .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Disable-in-game-overlay.jpg)
 4. Close the**Properties** window and launch the game.
@@ -187,18 +187,18 @@ Now check if the black screen issue has gone away.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-the-filmmakers-roadmap-creating-youtube-trailers-using-filmora/"><u>[New] 2024 Approved The Filmmaker's Roadmap Creating YouTube Trailers Using Filmora</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-unlocking-clear-communication-zooms-best-transcription-services/"><u>[New] In 2024, Unlocking Clear Communication Zoom's Best Transcription Services</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-guide-to-accurate-transfer-of-camera-photos-to-social-media-apps/"><u>[Updated] In 2024, Guide to Accurate Transfer of Camera Photos to Social Media Apps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-shift-to-macos-11-big-sur/"><u>2024 Approved Mastering the Shift to macOS 11 Big Sur</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-oppo-reno-11-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Oppo Reno 11 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-your-game-from-crashing-in-oxygen-a-real-time-space-colony-simulator/"><u>How To Prevent Your Game From Crashing in 'Oxygen: A Real-Time Space Colony Simulator'</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-adobe-audition-101-the-art-of-fading-on/"><u>In 2024, Adobe Audition 101 The Art of Fading On</u></a></li>
-<li><a href="https://program-issues.techidaily.com/installing-hyper-v-on-windows-1/"><u>Installing Hyper-V on Windows 1</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-drive-error-quick-fix-for-windows-device/"><u>No-Drive Error: Quick Fix for Windows Device</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-game-stability-in-2n24-how-to-prevent-frustrating-crashes/"><u>PC Game Stability in 2N24: How to Prevent Frustrating Crashes</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/snap-into-action-a-compelling-ig-gallery-of-inspiration-for-2024/"><u>Snap Into Action! A Compelling IG Gallery of Inspiration for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solution-guide-resolving-the-problem-of-a-silent-microphone-in-zoom-sessions-on-microsoft-operating-systems/"><u>Solution Guide: Resolving the Problem of a Silent Microphone in Zoom Sessions on Microsoft Operating Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-diablo-immortal-resolving-pc-issues-and-crashes-for-players/"><u>Troubleshooting Diablo Immortal - Resolving PC Issues and Crashes for Players</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-effortless-media-incorporation-youtube-to-slides/"><u>[New] 2024 Approved Effortless Media Incorporation YouTube to Slides</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-seamless-instagram-to-mp4-conversion-on-any-operating-system/"><u>[Updated] 2024 Approved Seamless Instagram to MP4 Conversion on Any Operating System</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-easy-setup-making-a-direct-path-for-youtube-subscribers-for-2024/"><u>[Updated] Easy Setup Making a Direct Path for YouTube Subscribers for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlock-iphone-editing-magic-shorter-smaller-videos/"><u>2024 Approved Unlock iPhone Editing Magic Shorter, Smaller Videos</u></a></li>
+<li><a href="https://driver-download.techidaily.com/connect-your-iphone-to-windows-11-essential-driver-download-steps/"><u>Connect Your iPhone to Windows 11: Essential Driver Download Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-correcting-pacific-drive-malfunctions-and-stalling-behavior-on-your-desktop/"><u>Guide to Correcting Pacific Drive Malfunctions and Stalling Behavior on Your Desktop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/heroes-of-might-and-magic-vii-crashing-fix-ultimate-solutions-for-a-smooth-gaming-experience/"><u>Heroes of Might & Magic VII Crashing Fix - Ultimate Solutions for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-poco-c65-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Poco C65? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721202425034-secure-your-business-with-bitraser-enterprise-erasure-step-by-step-guide-video/"><u>Secure Your Business with BitRaser Enterprise Erasure - Step by Step Guide Video</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-conundrum-steps-to-address-stagnation-in-society/"><u>Solving the Conundrum: Steps to Address Stagnation in Society</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-5-affordable-drones-under-500-for-2024/"><u>Top 5 Affordable Drones Under $500 for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-connection-problems-in-lost-ark-expert-tips-and-solutions/"><u>Troubleshooting Connection Problems in Lost Ark: Expert Tips & Solutions</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/usb-printer-non-operation-on-windows-7-post-sleep/"><u>USB Printer Non-Operation on Windows 7 Post Sleep</u></a></li>
 </ul></div>
 

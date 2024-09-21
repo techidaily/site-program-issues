@@ -1,7 +1,7 @@
 ---
 title: Insights Into Fixing Aesthetic Distortions Encountered in Rust IDE
-date: 2024-09-13T21:30:59.951Z
-updated: 2024-09-16T22:44:43.355Z
+date: 2024-09-17T18:04:07.875Z
+updated: 2024-09-21T19:28:06.332Z
 tags:
   - win11
   - win10
@@ -60,13 +60,6 @@ If you didn’t find any hardware issues, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Steam-right-click-Properties.jpg)
 2. Under the**LOCAL FILES** tab, click**Browse** . It will open the local game folder for you.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/browse-local-files-in-steam-client.jpg)
 3. Navigate to**Wrath\_Data\\Plugins\\x86\_64** .
 4. **Make a copy of the Rewired\_DirectInput.dll file** , and save it at somewhere safe. There shouldn’t be any risk to delete this file, but backing up can always help if anything goes wrong.
@@ -74,6 +67,13 @@ If you didn’t find any hardware issues, try the next fix.
 6. Relaunch the game and test the issue.
 
  If this fix doesn’t solve your problem, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your keyboard driver
 
@@ -91,16 +91,10 @@ If you didn’t find any hardware issues, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-19.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged keyboard driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
@@ -132,13 +126,20 @@ If you didn’t find any hardware issues, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-innovative-techniques-for-ppts-and-webcams-2023-edition/"><u>[New] 2024 Approved Innovative Techniques for PPTs and Webcams, 2023 Edition</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-audio-callback-logger-for-iphone-2024/"><u>[New] Audio Callback Logger for iPhone 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-plans-trump-ban-review-for-jan-23/"><u>Facebook Plans Trump Ban Review for Jan '23</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-tweaks-for-optimizing-your-clownfish-voice-changer-performance-issues/"><u>Fixes and Tweaks for Optimizing Your Clownfish Voice Changer Performance Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-your-pc-from-freezing-with-call-of-duty-black-ops-cold-war-crash-troubleshooting/"><u>How to Prevent Your PC From Freezing with Call of Duty Black Ops Cold War (Crash Troubleshooting)</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/navigating-snapchat-for-twitter-vids-distribution/"><u>Navigating Snapchat for Twitter Vids Distribution</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-last-epoch-installation-problems-on-computers/"><u>Troubleshooting Guide: Fixing 'Last Epoch' Installation Problems on Computers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/winkweb-meme-magic-at-your-fingertips/"><u>WinkWeb Meme Magic at Your Fingertips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-insert-soundtracks-for-dynamic-presentations/"><u>[New] Insert Soundtracks for Dynamic Presentations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-gtfo-fps-drops-stuttering-and-performance-issues/"><u>[SOLVED] GTFO FPS Drops, Stuttering & Performance Issues</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-elevate-your-online-presence-making-exceptional-facebook-reels/"><u>[Updated] In 2024, Elevate Your Online Presence Making Exceptional Facebook Reels</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-adept-adapters-top-5-chrome-extensions-for-facebook-films/"><u>2024 Approved Adept Adapters Top 5 Chrome Extensions for Facebook Films</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-the-problem-solving-stability-issues-in-wolcen-gameplay-on-pc/"><u>Diagnosing the Problem: Solving Stability Issues in Wolcen Gameplay on PC</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/discover-top-asmr-for-iosandroid-devices/"><u>Discover Top ASMR for iOS/Android Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-steps-to-resolve-amd-radeon-program-failure-on-startup/"><u>Essential Steps to Resolve AMD Radeon Program Failure on Startup</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-which-video-platform-suits-you-better-tiktok-or-youtube-shorts/"><u>In 2024, Which Video Platform Suits You Better TikTok or YouTube Shorts?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-15-pro-by-drfone-ios/"><u>In 2024, Your Account Has Been Disabled in the App Store and iTunes From iPhone 15 Pro?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-ai-writing-assistant-chatgpt-for-mac-enthusiasts/"><u>Leveraging AI Writing Assistant ChatGPT for Mac Enthusiasts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206789681-repairing-your-lenovos-unresponsive-mouse-pad-in-different-windows-environments-1187-expert-fixes/"><u>Repairing Your Lenovo's Unresponsive Mouse Pad in Different Windows Environments (11/8/7) - Expert Fixes!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-when-your-hp-screen-goes-black/"><u>Solution Found: When Your HP Screen Goes Black</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/troubleshooting-guide-playing-destiny-2-without-hitches-on-pc/"><u>Troubleshooting Guide: Playing Destiny 2 Without Hitches on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-paladins-game-crashes-expert-advice/"><u>Ultimate Guide: Solving Paladins Game Crashes - Expert Advice</u></a></li>
+<li><a href="https://program-issues.techidaily.com/yakuza-samurai-spirit-triumphs-pc-gaming-masterpiece-unlocked/"><u>Yakuza: Samurai Spirit Triumphs - PC Gaming Masterpiece Unlocked</u></a></li>
 </ul></div>
 
