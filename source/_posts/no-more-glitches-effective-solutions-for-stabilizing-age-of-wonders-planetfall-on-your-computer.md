@@ -1,7 +1,7 @@
 ---
 title: "No More Glitches: Effective Solutions for Stabilizing 'Age of Wonders: Planetfall' On Your Computer"
-date: 2024-09-15T17:56:58.462Z
-updated: 2024-09-21T17:24:48.306Z
+date: 2024-09-26T21:03:10.239Z
+updated: 2024-09-28T07:10:33.174Z
 tags:
   - win11
   - win10
@@ -65,6 +65,13 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -87,11 +94,25 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -106,10 +127,10 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
@@ -121,13 +142,6 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -162,22 +176,15 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -199,5 +206,22 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-4-ways-how-to-download-videos-from-facebook-messenger/"><u>[New] 4 Ways | How to Download Videos From Facebook Messenger?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-action-in-full-hd-top-7-camcorders-for-thrills/"><u>[Updated] 2024 Approved Action in Full HD Top 7 Camcorders for Thrills</u></a></li>
+<li><a href="https://program-issues.techidaily.com/apex-legends-troubleshooting-how-to-fix-error-code-23-quickly-and-easily/"><u>Apex Legends Troubleshooting: How to Fix Error Code 23 Quickly and Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722991971535-complete-guide-no-more-cyberpunk-2077-download-troubles-on-steam/"><u>Complete Guide: No More Cyberpunk 2077 Download Troubles on Steam</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-guide-resolving-the-elder-scrolls-online-failure-to-load-error/"><u>Easy Guide: Resolving 'The Elder Scrolls Online' Failure to Load Error</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722990711699-fix-your-steam-game-crashes-and-startup-problems-in-windows-10-easily/"><u>Fix Your Steam Game Crashes and Startup Problems in Windows 10 Easily</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/how-to-address-and-repair-cyberpunk-2077s-debilitating-black-screen-problem/"><u>How to Address and Repair Cyberpunk 2077’S Debilitating Black Screen Problem</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-sony-xperia-1-v-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Sony Xperia 1 V Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-lenovo-thinkphone-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Lenovo ThinkPhone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-insights-toms-hardware-authority/"><u>Mastering Technology Insights: Tom's Hardware Authority</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004823507-pc-troubles-discover-how-to-overcome-crashes-in-detroit-become-human/"><u>PC Troubles? Discover How to Overcome Crashes in Detroit: Become Human</u></a></li>
+<li><a href="https://program-issues.techidaily.com/persona-eb-golden-stability-fix-overcoming-common-crash-errors/"><u>Persona Eb Golden Stability Fix: Overcoming Common Crash Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/potatoes-the-humble-potato-has-become-an-essential-ingredient-in-portuguese-cuisine-over-the-centuries-particularly-in-the-north-where-dishes-like-cozido-a-349/"><u>Potatoes: The Humble Potato Has Become an Essential Ingredient in Portuguese Cuisine over the Centuries, Particularly in the North Where Dishes Like Cozido À Portuguesa (Portuguese Stew) and Batatas Saladas (Potato Salad) Are Popular Year-Round.</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/total-movement-insights-2023/"><u>Total Movement Insights 2023</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-unleash-your-creativity-top-rated-online-animation-software-for-video-making/"><u>Updated 2024 Approved Unleash Your Creativity Top-Rated Online Animation Software for Video Making</u></a></li>
+</ul></div>
 

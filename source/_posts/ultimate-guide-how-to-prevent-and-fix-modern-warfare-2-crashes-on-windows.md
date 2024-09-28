@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: How to Prevent and Fix Modern Warfare 2 Crashes on Windows"
-date: 2024-09-16T20:15:38.837Z
-updated: 2024-09-21T23:07:37.773Z
+date: 2024-09-22T02:36:53.073Z
+updated: 2024-09-28T02:38:54.396Z
 tags:
   - win11
   - win10
@@ -60,6 +60,13 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 7. **[Tweak in-game settings](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Run a full scan of your PC](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Download & install all Windows updates
 
  Windows updates usually come with bug fixes and new features. To get the best performance, you should check if there are any updates available for download. This could be the easiest way to fix your issue without much troubleshooting.
@@ -68,6 +75,19 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the**Check for updates** button.  
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
@@ -79,6 +99,13 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 
  There are mainly two ways to update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1: Update your graphics driver manually
 
  First, you’ll need to know your graphics card’s name and its manufacturer.
@@ -88,13 +115,6 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/dxdiag.jpg)
 3. Select the**Display** tab. In the Device section, you’ll see your graphics card’s name and manufacturer.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/graphics-card-name-and-manufacturer-new.jpg)
 
@@ -106,19 +126,6 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 * [AMD](http://www.amd.com/drivers)
 * [Intel](http://downloadcenter.intel.com/)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 2: Update your graphics driver automatically (recommended)
 
  If you don’t have the time or patience to hunt for driver updates, you can instead use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  , a handy driver updater that can automatically help detect any outdated or missing drivers, download and install the correct drivers for your system. With Driver Easy, getting driver updates is just a matter of a few mouse clicks. You don’t need to know your system configuration and you don’t need to risk downloading the wrong driver. Below is a simple step-by-step guide to update drivers using Driver Easy.
@@ -128,6 +135,13 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
@@ -147,14 +161,14 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the **Processes**  tab, right-click on each of the applications you don’t necessarily use while playing the game and select**End task** .  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you’re done, dive into a new gameplay. If your problem persists, proceed to the next fix.
 
@@ -181,6 +195,19 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/how-to-check-how-many-cores-your-CPU-has.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After you’ve applied all the changes, launch your game and see how things go. If no improvements have been seen, move on to the next fix.
 
 ## 5\. Enable hardware acceleration
@@ -194,13 +221,6 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Dyling-Light-2-enable-accelerated-high-gpu-scheduling.png)
 3. Then go to your game’s installation folder and add the exe file to the list.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Now click on the**Options** button.  
 
@@ -253,10 +273,17 @@ If that doesn’t make any difference, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/modern-warfare-2-quality-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Run a full scan of your PC
@@ -290,5 +317,23 @@ If that doesn’t make any difference, try the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-comprehensive-guide-to-capturing-lol-games-for-2024/"><u>[New] Comprehensive Guide to Capturing LOL Games for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-adjust-your-android-images-right-here/"><u>[Updated] In 2024, Adjust Your Android Images Right Here</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-xiaomi-13t-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Xiaomi 13T Pro</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/best-camcorder-tech-for-shooting-sports-for-2024/"><u>Best Camcorder Tech for Shooting Sports for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquer-slow-downloads-on-origin-expert-techniques-and-guides-for-superior-download-speeds/"><u>Conquer Slow Downloads on Origin - Expert Techniques and Guides for Superior Download Speeds</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/dji-inspire-2-complete-evaluation/"><u>DJI Inspire 2 Complete Evaluation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722997302736-expert-fixes-for-when-grand-theft-auto-v-keeps-freezing-solved/"><u>Expert Fixes for When Grand Theft Auto V Keeps Freezing - Solved!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-zte-nubia-flip-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How ZTE Nubia Flip 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-infinix-hot-40i-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Infinix Hot 40i Without PUK Codes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/madden-nfl-20-for-windows-overcoming-crashes-and-enhancing-performance/"><u>Madden NFL '20 for Windows: Overcoming Crashes and Enhancing Performance</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-iphone-15-pro-max-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your iPhone 15 Pro Max</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-crashes-experts-reveal-the-best-fixes-for-a-stable-nba-2k23-gaming-experience-on-windows/"><u>Say Goodbye to Crashes: Experts Reveal the Best Fixes for a Stable NBA 2K23 Gaming Experience on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/strategies-to-address-global-development-setbacks/"><u>Strategies to Address Global Development Setbacks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722999059091-ultimate-guide-to-resolve-terraria-game-crashes-top-techniques-for-a-smooth-play-in-2/"><u>Ultimate Guide to Resolve Terraria Game Crashes - Top Techniques for a Smooth Play in 2 #</u></a></li>
+<li><a href="https://program-issues.techidaily.com/update-addresses-lol-bug-fixing-the-2024-player-reconnection-issue/"><u>Update Addresses LoL Bug: Fixing the 2024 Player Reconnection Issue</u></a></li>
+</ul></div>
 

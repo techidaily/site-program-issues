@@ -1,7 +1,7 @@
 ---
 title: Mastering Stability Tweaks to Fix and Optimize Elite Dangerous on Your Personal Computer
-date: 2024-09-17T17:52:01.992Z
-updated: 2024-09-21T16:09:09.512Z
+date: 2024-09-24T05:36:52.473Z
+updated: 2024-09-28T05:20:28.573Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/b30e132a57c74da538cd27310069cce3986f42cbd
 
  Before we dive into anything advanced, please make sure you’ve tried to reboot your PC in case it was just a one-time glitch.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## System requirements for Super People
 
 | **Minimum**   | **Required**                                       |                                                  |
@@ -85,17 +92,17 @@ If the problem persists, try the next fix.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC and run Super People. If updating the graphics driver doesn’t solve your problem, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Check for conflicting programs
 
@@ -117,7 +124,21 @@ If the problem persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues while using Fortect, feel free to contact their free support service.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable overlays
 
@@ -132,25 +153,11 @@ If the problem persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-07_14-56-20.jpg)
 3. Click **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can also disable Steam overlay only for Super People, if your other games run just fine. Here’s how:
 
 1. In your Steam library, right-click Super People CBT and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties.jpg)
 2. Under the **General tab** , make sure **Enable the Steam Overlay while in-game is unchecked** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-07_14-59-03.jpg)
 
@@ -159,7 +166,22 @@ If the problem persists, try the next fix.
 1. Launch Discord. On the bottom-left, click the **gear-shaped icon** to open the user settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-05_15-52-40.jpg)
 2. On the left panel, scroll down and find **Game Overlay** . Toggle off **Enable in-game overlay** .  
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-05_15-53-25.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If disabling in-game overlays doesn’t help, try the next fix.
 
@@ -184,16 +206,10 @@ If disabling in-game overlays doesn’t help, try the next fix.
  If you’ve allowed Windows to automatically install the system updates for you, make sure you double-check the Windows Update is not running in the background while you’re playing the game.
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 7: Restore MSVCP140\_1.dll
@@ -205,16 +221,16 @@ If disabling in-game overlays doesn’t help, try the next fix.
  X64 is for 64-bit and X84 is for 32-bit. If your PC is a 32-bit version, you won’t be able to run Super People since it’s not supported.
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 8: Reinstall Super People
@@ -242,5 +258,20 @@ If disabling in-game overlays doesn’t help, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-science-of-captivating-audience-with-mukbang-videos/"><u>[Updated] In 2024, The Science of Captivating Audience with Mukbang Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-mobile-podcast-apps/"><u>[Updated] Premier Mobile Podcast Apps</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-savvy-soccer-snatching-how-to-record-and-cut-cheap/"><u>2024 Approved Savvy Soccer Snatching How to Record and Cut Cheap</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeating-darkness-top-strategies-to-fix-call-of-duty-warzones-black-screen-problem-tips-and-tricks/"><u>Defeating Darkness: Top Strategies to Fix Call of Duty Warzone's Black Screen Problem (Tips & Tricks)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-to-stop-continuous-freezing-and-crashes-on-cod-modern-warfare/"><u>Effective Fixes to Stop Continuous Freezing & Crashes on COD: Modern Warfare</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hitman-3-and-the-infamous-connection-failure-problem-solutions-inside/"><u>Hitman 3 and the Infamous Connection Failure Problem - Solutions Inside</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-honor-x50-gt-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Honor X50 GT Device</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003864206-in-depth-troubleshooting-for-star-wars-jedi-fallen-order-launch-issues-get-back-in-action/"><u>In-Depth Troubleshooting for 'Star Wars Jedi: Fallen Order' Launch Issues - Get Back in Action!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722989405949-league-of-legends-connectivity-solutions-resolve-your-games-internet-problems-today/"><u>League of Legends Connectivity Solutions: Resolve Your Game's Internet Problems Today!</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-systems-blocked-app-barrier/"><u>Overcoming System's Blocked App Barrier</u></a></li>
+<li><a href="https://games-able.techidaily.com/revitalize-your-pc-with-the-newest-nvidia-driver-update/"><u>Revitalize Your PC with the Newest Nvidia Driver Update.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tp-link-adapter-driver-downloads-freshest-version-available-for-windows-users-win-1nk-8-and-7/"><u>TP-Link Adapter Driver Downloads - Freshest Version Available for Windows Users (Win 1Nk, 8, & 7)</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Improvements in The Elder Scrolls Online - Resolving Issues with Blackwood Latency
-date: 2024-09-16T20:18:41.539Z
-updated: 2024-09-21T20:40:43.121Z
+date: 2024-09-24T20:17:53.876Z
+updated: 2024-09-28T11:17:21.273Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ _Code Vein_ randomly freezes your computer? You’re not alone! Many players are
 | **RAM** :          | 35 GB available space                |
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to fix _Code Vein_ freezing?
 
@@ -90,19 +97,6 @@ _Code Vein_ randomly freezes your computer? You’re not alone! Many players are
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-41-00.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -137,22 +131,16 @@ If your game freezes again, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-42-06.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click **Code Vein** and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-42-14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)**  Click the **LOCAL FILES**  tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -175,22 +163,16 @@ If the freezing issue still happens, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-42-31.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-42-40.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Right-click the process you want to end and select **End Process Tree** .
 
@@ -238,6 +220,13 @@ If the freezing issue still happens, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-43-42.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Select **High Performance** .
 
 **What’re the differences?**
@@ -250,6 +239,13 @@ If the freezing issue still happens, try the fix below.
 **5)** Restart your computer and your game.
 
  You should be able to run_Code Vein_ without freezing now. If the issue still exists, then go ahead with the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Adjust your virtual memory
 
@@ -270,10 +266,10 @@ If the freezing issue still happens, try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-44-42.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)**  Click the **Advanced**  tab, and then click **Change** .
@@ -288,13 +284,6 @@ If the freezing issue still happens, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-45-07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **7)** Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
  Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger.
@@ -304,6 +293,13 @@ If the freezing issue still happens, try the fix below.
 **8)** Click **Set** , and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-45-44.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **9)** Restart your computer and your game.
 
@@ -357,6 +353,13 @@ If the freezing issue still happens, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-47-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **9)**  Restart_Code Vein_ to test your problem.
 
  Hopefully, you can play Code Vein without any error now. If you have any questions or suggestions, please feel free to leave a comment below. I would love your thoughts!
@@ -381,5 +384,22 @@ If the freezing issue still happens, try the fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-achieving-perfect-pitch-captures-in-rl-games/"><u>[New] In 2024, Achieving Perfect Pitch Captures in RL Games</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-ultimate-mix-of-youtube-and-instagram-feeds/"><u>[New] In 2024, The Ultimate Mix of YouTube & Instagram Feeds</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-streamline-your-presence-optimal-obs-use-on-facebook-feed/"><u>[Updated] 2024 Approved Streamline Your Presence Optimal OBS Use on Facebook Feed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-definition-horizons-with-lgs-newest-tv-review-27ud68/"><u>[Updated] High-Definition Horizons with LG's Newest TV Review (27UD68)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-spice-up-your-storytelling-the-secrets-behind-looped-videos-in-instagram/"><u>[Updated] In 2024, Spice Up Your Storytelling The Secrets Behind Looped Videos in Instagram</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boosting-performance-discover-the-new-speeds-of-microsoft-edge-browser/"><u>Boosting Performance: Discover the New Speeds of Microsoft Edge Browser</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-warzone-display-troubles-a-step-by-step-solution-to-graphics-loading-failures/"><u>Call of Duty Warzone Display Troubles? A Step-by-Step Solution to Graphics Loading Failures</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/capture-the-moment-an-examination-of-camstudio-for-2024/"><u>Capture the Moment An Examination of CamStudio for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ending-the-struggle-premiere-pro-instability-no-more-for-windows-users/"><u>Ending the Struggle: Premiere Pro Instability No More for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enshrouded-pc-crash-fixed-a-comprehensive-guide/"><u>Enshrouded PC Crash Fixed: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-ensure-call-of-duty-warzone-takes-advantage-of-your-graphics-card-in-windows-11/"><u>How to Ensure Call of Duty Warzone Takes Advantage of Your Graphics Card in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-a-continuously-crashing-blender-program-on-your-windows-computer/"><u>How to Fix a Continuously Crashing Blender Program on Your Windows Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-path-of-exile-server-connectivity-problems-ultimate-fixes-players/"><u>How to Overcome Path of Exile Server Connectivity Problems - Ultimate Fixes Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/storing-retro-games-in-windows-11-mypics/"><u>Storing Retro Games in Windows 11 MyPics</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-insiders-guide-to-fixing-adobe-cannot-start-as-expected-with-code-0xc0000022/"><u>The Insider's Guide to Fixing 'Adobe Cannot Start as Expected' With Code 0Xc0000022</u></a></li>
+</ul></div>
 

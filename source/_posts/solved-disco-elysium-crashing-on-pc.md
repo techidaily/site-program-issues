@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Disco Elysium Crashing on PC"
-date: 2024-09-15T20:14:41.390Z
-updated: 2024-09-21T18:08:24.452Z
+date: 2024-09-25T17:40:19.142Z
+updated: 2024-09-27T18:37:50.024Z
 tags:
   - win11
   - win10
@@ -36,11 +36,31 @@ thumbnail: https://thmb.techidaily.com/4813724d53b5cad6b133b133522844cf1838d9743
 
 **Note** : Some Ubisoft games feature Denuvo DRM (digital rights management) which is an anti-tamper technology. In this case, it requires some kind of CPU feature to run the game. If your game doesn’t have DRM removed, you may not be able to launch the game. And you should head to Ubisoft for suggestions.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Install the latest patch
 
  Ubisoft (developer of Assassin’s Creed) regularly releases patches to improve the game experience, as buggy issues in Assassin’s Creed Odyssey can cause problems like crashing or lagging. So you should **check for the latest updates of your game, and install the available game patches** . This can help fix problems that are likely to cause the crashing.
 
  If this doesn’t work for you, don’t worry. There are other solutions to try.
+
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Stop overclocking your CPU
 
@@ -79,13 +99,6 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
  Still no luck? Don’t give up hope. There is something else you can do.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Modify your in-game settings
 
  Many Assassin’s Creed Odyssey players have reported that configuring the settings in the game could help fix the crashing issue, such as switching to the other window mode or changing the graphics settings. So you can try this:
@@ -93,13 +106,6 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
  1) Open Assassin’s Creed Odyssey Settings (the**Options** tab).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-72.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click the**Display** tab.
 
@@ -111,19 +117,6 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
  If you’re using**Borderless** mode, change it to**Fullscreen** mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-74.png)
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Turn off**VSync** .
 
@@ -141,15 +134,22 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-77.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6) Restart your computer.
 
 Open Assassin’s Creed Odyssey and see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Verify Integrity of Game Files
@@ -162,15 +162,28 @@ Open Assassin’s Creed Odyssey and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-78.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click on**Assassin’s Creed Odyssey** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-79.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
@@ -206,5 +219,22 @@ Open Assassin’s Creed Odyssey and see if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-advanced-techniques-for-the-steam-switch-pro-controller-for-2024/"><u>[New] Advanced Techniques for the Steam Switch Pro Controller for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-a-beginners-journey-into-gameplay-capturing-with-obs/"><u>[Updated] 2024 Approved A Beginner's Journey Into Gameplay Capturing with OBS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-essential-techniques-for-sizing-up-your-instagram-video-reach/"><u>[Updated] 2024 Approved Essential Techniques for Sizing Up Your Instagram Video Reach</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-forgotten-frames-to-captivating-clip-sequences/"><u>[Updated] From Forgotten Frames to Captivating Clip Sequences</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-from-screen-to-disk-techniques-for-effortless-internet-show-recording/"><u>2024 Approved From Screen To Disk Techniques for Effortless Internet Show Recording</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/edit-mp4-video-tags-with-ease-best-editor-options/"><u>Edit MP4 Video Tags with Ease Best Editor Options</u></a></li>
+<li><a href="https://program-issues.techidaily.com/gpu-optimization-fixes-for-cyberpunk-2077-users-on-windows-10-systems/"><u>GPU Optimization Fixes for Cyberpunk 2077 Users on Windows 10 Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/granblue-fantasy-relink-not-working-heres-what-to-do/"><u>Granblue Fantasy Relink Not Working? Here’s What to Do!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-resident-evil-village-wont-open-error-successfully/"><u>How to Fix 'Resident Evil Village Won't Open' Error Successfully</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-90-gt-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Honor 90 GT PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-modern-tech-discoveries-by-toms-gear-experts/"><u>Mastering Modern Tech: Discoveries by Tom's Gear Experts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-players-rejoice-lost-ark-no-longer-crashes-update-notes-explained/"><u>PC Players Rejoice! Lost Ark No Longer Crashes – Update Notes Explained</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-guide-overcoming-fortnites-blackout-problem-on-your-windows-machine/"><u>Solution Guide: Overcoming Fortnite's Blackout Problem on Your Windows Machine</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-launch-issues-of-overwatch-2-in-2/"><u>Troubleshooting Tips: Resolving Launch Issues of Overwatch 2 in 2지급년</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/visionary-tech-that-cares-for-the-earth-for-2024/"><u>Visionary Tech That Cares for the Earth for 2024</u></a></li>
+</ul></div>
 

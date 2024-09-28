@@ -1,7 +1,7 @@
 ---
 title: 'New World' Game Fixed - Say Goodbye to PC Restarting Problems with New Update
-date: 2024-09-16T16:11:58.236Z
-updated: 2024-09-21T18:54:58.037Z
+date: 2024-09-25T21:44:28.525Z
+updated: 2024-09-27T17:55:49.788Z
 tags:
   - win11
   - win10
@@ -64,6 +64,13 @@ Here is how to view your computer specifications:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Make sure your computer meets the requirements, then move to the next fix.
 
 ### Fix 2: Disable your antivirus temporarily
@@ -77,10 +84,10 @@ Here is how to view your computer specifications:
 If your game still crashes, move on and try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: **Run your game as an administrator**
@@ -102,13 +109,6 @@ If your game still crashes, move on and try the fix below.
 **4)**  Restart_Total War_ from Steam.
 
  Now, check if this fixed the crashing issue. If your problem still exists, go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -142,19 +142,19 @@ There are two ways you can get the right driver for your graphics card:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 **4)** Relaunch the game to see if your issue has been resolved. If not, go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Install the latest game patch
 
@@ -188,13 +188,6 @@ There are two ways you can get the right driver for your graphics card:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Restart your computer and_Total War_ .
 
  Now, check if you still face this issue. If the game is still unplayable, then go ahead with the next fix.
@@ -209,6 +202,13 @@ There are two ways you can get the right driver for your graphics card:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-896.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Right-click **Total War: Three Kingdoms**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-654.png)
@@ -218,21 +218,22 @@ There are two ways you can get the right driver for your graphics card:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-655.png)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)**  Relaunch_Total War_ .
 
 If your issue persists, go ahead with the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Configure your in-game graphics settings
 
@@ -247,6 +248,13 @@ If your issue persists, go ahead with the next fix, below.
 **3)**  Click the**ADVANCED** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-227.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Modify the graphics settings following the screenshot below, then click CONFIRM to save the changes.
 
@@ -279,6 +287,13 @@ If your game crashes again, try the fix below.
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
@@ -319,5 +334,22 @@ If your game crashes again, try the fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-infuse-your-reels-with-dynamic-music-choices/"><u>[New] How to Infuse Your Reels with Dynamic Music Choices</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-pioneering-profit-navigating-the-path-to-money-making-on-vimeo/"><u>[Updated] Pioneering Profit Navigating the Path to Money-Making on Vimeo</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-quick-hacks-for-ensuring-visual-discretion-in-photos/"><u>[Updated] Quick Hacks for Ensuring Visual Discretion in Photos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/te-your-content-youtube-movie-maker-101-for-2024/"><u>Elevate Your Content YouTube Movie Maker 101 for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-playability-eliminating-latency-issues-in-mass-effect-legendary-edition/"><u>Enhancing Playability: Eliminating Latency Issues in Mass Effect Legendary Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-civ-vi-game-crashes-with-these-proven-troubleshooting-steps/"><u>Fix Your Civ VI Game Crashes with These Proven Troubleshooting Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-fortnite-errors-on-pc/"><u>How to Fix Fortnite Errors on PC</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-become-an-instagram-analytics-expert-with-this-ultimate-performance-guide/"><u>In 2024, Become an Instagram Analytics Expert with This Ultimate Performance Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-nokia-c32-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Nokia C32 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-unlock-easy-paths-for-exceptional-yt-thumbnails/"><u>In 2024, Unlock Easy Paths for Exceptional YT Thumbnails</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-windows-canary-vulnerability-alerts/"><u>Mastering Windows’ Canary Vulnerability Alerts</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/neuester-update-der-av1-hardware-und-softwareencoder-ist-jetzt-einsatzbereit/"><u>Neuester Update: Der AV1-Hardware- Und Softwareencoder Ist Jetzt Einsatzbereit</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-overcoming-hitman-3-black-screen-troubles-on-a-computer/"><u>Step-by-Step Guide to Overcoming Hitman #3 Black Screen Troubles on a Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722998179693-troubleshooting-guide-origin-application-not-starting-on-windows-11-issue-resolved/"><u>Troubleshooting Guide: Origin Application Not Starting on Windows 11 - Issue Resolved</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-for-resolving-battlenet-startup-failures/"><u>Ultimate Guide for Resolving Battle.net Startup Failures</u></a></li>
+</ul></div>
 

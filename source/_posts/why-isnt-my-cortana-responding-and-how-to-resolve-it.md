@@ -1,7 +1,7 @@
 ---
 title: Why Isn't My Cortana Responding and How to Resolve It?
-date: 2024-09-16T16:11:23.581Z
-updated: 2024-09-21T21:20:14.505Z
+date: 2024-09-22T21:58:03.345Z
+updated: 2024-09-28T07:32:57.431Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 
  Try running the game and the game launcher as administrator to see if it helps. If not, try the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2 – Verify the integrity of game files
 
  Files of your game installation might get corrupt sometimes, or be deleted as a false positive by antivirus, which could cause crashing issues during gameplay. Fortunately, you can verify the integrity of the game’s installation through Steam.
@@ -50,6 +57,13 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 **3)** Right-click **Elite Dangerous**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -83,10 +97,10 @@ This could take several minutes. Wait for the process to be complete.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -99,16 +113,10 @@ This could take several minutes. Wait for the process to be complete.
  An unstable overclock will crash your game and the whole system. So, **if you’re overclocking your CPU or GPU, set the clock speed rate back to the default** to see if that resolves the crash issue. If it doesn’t, move on to the fix below.
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5 – Disable unnecessary programs
@@ -123,16 +131,16 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Restart your game to see if it runs correctly now.
 
 Your game still won’t work correctly? Read on and try Fix 5.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6 – Lower your graphics settings
 
@@ -145,13 +153,6 @@ Your game still won’t work correctly? Read on and try Fix 5.
 **3)** Set a less demanding configuration for your game.
 
 If the crashing still happens, continue with the next solution below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 7 – Run the game in Windowed mode
 
@@ -190,5 +191,24 @@ If the crashing still happens, continue with the next solution below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-revolutionize-your-brand-presence-on-igtv-with-these-top-10-strategies/"><u>[New] In 2024, Revolutionize Your Brand Presence on IGTV with These Top 10 Strategies</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-mastering-multi-display-mode-an-in-depth-guide-to-pip-on-edge/"><u>[Updated] In 2024, Mastering Multi-Display Mode An In-Depth Guide to PIP on Edge</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unlocking-the-secrets-of-instagrams-trending-reels/"><u>[Updated] Unlocking the Secrets of Instagram's Trending Reels</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-lava-blaze-pro-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Lava Blaze Pro 5G</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-roblox-launch-errors-in-depth-troubleshooting-guide-for-gamers-in-202/"><u>Beat Roblox Launch Errors: In-Depth Troubleshooting Guide for Gamers in 202지</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/decoding-the-success-of-oneplus/"><u>Decoding the Success of OnePlus</u></a></li>
+<li><a href="https://program-issues.techidaily.com/download-and-dive-into-the-post-apocalyptic-world-days-gone-arrives-on-pc/"><u>Download and Dive Into the Post-Apocalyptic World: 'Days Gone' Arrives on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-elden-ring-multiplayer-issues-a-step-by-step-guide/"><u>Fixing 'Elden Ring' Multiplayer Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-sudden-fps-drop-in-dota-2-when-switching-from-windows-10-to-11/"><u>Fixing Sudden FPS Drop in Dota 2 When Switching From Windows 10 to 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-starting-battlefield-4-effortlessly-on-windows-and-linux-systems-issue-resolved/"><u>Guide to Starting Battlefield 4 Effortlessly on Windows and Linux Systems [Issue Resolved]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-avatar-frontiers-of-pandora-lagging/"><u>How to Fix Avatar: Frontiers of Pandora Lagging</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-color-laserjet-pro-mfp-m477-downloading-the-correct-printer-drivers/"><u>HP Color LaserJet Pro MFP M477: Downloading the Correct Printer Drivers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovations-in-healthcare-with-chatgpt-potential-and-possibilities/"><u>Innovations in Healthcare with ChatGPT: Potential and Possibilities</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-skip-the-hunt-exclusive-filmora-coupon-codes-inside/"><u>New 2024 Approved Skip the Hunt Exclusive Filmora Coupon Codes Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722994170307-outlook-continuously-crashing-heres-what-you-need-to-know-to-fix-it/"><u>Outlook Continuously Crashing? Here's What You Need to Know to Fix It</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-launch-errors-in-rainbow-six-siege/"><u>Resolved! Fixing Launch Errors in Rainbow Six Siege</u></a></li>
+</ul></div>
 

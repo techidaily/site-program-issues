@@ -1,7 +1,7 @@
 ---
 title: Snapchat Camera Not Showing? Here's How You Can Solve It!
-date: 2024-09-20T16:49:01.310Z
-updated: 2024-09-21T21:04:20.851Z
+date: 2024-09-26T07:08:10.412Z
+updated: 2024-09-28T01:04:29.155Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_9-57-31.jpg)
 2. Click**Camera** in the left panel.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Make sure the toggle under**Allow apps to access your camera** is on.
 4. Click the**Change** button, check the**Camera access for this device** is on.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-02-43.jpg)
@@ -61,6 +68,13 @@ Here’s how…
 
 If it doesn’t help, please move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Close all the background app
 
  One common reason for the Discord camera not working issue is your camera it’s used in the background by other applications so it’s not available to Discord. Also, kill unnecessary background programs will give Discord more resources and prevent potential conflicts.
@@ -71,17 +85,10 @@ If it doesn’t help, please move to the next fix.
 3. Launch Discord camera to check.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update camera driver
@@ -120,10 +127,10 @@ OR
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Update your system
@@ -140,6 +147,13 @@ OR
 
 If your camera is still not working on Discord, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Reinstall Discord
 
  Reinstall Discord is a useful common fix for issues. It’s because the corrupt installation of Discord or the outdated Discord version could be the reason for many problems, camera not working issue could be one of the problems.
@@ -153,10 +167,10 @@ If your camera is still not working on Discord, move to the next fix.
 4. Follow the on-screen instructions to finish the process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Press the**Windows logo key + R** to open the Run box and type**%appdata%** .  
@@ -166,15 +180,16 @@ If your camera is still not working on Discord, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-01.jpg)
 7. Open the Run box and type**%LocalAppData%** .  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-33.jpg)
 8. Find the Discord folder and delete it.  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-45-16.jpg)
 9. Restart your computer.
 10. Go to the[Discord official website](https://discord.com/) and download the latest version of Discord.
@@ -199,5 +214,22 @@ If your camera is still not working on Discord, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-design-revolutionaries-discovering-6-icon-and-logo-banks-online/"><u>[New] 2024 Approved Design Revolutionaries Discovering 6 Icon & Logo Banks Online</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-4-ways-record-your-screen-on-windows-8-for-2024/"><u>[New] 4 Ways Record Your Screen On Windows 8 for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722999240625-solved-minecraft-keeps-freezing-on-pc-2024-tips/"><u>[Solved] Minecraft Keeps Freezing on PC - 2024 Tips</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-syncing-social-media-post-videos-on-twitter-and-tumblr/"><u>[Updated] In 2024, Syncing Social Media Post Videos on Twitter and Tumblr</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-remedies-for-preventing-game-crashes-in-rainbow-six-extraction-pc-version/"><u>Effective Remedies for Preventing Game Crashes in Rainbow Six Extraction (PC Version)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-steps-to-employing-premium-videography-talent/"><u>Essential Steps to Employing Premium Videography Talent</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009070969-fix-your-borderlands-amoknot-loading-top-strategies-inside/"><u>Fix Your Borderlands amoKnot Loading: Top Strategies Inside!</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ls-0013-error-fix-for-borderlands-3-effective-solutions-explored/"><u>LS-0013 Error Fix for Borderlands 3: Effective Solutions Explored</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-your-play-effective-fixes-for-forza-horizon-5s-performance-crashes-on-windows-pcs/"><u>Optimize Your Play: Effective Fixes for Forza Horizon 5'S Performance Crashes on Windows PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-play-experience-correcting-frame-rate-issues-and-smooth-gameplay-in-call-of-duty-mw2-for-windows-platforms/"><u>Optimizing Your Play Experience: Correcting Frame Rate Issues and Smooth Gameplay in Call of Duty: MW2 for Windows Platforms</u></a></li>
+<li><a href="https://driver-error.techidaily.com/overcoming-the-challenge-of-a-nonfunctional-coprocessor-module-for-windows-10-users-solutions-unveiled/"><u>Overcoming the Challenge of a Nonfunctional Coprocessor Module for Windows 10 Users – Solutions Unveiled</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-poco-x6-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Poco X6 Pro Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-users-resolving-stability-problems-in-the-updated-yakuza-e3/"><u>PC Users! Resolving Stability Problems in the Updated Yakuza E3</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-gpu-activation-issues-for-call-of-duty-warzone-players-on-windows-11-systems/"><u>Troubleshooting GPU Activation Issues for Call of Duty: Warzone Players on Windows 11 Systems</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: How to Fix NieR: Automata Freezing Issues"
-date: 2024-09-20T20:07:09.008Z
-updated: 2024-09-21T18:37:17.924Z
+date: 2024-09-26T17:43:56.913Z
+updated: 2024-09-28T06:20:28.142Z
 tags:
   - win11
   - win10
@@ -28,6 +28,19 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 | Graphics  | AMD Radeon R9 270X or NVIDIA GeForce GTX 960 |
 | Storage   | 42 GB available space                        |
 
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -37,6 +50,13 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 3. [Verify game files](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 5. [Disable your antivirus software](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Edit username
 
@@ -54,29 +74,16 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 2. In the**Compatibility** tab, check**Run this program as administrator** and hit**OK > Apply** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch the game to check.
 
  If this doesn’t work for you, then try to verify game files in Steam.
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Verify game files
@@ -92,6 +99,19 @@ If this fix doesn’t work, move to the next fix.
 4. When the process is completed, relaunch NieR Replicant.
 
 If this fix doesn’t bring luck, take a look at the next one below.
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your drivers
 
@@ -119,10 +139,10 @@ There are mainly two ways you can update the graphics driver:
  If the latest drivers doesn’t solve the issue, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus software
@@ -141,20 +161,13 @@ Here’s how to disable Windows Security temporarily.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Turn off Real-time protection.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Relaunch NieR Replicant and check if it’s running properly.
@@ -178,5 +191,26 @@ Relaunch NieR Replicant and check if it’s running properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-discovering-the-syma-x5c-the-premier-drone-for-rookies/"><u>[New] Discovering the Syma X5C The Premier Drone for Rookies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-expert-conversion-youtube-to-written-format-for-2024/"><u>[New] Expert Conversion YouTube to Written Format for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-ark-crashing-issues/"><u>[Solved] ARK Crashing Issues</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-maximize-android-gaming-with-funimate-apk-download/"><u>2024 Approved Maximize Android Gaming with Funimate APK Download</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-honor-90-lite-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Honor 90 Lite to iPhone | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battlefield-5-stability-guide-resolving-pc-performance-and-crash-problems/"><u>Battlefield #5 Stability Guide - Resolving PC Performance and Crash Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-launch-errors-for-saints-row-game-on-windows-platform/"><u>Diagnosing and Repairing Launch Errors for Saints Row Game on Windows Platform</u></a></li>
+<li><a href="https://program-issues.techidaily.com/directx-errors-no-more-troubleshooting-guide-for-fifa-20-gamers/"><u>DirectX Errors No More - Troubleshooting Guide for FIFA 20 Gamers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-career-game-why-you-should-acquire-chatgpt-skills-6-persuasive-points/"><u>Elevate Your Career Game: Why You Should Acquire ChatGPT Skills (6 Persuasive Points)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/essential-mac-apps-the-leading-alternatives-to-bandicam-for-2024/"><u>Essential Mac Apps The Leading Alternatives to Bandicam for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-y78-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo Y78 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-13-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 13</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-rogue-company-continuous-crashes-on-windows-and-macs/"><u>How to Resolve Rogue Company Continuous Crashes on Windows and Macs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-6s-plus-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 6s Plus in Lost Mode</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-troubleshooting-techniques-for-black-screen-malfunctions-in-zoom-pc-your-essential-2eusue-guide/"><u>Mastering Troubleshooting Techniques for Black Screen Malfunctions in Zoom (PC) – Your Essential 2Eusue Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722987870593-resolve-dayz-game-performance-dips-fast-no-hassle/"><u>Resolve DayZ Game Performance Dips Fast - No Hassle</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-your-watch-dogs-legion-loading-screen-glitch-quickly-expert-advice/"><u>Resolve Your Watch Dogs: Legion Loading Screen Glitch Quickly - Expert Advice</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-tab-s3-review/"><u>Samsung Galaxy Tab S3 Review</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-rainbow-six-extraction-game-errors-no-compatible-hardware-found-fixes/"><u>Troubleshooting RAINBOW SIX EXTRACTION Game Errors: No Compatible Hardware Found Fixes</u></a></li>
+</ul></div>
 

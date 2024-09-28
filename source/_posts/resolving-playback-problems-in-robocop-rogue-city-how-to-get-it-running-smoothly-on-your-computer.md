@@ -1,7 +1,7 @@
 ---
 title: "Resolving Playback Problems in RoboCop: Rogue City – How to Get It Running Smoothly on Your Computer"
-date: 2024-09-18T19:03:18.547Z
-updated: 2024-09-21T22:20:07.687Z
+date: 2024-09-22T23:41:38.258Z
+updated: 2024-09-27T17:08:50.876Z
 tags:
   - win11
   - win10
@@ -44,6 +44,13 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-22-2.jpg)
 3. Select the**Local Files** tab, and click**Verify Integrity of Game Files** .  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-6.jpg)
 
  It will take a few minutes for Steam to detect and repair any corrupted files. Upon completion, you can relaunch Beyond Light to see if it crashes again. If yes, proceed to more fixes below.
@@ -75,6 +82,14 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-4.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). You can also click**Update** to do it for free, but it’s partly manual.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-5.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -92,28 +107,28 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-1-4.jpg)
 2. Select the**Details** tab.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-1-5.jpg)
 3. Right-click the**Destiny 2: Beyond Light.exe file** . Then, mouse over**Set priority** and select**Above normal** or**High** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-2-3.jpg)
 4. Click**Change priority** to confirm.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Relaunch the game and check whether it runs properly or not. If not, there are two more fixes below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4 – Disable the shader cache
@@ -125,23 +140,16 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 2. Click**3D Settings** \>**Manage 3D settings** on the left pane.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4-3.jpg)
 3. Under the Global Settings section, scroll down and**turn off Shader Cache** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-2.jpg)
 4. Go to**C:\\ProgramData\\NVIDIA Corporation\\NV\_Cache** and**delete the content of that folder** . (You can also copy them and store them elsewhere.)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch Beyond Light again and the crashing problem should no longer occur. If not, go to Fix 5 below.
 
@@ -155,8 +163,22 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-0.jpg)
 2. Right-click**Destiny 2 Beyond Light** and click**Manage** \>**Uninstall** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-2.jpg)
 3. On your keyboard, press the**Windows logo key** and**E** at the same time to open File Explorer.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Go to this path:**C:\\Program Files (x86)\\Steam\\steamapps\\common** . Then, delete the**Destiny 2 Beyond Light** folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-1.jpg)
@@ -184,5 +206,22 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-in-depth-analysis-of-vidmas-recording-capabilities/"><u>[Updated] In 2024, In-Depth Analysis of Vidma's Recording Capabilities</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-pairing-video-cameras-with-desktop-captures/"><u>[Updated] In 2024, Pairing Video Cameras with Desktop Captures</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mastering-clear-video-capture-with-obs-even-when-dark/"><u>[Updated] Mastering Clear Video Capture with OBS, Even When Dark</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/ramavi-movavi/"><u>免費在網路上直接改造RAM成AVI - 使用Movavi進行影片格式轉換</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhanced-dbz-kakarot-ultimate-fix-for-stability-and-performance-upgrade/"><u>Enhanced DBZ: Kakarot Ultimate Fix for Stability and Performance Upgrade</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/how-to-change-your-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to Change Your Location on Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mac-and-monitor-woes-fixing-undetected-external-display-problems/"><u>Mac and Monitor Woes: Fixing Undetected External Display Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-overcoming-destiny-2-server-disconnection-issues/"><u>Resolved: Overcoming 'Destiny 2 Server Disconnection Issues'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/simple-solutions-stop-the-endless-crashes-in-outriders/"><u>Simple Solutions: Stop the Endless Crashes in Outriders</u></a></li>
+<li><a href="https://techtrends.techidaily.com/sneak-peek-at-the-new-samsung-galaxy-s2-groove-ultra-rumored-details-and-pricing-insights/"><u>Sneak Peek at the New Samsung Galaxy S2 Groove Ultra - Rumored Details and Pricing Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-guide-resolving-constant-crashes-of-blender-application-on-desktops/"><u>Solution Guide: Resolving Constant Crashes of Blender Application on Desktops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-for-resolving-the-missing-msvcr110dll-in-helldivers-2/"><u>Solutions for Resolving the Missing MSVCR110.dll in HellDivers 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-mass-effect-trilogy-stability-issues-on-pc-and-xbox-a-comprehensive-guide/"><u>Solving Mass Effect Trilogy Stability Issues on PC and Xbox: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-10-tips-to-eliminate-battlefield-5-latency-issues/"><u>Top 10 Tips to Eliminate Battlefield 5 Latency Issues</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transforma-tus-imagenes-pgm-en-png-con-herramientas-web-gratuitas-guia-paso-a-paso-utilizando-movavi/"><u>Transforma Tus Imágenes PGM en PNG Con Herramientas Web Gratuitas: Guía Paso a Paso Utilizando Movavi</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing the RE5 Launch Problem on Your Windows Machine - Solutions Inside
-date: 2024-09-16T18:56:51.977Z
-updated: 2024-09-21T17:18:20.351Z
+date: 2024-09-25T02:18:34.575Z
+updated: 2024-09-28T06:28:03.476Z
 tags:
   - win11
   - win10
@@ -39,8 +39,23 @@ Here’s how you can check the file integrity on Steam:
 1. Go to your steam library, right-click**Resident Evil 5** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-1.jpg)
 2. In the left menu, select**LOCAL FILES** . Then click**Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-2.jpg)
 3. Wait until the checking completes. Then you can try to start the game.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this trick doesn’t give you luck, take a look at the next one below.
 
@@ -58,18 +73,18 @@ Here’s how you can check the file integrity on Steam:
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if Resident Evil 5 launches now.
 
  If the latest video driver doesn’t help you, check out the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -84,6 +99,13 @@ Here’s how you can check the file integrity on Steam:
  After installing all the updates, restart your computer and check if you can launch Resident Evil 5 now.
 
  If this method doesn’t work for you, simply continue to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Install the latest version of Games for Windows Live (GFWL)
 
@@ -103,20 +125,20 @@ Here’s how you can check the file integrity on Steam:
 3. Open the Resident Evil 5 folder and paste the patch files.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-2.jpg)
 4. Now check if Resident Evil 5 can launch normally.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Check for corrupted system files
@@ -129,13 +151,6 @@ Here’s how you can check the file integrity on Steam:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -158,5 +173,22 @@ Here’s how you can check the file integrity on Steam:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-guru-setup-opt-for-studio-or-beta-option/"><u>[New] YouTube Guru Setup Opt for Studio or Beta Option</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-making-every-audio-speech-count-best-free-and-paid-zoom-transcription-services/"><u>[Updated] 2024 Approved Making Every Audio Speech Count Best Free & Paid Zoom Transcription Services</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-black-ops-4-wont-start-solved/"><u>Call of Duty Black Ops 4 Won't Start - Solved!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-insights-blending-visual-and-auditory-elements-in-windows-photos/"><u>Expert Insights Blending Visual & Auditory Elements in Windows Photos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-growth-and-impact-of-electric-car-adoption/"><u>Exploring the Growth and Impact of Electric Car Adoption</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-launch-problems-with-avatar-frontiers-of-pandora/"><u>Fixing Launch Problems with 'Avatar: Frontiers of Pandora'</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-your-acer-predator-xb271hu-up-and-running-fast-download-of-latest-drivers/"><u>Get Your Acer Predator XB271HU Up and Running - Fast Download of Latest Drivers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/google-meet-webcam-malfunction-heres-how-to-fix-it/"><u>Google Meet Webcam Malfunction? Here's How to Fix It!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/holiday-memories-revisited-summertimes-best-vacation-flicks-for-2024/"><u>Holiday Memories Revisited Summertime’s Best Vacation Flicks for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-6s-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 6s Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-the-no-ads-content-creators-playbook-a-guide-to-monetizing-videos/"><u>In 2024, The No-Ads Content Creator’s Playbook A Guide to Monetizing Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/nioh-2-performance-issues-fixing-sudden-fps-drop/"><u>Nioh 2 Performance Issues: Fixing Sudden FPS Drop</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/step-into-the-world-of-modified-snapchat-speeches-two-simple-steps/"><u>Step Into the World of Modified Snapchat Speeches Two Simple Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-tips-for-resolving-minecrafts-audio-malfunction-on-your-personal-computer/"><u>Top Tips for Resolving Minecraft's Audio Malfunction on Your Personal Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-shadowplay-recording-issues-on-windows-fixed/"><u>Troubleshooting Shadowplay Recording Issues on Windows - Fixed!</u></a></li>
+</ul></div>
 

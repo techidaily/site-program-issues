@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Launch Hurdle in Monster Hunter Stories 2: Wings of Ruin - A Step-by-Step Guide to Successful Game Setup"
-date: 2024-09-19T18:13:25.951Z
-updated: 2024-09-21T20:00:57.508Z
+date: 2024-09-24T21:53:18.713Z
+updated: 2024-09-27T19:56:23.086Z
 tags:
   - win11
   - win10
@@ -101,6 +101,13 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1:**Update your device drivers**
 
  Your crashing issue in FIFA 20 may be caused by outdated or corrupt device drivers (especially graphics card drivers). If you’re not sure whether all your device drivers are up-to-date, you should check.
@@ -147,6 +154,13 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-938.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the **Roll Back Driver** option is grayed out, that means there’s no driver to roll back to. In this case you’ll have to try other fixes.
 
  4) Choose one of the reasons based on your own situation and click **Yes** .
@@ -167,6 +181,13 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-141.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the **Windows Update** tab, in the results pane, click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-947.png)
@@ -178,10 +199,10 @@ In case you don’t know how, here’s the guidance:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Change DirectX settings
@@ -200,13 +221,6 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-847.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) After “DIRECTX\_SELECT = 1” is located, change it to**DIRECTX\_SELECT = 0** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-866.png)
@@ -216,13 +230,6 @@ In case you don’t know how, here’s the guidance:
  Run FIFA 20 and check whether it continues to crash. If it does, try out the next fix then.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Adjust settings in NVIDIA Control Panel
 
@@ -244,13 +251,6 @@ If you continue to face the crashing problem, please move on to Fix 6.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Repair corrupted system files
 
  It’s possible that some of the system files in your PC have been damaged and hence gave rise to crashing in FIFA 20\. To check for such problems, here are at least two things you should do:
@@ -266,9 +266,23 @@ If you continue to face the crashing problem, please move on to Fix 6.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) When Windows asks for permission to make changes to your device, click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-63.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) In the Command Prompt, type the following command (**note** that there’s a space between sfc and /):
 
@@ -279,10 +293,10 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-183.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Wait until the verification process completes. Then **restart** your computer for the changes to take effect.
@@ -310,6 +324,13 @@ dism.exe /online /cleanup-image /restorehealth
  Wait for the process to complete. Then, reboot your computer, launch FIFA 20, and wait to see if it keeps crashing. If it does, try out Fix 7.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Close unnecessary programs
 
@@ -345,5 +366,26 @@ dism.exe /online /cleanup-image /restorehealth
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-apowersoft-free-software-review-for-techies/"><u>[New] In 2024, Apowersoft Free Software Review for Techies</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-screenshot-and-recording-masterclass-ios-devices-2023/"><u>[Updated] In 2024, Screenshot & Recording Masterclass IOS Devices 2023</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/automated-user-tracking-with-cookiebot-enhancing-your-websites-analytics/"><u>Automated User Tracking with Cookiebot: Enhancing Your Website's Analytics</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battling-with-relink-errors-fix-recurring-crashes-in-granblue-saga-on-pc-here/"><u>Battling with Relink Errors? Fix Recurring Crashes in Granblue Saga on PC Here.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-blues-fixing-football-manager-2021-crashes-on-your-desktop-pc/"><u>Beat the Blues: Fixing Football Manager 2021 Crashes on Your Desktop PC</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-empowering-sites-to-attract-more-viewers-and-engagement/"><u>Cookiebot - Empowering Sites to Attract More Viewers and Engagement</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-visuals-with-precision-5-top-tips-for-pros-for-2024/"><u>Crafting Visuals with Precision 5 Top Tips for Pros for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-fixes-and-tips-to-stop-dauntless-from-freezing-or-crashing-on-windows/"><u>Essential Fixes and Tips to Stop Dauntless From Freezing or Crashing on Windows.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-to-overcoming-ring-of-elysiums-unexpected-system-freezes-and-crashes/"><u>Expert Guide to Overcoming Ring of Elysium's Unexpected System Freezes and Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-robocop-rogue-city-pc-crash-step-by-step-solutions/"><u>How to Resolve RoboCop: Rogue City PC Crash - Step-by-Step Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-oneplus-ace-2-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on OnePlus Ace 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-lava-blaze-2-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Lava Blaze 2 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/logitech-g403-mouse-drivers-latest-downloads-and-updates-for-windows-pc/"><u>Logitech G403 Mouse Drivers - Latest Downloads & Updates for Windows PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-cyberpunk-2077-installation-tips-for-bypassing-downloading-hurdles-on-steam/"><u>Mastering Cyberpunk 2077 Installation: Tips for Bypassing Downloading Hurdles on Steam</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-your-division-2-issues-instantly-troubleshooting-guide/"><u>Resolve Your Division 2 Issues Instantly - Troubleshooting Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-guide-origin-game-platform-wont-open-on-your-windows-cupertino-os/"><u>Solution Guide: Origin Game Platform Won't Open on Your Windows Cupertino OS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-apex-legends-connection-issues/"><u>Troubleshooting Steps for Apex Legends Connection Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-windows-bar-icon-failures/"><u>Troubleshooting Windows Bar Icon Failures</u></a></li>
+</ul></div>
 

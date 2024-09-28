@@ -1,7 +1,7 @@
 ---
 title: "Stabilize Your Stronghold: Expert Advice on Resolving State of Decay 2'S Frequent Crashes This Year"
-date: 2024-09-18T18:29:59.690Z
-updated: 2024-09-21T18:36:30.303Z
+date: 2024-09-24T22:34:11.780Z
+updated: 2024-09-28T08:13:39.777Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/7b44dc75606a866e6986fc574670153990f3b9d45
 7. **[Set English (United States) as the default language](https://www.drivereasy.com/knowledge/state-of-decay-2-keeps-crashing/#Fix7)**
 8. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall State of Decay 2](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Check your Apps
 
@@ -73,6 +80,13 @@ If State of Decay 2 still crashes, go ahead with the next fix below.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  Once you’ve updated your graphics driver, restart your PC and check if State of Decay 2 is working properly.
@@ -94,13 +108,6 @@ If State of Decay 2 still crashes, go ahead with the next fix below.
 
 If this method doesn’t help, check out the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Reset State of Decay 2
 
  With Windows 10, you can reset an app’s data without uninstalling and reinstalling the app. This will restore an app to its default settings. So, before trying anything more complicated, you can reset State of Decay 2 to see if it can fix the crashing issue. Here’s how:
@@ -108,21 +115,29 @@ If this method doesn’t help, check out the next solution.
 1. On your keyboard, press the**Windows logo key** and**X** together to open the Quick Link menu. Then select**Apps and Features** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/apps-features.jpg)
 2. Under Apps & features, click**State of Decay 2** , then click**Advanced options** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-options.jpg)
-3. Scroll down the page, then click**Reset** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-options.jpg)
+3. Scroll down the page, then click**Reset** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/reset-app.jpg)
 4. Click**Reset** to confirm again.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/reset.jpg)
 5. Once the process is complete, restart your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Launch State of Decay 2 to see if the problem is resolved.
 
@@ -145,6 +160,13 @@ If the crashing issue occurs again, continue to the next fix.
 
 If this method doesn’t do the trick, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Set English (United States) as the default language
 
  Some gamers have reported that they fixed the State of Decay 2 crashing issue by setting English (United States) as the default language. You can give it a try. To do so:
@@ -157,22 +179,8 @@ If this method doesn’t do the trick, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/next.jpg)
 4. Click**Install** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/install-language.jpg)
 5. After the language is fully installed, drag it to the first position in the list.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/set-as-default.jpg)
 
@@ -188,8 +196,29 @@ If this solution doesn’t work for you, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/startup.jpg)
@@ -211,21 +240,15 @@ If this solution doesn’t work for you, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/apps-features.jpg)
 2. Under Apps & features, click**State of Decay 2** , then select**Uninstall** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall-app.jpg)
 3. Click**Uninstall** again.  
-
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall.jpg)
 4. Restart your computer and reinstall the game.
@@ -249,5 +272,22 @@ If this solution doesn’t work for you, continue to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-dissecting-youtubes-strategy-to-empower-short-form-content-makers/"><u>[Updated] In 2024, Dissecting YouTube’s Strategy to Empower Short-Form Content Makers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-personalized-cost-free-epilogue-soundscape-creation/"><u>[Updated] Personalized, Cost-Free Epilogue Soundscape Creation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-proven-methods-for-professional-video-editing-and-dvd-burning-on-mac/"><u>2024 Approved Proven Methods for Professional Video Editing and DVD Burning on Mac</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722869283463-discover-the-hottest-imessage-game-picks-of-2024-you-dont-want-to-miss/"><u>Discover the Hottest iMessage Game Picks of 2024 You Don't Want to Miss</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-tips-how-to-stop-snowrunner-from-continuously-crashing-on-your-pc/"><u>Fixes & Tips: How To Stop SnowRunner From Continuously Crashing On Your PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/guard-your-gaming-journey-with-switchs-passcode-feature/"><u>Guard Your Gaming Journey with Switch's Passcode Feature</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-note-30-vip-racing-edition-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Infinix Note 30 VIP Racing Edition Phone with Broken Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-xiaomi-redmi-k70e-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Xiaomi Redmi K70E Device</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-lesser-known-media-players-post-vlc/"><u>In 2024, Unveiling the Lesser-Known Media Players Post-VLC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-overwatch-fixing-the-games-recurring-crashes/"><u>Overcoming Overwatch: Fixing the Game's Recurring Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-for-when-your-discord-overlay-stops-functioning/"><u>Quick Solutions for When Your Discord Overlay Stops Functioning</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-constant-crashing-issue-in-microsoft-outlook/"><u>Resolving the Constant Crashing Issue in Microsoft Outlook</u></a></li>
+<li><a href="https://program-issues.techidaily.com/success-story-re-establishing-access-to-your-steam-friend-list/"><u>Success Story: Re-Establishing Access to Your Steam Friend List</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-fix-guide-navigating-and-correcting-call-of-dutys-wwz-dev-error-6634-updated/"><u>The Ultimate Fix Guide: Navigating and Correcting Call of Duty's WWZ Dev Error 6634 - Updated</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-and-fixing-the-recurring-crashes-in-blender-for-desktop-users/"><u>Understanding & Fixing the Recurring Crashes in Blender for Desktop Users</u></a></li>
+</ul></div>
 

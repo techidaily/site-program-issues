@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Halo Infinite PC Game Crashes: Complete Guide"
-date: 2024-09-15T20:22:18.988Z
-updated: 2024-09-21T19:51:53.713Z
+date: 2024-09-20T17:49:04.708Z
+updated: 2024-09-27T23:07:01.749Z
 tags:
   - win11
   - win10
@@ -49,6 +49,13 @@ We understand how frustrating it can be to run into the freezing issue when play
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After the reboot, launch Halo Infinite and test your gameplay. If it still keeps freezing, try the next fix below.
 
 ## 2\. Update your graphics driver
@@ -91,15 +98,29 @@ If updating drivers doesn’t help, try the next fix below.
 5. When it finishes deleting all temp files, head to your desktop. Right-click**Recycling Bin** and select**Empty Recycling Bin** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now launch Halo Infinite. If your problem persists, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Disable background applications
 
@@ -117,13 +138,6 @@ If updating drivers doesn’t help, try the next fix below.
 
  If turning off background applications doesn’t do the trick, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Verify integrity of game files
 
  A variety of issues may be caused by corrupted game files, e.g. glitched graphics. If you encounter the freezing issue, verify the cache files of Halo Infinite, which can help ensure that the installation is up-to-date and if necessary, repair any bad or corrupted game data. Thus, this can help you rule out the cause of your problem and fix it.
@@ -136,16 +150,23 @@ To verify the integrity of your game files, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-1.jpg)
 3. Select the**LOCAL FILES** tab. Then click**Verify integrity of game files…** .  
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-integrity-of-game-fiiles.png)
 
- Now Steam will verify your game’s files. This process may take several minutes. Once the process is completed, close the Window then launch your game. If it still keeps freezing, move on to the next fix.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Now Steam will verify your game’s files. This process may take several minutes. Once the process is completed, close the Window then launch your game. If it still keeps freezing, move on to the next fix.
 
 ## 6\. Uninstall Multiplayer High-Res Textures
 
@@ -157,20 +178,13 @@ To verify the integrity of your game files, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-1.jpg)
 3. Select the**DLC** tab. Then uncheck**Multiplayer High-Res Textures** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-multiplayer-high-res-textures.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this doesn’t help, try the next fix below.
@@ -199,6 +213,13 @@ If this doesn’t help, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 When it’s completed, launch Halo Infinite and test the gameplay.
 
 ---
@@ -220,5 +241,26 @@ When it’s completed, launch Halo Infinite and test the gameplay.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-advancing-training-with-vr-systems-for-2024/"><u>[New] Advancing Training with VR Systems for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/anishing-blackout-blues-from-youtube-videos-for-2024/"><u>[New] Banishing Blackout Blues From YouTube Videos for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-photo-and-video-streaming-from-android-to-iphone/"><u>[New] In 2024, Photo & Video Streaming From Android to iPhone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-pixelmaster-record-download-use-and-assessment/"><u>[New] In 2024, PixelMaster Record Download, Use & Assessment</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-panopticam-review-breakdown/"><u>[Updated] PanoptiCam Review Breakdown</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-investigative-image-searching-reverse-techniques-on-instagram-photos/"><u>2024 Approved Investigative Image Searching Reverse Techniques on Instagram Photos</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-xiaomi-redmi-13c-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-12-mini-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 12 mini</u></a></li>
+<li><a href="https://common-error.techidaily.com/eliminate-dll-problems-a-comprehensive-walkthrough-to-replace-missing-d3d9x32dll/"><u>Eliminate DLL Problems: A Comprehensive Walkthrough to Replace Missing d3d9_x32.dll</u></a></li>
+<li><a href="https://program-issues.techidaily.com/latest-guide-to-prevent-obs-from-failing-on-windows-pcs-windows-10-and-11-202-the-provided-information-seems-incomplete-as-the-year-202-is-missing-at-the-en510/"><u>Latest Guide to Prevent OBS From Failing on Windows PCs (Windows 10 & 11, 202 The Provided Information Seems Incomplete as the Year '202' Is Missing at the End of the Title Example [SOLVED] OBS Crashing on Windows 11/10 - 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-s-best-free-video-editors-for-recording-gameplay/"><u>New 2024 Approved S Best Free Video Editors for Recording Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-waiting-fix-an-unresponsive-epic-games-launcher-immediately/"><u>No More Waiting: Fix an Unresponsive Epic Games Launcher Immediately</u></a></li>
+<li><a href="https://program-issues.techidaily.com/operation-convert-each-mention-of-stress-into-an-elaborate-medieval-heraldic-language-as-though-announcing-a-royal-decree-on-stresss-impact-on-health/"><u>Operation: Convert Each Mention of Stress Into an Elaborate Medieval Heraldic Language, as Though Announcing a Royal Decree on Stress's Impact on Health.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-pc-settings-to-prevent-stuttering-and-crashing-while-playing-serious-sam-4/"><u>Optimizing Your PC Settings to Prevent Stuttering & Crashing While Playing Serious Sam 4</u></a></li>
+<li><a href="https://program-issues.techidaily.com/seven-effective-ways-to-stop-halo-infinite-from-crashing-on-your-desktop/"><u>Seven Effective Ways to Stop Halo Infinite From Crashing on Your Desktop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/smooth-gameplay-achieved-in-updated-cyberpunk-2077-fix-for-lags-and-hiccups/"><u>Smooth Gameplay Achieved in Updated Cyberpunk 2077 Fix for Lags & Hiccups</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-lost-ark-from-crashing-effective-tips-and-tricks-for-pc-users/"><u>Stop Lost Ark From Crashing: Effective Tips and Tricks for PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-fix-for-recurring-disruptions-in-your-pc-experience-with-f1-2020/"><u>The Ultimate Fix for Recurring Disruptions in Your PC Experience with F1 2020</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013301796-troubleshooting-guide-fixing-windows-spotlight-issues-in-windows-11/"><u>Troubleshooting Guide: Fixing 'Windows Spotlight' Issues in Windows 11</u></a></li>
+</ul></div>
 

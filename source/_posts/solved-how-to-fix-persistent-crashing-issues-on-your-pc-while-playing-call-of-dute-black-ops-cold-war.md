@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] How to Fix Persistent Crashing Issues on Your PC While Playing Call of Dute: Black Ops Cold War"
-date: 2024-09-15T18:21:26.616Z
-updated: 2024-09-21T16:26:53.837Z
+date: 2024-09-21T11:02:25.985Z
+updated: 2024-09-28T10:04:22.015Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ System requirements of WRC 10 from Steam
 4. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 5. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Verify integrity of game files
 
  Corrupted game files would lead to the game crashing issues. If it’s the case, follow the steps below to verify and repair the game files.
@@ -64,6 +71,13 @@ System requirements of WRC 10 from Steam
 2. **Right-click** on **WRC 10 FIA World Rally Championship** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
@@ -78,10 +92,10 @@ System requirements of WRC 10 from Steam
  When the verifying process completed, launch WRC 10 and check if this fix works. If the game still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Update your graphics driver
@@ -124,13 +138,6 @@ System requirements of WRC 10 from Steam
 
  If the game crashing issue persists, try the next fix to perform a clean boot.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Perform a clean boot
 
  If there is a certain application conflicting with WRC 10, the game would not run properly. To find out the problematic application behind the game crashing issue, you need to perform a clean boot. Here’s how to do it:
@@ -141,15 +148,15 @@ System requirements of WRC 10 from Steam
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
@@ -157,13 +164,20 @@ System requirements of WRC 10 from Steam
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Restart** your PC and launch WRC 10 to check if the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
@@ -198,5 +212,22 @@ System requirements of WRC 10 from Steam
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/fixed-you-do-not-have-permission-to-play-fortnite-error/"><u>[FIXED] “You Do Not Have Permission to Play Fortnite” Error</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-10-top-ranked-offline-ios-gaming-hacks-you-need/"><u>[New] 10 Top-Ranked Offline iOS Gaming Hacks You Need</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-determining-data-in-gigabytes-for-24-hour-clip/"><u>2024 Approved Determining Data in Gigabytes for 24-Hour Clip</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/cookiebot-inspired-technologies-streamlining-web-interactions/"><u>Cookiebot-Inspired Technologies: Streamlining Web Interactions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-of-origin-not-starting-up-in-windows-11-environments/"><u>Fixing the Issue of Origin Not Starting Up in Windows 11 Environments</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007616646-hearthstone-stability-enhanced-no-more-pc-crashing/"><u>Hearthstone Stability Enhanced - No More PC Crashing</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Oppo A2? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-oppo-a79-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Oppo A79 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-smooth-gameplay-solutions-to-increase-fps-and-prevent-stuttering-on-valorant/"><u>Mastering Smooth Gameplay: Solutions To Increase FPS and Prevent Stuttering on Valorant</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcome-the-empty-directory-claim-in-windows-with-error-0x80070091-resolutions/"><u>Overcome the Empty Directory Claim in Windows with Error 0X80070091 Resolutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-connection-errors-a-guide-to-fixing-unable-to-connect-to-world-on-minecraft/"><u>Overcoming Connection Errors: A Guide to Fixing 'Unable to Connect to World' On Minecraft</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/samsung-galaxy-tab-a-2020-review-missing-one-key-feature/"><u>Samsung Galaxy Tab A (2020) Review: Missing One Key Feature</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-fixed-pc-instability-in-wolcen-mayhem-rulers/"><u>Troubleshooting Fixed - PC Instability in Wolcen: Mayhem Rulers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-the-finest-illuminators-pro-reviews-on-zdnet/"><u>Ultimate Guide to the Finest Illuminators : Pro Reviews on ZDNet</u></a></li>
+<li><a href="https://win-superb.techidaily.com/windows-control-panel-survives-redesign-rumors-microsoft-affirms-ongoing-commitment-and-enhancements/"><u>Windows Control Panel Survives Redesign Rumors - Microsoft Affirms Ongoing Commitment and Enhancements</u></a></li>
+</ul></div>
 

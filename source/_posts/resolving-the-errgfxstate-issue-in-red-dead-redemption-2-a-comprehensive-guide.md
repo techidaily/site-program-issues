@@ -1,7 +1,7 @@
 ---
 title: "Resolving the ERR_GFX_STATE Issue in Red Dead Redemption 2: A Comprehensive Guide"
-date: 2024-09-15T18:48:25.826Z
-updated: 2024-09-21T18:06:29.905Z
+date: 2024-09-22T16:53:23.347Z
+updated: 2024-09-28T07:45:19.371Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ Sifu
 
  Launch Sifu and check if the in-game FPS is back to normal. If the FPS still drops, or if there are no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Update your graphics driver
 
  One of the most common causes of game stuttering (or FPS dropoping) is that the graphics driver on your computer is outdated or broken. If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, since in most cases, newly-released games like Sifu work better with the latest graphics driver.
@@ -69,6 +76,13 @@ There are mainly two methods for you to update the graphics driver:
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -122,10 +136,10 @@ There are mainly two methods for you to update the graphics driver:
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch Sifu and see if the in-game FPS increases. If not, move on to the next fix, below.
@@ -139,6 +153,13 @@ There are mainly two methods for you to update the graphics driver:
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch Sifu to check if you gain a better PFS. If this doesn’t work on your powerful PC, then try seting the Windows power plan to**Ultimate Performance** , a power plan that is not widely known, which is designed to make the most out of high end setups.
 
  The Ultimate Performance option doesn’t appear on the power plan list? Just follow the steps below to unhide it:
@@ -150,13 +171,20 @@ There are mainly two methods for you to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lauch the game to see if Sifu’s in-game FPS improves after changing the power plan. If you didn’t see much in-game FPS boosts, read on and try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Disable overlays
 
@@ -172,24 +200,10 @@ There are mainly two methods for you to update the graphics driver:
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Launch Sifu to see you can play it smoothly.
 
@@ -214,5 +228,26 @@ Launch Sifu to see you can play it smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-captivating-clips-keywords-that-ignite-viral-shorts-on-youtube/"><u>[New] Captivating Clips Keywords That Ignite Viral Shorts on YouTube</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-mastering-virtual-conversations-key-strategies-for-effective-zoom-sessions-for-2024/"><u>[New] Mastering Virtual Conversations Key Strategies for Effective Zoom Sessions for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-roblox-stuck-on-loading-screen/"><u>[Solved] Roblox Stuck on Loading Screen</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-a-vloggers-dream-exploring-the-best-12-video-capture-devices/"><u>[Updated] 2024 Approved A Vlogger's Dream Exploring the Best 12 Video Capture Devices</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-bridging-reality-and-simulation/"><u>[Updated] 2024 Approved Bridging Reality and Simulation</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-entering-the-fullscreen-realm-choosing-a-cms-for-2024/"><u>[Updated] Entering the Fullscreen Realm Choosing a CMS for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/beat-the-problem-overcome-iphones-persistent-headphone-syndrome-with-these-8-tips/"><u>Beat the Problem: Overcome iPhone's Persistent Headphone Syndrome with These 8 Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/complete-rainbow-six-siege-debugging-eradicating-error-code-e-3-0x0001000b/"><u>Complete Rainbow Six Siege Debugging: Eradicating Error Code E 3-0X0001000B</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-gameplay-in-forza-horizon-5-by-upgrading-your-graphics-driver/"><u>Enhancing Gameplay in Forza Horizon 5 by Upgrading Your Graphics Driver</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/tial-7-dslrs-to-elevate-virtual-presentations-and-broadcasts/"><u>Essential 7 DSLRs to Elevate Virtual Presentations & Broadcasts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-repair-your-pc-when-the-ds4-controller-fails-on-windows/"><u>Fixing the Issue: How to Repair Your PC When The DS4 Controller Fails on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-madden-nfl-20-pc-version-crashing-issues-easy-guide/"><u>How to Fix Madden NFL 20 PC Version Crashing Issues - Easy Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-anno-1800s-troublesome-directx-error/"><u>How to Overcome Anno 1800'S Troublesome DirectX Error</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-x-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone X with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-error-x-solutions-for-windows-mail-mistakes/"><u>Mastering Error X: Solutions for Windows Mail Mistakes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-starfield-game-crash-issue-a-comprehensive-guide-for-windows-users/"><u>Resolving the Starfield Game Crash Issue: A Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013836496-troubleshoot-apex-legends-loading-problems-instantly/"><u>Troubleshoot Apex Legends Loading Problems Instantly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-complete-solutions-for-zooms-persistent-black-screen-problem-on-your-computer/"><u>Troubleshooting Complete Solutions for Zoom's Persistent Black Screen Problem on Your Computer</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unlocking-savings-on-climate-monitoring-a-detailed-review-of-the-ambient-ws-2902a-osprey-model/"><u>Unlocking Savings on Climate Monitoring: A Detailed Review of the Ambient WS-2902A Osprey Model</u></a></li>
+</ul></div>
 

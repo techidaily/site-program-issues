@@ -1,7 +1,7 @@
 ---
 title: "Speedy Success: Navigating the Nuances of Star Wars BF2 Shader Improvement."
-date: 2024-09-17T23:03:46.395Z
-updated: 2024-09-21T17:59:52.686Z
+date: 2024-09-23T05:47:05.015Z
+updated: 2024-09-28T06:55:07.689Z
 tags:
   - win11
   - win10
@@ -49,11 +49,25 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 
  After you successfully launched the game, it may re-enable the DirectX 12 mode automatically or it won’t. If it won’t, you can manually re-enable it.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Re-enable DirectX 12 mode
 
  1) Go to the game’s main menu and head across to the**OPTIONS** screen. Then select**VIDEO** .  
   
 ![re-enable DirectX 12 mode in STAR WARS Battfront II](https://images.drivereasy.com/wp-content/uploads/2021/01/reenable-DirectX-12-mode-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Under the GRAPHICS SETTINGS section, locate**ENABLE DIRECTX 12** . If it’s**OFF** , click**ON** . If it’s already ON, take the steps below to enable it in the bootup file.
 
@@ -63,7 +77,27 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
   
 ![re-enable DirectX 12 mode in the bootup file STAR WARS Battlefront II](https://images.drivereasy.com/wp-content/uploads/2021/01/re-enable-DirectX-12-mode.png)
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click**File > Save** to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why disabling DirectX 12 works
 
@@ -84,12 +118,17 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-free-video-openings-that-stand-out-today/"><u>[New] Free Video Openings That Stand Out Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/achieve-unstoppable-prosperity-in-dragons-fortune-a-comprehensive-pc-playbook/"><u>Achieve Unstoppable Prosperity in 'Dragon's Fortune': A Comprehensive PC Playbook</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722990241828-complete-solution-for-dealing-with-steam-error-message-code-130-heres-what-you-need-to-do/"><u>Complete Solution for Dealing with Steam Error Message Code 130 – Here's What You Need To Do</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-starts-up-successfully-a-step-by-step-guide-to-overcoming-initial-launch-problems/"><u>Cyberpunk 2077 Starts Up Successfully: A Step-by-Step Guide To Overcoming Initial Launch Problems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/deutsche-post-ag/"><u>Deutsche Post AG</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-set-up-dual-monitors-on-a-mac/"><u>How to Set Up Dual Monitors on a Mac</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-moto-e13-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola Moto E13 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-unsealing-the-secret-permanently-ditch-youtube-shorts/"><u>In 2024, Unsealing the Secret Permanently Ditch YouTube Shorts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rainbow-six-extraction-solving-pc-stability-problems-a-comprehensive-guide/"><u>Rainbow Six Extraction - Solving PC Stability Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unlocking-remote-access-configuring-wake-on-lan-in-the-latest-windows-versions/"><u>Unlocking Remote Access: Configuring Wake-on-LAN in the Latest Windows Versions</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Final Glazing
-date: 2024-09-18T17:58:50.233Z
-updated: 2024-09-21T20:46:37.389Z
+date: 2024-09-22T10:16:31.104Z
+updated: 2024-09-28T02:55:51.459Z
 tags:
   - win11
   - win10
@@ -62,6 +62,13 @@ FIFA 20 DirectX Error
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Unplug ccontrollers
 
  According to users’ report, unplugging controllers is also helpful in resolving the DirectX error in FIFA 20.
@@ -78,13 +85,20 @@ Here is how to do it:
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and**R** at the same time, then type_**C: \\ Users \\% Username% \\ Documents \\ FIFA 20 Demo**_ and press**Enter** .
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-129.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Double-click on the**fifasetup.ini** file.
@@ -100,13 +114,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Update DirectX
 
  DirectX is a suite of components in Windows that allows heavy multimedia apps such as games to interact with your video and audio cards. If you’re running an old version of DirectX, it’s possible that it won’t be able to handle the graphics rendering and processing task, which might cause the DirectX error. So you should update DirectX to the latest version to see if it fixes the issue.
@@ -118,13 +125,6 @@ Here is how to do it:
  Still no joy? please move on to **Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Check if your PC meets the system requirements for FIFA 20
 
@@ -156,6 +156,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
@@ -185,5 +192,23 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-jumpstart-your-filming-setups-8-sites-offering-free-eco-screens/"><u>[New] 2024 Approved Jumpstart Your Filming Setups - 8 Sites Offering Free Eco-Screens</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-easy-steps-to-share-your-screen-via-google-meet-for-2024/"><u>[New] Easy Steps to Share Your Screen via Google Meet for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-spectrum-of-virtuality-from-meta-to-omniverse-explored-for-2024/"><u>[New] The Spectrum of Virtuality From Meta to Omniverse Explored for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-launching-an-impactful-instagram-live-session/"><u>[Updated] Launching an Impactful Instagram Live Session</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-fixes-for-unstable-playback-in-bloodhunt-on-your-computer/"><u>Easy Fixes for Unstable Playback in 'Bloodhunt' On Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guilty-gear-strives-release-unveiling-the-delay-mysteries/"><u>Guilty Gear Strive's Release: Unveiling the Delay Mysteries</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-ensure-smooth-gameplay-avoiding-thaumaturge-interruptions-on-desktop-systems/"><u>How to Ensure Smooth Gameplay: Avoiding Thaumaturge Interruptions on Desktop Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-razer-synapse-wont-launch-issue/"><u>How to Fix: Razer Synapse Won't Launch Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-the-stuck-updates-problem-on-microsoft-flight-simulator-2020-solution-found/"><u>How to Overcome the Stuck Updates Problem on Microsoft Flight Simulator 2020 - Solution Found</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723205926497-hp-laptops-unresponsive-keys-master-the-rapid-restoration-methods-today/"><u>HP Laptops' Unresponsive Keys? Master the Rapid Restoration Methods Today</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-comprehensive-guide-to-mastering-ipogo-for-pokemon-go-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, A Comprehensive Guide to Mastering iPogo for Pokémon GO On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-rtx-3080-overcoming-game-crashes/"><u>NVIDIA RTX 3080: Overcoming Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-technical-glitches-in-cod-warzone-pacific-downfalls/"><u>Overcoming Technical Glitches in COD: Warzone Pacific Downfalls</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-mutters-of-morrowind-troubleshooting-game-audio-in-skyrim/"><u>Overcoming the Mutters of Morrowind: Troubleshooting Game Audio in Skyrim</u></a></li>
+<li><a href="https://win-dash.techidaily.com/resolving-acer-hardware-compatibility-problems-with-windows/"><u>Resolving Acer Hardware Compatibility Problems with Windows</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-pc-issues-with-rainbow-six-extraction/"><u>Troubleshooting Guide: Resolving PC Issues with Rainbow Six Extraction</u></a></li>
+</ul></div>
 

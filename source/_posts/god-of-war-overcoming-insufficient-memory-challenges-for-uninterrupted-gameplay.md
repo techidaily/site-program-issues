@@ -1,7 +1,7 @@
 ---
 title: God of War - Overcoming Insufficient Memory Challenges for Uninterrupted Gameplay
-date: 2024-09-19T21:12:47.840Z
-updated: 2024-09-21T20:27:28.578Z
+date: 2024-09-23T03:50:18.685Z
+updated: 2024-09-28T04:53:05.402Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 2. Click**Verify** to start verifying the game files.  
 ![Verify the game files in Epic Games launcher](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 3. Launch the game after the verifying process completed to see if it would crash again. If the game still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update graphics driver
 
@@ -81,15 +88,15 @@ Or
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -107,6 +114,13 @@ Or
 
  Launch A Total War Saga: Troy to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Install the latest DirectX files
 
  Most games require DirectX 11 to run properly, and A Total War Saga: Troy is no exception. If there’s a problem with DirectX, the game would crash on startup. If it’s the case, updating the DirectX to the latest version may help. Here is how to do it:
@@ -120,13 +134,6 @@ Or
 
  See if A Total War Saga: Troy crashes again. If this fix didn’t work for you, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 5: Stop overclocking
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -138,10 +145,10 @@ Or
  If this issue persists after you stopped overclocking, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6: Repair Epics Games launcher
@@ -156,20 +163,14 @@ Or
 
 ![how to repair Epics Games launcher](https://images.drivereasy.com/wp-content/uploads/2021/03/how-to-repair-Epics-Games-launcher.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After Windows repaired Epics Games launcher, launch A Total War Saga: Troy to see if it will crash. If it still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 7: Add A Total War Saga: Troy to the exceptions list of your 3rd party antivirus software
 
@@ -202,5 +203,20 @@ Or
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snappy-business-ideas-for-profit/"><u>[Updated] In 2024, Snappy Business Ideas for Profit</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-unpacking-the-features-of-androids-lightroom-app/"><u>[Updated] In 2024, Unpacking the Features of Android's Lightroom App</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-transforming-your-video-with-strategic-vimeo-end-screens/"><u>[Updated] Transforming Your Video with Strategic Vimeo End Screens</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-utorrents-connectiondownload-malfunctions/"><u>Diagnosing and Repairing uTorrent's Connection/Download Malfunctions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-research-efficiency-with-these-4-ai-powered-strategies-for-academia/"><u>Elevate Research Efficiency with These 4 AI-Powered Strategies for Academia</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fast-track-solutions-boost-your-fps-in-elden-ring/"><u>Fast-Track Solutions: Boost Your FPS in Elden Ring</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-crusader-kings-ii-why-it-might-not-be-loading-and-how-to-resolve/"><u>Fix Your Crusader Kings II: Why It Might Not Be Loading & How to Resolve</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-why-call-of-duty-warzone-ignores-gpu-in-windows-11-setup/"><u>Fix: Why Call of Duty Warzone Ignores GPU in Windows 11 Setup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-repair-an-unresponsive-microphone-expert-tips-and-tricks/"><u>How to Repair an Unresponsive Microphone - Expert Tips & Tricks</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-13-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-making-itunes-work-with-iphones-on-windows-11/"><u>Step-by-Step Guide: Making Itunes Work with iPhones on Windows 11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-mastering-green-screen-in-fcp-x-a-step-by-step-guide-for-2024/"><u>Updated Mastering Green Screen in FCP X A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-seo-guide-how-to-improve-search-rankings-for-your-youtube-videos-for-2024/"><u>YouTube SEO Guide How to Improve Search Rankings For Your YouTube Videos for 2024</u></a></li>
+</ul></div>
 

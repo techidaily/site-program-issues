@@ -1,7 +1,7 @@
 ---
 title: Preventing FIFA 22 From Freezing or Crashing During Play (PC)
-date: 2024-09-16T19:13:56.868Z
-updated: 2024-09-21T20:00:13.315Z
+date: 2024-09-20T19:49:51.340Z
+updated: 2024-09-28T06:26:05.564Z
 tags:
   - win11
   - win10
@@ -67,28 +67,15 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can also do it for free if you like, but it’s partly manual.
@@ -99,13 +86,6 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Close the background programs
 
  Your Dauntless may crash because of interference issues from some programs running in the background. They include utility programs provided by your hardware manufacturers that can improve your game performance. To see if that’s the case for you, close all those programs before you run your game. Then check to see if this is able to stop your crashing issue.
@@ -115,10 +95,10 @@ Here is how to verify the integrity of Dauntless:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus program
@@ -133,6 +113,13 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Run Dauntless on the dedicated graphics card
 
  Your gaming PC may have a graphics chip as well as a graphics card with dedicated memory in it. If this is the case, you should make sure games run on the graphics card to see if the crashing problem can be mitigated.
@@ -140,6 +127,13 @@ Here is how to verify the integrity of Dauntless:
  Here are the steps on how to set your game to run on Nvidia graphics card:The steps on how to run Dauntless on Intel and AMD graphics cards are similar. You can follow the steps below for reference.
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
@@ -156,6 +150,13 @@ Here is how to verify the integrity of Dauntless:
  5) In **Select the preferred graphics processor for this program** , select **High-performance NVIDIA processor** . Then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-24.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6) Launch Dauntless and check to see if the crashing issue is fixed.
 
@@ -178,5 +179,20 @@ Here is how to verify the integrity of Dauntless:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-beyond-ustream-live-streaming-choices/"><u>[New] Beyond Ustream Live Streaming Choices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-high-dynamic-range-the-essential-guide-to-modern-camera-tech-for-2024/"><u>[New] High Dynamic Range The Essential Guide to Modern Camera Tech for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-nighttime-action-gopro-hero5-vs-star-sj7-for-2024/"><u>[Updated] Nighttime Action GoPro Hero5 vs Star SJ7 for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-game-blocks-effective-techniques-for-handling-steam-error-code-130-solved/"><u>Eliminate Game Blocks: Effective Techniques for Handling Steam Error Code 130 (Solved)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-get-the-magic-back-launching-and-running-thaumaturge-without-glitches-on-pc/"><u>Expert Tips to Get the Magic Back: Launching and Running Thaumaturge Without Glitches on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-repair-and-restart-a-crashed-nvidia-control-center/"><u>Expert Tips to Repair and Restart a Crashed NVIDIA Control Center</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-gif-maker-tools-for-seamless-loops/"><u>New In 2024, Free GIF Maker Tools for Seamless Loops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-stability-problems-with-assassins-creed-valhalla-tips-for-a-smooth-pc-experience/"><u>Overcoming Stability Problems with Assassin's Creed: Valhalla - Tips for a Smooth PC Experience</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oneplus-ace-2v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-6-solutions-to-reduce-high-cpu-consumption-on-zoom/"><u>Top 6 Solutions to Reduce High CPU Consumption on Zoom</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-guide-securely-integrating-tiktok-profile-links/"><u>Ultimate Guide Securely Integrating TikTok Profile Links</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unbeatable-ipad-promotions-to-score-your-dream-tablet-now/"><u>Unbeatable iPad Promotions to Score Your Dream Tablet Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unleash-potential-in-gameplay-and-art-with-gpt-my-bot-expertise/"><u>Unleash Potential in Gameplay and Art with GPT-My Bot Expertise</u></a></li>
+</ul></div>
 

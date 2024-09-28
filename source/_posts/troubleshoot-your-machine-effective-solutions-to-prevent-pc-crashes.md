@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot Your Machine: Effective Solutions to Prevent PC Crashes"
-date: 2024-09-14T16:25:39.020Z
-updated: 2024-09-21T19:18:17.260Z
+date: 2024-09-23T22:13:38.735Z
+updated: 2024-09-27T21:38:57.862Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 5. **[Set launch options on Steam](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Update your graphics driver
 
 The outdated or broken graphics driver often crashes the game.
@@ -53,6 +60,13 @@ The outdated or broken graphics driver often crashes the game.
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
 ## Fix 2: Verify the game files
@@ -63,9 +77,29 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -74,13 +108,6 @@ The outdated or broken graphics driver often crashes the game.
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Disable Steam Overlay
 
@@ -92,14 +119,14 @@ The outdated or broken graphics driver often crashes the game.
 
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
- Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
 ## Fix 5: Set launch options on Steam
 
@@ -109,13 +136,6 @@ The outdated or broken graphics driver often crashes the game.
 2. In the**GENERAL** section, click **SET LAUNCH OPTIONS…**  
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 `-useallavailablecores -high`
 
@@ -149,5 +169,22 @@ The outdated or broken graphics driver often crashes the game.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/custom-windows-11-taskbar-placement-hacks/"><u>Custom Windows 11 Taskbar Placement Hacks</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-to-samsung-galaxy-s23-tactical-edition-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Samsung Galaxy S23 Tactical Edition FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-ways-how-to-prevent-vrchat-pc-applications-from-suddenly-shutting-down/"><u>Effective Ways: How to Prevent VRChat PC Applications From Suddenly Shutting Down</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortlessly-resolve-your-discord-installation-errors-with-these-simple-tips/"><u>Effortlessly Resolve Your Discord Installation Errors with These Simple Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-resolving-adobe-premiere-pro-crashes-on-windows-1110/"><u>Fixes and Solutions: Resolving Adobe Premiere Pro Crashes on Windows 11/10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-the-program-cant-start-because-a-microsoft-visual-cplusplus-runtime-library-was-missing-in-adobe-software/"><u>How to Fix 'The Program Can't Start Because a Microsoft Visual C++ Runtime Library Was Missing' In Adobe Software</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-nokia-c110-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Nokia C110</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unhackable-blueprint-for-inserting-your-tiktok-links/"><u>In 2024, Unhackable Blueprint for Inserting Your TikTok Links</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/navigating-the-maze-of-communication-features-on-snapchat/"><u>Navigating the Maze of Communication Features on Snapchat</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-performance-for-a-smooth-experience-in-age-of-empires-4/"><u>Optimizing Performance for a Smooth Experience in Age of Empires 4</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-cannot-reach-live-config-servers-troubleshooting-guide/"><u>Resolving 'Cannot Reach Live Config Servers': Troubleshooting Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008712954-revamped-century-age-of-ashes-game-now-stable-and-smooth-for-pc-users/"><u>Revamped 'Century: Age of Ashes' Game Now Stable and Smooth for PC Users!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixing-gpeditmsc-unavailability-on-windows-10-home/"><u>Troubleshooting Guide: Fixing gpedit.msc Unavailability on Windows 10 Home</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-fcp-transition-guide-3-simple-yet-effective-techniques/"><u>Updated In 2024, FCP Transition Guide 3 Simple Yet Effective Techniques</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usb-stability-secured-for-win-users/"><u>USB Stability Secured for WIN Users</u></a></li>
+</ul></div>
 

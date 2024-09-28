@@ -1,7 +1,7 @@
 ---
 title: 6 Effective Strategies to Resolve Terraria's Disconnection Issues
-date: 2024-09-15T18:04:06.246Z
-updated: 2024-09-21T19:08:28.723Z
+date: 2024-09-24T01:51:00.702Z
+updated: 2024-09-28T09:38:48.637Z
 tags:
   - win11
   - win10
@@ -75,17 +75,17 @@ If this doesn’t solve your problem, move on to the next fix.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Reboot your PC and launch Lost Ark to see if you can connect to the server now. If this doesn’t help, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Configure your firewall settings
 
@@ -98,18 +98,18 @@ If this doesn’t solve your problem, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-control-panel.jpg)
 3. Select **View by: small icons** , then click **Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-09-27.jpg)
 4. Click **Allow an app or feature through Windows Defender Firewall** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-10-08.jpg)
 5. Scroll down to see if Lost Ark is on the exception list. If so, that means the game is allowed through your firewall, and you can [jump to the next fix](https://tools.techidaily.com/drivereasy/download/) . If you can’t find Lost Ark in the exception list, follow the steps below to unblock the game.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Add the game to the exception list
 
@@ -118,14 +118,28 @@ If this doesn’t solve your problem, move on to the next fix.
 2. Click **Browse** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-09-14_13-11-21.jpg)
 3. Navigate to Lost Ark game folders and add the game executable to the list. The default location is**C:\\Program Files (x86)\\Steam\\steamapps\\common** .
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Find Lost Ark on the list, **tick the checkbox of Private network** , and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14-1.jpg)  
  This will ensure your firewall won’t block the game connection when you’re using a private network, for example, your home Wi-Fi. For safety reasons, we recommend you only select the private network, but you’re welcome to allow the game through all types of networks if needed.
@@ -137,13 +151,6 @@ If this doesn’t solve your problem, move on to the next fix.
 [1: Flush your DNS](https://tools.techidaily.com/drivereasy/download/)
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1: Flush your DNS
 
@@ -159,13 +166,20 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns%E7%9A%84%E5%89%AF%E6%9C%AC.png)
 4. Your DNS cache is successfully cleared.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2: Switch to a public DNS server
@@ -180,6 +194,13 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select **Internet Protocol Version 4 (TCP/IPv4)** , then click **Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
 
@@ -187,6 +208,13 @@ Here are the steps:
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 7: Repair corrupted system files
 
@@ -222,5 +250,26 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-champion-top-titles-best-free-video-caption-grabs/"><u>[New] 2024 Approved Champion Top Titles Best Free Video Caption Grabs</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-top-7-apps-altering-vocal-soundtracks-for-2024/"><u>[New] Top 7 Apps Altering Vocal Soundtracks for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-mastering-google-meet-creation-and-scheduling-guide/"><u>[Updated] In 2024, Mastering Google Meet Creation & Scheduling Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-and-repairing-the-issues-behind-persistent-black-screens/"><u>Addressing and Repairing the Issues Behind Persistent Black Screens</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008173852-call-of-duty-black-ops-iv-wont-start-here-are-proven-fixes-to-get-you-gameplaying-asap/"><u>Call Of Duty Black Ops IV Won't Start? Here Are Proven Fixes to Get You Gameplaying ASAP!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/canon-scanner-software-setup-for-windows-pcs-free-and-user-friendly-download-options/"><u>Canon Scanner Software Setup for Windows PCs - Free & User-Friendly Download Options</u></a></li>
+<li><a href="https://program-issues.techidaily.com/crash-free-experience-with-kurtzpel-top-strategies-to-overcome-technical-glitches/"><u>Crash-Free Experience with KurtzPel: Top Strategies to Overcome Technical Glitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/deciphering-and-fixing-call-of-duty-black-ops-cold-war-error-code-0xc0000005-comprehensive-guide/"><u>Deciphering and Fixing 'Call of Duty: Black Ops Cold War' Error Code 0Xc0000005 - Comprehensive Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/digital-drawings-redefined-top-7-windows-10-art-tools-for-you/"><u>Digital Drawings Redefined: Top 7 Windows 10 Art Tools for You</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000066368-expert-solutions-for-the-notorious-terraria-crash-issue-get-rid-of-it-now/"><u>Expert Solutions for the Notorious Terraria Crash Issue - Get Rid of It Now!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862826335-get-your-hands-on-the-cutting-edge-display-the-gigabyte-gs3gs32qhttpswwwgigabytecomusmonitorplus-plusgraphics-32-qhd-monitor-at-a-steal-for-199/"><u>Get Your Hands on the Cutting-Edge Display: The Gigabyte GS3^[GS32Q](https://www.gigabyte.com/us/Monitor+-+Graphics) 32'' QHD Monitor at a Steal for $199!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-constant-buffering-in-apex-legends-error-fixes-explained/"><u>How to Overcome Constant Buffering in Apex Legends – Error Fixes Explained</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-samsung-galaxy-a15-4g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Samsung Galaxy A15 4G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-instamosaic-syncing-videos-across-oses/"><u>In 2024, InstaMosaic Syncing Videos Across OSes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solution-how-to-stop-outriders-from-continuously-crashing/"><u>Quick Solution: How to Stop Outriders From Continuously Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-dota-2-issues-with-game-not-starting-or-getting-stuck-at-boot/"><u>Resolved: Fixes for Dota 2 Issues with Game Not Starting or Getting Stuck at Boot</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solutions-fixing-unknown-usb-device-detected-problems-and-port-resets-in-windows-10/"><u>Step-by-Step Solutions: Fixing 'Unknown USB Device Detected' Problems and Port Resets in Windows 10</u></a></li>
+<li><a href="https://common-error.techidaily.com/the-role-of-msda80dll-in-your-pcs-functionality-keep-or-remove/"><u>The Role of MSDA80.DLL in Your PC's Functionality - Keep or Remove?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/untangle-gaming-woes-ensuring-smooth-performance-of-watch-dogs-legion-on-pc/"><u>Untangle Gaming Woes: Ensuring Smooth Performance of Watch Dogs Legion on PC</u></a></li>
+</ul></div>
 

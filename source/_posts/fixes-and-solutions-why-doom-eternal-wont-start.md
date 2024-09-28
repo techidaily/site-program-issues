@@ -1,7 +1,7 @@
 ---
 title: "Fixes and Solutions: Why DOOM Eternal Won't Start?"
-date: 2024-09-17T17:16:17.669Z
-updated: 2024-09-21T18:21:52.992Z
+date: 2024-09-27T07:18:09.631Z
+updated: 2024-09-28T06:35:28.775Z
 tags:
   - win11
   - win10
@@ -41,9 +41,23 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the left panel, click**Game Overlay** . Make sure you turn on the toggle next to **Enable in-game overlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-enable-in-game-overlay-1-1200x714.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
@@ -54,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
  1) On your desktop,**right-click** the shortcut of **Discord** and then select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
@@ -66,10 +87,10 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
 See if this issue reappears. If not, you have fixed this issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
@@ -84,13 +105,6 @@ See if this issue reappears. If not, you have fixed this issue.
 
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Disable hardware acceleration in Discord
 
  Hardware acceleration is a feature in**Discord** that uses your GPU to make**Discord** smoother. However, many users have reported that sometimes, this feature may cause the**Discord overlay** to not work.
@@ -104,6 +118,13 @@ See if this issue reappears. If not, you have fixed this issue.
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Run your game again to see if this issue persists. If not, you have resolved this problem!
 
@@ -121,16 +142,16 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  iii.**Double-click** **Discord** to uninstall it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 iv. Restart your PC.
 
@@ -141,13 +162,6 @@ iv. Restart your PC.
  4)**Enable the in-game overlay feature** for your game. If you don’t know how to do it, refer to[](https://tools.techidaily.com/drivereasy/download/) **[Fix 1](https://tools.techidaily.com/drivereasy/download/)**  .
 
 See if this issue reappears. If not, you have fixed this issue!
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus tip: How to fix Discord connection errors?
 
@@ -191,5 +205,22 @@ See if this issue reappears. If not, you have fixed this issue!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-tape-to-trending-seamless-mp3-to-youtube-transition-for-2024/"><u>[New] From Tape to Trending Seamless MP3 to YouTube Transition for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-4-effective-methods-for-slide-embedding-from-youtube/"><u>[New] In 2024, 4 Effective Methods for Slide Embedding From YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-engage-in-enlightening-youtube-exchanges/"><u>[New] In 2024, Engage in Enlightening YouTube Exchanges</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-launching-laughter-hilarious-initiation-hints-for-2024/"><u>[Updated] Launching Laughter Hilarious Initiation Hints for 2024</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-xiaomi-13t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Xiaomi 13T Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/complete-solution-resolving-star-wars-jedi-fallen-order-pc-launch-issues/"><u>Complete Solution: Resolving Star Wars Jedi: Fallen Order PC Launch Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-preventing-medium-from-crashing-on-personal-computers/"><u>Effective Fixes for Preventing Medium From Crashing on Personal Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-constant-freezes-in-nox-game-player-on-your-computer/"><u>Eliminating Constant Freezes in Nox Game Player on Your Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-establish-a-new-identity-in-gmail-the-ultimate-guide-to-using-an-email-alias/"><u>How to Establish a New Identity in Gmail: The Ultimate Guide to Using an Email Alias</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-honor-x50-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Honor X50 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722989111203-mlb-the-show-21-online-issue-resolved-get-back-to-winning-now/"><u>MLB The Show 21 Online Issue Resolved - Get Back to Winning Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pathfinder-wrath-of-the-righteous-not-starting-heres-how-to-fix-it-quickly/"><u>Pathfinder: Wrath of the Righteous Not Starting? Here's How to Fix It Quickly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-fixing-a-nonfunctional-keyboard-for-your-pathfinder-game/"><u>Step-by-Step Guide to Fixing a Nonfunctional Keyboard for Your Pathfinder Game</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/top-7-tecniche-essenziali-per-ottimizzare-la-registrazione-di-video-in-diretta-su-computer-e-dispositivi-mobile/"><u>Top 7 Tecniche Essenziali per Ottimizzare La Registrazione Di Video in Diretta Su Computer E Dispositivi Mobile</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-and-solving-gtfo-application-failures/"><u>Understanding and Solving GTFO Application Failures</u></a></li>
+</ul></div>
 

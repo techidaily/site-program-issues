@@ -1,7 +1,7 @@
 ---
 title: Facing Continuous Game Crashes in The Ascent on Your Desktop? We Can Help
-date: 2024-09-15T16:58:53.341Z
-updated: 2024-09-21T17:25:05.198Z
+date: 2024-09-26T05:13:45.778Z
+updated: 2024-09-28T06:40:42.504Z
 tags:
   - win11
   - win10
@@ -60,6 +60,13 @@ The Ascent
 7. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 8. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Verify integrity of game files
 
  The Ascent may crash if its game files are corrupted or incomplete. But don’t worry. You can follow the steps below to verify and repair the game files in Steam:
@@ -89,26 +96,20 @@ The Ascent
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
-![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
-**Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
+**Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Install the latest game patch
 
@@ -117,6 +118,13 @@ The Ascent
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch The Ascent again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Run The Ascent with DirectX 11
 
@@ -143,6 +151,13 @@ If the game still crashes, try the next fix, below.
 ![Run dialog](https://images.drivereasy.com/wp-content/uploads/2021/08/Run-dialog.jpg)
 2. Open the file**Engine.ini** in Notepad.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. To disble Moive / Film Grain, add the following and save the file:  
 
 ` **[SystemSettings]**  
@@ -164,10 +179,10 @@ If the game still crashes, try the next fix, below.
  See if it crashes after you disable those in-game graphics settings. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Update MS Visual C++ Redistributables
@@ -202,28 +217,37 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
-4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
+4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
  Restart your PC and launch The Ascent to check whether the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
@@ -258,5 +282,24 @@ If this fix didn’t work, try the next fix to perform a clean boot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-mastering-stardew-on-ginger-islet/"><u>[Updated] 2024 Approved Mastering Stardew on Ginger Islet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-kinemaster-editors-roadmap-for-flawless-transitions/"><u>2024 Approved A Kinemaster Editor's Roadmap for Flawless Transitions</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-tecno-pova-5-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Tecno Pova 5 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723002296969-comprehensive-fix-for-pc-players-stop-samurai-warriors-5-from-freezing-or-crashing-now/"><u>Comprehensive Fix for PC Players - Stop Samurai Warriors 5 From Freezing or Crashing Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversion-sin-costo-cambia-archivos-swf-a-mp4-en-linea-rapido-con-movavi/"><u>Conversión Sin Costo: Cambia Archivos SWF a MP4 en Línea Rápido Con Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dealing-with-frequent-breakdowns-of-orbital-client-on-pc/"><u>Dealing with Frequent Breakdowns of Orbital Client on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/gaming-glitch-guidance-fixing-warzone-disc-read-problems-in-versions-5-and-31-for-pc-players/"><u>Gaming Glitch Guidance: Fixing Warzone Disc Read Problems in Versions [5.#] & [3.1] for PC Players</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-oppo-find-x7-by-drfone-android/"><u>How to Bypass FRP from Oppo Find X7?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-tecno-phantom-v-fold-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Tecno Phantom V Fold to New Phone | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hp-laserjet-p1102w-driver-download-for-windows/"><u>HP LaserJet P1102w Driver Download for Windows</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Poco C51? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-latest-fix-for-fnaf-security-breach-a-comprehensive-walkthrough-for-pc-users/"><u>Mastering the Latest Fix for FNAF Security Breach – A Comprehensive Walkthrough for PC Users</u></a></li>
+<li><a href="https://fox-http.techidaily.com/profit-power-for-the-uninitiated-top-13-income-tips-on-reddit-for-2024/"><u>Profit Power for the Uninitiated! Top 13 Income Tips on Reddit for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rainbow-six-siege-resolved-how-to-fix-issues-preventing-game-start/"><u>Rainbow Six Siege Resolved: How to Fix Issues Preventing Game Start</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-the-issue-of-constant-freezing-in-warframe/"><u>Resolved: Fixing the Issue of Constant Freezing in Warframe</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-civ-6-not-loading-issues-in-windows-10-environments/"><u>Resolving Civ 6 Not Loading Issues in Windows 10 Environments</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-persistent-freezing-issues-in-samurai-warriors-5-for-pc/"><u>Troubleshooting Guide - Fixing Persistent Freezing Issues in Samurai Warriors 5 for PC</u></a></li>
+</ul></div>
 

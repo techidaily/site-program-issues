@@ -1,7 +1,7 @@
 ---
 title: "Conquer PC Issues: Modern Warfare Launch Guide Gamer Troubles"
-date: 2024-09-19T22:13:33.034Z
-updated: 2024-09-21T22:25:37.235Z
+date: 2024-09-22T03:42:45.725Z
+updated: 2024-09-28T02:38:08.527Z
 tags:
   - win11
   - win10
@@ -42,11 +42,25 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 ![allow an app through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
 3. Under the **Allowed apps and features**  section, scroll down and find Modern Warfare II. If it’s not on the list, click **Change settings > Allow another app…** .  
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/allow-modern-warfare-through-windows-firewall.jpg)
 
  Now navigate to your game’s installation folder and add it to the list. Then check the boxes under**Domain** ,**Private** , and**Public** . Once done, click**OK** to apply the changes.
 
 If this doesn’t do the trick, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Run your game launcher as administrator
 
@@ -59,13 +73,6 @@ If this doesn’t do the trick, try the next fix below.
 3. When the Properties window opens, select the Compatibility tab. Then check the box next to Run this program as an administrator. Then click Apply > OK to save the changes.
 
  After this, try to launch Warfare II and see how it works. If your problem persists, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Close conflicting or non-essential programs
 
@@ -80,10 +87,10 @@ If this doesn’t do the trick, try the next fix below.
 3. Under the **Processes**  tab, select the program and click **End task** until you close all the unneeded applications.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (Some gamers did find that the Razer Synapse is more likely to be in conflict with a number of big releases. Therefore, if you have it installed in your computer, stop it from running in the background. )  
@@ -93,10 +100,10 @@ If this doesn’t do the trick, try the next fix below.
  When you’re done, launch your game. If your problem persists, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Repair corrupted game files
@@ -123,16 +130,16 @@ If this doesn’t do the trick, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/call-of-duty-modern-warfare-II-verify-game-files.png)
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Steam will verify the game files. This process may take a few minutes. If there are file validation failures, you can safely ignore the message that pops up.
@@ -159,10 +166,10 @@ If this doesn’t do the trick, try the next fix below.
 3. When the DirectX Diagnostic Tool loads, select the**Display** tab. Then you’ll find your graphics card’s name and manufacturer listed in the Device section.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/graphics-card-name-and-manufacturer-new.jpg)
@@ -192,6 +199,13 @@ If this doesn’t do the trick, try the next fix below.
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC. If your game still fails to launch, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Run a full system scan
 
@@ -224,5 +238,21 @@ If this doesn’t do the trick, try the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/solved-beat-saber-keeps-crashing/"><u>[Solved] Beat Saber Keeps Crashing</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-the-essential-tiktok-apps-to-escalate-virality-and-engagement/"><u>[Updated] 2024 Approved The Essential TikTok Apps to Escalate Virality and Engagement</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-top-50plus-overlays-for-engaging-media-content/"><u>2024 Approved Top 50+ Overlays for Engaging Media Content</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-twittickle-your-personalized-toolkit-for-cutest-tweets/"><u>2024 Approved TwitTickle Your Personalized Toolkit for Cutest Tweets</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeat-game-lag-expert-solutions-to-cure-your-alan-wake-ii-crashes/"><u>Defeat Game Lag - Expert Solutions to Cure Your Alan Wake II Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ensuring-uninterrupted-gameplay-fixing-crashes-in-forza-horizon-5-for-pc-users/"><u>Ensuring Uninterrupted Gameplay: Fixing Crashes in Forza Horizon 5 for PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723010893129-fixing-not-responding-errors-in-madden-22-simple-steps-to-success/"><u>Fixing 'Not Responding' Errors in Madden 22 – Simple Steps to Success!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/immediate-remedies-for-a-smooth-borderlands-3-gaming-experience/"><u>Immediate Remedies for a Smooth Borderlands 3 Gaming Experience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-leading-edge-innovations-for-your-daily-life/"><u>In 2024, Leading Edge Innovations for Your Daily Life</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-windows-11-photo-app-stability-troubleshooting-for-2024/"><u>Mastering Windows 11 Photo App Stability Troubleshooting for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-pc-issues-with-fixes-how-to-stop-grounded-from-crashing/"><u>Overcome PC Issues with Fixes: How to Stop Grounded From Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/smooth-gaming-ahead-quick-fixes-to-stop-titanfall-2-from-crashing/"><u>Smooth Gaming Ahead: Quick Fixes to Stop Titanfall 2 From Crashing</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/updated-2024-approved-a-comprehensive-list-of-the-top-spongebob-voice-generators/"><u>Updated 2024 Approved A Comprehensive List of The Top SpongeBob Voice Generators</u></a></li>
+</ul></div>
 

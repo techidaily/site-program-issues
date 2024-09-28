@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Solving the Persistent PC Crash Issue in Valorant"
-date: 2024-09-17T18:32:16.242Z
-updated: 2024-09-21T22:04:03.290Z
+date: 2024-09-21T02:25:21.661Z
+updated: 2024-09-28T04:24:41.602Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
   
 ![verify integrity of game files Among Us](https://images.drivereasy.com/wp-content/uploads/2021/04/among-us-properties.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Select the**LOCAL FILES** tab and click on the**Verify integrity of game files…** button. And Steam will begin to verify your game files.  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/among-us-verify-integrity-of-game-files.png)
@@ -56,13 +63,6 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 2: Automatically update your graphics driver (recommended)
 
  If you don’t have the time, patience and computer skills to update your graphics driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It’s a useful tool that automatically recognizes your system and finds the correct drivers for it. You don’t need to know exactly what system your computer is running or risk downloading and installing the wrong driver.
@@ -80,11 +80,25 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your computer and launch Among Us to check if the problem is solved. If not, then proceed to the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Delete temp files
 
@@ -106,14 +120,14 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/empty-recycle-bin.jpg)
 
- After deleting the temp files, click on the Play button and you should be able to get into the main screen instantly.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ After deleting the temp files, click on the Play button and you should be able to get into the main screen instantly.
 
 ## 4\. Disable firewall and antivirus software
 
@@ -130,10 +144,10 @@ Here’s how to update drivers with Driver Easy:
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-windows-features-on-or-off.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network and Public network. Then click **OK** .  
@@ -141,10 +155,10 @@ Here’s how to update drivers with Driver Easy:
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-firewall.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This may put you at greater risk for malware attacks. To be advised, don’t visit any unknown websites. If necessary, repeat the similar steps to turn on the firewall.
@@ -170,5 +184,19 @@ Here’s how to update drivers with Driver Easy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/1722995446331-fixed-assassins-creed-odyssey-crashing-on-pc-easily/"><u>[Fixed] Assassin’s Creed Odyssey Crashing on PC. Easily</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-experience-audio-freedom-with-pazeras-2024-tools-review/"><u>[New] Experience Audio Freedom with Pazera's 2024 Tools Review</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-deleted-history-uncovered-your-guide-to-online-video-retrieval/"><u>[Updated] In 2024, Deleted History Uncovered Your Guide to Online Video Retrieval</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claim-your-edge-with-claude-top-tier-ai-for-competitive-advantage/"><u>Claim Your Edge with Claude: Top-Tier AI for Competitive Advantage</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cracking-the-code-on-unreal-engine-4-issues-fix-your-outriders-game-and-wave-goodbye-to-ue4-madness-errors/"><u>Cracking The Code on Unreal Engine 4 Issues: Fix Your Outriders Game and Wave Goodbye to UE4-Madness Errors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-health-journey-with-these-8-powerful-chatgpt-plugins/"><u>Elevate Your Health Journey with These 8 Powerful ChatGPT Plugins</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-effortlessly-fix-corrupt-disks-when-playing-steam-games/"><u>How to Effortlessly Fix Corrupt Disks When Playing Steam Games</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-critical-errors-an-in-depth-guide-to-understanding-bsod-on-windows-systems/"><u>Navigating Critical Errors: An In-Depth Guide to Understanding BSOD on Windows Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-server-latency-and-link-up-challenges-in-new-worlds-current-build/"><u>Overcoming Server Latency & Link-Up Challenges in New World's Current Build</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-enabling-gpu-detection-by-msi-afterburner-in-windows-10-and-windows-11-operating-systems/"><u>Step-by-Step Solution: Enabling GPU Detection by MSI Afterburner in Windows 10 and Windows 11 Operating Systems</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-times-running-out-learn-to-add-a-countdown-timer-in-fcpx-fast/"><u>Updated 2024 Approved Times Running Out! Learn to Add a Countdown Timer in FCPX Fast</u></a></li>
+</ul></div>
 

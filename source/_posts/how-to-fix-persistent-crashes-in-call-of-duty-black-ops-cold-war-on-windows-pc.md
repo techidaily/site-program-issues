@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Persistent Crashes in Call of Duty: Black Ops Cold War on Windows PC"
-date: 2024-09-16T19:41:51.944Z
-updated: 2024-09-21T22:53:13.990Z
+date: 2024-09-23T22:29:31.597Z
+updated: 2024-09-28T08:41:58.185Z
 tags:
   - win11
   - win10
@@ -28,6 +28,19 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Switch out of your game, then switch back in
 
  This is the first thing you should try when you have a black screen issue on Call of Duty: WWII. To do this:
@@ -36,6 +49,13 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
 2. Press the**Alt** and**Tab** keys on your keyboard at the same time to switch back into your game.
 
  If this works for you, you won’t see the black screen. But if the issue persists, don’t worry. There are still other fixes for you to try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Switch to the windowed mode, then switch back to the full screen mode
 
@@ -77,17 +97,24 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-424.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-425.png)  
  You can do it for free if you like, but it’s partly manual.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall your game
 
@@ -97,13 +124,6 @@ OR
 2. Type**appwiz.cpl** , then press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 3. Delete Call of Duty: World War II (right click this game in the list and select**Uninstall** ).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Download the game from where you purchased it.
 5. Try playing CoD: WWII and see if this fixes your black screen issue.
@@ -126,5 +146,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-pc-guide-extract-twitters-funny-images/"><u>[New] In 2024, PC Guide Extract Twitter's Funny Images</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-tactics-to-amplify-your-video-presence-with-targeted-keywords/"><u>[Updated] In 2024, Tactics to Amplify Your Video Presence with Targeted Keywords</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battlefield-2042-fixes-implemented-fps-and-stuttering-problems-addressed-for-pc-gamers/"><u>Battlefield 2042 - Fixes Implemented: FPS and Stuttering Problems Addressed for PC Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-pc-boot-issues-solutions-for-when-outriders-refuses-to-start/"><u>Fixing PC Boot Issues: Solutions for When Outriders Refuses to Start</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-13-mini-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 13 mini Without Passcode Now</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hands-on-instructions-for-iphone-content-syncing/"><u>Hands-On Instructions for iPhone Content Syncing</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-controller-detection-errors-in-steam-on-a-windows-platform/"><u>Overcoming Controller Detection Errors in Steam on a Windows Platform</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/practice-your-spanish-and-socialize-in-mondly-vr-multiplayer/"><u>Practice Your Spanish And Socialize In Mondly VR Multiplayer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-chromes-loading-problems-tips-and-tricks-for-optimal-performance/"><u>Troubleshooting Chrome's Loading Problems: Tips & Tricks for Optimal Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-resolving-disconnected-status-from-blizzards-online-gaming-servers/"><u>Troubleshooting Steps: Resolving Disconnected Status From Blizzard's Online Gaming Servers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-eliminating-minecraft-lag-issues/"><u>Ultimate Guide: Eliminating Minecraft Lag Issues</u></a></li>
+</ul></div>
 

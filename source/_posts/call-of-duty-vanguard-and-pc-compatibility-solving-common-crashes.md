@@ -1,7 +1,7 @@
 ---
 title: "Call of Duty Vanguard and PC Compatibility: Solving Common Crashes"
-date: 2024-09-20T18:28:18.053Z
-updated: 2024-09-21T20:46:20.615Z
+date: 2024-09-20T21:57:46.414Z
+updated: 2024-09-27T19:19:33.174Z
 tags:
   - win11
   - win10
@@ -45,6 +45,13 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 
  When the verifying process completed, launch Arcadegeddon and see if this fix works. If the game still crashes, don’t worry. Read on and try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics driver
 
  Graphics driver is essential to the functioning of video games. If Arcadegeddon keeps crashing on your PC, it’s likely that you have the corrupted or outdated graphics driver on your PC. So you should update your drivers to see if it fixes the game crashing issues.
@@ -74,13 +81,6 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 
  Launch Arcadegeddon again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Close CPU / memory hogging applications
 
  Insufficient memory would also leading to the Arcadegeddon crashing issue. If there’s too many applications running in the background while you’re playing Arcadegeddon, your computer may run out of RAM and the game may crash.
@@ -96,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
  To prevent Arcadegeddon from crashing due to insufficient memory in the future, you may need to consider[upgrading the memory (RAM) on your computer](https://www.amazon.com/s?k=RAM&tag=drivereasycom-20) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Perform a clean boot
@@ -109,6 +109,20 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
@@ -119,16 +133,10 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 5. Go back to the **System Configuration** window and click **OK** .  
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
@@ -136,10 +144,10 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Restart** your PC and run Arcadegeddon to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
@@ -172,5 +180,24 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-efficient-techniques-to-record-your-idevice/"><u>[New] Efficient Techniques to Record Your iDevice</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-premier-choice-the-best-10-recorders-for-tech-talks/"><u>[Updated] Premier Choice The Best 10 Recorders for Tech Talks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-preventing-tribes-of-midgard-from-crashing-down/"><u>Effective Solutions for Preventing Tribes of Midgard From Crashing Down</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-on-dealing-with-missing-advapi32dll-errors-in-windows/"><u>Expert Advice on Dealing with Missing Advapi32.dll Errors in Windows</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-tecno-pova-6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-black-screen-problems-in-magic-the-gathering-online-platform/"><u>Fixes for 'Black Screen' Problems in Magic: The Gathering Online Platform</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-successfully-launch-dota-navigate-around-a-stuck-loading-screen-and-get-back-into-gameplay/"><u>How to Successfully Launch Dota Navigate Around a Stuck Loading Screen and Get Back Into Gameplay</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-iphone-6s-plus-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock From iPhone 6s Plus?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-creating-dynamic-photo-effects-in-illustrator/"><u>In 2024, Creating Dynamic Photo Effects in Illustrator</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-realme-narzo-60x-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Realme Narzo 60x 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-understanding-your-twitter-archives-potential/"><u>In 2024, Understanding Your Twitter Archive's Potential</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/inside-the-world-of-zdsoft-video-capturing-for-2024/"><u>Inside the World of ZDSoft Video Capturing for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-performance-repairing-non-responsive-intel-graphics-drivers-and-support-tools/"><u>Optimizing Performance: Repairing Non-Responsive Intel Graphics Drivers and Support Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-kiln-should-be-loaded-with-care-ensuring-tiles-do-not-touch-each-other-and-theres-enough-space-for-heat-circulation/"><u>The Kiln Should Be Loaded with Care, Ensuring Tiles Do Not Touch Each Other and There's Enough Space for Heat Circulation.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-complete-how-to-eliminate-lag-and-stutter-in-your-cyberpunk-2077-gameplay/"><u>Troubleshooting Complete: How to Eliminate Lag & Stutter in Your Cyberpunk 2077 Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-eliminate-lag-and-stutter-when-enjoying-assassins-creed-odyssey-pc-edition/"><u>Ultimate Guide: Eliminate Lag and Stutter When Enjoying Assassin's Creed Odyssey (PC Edition)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-does-my-beat-saber-experience-frequent-interruptions-fix-now/"><u>Why Does My Beat Saber Experience Frequent Interruptions? Fix Now!</u></a></li>
+</ul></div>
 

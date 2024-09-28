@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps to Prevent Your 'Sons of the Forest' Game From Crashing on Windows
-date: 2024-09-18T18:28:54.775Z
-updated: 2024-09-21T18:57:00.465Z
+date: 2024-09-25T01:40:36.759Z
+updated: 2024-09-27T20:37:34.975Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 7. **[Change your PC power settings](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Check for Windows Updates](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall your game and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: **Check your computer specs**
 
@@ -91,10 +98,10 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 If your problem still exists, then move on to the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4:**Disable fullscreen optimization**
@@ -107,29 +114,9 @@ If your problem still exists, then move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-131.png)
 
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Click the **Compatibility tab** , then check the box next to **Disable fullscreen optimizations** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-130.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Relaunch_HOI4_ to see if this has resolved your issue. If not, read on and try the fix below.
 
@@ -168,13 +155,6 @@ There are two ways you can get the right graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -195,18 +175,18 @@ To fix it, try verifying the integrity of your game files on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-133.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)**  Click the **LOCAL FILES**  tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-134.png)
 
  Wait for the scans to be complete, then relaunch_HOI4_ to see if your problem has been resolved. If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Change your PC power settings
 
@@ -220,6 +200,13 @@ To fix it, try verifying the integrity of your game files on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Select **Power Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
@@ -227,6 +214,19 @@ To fix it, try verifying the integrity of your game files on Steam:
 **4)** Select **High Performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart your computer and your game to see if this worked for you. If your problem persists, try the fix below.
 
@@ -245,6 +245,13 @@ To fix it, try verifying the integrity of your game files on Steam:
 **3)**  Restart your computer and your game after the update is complete.
 
  You can hopefully play the game without crashes now. If not, check the fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 9: Reinstall your game and/or Steam
 
@@ -281,9 +288,23 @@ Relaunch your game to test your issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-359.png)
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Right-click the **steamapps**  folder and select **Copy** . Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-360.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  On your keyboard, press the **Windows logo**  key and type **control** . Then, click **Control Panel** .
 
@@ -330,5 +351,26 @@ Relaunch your game to test your issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-quitting-linkedin-how-to-close-your-account-properly/"><u>[New] Quitting LinkedIn How To Close Your Account Properly</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-get-rid-of-youtube-shorts-a-comprehensible-guide/"><u>[Updated] Get Rid of YouTube Shorts A Comprehensible Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-expert-tips-for-harnessing-the-power-of-top-9-free-youtube-makers/"><u>2024 Approved Expert Tips for Harnessing the Power of Top 9 Free YouTube Makers</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721446327842-baffled-by-balanced-bass-5-solutions-for-unequal-loudness-between-airpods/"><u>Baffled by Balanced Bass? 5 Solutions for Unequal Loudness Between AirPods</u></a></li>
+<li><a href="https://win-able.techidaily.com/critical-guide-overcoming-pc-gaming-glitches-in-serious-sam-evolution-iv/"><u>Critical Guide: Overcoming PC Gaming Glitches in Serious Sam Evolution IV</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-overcome-stuttering-and-smooth-your-ride-in-forza-horizon-5/"><u>Expert Guide: Overcome Stuttering and Smooth Your Ride in Forza Horizon 5</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723002094426-fixes-for-r-type-final-2-continuous-pc-crash-issues-solutions-inside/"><u>Fixes for R-Type Final 2 Continuous PC Crash Issues - Solutions Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-correcting-a-malfunctioning-webcam-for-google-meet-conferences/"><u>Guide to Correcting a Malfunctioning Webcam for Google Meet Conferences</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-nubia-red-magic-8s-proplus-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Nubia Red Magic 8S Pro+ Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-simplify-your-video-sharing-with-our-youtube-upload-strategy/"><u>In 2024, Simplify Your Video Sharing with Our YouTube Upload Strategy</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-tab-s5e-the-ultimate-android-experience/"><u>In-Depth Analysis of the Samsung Galaxy Tab S5e - The Ultimate Android Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-launch-problems-successfully-playing-immortals-fenyx-rising-now-possible/"><u>Overcome Launch Problems: Successfully Playing Immortals Fenyx Rising Now Possible</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-gray-zone-warfare-gzw-system-failures-in-windows-environments/"><u>Overcoming Gray Zone Warfare (GZW) System Failures in Windows Environments</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-steps-for-when-obs-cant-record-your-computer-screenshots/"><u>Solution Steps for When OBS Can't Record Your Computer Screenshots</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-steps-to-get-payday-2-running-smoothly-on-windowspc/"><u>Solution Steps to Get Payday 2 Running Smoothly on Windows/PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-addressing-ark-downloading-problems-successfully/"><u>Troubleshooting Tips for Addressing ARK Downloading Problems Successfully</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-apple-iphone-13-pro-max-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile Apple iPhone 13 Pro Max Before the Plan Expires</u></a></li>
+<li><a href="https://program-issues.techidaily.com/warzone-optimization-activating-gpu-support-for-a-better-gaming-experience-on-windows-10/"><u>Warzone Optimization: Activating GPU Support for a Better Gaming Experience on Windows 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/zooms-commitment-no-unauthorized-usage-of-user-data-in-ai-development/"><u>Zoom's Commitment: No Unauthorized Usage of User Data in AI Development</u></a></li>
+</ul></div>
 

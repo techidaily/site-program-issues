@@ -1,7 +1,7 @@
 ---
 title: Restore Auditory Bliss in Fallout 4 PC Version with These Easy Hacks
-date: 2024-09-18T20:40:12.524Z
-updated: 2024-09-21T16:30:45.029Z
+date: 2024-09-27T08:10:49.381Z
+updated: 2024-09-28T01:17:25.967Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 5. **[Close unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Uninstall and reinstall Minecraft](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Run Minecraft in compatibility mode
 
  Some older games might run poorly in the most recent version of Windows 10\. To see if that’s the case for Minecraft, try running the game in compatibility mode. Here’s how:
@@ -44,11 +51,25 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-compatibility.jpg)
 3. Select**Windows 8** from the drop-down menu, then click**Apply** and**OK** to save changes.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-apply-ok.jpg)
 
  Once done, relaunch Minecraft to see if the black screen issue still occurs.
 
 If the issue persists, read on and try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Check your antivirus settings
 
@@ -80,13 +101,6 @@ If the issue remains, move on to the next fix.
 
  If updating the graphics driver doesn’t solve your problem, go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Set the anti-aliasing to default
 
  If you had changed the Minecraft anti-aliasing settings from default, you may experience a black screen on launch. To fix it, you can reset your video settings to default. Here’s how:
@@ -97,9 +111,6 @@ If the issue remains, move on to the next fix.
  File address: **%LocalAppData%PackagesMicrosoft.MinecraftUWP\_8wekyb3d8bbweLocalStategamescom.mojangminecraftpe**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/file-explorer.jpg)
 4. Open the**options.txt** file, then find the line with the following entry, and change the number to 4, like so:**gfx\_msaa:4** .  
-
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/gfx_msaa-4.jpg)
-5. **Save** the options.txt file.
 
 <!-- affiliate ads begin -->
 <span id="1982456">
@@ -113,6 +124,9 @@ If the issue remains, move on to the next fix.
 </span>
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/gfx_msaa-4.jpg)
+5. **Save** the options.txt file.
 
 6. Relaunch Minecraft to see if the problem is solved.
 
@@ -128,6 +142,13 @@ If this method doesn’t do the trick, continue to the next fix.
 2. One at a time, select the resource-hogging program and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/end-task-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 Relaunch Minecraft to see if your issue is resolved.
@@ -142,13 +163,6 @@ If not, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/appdata-minecraft.jpg)
 2. Copy the**saves** folder and paste it to your desktop, as it contains your Minecraft world.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/saves.jpg)
 3. After saving your game data, delete everything inside the**.minecraft** folder.
 
@@ -157,21 +171,14 @@ If not, try the next fix.
 5. In Programs and Features, select**Minecraft Launcher** and click**Uninstall** . Then follow the on-screen instruction to uninstall the game.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
 6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the installation is completed, launch Minecraft to check if the game works properly.
 
@@ -195,5 +202,24 @@ If not, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-market-leading-6-social-channels-for-business-advancement/"><u>[New] 2024 Approved Market-Leading 6 Social Channels for Business Advancement</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-full-spectrum-on-morphvox-technology-for-voice-conversion/"><u>[New] Full Spectrum on MorphVOX Technology for Voice Conversion</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-swift-snap-reinstatement-techniques/"><u>[New] In 2024, Swift Snap Reinstatement Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-classifications-of-unmanned-aircraft/"><u>[Updated] Classifications of Unmanned Aircraft</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/adaptable-digital-time-stretch-audio-transformer-elevate-your-soundscape/"><u>Adaptable Digital Time Stretch Audio Transformer - Elevate Your Soundscape</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-applied-to-enhance-forza-horizon-n-pc-performance-and-boost-fps/"><u>Fixes Applied to Enhance Forza Horizon N PC Performance and Boost FPS</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-14-pro-max-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone 14 Pro Max Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-persistent-lag-issues-in-dying-light/"><u>How to Resolve the Persistent Lag Issues in Dying Light</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-realme-c55-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Realme C55</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-mw3-warzone-quick-solutions-for-tackling-the-notorious-dev-error-6068/"><u>Mastering MW3: Warzone - Quick Solutions for Tackling the Notorious Dev Error 6068</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigating-turbulence-in-microsoft-flight-simulator-2020-overcoming-frequent-pc-crashes/"><u>Navigating Turbulence in Microsoft Flight Simulator 2020 – Overcoming Frequent PC Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/nba-2k24-error-solution-overcome-code-72e66ac-with-easy-step-by-step-fixes-for-gamers/"><u>NBA 2K24 Error Solution: Overcome Code 72^%E66aC with Easy Step-by-Step Fixes for Gamers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/petcube-play-2-review/"><u>Petcube Play 2 Review</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-atomic-heart-errors-when-launching-your-computer/"><u>Resolving Atomic Heart Errors When Launching Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-6-fixes-for-a-malfunctioning-obs-microphone/"><u>Top 6 Fixes for a Malfunctioning Obs Microphone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-and-correcting-starcraft-crashes-during-playtime-on-pc-setups/"><u>Understanding and Correcting StarCraft √ Crashes During Playtime on PC Setups</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Realme V30T? | Dr.fone</u></a></li>
+</ul></div>
 

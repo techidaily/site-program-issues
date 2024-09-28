@@ -1,7 +1,7 @@
 ---
 title: Halo ([Solved] Crashing on Computer - Top Fixes and Tips
-date: 2024-09-20T21:49:36.803Z
-updated: 2024-09-21T21:12:10.073Z
+date: 2024-09-23T02:54:17.774Z
+updated: 2024-09-28T06:34:54.943Z
 tags:
   - win11
   - win10
@@ -55,6 +55,14 @@ _Halo 3 Minimum System Requirements_
 
  1) On the left end of the taskbar, click the**Start** ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Start-icon.jpg) icon and then click**Settings** .  
   
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![open settings](https://images.drivereasy.com/wp-content/uploads/2020/08/start-settings.jpg)
 
  2) Click**Privacy** .  
@@ -70,6 +78,13 @@ _Halo 3 Minimum System Requirements_
 ![stop apps from running in the background](https://images.drivereasy.com/wp-content/uploads/2020/08/switch-it-to-off-1.jpg)
   
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  OR  
   
  Under the Choose which apps can run in the background section, manually select the ones you want to stop.  
@@ -81,10 +96,10 @@ _Halo 3 Minimum System Requirements_
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Temporarily disable antivirus software
@@ -100,6 +115,13 @@ _Halo 3 Minimum System Requirements_
 [Norton](https://support.norton.com/sp/en/uk/home/current/solutions/v3672136)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your video card drivers
 
@@ -117,24 +139,18 @@ Here’s how to update your drivers with Driver Easy:
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -159,22 +175,16 @@ To do so:
 
 ![hide all Microsoft services; disable all](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) In the same window, select the**Startup** tab and then click**Open Task Manager** .  
   
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-2-1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Under the**Startup** tab in the Task Manager window, right-click on each**Enabled** Startup item, then click**Disable** . After that, close the window.  
   
@@ -187,10 +197,10 @@ To do so:
 7) Restart your computer and it’ll be in a clean boot environment.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Run Halo 3 as an administrator
@@ -206,13 +216,6 @@ To do so:
   
 ![run as administrator; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/run-as-administrator-compatability.jpg)
   
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Go to the directory where you installed Halo 3, and run the**.exe** file as administrator as well.  
   
@@ -250,6 +253,13 @@ To do so:
 ![verify integrity of game files; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/integrity-of-cache.png)
   
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Files verification may take several minutes. Once the process is completed, the window will automatically exit. Till then, relaunch your game.  
   
  If the issues haven’t been resolved after you tried all the methods, you can consider uninstalling and reinstalling the game.
@@ -274,5 +284,23 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-essential-methods-6-steps-for-recording-minecraft-play/"><u>[New] In 2024, Essential Methods 6 Steps for Recording Minecraft Play</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-from-conceptualization-to-connection-stream-your-video-now/"><u>[New] In 2024, From Conceptualization to Connection Stream Your Video Now</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-topeightunleashed-cutting-edge-4k-blu-ray-systems/"><u>[New] In 2024, TopEightUnleashed Cutting-Edge 4K Blu-Ray Systems</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-capture-chuckles-quickly-efficient-methods-for-exciting-youtube-reaction-videos-3-tips/"><u>[Updated] In 2024, Capture Chuckles Quickly Efficient Methods for Exciting YouTube Reaction Videos (3 Tips)</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-reigning-tiktoks-on-twitter-a-viral-analysis-for-2024/"><u>[Updated] Reigning TikToks on Twitter A Viral Analysis for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-samsung-galaxy-a34-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Samsung Galaxy A34 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-latency-expert-tips-to-fix-rainbow-six-siege-game-delays/"><u>Beat the Latency: Expert Tips to Fix Rainbow Six Siege Game Delays</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/budget-friendly-alternative-in-depth-look-at-the-apple-ipad-air-2020/"><u>Budget-Friendly Alternative: In-Depth Look at the Apple iPad Air (2020)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeat-mozilla-firefoxs-freeze-problem-a-step-by-step-guide/"><u>Defeat Mozilla Firefox's Freeze Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-new-friends-with-these-5-must-have-social-applications/"><u>Discover New Friends with These 5 Must-Have Social Applications</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-wwe-2k20-pc-crashing-problems-without-hassle/"><u>Fix WWE 2K20 PC Crashing Problems Without Hassle</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-how-to-resolve-fifa-19-pc-crash-issues/"><u>Fixes and Solutions: How to Resolve FIFA 19 PC Crash Issues</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-itel-s23plus-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Itel S23+ To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-installation-hurdles-how-to-get-your-football-manager-2023-game-running-smoothly/"><u>Overcome Installation Hurdles: How to Get Your Football Manager 2023 Game Running Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-recurring-malfunctions-for-stability-in-wot-blitz/"><u>Troubleshooting Recurring Malfunctions for Stability in WoT Blitz</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-success-how-to-fix-age-of-empires-4-wont-open-problems/"><u>Troubleshooting Success: How to Fix Age of Empires 4 Won't Open Problems</u></a></li>
+</ul></div>
 

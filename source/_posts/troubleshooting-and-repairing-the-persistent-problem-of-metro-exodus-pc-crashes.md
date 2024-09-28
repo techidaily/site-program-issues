@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Repairing the Persistent Problem of Metro Exodus PC Crashes
-date: 2024-09-17T19:19:14.487Z
-updated: 2024-09-21T17:07:14.317Z
+date: 2024-09-26T09:57:18.088Z
+updated: 2024-09-27T18:36:44.398Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ Does**Grand Theft Auto** (**GTA** ) **5 stutter**  whenever you’re in the midd
 
  If this fix doesn’t help, don’t worry, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Limit your FPS
 
  The high FPS and extended distance scaling could be the reason for the GTA 5 stuttering issue. To solve it, you could reduce them.
@@ -42,14 +49,22 @@ Does**Grand Theft Auto** (**GTA** ) **5 stutter**  whenever you’re in the midd
 3. Reduce it to the lowest cause the higher it would cost more video memory.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/close.jpg)
 4. Click**Graphics** and find**Refresh Rate** . Keep it around 60Hz or smaller to limit your FPS.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/refresh.jpg)
 5. Relaunch the game to check.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Disable full-screen optimisations
@@ -97,10 +112,10 @@ OR
 4. Relaunch the game and check whether it will stutter or not.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -116,13 +131,6 @@ To do so:
 2. Click **Graphics** and scroll down. Find **VSync** and turn it **OFF** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/off.jpg)  
  If it’s already **OFF** , try turning it**ON** , then restart your game and **turn VSync** **OFF** again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Restart your PC and GTA 5 again to see if it works.
 
@@ -143,5 +151,17 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-lighten-your-sentence-with-satire-ranking-funniest-facebook-detentions/"><u>[New] 2024 Approved Lighten Your Sentence with Satire Ranking Funniest Facebook Detentions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-boost-youtube-videos-appeal-3-ways-to-incorporate-neon-borders/"><u>[New] In 2024, Boost YouTube Videos' Appeal - 3 Ways to Incorporate Neon Borders</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-digital-sound-logging-system-inputs/"><u>[Updated] 2024 Approved Digital Sound Logging System Inputs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-mastering-video-trailers-on-youtube-via-filmora-tools/"><u>[Updated] 2024 Approved Mastering Video Trailers on YouTube via Filmora Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevating-youtube-creativity-ideal-concepts-and-themes-for-channels/"><u>[Updated] In 2024, Elevating YouTube Creativity Ideal Concepts and Themes for Channels</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-unlaunchable-alan-wake-2-comprehensive-troubleshooting-techniques/"><u>Fixing the Unlaunchable Alan Wake 2: Comprehensive Troubleshooting Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-eliminate-delay-in-valorant-gameplay-for-pc-users-updated-2n-2024/"><u>How to Eliminate Delay in Valorant Gameplay for PC Users (Updated 2N 2024)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005786799-how-to-fix-battlenet-wont-open-2024-guide/"><u>How to Fix Battle.net Won't Open - 2024 Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-unforeseen-reductions-in-game-performance-fps/"><u>How to Resolve Unforeseen Reductions in Game Performance (FPS)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Nokia 105 Classic | Dr.fone</u></a></li>
+</ul></div>
 

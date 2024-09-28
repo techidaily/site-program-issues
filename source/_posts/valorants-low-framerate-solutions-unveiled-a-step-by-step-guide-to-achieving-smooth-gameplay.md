@@ -1,7 +1,7 @@
 ---
 title: "Valorant's Low Framerate Solutions Unveiled: A Step-by-Step Guide to Achieving Smooth Gameplay"
-date: 2024-09-18T17:58:31.371Z
-updated: 2024-09-21T21:43:07.069Z
+date: 2024-09-24T21:38:20.508Z
+updated: 2024-09-27T19:10:37.218Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/a8009f1be4223fad5f174852a5dbbbf732624444e
 
  Before we dive into anything advanced, make sure you check the server status first by checking the[Forza Support Twitter](https://twitter.com/forza%5Fsupport) . If everything seems fine on the server end, you can proceed to the troubleshooting steps on your end.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Shut down bandwidth-hogging programs
 
  The first thing you can do is to make sure you’re not loading videos or running bandwidth-hogging programs in the background. You can check the bandwidth usage via Task Manager, and shut down the programs that seem to hog your network and slow down your game. Here’s how:
@@ -64,13 +71,6 @@ If the lagging issue persists, try the next fix.
 
  If your internet connection is just fine and you still encounter lags while playing Forza Horizon 5, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Update your network driver
 
  In-game lags may indicate a driver issue. If your network adapter driver is outdated or faulty, it could cause random connection issues and thus trigger the lagging issue in Forza Horizon 5\. You may want to make sure your network driver is up-to-date and functioning properly.
@@ -89,17 +89,23 @@ If the lagging issue persists, try the next fix.
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. If updating the network driver doesn’t solve your problem, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Allow Forza Horizon 5 through the firewall
 
@@ -118,10 +124,10 @@ If the lagging issue persists, try the next fix.
 5. Scroll down to see if Forza Horizon 5 is on the exception list. If so, that means the game is allowed through your firewall, and you can [jump to the next fix](https://tools.techidaily.com/drivereasy/download/) . If you can’t find Forza Horizon 5 in the exception list, follow the steps below to unblock the game.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Add Forza Horizon 5 to the exception list
@@ -135,6 +141,13 @@ If the lagging issue persists, try the next fix.
 4. Find Forza Horizon 5 on the list,**tick the checkbox of Private network** , and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14-1.jpg)  
  This will ensure your firewall won’t block Forza Horizon 5 when you’re using a private network, for example, your home Wi-Fi. For safety reasons, we recommend you only select the private network, but you’re welcome to allow the game through all types of networks if needed.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If the lagging issue persists, try the next fix.
 
@@ -156,6 +169,13 @@ If this fix doesn’t help with your problem, try the next fix.
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1: Flush your DNS
 
  Flushing DNS will clear the DNS cache from your PC. When the DNS cache is removed, your PC will need to obtain the data from the DNS server every time it needs to access a new website. This may solve the lagging issue in Forza Horizon 5 if it’s triggered by invalid or corrupt DNS cache data
@@ -169,13 +189,26 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2: Switch to a public DNS server
@@ -186,15 +219,15 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
@@ -235,5 +268,24 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unveiling-clearer-imagery-instagrams-video-cropping-secrets/"><u>[New] 2024 Approved Unveiling Clearer Imagery Instagram's Video Cropping Secrets</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-risk-and-revelation-10-roguelike-game-selection/"><u>[Updated] In 2024, Risk and Revelation #10 Roguelike Game Selection</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-insta-editors-playbook-video-cropping-for-maximum-visibility/"><u>[Updated] In 2024, The Insta Editors' Playbook Video Cropping for Maximum Visibility</u></a></li>
+<li><a href="https://program-issues.techidaily.com/accelerate-your-progress-efficient-strategies-for-shader-improvement-in-star-wars-battlefront-ii/"><u>Accelerate Your Progress: Efficient Strategies for Shader Improvement in Star Wars Battlefront II</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battle-strategies-to-overcome-tw3s-crash-woes-in-your-gaming-quest/"><u>Battle Strategies to Overcome TW3's Crash Woes in Your Gaming Quest</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-dev-error-6034-on-call-of-duty-modern-warfare-tips-for-players-on-pc-and-xbox/"><u>Beat Dev Error 6034 on Call of Duty: Modern Warfare - Tips for Players on PC & Xbox</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boost-efficiency-with-a-discounted-m1-imac-now-available-for-just-800-upgrade-to-powerhouse-productivity/"><u>Boost Efficiency with a Discounted M1 iMac Now Available for Just $800 – Upgrade to Powerhouse Productivity</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/boost-your-content-visibility-facebook-video-tips-and-tricks-for-2024/"><u>Boost Your Content Visibility Facebook Video Tips and Tricks for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boosting-horizon-zero-dawns-speed-tips-for-higher-fps-and-superior-play-experience/"><u>Boosting Horizon Zero Dawn's Speed - Tips for Higher FPS and Superior Play Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-ways-to-identify-viewers-on-your-youtube-channel/"><u>Discover Ways to Identify Viewers on Your YouTube Channel</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-tecno-pova-5-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-lag-proven-strategies-for-increasing-fps-in-valorant-2024s-best-fixes/"><u>Say Goodbye to Lag: Proven Strategies for Increasing FPS in Valorant - 2024'S Best Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/smooth-sailing-in-the-wasteland-preventing-fallout-3-crashes-on-your-windows-11-pc/"><u>Smooth Sailing in the Wasteland: Preventing Fallout 3 Crashes on Your Windows 11 PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-vivo-v29e-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Vivo V29e to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/speeding-up-your-gameplay-in-assassins-creed-valhalla-fix-the-lags-swiftly/"><u>Speeding Up Your Gameplay in Assassin's Creed Valhalla: Fix the Lags Swiftly</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-spark-20-proplus-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Spark 20 Pro+ without backup.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-enhancing-game-performance-by-eliminating-stutters-and-increasing-fps-in-call-of-duty-warzone/"><u>Ultimate Guide: Enhancing Game Performance by Eliminating Stutters & Increasing FPS in Call of Duty: Warzone</u></a></li>
+</ul></div>
 

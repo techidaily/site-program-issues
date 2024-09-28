@@ -1,7 +1,7 @@
 ---
 title: Fixing the Thaumaturge Malfunction – Solutions for Your PC Problems
-date: 2024-09-19T20:58:19.100Z
-updated: 2024-09-21T16:39:21.784Z
+date: 2024-09-25T05:54:00.485Z
+updated: 2024-09-28T00:32:49.081Z
 tags:
   - win11
   - win10
@@ -68,6 +68,13 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
@@ -77,10 +84,10 @@ Check your region and language settings on your computer:
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
@@ -109,7 +116,21 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Reboot your Windows 10 and try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 5: Reset your Cortana
 
@@ -120,16 +141,10 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
@@ -137,28 +152,15 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Try Cortana again to see if it works.
 
@@ -178,5 +180,26 @@ Or click  **Update All** to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-ace-video-acquisition-strategies-for-savvy-software-and-no-software-use-for-2024/"><u>[New] Ace Video Acquisition Strategies for Savvy Software & No-Software Use for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-enhancing-your-audacity-sessions-for-excellence-for-2024/"><u>[New] Enhancing Your Audacity Sessions for Excellence for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-solutions-for-steelseries-gg-mouse-engine-malfunctioning-under-windows-os/"><u>Comprehensive Solutions for SteelSeries GG Mouse Engine Malfunctioning Under Windows OS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077s-latest-glitch-understanding-the-impact-of-error-2024/"><u>Cyberpunk 2077'S Latest Glitch: Understanding the Impact of Error 2024!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancements-to-tackle-freezing-woes-the-new-world-game-receives-crucial-updates/"><u>Enhancements to Tackle Freezing Woes: The New World Game Receives Crucial Updates</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-classic-to-continuous-understanding-windows-10-and-11s-evolution/"><u>From Classic to Continuous: Understanding Windows 10 & 11'S Evolution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-user-profile-service-service-failed-the-sign-in-error-windows-1111/"><u>How to Fix The User Profile Service Service Failed the Sign-In Error Windows 11/11</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-google-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Google</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-charismatic-captions-instagrams-animated-text-guide/"><u>In 2024, Charismatic Captions Instagram's Animated Text Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-pc-gameplay-glitches-in-helldivers-2-step-by-step-repair-guide/"><u>Overcoming PC Gameplay Glitches in Helldivers 2: Step-by-Step Repair Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015521209-razer-man-o-war-mic-problems-heres-how-to-get-it-working-again/"><u>Razer Man O' War Mic Problems? Here's How to Get It Working Again!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revive-the-sounds-of-dying-light-top-tricks-to-overcome-sound-malfunctions/"><u>Revive the Sounds of Dying Light - Top Tricks to Overcome Sound Malfunctions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-your-discord-crash-issues-effective-strategies-and-tips/"><u>Solve Your Discord Crash Issues: Effective Strategies and Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-rainbow-six-operation-blue-eclipse-issue-code-3-0x0001000b-troubleshooting-guide/"><u>Solving Rainbow Six Operation Blue Eclipse Issue: Code 3-0X0001000B Troubleshooting Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723011910777-troubleshoot-frequent-application-freezes-in-minutes-expert-tips-inside/"><u>Troubleshoot Frequent Application Freezes in Minutes – Expert Tips Inside!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-fixing-discord-not-starting-up/"><u>Troubleshooting Steps for Fixing 'Discord Not Starting Up'</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-samsung-galaxy-m34-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Samsung Galaxy M34 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/winx-media-transfer-pro-top-app-for-moving-photos-and-music-videos-between-your-iphone-ipad-and-computer/"><u>WinX Media Transfer Pro - Top App for Moving Photos and Music Videos Between Your iPhone, iPad & Computer</u></a></li>
+</ul></div>
 

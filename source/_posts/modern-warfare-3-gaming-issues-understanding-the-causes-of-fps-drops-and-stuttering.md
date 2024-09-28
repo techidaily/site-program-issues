@@ -1,7 +1,7 @@
 ---
 title: "Modern Warfare 3 Gaming Issues : Understanding the Causes of FPS Drops and Stuttering"
-date: 2024-09-20T21:29:57.264Z
-updated: 2024-09-21T22:58:37.344Z
+date: 2024-09-26T10:09:40.827Z
+updated: 2024-09-27T16:10:24.813Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ Specially designed for split-screen cooperative muliplayer,**It Takes Two** is d
 5. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Close other demanding apps running in the background](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Set the Power Plan of your PC for Best Performance](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1: Install the latest game patch
 
@@ -66,6 +73,13 @@ There are mainly two methods for you to update the graphics driver:
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Turn off Steam Overlay
 
  Many games still don’t work well with Steam Overlay. If you turned on Steam Overlay in the past, and you notice that the FPS drops while playing It Takes Two, just try disabling Steam Overlay for It Takes Two to see the in-game FPS increases. Here is how to do it:
@@ -77,10 +91,10 @@ There are mainly two methods for you to update the graphics driver:
  Launch It Takes Two to see if the game runs smoothly. If the issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Optimize the graphics settings
@@ -101,6 +115,14 @@ To optimize the graphics settings, follow the steps below:
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type**control** and press**Enter** to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View Control Panel by **Large icons** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
@@ -120,25 +142,25 @@ To optimize the graphics settings, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View Control Panel by **Large icons** .  
 
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
+3. Select your **AMD Radeon Settings** to open it.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
+
 <!-- affiliate ads begin -->
 <a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
   <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
 <img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
-3. Select your **AMD Radeon Settings** to open it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
 ### Step 2: Lower in-game graphics settings
 
@@ -147,6 +169,13 @@ To optimize the graphics settings, follow the steps below:
  Normally, the in-game PFS will increase after you lower some in-game graphics settings.
 
  If the FPS still doesn’t improved after you optimized the graphics settings, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable background recording and Xbox Game Bar
 
@@ -163,6 +192,13 @@ To optimize the graphics settings, follow the steps below:
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch It Takes Two to see you can play it smoothly. If not, try the next fix, below.
 
 ## Fix 6: Close other demanding apps running in the background
@@ -172,13 +208,6 @@ To optimize the graphics settings, follow the steps below:
 1. On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open **Task Manager** . You will be prompted for permission. Click **Yes** to open Task Manager.
 2. Select any other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![Restrict applications and downloads in the background](https://images.drivereasy.com/wp-content/uploads/2019/08/Task-Manager.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch It Takes Two to see if the in-game FPS increases. If not, try the next fix, below.
 
@@ -193,19 +222,6 @@ To optimize the graphics settings, follow the steps below:
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Launch It Takes Two to see if you would get a better FPS.
 
@@ -229,5 +245,24 @@ Launch It Takes Two to see if you would get a better FPS.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unveiling-the-most-honest-youtube-growth-services/"><u>[Updated] Unveiling the Most Honest Youtube Growth Services</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optic-oasis-discover-the-top-10-lenses/"><u>2024 Approved Optic Oasis Discover the Top 10 Lenses</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-experience-eliminating-lags-within-the-elder-scrolls-online-blackwood-fixes-applied/"><u>Enhancing Experience: Eliminating Lags Within The Elder Scrolls Online – Blackwood Fixes Applied</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-recurring-microsoft-edge-browser-crash-errors-on-windows-11-what-you-need-to-know/"><u>Fix Recurring Microsoft Edge Browser Crash Errors on Windows 11 – What You Need To Know</u></a></li>
+<li><a href="https://facebook.techidaily.com/gaining-clarity-in-a-complex-world-exploring-facebooks-open-center/"><u>Gaining Clarity in a Complex World: Exploring Facebook's Open Center</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-tecno-phantom-v-fold-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Tecno Phantom V Fold FRP Without Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-utorrent-diagnosing-and-resolving-peer-connection-errors/"><u>Mastering uTorrent: Diagnosing and Resolving Peer Connection Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/path-of-exile-instance-connection-issue-a-comprehensive-troubleshooting-guide/"><u>Path of Exile Instance Connection Issue: A Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/prowess-in-color-correction-the-ultimate-11-tutorials-for-2024/"><u>Prowess in Color Correction The Ultimate 11 Tutorials for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-overcoming-the-you-lack-authorization-hurdle-in-fortnite/"><u>Resolved: Overcoming the 'You Lack Authorization' Hurdle in Fortnite</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-call-of-duty-warzone-missing-texture-issues/"><u>Resolving Call of Duty Warzone: Missing Texture Issues</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/snapperview-4-review-synopsis-for-2024/"><u>SnapperView 4 Review Synopsis for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723006124613-team-fortress-2-continuous-crashing-problems-heres-how-to-fix-them/"><u>Team Fortress 2 Continuous Crashing Problems? Here's How to Fix Them!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unleash-the-full-potential-of-horizon-zero-dawn-with-these-fps-boosting-and-performance-enhancement-tips/"><u>Unleash the Full Potential of Horizon Zero Dawn with These FPS Boosting and Performance Enhancement Tips!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-scrutiny-of-sony-s3700-high-definition-playback/"><u>Updated Scrutiny of Sony S3700 High Definition Playback</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726027191854-tv/"><u>オンラインでのムービー、TV番組、ミュージック鑑賞用のダウンロード方法</u></a></li>
+</ul></div>
 

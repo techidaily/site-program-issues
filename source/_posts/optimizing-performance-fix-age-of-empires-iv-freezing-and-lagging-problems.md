@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Performance: Fix Age of Empires IV Freezing and Lagging Problems"
-date: 2024-09-15T19:11:04.655Z
-updated: 2024-09-21T23:05:42.133Z
+date: 2024-09-23T06:38:03.084Z
+updated: 2024-09-27T16:59:25.231Z
 tags:
   - win11
   - win10
@@ -80,6 +80,13 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
   
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**CPU or Memory tab** to check whether anything is using up large chunks of your CPU or RAM (for instance, a web browser with dozens of tabs open).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/Task-Manager-Memory.png)
@@ -101,10 +108,10 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click on the **Check for updates**  button. If there are any updates available, it’ll automatically start to download and install it. Simply wait for the process to complete. Then you’ll be asked to restart your computer.
@@ -119,6 +126,13 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/check-windows-update-1200x710.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Check for updates** . If it detects any updates available, it will download it for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/check-for-updates-1200x685.png)
@@ -128,13 +142,6 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/restart-after-windows-updates-1200x626.png)
 
  If updating Windows doesn’t give you any luck, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Update your graphics driver
 
@@ -159,13 +166,6 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -209,13 +209,6 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Dying-Light-2-settings-options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Select the**VIDEO** tab at the very top. Then make the following changes：
 
 **Window Mode:** Fullscreen  
@@ -223,6 +216,13 @@ Dying Light 2 Stay Human is finally here – taking us to one of the last surviv
 **Vertical Synchronization:** Off
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Video-settings-Dyling-Light-2-1200x701.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now scroll down and make these changes:
 
@@ -235,13 +235,6 @@ Now scroll down and make these changes:
 **Fog Quality:** Low
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/image.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then apply the changes. Press the**Esc** key and click**OK** .
 
@@ -263,6 +256,19 @@ Now scroll down and make these changes:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Dyling-Light-2-enable-accelerated-high-gpu-scheduling.png)
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Navigate to your game’s installation folder. If you’re on Steam, follow the instructions below to locate your game’s installation folder.
 
  (If you’re playing it on Epic Games Launcher, it’s Default: **C:\\Program Files\\Epic Games\\\[Game Name\]** by default. )
@@ -273,6 +279,13 @@ Locate the game’s installation folder on Steam:
 * Under LIBRARY, right-click**Dying Light 2** and select**Manage** **\> Browse local files** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Dying-light-2-browse-local-files.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Then open the files**ph > work > bin > x64** . Click the very top to copy the file path.
 
@@ -292,6 +305,13 @@ Locate the game’s installation folder on Steam:
 
  However, if this doesn’t give you any performance boost, try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Scan your PC for corrupted files
 
  Graphics glitches and other critical issues can occur when your operating system becomes corrupted. Opening programs will be slower and response time will lag. To diagnose the problem you’re having, you should run a full scan on your system.
@@ -305,6 +325,13 @@ Locate the game’s installation folder on Steam:
  3) If Fortect detects any issues on your PC, click**Start Repair** to start the repair process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair-1200x742.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 When the process is complete, restart your PC.
 
@@ -325,5 +352,24 @@ When the process is complete, restart your PC.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-champion-toolkit-10-budget-friendly-caption-extractors/"><u>[Updated] 2024 Approved Champion Toolkit 10 Budget-Friendly Caption Extractors</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-fbs-hot-five-most-captivating-vids/"><u>[Updated] In 2024, FB's Hot Five Most Captivating Vids</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-soundscapes-for-vimeo-a-compreayers-manual/"><u>[Updated] Soundscapes for Vimeo A Compreayer's Manual</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-capturing-beats-studio-mac-basics/"><u>2024 Approved Capturing Beats Studio Mac Basics</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dealing-with-frequent-game-crashes-in-remnant-from-the-ashes-effective-fixes-and-hacks/"><u>Dealing with Frequent Game Crashes in 'Remnant: From the Ashes' – Effective Fixes & Hacks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enduring-fixes-overcoming-the-recurring-glitches-in-cod-modern-warfare/"><u>Enduring Fixes - Overcoming the Recurring Glitches in COD: Modern Warfare</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722982424167-error-code-130-on-steam-heres-how-you-can-easily-resolve-it/"><u>Error Code 130 on Steam? Here's How You Can Easily Resolve It!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-strategies-for-addressing-civic-regulation-exception-mistakes-and-access-denial-in-the-legislation/"><u>Essential Strategies for Addressing Civic Regulation Exception Mistakes and Access Denial in the Legislation</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-iphone-15-pro-max-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On iPhone 15 Pro Max</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-asus-rog-phone-8-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Asus ROG Phone 8 Pro Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-stop-century-age-of-ashes-from-crashing-on-your-pc/"><u>Resolved: How To Stop Century: Age of Ashes From Crashing on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-steps-to-stop-ring-of-elysium-from-freezing/"><u>Resolved: Troubleshooting Steps to Stop Ring of Elysium From Freezing</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-your-windows-11-black-screen-challenge/"><u>Step-by-Step Solutions for Your Windows 11 Black Screen Challenge</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/step-by-step-tutorial-how-to-download-and-transcode-buzzfeed-media-in-various-formats-on-windowsmac-systems/"><u>Step-by-Step Tutorial: How to Download and Transcode BuzzFeed Media in Various Formats on Windows/Mac Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-artful-algorithm-ai-in-video-game-storytelling-and-dialogue-creation/"><u>The Artful Algorithm: AI in Video Game Storytelling and Dialogue Creation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-king-of-fighters-xv-for-seamless-gaming-on-your-pc/"><u>Troubleshooting The King of Fighters XV for Seamless Gaming on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-days-gone-game-crashes/"><u>Ultimate Guide: Resolving 'Days Gone' Game Crashes</u></a></li>
+</ul></div>
 

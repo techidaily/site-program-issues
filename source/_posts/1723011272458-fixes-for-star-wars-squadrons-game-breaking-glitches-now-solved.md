@@ -1,7 +1,7 @@
 ---
 title: "Fixes for Star Wars: Squadrons Game-Breaking Glitches - Now Solved!"
-date: 2024-09-19T17:35:15.662Z
-updated: 2024-09-21T20:54:32.868Z
+date: 2024-09-25T07:44:00.042Z
+updated: 2024-09-28T08:22:03.517Z
 tags:
   - win11
   - win10
@@ -49,6 +49,13 @@ Recently many players reported Star Wars Squadrons crashing on PC when they were
 
 Check if the game runs normally now. If not, move on to the second fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2 – Verify the integrity of your game files
 
  Star Wars Squadrons crashing may be caused by missing or corrupted game files. So an integrity check is necessary at the very start. We’ll show you how to do this both on **[Steam](https://tools.techidaily.com/drivereasy/download/)**  and **[Origin](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -63,9 +70,23 @@ Check if the game runs normally now. If not, move on to the second fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Select the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait for the repair process to finish. Then launch the game to see how it works. If crashing persists, try **[Fix 3](https://tools.techidaily.com/drivereasy/download/)**  to update your GPU driver.
 
@@ -78,6 +99,13 @@ Check if the game runs normally now. If not, move on to the second fix.
 **2)** Select**Star Wars Squadrons** from the list. Then, click the**settings icon** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Relaunch the game after repair finishes. If crashing remains, try the next fix below.
 
@@ -108,13 +136,6 @@ There are mainly two ways you can do the driver update:
 
  If all the device drivers are up-to-date but the crashes don’t stop, there are more methods to try below.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4 – Turn off overlays
 
  If you’re using the overlay feature, that might be the reason for Star Wars Squadrons crashing. You can follow the instruction below to turn it off on **[Steam](https://tools.techidaily.com/drivereasy/download/)**  , **[Origin](https://tools.techidaily.com/drivereasy/download/)**  and **[NVIDIA GeForce Experience](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -125,16 +146,16 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Right-click**Star Wars Squadrons** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Untick**Enable the Steam Overlay while in-game** .
 
@@ -152,22 +173,15 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Untick**Enable Origin In Game for STAR WARS: Squadrons** and click**Save** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### On GeForce Experience
@@ -177,6 +191,13 @@ There are mainly two ways you can do the driver update:
 **2)** Click the**cogwheel icon** in the upper right corner.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/7-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Toggle off**In-Game Overlay** .
 
@@ -194,13 +215,6 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the**Change** button next to Screen Settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-2.jpg)
@@ -214,6 +228,13 @@ There are mainly two ways you can do the driver update:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-4.jpg)
 
  According to your needs, you can also set other options under Advanced Settings to**Low** or**Medium** . After the changes are applied, run the game to check if crashes go away. If not, take a look at the last fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6 – Reinstall the game
 
@@ -238,5 +259,24 @@ There are mainly two ways you can do the driver update:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-cherished-holiday-hits-our-top-10-family-friendly-films/"><u>[New] Cherished Holiday Hits Our Top 10 Family-Friendly Films</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-personalized-whatsapp-tones-on-iphoneandroid-devices/"><u>[New] In 2024, Personalized WhatsApp Tones on iPhone/Android Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-list-top-desktops-for-enthusiasts/"><u>[Updated] A-List Top Desktops for Enthusiasts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-samsung-galaxy-f54-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Samsung Galaxy F54 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-fix-guide-dealing-with-persistent-content-warning-crashes-on-personal-computers/"><u>Easy Fix Guide: Dealing with Persistent Content Warning Crashes on Personal Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-for-call-of-duty-vanguards-notorious-error-5573-explained/"><u>Fix for Call of Duty Vanguard's Notorious Error 5573 Explained</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-errors-troubleshooting-internet-explorer-page-loading-issues/"><u>Fixing Errors: Troubleshooting Internet Explorer Page Loading Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-has-fortnites-fps-fluctuated-with-the-latest-season-8-enhancements/"><u>How Has Fortnite's FPS Fluctuated with the Latest Season 8 Enhancements?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-realme-c33-2023-is-unlocked-by-drfone-android/"><u>How To Check if Your Realme C33 2023 Is Unlocked</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-conquer-the-clutter-learn-bg-erasure-in-figma-designs/"><u>In 2024, Conquer the Clutter Learn BG Erasure in Figma Designs</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-dive-into-the-world-of-cosmetics-launching-a-beauty-channel/"><u>In 2024, Dive Into the World of Cosmetics Launching a Beauty Channel</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-window-woes-with-our-guide-troubleshooting-call-of-duty-wwiis-dark-screens/"><u>Overcome Window Woes with Our Guide: Troubleshooting Call of Duty: WWII's Dark Screens</u></a></li>
+<li><a href="https://win-web3.techidaily.com/simple-steps-converting-mov-files-to-mpeg-format-on-windows-1011/"><u>Simple Steps: Converting MOV Files to MPEG Format on Windows 10/11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-correcting-black-screen-error-in-star-wars-battlefront-ii-gameplay/"><u>Step-by-Step Guide to Correcting Black Screen Error in Star Wars Battlefront II Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007709964-step-by-step-solutions-stop-nioh-2-from-crashing-on-any-device/"><u>Step-by-Step Solutions: Stop Nioh 2 From Crashing on Any Device!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steps-to-ensure-smooth-operation-of-the-thaumature-game-on-personal-computers/"><u>Steps to Ensure Smooth Operation of the Thaumature Game on Personal Computers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-best-25-gratis-creatie-prezentarii-de-diapozitive-software-si-aplicativele-perfecte-pentru-decizii-dumnezei/"><u>The Best 25 Gratis Creație Prezentării De Diapozitive: Software Și Aplicativele Perfecte Pentru Decizii Dumnezei</u></a></li>
+</ul></div>
 

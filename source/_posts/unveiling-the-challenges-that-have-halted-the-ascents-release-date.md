@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Challenges That Have Halted 'The Ascent's Release Date
-date: 2024-09-20T17:27:35.622Z
-updated: 2024-09-21T18:58:54.002Z
+date: 2024-09-23T19:55:12.027Z
+updated: 2024-09-27T21:53:10.476Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ thumbnail: https://thmb.techidaily.com/5ac1fdb72ff5f486734588f1cc91475aa04db1c84
 
  Before we dive into anything advanced, make sure you’ve tried to restart your PC and the game to see if it’s just a one-time random error.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Make sure your PC meets the requirement
 
  If your PC specs aren’t sufficient for The Ascent, it’s very likely that you can’t launch the game. You can refer to the table below for the**minimum requirements for The Ascent** :
@@ -61,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/5ac1fdb72ff5f486734588f1cc91475aa04db1c84
 | **Storage**          | 35 GB available space                                                                                                                         |
 | **Additional Notes** | Recommended specs listed above allow gameplay experience close to 60 FPS on average while using 1080p resolution and overall “High” settings. |
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Run The Ascent as admin
 
  Lacking admin privileges could also be the reason for the launching failure. You can try to run the Steam client or the game executable as administrator. Below we’ll take the Steam client as an example:
@@ -68,6 +82,14 @@ thumbnail: https://thmb.techidaily.com/5ac1fdb72ff5f486734588f1cc91475aa04db1c84
 1. Right-click Steam, then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/right-click-properties.jpg)
 2. Under the**Compatibility** tab, check the box of**Run this program as an administrator** . Click**Apply** then**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-this-program-as-an-administrator.jpg)
 3. The Steam client will launch now. You can run The Ascent to see if it launches now.
 
@@ -83,10 +105,10 @@ thumbnail: https://thmb.techidaily.com/5ac1fdb72ff5f486734588f1cc91475aa04db1c84
  If you’ve tried to run the game as admin but it still won’t launch, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Verify your game files
@@ -97,17 +119,17 @@ thumbnail: https://thmb.techidaily.com/5ac1fdb72ff5f486734588f1cc91475aa04db1c84
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties-1.jpg)
 2. Under**LOCAL FILES** , click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/verify-game-files.jpg)
 3. It’ll take some time for Steam to complete the scan, depending on the game size. If anything is missing or damaged, Steam will fix it for you.
 
  If verifying your game files doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your graphics driver
 
@@ -142,30 +164,9 @@ thumbnail: https://thmb.techidaily.com/5ac1fdb72ff5f486734588f1cc91475aa04db1c84
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties-1.jpg)
 2. Paste**\-dx11** into your**Launch Options** section.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/launch-option-directx-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can now run the game to see if the problem is gone. If it persists, try the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Check your antivirus
 
@@ -190,11 +191,27 @@ thumbnail: https://thmb.techidaily.com/5ac1fdb72ff5f486734588f1cc91475aa04db1c84
 1. In the search bar next to the Start button, type**msconfig** then click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Switch to the**Startup** tab, click**Open Task Manager** .  
  (Windows 7 users: right-click anywhere empty on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
 
@@ -219,6 +236,14 @@ thumbnail: https://thmb.techidaily.com/5ac1fdb72ff5f486734588f1cc91475aa04db1c84
 1. Right-click anywhere empty on your taskbar and click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching the game.
 4. Repeat until you find the startup item that’s conflicting with The Ascent.
@@ -244,5 +269,24 @@ thumbnail: https://thmb.techidaily.com/5ac1fdb72ff5f486734588f1cc91475aa04db1c84
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-mememirror-app-mirror-the-worlds-laughter/"><u>[New] MemeMirror App - Mirror the World's Laughter</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolved-command-and-conquer-4-launch-fail-xbox-error/"><u>[RESOLVED] Command & Conquer 4 Launch Fail - Xbox Error</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-bandicam-or-camtasia-best-recording-and-editing-software/"><u>[Updated] Bandicam or Camtasia Best Recording & Editing Software?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-reveling-in-creativity-the-best-of-filmoras-edits/"><u>[Updated] Reveling in Creativity The Best of Filmora's Edits</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pc4k/"><u>「PC上での4K解像度動画記録術 - 最新トップレコーダー推薦ガイド」</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-meme-manifestation-station/"><u>2024 Approved Meme Manifestation Station</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battle-ready-troubleshooting-dev-error-5573-in-call-of-duty-warzone-for-playstation-and-xbox-users/"><u>Battle Ready: Troubleshooting Dev Error 5573 in Call of Duty Warzone for PlayStation & Xbox Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boosting-your-gaming-adventure-addressing-the-dying-lights-fps-challenges/"><u>Boosting Your Gaming Adventure: Addressing the Dying Light's FPS Challenges</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-resolved-performance-issues-smoother-gameplay-experience/"><u>Cyberpunk 2077 - Resolved Performance Issues: Smoother Gameplay Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-resolving-unplanned-closures-during-play-of-ffxiv-on-personal-computers/"><u>Diagnosing & Resolving Unplanned Closures During Play of FFXIV on Personal Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-troubleshooting-steps-for-unresponsive-rust-programs/"><u>Effective Troubleshooting Steps for Unresponsive Rust Programs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-cod-modern-warfare-gameplay-interruptions-and-stops/"><u>Fixes for Cod: Modern Warfare Gameplay Interruptions & Stops</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-privacy-pitfalls-with-ai-companion-chatgpt-what-you-should-know/"><u>Navigating Privacy Pitfalls with AI Companion, ChatGPT: What You Should Know</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007370935-pc-gamers-rejoice-as-r-type-final-2s-compatibility-problems-are-sorted-ensuring-uninterrupted-gameplay/"><u>PC Gamers Rejoice as R-Type Final 2'S Compatibility Problems Are Sorted, Ensuring Uninterrupted Gameplay!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/restoring-the-bangers-resolving-no-audio-problems-in-fallout-4-for-windows/"><u>Restoring the Bangers: Resolving No Audio Problems in Fallout 4 for Windows</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-printer-connection-get-the-right-canon-mp280-drivers-for-your-windows-11-8-or-7-system/"><u>Seamless Printer Connection: Get the Right Canon MP280 Drivers for Your Windows 11, 8 or 7 System</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-playbook-for-podcast-titling-success-and-50plus-name-suggestions-for-2024/"><u>The Ultimate Playbook for Podcast Titling Success & 50+ Name Suggestions for 2024</u></a></li>
+</ul></div>
 

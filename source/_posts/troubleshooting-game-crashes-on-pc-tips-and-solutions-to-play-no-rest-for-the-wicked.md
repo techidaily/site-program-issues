@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Game Crashes on PC: Tips and Solutions to Play 'No Rest for the Wicked'"
-date: 2024-09-16T18:02:35.015Z
-updated: 2024-09-21T18:11:24.399Z
+date: 2024-09-22T17:56:53.884Z
+updated: 2024-09-27T23:14:09.623Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/0f51979df117bbafdf1571070799e2143d64735bc
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check if you enabled in-game overlay in Discord
 
  Before trying other fixes, open**Discord** to check if you enabled in-game overlay. Here is how to do it:
@@ -45,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/0f51979df117bbafdf1571070799e2143d64735bc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-enable-in-game-overlay-1-1200x714.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
 ### Fix 2: Run Discord as administrator
@@ -54,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/0f51979df117bbafdf1571070799e2143d64735bc
  1) On your desktop,**right-click** the shortcut of **Discord** and then select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
@@ -70,13 +91,6 @@ See if this issue reappears. If not, you have fixed this issue.
  If you’re using a third-party antivirus application on your PC, you may encounter the**Discord overlay** not working issue. Your third-party antivirus application may interfere with**Discord** , so your **Discord overlay** may not run as expected. You can try   **adding your Discord to the whitelist of your third-party antivirus application** .
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Check for software interruption
 
@@ -95,15 +109,22 @@ See if this issue reappears. If not, you have fixed this issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Run your game again to see if this issue persists. If not, you have resolved this problem!
 
@@ -118,16 +139,10 @@ See if this issue reappears. If not, you have fixed this issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
@@ -137,13 +152,6 @@ See if this issue reappears. If not, you have fixed this issue.
  iii.**Double-click** **Discord** to uninstall it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 iv. Restart your PC.
 
@@ -197,5 +205,20 @@ See if this issue reappears. If not, you have fixed this issue!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-visualtwitter-quickly-download-and-share-videos-on-mobile/"><u>[Updated] VisualTwitter Quickly Download and Share Videos on Mobile</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-approaches-to-change-song-speed-on-spotify/"><u>2024 Approved Innovative Approaches to Change Song Speed on Spotify</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077s-input-lag-issue-now-resolved-how-to-play-smoothly/"><u>Cyberpunk 2077'S Input Lag Issue Now Resolved - How to Play Smoothly</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-the-right-video-coding-technique-for-win-os-users/"><u>Deciphering the Right Video Coding Technique for Win OS Users</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/digital-resurrection-breathing-life-into-old-vhs-images/"><u>Digital Resurrection Breathing Life Into Old VHS Images</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-windows-11-and-10-how-to-troubleshoot-and-enable-missing-spatial-audio-features/"><u>Fixing Windows 11 & 10: How to Troubleshoot and Enable Missing Spatial Audio Features</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-6s-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From iPhone 6s?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-navigating-the-world-of-advanced-lut-design/"><u>In 2024, Navigating the World of Advanced LUT Design</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-the-crucial-p310-nvme-ssd-enhanced-performance-on-m2-2280/"><u>In-Depth Review of the Crucial P310 NVMe SSD - Enhanced Performance on M.2 2280</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-troubles-heres-how-to-fix-five-nights-at-freddys-security-breach-crashes/"><u>PC Troubles? Here's How to Fix 'Five Nights at Freddy's: Security Breach Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-pc-issues-troubleshooting-gray-zone-warfare-game-crashes/"><u>Solving PC Issues: Troubleshooting Gray Zone Warfare Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-triumphs-fix-your-discord-app-when-it-just-wont-open-anymore/"><u>Troubleshooting Triumphs: Fix Your Discord App When It Just Won’t Open Anymore</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-solution-for-rainbow-six-siege-pc-players-facing-a-puzzling-black-screen/"><u>Ultimate Solution for Rainbow Six Siege PC Players Facing a Puzzling Black Screen</u></a></li>
+</ul></div>
 

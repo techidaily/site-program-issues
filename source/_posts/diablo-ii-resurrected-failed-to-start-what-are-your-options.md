@@ -1,7 +1,7 @@
 ---
 title: Diablo II Resurrected Failed to Start – What Are Your Options?
-date: 2024-09-18T19:55:30.324Z
-updated: 2024-09-21T19:51:52.466Z
+date: 2024-09-21T09:05:43.171Z
+updated: 2024-09-28T06:27:31.129Z
 tags:
   - win11
   - win10
@@ -83,13 +83,6 @@ If you don’t know how to find your PC specs, take the steps below.
 
  When Starfield or any other game fails to launch, outdated or incompatible graphics drivers can often be a leading cause of the problem. To ensure that your system is equipped with the latest software to support your game’s requirements, enhance performance, and maintain compatibility, you should**update your graphics drivers** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 1: Manually update graphics drivers
 
  You can update your graphics driver by clicking on the link below based on your exact graphics card model. Then find the latest driver, and follow the on-screen instructions to download and install it for your system.
@@ -130,6 +123,13 @@ After driver updates, it’s a good practice to reboot your device.
 
  After the reboot, relaunch Starfield. If it still fails to start, proceed to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Update Windows
 
  To ensure Starfield opens without interruptions, it’s crucial to keep your Windows updated. Windows updates often include bug fixes, make sure your system is compatible with application requirements, and enhance system stability, reducing conflicts that can hinder game launches.
@@ -142,6 +142,13 @@ To download and install the latest Windows updates, take these steps:
 
 ![Windows 11 check for Windows updates](https://images.drivereasy.com/wp-content/uploads/2022/04/win11-Windows-Update-Check-for-updates.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### On Windows 10
 
  Press the**Windows logo + I keys** simultaneously to open Settings. Then go to**Update & Security > Windows Update** .
@@ -149,16 +156,10 @@ To download and install the latest Windows updates, take these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/windows-update-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Disable antivirus and firewall
@@ -175,15 +176,15 @@ To temporarily disable the Windows Firewall:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-disable-windows-firewall.png)
 3. Click **Turn Windows Defender Firewall on or off** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-windows-features-on-or-off.png)
 4. Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network, and Public network. Then click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-firewall.png)
 
@@ -192,19 +193,6 @@ To temporarily turn off your antivirus software:
 1. In the system tray, look for your antivirus.
 2. Right-click it and find an option to disable or pause protection.
 3. Then launch Starfield and see if it works.
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Verify the integrity of game files (Steam users)
 
@@ -232,6 +220,19 @@ Follow the steps below to do this.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/Starfield-on-the-game-launcher-1200x675.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For Xbox users, you should also check if the services are up and running. Sometimes the issue is not on your end.
 
  To do this, simply[go to this page](https://support.xbox.com/en-US/xbox-live-status) . If it says**Limited** or**Major outage** , maybe you need to patiently wait for the repair.
@@ -239,10 +240,23 @@ Follow the steps below to do this.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/Xbox-status.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Uninstall and reinstall the game
@@ -268,6 +282,13 @@ Follow the steps below to do this.
  When you see a message that says “Verification 100% complete”, type**exit** and press Enter.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/use-System-File-Checker-to-repair-corrupted-files.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  However, this tool may not help you with a 100% guarantee. Sometimes it fails to fix an underlying problem. If that’s your case, you can try **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , a powerful tool that specializes in Windows repair.
 
@@ -298,5 +319,26 @@ Below is how you can benefit from the use of Fortect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-screenmasterreview-latest-editions-performance-insights/"><u>[New] 2024 Approved ScreenMasterReview Latest Edition's Performance Insights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-syma-x5c-your-first-drones-best-friend/"><u>[New] The Ultimate Guide to Syma X5C – Your First Drone's Best Friend</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-quiet-browsing-of-fb-narratives/"><u>2024 Approved Quiet Browsing of FB Narratives</u></a></li>
+<li><a href="https://win-dash.techidaily.com/amd-radeon-hd-7870-driver-updates-for-optimal-performance-on-windows-11-step-by-step-guide/"><u>AMD Radeon HD 7870 Driver Updates for Optimal Performance on Windows 11: Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-resolving-early-stage-explosions-in-atomic-heart-systems-at-boot-up/"><u>Diagnosing and Resolving Early-Stage Explosions in Atomic Heart Systems at Boot Up</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-solutions-handling-continuous-pc-freezes-during-fuser-use/"><u>Essential Solutions: Handling Continuous PC Freezes During Fuser Use</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-getting-past-the-launch-bug-in-call-of-duty-modern-warfare-2/"><u>Expert Tips For Getting Past The Launch Bug In Call Of Duty: Modern Warfare #2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/gtfo-crashes-demystified-a-users-handbook-to-stability-solutions/"><u>GTFO Crashes Demystified: A User's Handbook to Stability Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-rapid-download-hp-stream-driver-collection/"><u>Hassle-Free Rapid Download: HP Stream Driver Collection</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-continuous-crashes-of-minecraft-dungeons-game-on-personal-computers/"><u>How to Resolve Continuous Crashes of Minecraft Dungeons Game on Personal Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-solving-recurrent-downtime-in-world-of-tanks-blitz-gaming/"><u>Mastering Stability: Solving Recurrent Downtime in World of Tanks Blitz Gaming</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/perfecting-your-audio-presence-in-video-creations-for-2024/"><u>Perfecting Your Audio Presence in Video Creations for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722982556902-problems-with-launching-dragon-age-inquisition-solutions-inside/"><u>Problems with Launching Dragon Age Inquisition - Solutions Inside!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722996262439-steam-vr-detection-issues-6-fixes-you-need-to-try/"><u>Steam VR Detection Issues: 6 Fixes You Need to Try!</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-high-memory-consumption-in-edges-webview2/"><u>Tackling High Memory Consumption in Edge's WebView2</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-ultimate-ig-coverage-toolkit-apple-and-android-included-for-2024/"><u>The Ultimate IG Coverage Toolkit, Apple & Android Included for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tired-of-titanfall-2-crashes-discover-easy-ways-to-keep-your-game-running-smoothly/"><u>Tired of Titanfall 2 Crashes? Discover Easy Ways to Keep Your Game Running Smoothly</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-windows-sounds-tips-for-resolving-unwanted-noise-interruptions/"><u>Troubleshooting Windows Sounds: Tips for Resolving Unwanted Noise Interruptions</u></a></li>
+</ul></div>
 

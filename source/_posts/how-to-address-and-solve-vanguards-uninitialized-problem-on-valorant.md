@@ -1,7 +1,7 @@
 ---
 title: How to Address and Solve Vanguard's Uninitialized Problem on Valorant
-date: 2024-09-18T17:41:13.821Z
-updated: 2024-09-21T17:30:34.476Z
+date: 2024-09-22T23:52:00.766Z
+updated: 2024-09-27T23:48:52.710Z
 tags:
   - win11
   - win10
@@ -65,8 +65,22 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
 3. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  As you know Public network is an unsafe territory, do not allow any third-party application of unknown origin on any public network in your computer settings.
 
@@ -86,6 +100,14 @@ If your game isn’t on the list, follow these steps:
 1. In the Windows search box, type **cmd** . Under **Command Prompt** , select **Run as administrator** .  
 _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)_
 2. Click **OK** to confirm your action.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Once the Command Prompt window is open, type the following 5 command lines (press **Enter**  after entering each command line):  
 
 **`netsh winsock reset`**  
@@ -97,26 +119,12 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2021/07/reset.png)
 4. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3\. Change your DNS server
 
 1. On your keyboard, press the **Windows + R** key at the same time to open the Run dialog box.
 2. Type in **ncpa.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa.jpg)
 3. Right-click your current network connection, and select **Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
@@ -125,10 +133,10 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Preferred DNS server: 8.8.8.8**  
@@ -136,6 +144,13 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 ![change DNS server](https://images.drivereasy.com/wp-content/uploads/2021/07/following-DNS.jpg)
 6. Click **OK** to apply.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4\. Update your device drivers
 
@@ -159,10 +174,10 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 4. Once your drivers are up to date, restart your computer for the changes to take full effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5\. Use a VPN
@@ -201,5 +216,20 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-navigating-youtubes-creative-commons-for-content-sharing/"><u>[New] Navigating YouTube's Creative Commons for Content Sharing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-hero5-black-in-action-essential-shooting-advice-for-amazing-results/"><u>[Updated] Hero5 Black in Action Essential Shooting Advice for Amazing Results</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-deciphering-the-best-youtube-video-trackers-for-success/"><u>[Updated] In 2024, Deciphering the Best YouTube Video Trackers for Success</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-pathway-to-perfect-zoom-communication-unlocking-effective-online-interactions/"><u>[Updated] The Pathway to Perfect ZOOM Communication Unlocking Effective Online Interactions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-oppo-a59-5g-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Oppo A59 5G</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-instructions-how-to-turn-on-and-configure-hyper-v-in-windows-11/"><u>Expert Instructions: How to Turn On and Configure Hyper-V in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/game-recovery-methods-for-pc-gamers-fixing-corrupt-files-with-ease/"><u>Game Recovery Methods for PC Gamers: Fixing Corrupt Files with Ease</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-itel-a60s-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Itel A60s to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-resolving-issues-with-madden-nfl-22-get-the-game-running-smoothly/"><u>Quick Solutions: Resolving Issues with Madden NFL 22 - Get the Game Running Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-game-crashes-with-these-proven-fixes-for-star-wars-squadrons/"><u>Say Goodbye to Game Crashes with These Proven Fixes for Star Wars: Squadrons</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/terraria-disconnect-no-more-implementing-effective-techniques-with-these-6-proven-fixes/"><u>Terraria Disconnect No More: Implementing Effective Techniques with These 6 Proven Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-cyberpunk-2077s-gameplay-lag-and-freezing-problems/"><u>Troubleshooting Tips for Cyberpunk 2077'S Gameplay Lag and Freezing Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-wsappx-solutions-for-high-memory-and-processor-demand/"><u>Understanding WSAPPX: Solutions for High Memory and Processor Demand</u></a></li>
+</ul></div>
 

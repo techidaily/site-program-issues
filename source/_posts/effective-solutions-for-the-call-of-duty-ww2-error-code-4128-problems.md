@@ -1,7 +1,7 @@
 ---
 title: "Effective Solutions for the 'Call of Duty: WW2' Error Code 4128 Problems"
-date: 2024-09-19T20:33:30.309Z
-updated: 2024-09-21T17:46:18.274Z
+date: 2024-09-22T16:34:39.475Z
+updated: 2024-09-28T01:01:10.300Z
 tags:
   - win11
   - win10
@@ -36,6 +36,19 @@ thumbnail: https://thmb.techidaily.com/c74303d4c07843e34b64af558ccf2dd47acf27f12
 8. [**Add Ashen as an exception to your 3rd party antivirus software**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets the system requirements for Ashen
 
@@ -93,6 +106,13 @@ thumbnail: https://thmb.techidaily.com/c74303d4c07843e34b64af558ccf2dd47acf27f12
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Repair the game
 
  Ashen may crash if its game files are corrupted. In this case, you need to verify the integrity of the game files. You can follow the steps below to repair the game:
@@ -104,14 +124,14 @@ thumbnail: https://thmb.techidaily.com/c74303d4c07843e34b64af558ccf2dd47acf27f12
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 3. Launch Ashen when the verifying process completed.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  See if you can play the game without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Install the latest Ashen patch
 
@@ -122,6 +142,13 @@ thumbnail: https://thmb.techidaily.com/c74303d4c07843e34b64af558ccf2dd47acf27f12
  Run Ashen again to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 5, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Perform a Windows Update
 
@@ -160,13 +187,6 @@ thumbnail: https://thmb.techidaily.com/c74303d4c07843e34b64af558ccf2dd47acf27f12
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Optimize your graphics card settings
 
  If the specs of your PC is not good enough, you can also try optimizing your graphics card settings. You can follow the steps below to modifying your graphics card settings.
@@ -183,32 +203,18 @@ Select your graphics card manufacturer first:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
@@ -229,16 +235,38 @@ Select your graphics card manufacturer first:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View Control Panel by **Large icons** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **Intel Graphics Settings**  to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click **3D** to open the 3D settings.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click **Scan** to add the game to the application list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
@@ -272,5 +300,19 @@ Select your graphics card manufacturer first:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-creating-chuckles-with-simple-images/"><u>[New] Creating Chuckles with Simple Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-insight-into-final-cut-pro-editing/"><u>[New] In-Depth Insight Into Final Cut Pro Editing</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-exclusive-access-to-facebook-beats/"><u>2024 Approved Exclusive Access to Facebook Beats</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-0x803f8001-no-more-a-complete-fix-for-the-minecraft-launcher-on-windows-1110/"><u>Error 0X803F8001 No More - A Complete Fix for the Minecraft Launcher on Windows 11/10</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-why-a-walmartplus-membership-could-change-your-life/"><u>Evaluating Why a Walmart+ Membership Could Change Your Life</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-discord-video-chat-screen-share-audio-not-working-correctly/"><u>Fix Your Discord Video Chat - Screen Share Audio Not Working Correctly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-issue-why-rocket-league-keeps-failing-to-start/"><u>Fixing the Issue: Why Rocket League Keeps Failing to Start</u></a></li>
+<li><a href="https://program-issues.techidaily.com/half-life-alyx-pc-optimization-guide-fixes-for-tackling-frame-drops-and-jittery-playback/"><u>Half-Life: Alyx PC Optimization Guide – Fixes for Tackling Frame Drops and Jittery Playback</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-xiaomi-redmi-k70e-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Xiaomi Redmi K70E? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastery-through-art-the-ultimate-list-of-free-mac-drawing-apps/"><u>Mastery Through Art The Ultimate List of FREE Mac Drawing Apps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-launch-problems-a-guide-to-getting-robocop-rogue-city-running-on-windows-and-mac/"><u>Overcoming Launch Problems: A Guide to Getting RoboCop: Rogue City Running on Windows & Mac</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/s-for-snagging-youtube-dialogues-for-2024/"><u>Tricks for Snagging YouTube Dialogues for 2024</u></a></li>
+</ul></div>
 

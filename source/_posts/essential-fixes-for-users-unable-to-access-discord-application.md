@@ -1,7 +1,7 @@
 ---
 title: Essential Fixes for Users Unable to Access Discord Application
-date: 2024-09-17T20:42:03.421Z
-updated: 2024-09-21T16:37:18.042Z
+date: 2024-09-23T23:49:20.716Z
+updated: 2024-09-27T21:34:59.615Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/6152b7c969d91f2eaae0be3b9bf8b8ec86f6a4683
 5. **[Disable your antivirus program](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run Dauntless on the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify game integrity
 
  You may encounter this issue if some files of your game installation are corrupt. If this is the case, you should verify the integrity of game files to fix the issue.
@@ -44,6 +51,13 @@ Here is how to verify the integrity of Dauntless:
  2) On the right pane, locate Dauntless, then click **the three dots icon next to** Dauntless and click **VERIFY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Once completed, click to run Dauntless, then check if it plays properly. If yes, then congrats! If the issue still remains, please try **Fix 2** , below.
 
@@ -73,15 +87,22 @@ Here is how to verify the integrity of Dauntless:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also do it for free if you like, but it’s partly manual.
 
@@ -90,13 +111,6 @@ Here is how to verify the integrity of Dauntless:
 5) Launch the game again to see if runs smoothly without the error. If yes, then great and enjoy the game! If Dauntless still crashes, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Close the background programs
 
@@ -126,14 +140,14 @@ Here is how to verify the integrity of Dauntless:
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
-![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
@@ -148,13 +162,6 @@ Here is how to verify the integrity of Dauntless:
  5) In **Select the preferred graphics processor for this program** , select **High-performance NVIDIA processor** . Then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-24.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6) Launch Dauntless and check to see if the crashing issue is fixed.
 
@@ -177,5 +184,20 @@ Here is how to verify the integrity of Dauntless:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/days-gone-performance-tuning-avoiding-crashes-for-a-smoother-2024-experience/"><u>'Days Gone' Performance Tuning: Avoiding Crashes for a Smoother 2024 Experience</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-constructive-cuts-streamlined-approaches-for-length-adjustments-on-vimeo-for-2024/"><u>[New] Constructive Cuts Streamlined Approaches for Length Adjustments on Vimeo for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-instagram-follower-deletion-identification/"><u>[New] In 2024, Instagram Follower Deletion Identification</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximum-definition-boost-expert-video-upscaler/"><u>[New] Maximum Definition Boost Expert Video Upscaler</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-windows-11-gamers-ultimate-playbook-top-5-record-techniques-for-2024/"><u>[New] Windows 11 Gamers' Ultimate Playbook Top 5 Record Techniques for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-expert-advice-on-efficiently-locating-luminous-pexels/"><u>2024 Approved Expert Advice on Efficiently Locating Luminous Pexels</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-revolutionize-your-instagram-content-with-these-4-loopy-techniques/"><u>2024 Approved Revolutionize Your Instagram Content with These 4 Loopy Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-and-fixing-steam-cloud-desync-errors-step-by-step-instructions/"><u>Bypassing and Fixing Steam Cloud Desync Errors: Step-by-Step Instructions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-methods-to-solve-the-libxml2dll-is-absent-or-undetected-error-problem/"><u>Effective Methods to Solve the Libxml2.dll Is Absent or Undetected Error Problem</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effortless-troubleshooting-guide-for-malfunctioning-mac-cameras/"><u>Effortless Troubleshooting Guide for Malfunctioning Mac Cameras</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-league-of-legends-internet-disconnection-errors-solved/"><u>How to Overcome League of Legends Internet Disconnection Errors (Solved)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-guide-to-aspect-ratios-for-youtube-images/"><u>In 2024, The Ultimate Guide to Aspect Ratios for YouTube Images</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-to-reactivate-a-frozen-internet-explorer-browser/"><u>Quick Fixes to Reactivate a Frozen Internet Explorer Browser</u></a></li>
+</ul></div>
 

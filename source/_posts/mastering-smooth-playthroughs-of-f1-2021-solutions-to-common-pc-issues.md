@@ -1,7 +1,7 @@
 ---
 title: "Mastering Smooth Playthroughs of F1 2021: Solutions to Common PC Issues"
-date: 2024-09-20T18:51:34.784Z
-updated: 2024-09-21T22:58:36.578Z
+date: 2024-09-26T19:32:02.999Z
+updated: 2024-09-27T19:05:06.915Z
 tags:
   - win11
   - win10
@@ -63,6 +63,13 @@ To make sure that you have the latest available updates installed:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
@@ -72,10 +79,10 @@ To make sure that you have the latest available updates installed:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Update graphics card driver
@@ -127,28 +134,28 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-25.png)
 2. Select **Virus & threat protection** from the left side pane, then select **Manage settings** under Virus & threat protection settings.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-26.png)
 3. Scroll down a bit to select **Add or remove exclusions** under the**Exclusions** section.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-27.png)
 4. Click **Add an exclusion** , then select **File** , and browse to the folder where you save the Avatar: Frontiers of Pandora execution file.  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/image-29.png)
 5. There, you’ve successfully added**Avatar: Frontiers of Pandora** to the Windows Security exclusion list.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart Avatar: Frontiers of Pandora and see if its FPS still drops and stutters. If so, please move on.
 
@@ -169,15 +176,22 @@ To verify the game’s files on Epic Games Launcher:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-28.png)
 2. Click **Verify** to start verifying the game files.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-29.png)
 3. Wait for validation to complete. (It may take a while to verify all your files.)
 4. When the validation is done, run your Avatar: Frontiers of Pandora again to see if the problems are fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5.2 Ubisoft Connect
@@ -194,6 +208,13 @@ To verify the game’s files on Ubisoft Connect:
 If this still doesn’t help, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Modify Registry Editor
 
@@ -215,16 +236,16 @@ If this still doesn’t help, please move on.
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-51.png)
 7. Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch Avatar: Frontiers of Pandora again to see if the above changes help to fix the FPS dropping and stuttering problems. If not, please restore your computer to the previous state with the restore point you created in step 1, then move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Close resource-hungry programs
 
@@ -259,5 +280,20 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-insightful-guide-on-the-best-gopro-headsets-6-and-beyond-for-2024/"><u>[Updated] Insightful Guide on The Best GoPro Headsets #6 & Beyond for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-pro-photo-framegers-to-polish-pictures-online-for-2024/"><u>[Updated] Pro Photo Framegers to Polish Pictures Online for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/a-players-handbook-to-fixing-rainbow-six-connections-gone-wrong/"><u>A Player's Handbook to Fixing Rainbow Six Connections Gone Wrong</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/abbyy-erzielt-im-dritten-jahr-in-folge-ein-zwei-stelliges-jahresumsatzwachstum/"><u>ABBYY Erzielt Im Dritten Jahr In Folge Ein Zwei-Stelliges Jahresumsatzwachstum</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-outriders-frames-per-second-effective-strategies-for-smoother-gaming/"><u>Boost Outriders' Frames per Second: Effective Strategies for Smoother Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/complete-guide-to-prevent-and-resolve-pc-instability-for-horizon-forbidden-west/"><u>Complete Guide to Prevent and Resolve PC Instability for 'Horizon Forbidden West'</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-insight-on-sovol-sv08-reviving-classic-voron-performance/"><u>Expert Insight on Sovol SV08 - Reviving Classic Voron Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-access-group-policy-editor-gpeditmsc-on-windows-home-systems/"><u>How to Access Group Policy Editor (gpedit.msc) on Windows Home Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improve-your-gaming-experience-steps-to-reduce-stutter-and-increase-fps-in-valorant/"><u>Improve Your Gaming Experience: Steps to Reduce Stutter & Increase FPS in Valorant</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/keyboard-glow-back-on-expert-tips-for-reactivating-macwindows-led-lights/"><u>Keyboard Glow Back On? Expert Tips for Reactivating Mac/Windows LED Lights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-technical-glitches-comprehensive-guide-to-fixing-dev-error-5573-in-warzone-pc-and-console/"><u>Overcome Technical Glitches: Comprehensive Guide to Fixing Dev Error 5573 in Warzone (PC & Console)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-best-value-in-cloud-pricing-a-comprehensive-list/"><u>The Best Value in Cloud Pricing A Comprehensive List</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-lava-agni-2-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Lava Agni 2 5G</u></a></li>
+</ul></div>
 

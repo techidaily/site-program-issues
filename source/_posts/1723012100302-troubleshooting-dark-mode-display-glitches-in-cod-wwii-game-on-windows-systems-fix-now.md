@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Dark Mode Display Glitches in COD: WWII Game on Windows Systems – Fix Now!"
-date: 2024-09-19T18:12:10.183Z
-updated: 2024-09-21T19:31:33.528Z
+date: 2024-09-25T20:51:15.893Z
+updated: 2024-09-28T09:56:27.296Z
 tags:
   - win11
   - win10
@@ -88,13 +88,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5af0deb80ba.jpg)
@@ -121,6 +114,13 @@ _modem_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _wireless router_
 
  2) Wait**60 seconds** for your modem (and your wireless router) to cool off.
@@ -130,6 +130,13 @@ _wireless router_
  3) Launch Fallout 76 to see if it connects to the servers properly. If yes, then you’ve solved the issue. If it’s still no joy, please try**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 5: Flush your DNS and Renew your IP**
 
@@ -141,24 +148,31 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
  3) Type**the following command line** and press **Enter**  on your keyboard.**ipconfig /flushdns**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap9-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### To renew your IP
 
  1) On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
@@ -167,6 +181,13 @@ _wireless router_
 **ipconfig /release**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Type**the following command line** and press **Enter**  on your keyboard.
 
@@ -179,13 +200,6 @@ _wireless router_
  Check to see if the Fallout 76 connecting issue still occurs. If it is still not fixed, please try**Fix 6** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Switch the DNS server
 
@@ -201,6 +215,13 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-611.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In the pop-up window, click **Change adapter settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-612.png)
@@ -210,15 +231,22 @@ Here is how to switch the DNS server to Google Public DNS:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-613.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Double-click **Internet Protocol Version 4(TCP/IPv4)**  to view its properties.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap21-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Select **Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.
 
@@ -231,13 +259,6 @@ Here is how to switch the DNS server to Google Public DNS:
  Problem still not yet solved? Please try**Fix 7** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Is Fallout 76 down?
 
@@ -264,5 +285,22 @@ Here is how to switch the DNS server to Google Public DNS:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-step-by-step-strategies-to-thrive-on-reddit/"><u>[New] 2024 Approved Step-by-Step Strategies to Thrive on Reddit</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-optimal-webcams-enhancing-audio-experience-for-2024/"><u>[Updated] Optimal Webcams Enhancing Audio Experience for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/affordable-thor-vs-darth-vader-desktop-screen-by-china-dazzling-deal-at-just-139/"><u>Affordable 'Thor vs Darth Vader' Desktop Screen by China - Dazzling Deal at Just $139!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/avoid-these-pitfalls-to-ensure-successful-valheim-launches-common-fixes-and-updates/"><u>Avoid These Pitfalls to Ensure Successful Valheim Launches - Common Fixes and Updates</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-your-fallout-3-game-running-smoothly-again-pro-tips-from-2024/"><u>Get Your Fallout ^3 Game Running Smoothly Again - Pro Tips From 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-tackle-and-resolve-the-directx-mishaps-plaguing-fifa-20-gamers/"><u>How to Tackle and Resolve the DirectX Mishaps Plaguing FIFA 20 Gamers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-tecno-spark-20-proplus-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Tecno Spark 20 Pro+ Without PUK Codes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-elevate-video-engagement-top-7-free-thumbnail-design-tools/"><u>In 2024, Elevate Video Engagement Top 7 Free Thumbnail Design Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-secrets-attracting-youtube-affiliates-with-minimal-channel-size/"><u>In 2024, Secrets Attracting YouTube Affiliates with Minimal Channel Size</u></a></li>
+<li><a href="https://program-issues.techidaily.com/increase-your-playtime-by-addressing-fortnites-memory-overflow-problem/"><u>Increase Your Playtime by Addressing Fortnite's Memory Overflow Problem</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/mastering-gadgets-with-toms-equipment-digest-a-deep-dive/"><u>Mastering Gadgets with Tom's Equipment Digest: A Deep Dive</u></a></li>
+<li><a href="https://program-issues.techidaily.com/modern-techniques-to-tackle-non-responsive-rust-applications-pro-tips/"><u>Modern Techniques to Tackle Non-Responsive Rust Applications - Pro Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/netflix-issues-resolved-on-xbox-one-streaming-smoothly-again/"><u>Netflix Issues Resolved on Xbox One - Streaming Smoothly Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-silent-streams-on-twitch-solutions-included/"><u>Resolved: Fixes for Silent Streams on Twitch - Solutions Included</u></a></li>
+</ul></div>
 

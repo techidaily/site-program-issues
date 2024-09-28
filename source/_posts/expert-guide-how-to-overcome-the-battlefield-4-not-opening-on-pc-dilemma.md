@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: How to Overcome the 'Battlefield 4 Not Opening on PC' Dilemma"
-date: 2024-09-19T20:57:00.902Z
-updated: 2024-09-21T22:25:47.452Z
+date: 2024-09-23T09:47:04.371Z
+updated: 2024-09-28T06:22:56.816Z
 tags:
   - win11
   - win10
@@ -45,6 +45,13 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 
  Relaunch BFV to check if the not launching problem goes away. If not, take a look at more fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2 – Switch to DirectX 11
 
  Many players report Battlefield 5 won’t launch when DX12 is enabled. To see if that’s the case, you can run the game on DirectX 11 via the following steps.
@@ -57,11 +64,26 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 4. Right-click the**PROSAVE\_profile** file and click**Open with** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-7.jpg)
 5. Select**Notepad** or other similar editing tools.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Press**Ctrl** and**F** on your keyboard to open the search box. Then, type**Dx12Enabled** and press**Enter** .
 7. Once you’ve located Dx12Enabled, change the value from**1** to**0** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-3.jpg)
 
  Is the game working normally now? Or is it still unplayable? If the latter, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -80,6 +102,13 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-7.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-8.jpg)
 
@@ -97,14 +126,14 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-2.jpg)
 3. Navigate to the**Origin In-Game** tab, and toggle off**Enable Origin In-Game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Relaunch the game to test this method. If it doesn’t help, continue to the next one below.
 
@@ -120,10 +149,10 @@ To update your graphics driver, here are two safe ways for you:
 4. On your keyboard, press the**Windows logo key** and**E** at the same time to invoke File Explorer. Then, select**Document** from the left pane.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Rename your**Battlefield V** folder to Battlefield V backup or anything else.
@@ -140,26 +169,13 @@ To update your graphics driver, here are two safe ways for you:
 3. Right-click the**Battlefield 5** tile from the list, and click**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After the process finishes, you can reinstall the game from Origin again, and it should be working the right way as expected.
 
@@ -184,5 +200,24 @@ To update your graphics driver, here are two safe ways for you:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-becoming-snapstreak-savvy-tips-for-uninterrupted-connection-for-2024/"><u>[New] Becoming Snapstreak Savvy Tips for Uninterrupted Connection for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-iphone-lens-exploration-key-angles-to-elevate-your-photo-game/"><u>[New] IPhone Lens Exploration Key Angles to Elevate Your Photo Game</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-thorough-examination-capturing-life-in-full-with-gear-360/"><u>[Updated] 2024 Approved Thorough Examination Capturing Life in Full with Gear 360</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/beyond-humor-exploring-chatgpts-ability-to-generate-funny-content/"><u>Beyond Humor: Exploring ChatGPT's Ability To Generate Funny Content</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-addressing-and-fixing-your-league-of-legends-slowdown/"><u>Expert Advice: Addressing and Fixing Your League of Legends Slowdown</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-pc-issues-how-to-stop-escape-from-tarkov-from-continuously-crashing/"><u>Fixing PC Issues: How To Stop Escape From Tarkov From Continuously Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-notorious-pc-roblox-error-code-277-top-strategies-of-2024/"><u>Fixing the Notorious PC Roblox Error Code 277 - Top Strategies of 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-successfully-burn-dvds-on-windows/"><u>How to Successfully Burn DVDs on Windows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-oneplus-nord-3-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your OnePlus Nord 3 5G Phone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-disruptions-effective-fixes-for-the-football-manager-2eba7b6f-e8c5-45ba-8dbb-3fca57aefbf6html2019-crashing-game-step-by-step-guide/"><u>No More Disruptions: Effective Fixes for the Football Manager 2eba7b6f-e8c5-45ba-8dbb-3fca57aefbf6.html2019 Crashing Game - Step by Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722996979616-overcome-ui-error-2-groovy-black-ops-cold-war-27711-is-fixed/"><u>Overcome UI Error 2 Groovy, Black Ops Cold War: 27711 Is Fixed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-invisible-blemishes-of-ai-text/"><u>The Invisible Blemishes of AI Text</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-addressing-pc-crashes-while-playing-football-manager/"><u>Troubleshooting Guide: Addressing PC Crashes While Playing Football Manager</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-a-smooth-halo-3-experience-without-any-pc-interruptions/"><u>Troubleshooting Tips for a Smooth Halo 3 Experience without Any PC Interruptions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-and-resolving-mir4-malfunctions-on-personal-computers/"><u>Understanding and Resolving Mir4 Malfunctions on Personal Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-wsappx-tips-for-resolving-excessive-memory-and-processor-consumption/"><u>Understanding WSAPPX: Tips for Resolving Excessive Memory & Processor Consumption</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-auto-gpt-and-how-does-it-differ-from-chatgpt/"><u>What Is Auto-GPT, and How Does It Differ From ChatGPT?</u></a></li>
+</ul></div>
 

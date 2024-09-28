@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Endless Load: Resolving Anthem's Infinity Loop Issue"
-date: 2024-09-17T18:01:16.563Z
-updated: 2024-09-21T21:31:06.045Z
+date: 2024-09-25T18:34:35.758Z
+updated: 2024-09-28T10:00:16.586Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 4. **[Turn on off VSync](https://tools.techidaily.com/drivereasy/download/)**
 5. **[perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Verify integrity of game files
 
  One common cause of FUSER crashing issue is the corrupted game files. If you’re not sure if the game crashes are triggered by the faulty game files, just verify integrity of game files. By doing that, you can repair the game.
@@ -45,6 +52,13 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 1. Launch**Epic Games Launcher** and go to your**Library** .
 2. click on the**three dots** under the**FUSER** game tile and select**Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
@@ -64,6 +78,14 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -79,16 +101,10 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
  Run FUSER again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4: Turn off VSync
@@ -115,27 +131,27 @@ You can try turning off VSync and see if this issue persists.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
@@ -169,5 +185,21 @@ You can try turning off VSync and see if this issue persists.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-steam-pro-controllers-on-switch/"><u>[New] In 2024, The Ultimate Guide to Steam Pro Controllers on Switch</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-lens-legends-library-your-query-guide/"><u>2024 Approved Lens Legends' Library Your Query Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722987437454-ark-survival-ascended-keeps-crashing-on-pc-9-fixes/"><u>ARK: Survival Ascended Keeps Crashing on PC – 9 Fixes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/conquer-iphone-audiophiles-playlist-tips-for-2024/"><u>Conquer iPhone Audiophile's Playlist Tips for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diablo-immortal-continuous-crash-fix-for-players-your-ultimate-resource-guide/"><u>Diablo Immortal Continuous Crash Fix for Players - Your Ultimate Resource Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/evil-genius-2-fixed-restoring-audio-how-to-solve-the-silent-game/"><u>Evil Genius 2 Fixed: Restoring Audio - How to Solve the Silent Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fast-solutions-unstuck-from-shader-tuning-in-star-wars-battlefront-ii/"><u>Fast Solutions: Unstuck From Shader Tuning in Star Wars Battlefront II</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-2022-speed-skating-spectacle/"><u>In 2024, 2022 Speed Skating Spectacle</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-5-ways-to-track-apple-iphone-15-plus-without-app-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways to Track Apple iPhone 15 Plus without App | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-value-capture-affordable-cam-options/"><u>In 2024, Value Capture Affordable Cam Options</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-wireless-methods-to-mirrorapple-iphone-15-pro-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>In 2024, Wireless Methods to MirrorApple iPhone 15 Pro & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-mystery-what-to-do-when-grand-theft-auto-5-just-wont-launch/"><u>Solving the Mystery: What to Do When Grand Theft Auto 5 Just Won’t Launch</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-visual-journey-of-iphone-photos-with-leading-lines/"><u>The Visual Journey of iPhone Photos with Leading Lines</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlock-access-to-fortnite-swift-solutions-for-common-sign-in-failures/"><u>Unlock Access to Fortnite: Swift Solutions for Common Sign-In Failures</u></a></li>
+</ul></div>
 

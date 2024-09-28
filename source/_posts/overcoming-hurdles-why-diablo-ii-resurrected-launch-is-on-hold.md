@@ -1,7 +1,7 @@
 ---
 title: Overcoming Hurdles – Why Diablo II Resurrected Launch Is on Hold
-date: 2024-09-17T21:30:13.996Z
-updated: 2024-09-21T19:34:08.826Z
+date: 2024-09-26T07:11:56.682Z
+updated: 2024-09-28T05:05:46.430Z
 tags:
   - win11
   - win10
@@ -70,13 +70,6 @@ If this method doesn’t help, check out your graphics driver.
 
  Restart your computer for the changes to take effect and test if the issue persists. If yes, don’t frustrate, and move on to the following fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4 – Run the game as an administrator
 
  Some games may require an administrator-level to run, or else it will crash at startup or during the gameplay. If that’s the cause, running Diablo 2 Resurrected as an administrator should resolve the permission issue. Here is how:
@@ -85,6 +78,13 @@ If this method doesn’t help, check out your graphics driver.
 2. Right-click the Diablo 2 Resurrected executable (.exe) file and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and**Disable fullscreen optimizations** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
 4. Click**OK** to save the changes.  
@@ -101,22 +101,29 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-and-repair-corrupt-game-files.jpg)
 3. Click**Begin Scan** to process.  
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
 
- Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
-
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
 
 ### Fix 5 – Turn off overlays
 
@@ -128,13 +135,20 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-1.jpg)
 2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **On GeForce Experience**
@@ -143,20 +157,13 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
 2. Toggle off**In-game overlay** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After all the overlay feature is disabled, your game should return to normal.
@@ -181,5 +188,24 @@ If this method doesn’t help, check out your graphics driver.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-elevating-your-visual-storytelling-techniques-and-strategies-for-shooting-compelling-slow-motion-content-for-instagram-for-2024/"><u>[New] Elevating Your Visual Storytelling Techniques and Strategies for Shooting Compelling Slow Motion Content for Instagram for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-exclusive-insights-into-top-8-facebook-film-extractors/"><u>[New] In 2024, Exclusive Insights Into Top 8 Facebook Film Extractors</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-cut-to-the-chase-quick-background-blur-tricks-for-everyday-meets/"><u>[Updated] In 2024, Cut to the Chase Quick Background Blur Tricks for Everyday Meets</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-prime-video-the-twitterspheres-favorite-shows-of-23/"><u>[Updated] Prime Video The Twittersphere's #Favorite Shows of '23</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-huawei-nova-y91-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Huawei Nova Y91 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/apex-legends-online-connection-guide-expert-advice-on-getting-you-back-in-the-game/"><u>Apex Legends Online Connection Guide - Expert Advice on Getting You Back in the Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-issue-of-outlook-not-launching-properly/"><u>How to Resolve the Issue of Outlook Not Launching Properly</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-avoid-server-disconnection-woes-in-escape-from-tarkov-with-these-proven-strategies/"><u>Mastering Stability: Avoid Server Disconnection Woes in Escape From Tarkov with These Proven Strategies</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/optimize-your-titanfall-2-experience-quick-remedies-for-frame-drops/"><u>Optimize Your Titanfall 2 Experience | Quick Remedies for Frame Drops</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/past-paints-legal-freedoms-for-classics-for-2024/"><u>Past Paints Legal Freedoms for Classics for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-far-cry-6-sudden-shutdowns-on-windows/"><u>Resolved: Fixes for Far Cry 6 Sudden Shutdowns on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-for-correcting-error-code-103003-in-arma-3-operation-husar/"><u>Solutions for Correcting Error Code 103003 in Arma 3: Operation Husar</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-for-corsair-icue-connectivity-problems-in-windows-10-and-11/"><u>Solutions for Corsair iCUE Connectivity Problems in Windows 10 and 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-guide-to-overcoming-incompatibility-messages-in-rainbow-six-extraction/"><u>The Ultimate Guide to Overcoming Incompatibility Messages in Rainbow Six Extraction</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-6-solutions-to-resolve-baldurs-gate-game-lag-and-crashes/"><u>Top 6 Solutions to Resolve Baldur's Gate Game Lag and Crashes</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/transform-ideas-into-engaging-movies-using-youtube-editor/"><u>Transform Ideas Into Engaging Movies Using YouTube Editor</u></a></li>
+</ul></div>
 

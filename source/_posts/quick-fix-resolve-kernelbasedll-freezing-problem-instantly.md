@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix: Resolve KernelBase.dll Freezing Problem Instantly"
-date: 2024-09-18T20:56:27.516Z
-updated: 2024-09-21T22:20:34.166Z
+date: 2024-09-26T09:38:48.789Z
+updated: 2024-09-27T16:32:26.821Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
  Before you continue to the following fixes, please make sure your PC specs meet the **[minimum requirements](https://www.footballmanager.com/games/football-manager-2021)**  to play Football Manager 2021.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Update your graphics driver
 
  If you’re using the wrong graphics driver or it’s outdated, it’s very likely that Football Manager 2021 will crash and malfunction. To run FM 21 smoothly, you should always keep your graphics driver up to date.
@@ -45,6 +52,13 @@ Football Manager 2021 is by far one of the most popular management simulator gam
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -57,6 +71,13 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 1. Launch Steam and navigate to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
@@ -77,6 +98,13 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
 If this method doesn’t help, go ahead with the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4 – Delete the Preferences and Caches folder
 
  According to Sports Interactive, Football Manager 2021 crashing may be caused by the custom data, and the very solution is to remove the preferences and caches folder. Don’t worry as this will not affect your game progress.
@@ -87,10 +115,10 @@ If this method doesn’t help, go ahead with the next fix below.
 3. Navigate to the following locations:  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
@@ -106,19 +134,6 @@ So does the crash go away now? If not, there is the last fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
 
@@ -126,13 +141,6 @@ So does the crash go away now? If not, there is the last fix to try.
 4. Type**–config very\_low** in the text field and click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
 
@@ -159,5 +167,23 @@ So does the crash go away now? If not, there is the last fix to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-navigating-video-upload-procedures-on-chrome-devices/"><u>[New] 2024 Approved Navigating Video Upload Procedures on Chrome Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-speaking-and-visualizing-in-powerpoint/"><u>[Updated] 2024 Approved The Ultimate Guide to Speaking & Visualizing in PowerPoint</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-leveraging-yt-playlist-features-for-site-enhancement/"><u>[Updated] Leveraging YT Playlist Features for Site Enhancement</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-superior-vector-file-polishing/"><u>[Updated] Superior Vector File Polishing</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-review-of-the-smart-photo-editor-a-look-into-anthropics-latest-software/"><u>Comprehensive Review of the Smart Photo Editor: A Look Into Anthropics' Latest Software</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/explore-how-the-microsoft-surface-laptop-n4-sets-a-new-benchmark-in-computing/"><u>Explore How the Microsoft Surface Laptop N°4 Sets a New Benchmark in Computing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-discord-crash-issues-in-just-5-easy-steps/"><u>Fix Your Discord Crash Issues in Just 5 Easy Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-diagnose-and-repair-malfunctions-in-gamer-oriented-utility-centers-like-raijinteks-afterburner/"><u>How to Diagnose & Repair Malfunctions in Gamer-Oriented Utility Centers Like Raijintek's Afterburner</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfecting-your-storytelling-chapter-division-in-youtube-videos/"><u>In 2024, Perfecting Your Storytelling Chapter Division in YouTube Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-rocket-league-stability-proven-fixes-to-keep-it-running-smoothly-in-2s24/"><u>Master Rocket League Stability: Proven Fixes to Keep It Running Smoothly in 2S24</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-for-helldivers-ii-boot-failure-and-dark-startup/"><u>Step-by-Step Solution for Helldivers II Boot Failure and Dark Startup</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/transform-dull-game-captures-into-bright-shows-with-obs-tricks/"><u>Transform Dull Game Captures Into Bright Shows with OBS Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-starting-problems-in-grand-theft-auto-v/"><u>Troubleshooting Guide: Starting Problems in Grand Theft Auto V</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-live-server-connection-failure-alerts/"><u>Troubleshooting Tips for 'Live Server Connection Failure' Alerts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fix-guide-resolving-biomutant-game-crashes/"><u>Ultimate Fix Guide: Resolving Biomutant Game Crashes</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-wmv-video-splitting-made-easy-top-5-free-tools/"><u>Updated 2024 Approved WMV Video Splitting Made Easy Top 5 Free Tools</u></a></li>
+</ul></div>
 

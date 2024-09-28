@@ -1,7 +1,7 @@
 ---
 title: How to Stop Your PC From Crashing While Playing Euro Truck Simulator 2
-date: 2024-09-17T19:06:25.120Z
-updated: 2024-09-21T20:38:31.945Z
+date: 2024-09-21T21:35:15.578Z
+updated: 2024-09-28T07:33:24.194Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 1: Disable your microphone for your Forza Horizon 3**
 
  If you’ve enabled your microphone for Forza Horizon 3, it may be the cause of the crash issue. Just disable it to see whether the game will keep crashing or not. Here is how to do it:
@@ -58,11 +65,25 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap15-1.png)
 2. Select **Forza Horizon 3**  and click **Advanced options** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap18.png)
 3. Click **Reset**  to reset your **Forza Horizon 3** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap20.png)
 4. Launch the game and play it again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If it won’t crash, you’ve already fixed this annoying issue! If not, there are more solutions below for you to try.
 
@@ -75,18 +96,33 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
 2. Select **Storage**  and click**This PC (C:)** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap22.png)
 3. Click **Temporary files** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap23.png)
 4. Make sure you’ve checked **Temporary files, Temporary Internet Files**  and **Delivery Optimization Files** . Then click **Remove files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap25.png)
 5. Restart your Windows system. Launch and play the game to see if it still keeps crash.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If not, congratulations! You’ve resolve this issue. If this annoying issue persists, just try the next fix below.
 
@@ -99,6 +135,13 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
  If this fix doesn’t work for you, maybe this issue is caused by your outdated graphics driver  . Try the fix below to update your graphics drivers to the latest version.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 5: Update your graphics driver to the latest version**
 
@@ -114,13 +157,6 @@ thumbnail: https://thmb.techidaily.com/98a12915cb3d2cb54c3468dae6fd64cafa98af714
 3. Click **Update**  next to your graphics card to automatically download the correct version of this driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All**  ).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap3-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you have any issue with**Driver Easy** , please contact Driver Easy’s support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) for advice. You should attach the URL of this article so they can help you better.
 
@@ -146,23 +182,9 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Restart** your PC and run your Forza Horizon 3 to check whether the problem reappears. If not, you need to open the **System Configuration**  window again to enable services and applications **one by one**  until you find the problematic software. After enabling each services, you need to  restart your PC to apply the changes.
   
  Once you find out the problematic software that make the game keep crashing, you need to **uninstall**  it in order to resolve this  issue.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 7: Update your Windows system to the latest version**
 
@@ -176,6 +198,13 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
  If this fix works, your game won’t keep crashing again. If not, you may need to reinstall the game to resolve the problem.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 8: Reinstall your Forza Horizon 3**
 
  If all the fixes above still don’t work, it’s time to uninstall your Forza Horizon 3 and reinstall it. Here is how to do it:
@@ -188,13 +217,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 3. Open the**Store** app. In the search bar, type**Forza Horizon 3**  and click the**Search** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap32.png)
 4. Select the game you purchased before to start installing the game. Launch the game to see if it will still keep crashing. Hopefully, you will be able to resolve this annoying issue by reinstalling the game.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, you can enjoy the game! Please leave your comment below if you have any questions!
 
@@ -214,5 +236,16 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://data-wizards.techidaily.com/combatting-screen-warping-following-win10-shift/"><u>Combatting Screen Warping Following Win10 Shift</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-on-repairing-your-connection-dealing-with-minecraft-unable-to-connect/"><u>Expert Advice on Repairing Your Connection - Dealing with 'Minecraft Unable to Connect'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-strategies-boost-your-frames-in-escape-from-tarkov-a-professionals-top-6-fixes/"><u>Expert Strategies: Boost Your Frames in Escape From Tarkov – A Professional's Top 6 Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-resolving-black-screen-glitches-on-your-pc-while-playing-rainbow-six-siege/"><u>Expert Tips for Resolving Black Screen Glitches on Your PC While Playing Rainbow Six Siege</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-your-data-effortlessly-with-plastic-3d-holograms-encoding-up-to-576-bits-safely/"><u>Secure Your Data Effortlessly with Plastic 3D Holograms, Encoding Up To 576 Bits Safely</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/sharpen-your-videoleap-videos-from-afar/"><u>Sharpen Your Videoleap Videos From Afar</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-game-crashes-effective-solutions-for-stability-in-back-4-blood/"><u>Solving Game Crashes: Effective Solutions for Stability in 'Back 4 Blood'</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-fcpx-countdown-made-easy-3-simple-steps-to-get-started/"><u>Updated In 2024, FCPX Countdown Made Easy 3 Simple Steps to Get Started</u></a></li>
+</ul></div>
 

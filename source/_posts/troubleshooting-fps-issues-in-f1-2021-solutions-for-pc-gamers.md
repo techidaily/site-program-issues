@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting FPS Issues in F1 2021: Solutions for PC Gamers"
-date: 2024-09-14T21:26:24.419Z
-updated: 2024-09-21T21:53:32.928Z
+date: 2024-09-23T19:14:31.412Z
+updated: 2024-09-27T16:32:52.354Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 * [Fix 8: Disable fullscreen optimizations](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 9: Try Phasmophobia beta version](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your computer
 
  If you haven’t done this yet, give it a shot. A simple restart will reset your software and desktop environment and can often fix software glitches like this.
@@ -45,9 +52,23 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Under the**Installed Files** tab, click**Verify integrity of game files** .
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart the game after the process is complete.
 
@@ -64,19 +85,6 @@ Game crashing issues might happen when your game files are corrupted.
 3) Under the**LOCAL FILES** tab, click**Browse** ….
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Delete everything except these:
 
@@ -109,6 +117,13 @@ If the game still crashes, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -131,10 +146,10 @@ If the crash still occurs, go ahead with the next fix.
  If you still experience crashing issues, then the issue is not with your game settings. You can change the settings back and try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Launch the game with DirectX 10
@@ -153,16 +168,16 @@ If the crash still occurs, go ahead with the next fix.
 
 If Phasmophobia crashing issues persist, try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Stop overlocking your GPU/CPU
 
  If you’ve manually overclocked your GPU or CPU, revert it to its default GPU/CPU clock. And if you are using overclocking software, such as MSI Afterburner, please also disable the software when running the game.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Disable fullscreen optimizations
 
@@ -173,19 +188,6 @@ If Phasmophobia crashing issues persist, try the next fix below.
  2) Under the Compatibility tab, check the box next to**Disable fullscreen optimizations** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_14-53-17.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Apply > OK** .
 
@@ -205,13 +207,6 @@ If the problem still exists, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_15-19-31.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Hopefully, this article has solved your problem! Please feel free to leave a comment if you have any questions or suggestions.
 
 * [game crash](https://tools.techidaily.com/drivereasy/download/)
@@ -229,5 +224,23 @@ If the problem still exists, try the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/apex-legends-troubleshooting-resolving-error-code-leaf-issue/"><u>Apex Legends Troubleshooting: Resolving Error Code Leaf Issue</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/b550-xts-voice-technology-precision-and-acoustic-serenity/"><u>B550-XT's Voice Technology: Precision & Acoustic Serenity</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-html-display-issues-in-windows-11-email-client/"><u>Correcting HTML Display Issues in Windows 11 Email Client</u></a></li>
+<li><a href="https://program-issues.techidaily.com/definitive-how-to-for-repairing-steams-error-code-130-issue/"><u>Definitive How-To for Repairing Steam's Error Code 130 Issue</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-of-brother-hl-l2340dw-driver-for-windows-pcs-download-now/"><u>Easy Installation of Brother HL-L2340DW Driver for Windows PCs: Download Now</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-productivity-hacks-top-40-keyboard-shortcuts-for-editors-for-2024/"><u>FCPX Productivity Hacks Top 40 Keyboard Shortcuts for Editors for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/guia-simple-transformar-tu-archivo-pdf-en-formato-ebook-epub/"><u>Guía Simple: Transformar Tu Archivo PDF en Formato eBook ePub</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-diagnose-and-repair-your-kurtzpel-software-malfunction-successfully/"><u>How To Diagnose and Repair Your KurtzPel Software Malfunction Successfully</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-noise-issues-in-dying-light-for-an-enhanced-gaming-experience/"><u>How to Overcome Noise Issues in Dying Light for an Enhanced Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improve-gameplay-fluidity-six-strategies-to-eliminate-lag-in-hogwarts-legacy/"><u>Improve Gameplay Fluidity - Six Strategies to Eliminate Lag in Hogwarts Legacy</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-itel-a60s-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Itel A60s to Protect Your Individual Information</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-p55-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel P55 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-gta-5-startup-issues-solutions-and-troubleshooting/"><u>Resolving GTA 5 Startup Issues: Solutions and Troubleshooting</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-on-downloading-and-installing-latest-amd-radeon-hd-7870-drivers-for-windows-11/"><u>Step-by-Step Tutorial on Downloading and Installing Latest AMD Radeon HD 7870 Drivers for Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-get-cyberpunk-2ebyun-launched-and-running-smoothly/"><u>Troubleshooting Guide: How to Get Cyberpunk 2Ebyun Launched and Running Smoothly</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-vignette-magic-the-best-free-and-paid-apps-for-iphone-and-android/"><u>Updated 2024 Approved Vignette Magic The Best Free and Paid Apps for iPhone and Android</u></a></li>
+</ul></div>
 

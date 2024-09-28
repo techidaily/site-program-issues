@@ -1,7 +1,7 @@
 ---
 title: "No More Halting: Overcoming Constant Crashing in Halo Infinite on PC"
-date: 2024-09-20T17:29:42.179Z
-updated: 2024-09-21T18:20:35.361Z
+date: 2024-09-23T06:04:35.520Z
+updated: 2024-09-27T22:31:19.954Z
 tags:
   - win11
   - win10
@@ -30,9 +30,23 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 5. [**Scan and repair game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Disable Discord overlay](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Unplug peripherals
 
  If you have a gamepad or controller connected to the computer, it’s likely they’ve interfered with Diablo Immortal and triggered the crash. You could simply **unplug those peripherals like the wheel, controller or other USB devices** to see if the problem gets fixed. If not, check out the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Launch the game in windowed mode
 
@@ -48,13 +62,6 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
  Now that you’ve applied the changes, relaunch the game to test the issue. If the crashes persist, move on to the third fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3 – Rename the game folder
 
  It’s hard to explain why but renaming the Diablo Immortal folder is a simple trick that helped many users to run the game properly. To do this, follow the steps:
@@ -64,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 3. Open the**Diablo Immortal Launcher** directly from the folder.
 
  Check if the game works normally now. If not, revert the folder’s name and try the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Update your graphics driver
 
@@ -82,20 +96,13 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/amd-6800xt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When the update finishes, reboot your computer for the changes to take effect. The game should be running more smoothly with better performance. If not, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair game files
 
@@ -121,10 +128,10 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Close Discord and relaunch your game. If the crashes occur again, you may need to contact Blizzard support for specific assistance.
@@ -149,5 +156,24 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-discovering-the-excellent-10-yoga-programs-for-better-wellness/"><u>[New] Discovering the Excellent 10 Yoga Programs for Better Wellness</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exclusive-webcast-winners-for-2024/"><u>[Updated] Exclusive Webcast Winners for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-time-efficient-methods-for-recording-vimeo-videos/"><u>[Updated] In 2024, Time-Efficient Methods for Recording Vimeo Videos</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/end-incessant-print-service-pauses-in-win-systems/"><u>End Incessant Print Service Pauses in Win Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-a-lag-free-gaming-experience-on-your-pc-whats-new-in-2eer/"><u>Expert Tips for a Lag-Free Gaming Experience on Your PC - What's New in 2Eer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-on-fixing-screen-flicker-problems-in-the-latest-battle-royale-game/"><u>Expert Tips on Fixing Screen Flicker Problems in the Latest Battle Royale Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-resolving-camera-connectivity-problems-on-your-device-running-snap-apps/"><u>Guide: Resolving Camera Connectivity Problems on Your Device Running Snap Apps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-amazon-prime-videos-social-stardom-on-twitter/"><u>In 2024, Amazon Prime Video's Social Stardom on Twitter</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-poco-x5-pro-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Poco X5 Pro and Browser | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-the-latency-problem-in-outriders/"><u>Resolved: Fixing the Latency Problem in Outriders</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-itunes-connection-issues-with-iphone-on-microsofts-latest-os-windows-11/"><u>Resolving iTunes Connection Issues with iPhone on Microsoft's Latest OS, Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723007598441-smooth-gaming-ahead-fixing-bloodhunts-pc-performance-problems/"><u>Smooth Gaming Ahead: Fixing Bloodhunt's PC Performance Problems.</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/teamwork-in-video-production-boosting-channel-size-for-2024/"><u>Teamwork in Video Production, Boosting Channel Size for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008092755-tips-and-tricks-for-a-smooth-experience-with-tales-of-arise-no-more-crashes/"><u>Tips & Tricks for a Smooth Experience with Tales of Arise – No More Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-resolving-launch-problems-for-outriders-on-pc/"><u>Ultimate Guide: Resolving Launch Problems for Outriders on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/update-no-news-on-the-diablo-immortal-pc-debut-heres-why/"><u>Update: No News on the Diablo Immortal PC Debut - Here's Why</u></a></li>
+</ul></div>
 
