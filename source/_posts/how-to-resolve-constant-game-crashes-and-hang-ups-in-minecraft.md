@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Constant Game Crashes and Hang-Ups in Minecraft
-date: 2024-09-21T17:32:19.506Z
-updated: 2024-09-28T01:27:18.631Z
+date: 2024-09-27T01:18:27.857Z
+updated: 2024-10-03T02:06:40.601Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/228e79977939cec81e9b9a3337281ae057b8c1535
 6. [**Disable peripherals**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Check the launcher log](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall Assassin’s Creed Valhalla](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
 
@@ -80,6 +73,13 @@ thumbnail: https://thmb.techidaily.com/228e79977939cec81e9b9a3337281ae057b8c1535
 3. Select **Verify files** . Then wait for the checking to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now you can launch Assassin’s Creed Valhalla and check if it crashes again.
 
  If verifying game files didn’t help your case, simply check out the next method.
@@ -94,20 +94,27 @@ You can use these steps to check for Windows updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click **Check for updates** . Windows will automatically download and install all the available updates. This might take up to an hour depending on your Internet speed.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In some cases, you might need to check several times to get all the updates. Simply repeat these steps until it prompts**You’re up to date** when you click**Check for updates** .
 
  Once you’ve fully updated your system, restart your PC and check if Assassin’s Creed Valhalla becomes stable.
 
 If the crash happens again, you can take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -135,21 +142,14 @@ If the crash happens again, you can take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -171,13 +171,6 @@ If the crash happens again, you can take a look at the next fix.
 
  If this trick failed to solve your problem, you can move on to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Disable peripherals
 
  To some pro-gamers, a controller can be a whole lot more comfortable than a mouse and keyboard. While peripherals surely add more fun to games, there have been reports that they can also have compatibility issues with new titles. So if you’re using peripherals (e.g. controllers) in Assassin’s Creed Valhalla, try**returning to the classic mouse and keyboard bundle** and see if it helps.
@@ -187,6 +180,13 @@ If the crash happens again, you can take a look at the next fix.
 ### Fix 7: Check the launcher log
 
  If you’re a tech-savvy player, one effective way to troubleshoot is to check the**launcher\_log.txt** after crashing. The default location to find your log files is:**C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\logs** . In the file named**launcher\_log.txt** , you should see what happened exactly. Check if the crash involves certain game files. If yes, delete them and run a**Scan and Repair** to re-download the latest files.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Assassin’s Creed Valhalla
 
@@ -211,18 +211,20 @@ If the crash happens again, you can take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-syncing-to-success-unveiling-youtubes-musical-shortcuts/"><u>[New] Syncing to Success Unveiling YouTube's Musical Shortcuts</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-deciphering-the-twitter-archive-a-beginners-tutorial/"><u>[Updated] 2024 Approved Deciphering the Twitter Archive A Beginner's Tutorial</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-addressed-discrepancy-in-shorts-showcase/"><u>[Updated] In 2024, Addressed Discrepancy in Shorts Showcase</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-pro-video-essentials-the-finest-portable-laptop-brands/"><u>[Updated] Pro Video Essentials The Finest Portable Laptop Brands</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-rapid-route-to-reclaimed-reddit-articles/"><u>[Updated] Rapid Route to Reclaimed Reddit Articles</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-cutting-edge-techniques-for-3d-text-illustration/"><u>2024 Approved Cutting-Edge Techniques for 3D Text Illustration</u></a></li>
-<li><a href="https://program-issues.techidaily.com/addressing-and-correcting-frequent-failures-of-the-lunar-software-on-windows-based-systems/"><u>Addressing and Correcting Frequent Failures of the Lunar Software on Windows-Based Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/assassins-creed-valhalla-resolved-pc-performance-hiccups-and-smooth-playback-tips/"><u>Assassin's Creed Valhalla - Resolved PC Performance Hiccups and Smooth Playback Tips</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/exploring-the-evolution-the-disappearance-of-episodic-gaming/"><u>Exploring the Evolution: The Disappearance of Episodic Gaming</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-stop-the-constant-crashing-in-age-of-empires-iv-on-your-computer/"><u>Fixes & Solutions: Stop the Constant Crashing in Age of Empires IV on Your Computer</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-online-conversion-from-mp3-to-aiff-by-movavi/"><u>Free Online Conversion From MP3 to AIFF by Movavi</u></a></li>
-<li><a href="https://program-issues.techidaily.com/outriders-graphics-improved-resolving-the-issue-of-fuzzy-images/"><u>Outriders Graphics Improved: Resolving the Issue of Fuzzy Images</u></a></li>
-<li><a href="https://program-issues.techidaily.com/starcraft-2-stability-fixes-preventing-game-crashes-on-personal-computers/"><u>StarCraft 2 Stability Fixes: Preventing Game Crashes on Personal Computers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-list-of-affordable-licensed-game-music-websites/"><u>[New] List of Affordable, Licensed Game Music Websites</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-enhancing-video-and-image-quality-with-ai-expansion-stabilization-conversion-editing-and-colorizing-solutions/"><u>1. Enhancing Video & Image Quality with AI: Expansion, Stabilization, Conversion, Editing, and Colorizing Solutions</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-infinix-note-30-vip-racing-edition-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Infinix Note 30 VIP Racing Edition? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722986075919-black-screen-dilemma-solutions-that-work/"><u>Black Screen Dilemma - Solutions that Work!</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/efficient-image-capturing-made-simple-the-best-pc-snipers-listed/"><u>Efficient Image Capturing Made Simple The Best PC Snipers Listed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enjoy-gaming-without-interruptions-patch-update-resolves-total-war-warhammer-iii-crashes-on-windows-platforms/"><u>Enjoy Gaming Without Interruptions: Patch Update Resolves 'Total War: Warhammer III' Crashes on Windows Platforms</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/find-and-download-compatible-hp-wifi-drivers-for-windows-computers/"><u>Find and Download Compatible HP WiFi Drivers for Windows Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/identifying-factors-for-fluctuating-frames-per-second-fps-issues/"><u>Identifying Factors for Fluctuating Frames Per Second (FPS) Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-shadowplay-hiccups-effortless-recording-tips-for-windows-users/"><u>Overcome ShadowPlay Hiccups - Effortless Recording Tips for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-resolving-discords-js-errors-with-ease/"><u>Quick Solutions: Resolving Discord's JS Errors with Ease</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/snapchat-reactivation-strategies-regain-control-over-your-digital-friendships-today/"><u>Snapchat Reactivation Strategies: Regain Control Over Your Digital Friendships Today!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-problem-of-non-working-steamvr-in-no-time/"><u>Solving the Problem of Non-Working SteamVR in No Time!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-prevent-fall-guys-from-failure-at-startup/"><u>Step-by-Step Guide to Prevent Fall Guys From Failure at Startup</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tp-link-av2cuity-2000-reviewed-speedy-wireless-alternative-that-could-use-a-makeover/"><u>TP-Link AV2cuity 2000 Reviewed: Speedy Wireless Alternative that Could Use a Makeover</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-iphone-xr-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking iPhone XR i Do? Get Answers here | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Serious Sam 4 Crashing & Stuttering on PC"
-date: 2024-09-26T09:44:06.574Z
-updated: 2024-09-27T23:54:15.846Z
+date: 2024-09-29T11:32:33.341Z
+updated: 2024-10-03T05:32:59.897Z
 tags:
   - win11
   - win10
@@ -36,6 +36,19 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 6. **[Change the power plan of your PC](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Check if your PC meets the minimum hardware requirements
 
@@ -89,13 +102,6 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap379.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3\. Click **Update** next to your graphics card to automatically download the correct version of this driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All**
  . You get **full support** and a **30-day money back** guarantee).
 
@@ -105,18 +111,18 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Install the latest game patch
 
  Bluehole (PUBG developer) will release game patches to fix bugs. If you haven’t installed the latest game patch yet, you may encounter the PUBG stuttering issue. Check if there is any  update from Steam or the official website and install the latest game patch to resolve the PUBG stuttering issue.
 
  After you installed the latest game patch, run PUBG to check if this issue reappears. If not, you’ve fixed this issue.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Modify the graphics settings of your PUBG
 
@@ -126,30 +132,24 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap382-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2\. In the **ADVANCED SETTINGS** , set the **Overall Quality to the lowest**  and click **APPLY**  to save the settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap389-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run the game again to see if the PUBG stuttering issue persists. This this annoying issue remains, try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Change the power plan of your PC
@@ -164,13 +164,6 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap385.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3\. Type **advanced** in the search box in the upper-right corner and then click **View advanced system settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap386.jpg)
@@ -178,6 +171,13 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
  4\. In the pop-up window, click **Settings…**  in the **Performance**  section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap387-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5\. Select **Adjust for best performance**  and click **OK** .
 
@@ -205,24 +205,24 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-revolutionary-software-evolving-the-way-we-record-games/"><u>[New] Revolutionary Software Evolving the Way We Record Games</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-enhance-engagement-with-these-4-looping-video-techniques/"><u>[Updated] Enhance Engagement with These 4 Looping Video Techniques</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-premier-videography-instruments/"><u>2024 Approved Premier Videography Instruments</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/dimming-dynamics-understated-audio-alteration-in-garageband/"><u>Dimming Dynamics Understated Audio Alteration in Garageband</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elden-ring-optimization-guide-6-rapid-remedies-to-resolve-fps-fluctuations-and-hitches/"><u>Elden Ring Optimization Guide: 6 Rapid Remedies to Resolve FPS Fluctuations & Hitches!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-guide-resolving-cve-2024-6-exception-access-errors/"><u>Expert Guide: Resolving CVE-2024-6 Exception Access Errors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-crashing-in-helldivers-2-on-windows-expert-advice/"><u>How to Fix Crashing in Helldivers 2 on Windows: Expert Advice</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-approach-breaking-down-videos-into-chapters-for-youtube/"><u>In 2024, Innovative Approach Breaking Down Videos Into Chapters for YouTube</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-taking-the-plunge-a-beginners-guide-to-metaverse-memes-and-gags/"><u>In 2024, Taking the Plunge A Beginner's Guide to Metaverse Memes and Gags</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-connection-fixes-in-terraria-top-n-proven-strategies/"><u>Mastering Connection Fixes in Terraria - Top N Proven Strategies</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/newly-updated-set-of-chat-starters-for-podcast-success-for-2024/"><u>Newly Updated Set of Chat Starters for Podcast Success for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/resolving-an-alone-earpiece-dilemma/"><u>Resolving an Alone Earpiece Dilemma</u></a></li>
-<li><a href="https://program-issues.techidaily.com/speed-up-chrome-now-efficient-ways-to-optimize-your-browser-performance/"><u>Speed Up Chrome Now: Efficient Ways to Optimize Your Browser Performance</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steam-wont-see-my-controller-heres-the-quick-fix-for-windows-users/"><u>Steam Won't See My Controller? Here's the Quick Fix for Windows Users</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-oneplus-12-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in OnePlus 12 for Streaming | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-and-overcome-league-of-legends-crashes-with-ease/"><u>Troubleshoot and Overcome League of Legends Crashes with Ease</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-how-to-stop-madden-nfl-21-from-exiting-unexpectedly-on-pc/"><u>Troubleshooting Tips: How to Stop Madden NFL 21 From Exiting Unexpectedly on PC</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-realme-c53s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Realme C53s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://program-issues.techidaily.com/warcraft-iii-reforged-crashes-fixed-comprehensive-guide-to-fixing-issues-on-pc/"><u>Warcraft III: Reforged Crashes Fixed – Comprehensive Guide to Fixing Issues on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/disco-elysium-resolving-and-preventing-crashes-for-a-seamless-gameplay-experience-on-pc/"><u>'Disco Elysium': Resolving and Preventing Crashes for a Seamless Gameplay Experience on PC</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-expanding-your-audience-stream-successfully-across-30plus-outlets/"><u>[New] 2024 Approved Expanding Your Audience Stream Successfully Across 30+ Outlets</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-basicwin10grabber-free-software-download/"><u>[New] BasicWin10Grabber - Free Software Download</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-7-easy-steps-for-a-subscriber-surge-on-youtube-for-2024/"><u>[Updated] 7 Easy Steps for a Subscriber Surge on YouTube for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-blackout-essential-strategies-to-restore-your-steam-gameplay/"><u>Beat the Blackout: Essential Strategies to Restore Your Steam Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-vanguard-npc-bug-0x00001338-elimination-guide-restore-your-pc-gaming-experience-now/"><u>Call of Duty Vanguard NPC Bug (0X00001338) Elimination Guide: Restore Your PC Gaming Experience Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeat-fortnites-performance-hiccups-solving-vram-issues-quickly/"><u>Defeat Fortnite's Performance Hiccups: Solving VRAM Issues Quickly</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabling-apple-iphone-15-pro-max-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling Apple iPhone 15 Pro Max Parental Restrictions With/Without Password</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-for-fixing-persistent-lags-and-freezes-during-deathloop-sessions-on-your-gaming-console-or-pc/"><u>Expert Advice for Fixing Persistent Lags and Freezes During Deathloop Sessions on Your Gaming Console or PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-youtube-videos-with-audio-but-no-visuals-a-guide-for-chrome-and-firefox-users/"><u>Fix YouTube Videos with Audio but No Visuals: A Guide for Chrome & Firefox Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-infinix-hot-30i-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Infinix Hot 30i Through Google Earth?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-step-by-step-strategies-for-superior-film-production-using-movie-maker-in-windows-8/"><u>In 2024, Step-by-Step Strategies for Superior Film Production Using Movie Maker in Windows 8</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-guide-to-iphones-album-orchestration-and-cloud-storage-sync/"><u>In 2024, The Complete Guide to iPhone's Album Orchestration and Cloud Storage Sync</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-unleash-the-potential-of-video-marketing-on-facebook/"><u>In 2024, Unleash the Potential of Video Marketing on Facebook</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigating-through-elgatos-latest-stream-deck-options/"><u>Navigating Through Elgato's Latest Stream Deck Options</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-crashes-in-diablo-ii-resurrected-solutions-revealed/"><u>Say Goodbye to Crashes in Diablo II: Resurrected - Solutions Revealed!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-when-msi-afterburner-fails-to-detect-gpus-under-windows-1110/"><u>Troubleshooting Tips: When MSI Afterburner Fails to Detect GPUs Under Windows 11/10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/untangle-your-fifa-19-gameplay-with-easy-fixes-for-the-notorious-directx-error/"><u>Untangle Your FIFA 19 Gameplay with Easy Fixes for the Notorious DirectX Error</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-huawei-mate-60-rs-ultimate-design-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Huawei Mate 60 RS Ultimate Design on Windows?</u></a></li>
 </ul></div>
 

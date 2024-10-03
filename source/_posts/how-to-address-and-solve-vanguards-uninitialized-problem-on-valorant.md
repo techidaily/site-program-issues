@@ -1,7 +1,7 @@
 ---
 title: How to Address and Solve Vanguard's Uninitialized Problem on Valorant
-date: 2024-09-22T23:52:00.766Z
-updated: 2024-09-27T23:48:52.710Z
+date: 2024-09-26T05:28:31.423Z
+updated: 2024-10-02T22:55:29.200Z
 tags:
   - win11
   - win10
@@ -52,6 +52,13 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1\. Allow your game to run through Windows Firewall
 
  Check for any firewall and antivirus restrictions that may hinder your connection. As reported by some gamers, turning off firewall restrictions and uninstalling antivirus software worked for them immediately.
@@ -66,21 +73,14 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 3. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As you know Public network is an unsafe territory, do not allow any third-party application of unknown origin on any public network in your computer settings.
 
@@ -101,13 +101,6 @@ If your game isn’t on the list, follow these steps:
 _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)_
 2. Click **OK** to confirm your action.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Once the Command Prompt window is open, type the following 5 command lines (press **Enter**  after entering each command line):  
 
 **`netsh winsock reset`**  
@@ -119,6 +112,19 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2021/07/reset.png)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3\. Change your DNS server
 
 1. On your keyboard, press the **Windows + R** key at the same time to open the Run dialog box.
@@ -126,18 +132,24 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa.jpg)
 3. Right-click your current network connection, and select **Properties** .  
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
 
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Preferred DNS server: 8.8.8.8**  
 **Alternate DNS server: 8.8.4.4**  
@@ -146,10 +158,17 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 6. Click **OK** to apply.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4\. Update your device drivers
@@ -172,13 +191,6 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-network-driver-2.jpg)
 4. Once your drivers are up to date, restart your computer for the changes to take full effect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5\. Use a VPN
 
@@ -218,18 +230,24 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-navigating-youtubes-creative-commons-for-content-sharing/"><u>[New] Navigating YouTube's Creative Commons for Content Sharing</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-hero5-black-in-action-essential-shooting-advice-for-amazing-results/"><u>[Updated] Hero5 Black in Action Essential Shooting Advice for Amazing Results</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-deciphering-the-best-youtube-video-trackers-for-success/"><u>[Updated] In 2024, Deciphering the Best YouTube Video Trackers for Success</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-the-pathway-to-perfect-zoom-communication-unlocking-effective-online-interactions/"><u>[Updated] The Pathway to Perfect ZOOM Communication Unlocking Effective Online Interactions</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-oppo-a59-5g-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Oppo A59 5G</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-instructions-how-to-turn-on-and-configure-hyper-v-in-windows-11/"><u>Expert Instructions: How to Turn On and Configure Hyper-V in Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/game-recovery-methods-for-pc-gamers-fixing-corrupt-files-with-ease/"><u>Game Recovery Methods for PC Gamers: Fixing Corrupt Files with Ease</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-itel-a60s-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Itel A60s to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-solutions-resolving-issues-with-madden-nfl-22-get-the-game-running-smoothly/"><u>Quick Solutions: Resolving Issues with Madden NFL 22 - Get the Game Running Smoothly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/say-goodbye-to-game-crashes-with-these-proven-fixes-for-star-wars-squadrons/"><u>Say Goodbye to Game Crashes with These Proven Fixes for Star Wars: Squadrons</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/terraria-disconnect-no-more-implementing-effective-techniques-with-these-6-proven-fixes/"><u>Terraria Disconnect No More: Implementing Effective Techniques with These 6 Proven Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-cyberpunk-2077s-gameplay-lag-and-freezing-problems/"><u>Troubleshooting Tips for Cyberpunk 2077'S Gameplay Lag and Freezing Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/understanding-wsappx-solutions-for-high-memory-and-processor-demand/"><u>Understanding WSAPPX: Solutions for High Memory and Processor Demand</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-editing-essentials-your-go-to-guide-for-beginner-vloggers/"><u>[New] In 2024, Editing Essentials Your Go-To Guide for Beginner Vloggers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-become-an-instagram-analytics-expert-with-this-ultimate-performance-guide/"><u>[Updated] 2024 Approved Become an Instagram Analytics Expert with This Ultimate Performance Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-rapidrecord-fullscreen-feature/"><u>[Updated] In 2024, RapidRecord Fullscreen Feature</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-balancing-intense-beats-with-fl-studios-easeful-dimming/"><u>2024 Approved Balancing Intense Beats with FL Studio's Easeful Dimming</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-sweeping-sonic-narratives-with-expert-crossfade-techniques-audacity/"><u>2024 Approved Crafting Sweeping Sonic Narratives with Expert Crossfade Techniques (Audacity)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-itel-a70-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Itel A70</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banishing-bug-blues-the-ultimate-guide-to-stop-insurgency-sandstorm-from-crashing/"><u>Banishing Bug Blues: The Ultimate Guide to Stop Insurgency Sandstorm From Crashing</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/clipsafe-video-file-restoration/"><u>ClipSafe: Video File Restoration</u></a></li>
+<li><a href="https://program-issues.techidaily.com/display-settings-a-change-in-display-settings-could-result-in-a-black-screen-if-theres-an-error-or-incorrect-configuration-checking-and-adjusting-your-displ437/"><u>Display Settings: A Change in Display Settings Could Result in a Black Screen if There's an Error or Incorrect Configuration. Checking and Adjusting Your Display Settings Might Help.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fraudgpt-unveiled-strategies-for-preventing-cyber-threats-from-this-chatbot/"><u>FraudGPT Unveiled - Strategies for Preventing Cyber Threats From This Chatbot</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-motorola-moto-g24-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Motorola Moto G24 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/proficient-approaches-to-purge-stickers-from-tiktoks/"><u>Proficient Approaches to Purge Stickers From TikToks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-of-unsuccessful-connections-in-minecraft-playground/"><u>Solving The Issue of Unsuccessful Connections in Minecraft Playground</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-solving-dev-error-6034-on-pc-and-xbox-console-modern-warfare/"><u>Step-by-Step Guide: Solving Dev Error 6034 on PC and Xbox Console – Modern Warfare</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-stop-pacific-drive-from-crashing-on-windows-and-mac-systems/"><u>Step-by-Step Guide: Stop Pacific Drive From Crashing on Windows and Mac Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-perpetual-challenge-decoding-the-concepts-behind-eternal-black-return/"><u>The Perpetual Challenge: Decoding the Concepts Behind Eternal Black Return</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-fixing-corrupted-disks-in-steam-games-smoothly/"><u>Troubleshooting and Fixing Corrupted Disks in Steam Games Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-discord-overlays-fast-solutions-for-non-responsive-features/"><u>Troubleshooting Discord Overlays: Fast Solutions for Non-Responsive Features</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723011930845-unraveling-the-mystery-speeding-up-your-utorrent-torrents-now/"><u>Unraveling the Mystery: Speeding Up Your uTorrent Torrents Now</u></a></li>
 </ul></div>
 

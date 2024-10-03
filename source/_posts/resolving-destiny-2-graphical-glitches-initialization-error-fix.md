@@ -1,7 +1,7 @@
 ---
 title: Resolving Destiny 2 Graphical Glitches - Initialization Error Fix
-date: 2024-09-27T09:13:23.186Z
-updated: 2024-09-28T00:38:37.252Z
+date: 2024-09-25T17:39:30.268Z
+updated: 2024-10-03T06:50:58.017Z
 tags:
   - win11
   - win10
@@ -44,6 +44,13 @@ STAR WARS The Old Republic (SWTOR) window does not show after you press Play? Yo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_11-51.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Running third-party programs in the background can also interfere with your game and lead to issues like this (_especially overlay programs_ ). So, if you’re running multiple programs while gaming, please close them to rule out software conflicts and free up resources for your game.
 
  If your**antivirus** is running, temporarily disable it and check if the problem persists. This is because antivirus sometimes mistakenly identifies the game login module as a security threat.
@@ -53,13 +60,6 @@ STAR WARS The Old Republic (SWTOR) window does not show after you press Play? Yo
  If SWTOR works properly after you disable the antivirus software, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution.
 
 If SWTOR still won’t start, read on and try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Run SWTOR in Admin mode
 
@@ -99,6 +99,13 @@ If this doesn’t work for you, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-17-08.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -126,22 +133,15 @@ If your game still won’t launch, then go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-57-39.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Relaunch the game to test your issue.
 
 If SWTOR is still unplayable, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Delete the BitRaider folder
@@ -153,6 +153,13 @@ If SWTOR is still unplayable, move on to the next fix.
 **2)** Right-click the**SWTOR desktop icon** and select**Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-39-13.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Delete the**Bitraider folder** .
 
@@ -171,16 +178,10 @@ If SWTOR is still unplayable, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-20-10.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)** Select**Notepad** .
@@ -196,13 +197,6 @@ If SWTOR is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-43-29.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **7)** On your keyboard, press the**Ctrl key and S** to save the changes. Then close Notepad.
 
 **8)** Delete the**Bitraider folder** .
@@ -216,10 +210,10 @@ If SWTOR is still unplayable, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-48-15.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **12)** Right-click**Bitraider Streaming Client** and select**Uninstall** .
@@ -247,17 +241,19 @@ If SWTOR is still unplayable, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-advanced-steps-to-record-silent-videos/"><u>[New] 2024 Approved Advanced Steps to Record Silent Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-fb-video-downloader-pro-mp4-archive-now-available-for-2024/"><u>[Updated] FB Video Downloader Pro MP4 Archive Now Available for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flexibility-in-viewing-with-youtube-tv-options/"><u>[Updated] In 2024, Flexibility in Viewing with YouTube TV Options</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-instructors-handbook-on-video-assisted-pedagogy/"><u>[Updated] The Instructor's Handbook on Video-Assisted Pedagogy</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-dissecting-splitcam-a-video-recorder-standout-analysis/"><u>2024 Approved Dissecting SplitCam A Video Recorder Standout Analysis</u></a></li>
-<li><a href="https://program-issues.techidaily.com/assassinn-crew-how-stability-issues-on-pc-have-been-successfully-addressed-for-assassins-creed-valhalla/"><u>Assassin'n Crew: How Stability Issues on PC Have Been Successfully Addressed for Assassin's Creed: Valhalla</u></a></li>
-<li><a href="https://program-issues.techidaily.com/battlefield-2042-performance-optimized-say-goodbye-to-framerate-drops-and-glitchy-gameplay/"><u>Battlefield #2042 Performance Optimized - Say Goodbye to Framerate Drops and Glitchy Gameplay!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bid-goodbye-to-screenshake-learn-the-key-techniques-to-stop-that-annoying-flicker/"><u>Bid Goodbye to Screenshake – Learn the Key Techniques to Stop That Annoying Flicker!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-persistent-crashes-in-ark-scorched-earth-pc-version-using-these-9-tricks/"><u>How To Fix Persistent CRASHES in ARK: Scorched Earth PC Version Using These 9 Tricks</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-realme-12-proplus-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Realme 12 Pro+ 5G Phone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722999069824-pc-gamers-rejoice-wrath-of-the-righteous-freezing-problem-fixed/"><u>PC Gamers Rejoice: Wrath of the Righteous Freezing Problem Fixed</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-bards-evergreen-vocabulary-a-study-in-continuity/"><u>The Bard's Evergreen Vocabulary: A Study in Continuity</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-enrich-ppt-content-with-soundtracks-for-2024/"><u>[New] Enrich PPT Content with Soundtracks for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagram-success-starts-with-these-strategies/"><u>[New] Instagram Success Starts with These Strategies</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-professional-filming-made-simple-the-essentials-of-logitech-webcam-setup-for-2024/"><u>[New] Professional Filming Made Simple The Essentials of Logitech Webcam Setup for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-amassing-audiences-and-assets-launching-a-livestream-business/"><u>2024 Approved Amassing Audiences and Assets Launching a Livestream Business</u></a></li>
+<li><a href="https://facebook.techidaily.com/advance-to-high-status-with-meta-purchase/"><u>Advance to High-Status with Meta Purchase</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cracking-the-code-expert-advice-for-fixing-e-1030003-in-rainbow-six-tarkov/"><u>Cracking the Code: Expert Advice for Fixing E-1030#003 in Rainbow Six: Tarkov</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-your-battles-against-demons-with-smooth-gameplay-resolving-stuttering-and-low-fps-in-naraka-bladepoint/"><u>Enhance Your Battles Against Demons with Smooth Gameplay: Resolving Stuttering and Low FPS in Naraka: Bladepoint</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-elevating-your-content-with-instagram-videos/"><u>In 2024, Elevating Your Content with Instagram Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/invisible-presence-guide-to-instagram-live-broadcasts-and-streaming/"><u>Invisible Presence Guide to Instagram Live Broadcasts and Streaming</u></a></li>
+<li><a href="https://fox-info.techidaily.com/master-artistic-freedom-with-the-top-10-mac-drawings-for-2024/"><u>Master Artistic Freedom with the Top 10 Mac Drawings for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steamvr-trouble-no-more-overcoming-error-308-quickly/"><u>SteamVR Trouble No More: Overcoming Error 308 Quickly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-tutorial-overcoming-black-screen-glitches-in-rainbow-six-siege-pc-edition/"><u>Step-by-Step Tutorial: Overcoming Black Screen Glitches in Rainbow Six Siege PC Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-leveraging-chatgpt-as-a-pro-freelancer-writer/"><u>The Ultimate Guide to Leveraging ChatGPT as a Pro Freelancer Writer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993817324-unexpected-graphic-faults-in-valorant-heres-how-you-can-fix-them-swiftly/"><u>Unexpected Graphic Faults in Valorant? Here's How You Can Fix Them Swiftly</u></a></li>
 </ul></div>
 

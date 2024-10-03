@@ -1,7 +1,7 @@
 ---
 title: Restore Auditory Bliss in Fallout 4 PC Version with These Easy Hacks
-date: 2024-09-27T08:10:49.381Z
-updated: 2024-09-28T01:17:25.967Z
+date: 2024-09-28T21:06:02.139Z
+updated: 2024-10-03T11:16:35.851Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 6. **[Uninstall and reinstall Minecraft](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Run Minecraft in compatibility mode
@@ -52,23 +52,30 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 3. Select**Windows 8** from the drop-down menu, then click**Apply** and**OK** to save changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-apply-ok.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once done, relaunch Minecraft to see if the black screen issue still occurs.
 
 If the issue persists, read on and try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Check your antivirus settings
@@ -95,6 +102,13 @@ If the issue remains, move on to the next fix.
  Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your graphics driver, restart your computer and launch Minecraft to see if the issue is resolved.
@@ -111,19 +125,6 @@ If the issue remains, move on to the next fix.
  File address: **%LocalAppData%PackagesMicrosoft.MinecraftUWP\_8wekyb3d8bbweLocalStategamescom.mojangminecraftpe**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/file-explorer.jpg)
 4. Open the**options.txt** file, then find the line with the following entry, and change the number to 4, like so:**gfx\_msaa:4** .  
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gfx_msaa-4.jpg)
 5. **Save** the options.txt file.
@@ -142,18 +143,18 @@ If this method doesn’t do the trick, continue to the next fix.
 2. One at a time, select the resource-hogging program and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/end-task-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 Relaunch Minecraft to see if your issue is resolved.
 
 If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Uninstall and reinstall Minecraft
 
@@ -169,13 +170,6 @@ If not, try the next fix.
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_.jpg)
 5. In Programs and Features, select**Minecraft Launcher** and click**Uninstall** . Then follow the on-screen instruction to uninstall the game.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
 6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
@@ -204,22 +198,21 @@ If not, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-market-leading-6-social-channels-for-business-advancement/"><u>[New] 2024 Approved Market-Leading 6 Social Channels for Business Advancement</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-full-spectrum-on-morphvox-technology-for-voice-conversion/"><u>[New] Full Spectrum on MorphVOX Technology for Voice Conversion</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-swift-snap-reinstatement-techniques/"><u>[New] In 2024, Swift Snap Reinstatement Techniques</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-classifications-of-unmanned-aircraft/"><u>[Updated] Classifications of Unmanned Aircraft</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/adaptable-digital-time-stretch-audio-transformer-elevate-your-soundscape/"><u>Adaptable Digital Time Stretch Audio Transformer - Elevate Your Soundscape</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-applied-to-enhance-forza-horizon-n-pc-performance-and-boost-fps/"><u>Fixes Applied to Enhance Forza Horizon N PC Performance and Boost FPS</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-14-pro-max-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone 14 Pro Max Backup Password? Heres What to Do | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-persistent-lag-issues-in-dying-light/"><u>How to Resolve the Persistent Lag Issues in Dying Light</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-realme-c55-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Realme C55</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-mw3-warzone-quick-solutions-for-tackling-the-notorious-dev-error-6068/"><u>Mastering MW3: Warzone - Quick Solutions for Tackling the Notorious Dev Error 6068</u></a></li>
-<li><a href="https://program-issues.techidaily.com/navigating-turbulence-in-microsoft-flight-simulator-2020-overcoming-frequent-pc-crashes/"><u>Navigating Turbulence in Microsoft Flight Simulator 2020 – Overcoming Frequent PC Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/nba-2k24-error-solution-overcome-code-72e66ac-with-easy-step-by-step-fixes-for-gamers/"><u>NBA 2K24 Error Solution: Overcome Code 72^%E66aC with Easy Step-by-Step Fixes for Gamers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/petcube-play-2-review/"><u>Petcube Play 2 Review</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-atomic-heart-errors-when-launching-your-computer/"><u>Resolving Atomic Heart Errors When Launching Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-6-fixes-for-a-malfunctioning-obs-microphone/"><u>Top 6 Fixes for a Malfunctioning Obs Microphone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/understanding-and-correcting-starcraft-crashes-during-playtime-on-pc-setups/"><u>Understanding and Correcting StarCraft √ Crashes During Playtime on PC Setups</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Realme V30T? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nlock-creative-potential-with-no-cost-green-screen-knowledge-from-top-4-educational-channels/"><u>[New] Unlock Creative Potential with No-Cost Green Screen Knowledge From Top 4 Educational Channels</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-financial-fortune-with-facebook-video-marketing-key-strategies-explored/"><u>[Updated] Financial Fortune with Facebook Video Marketing Key Strategies Explored</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/charting-new-territories-innovations-in-office-spaces-for-enhanced-output/"><u>Charting New Territories Innovations in Office Spaces for Enhanced Output</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/creating-the-perfect-brew-emulating-top-notch-features-of-an-exceptional-tea-timer-application-across-your-products/"><u>Creating the Perfect Brew: Emulating Top-Notch Features of an Exceptional Tea Timer Application Across Your Products</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ensuring-smooth-gameplay-strategies-to-address-recurring-watch-dogs-legion-freezes-and-shutdowns-on-windows/"><u>Ensuring Smooth Gameplay: Strategies to Address Recurring Watch Dogs Legion Freezes and Shutdowns on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-stuttering-audio-on-your-pc-with-windows-1011-ultimate-guide/"><u>How to Fix Stuttering Audio on Your PC with Windows 10/11 – Ultimate Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-unresponsiveness-steam-continuously-crashing-now-solved/"><u>How to Overcome Unresponsiveness: Steam Continuously Crashing - Now Solved!</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/logitech-game-software-problems-heres-how-to-get-them-working-again/"><u>Logitech Game Software Problems? Here's How to Get Them Working Again!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/most-influential-srt-boosters-for-pc-and-apple-systems/"><u>Most Influential SRT Boosters for PC & Apple Systems</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/saving-scenes-a-rundown-of-the-best-facebook-extensions-for-2024/"><u>Saving Scenes A Rundown of the Best Facebook Extensions for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-the-palworld-search-error-in-sessions-with-these-tips/"><u>Solve the ‘Palworld’ Search Error in Sessions with These Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-triumphs-ensure-death-strandings-successful-release-journey/"><u>Troubleshooting Triumphs Ensure Death Stranding's Successful Release Journey</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-expert-advice-top-6-tricks-to-boost-your-fps-in-escape-from-tarkov/"><u>Ultimate Expert Advice: Top 6 Tricks to Boost Your FPS in Escape From Tarkov</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unstick-your-gameplay-tips-for-escaping-roblox-stuck-on-startup-screen/"><u>Unstick Your Gameplay! Tips for Escaping Roblox Stuck on Startup Screen</u></a></li>
 </ul></div>
 

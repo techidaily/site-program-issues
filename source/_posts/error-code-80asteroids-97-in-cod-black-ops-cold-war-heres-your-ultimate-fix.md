@@ -1,7 +1,7 @@
 ---
 title: "Error Code 80Asteroids 97 in COD: Black Ops Cold War? Here's Your Ultimate Fix"
-date: 2024-09-23T21:06:53.648Z
-updated: 2024-09-28T10:27:41.566Z
+date: 2024-10-02T12:41:26.290Z
+updated: 2024-10-03T14:39:22.212Z
 tags:
   - win11
   - win10
@@ -24,6 +24,13 @@ If you’re presented with an error message ‘_**DirectX Encountered an Unrecov
 3. **[Repair your game files](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Play the game in DirectX 11 mode](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1\. Close unnecessary background apps
 
  The most possible cause of your Warzone DirectX error is interference from your third-party applications. If you’re using the following software, you can try closing them to check if the error disappears.
@@ -32,13 +39,6 @@ If you’re presented with an error message ‘_**DirectX Encountered an Unrecov
 * **Apps that support overlay features** (you can disable Discord Overlay or GeForce Experience Overlay etc.)
 
  Make sure you have closed all the applications that are related to graphics card monitoring, and turn off all overlay features. Try launching your COD: Warzone again to test the issue.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2\. Update your device drivers
 
@@ -74,23 +74,16 @@ There are mainly two ways of updating your device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4\. Once complete, restart your computer for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3\. Repair your game files
 
@@ -108,6 +101,13 @@ There are mainly two ways of updating your device drivers:
 
  Does the simple workaround work for you? If not, you can try the following fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4\. Play the game in DirectX 11 mode
 
  If the Warzone DirectX error persists when you’re using DirectX 12, you can run the game in DirectX 11 to see if this solves your problem. You can easily revert to DirectX 12 if this method doesn’t do the trick.
@@ -118,16 +118,16 @@ There are mainly two ways of updating your device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/mw-d3d11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3\. Check **Additional Command Line Arguments** and type **\-d3d11** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-11.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4\. Click **Done** .
 
@@ -155,22 +155,20 @@ There are mainly two ways of updating your device drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-in-depth-review-dji-phantom-4-in-action/"><u>[New] In Depth Review DJI Phantom 4 in Action</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-how-to-seamlessly-upload-youtube-videos-to-facebook-feed/"><u>[Updated] 2024 Approved How to Seamlessly Upload YouTube Videos to Facebook Feed</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagrams-notes-for-sharing-tunes-responsibly/"><u>[Updated] 2024 Approved Instagram’s Notes for Sharing Tunes Responsibly</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>5 Easy Ways to Change Location on YouTube TV On Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/avoid-game-crashes-on-battlefield-1-easy-steps-to-a-smoother-experience/"><u>Avoid Game Crashes on Battlefield 1 – Easy Steps to a Smoother Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortlessly-resolve-life-is-strange-glitches-true-colors-edition-unlocked/"><u>Effortlessly Resolve Life Is Strange Glitches - True Colors Edition Unlocked</u></a></li>
-<li><a href="https://program-issues.techidaily.com/football-manager-2022-launch-postponed-heres-why-and-how-it-was-resolved/"><u>Football Manager 2022 Launch Postponed - Here's Why and How It Was Resolved</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-essential-recording-gear-for-environmentalists/"><u>In 2024, Essential Recording Gear for Environmentalists</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-tactical-techniques-for-stunning-instagram-puzzle-displays/"><u>In 2024, Tactical Techniques for Stunning Instagram Puzzle Displays</u></a></li>
-<li><a href="https://program-issues.techidaily.com/materials/"><u>Materials</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-verdict-on-vn-video-editor-apk-a-comprehensive-review/"><u>New 2024 Approved The Verdict on VN Video Editor APK A Comprehensive Review</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-your-pc-for-stable-fps-in-nioh-2/"><u>Optimizing Your PC for Stable FPS in Nioh 2</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-wallpaper-engine-crashing-issues-on-windows-11-and-10/"><u>Resolved: Fixes for Wallpaper Engine Crashing Issues on Windows 11 & 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-problem-when-your-clownfish-sound-alteration-device-fails-to-work-correctly/"><u>Solving the Problem When Your Clownfish Sound Alteration Device Fails to Work Correctly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-solving-msedgeexe-freezes-and-crashes-for-a-smooth-edge-experience/"><u>Step-by-Step Guide: Solving MSEdge.exe Freezes & Crashes for a Smooth Edge Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/walkthrough-in-depth-epson-printer-installation-process-from-start-to-finish/"><u>Walkthrough: In-Depth Epson Printer Installation Process From Start to Finish</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-free-access-worlds-biggest-youtube-short-downloaders/"><u>[New] In 2024, Free Access World’s Biggest YouTube Short Downloaders</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-inside-the-code-how-apeaksoft-outperforms-in-screen-capture/"><u>[New] Inside the Code How Apeaksoft Outperforms in Screen Capture</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-top-anime-elements-that-make-for-tiktok-success/"><u>[Updated] 2024 Approved Top Anime Elements That Make For TikTok Success</u></a></li>
+<li><a href="https://change-location.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722983071174-easy-fixes-for-a-broken-start-menu-on-your-new-windows-11-pc/"><u>Easy Fixes for a Broken Start Menu on Your New Windows 11 PC.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/escaping-the-deadlock-expert-tips-to-get-out-of-minecrafts-loading-loop/"><u>Escaping the Deadlock: Expert Tips to Get Out of Minecraft's Loading Loop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-msi-afterburner-failure-to-recognize-gpu-in-windows-11/"><u>How to Fix MSI Afterburner Failure to Recognize GPU in Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-without-swiping-up-6-ways-by-drfone-ios/"><u>How To Unlock Apple iPhone 12 Pro Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-tailored-solutions-for-high-quality-iptv-capture/"><u>In 2024, Tailored Solutions for High-Quality IPTV Capture</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722995789012-organophosphates-inhibit-acetylcholinesterase-leading-to-an-accumulation-of-acetylcholine-causing-muscarinic-symptoms-but-not-primarily-cardiotoxicity/"><u>Organophosphates Inhibit Acetylcholinesterase Leading to an Accumulation of Acetylcholine, Causing Muscarinic Symptoms but Not Primarily Cardiotoxicity</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-deployment-hurdles-a-comprehensive-guide-to-fixing-app-issues-before-the-2024-market-entry/"><u>Overcoming Deployment Hurdles: A Comprehensive Guide to Fixing App Issues Before the 2024 Market Entry</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-avatar-frontiers-of-pandora-performance-issues-boost-your-fps-and-smooth-out-the-motion/"><u>Solving 'Avatar: Frontiers of Pandora' Performance Issues – Boost Your FPS & Smooth Out the Motion</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-transforming-avi-speeches-into-high-quality-wav-format/"><u>Step-by-Step Guide: Transforming AVI Speeches Into High-Quality WAV Format</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-errgfxd3dinit-error-a-complete-guide-for-grand-theft-auto-v/"><u>Troubleshooting ERR_GFX_D3D_INIT Error: A Complete Guide for Grand Theft Auto V</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-from-noise-to-masterpiece-10-glitch-art-video-editing-apps-for-mobile-devices/"><u>Updated In 2024, From Noise to Masterpiece 10 Glitch Art Video Editing Apps for Mobile Devices</u></a></li>
 </ul></div>
 

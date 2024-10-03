@@ -1,7 +1,7 @@
 ---
 title: "Getting Past the Starting Gate: Strategies to Fix Fall Guys From Crashing on Launch"
-date: 2024-09-26T04:21:24.329Z
-updated: 2024-09-28T10:41:14.875Z
+date: 2024-09-28T23:12:26.567Z
+updated: 2024-10-03T15:30:34.661Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 5. **[Disable your antivirus program](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run Dauntless on the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify game integrity
 
  You may encounter this issue if some files of your game installation are corrupt. If this is the case, you should verify the integrity of game files to fix the issue.
@@ -44,6 +51,13 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Underlock your GPU
 
  Overlocking the GPU is a good method to try if you wish for a faster and smoother game performance. But pushing it too high may cause the game crashing issue.
@@ -52,13 +66,6 @@ Here is how to verify the integrity of Dauntless:
  you can try lowering it back to the default setting. If not, or it doesn’t help with the situation, you should move on to**Fix 3** , below to see if it fixes the issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -73,6 +80,13 @@ Here is how to verify the integrity of Dauntless:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
@@ -95,10 +109,10 @@ Here is how to verify the integrity of Dauntless:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus program
@@ -113,13 +127,6 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Run Dauntless on the dedicated graphics card
 
  Your gaming PC may have a graphics chip as well as a graphics card with dedicated memory in it. If this is the case, you should make sure games run on the graphics card to see if the crashing problem can be mitigated.
@@ -130,6 +137,13 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
@@ -138,25 +152,11 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) In the window that opens, choose **your Dauntless game** , then click **Add Selected Program** .
 
  5) In **Select the preferred graphics processor for this program** , select **High-performance NVIDIA processor** . Then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-24.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6) Launch Dauntless and check to see if the crashing issue is fixed.
 
@@ -181,20 +181,14 @@ Here is how to verify the integrity of Dauntless:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-logic-pro-method-to-gradually-reduce-audio-levels/"><u>[New] Logic Pro Method to Gradually Reduce Audio Levels</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-art-of-zooming-on-social-media-platform-snapchat/"><u>[New] Mastering the Art of Zooming on Social Media Platform, Snapchat</u></a></li>
-<li><a href="https://program-issues.techidaily.com/arcadegeddon-continuously-malfunctioning-on-windows-solutions-found/"><u>Arcadegeddon Continuously Malfunctioning on Windows - Solutions Found</u></a></li>
-<li><a href="https://program-issues.techidaily.com/audio-gone-missing-in-action-solve-lost-ark-sound-glitch-easily/"><u>Audio Gone Missing in Action? Solve Lost Ark Sound Glitch Easily!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-solutions-for-playing-payday-2-addressing-pc-launch-errors/"><u>Easy Solutions for Playing Payday 2: Addressing PC Launch Errors</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/effortless-video-conversion-top-10-webm-to-mp4-converters-for-2024/"><u>Effortless Video Conversion Top 10 WebM to MP4 Converters for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancing-performance-ultimate-guide-to-resolving-frame-drops-and-improving-fps-in-valorant/"><u>Enhancing Performance: Ultimate Guide to Resolving Frame Drops & Improving FPS in Valorant</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-advice-for-streaming-and-viewing-dvds-on-an-hp-laptop-a-comprehensive-guide/"><u>Expert Advice for Streaming & Viewing DVDs on an HP Laptop - A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/find-the-perfect-free-video-editor-app-for-iphones-and-ipads/"><u>Find the Perfect Free Video Editor App for iPhones & iPads</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-slow-lol-connection-tips-for-overcoming-game-lags/"><u>How to Fix Slow LoL Connection: Tips for Overcoming Game Lags</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-your-apple-iphone-12-mini-display-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror your Apple iPhone 12 mini Display? | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/leveraging-folders-for-coherent-gpt-3-discussions/"><u>Leveraging Folders for Coherent GPT-3 Discussions</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/perfecting-audio-on-iphone-select-the-best-6-free-software-choices-for-2024/"><u>Perfecting Audio on iPhone Select the Best 6 Free Software Choices for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-game-lag-tips-to-stop-your-assassins-creed-odyssey-from-freezing-on-pc/"><u>Solving Game Lag: Tips to Stop Your Assassin's Creed Odyssey From Freezing on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723001330982-team-fortress-2-launch-problems-resolved-and-ready-for-action/"><u>Team Fortress 2 Launch Problems – Resolved and Ready for Action!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-deciphering-numbers-an-introduction-to-facebook-insight/"><u>[Updated] In 2024, Deciphering Numbers An Introduction to Facebook Insight</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-premier-virtual-microphones/"><u>[Updated] In 2024, Premier Virtual Microphones</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722992179229-enhance-your-gameplay-addressing-fps-dips-in-farming-simulator-grower-you-may-need-to-evaluate-your-growing-conditions-and-adjust-accordingly/"><u>Enhance Your Gameplay: Addressing FPS Dips in Farming Simulator Grower, You May Need to Evaluate Your Growing Conditions and Adjust Accordingly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/finding-a-stable-playthrough-solutions-to-overcome-wolcens-pc-issues/"><u>Finding a Stable Playthrough: Solutions to Overcome Wolcen's PC Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-error-code-6-glitches-in-pc-versions-of-warzone-and-modern-combat-series/"><u>How to Resolve 'Error Code 6' Glitches in PC Versions of Warzone and Modern Combat Series</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/initiate-the-art-of-movie-making-xp-edition-for-2024/"><u>Initiate the Art of Movie Making Xp Edition for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/locate-the-best-bargains-on-gopro-cameras-for-2024/"><u>Locate the Best Bargains on GoPro Cameras for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/msi-dragon-center-woes-heres-how-to-get-it-working-again/"><u>MSI Dragon Center Woes? Here's How to Get It Working Again!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/remedying-streaming-lag-in-newest-win11-version/"><u>Remedying Streaming Lag in Newest Win11 Version</u></a></li>
 </ul></div>
 

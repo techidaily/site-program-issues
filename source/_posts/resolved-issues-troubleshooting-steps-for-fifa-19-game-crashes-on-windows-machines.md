@@ -1,7 +1,7 @@
 ---
 title: "Resolved Issues: Troubleshooting Steps for FIFA 19 Game Crashes on Windows Machines"
-date: 2024-09-21T09:05:50.016Z
-updated: 2024-09-28T04:53:52.502Z
+date: 2024-09-27T22:02:37.894Z
+updated: 2024-10-03T12:55:16.408Z
 tags:
   - win11
   - win10
@@ -44,18 +44,18 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1047-1024x543.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Run Epic Games Launcher to see if you’ve resolved this issue.
 
  If Epic Games Launcher still won’t launcher, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Launch Epic Games Launcher from Start Menu
 
@@ -65,15 +65,22 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1048.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  See if you can launch the program. If so, you should delete its shortcut on your desktop and create a new one. If it still won’t launch, don’t worry. Try the next fix, below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Adjust your display settings
@@ -89,10 +96,10 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1056.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Run Epic Games Launcher again to see if this issue reappears.
@@ -100,6 +107,13 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
  If not, congratulations! You’ve fixed this issue. If this issue persists, try the next fix to update your graphics driver.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -121,6 +135,13 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1072.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _You can do it for free if you like, but it’s partly manual._
 
  The Pro version of Driver Easy comes with full technical support.  
@@ -135,10 +156,10 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-496.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Under the**Shortcut** tab, locate the**Target:** field. Add_\-OpenGL_ to the end of the path filed. The contents of the Target field should look like the following:
@@ -154,13 +175,6 @@ _You can do it for free if you like, but it’s partly manual._
  If it won’t open, try the next fix to disable your antivirus software temporarily.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Add Epic Games Launcher as an exception to your third-party antivirus application
 
@@ -200,23 +214,9 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2)**Right-click** on**Epic Games Launcher** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1070.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Restart your computer.
 
@@ -246,18 +246,21 @@ Normally, after you reinstall Epic Games Launcher, it should open.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-top-10-premier-off-line-ipad-apps-for-pure-gaming-bliss-for-2024/"><u>[New] Top 10 Premier Off-Line iPad Apps for Pure Gaming Bliss for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-add-fun-to-youtube-comments-a-quick-guide-to-emojis-for-2024/"><u>[Updated] Add Fun to YouTube Comments A Quick Guide to Emojis for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-quick-online-mp3-generator-from-fb-videos-2023-updates/"><u>2024 Approved Quick Online MP3 Generator From FB Videos, 2023 Updates</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-lenovo-thinkpad-x1-titanium-yoga-assessment-the-ultimate-2-in-1-for-devoted-thinkpad-enthusiasts/"><u>Comprehensive Lenovo ThinkPad X1 Titanium Yoga Assessment – The Ultimate 2-in-1 for Devoted ThinkPad Enthusiasts</u></a></li>
-<li><a href="https://techtrends.techidaily.com/deciding-on-an-ev-explore-these-pertinent-topics-with-our-guide-of-9-must-ask-questions/"><u>Deciding on an EV? Explore These Pertinent Topics With Our Guide of 9 Must-Ask Questions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fallout-76-performance-issues-fixes-and-workarounds/"><u>Fallout 76 Performance Issues: Fixes & Workarounds</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fortnite-troubleshooting-guide-correcting-the-missing-entry-point-error/"><u>Fortnite Troubleshooting Guide: Correcting the Missing Entry Point Error</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/free-digital-signature-for-pdf-v10-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Free digital signature for PDF v1.0 document</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723001799866-huckels-rule-states-that-4n-plus-2-pi-electrons-are-required-for-an-aromatic-compound-which-can-be-applied-to-determine-aromaticity-in-monocyclic-systems/"><u>Hückel's Rule States that [4N + 2] Pi Electrons Are Required for an Aromatic Compound, Which Can Be Applied to Determine Aromaticity in Monocyclic Systems</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-on-apple-iphone-x-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out On Apple iPhone X How to Bypass?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723003676446-league-of-legends-network-issues-fixing-and-preventive-measures-for-smooth-gaming/"><u>League of Legends Network Issues - Fixing and Preventive Measures for Smooth Gaming</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixing-pc-issues-with-starting-resident-evil-5/"><u>Resolved: Fixing PC Issues with Starting Resident Evil 5</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723001252902-troubleshooting-ghostrunner-game-errors-on-windows-11-expert-solutions/"><u>Troubleshooting Ghostrunner Game Errors on Windows 11 - Expert Solutions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-discovering-the-ultimate-gopro-camera-max-or-hero-11/"><u>[New] Discovering The Ultimate GoPro Camera Max or Hero 11?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-how-to-block-someone-on-instagram/"><u>[New] In 2024, How to Block Someone on Instagram?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-ultimate-guide-to-mastering-multi-tasking-with-your-favorite-talk-shows-for-2024/"><u>[New] The Ultimate Guide to Mastering Multi-Tasking With Your Favorite Talk Shows for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-keeping-consistent-pacing-in-obs-broadcasts-for-2024/"><u>[Updated] Keeping Consistent Pacing in OBS Broadcasts for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-vanguard-stops-working-on-pc-solve-your-2024-gaming-nightmares-with-these-fixes/"><u>Call of Duty Vanguard Stops Working on PC? Solve Your 2024 Gaming Nightmares with These Fixes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effective-driver-updates-for-msi-bravo-laptops/"><u>Effective Driver Updates for MSI Bravo Laptops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-gaming-experience-fixing-low-frame-rates-and-stutters-in-new-world/"><u>Enhancing Gaming Experience: Fixing Low Frame Rates & Stutters in New World</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-overcoming-frequent-crashes-when-using-fuser-on-your-pc/"><u>Expert Advice: Overcoming Frequent Crashes When Using Fuser on Your PC</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-sharing-errors-with-nvidias-gui/"><u>Fixing Sharing Errors with NVIDIA's GUI</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximizing-fps-in-warzone-for-windows-10-by-fixing-gpu-usage-problems/"><u>Maximizing FPS in Warzone for Windows 10 by Fixing GPU Usage Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-optimization-tips-for-stability-solutions-to-avert-armored-core-6-freezing-and-crashes/"><u>PC Optimization Tips for Stability: Solutions to Avert Armored Core 6 Freezing and Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-fixing-the-blackout-how-to-overcome-screen-sharing-issues-on-discord/"><u>Resolved: Fixing the Blackout - How to Overcome Screen Sharing Issues on Discord</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-fifa-22-not-working-properly-on-your-windows-pc/"><u>Resolved: How to Fix FIFA 22 Not Working Properly on Your Windows PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-resolve-kodi-unable-to-retrieve-directory-info-issue/"><u>Ultimate Guide to Resolve Kodi Unable To Retrieve Directory Info Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-tricks-bringing-off-screen-apps-back-to-life-with-6-tips/"><u>Windows Tricks: Bringing Off-Screen Apps Back to Life with 6 Tips</u></a></li>
 </ul></div>
 

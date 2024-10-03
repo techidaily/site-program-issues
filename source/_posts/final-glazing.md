@@ -1,7 +1,7 @@
 ---
 title: Final Glazing
-date: 2024-09-22T10:16:31.104Z
-updated: 2024-09-28T02:55:51.459Z
+date: 2024-10-02T07:29:21.723Z
+updated: 2024-10-03T07:19:13.568Z
 tags:
   - win11
   - win10
@@ -50,9 +50,23 @@ FIFA 20 DirectX Error
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can also do it for free if you like, but it’s partly manual.
 
@@ -61,13 +75,6 @@ FIFA 20 DirectX Error
 5) Play FIFA and check to see if the DirectX error is resolved. If yes, then great! If it still occurs, please move on to **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Unplug ccontrollers
 
@@ -86,20 +93,13 @@ Here is how to do it:
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and**R** at the same time, then type_**C: \\ Users \\% Username% \\ Documents \\ FIFA 20 Demo**_ and press**Enter** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-129.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Double-click on the**fifasetup.ini** file.
 
@@ -157,10 +157,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
@@ -194,21 +194,18 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-jumpstart-your-filming-setups-8-sites-offering-free-eco-screens/"><u>[New] 2024 Approved Jumpstart Your Filming Setups - 8 Sites Offering Free Eco-Screens</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-easy-steps-to-share-your-screen-via-google-meet-for-2024/"><u>[New] Easy Steps to Share Your Screen via Google Meet for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-the-spectrum-of-virtuality-from-meta-to-omniverse-explored-for-2024/"><u>[New] The Spectrum of Virtuality From Meta to Omniverse Explored for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-launching-an-impactful-instagram-live-session/"><u>[Updated] Launching an Impactful Instagram Live Session</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-fixes-for-unstable-playback-in-bloodhunt-on-your-computer/"><u>Easy Fixes for Unstable Playback in 'Bloodhunt' On Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guilty-gear-strives-release-unveiling-the-delay-mysteries/"><u>Guilty Gear Strive's Release: Unveiling the Delay Mysteries</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-ensure-smooth-gameplay-avoiding-thaumaturge-interruptions-on-desktop-systems/"><u>How to Ensure Smooth Gameplay: Avoiding Thaumaturge Interruptions on Desktop Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-razer-synapse-wont-launch-issue/"><u>How to Fix: Razer Synapse Won't Launch Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-the-stuck-updates-problem-on-microsoft-flight-simulator-2020-solution-found/"><u>How to Overcome the Stuck Updates Problem on Microsoft Flight Simulator 2020 - Solution Found</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723205926497-hp-laptops-unresponsive-keys-master-the-rapid-restoration-methods-today/"><u>HP Laptops' Unresponsive Keys? Master the Rapid Restoration Methods Today</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-comprehensive-guide-to-mastering-ipogo-for-pokemon-go-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, A Comprehensive Guide to Mastering iPogo for Pokémon GO On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/nvidia-rtx-3080-overcoming-game-crashes/"><u>NVIDIA RTX 3080: Overcoming Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-technical-glitches-in-cod-warzone-pacific-downfalls/"><u>Overcoming Technical Glitches in COD: Warzone Pacific Downfalls</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-the-mutters-of-morrowind-troubleshooting-game-audio-in-skyrim/"><u>Overcoming the Mutters of Morrowind: Troubleshooting Game Audio in Skyrim</u></a></li>
-<li><a href="https://win-dash.techidaily.com/resolving-acer-hardware-compatibility-problems-with-windows/"><u>Resolving Acer Hardware Compatibility Problems with Windows</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-pc-issues-with-rainbow-six-extraction/"><u>Troubleshooting Guide: Resolving PC Issues with Rainbow Six Extraction</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-tricks-to-make-your-profile-video-stand-out-for-2024/"><u>[Updated] Tricks to Make Your Profile Video Stand Out for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/budget-saving-stratospheric-storage-for-heavy-dumps-for-2024/"><u>Budget-Saving Stratospheric Storage for Heavy Dumps for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-chrome-freeze-problems-in-windows-10-expert-advice/"><u>Bypassing Chrome Freeze Problems in Windows 10: Expert Advice</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/delving-into-the-heart-of-apples-m1-processor/"><u>Delving Into the Heart of Apple's M1 Processor</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-guide-for-repairing-corrupt-disks-on-steam-platform/"><u>Effortless Guide for Repairing Corrupt Disks on Steam Platform</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-oneplus-nord-ce-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-everspace-2-pc-game-freeze-issues-solutions-and-tips/"><u>Fixing Everspace 2 PC Game Freeze Issues - Solutions & Tips</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-understanding-youtubers-income-average-ad-revenues-per-play/"><u>In 2024, Understanding Youtuber's Income Average Ad Revenues per Play?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-dauntless-gaming-on-your-pc-no-more-crashing/"><u>Master Dauntless Gaming on Your PC: No More Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-game-no-more-crashing-in-world-of-tanks-blitz/"><u>Master the Game - No More Crashing in World of Tanks Blitz</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-download-compatible-keyboard-software-for-windows-7-systems/"><u>Quick Download: Compatible Keyboard Software for Windows 7 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-the-win32-app-crash-a-guide-to-troubleshooting-the-0xc0000005-exception/"><u>Resolving the Win32 App Crash: A Guide to Troubleshooting the 0xC0000005 Exception</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "'KOF XV on PC': How to Enjoy Seamless Gameplay After Fixing the Notorious Bugs"
-date: 2024-09-21T19:11:25.009Z
-updated: 2024-09-27T20:38:45.133Z
+date: 2024-10-01T05:57:55.285Z
+updated: 2024-10-03T05:48:36.698Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 6. [Repair Epics Games launcher](https://tools.techidaily.com/drivereasy/download/)
 7. [Add the game folder to the exceptions list of your 3rd party antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Verify the game files
 
  One of the common causes of A Total War Saga: Troy crashing issue is the corrupted game files. If it’s the case, you need to verify the game files. Here’s how to do it:
@@ -48,6 +55,13 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 
 There’re mainly two ways you can update your graphics drivers:
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -63,6 +77,13 @@ There’re mainly two ways you can update your graphics drivers:
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 Or
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -83,13 +104,6 @@ Or
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  You need to restart your PC after you finished updating your graphics driver.
@@ -97,13 +111,6 @@ Or
  Launch A Total War Saga: Troy to see if it crashes or not. Normally, after you updated the graphics driver, the game crashing issue will disappear.
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -113,13 +120,6 @@ Or
 
  Launch A Total War Saga: Troy to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Install the latest DirectX files
 
  Most games require DirectX 11 to run properly, and A Total War Saga: Troy is no exception. If there’s a problem with DirectX, the game would crash on startup. If it’s the case, updating the DirectX to the latest version may help. Here is how to do it:
@@ -128,6 +128,13 @@ Or
 2. Click the Download button to start the download.  
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Restart your computer and launch the game.
 
@@ -143,13 +150,6 @@ Or
 
  If this issue persists after you stopped overclocking, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 6: Repair Epics Games launcher
 
  A Total War Saga: Troy may crash if there is something wrong with Epic Games launcher. To fix the game crashing issue due to Epics Games launcher, just try this fix.
@@ -161,14 +161,20 @@ Or
 2. **Right-click** on**Epics Games launcher** and select**Repair** .  
 ![how to repair Epics Games launcher](https://images.drivereasy.com/wp-content/uploads/2021/03/how-to-repair-Epics-Games-launcher.jpg)
 
- After Windows repaired Epics Games launcher, launch A Total War Saga: Troy to see if it will crash. If it still crashes, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ After Windows repaired Epics Games launcher, launch A Total War Saga: Troy to see if it will crash. If it still crashes, try the next fix, below.
 
 ## Fix 7: Add A Total War Saga: Troy to the exceptions list of your 3rd party antivirus software
 
@@ -203,24 +209,21 @@ Or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-global-leaderboard-top-subscribers-by-youtube-star-for-2024/"><u>[New] Global Leaderboard Top Subscribers by YouTube Star for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-playful-pioneers-the-kids-game-bazaar/"><u>[New] In 2024, Playful Pioneers The Kids' Game Bazaar</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-curating-a-must-see-list-of-youtubes-top-makeup-talent/"><u>[Updated] Curating a Must-See List of YouTube's Top Makeup Talent</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-huawei-nova-y71-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Huawei Nova Y71 support MOV videos ?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortlessly-fix-chrome-stalling-issues-on-your-windows-10-system/"><u>Effortlessly Fix Chrome Stalling Issues on Your Windows 10 System</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhance-your-playthrough-of-valheim-on-computer-by-fixing-freeze-stutter-glitches/"><u>Enhance Your Playthrough of Valheim on Computer by Fixing Freeze-Stutter Glitches</u></a></li>
-<li><a href="https://extra-information.techidaily.com/exclusive-places-for-next-gen-vr-content/"><u>Exclusive Places for Next-Gen VR Content</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723010189071-gta-5-stability-improvements-no-more-game-crashes/"><u>GTA 5 Stability Improvements - No More Game Crashes!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-samsung-galaxy-a23-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Samsung Galaxy A23 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-zooming-in-on-sound-excellence-techniques-for-top-tier-quality/"><u>In 2024, Zooming In on Sound Excellence Techniques for Top-Tier Quality</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/online-vrijetijd-konverteren-bmp-naar-jpeg-gratis-met-movavi-geautomatiseerd-online-image-tool/"><u>Online Vrijetijd Konverteren: BMP Naar JPEG Gratis Met Movavi - Geautomatiseerd Online Image Tool</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-gameplay-how-to-improve-red-dead-redemption-2s-frame-rate-and-smoothness/"><u>Optimizing Gameplay: How to Improve Red Dead Redemption 2'S Frame Rate and Smoothness</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-update-errors-for-a-smooth-minecraft-native-launcher-experience/"><u>Overcoming Update Errors for a Smooth Minecraft Native Launcher Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-solutions-overcoming-the-bf-heroes-and-villains-warzone-disc-error-5031-on-your-computer/"><u>Quick Solutions: Overcoming the BF Heroes and Villains ™ Warzone Disc Error (5.0/3.1) on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/repairing-the-grayscale-crisis-in-fallout-4-gaming-experience/"><u>Repairing the Grayscale Crisis in Fallout 4 Gaming Experience</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/simplified-streaming-solutions-for-the-solo-broadcayer/"><u>Simplified Streaming Solutions for the Solo Broadcayer</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solutions-when-your-iphone-misses-incoming-call-alerts/"><u>Solutions When Your iPhone Misses Incoming Call Alerts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-5-tricks-to-stop-paladins-from-crashing/"><u>Top 5 Tricks to Stop Paladins From Crashing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fix-eliminate-your-pcs-zoom-dark-display-problems/"><u>Ultimate Fix: Eliminate Your PC's Zoom Dark Display Problems</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-building-a-powerful-community-of-insta-followers/"><u>[New] In 2024, Building a Powerful Community of Insta-Followers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-mobile-snapchat-screen-capture/"><u>[New] In 2024, The Ultimate Guide to Mobile Snapchat Screen Capture</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-creating-engaging-and-memorable-youtube-channel-graphics/"><u>[Updated] 2024 Approved Creating Engaging and Memorable YouTube Channel Graphics</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-mastering-chrome-os-4-screenshots-tricks/"><u>2024 Approved Mastering Chrome OS 4 Screenshots Tricks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/adding-visual-variety-to-instagram-stories-step-by-step/"><u>Adding Visual Variety to Instagram Stories Step-by-Step</u></a></li>
+<li><a href="https://solve-help.techidaily.com/best-dav-video-player-apps-of-the-year-top-6-picks-for-flawless-windows-and-mac-experience/"><u>Best DAV Video Player Apps of the Year: Top 6 Picks for Flawless Windows and Mac Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/decode-the-darkness-troubleshooting-total-black-screens-on-pc-while-playing-rainbow-six-siege/"><u>Decode the Darkness: Troubleshooting Total Black Screens on PC While Playing Rainbow Six Siege</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/dive-into-digital-clarity-the-guide-for-full-hd-on-tweet/"><u>Dive Into Digital Clarity The Guide for Full HD on Tweet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/instant-solution-overcome-sluggish-performance-in-assassins-creed-valhalla/"><u>Instant Solution: Overcome Sluggish Performance in Assassin's Creed: Valhalla</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-pausing-in-cyberpunk-2077-fixed-unfreeze-your-game-now/"><u>No More Pausing in Cyberpunk 2077 – Fixed! Unfreeze Your Game Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-common-issues-keeping-fortnite-runs-smooth-without-interruption/"><u>Overcoming Common Issues: Keeping Fortnite Runs Smooth Without Interruption</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-3-freie-dvd-konverter-fur-windows-11-in-202-cu-ihre-perfekte-wahl-nach-einem-vergleichenden-review/"><u>Top 3 Freie DVD-Konverter Für Windows 11 in 202 Cu: Ihre Perfekte Wahl Nach Einem Vergleichenden Review</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-complete-how-the-elder-scrolls-online-addressed-blackwoods-lag-problems/"><u>Troubleshooting Complete: How The Elder Scrolls Online Addressed Blackwood's Lag Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-outriders-not-starting-on-pcs-during-the-2022-update/"><u>Troubleshooting Steps: Outriders Not Starting on PCs During the 2022 Update</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-perfect-gaming-experience-kinemaster-on-android-for-2024/"><u>Unveiling the Perfect Gaming Experience KineMaster on Android for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/update-required-enhance-your-cpu-to-comply-with-vanguards-minimum-specs/"><u>Update Required: Enhance Your CPU to Comply with Vanguard's Minimum Specs</u></a></li>
 </ul></div>
 

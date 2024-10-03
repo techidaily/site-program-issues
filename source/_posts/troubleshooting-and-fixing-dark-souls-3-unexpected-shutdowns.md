@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Fixing Dark Souls 3 Unexpected Shutdowns
-date: 2024-09-27T06:27:12.436Z
-updated: 2024-09-27T23:00:18.246Z
+date: 2024-09-29T15:49:28.581Z
+updated: 2024-10-02T19:45:42.030Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 4. [Set game options to LOW](https://tools.techidaily.com/drivereasy/download/)
 5. [Verify Integrity of Game Files](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Disable overlays for your game
 
  If there is any overlay software running when you play Dark Souls 3, it may cause game crashing on startup or freezing. It’s normal to use overlays for Steam games, but some games could be incompatible with overlay software.
@@ -50,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
  2) Type**_%appdata%_** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Open**DarkSouls3** folder.
 
@@ -81,10 +95,10 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-706.png)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ ).
@@ -96,6 +110,13 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 4) Once your driver has been updated, restart your computer.
 
 Now launch Dark Souls 3 and see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Set game options to LOW
 
@@ -113,13 +134,6 @@ If you can’t access the in-game settings, try this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Open**DarkSouls3** folder.
 
  4) Open**GraphicsConfig.xml** with notepad.
@@ -134,13 +148,6 @@ Then play your game to see if it works properly.
 
  Still no luck? Don’t give up hope. There’s one more thing to try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Verify Integrity of Game Files
 
  You can try verifying integrity of game files in Steam app if games crash. Here’s how to do it:
@@ -151,33 +158,20 @@ Then play your game to see if it works properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-702.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right click on**Dark Souls 3** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-703.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-705.png)
-
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
 
@@ -204,19 +198,20 @@ Then play your game to see if it works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-bypassing-edge-academy-video-free-study-strategies/"><u>[New] Bypassing EDGE Academy Video-Free Study Strategies</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-restoring-visibility-in-your-youtube-screens/"><u>2024 Approved Restoring Visibility in Your YouTube Screens</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/chivalry-ii-stability-fix-resolving-the-game-crash-issue/"><u>Chivalry II Stability Fix: Resolving the Game Crash Issue</u></a></li>
-<li><a href="https://games-able.techidaily.com/crafting-fun-experiences-on-discord-with-board-games/"><u>Crafting Fun Experiences on Discord with Board Games</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elden-ring-launch-on-pause-exploring-the-factors-contributing-to-its-postponement/"><u>Elden Ring Launch on Pause - Exploring the Factors Contributing to Its Postponement</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exploring-lgs-ultra-clear-4k-screen-capabilities/"><u>Exploring LG's Ultra-Clear 4K Screen Capabilities</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-pc-instability-how-to-prevent-escape-from-tarkov-crashes/"><u>Fixing PC Instability: How to Prevent Escape From Tarkov Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722997738250-football-manager-2019-crashes-heres-how-you-can-solve-the-problem/"><u>Football Manager 2019 Crashes? Here's How You Can Solve the Problem!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-roblox-gameplay-avoid-error-code-277-on-pc-using-new-tricks/"><u>Mastering Roblox Gameplay: Avoid Error Code 277 on PC Using New Tricks</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719581767154-mastering-urdu-fast-one-short-session-daily/"><u>Mastering Urdu Fast: One Short Session Daily!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/overcome-chatgpt-glitches-discover-these-eight-repairs-for-iphone-app-troubles/"><u>Overcome ChatGPT Glitches: Discover These Eight Repairs for iPhone App Troubles</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-the-critical-process-died-blue-screen-error-a-guide-to-stop-code-0x0n0000003b-solutions/"><u>Troubleshooting the 'Critical Process Died' Blue Screen Error - A Guide to Stop Code 0X0n0000003b Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-unlocking-the-potential-of-generative-ai/"><u>Understanding ChatGPT: Unlocking the Potential of Generative AI</u></a></li>
+<li><a href="https://program-issues.techidaily.com/slime-rancher-2-pc-crash-fix-effective-solutions-to-ensure-smooth-gaming-experience/"><u>'Slime Rancher 2' PC Crash Fix: Effective Solutions to Ensure Smooth Gaming Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-can-creators-earn-from-product-video-reviews/"><u>[New] Can Creators Earn From Product Video Reviews?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-sims-4-live-action-gaming-capture-essentials/"><u>[New] In 2024, Sims 4 Live-Action Gaming Capture Essentials</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-subtlety-in-audio-mixdown-with-alive/"><u>[Updated] 2024 Approved Subtlety in Audio Mixdown with Alive</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-what-is-vimeo-a-peek-at-innovative-content-sharing/"><u>[Updated] What Is Vimeo? A Peek at Innovative Content Sharing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-essence-extractor-capturing-and-saving-the-soul-of-twitter-gifs/"><u>2024 Approved Essence Extractor Capturing & Saving the Soul of Twitter GIFs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-causes-and-fixes-for-frequent-crashes-in-age-of-wonders-planetfall-gameplay/"><u>Common Causes and Fixes for Frequent Crashes in Age of Wonders: Planetfall Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhanced-call-of-duty-vanguard-performance-for-pc-gaming-end-of-the-crash-saga/"><u>Enhanced Call of Duty Vanguard Performance for PC Gaming - End of the Crash Saga</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000714706-football-manager-2022-wont-launch-heres-why-and-how-its-fixed/"><u>Football Manager 2022 Won't Launch? Here's Why and How It's Fixed</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-11-pro-max-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 11 Pro Max with a Broken Screen?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-coordinating-multiple-channels-on-one-screen/"><u>In 2024, Coordinating Multiple Channels on One Screen</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/mastering-sims-4-filming-a-comprehensive-guide-for-2024/"><u>Mastering Sims 4 Filming A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/shadowplay-recording-not-working-on-windows-try-these-proven-fixes/"><u>ShadowPlay Recording Not Working on Windows? Try These Proven Fixes!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-for-opening-the-crashing-nvidia-settings-dashboard/"><u>Solutions for Opening the Crashing NVIDIA Settings Dashboard</u></a></li>
 </ul></div>
 

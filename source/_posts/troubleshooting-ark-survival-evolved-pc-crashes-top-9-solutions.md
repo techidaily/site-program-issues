@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting ARK: Survival Evolved PC Crashes – Top 9 Solutions"
-date: 2024-09-26T18:54:44.558Z
-updated: 2024-09-28T03:13:47.457Z
+date: 2024-09-30T03:55:16.145Z
+updated: 2024-10-03T11:50:57.835Z
 tags:
   - win11
   - win10
@@ -58,13 +58,6 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 
  This process will not affect your currently installed games, but you will need to log into Steam afterwards.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2\. Switch to a wired connection
 
  While Destiny can be played with a strong and stable WiFi connection, many players have found that using WiFi can increase the likelihood that they will lose their connection to Destiny’s services. So we recommend a wired connection if possible. In addition, Destiny requires sufficient bandwidth to function at an optimal level.
@@ -74,13 +67,6 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 * Move the console/computer as close as possible to the WiFi source.
 * Turn off or disable all other devices connected to the WiFi network while playing Destiny 2.
 * Avoid obstructions between the console/computer and the WiFi source whenever possible, especially large appliances or other electronics.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3\. Update your network adapter driver
 
@@ -104,13 +90,6 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4\. Perform a network reset
 
  Performing a network reset potentially fixes any strange settings that may be preventing you from connecting, thus solve your ‘**You have lost connection to the Destiny 2 servers** ‘ error. Here’s how:
@@ -120,10 +99,10 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 2. Click**OK** to confirm your action.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Once the Command Prompt window is open, type the following command lines (press**Enter** after entering each command line):  
@@ -144,18 +123,25 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa.jpg)
 3. Right-click your current network connection, and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Preferred DNS server: 8.8.8.8**  
 **Alternate DNS server: 8.8.4.4**  
@@ -164,10 +150,10 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 6. Click**OK** to apply.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6\. Enable UPnP or Port Forwarding
@@ -179,8 +165,24 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 1. In the Windows Seach bar, type in**cm** d and select**Command Prompt** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/command-prompt.jpg)
 2. Get your Router’s internal IP (Default Gateway) by entering**ipconfig** in Command Prompt.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![default gateway is your router's ip address](https://images.drivereasy.com/wp-content/uploads/2021/07/default-gateway.jpg)
 3. Copy-paste the Default Gateway address into your computer’s browser, and log in with the correct user name and password.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Find the**UPnP** setting, usually located under the “LAN” or “Firewall” category.
 5. Enable UPnP and click**Save** to apply the changes.
 6. Disconnect and reconnect all devices on the network.
@@ -199,13 +201,6 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 ![ip configuration](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfig.jpg)
 3. Take tote of the following: **IPv4 Address, Subnet Mask, Default Gateway**  and **DNS Servers** .  
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![ip address](https://images.drivereasy.com/wp-content/uploads/2021/07/command-prompt.jpg)
 
 **Note:** Default Gateway is your router’s IP Address, which you can copy-paste to your browser’s address bar.
@@ -220,14 +215,22 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 2. Right-click your current connection, and select **Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.jpg)
 3. Double-click **Internet Protocol Version 4 (TCP/IPv4)**  from the list.  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![configure IPV4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPv4-1.jpg)  
 
  4\. Select **Use the following IP address** , and **Use the following DNS server automatically** , and enter the details you copied from Command Prompt: IP address, subnet mask, default gateway, and DNS servers.  
@@ -295,22 +298,21 @@ Many Destiny 2 players are reporting that they get the error ‘ **You have lost
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-tailoring-your-online-persona-with-a-new-background-photo-for-2024/"><u>[New] Tailoring Your Online Persona with a New Background Photo for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-a-tale-of-two-faces-iphone-x-and-samsung-compared-for-2024/"><u>[Updated] A Tale of Two Faces IPhone X & Samsung Compared for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-fb-timing-and-tools-without-a-price-tag/"><u>[Updated] Navigating Fb Timing and Tools Without a Price Tag</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-freeze-laughs-select-the-best-templates/"><u>2024 Approved Freeze Laughs Select the Best Templates</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ace-your-match-in-apex-legends-by-correcting-error-23-with-these-pro-tips/"><u>Ace Your Match in Apex Legends by Correcting Error 23 with These Pro Tips!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/amplify-your-sound-experience-connecting-an-array-of-bluetooth-speakers-to-one-device/"><u>Amplify Your Sound Experience: Connecting an Array of Bluetooth Speakers to One Device</u></a></li>
-<li><a href="https://program-issues.techidaily.com/borderlands-3-crash-woes-easily-fix-them-with-these-tips/"><u>Borderlands 3 Crash Woes? Easily Fix Them with These Tips!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypassing-the-deadlock-proven-solutions-to-launch-far-cry-5-successfully/"><u>Bypassing the Deadlock: Proven Solutions to Launch Far Cry 5 Successfully</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comprehensive-tutorial-on-hooking-up-a-firestick-with-a-projector/"><u>Comprehensive Tutorial on Hooking Up a Firestick with a Projector</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-fps-problems-in-dying-light-expert-tips-and-tricks/"><u>Fixing FPS Problems in Dying Light - Expert Tips & Tricks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/from-dull-to-dynamic-a-masters-approach-to-color/"><u>From Dull to Dynamic A Master's Approach to Color</u></a></li>
-<li><a href="https://program-issues.techidaily.com/god-of-war-now-running-without-the-previous-out-of-memory-setback/"><u>God of War Now Running Without the Previous 'Out of Memory' Setback</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-address-and-repair-crashes-in-the-frontier-game-on-pc/"><u>How to Address and Repair Crashes in the Frontier Game on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-call-of-duty-wwiis-windows-black-screen-fault-expert-solutions-unlocked/"><u>Overcoming Call of Duty WWII's Windows Black Screen Fault - Expert Solutions Unlocked</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-for-internet-explorer-not-responding-issues/"><u>Step-by-Step Solution for Internet Explorer Not Responding Issues</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tweeted-cinematics-from-video-to-wavmp3/"><u>Tweeted Cinematics From Video to WAV/MP3</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fixes-for-low-fps-in-valheim-expert-tips-and-tweaks-to-maximize-your-frame-rate-2024/"><u>Ultimate Fixes for Low FPS in Valheim - Expert Tips and Tweaks to Maximize Your Frame Rate (2^024)</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-elevating-your-tiktok-career-with-effective-monetization-strategies/"><u>[New] 2024 Approved Elevating Your TikTok Career with Effective Monetization Strategies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-view-count-prime-hashtags-strategy/"><u>[New] In 2024, Elevate View Count Prime Hashtags Strategy</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-boost-your-income-with-effective-vimeo-monetization-techniques/"><u>2024 Approved Boost Your Income with Effective Vimeo Monetization Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-light-manipulation-for-captivating-gopro-time-lapse-scenes/"><u>2024 Approved Mastering Light Manipulation for Captivating GoPro Time Lapse Scenes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bid-farewell-to-terraria-crashing-issues-with-these-expert-strategies/"><u>Bid Farewell to Terraria Crashing Issues with These Expert Strategies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-fixes-for-a-non-responsive-msi-dragon-center-experience/"><u>Easy Fixes for a Non-Responsive MSI Dragon Center Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/foxhole-a-compound-word-becomes-foxholes/"><u>Foxhole (a Compound Word) Becomes Foxholes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/getting-your-skyline-up-and-running-fixing-cities-2s-initialization-woes/"><u>Getting Your Skyline Up and Running: Fixing Cities 2'S Initialization Woes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-poco-f5-pro-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Poco F5 Pro 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/lock-your-nokia-c210-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Nokia C210 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/nba-2k21-pc-stability-enhancements-overcoming-game-crashes-for-smooth-play/"><u>NBA 2K21 PC Stability Enhancements: Overcoming Game Crashes for Smooth Play</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-glitches-mastering-stable-premiere-pro-workflow-in-windows-11-and-10/"><u>No More Glitches: Mastering Stable Premiere Pro Workflow in Windows 11 and 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008444194-pathfinder-wrath-of-the-righteous-not-starting-heres-how-to-fix-it-quickly/"><u>Pathfinder: Wrath of the Righteous Not Starting? Here's How to Fix It Quickly!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-how-to-stop-fallout-3-from-crashing-in-windows-11-environment/"><u>Resolved: How to Stop Fallout #3 From Crashing in Windows 11 Environment</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-complete-blueprint-for-iphone-photo-arrangement-in-ordered-algebras-and-icloud-for-2024/"><u>The Complete Blueprint for iPhone Photo Arrangement in Ordered Algebras and iCloud for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-unveiled-major-updates-on-windows-11-vs-10/"><u>Windows Unveiled: Major Updates on Windows 11 Vs. 10</u></a></li>
 </ul></div>
 

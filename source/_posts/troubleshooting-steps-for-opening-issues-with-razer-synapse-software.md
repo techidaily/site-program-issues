@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Opening Issues with Razer Synapse Software
-date: 2024-09-24T20:02:57.691Z
-updated: 2024-09-27T23:10:29.964Z
+date: 2024-09-30T17:06:33.719Z
+updated: 2024-10-03T13:57:39.329Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 4. [Turn off background apps](https://tools.techidaily.com/drivereasy/download/)
 5. [Change NVIDIA resolution](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check the minimum system requirement
 
  Before trying any complicated fixes, make sure your PC meets the minimum system requirement of Halo Infinite. You’ll meet Halo Infinite stuttering issue or other problems if your hardware is not powerful enough to support the game.
@@ -46,13 +53,6 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 
 You can fix it by uninstalling the multiplayer HD texture packs.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Update your graphic driver
 
  Halo Infinite stuttering or lagging problem is usually related to the graphic driver. Make sure your GPU is fully up to date, the older GPU drivers can lead to poor performance and micro stutter.
@@ -68,13 +68,6 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 4. Relaunch Halo Infinite and check if it fixes the stuttering issue.
@@ -83,6 +76,13 @@ There are mainly two ways you can update the graphics driver:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If updating the graphics driver doesn’t work, you can move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Change in-game settings
 
@@ -100,9 +100,23 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
@@ -122,21 +136,7 @@ If it’s not working, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Change NVIDIA resolution
 
@@ -163,16 +163,21 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/avoid-posting-mistakes-on-twitter-by-knowing-the-aspect-ratio/"><u>Avoid Posting Mistakes on Twitter by Knowing the Aspect Ratio</u></a></li>
-<li><a href="https://program-issues.techidaily.com/battlefield-v-blue-screen-fix-resolving-memory-error-1760-on-ps4-and-gaming-laptop/"><u>Battlefield V Blue Screen Fix - Resolving Memory Error 1760 on PS4 & Gaming Laptop</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/discover-seamless-interactivity-made-possible-by-cookiebot-integration/"><u>Discover Seamless Interactivity, Made Possible by Cookiebot Integration</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/global-perspective-inclusive-technology-review/"><u>Global Perspective Inclusive Technology Review</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-your-vivo-v30-lite-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Vivo V30 Lite 5G Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 6 Plus? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-roblox-boot-up-obstacles-a-comprehensive-guide-updated/"><u>Overcoming Roblox Boot-Up Obstacles: A Comprehensive Guide [Updated ]</u></a></li>
-<li><a href="https://win11.techidaily.com/the-ultimate-guide-to-rediscovering-missing-panes-top-tips-and-hacks-for-windows-users/"><u>The Ultimate Guide to Rediscovering Missing Panes: Top Tips and Hacks for Windows Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-solving-wrongdoers-keyboard-malfunctions-on-pc/"><u>Troubleshooting Guide: Solving 'Wrongdoers' Keyboard Malfunctions on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-resolving-warzone-pc-match-finding-issues/"><u>Troubleshooting Steps: Resolving 'Warzone' PC Match-Finding Issues</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/vobmp4dvd/"><u>VOBファイルからMP4へのDVD変換手順</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-lenovo-simple-recording-techniques-for-2024/"><u>[Updated] Lenovo Simple Recording Techniques for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003781149-2024s-top-tricks-for-a-smooth-dota-2-experience-stop-lag-once-and-for-good/"><u>2024'S Top Tricks for a Smooth Dota 2 Experience: Stop Lag Once and For Good</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/rammp4-movavi/"><u>網上免費轉換RAM成MP4影片 - 使用Movavi編輯器</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/collective-wisdom-on-easeus-products-for-2024/"><u>Collective Wisdom on EaseUS Products for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/ensuring-unblemished-movie-magic/"><u>Ensuring Unblemished Movie Magic</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-advice-on-chromebooks-and-zoom-for-2024/"><u>Expert Advice on Chromebooks and Zoom for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-crashing-problem-with-nioh-2-complete-edition-a-comprehensive-solution/"><u>Fix Your Crashing Problem with Nioh 2 Complete Edition - A Comprehensive Solution</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/insiders-take-on-dreame-bot-l1-the-future-of-home-maintenance-with-its-state-of-the-art-mopping-and-vacuuming-features/"><u>Insider's Take on Dreame Bot L1#: The Future of Home Maintenance with Its State-of-the-Art Mopping & Vacuuming Features</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722989877310-insurgency-sandstorm-troubleshooting-fixed-crash-issues-and-more/"><u>Insurgency: Sandstorm Troubleshooting - Fixed Crash Issues and More!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-art-of-fixing-steam-launch-failures-discover-these-7-proven-methods/"><u>Master the Art of Fixing Steam Launch Failures – Discover These 7 Proven Methods</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-obs-expert-guide-to-overcoming-your-screen-record-challenges/"><u>Mastering OBS: Expert Guide to Overcoming Your Screen Record Challenges</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-play-avoidance-of-common-bugs-in-arise-adventures/"><u>Optimizing Play: Avoidance of Common Bugs in Arise Adventures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-stutter-and-lag-issues-in-overwatch-a-comprehensive-guide/"><u>Overcoming Stutter & Lag Issues in Overwatch - A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/steps-to-repair-a-dead-mic-in-your-steelseries-arctis-99x-gaming-earphones-fixed/"><u>Steps to Repair a Dead Mic in Your SteelSeries Arctis 9/9X Gaming Earphones [FIXED]</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-essentials-of-clear-coherent-ps3-game-recordings-for-2024/"><u>The Essentials of Clear, Coherent PS3 Game Recordings for 2024</u></a></li>
 </ul></div>
 

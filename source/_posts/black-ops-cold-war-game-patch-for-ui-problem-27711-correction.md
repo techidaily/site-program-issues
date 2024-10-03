@@ -1,7 +1,7 @@
 ---
 title: "Black Ops: Cold War Game Patch for UI Problem 27711 Correction"
-date: 2024-09-23T10:21:13.641Z
-updated: 2024-09-28T00:12:18.549Z
+date: 2024-09-27T06:46:33.631Z
+updated: 2024-10-03T07:59:43.989Z
 tags:
   - win11
   - win10
@@ -26,11 +26,25 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your PC
 
  Some gamers on[Reddit](https://www.reddit.com/r/blackopscoldwar/comments/kia139/get%5Fui%5Ferror%5F27711%5Fand%5Falso%5Fsomething%5Felse/) reported that the game went back to normal after a system restart. So before you try anything more complicated,**exit your game and do a normal reboot** . You’d be surprised how often this trick works.
 
  If the error persists after a reboot, you can take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Scan and repair your game
 
@@ -42,10 +56,10 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now you can launch the game and see if it loads this time.
@@ -81,20 +95,13 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -112,13 +119,6 @@ Here’s how you can check for updates manually:
 1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
@@ -151,24 +151,22 @@ Here’s how you can check for updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-technological-testing-vlles-app-analysis-for-2024/"><u>[New] Technological Testing VLLE's App Analysis for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solved-high-quality-sound-on-win11/"><u>[Solved] High-Quality Sound on Win11</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-6-proven-strategies-to-add-facebook-live-features/"><u>[Updated] 6 Proven Strategies to Add Facebook Live Features</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-content-restrictions-on-youtube-videos/"><u>[Updated] Mastering Content Restrictions on YouTube Videos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-record-desktop-on-windows-3-simple-cost-free-methods/"><u>[Updated] Record Desktop on Windows 3 Simple, Cost-Free Methods</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-step-into-success-the-essentials-you-need-to-know-about-fb-stories-for-2024/"><u>[Updated] Step Into Success The Essentials You Need to Know About FB Stories for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/destiny-2-beyond-light-patched-enhanced-pc-performance-and-bug-fixes/"><u>Destiny 2 Beyond Light Patched – Enhanced PC Performance & Bug Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-strategies-to-enhance-your-origin-download-speeds/"><u>Effective Strategies to Enhance Your Origin Download Speeds</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-lava-storm-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Lava Storm 5G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimized-solving-the-frame-drop-and-freeze-problems-for-dying-light-2-the-following-on-pc/"><u>Optimized! Solving the Frame Drop & Freeze Problems for Dying Light 2: The Following on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-frostpunks-technical-hiccups-how-to-prevent-game-crashing/"><u>Overcome Frostpunk's Technical Hiccups - How to Prevent Game Crashing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/razer-synapse-troubleshooting-why-wont-it-launch/"><u>Razer Synapse Troubleshooting: Why Won't It Launch?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/rw2-file-in-jpeg-format-keurigsgratis-omzetten-expertise-van-movavi/"><u>RW2 File in JPEG Format Keurigsgratis Omzetten - Expertise Van Movavi</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-riot-games-league-of-legends-lag-problems-effectively/"><u>Solving Riot Games' League of Legends Lag Problems Effectively</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-playing-webm-videos-on-macos-big-sur-and-previous-versions/"><u>Step-by-Step Guide: Playing WebM Videos on macOS Big Sur and Previous Versions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-the-frustration-now-simple-steps-to-stop-titanfall-2-from-crashing-down/"><u>Stop the Frustration Now! Simple Steps to Stop Titanfall 2 From Crashing Down</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-to-overcome-issues-with-nwstoreexe-errors/"><u>Troubleshooting Tips to Overcome Issues with nw_store.exe Errors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-team-fortress-2-startup-issues/"><u>Troubleshooting Tips: Resolving Team Fortress 2 Startup Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-mov-vs-mp4-file-formats-exploring-key-distinctions-with-movavi-video-converter/"><u>Understanding MOV Vs. MP4 File Formats - Exploring Key Distinctions with Movavi Video Converter</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-nostalgic-snapshots-from-your-camera-roll-on-snapchat/"><u>[New] 2024 Approved Nostalgic Snapshots From Your Camera Roll on Snapchat</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-budget-friendly-vr-headsets-that-deliver-immersion/"><u>[Updated] Budget-Friendly VR Headsets That Deliver Immersion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-building-community-through-thoughtful-facebook-giveaways/"><u>[Updated] Building Community Through Thoughtful Facebook Giveaways</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-sky-high-security-for-your-photos-explore-free-and-paid-options-for-2024/"><u>[Updated] Sky-High Security for Your Photos Explore Free and Paid Options for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oppo-find-n3-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Oppo Find N3 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-blizzards-wow-error-132-a-step-by-step-guide/"><u>Fixing Blizzard's WoW Error 132: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fortnite-launch-glitches-unraveling-and-fixing-entry-point-errors-successfully/"><u>Fortnite Launch Glitches: Unraveling & Fixing Entry Point Errors Successfully</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/game-on-latest-windows-10-gaming-and-application-hits/"><u>Game On Latest Windows 10 Gaming & Application Hits</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-enable-and-use-the-group-policy-editor-gpmcgpp-on-windows-10-home-pcs/"><u>How to Enable and Use the Group Policy Editor (GPMC/GPP) on Windows 10 Home PCs</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-honor-magic5-ultimate-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Honor Magic5 Ultimate Devices | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/1726028875812-iphoneandroid6/"><u>IPhone/Androidで人気のビデオから音声抽出アプリトップ6つ紹介</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-step-by-step-guide-on-handling-minecraft-crash-with-exit-code-0/"><u>Resolved: Step-by-Step Guide on Handling Minecraft Crash with Exit Code -0</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rockstar-games-launcher-troubles-here-are-top-solutions/"><u>Rockstar Games Launcher Troubles? Here Are Top Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/seamless-fix-for-failed-logins-in-fortnite-a-step-by-step-tutorial/"><u>Seamless Fix for Failed Logins in Fortnite: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://program-issues.techidaily.com/seamless-gaming-in-new-world-expert-strategies-for-fixing-lags-and-stable-online-play/"><u>Seamless Gaming in 'New World': Expert Strategies for Fixing Lags and Stable Online Play</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-4-free-avi-to-mp4-conversion-tools-for-windows-mac-and-online-platforms/"><u>Top 4 FREE AVI to MP4 Conversion Tools for Windows, Mac & Online Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/wallpaper-engine-stability-fixes-for-windows-10-and-11-users/"><u>Wallpaper Engine Stability Fixes for Windows 10 and 11 Users</u></a></li>
 </ul></div>
 

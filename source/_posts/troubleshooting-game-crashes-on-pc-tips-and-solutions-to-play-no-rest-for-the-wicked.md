@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Game Crashes on PC: Tips and Solutions to Play 'No Rest for the Wicked'"
-date: 2024-09-22T17:56:53.884Z
-updated: 2024-09-27T23:14:09.623Z
+date: 2024-10-02T07:06:15.629Z
+updated: 2024-10-03T13:50:03.394Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ thumbnail: https://thmb.techidaily.com/0f51979df117bbafdf1571070799e2143d64735bc
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Check if you enabled in-game overlay in Discord
@@ -48,16 +48,16 @@ thumbnail: https://thmb.techidaily.com/0f51979df117bbafdf1571070799e2143d64735bc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the left panel, click**Game Overlay** . Make sure you turn on the toggle next to **Enable in-game overlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-enable-in-game-overlay-1-1200x714.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
@@ -69,16 +69,16 @@ thumbnail: https://thmb.techidaily.com/0f51979df117bbafdf1571070799e2143d64735bc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) On your desktop, double-click the shortcut of**Discord** to open it.
 
@@ -98,6 +98,13 @@ See if this issue reappears. If not, you have fixed this issue.
 
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable hardware acceleration in Discord
 
  Hardware acceleration is a feature in**Discord** that uses your GPU to make**Discord** smoother. However, many users have reported that sometimes, this feature may cause the**Discord overlay** to not work.
@@ -108,23 +115,9 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Run your game again to see if this issue persists. If not, you have resolved this problem!
 
@@ -139,10 +132,10 @@ See if this issue reappears. If not, you have fixed this issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
@@ -152,6 +145,13 @@ See if this issue reappears. If not, you have fixed this issue.
  iii.**Double-click** **Discord** to uninstall it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 iv. Restart your PC.
 
@@ -207,18 +207,22 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-visualtwitter-quickly-download-and-share-videos-on-mobile/"><u>[Updated] VisualTwitter Quickly Download and Share Videos on Mobile</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-approaches-to-change-song-speed-on-spotify/"><u>2024 Approved Innovative Approaches to Change Song Speed on Spotify</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cyberpunk-2077s-input-lag-issue-now-resolved-how-to-play-smoothly/"><u>Cyberpunk 2077'S Input Lag Issue Now Resolved - How to Play Smoothly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-the-right-video-coding-technique-for-win-os-users/"><u>Deciphering the Right Video Coding Technique for Win OS Users</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/digital-resurrection-breathing-life-into-old-vhs-images/"><u>Digital Resurrection Breathing Life Into Old VHS Images</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-windows-11-and-10-how-to-troubleshoot-and-enable-missing-spatial-audio-features/"><u>Fixing Windows 11 & 10: How to Troubleshoot and Enable Missing Spatial Audio Features</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-6s-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From iPhone 6s?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-navigating-the-world-of-advanced-lut-design/"><u>In 2024, Navigating the World of Advanced LUT Design</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-review-of-the-crucial-p310-nvme-ssd-enhanced-performance-on-m2-2280/"><u>In-Depth Review of the Crucial P310 NVMe SSD - Enhanced Performance on M.2 2280</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-troubles-heres-how-to-fix-five-nights-at-freddys-security-breach-crashes/"><u>PC Troubles? Here's How to Fix 'Five Nights at Freddy's: Security Breach Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-pc-issues-troubleshooting-gray-zone-warfare-game-crashes/"><u>Solving PC Issues: Troubleshooting Gray Zone Warfare Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-triumphs-fix-your-discord-app-when-it-just-wont-open-anymore/"><u>Troubleshooting Triumphs: Fix Your Discord App When It Just Won’t Open Anymore</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-solution-for-rainbow-six-siege-pc-players-facing-a-puzzling-black-screen/"><u>Ultimate Solution for Rainbow Six Siege PC Players Facing a Puzzling Black Screen</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-cutting-edge-artisans-innovative-instagram-hlv-designs/"><u>[Updated] Cutting-Edge Artisans Innovative Instagram HLV Designs</u></a></li>
+<li><a href="https://facebook.techidaily.com/5-steps-to-reduce-friend-requests-on-social-media/"><u>5 Steps to Reduce Friend Requests on Social Media</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/cutting-edge-identifying-instagram-leavers-for-2024/"><u>Cutting Edge Identifying Instagram Leavers for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-correcting-the-causes-of-stuttering-during-fallout-76-sessions/"><u>Diagnosing and Correcting the Causes of Stuttering During Fallout 76 Sessions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-dayz-crashes-instantly-a-simple-guide/"><u>Fix DayZ Crashes Instantly: A Simple Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-14-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on 14?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-honor-100-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Honor 100 Device SIM</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-hero5-black-vs-hero5-the-duel-for-durability/"><u>In 2024, Hero5 Black vs Hero5, The Duel for Durability</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For ZTE Blade A73 5G? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/persona-5-strikers-screen-flicker-fixes-how-to-restore-vibrant-colors-and-clear-imagery/"><u>Persona 5 Strikers Screen Flicker Fixes – How to Restore Vibrant Colors and Clear Imagery</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-for-pathfinder-wrath-of-the-righteous-freezes-in-windows-and-mac-os-now-running-smoothly/"><u>Solution for Pathfinder: Wrath of the Righteous Freezes in Windows and Mac OS - Now Running Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-for-preventing-super-fast-applications-from-freezing-your-pc/"><u>Solutions for Preventing 'Super-Fast' Applications From Freezing Your PC</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-smartphone-gadgets-for-aspiring-vloggers-to-upgrade-their-craft/"><u>Top 9 Smartphone Gadgets for Aspiring Vloggers to Upgrade Their Craft</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-stop-ghostwire-tokyo-from-continuously-crashing-on-desktop/"><u>Troubleshooting Tips - Stop 'Ghostwire: Tokyo' From Continuously Crashing on Desktop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-steams-persistent-black-screen-issue-a-7-step-solution/"><u>Troubleshooting Tips for Steam's Persistent Black Screen Issue - A 7-Step Solution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlock-seamless-gaming-experience-with-these-proven-fixes-for-grand-theft-auto-vs-stutter-issue/"><u>Unlock Seamless Gaming Experience with These Proven Fixes for Grand Theft Auto V's Stutter Issue</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-power-dynamics-in-tropico-6-a-paradise-under-authority/"><u>Unveiling the Power Dynamics in Tropico 6 - A Paradise Under Authority</u></a></li>
 </ul></div>
 

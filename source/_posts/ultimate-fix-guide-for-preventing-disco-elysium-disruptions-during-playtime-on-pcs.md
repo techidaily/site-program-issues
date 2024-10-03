@@ -1,7 +1,7 @@
 ---
 title: Ultimate Fix Guide for Preventing 'Disco Elysium' Disruptions During Playtime on PCs
-date: 2024-09-05T23:42:37.265Z
-updated: 2024-09-06T23:42:37.265Z
+date: 2024-10-02T07:51:18.284Z
+updated: 2024-10-03T09:10:46.702Z
 tags:
   - win11
   - win10
@@ -13,22 +13,10 @@ excerpt: This Article Describes Ultimate Fix Guide for Preventing 'Disco Elysium
 thumbnail: https://thmb.techidaily.com/fba56e471126861872d44702a4719c3712dd082c4310b4a45ca55ed512e735ed.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Say Goodbye To Disruptions: Your Ultimate Solution For Packet Loss On Discord
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/discord-packet-loss.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It’s annoying when you encounter high outbound packet loss in Discord – you might start lagging to everyone in the call, stuttering during streams, and getting a horrendous amount of lag while gaming.
 
  If you’re experiencing packet loss when running Discord, don’t panic. Here’re 6 fixes to try. You may not need to try them all; just work your way down the list until you find the one that does the trick!
@@ -43,12 +31,6 @@ thumbnail: https://thmb.techidaily.com/fba56e471126861872d44702a4719c3712dd082c4
 * [6. Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
 * [7. Update your network adapter driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Restart your devices
 
  Yes, a restart of your devices – as simple as it sounds. This almost always works when it comes to computer glitches or bugs. If your computer and router have been running for a while, now is the time to restart them.
@@ -71,14 +53,15 @@ Discord also offers you an option to circumvent the packet loss issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-03_17-42-24.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If changing the setting didn’t resolve the issue for you, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Use a VPN
 
  A VPN, also known as a Virtual Private Network, can help improve your ping and thus fix packet loss issues, especially when your network is throttled by your ISP.
@@ -102,11 +85,12 @@ Discord also offers you an option to circumvent the packet loss issue.
  If the packet loss issue persists in the web version, the problem could be with Discord itself. You may want to[check Discord’s status](https://discordstatus.com/) to see if any of its servers is down.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 6\. Reinstall Discord
 
  If you’re running into the packet loss problem when using the desktop version of Discord, it could be an issue with installation files. Try reinstalling Discord:
@@ -118,42 +102,39 @@ Discord also offers you an option to circumvent the packet loss issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-03_16-52-25.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3) Delete the Discord folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-03_16-52-57.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) On your keyboard, press the**Windows logo** key and**R** to open the Run dialog.
 
  5) Enter**%localappdata%** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-03_16-54-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6) Delete the Discord folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-03_16-55-09.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7) On your keyboard, press the Windows logo key and R at the same time.
 
@@ -162,6 +143,13 @@ Discord also offers you an option to circumvent the packet loss issue.
 9) Right-click Discord and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-03_16-58-24.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  10)[Download Discord](https://discord.com/) and install it on your computer.
 
@@ -181,12 +169,6 @@ Discord also offers you an option to circumvent the packet loss issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update button** next to the network driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
@@ -207,8 +189,6 @@ Discord also offers you an option to circumvent the packet loss issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +196,20 @@ Discord also offers you an option to circumvent the packet loss issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-enhancing-audience-experience-four-ways-to-livestream-on-tv/"><u>[New] Enhancing Audience Experience Four Ways to Livestream on TV</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-cyberpunk-2077-download-issues-on-steam/"><u>[SOLVED] Cyberpunk 2077 Download Issues on Steam</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-with-the-world-mastering-facebook-twitter-instagram-and-youtube-strategies/"><u>Connect with the World: Mastering Facebook, Twitter, Instagram, and YouTube Strategies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723012240331-fixing-genshin-impact-stop-pc-game-crashes-now/"><u>Fixing Genshin Impact: Stop PC Game Crashes Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/halo-infinite-pc-freeze-dilemma-fix-it-in-just-7-easy-ways/"><u>Halo Infinite PC Freeze Dilemma? Fix It in Just 7 Easy Ways!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-fix-the-resident-evil-5-game-failure-on-your-personal-computer/"><u>How to Fix the Resident Evil #5 Game Failure on Your Personal Computer</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-vivo-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Vivo Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Lava Storm 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-a15-5g-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy A15 5G To Phone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-se-2022-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/persona-nigma-unleashed-troubleshooting-tips-for-a-smooth-run-of-p5s-on-windows/"><u>Persona Nigma Unleashed: Troubleshooting Tips for a Smooth Run of P5S on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revamp-crashy-connections-in-granblue-fantasy-for-windows-expert-link-fix-techniques/"><u>Revamp Crashy Connections in Granblue Fantasy for Windows – Expert Link Fix Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/victory-in-troubleshooting-accessing-and-playing-payday-2-on-pc-platforms/"><u>Victory in Troubleshooting: Accessing & Playing PAYDAY 2 On PC Platforms</u></a></li>
+</ul></div>
 

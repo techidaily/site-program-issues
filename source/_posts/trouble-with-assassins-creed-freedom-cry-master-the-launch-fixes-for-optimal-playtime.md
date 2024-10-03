@@ -1,7 +1,7 @@
 ---
 title: Trouble with Assassin’s Creed Freedom Cry? Master the Launch Fixes for Optimal Playtime
-date: 2024-09-20T17:07:19.155Z
-updated: 2024-09-27T16:04:12.296Z
+date: 2024-09-28T09:59:33.910Z
+updated: 2024-10-02T16:11:59.879Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ When you’re entering this complicated fantasy world, nothing upsets you more t
 9. **[Delete the Gog.dll file](https://tools.techidaily.com/drivereasy/download/)**
 10. **[Clean reinstall](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Run Witcher 3 as Administrator
 
  Witcher 3 sometimes can’t access certain game files on your PC under normal user mode, which could be the cause of the not launching issue. To fix it, you can try running both of your**Steam/GOG** and**Witcher 3** as administrators.
@@ -54,10 +47,10 @@ When you’re entering this complicated fantasy world, nothing upsets you more t
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This will ensure you have administrative privileges every time you open Steam/GOG.
@@ -83,13 +76,6 @@ The executable for the game is located in:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/compatibility.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Now you have full access to the game files. Relaunch it to see if your Witcher 3 not launching issue still persists.
 
 ### Fix 2: Remove Mods
@@ -97,6 +83,13 @@ The executable for the game is located in:
  If you have added any mods to Witcher 3, you can uninstall them to see if it works. Witcher 3 may have been worked fine with the mods before, but mods can be unpredictable at times.
 
  Just delete the mods subfolder within the Witcher 3 folder and it should work. After that, you can launch the game to test the issue. If you can launch the game normally, then great! If not, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update device drivers
 
@@ -120,13 +113,6 @@ There are two ways for you to update your drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/AMD-driver-downloads-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you’ve downloaded the correct drivers for your system, double click the downloaded file and follow the on-screen instructions to install the driver. After that, restart your computer for the changes to take effect.
 
 #### Option 2: Update your graphics driver automatically (Recommended)
@@ -144,6 +130,13 @@ There are two ways for you to update your drivers:
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/scan-now-7.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get**full support** and a**30-day money back guarantee** .)
 
@@ -177,13 +170,6 @@ There are two ways for you to update your drivers:
 
  If Witcher 3 still won’t launch, there might be something wrong with your system files. Try the next fix below to check for system file corruption using the System file checker.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Run system file checker
 
  System File Checker is an in-build tool for scanning corrupt system files, and it will repair any detected missing or corrupt files.
@@ -207,13 +193,6 @@ sfc /scannow
 
  If you receive neither of these messages, you can click **[Microsoft Support Page](https://support.microsoft.com/en-us/help/929833/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system)**  to further fix your problem with File Checker Tool.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Disable in-game overlay
 
  Sometimes in-game overlay can screw over your game and your Witcher 3 not launching issue may be caused by this feature. The game simply takes a lot of time to react when the overlay is on.
@@ -228,6 +207,13 @@ sfc /scannow
   * click on Origin at the top-left corner of the window > select**Application Setting** \>**More** \>**ORIGIN IN-GAME** \> move the slider to turn off**Enable Origin In-Game**
 
  After disabling the in-game overlay, you can launch your Witcher 3 again. If Witcher 3 launches successfully, then great! But if it doesn’t, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Disable Antivirus
 
@@ -246,6 +232,13 @@ Follow the links below to learn how to do it:
 * **[AVG Antivirus](https://support.avg.com/SupportArticleView?l=en&urlname=AVG-Antivirus-scan-exclusions)**
 
 Try launching your game again to see if Witcher 3 works normally again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Perform a clean boot
 
@@ -266,10 +259,10 @@ Try launching your game again to see if Witcher 3 works normally again.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-1019-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5) Restart your PC and launch Witcher 3 again.
@@ -286,6 +279,19 @@ Try launching your game again to see if Witcher 3 works normally again.
 
  If you ever transferred your Witcher 3 from GOG to Steam, there might be two .dll files in your**Steam > steamapps > common > The Witcher 3 > bin** folder. One of them is Steam.dll and the other is GoG.dll. You may delete the**GoG.dl** l file and try running Witcher 3 again to test your issue.
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 10: Perform a reinstall
 
  If the methods above fail to solve your problem, you can reinstall Witcher 3 to see if the issue persists.
@@ -297,10 +303,10 @@ Try launching your game again to see if Witcher 3 works normally again.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Right-click Witcher 3 and select**Uninstall** .
@@ -354,14 +360,21 @@ RECOMMENDED REQUIREMENTS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-coded-chronicles-top-10-roguelike-journeys-for-2024/"><u>[Updated] Coded Chronicles Top 10 Roguelike Journeys for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-all-inclusive-guide-to-sj-cam-s6s-features/"><u>2024 Approved The All-Inclusive Guide to SJ-CAM S6's Features</u></a></li>
-<li><a href="https://win-answers.techidaily.com/expert-advice-on-optimizing-gameplay-say-goodbye-to-stutter-and-lag-in-fallout-76/"><u>Expert Advice on Optimizing Gameplay - Say Goodbye to Stutter and Lag in Fallout 76</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/humor-weaver-androids-in-chains-for-2024/"><u>Humor Weaver Androids in Chains for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-launch-difficulties-with-mass-effect-legendary-edition-expert-tips/"><u>Overcoming Launch Difficulties with Mass Effect Legendary Edition - Expert Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolve-your-battle-royale-gaming-glitches-warzone-stutter-solutions/"><u>Resolve Your Battle Royale Gaming Glitches - Warzone Stutter Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-complete-guide-to-fixing-hitman-3s-persistent-cannot-connect-to-server-error/"><u>The Complete Guide to Fixing Hitman 3'S Persistent 'Cannot Connect to Server' Error</u></a></li>
-<li><a href="https://program-issues.techidaily.com/understanding-and-repairing-launch-denied-situations-for-humankind/"><u>Understanding and Repairing 'Launch Denied' Situations for Humankind</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-the-ultimate-guide-to-lumafusion-on-mac-installation-features-and-alternatives/"><u>Updated 2024 Approved The Ultimate Guide to Lumafusion on Mac Installation, Features, and Alternatives</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-rhythm-and-reels-instagram-music-secrets/"><u>[New] 2024 Approved Rhythm & Reels Instagram Music Secrets</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-convenient-youtube-viewing-activate-picture-in-picture-on-iphone/"><u>[New] Convenient YouTube Viewing Activate Picture-in-Picture on iPhone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-secure-5-insta-story-watchers-selection-for-2024/"><u>[Updated] Secure 5 Insta Story-Watchers' Selection for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-fast-track-to-find-insta-follower-lapses-for-2024/"><u>[Updated] The Fast Track to Find Insta Follower Lapses for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-your-frame-rate-and-minimize-latency-a-complete-guide-to-optimizing-fps-in-fall-guys/"><u>Boost Your Frame Rate & Minimize Latency: A Complete Guide to Optimizing FPS in Fall Guys</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-restoring-your-windows-11-taskbar-functionality/"><u>Diagnosing and Restoring Your Windows 11 Taskbar Functionality</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-recurrent-issues-with-the-ark-software-crashing-down/"><u>Effective Solutions for Recurrent Issues with the ARK Software Crashing Down</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-game-lag-for-call-of-duty-modern-warfare-on-your-computer/"><u>How to Resolve Game Lag for Call of Duty: Modern Warfare on Your Computer</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 Pro Max without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/immerse-yourself-in-the-battlefield-god-of-war-as-a-first-person-shooter-awaits-on-pc/"><u>Immerse Yourself in the Battlefield: God of War as a First-Person Shooter Awaits on PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Nokia C12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-issue-why-does-stardew-valley-keep-freezing-on-your-computer/"><u>Resolving the Issue: Why Does Stardew Valley Keep Freezing on Your Computer?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-content-warning-app-malfunction-troubleshooting-steps-for-pc-users/"><u>Solving 'Content Warning' App Malfunction: Troubleshooting Steps for PC Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721463571995-top-6-solutions-when-apple-wont-accept-your-card-get-paid/"><u>Top 6 Solutions When Apple Won't Accept Your Card: Get Paid!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-movie-scores-compilation-get-your-favorite-tracks-from-iconic-film-osts/"><u>Top Movie Scores Compilation: Get Your Favorite Tracks From Iconic Film OSTs</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-and-rectifying-vac-refusal-on-windows/"><u>Understanding and Rectifying VAC Refusal on Windows</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Improving Gaming Experience by Addressing and Correcting Drop in FPS Rates
-date: 2024-09-21T03:08:00.268Z
-updated: 2024-09-28T06:46:33.199Z
+date: 2024-09-27T08:59:18.594Z
+updated: 2024-10-03T04:14:42.096Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Check the system requirements
 
  If the frame rate hasn’t been good for you when gaming, one of the first things you should do is to make sure that your computer specs are**above** the minimum system requirements for the games. If your machine is below or just at the requirements, you may need to upgrade your hardware for some games to run smoothly, especially newer games that were released in recent years, as they usually require more advanced computer hardware devices.
@@ -49,6 +42,13 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
  When you’re sure that your machine meets (or better,**way above** ) the minimum system requirements to run the games, but you’re still experiencing FPS dopping problems, please move on to the other fixes below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Make sure your computer is not overheating
 
@@ -69,19 +69,6 @@ To do so:
 1. Right-click the Windows taskbar and select **Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-48.png)
 2. Select each resource-hogging application and click **End Task** to close them one by one.  
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
 3. Pay extra attention to**Intel Turbo Boost Technology** : if you have it running, please disable it as well.
@@ -116,22 +103,35 @@ To do so:
 3. Copy**ipconfig /flushdns** , and paste it in the pop-up window. Then press**Enter** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4.2 Switch to a public DNS server
@@ -150,10 +150,10 @@ To do so:
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
@@ -165,11 +165,25 @@ To do so:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Update graphics card and network card drivers
 
  Another reason why FPS drops in your games is probably outdated or incorrect drivers for your graphics and network cards. This is because outdated, incorrect, or missing drivers for your display card and network card could lead to unstable graphics rendering and slow network connection, and therefore the stuttering and the FPS dropping problems. So you should update your device drivers to see if it helps.
 
  There are mainly 2 ways you can update the drivers for your video card and network card: manually or automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics and network drivers manually
 
@@ -202,17 +216,10 @@ and your network card manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -236,13 +243,6 @@ To change the power mode:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 3. Then run your game to see if the frame rate per second is higher. If the problem remains still, please move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -273,21 +273,24 @@ To change the power mode:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-recordcast-review/"><u>[New] 2024 Approved RecordCast Review</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-aptly-convert-speech-to-text-with-googles-innovative-tech/"><u>[New] In 2024, Aptly Convert Speech to Text with Google's Innovative Tech</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-click-inducing-headline-whiz/"><u>[Updated] In 2024, Click-Inducing Headline Whiz</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-xiaomi-14-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Xiaomi 14 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elevate-computers-processor-to-unlock-full-potential-of-vanguard-application/"><u>Elevate Computer's Processor to Unlock Full Potential of Vanguard Application</u></a></li>
-<li><a href="https://program-issues.techidaily.com/embrace-the-chaos-in-days-gone-the-ultimate-stealth-and-combat-pc-experience-awaits-you/"><u>Embrace the Chaos in Days Gone - The Ultimate Stealth and Combat PC Experience Awaits You!</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-mini-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 mini To Other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-cities-skylines-prevent-and-fix-game-crashes-for-smoother-urban-planning/"><u>Mastering Cities: Skylines : Prevent and Fix Game Crashes for Smoother Urban Planning</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-performance-how-to-enhance-your-fps-rate-in-forza-horizon-5-pc/"><u>Optimizing Performance: How to Enhance Your FPS Rate in Forza Horizon 5 (PC)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/premier-film-selection-available-on-disneyplus-this-moment/"><u>Premier Film Selection Available on Disney+ This Moment</u></a></li>
-<li><a href="https://program-issues.techidaily.com/roblox-pc-troubleshooting-overcoming-error-code-277-with-new-fixes/"><u>Roblox PC Troubleshooting: Overcoming Error Code 277 with New Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-steps-for-persistent-kickoff-issues-in-wwe-2k22-for-gaming-laptops-and-desktops/"><u>Solution Steps for Persistent Kickoff Issues in WWE 2K22 for Gaming Laptops and Desktops</u></a></li>
-<li><a href="https://driver-error.techidaily.com/this-code-snippet-x-140-mlbeginning)-yucca-mountain-of-the-epa-a-study-abroad-to-find-an-appropriate-title-vii-b-am-and-heritage-day-campingtons-parasites-i4/"><u>This Code Snippet (X = 140 Ml_beginning|>', Yucca Mountain of the EPA: A Study Abroad to Find an Appropriate Title VII B-A.m and Heritage Day Campington's Parasites, in a Secluded Corner -a) The Company Must Beef Upcoming; I Need Help Children</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlock-the-secrets-of-like-a-dragon-attain-limitless-riches-on-your-computer/"><u>Unlock the Secrets of 'Like A Dragon' - Attain Limitless Riches on Your Computer</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/what-is-virtual-reality-and-how-does-it-work-in-2024/"><u>What Is Virtual Reality and How Does It Work, In 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-bridging-audio-artistry-in-visual-formats/"><u>[New] 2024 Approved Bridging Audio Artistry in Visual Formats</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-elite-cutting-edge-tools-for-app-editing/"><u>[New] In 2024, Elite Cutting-Edge Tools for App Editing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-a-deep-dive-into-effective-youtube-banner-techniques-for-2024/"><u>[Updated] A Deep Dive Into Effective YouTube Banner Techniques for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-navigating-sponsorships-partnering-effectively-with-brands-live/"><u>[Updated] In 2024, Navigating Sponsorships Partnering Effectively with Brands Live</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/avoid-frustration-preventing-knots-in-3d-printer-threads/"><u>Avoid Frustration: Preventing Knots in 3D Printer Threads</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-epic-music-videos-with-these-10-top-rated-tools/"><u>Create Epic Music Videos with These 10 Top-Rated Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-fallout-76-stability-problems-and-stop-the-game-from-crashing/"><u>How to Resolve Fallout 76 Stability Problems and Stop the Game From Crashing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-realme-narzo-60-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Realme Narzo 60 5G Lock Screen Password</u></a></li>
+<li><a href="https://program-issues.techidaily.com/masterful-strategies-to-correct-the-fatal-ark-error-in-your-system/"><u>Masterful Strategies to Correct the Fatal Ark Error in Your System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigating-through-the-delay-a-deep-dive-into-why-guilty-gear-strive-is-postponed/"><u>Navigating Through the Delay: A Deep Dive Into Why 'Guilty Gear Strive' Is Postponed</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-xiaomi-redmi-note-13-proplus-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-bg-woes-top-6-solutions-to-baldurs-gate-lag-and-hitches/"><u>Resolving BG Woes: Top 6 Solutions to Baldur's Gate Lag and Hitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/slay-your-foes-in-3d-god-of-war-fps-battle-begins-on-personal-computers/"><u>Slay Your Foes in 3D: God of War FPS Battle Begins on Personal Computers</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-picks-the-ultimate-android-mp3-downloader-collection-for-2024/"><u>Top Picks The Ultimate Android MP3 Downloader Collection for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/trouble-with-nier-gestaltreplicant-remaster-heres-what-to-do/"><u>Trouble with NieR Gestalt/Replicant Remaster? Here's What To Do</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-the-rockstar-games-launcher-malfunction-expert-tips-for-2n4/"><u>Troubleshoot the Rockstar Games Launcher Malfunction - Expert Tips for 2N4</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steams-inability-to-update-or-retrieve-game-data-from-the-cloud/"><u>Troubleshooting Steam's Inability to Update or Retrieve Game Data From the Cloud</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-fixes-for-minecraft-unresponsive-issues-on-windows/"><u>Troubleshooting: Fixes for 'Minecraft Unresponsive' Issues on Windows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unleash-flawless-footage-overcome-instagram-video-hurdles/"><u>Unleash Flawless Footage Overcome Instagram Video Hurdles</u></a></li>
 </ul></div>
 

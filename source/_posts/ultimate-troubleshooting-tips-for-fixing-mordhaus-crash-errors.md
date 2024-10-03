@@ -1,7 +1,7 @@
 ---
 title: Ultimate Troubleshooting Tips for Fixing Mordhau's Crash Errors
-date: 2024-09-22T09:55:38.765Z
-updated: 2024-09-27T16:56:18.949Z
+date: 2024-09-30T06:27:18.254Z
+updated: 2024-10-03T04:26:50.655Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ Released on March 26, 2021,**It Takes Two** is currently topping the Steam chart
 5. **[Stop overclocking / turbo boosting](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Update or reinstall DirectX files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Verify the game files
 
  It Takes Two may crash if some game files are corrupted or broken. If this is the case, you can follow the steps below to verify the game files and repair the game:
@@ -47,7 +40,28 @@ Released on March 26, 2021,**It Takes Two** is currently topping the Steam chart
 1. Launch Steam and navigate to**the LIBRARY tab** , then**right-click** on**It Takes Two** and select**Properties** .  
 ![Steam - how to verify integrity of game files](https://www.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 2. Click the**Installed Files** tab, then click**Verify integrity of game files** . Wait for the verification to be completed.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Steam - how to verify integrity of game files](https://www.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch It Takes Two to see if it crashes or not. If the game still crashes, try the next fix, below.
 
@@ -98,10 +112,10 @@ There are mainly two ways you can update your graphics drivers:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You need to restart your PC after you finish updating your graphics driver.
@@ -110,13 +124,6 @@ There are mainly two ways you can update your graphics drivers:
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Install the latest game patch
 
  Hazelight (the developer of It Takes Two) releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -124,19 +131,6 @@ There are mainly two ways you can update your graphics drivers:
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch It Takes Two to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix, below.
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Add the game as an exception to your 3rd party antivirus software
 
@@ -148,6 +142,13 @@ There are mainly two ways you can update your graphics drivers:
 
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5: Stop overclocking / turbo boosting
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -155,13 +156,6 @@ There are mainly two ways you can update your graphics drivers:
  To reduce the frequency of game crashing issues, you should reset the CPU or the graphics card to the manufacturer’s specifications.
 
  If this issue persists after you stop overclocking, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Update or reinstall DirectX files
 
@@ -171,6 +165,13 @@ There are mainly two ways you can update your graphics drivers:
 2. Click the Download button to start the download.  
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  See if the game crashing issue reappears. If not, congratulations, you’ve fixed this issue!
 
@@ -199,20 +200,19 @@ There are mainly two ways you can update your graphics drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-experts-guide-to-achieving-screencasting-perfection-with-mobizen/"><u>[New] 2024 Approved Expert's Guide to Achieving Screencasting Perfection with Mobizen</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-expand-your-horizons-with-a-bundle-of-youtube-videos/"><u>[Updated] In 2024, Expand Your Horizons With A Bundle of YouTube Videos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/arise-chronicles-overcoming-unexpected-game-shutdowns-successfully/"><u>Arise Chronicles: Overcoming Unexpected Game Shutdowns Successfully</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/asus-rog-strix-z370-f-gaming-motherboard-download-latest-drivers-instant-setup/"><u>ASUS ROG Strix Z370-F Gaming Motherboard: Download Latest Drivers | Instant Setup</u></a></li>
-<li><a href="https://program-issues.techidaily.com/avoid-game-crashes-with-these-11-tips-for-fixing-borderlands-3-launch-failures/"><u>Avoid Game Crashes with These 11 Tips for Fixing Borderlands 3 Launch Failures</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beginners-guide-to-solving-helldivers-ii-launching-glitch-addressing-the-black-screen-problem/"><u>Beginner's Guide to Solving Helldivers II Launching Glitch: Addressing the Black Screen Problem</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-lags-and-crashes-a-players-manual-for-optimizing-pubg-performance/"><u>Fixing Lags & Crashes: A Player's Manual for Optimizing PUBG Performance</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-xiaomi-redmi-note-12t-pro-lock-screen-password-by-drfone-android/"><u>How to Reset your Xiaomi Redmi Note 12T Pro Lock Screen Password</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-troubleshooting-stop-spotify-from-disrupting-when-you-secure-your-device/"><u>IPhone Troubleshooting: Stop Spotify From Disrupting When You Secure Your Device</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/live-streaming-simplified-with-top-webcam-recorders-for-2024/"><u>Live Streaming Simplified with Top WebCam Recorders for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolve-and-restart-troubleshooting-a-non-responsive-google-chrome-browser/"><u>Resolve and Restart: Troubleshooting a Non-Responsive Google Chrome Browser</u></a></li>
-<li><a href="https://extra-information.techidaily.com/reviving-brands-through-customer-video-appeals/"><u>Reviving Brands Through Customer Video Appeals</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-editing-images-with-gimp-free-software-suitable-for-all-computers/"><u>The Ultimate Guide to Editing Images with GIMP - Free Software Suitable for All Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-call-of-duty-warzone-when-your-pc-cant-find-games/"><u>Troubleshooting Call of Duty: Warzone - When Your PC Can’t Find Games</u></a></li>
-<li><a href="https://program-issues.techidaily.com/world-of-warcraft-optimization-overcoming-low-fps-challenges/"><u>World of Warcraft Optimization: Overcoming LOW FPS Challenges</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-investigating-the-economics-of-t-series-on-youtube/"><u>[New] 2024 Approved Investigating the Economics of T-Series on YouTube</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-archive-your-antics-a-practical-guide-to-capturing-and-storing-gif-images-from-twitter-for-2024/"><u>[New] Archive Your Antics A Practical Guide to Capturing and Storing GIF Images From Twitter for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instagram-stories-incorporating-natural-bokeh-effects-for-2024/"><u>[New] Instagram Stories Incorporating Natural Bokeh Effects for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/acer-chromebook-15-review-decent-chromebook-with-a-big-screen/"><u>Acer Chromebook 15 Review: Decent Chromebook With a Big Screen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/discord-installer-woes-heres-how-to-get-it-right-in-no-time/"><u>Discord Installer Woes? Here's How to Get It Right in No Time!</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/engage-audiences-effortlessly-social-medias-screen-share-guide/"><u>Engage Audiences Effortlessly Social Media's Screen Share Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-hacks-to-prevent-your-cities-skylines-game-from-crashing/"><u>Expert Hacks to Prevent Your Cities: Skylines Game From Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-your-pacific-drive-running-smoothly-again-essential-troubleshooting-steps/"><u>Get Your Pacific Drive Running Smoothly Again - Essential Troubleshooting Steps</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/guide-connecting-your-iphone-to-a-mac-as-an-external-storage-device/"><u>Guide: Connecting Your iPhone to a Mac as an External Storage Device</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/line-livewindowspc/"><u>LINE LIVE動画のWindowsPC向け保存ガイド：ダウンロード＆録画方法</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-for-a-non-updatable-minecraft-native-launcher/"><u>Step-by-Step Solution for a Non-Updatable Minecraft Native Launcher</u></a></li>
+<li><a href="https://program-issues.techidaily.com/taming-discords-resource-demand-comprehensive-fixes-for-elevated-cpu-use/"><u>Taming Discord's Resource Demand : Comprehensive Fixes for Elevated CPU Use</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-fixing-the-issue-when-deathloop-wont-start/"><u>Troubleshooting Tips: Fixing the Issue When Deathloop Won't Start</u></a></li>
 </ul></div>
 

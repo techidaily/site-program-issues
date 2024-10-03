@@ -1,7 +1,7 @@
 ---
 title: Expert Advice for Stabilizing Call of Duty's Dead Zombie War on PC – Crash Issues Solved
-date: 2024-09-25T16:39:17.198Z
-updated: 2024-09-27T20:47:35.017Z
+date: 2024-09-26T01:35:41.528Z
+updated: 2024-10-03T05:23:51.972Z
 tags:
   - win11
   - win10
@@ -31,10 +31,10 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Stop overclocking
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
  To reduce the frequency of crashes in Metro Exodus PC Enhanced Edition, you may need to reset the CPU or the graphics card to the manufacturer specifications.
 
  Launch the game and see if this issue persists after you stopped overclocking. if the game still crashes, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics drivers
 
@@ -79,29 +86,15 @@ If the issue persists, try the next fix below.
 2. Click **LOCAL FILES** \> **Verify integrity of game files…** . Wait a few minutes for Steam to validate the files of the game.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Restart Metro Exodus PC Enhanced Edition to check if this fix stops the crashes. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Install the latest game patch
 
@@ -122,13 +115,6 @@ If the issue persists, try the next fix below.
 1. Launch **Steam** and go to your **LIBRARY** , then right-click on the Metro Exodus game title and click **Properties…** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
@@ -159,17 +145,31 @@ To perform a clean boot, just follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Restart** your PC and run Metro Exodus PC Enhanced Edition to check if the game crashes. If not, you need to open the **System Configuration** window again and enable services and applications **one by one** until you find the problematic software. After enabling each startup service, you need to restart Windows OS to apply the changes.
 
@@ -197,16 +197,17 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-illuminating-images-techniques-in-color-science/"><u>[Updated] 2024 Approved Illuminating Images Techniques in Color Science</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-a-diy-approach-downloading-and-personalizing-your-whatsapp-ringtone/"><u>[Updated] A DIY Approach Downloading & Personalizing Your WhatsApp Ringtone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-premier-screenshots-software-for-linux-users-for-2024/"><u>[Updated] Premier Screenshots Software for Linux Users for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-illustrators-playground-navigating-through-top-8-iphone-drawing-tools/"><u>2024 Approved Illustrators' Playground Navigating Through Top 8 iPhone Drawing Tools</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-loading-endlessly-problem-tips-to-get-cold-war-running-smoothly-on-console-and-pc/"><u>Beat the 'Loading Endlessly' Problem - Tips to Get Cold War Running Smoothly on Console & PC</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-screen-snatching-made-easy-analyzing-no-cost-recording-apps/"><u>In 2024, Screen Snatching Made Easy – Analyzing No-Cost Recording Apps</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-top-video-editing-tools-for-newbies-free-and-paid-options-for-2024/"><u>New Top Video Editing Tools for Newbies Free and Paid Options for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/silent-void-after-driver-addition/"><u>Silent Void After Driver Addition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-steps-when-your-battlenet-launcher-keeps-failing-on-windows/"><u>Solution Steps: When Your Battle.net Launcher Keeps Failing on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/starfield-sound-fix-resolving-audio-interruptions-and-hiccups/"><u>Starfield Sound Fix: Resolving Audio Interruptions & Hiccups</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unraveling-the-mystery-behind-dota-underlords-frequent-crashes-and-how-to-prevent-them/"><u>Unraveling the Mystery Behind Dota Underlord's Frequent Crashes and How to Prevent Them</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-what-is-virtual-reality-and-how-does-it-work/"><u>2024 Approved What Is Virtual Reality and How Does It Work?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-discord-camera-problems-expert-advice-and-tips-for-users/"><u>Fixing Discord Camera Problems: Expert Advice and Tips for Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-and-resolve-persistent-ark-software-failures/"><u>How to Prevent and Resolve Persistent ARK Software Failures</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Infinix Zero 5G 2023 Turbo</u></a></li>
+<li><a href="https://fox-where.techidaily.com/quick-tips-to-restore-removed-contacts-from-your-iphone-device/"><u>Quick Tips to Restore Removed Contacts From Your iPhone Device</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stability-secrets-unveiled-how-to-stop-euro-truck-simulator-2-from-crashing-your-pc/"><u>Stability Secrets Unveiled: How to Stop Euro Truck Simulator 2 From Crashing Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-resolving-issues-with-football-manager-2020-malfunctions/"><u>Troubleshooting Steps: Resolving Issues with Football Manager 2020 Malfunctions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-issues-with-saints-row-game-launch-failures/"><u>Ultimate Guide: Resolving Issues with Saints Row Game Launch Failures</u></a></li>
+<li><a href="https://win-tips.techidaily.com/unleash-your-imagination-with-free-downloads-videogames-films-shows-and-comics-for-the-ultimate-escape-experience/"><u>Unleash Your Imagination with FREE Downloads: Videogames, Films, Shows & Comics for the Ultimate Escape Experience!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-essential-roles-and-their-impact-during-filming-phase/"><u>Updated 2024 Approved Essential Roles and Their Impact During Filming Phase</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your drivers with Windows Device Manager on Windows 11/10</u></a></li>
 </ul></div>
 

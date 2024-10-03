@@ -1,7 +1,7 @@
 ---
 title: Conquer Fortnite Lag & Crash Issues on Your PC – Top Fixes for a Seamless Experience
-date: 2024-09-21T06:12:32.364Z
-updated: 2024-09-28T00:17:27.509Z
+date: 2024-10-02T03:43:48.735Z
+updated: 2024-10-02T18:01:41.782Z
 tags:
   - win11
   - win10
@@ -34,18 +34,18 @@ thumbnail: https://thmb.techidaily.com/4da3de972356b3a0046491847cf09381445449045
 6. **[Run your game in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall your game and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: **Restart your computer**
 
  Sometimes a game can crash or stop responding because of a temporary issue that you can fix by restarting your device.
 
  If the Terraria crashing issue still exists after the reboot, then move on to the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: **Disable your antivirus temporarily**
 
@@ -69,22 +69,16 @@ If this didn’t help in resolving your problem, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)**  Relaunch Steam and_Terraria_ to test your issue.
 
@@ -109,13 +103,6 @@ If this didn’t help in resolving your problem, try the fix below.
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -145,10 +132,10 @@ _Terraria_ may crash when one or more certain game file is damaged or missing. T
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-252.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)** Relaunch your game to see if your problem has been resolved.
@@ -170,13 +157,6 @@ If not, try the next fix.
 **3)**  Click the list box below to select **Windows 8** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-255.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Relaunch your game to check if your issue had been resolved.
 
@@ -205,6 +185,19 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-257.png)
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Download and install _Terraria_  again.
 
  Now, relaunch your game to check if this has fixed your issue. If not, you’ll need to reinstall Steam as well.
@@ -215,6 +208,13 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
@@ -224,28 +224,15 @@ If this didn’t work for you, check the fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Select **Uninstall a program** .
 
@@ -268,15 +255,28 @@ If this didn’t work for you, check the fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **12)**  Relaunch Steam and your game.
 
@@ -303,24 +303,24 @@ If this didn’t work for you, check the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-democracy-dashboard-top-5-voting-simulation-titles/"><u>[Updated] Democracy Dashboard Top 5 Voting Simulation Titles</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-brain-teasers-galore-choose-your-top-escapes/"><u>[Updated] In 2024, Brain Teasers Galore Choose Your Top Escapes</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-boundless-gallery-of-forgotten-artists/"><u>[Updated] In 2024, The Boundless Gallery of Forgotten Artists</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-instagram-melodies-compliance-and-policies-for-2024/"><u>[Updated] Instagram Melodies Compliance and Policies for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-unlock-the-full-potential-of-game-recordings-in-w11/"><u>2024 Approved Unlock the Full Potential of Game Recordings in W11</u></a></li>
-<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-lenovo-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Lenovo</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-realme-c53-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Realme C53 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-your-gas-station-simulator-from-keeping-the-computer-down/"><u>How to Stop Your Gas Station Simulator From Keeping the Computer Down!</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-lowering-obs-video-bandwidth/"><u>In 2024, Lowering OBS Video Bandwidth</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-perfecting-the-art-of-saving-gameplay-footage-on-android/"><u>In 2024, Perfecting the Art of Saving Gameplay Footage on Android</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722994204189-nier-replicant-stability-enhanced-say-goodbye-to-game-crashes/"><u>NieR: Replicant Stability Enhanced – Say Goodbye to Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimize-your-shooter-experience-effective-solutions-for-reducing-fps-lags-in-valorant-updated/"><u>Optimize Your Shooter Experience: Effective Solutions for Reducing FPS Lags in VALORANT (Updated )</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-solutions-for-persistent-crashes-of-genshin-impact-in-windows-and-macos/"><u>Resolved! Solutions for Persistent Crashes of Genshin Impact in Windows and MacOS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/restoring-functionality-to-your-pathfinder-wrath-of-the-righteous-game-controllerkeyboard/"><u>Restoring Functionality to Your 'Pathfinder: Wrath of the Righteous' Game Controller/Keyboard</u></a></li>
-<li><a href="https://program-issues.techidaily.com/reviving-your-obs-mic-the-experts-ranking-of-best-solutions/"><u>Reviving Your OBS Mic : The Expert's Ranking of Best Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-graphical-glitches-and-missing-details-in-cod-warzone-maps/"><u>Solving Graphical Glitches and Missing Details in COD: Warzone Maps</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-video-invitation-apps-for-iphone-and-android-for-2024/"><u>The Ultimate Guide to Video Invitation Apps for iPhone and Android for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-helldivers-2-how-to-restore-missing-msvcr110dll-file/"><u>Troubleshooting Helldivers 2: How to Restore Missing MSVCR110.dll File</u></a></li>
-<li><a href="https://program-issues.techidaily.com/zombie-army-4-dead-war-a-survival-guide-for-pc-gaming-troubleshooting/"><u>Zombie Army 4: Dead War - A Survival Guide for PC Gaming Troubleshooting</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-monetizing-youtube-shorts-crucial-requirements-and-potential-income/"><u>[Updated] Monetizing Youtube Shorts Crucial Requirements and Potential Income</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-tutorial-on-transferringcopying-dvds-as-iso-images-and-making-secure-backups-with-winx-dvd-software-pro/"><u>Comprehensive Tutorial on Transferring/Copying DVDs as ISO Images and Making Secure Backups with WinX DVD Software Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convertir-audios-wav-directamente-al-formato-linea-congratuito-usando-herramientas-de-movavi/"><u>Convertir Audios WAV Directamente Al Formato Línea Congratuito Usando Herramientas De Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enshrouded-pc-malfunction-solved-steps-for-a-smooth-stable-computer-experience/"><u>Enshrouded PC Malfunction Solved: Steps for a Smooth, Stable Computer Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-tricks-resolving-maplestory-instability-on-windows-11/"><u>Essential Tricks: Resolving MapleStory Instability on Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-art-of-reducing-discords-cpu-drain-strategies-and-tips/"><u>Mastering the Art of Reducing Discord's CPU Drain: Strategies and Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-world-of-warcraft-frame-rate-optimization-essential-strategies-for-a-better-gaming-experience/"><u>Mastering World of Warcraft Frame Rate Optimization: Essential Strategies for a Better Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-fix-missing-audio-in-eg2-for-ultimate-control/"><u>Solution Found! Fix Missing Audio in EG2 for Ultimate Control</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-to-fix-launch-problems-in-call-of-duty-modern-warfare-3-mw3/"><u>Solutions to Fix Launch Problems in Call of Duty: Modern Warfare 3 (MW3)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/supplementing-income-with-ai-assistant-jobs-and-home-built-pc-tips-for-enthusiasts/"><u>Supplementing Income with AI Assistant Jobs & Home-Built PC Tips for Enthusiasts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-guide-preventing-and-solving-pc-stalls-during-a-match-of-football-manager-2022/"><u>The Ultimate Guide: Preventing and Solving PC Stalls During a Match of Football Manager 2022</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722862697502-the-upcoming-marvel-of-tech-insights-into-samsung-galaxy-z-fold-6-cost-launch-date-and-hardware/"><u>The Upcoming Marvel of Tech - Insights Into Samsung Galaxy Z Fold 6 Cost, Launch Date & Hardware!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-how-to-fix-mass-effect-legendary-edition-failed-to-start-issue/"><u>Troubleshooting Steps: How to Fix 'Mass Effect Legendary Edition Failed to Start' Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-fixing-the-persistent-black-screen-in-persona-5-strikers/"><u>Troubleshooting Tips: Fixing the Persistent Black Screen in Persona 5 Strikers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlock-15-simple-vlog-inspirations-today-for-2024/"><u>Unlock 15 Simple Vlog Inspirations Today for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-awaken-your-creative-flow-pro-bargain-tunes-for-video-editing/"><u>Updated Awaken Your Creative Flow Pro Bargain Tunes for Video Editing</u></a></li>
 </ul></div>
 

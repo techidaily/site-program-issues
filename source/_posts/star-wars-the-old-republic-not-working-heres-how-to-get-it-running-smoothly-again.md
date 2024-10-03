@@ -1,7 +1,7 @@
 ---
 title: Star Wars The Old Republic Not Working? Here's How to Get It Running Smoothly Again
-date: 2024-09-17T16:42:44.010Z
-updated: 2024-09-21T18:52:30.563Z
+date: 2024-09-27T23:29:40.890Z
+updated: 2024-10-03T03:16:03.805Z
 tags:
   - win11
   - win10
@@ -65,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/24b4a5d68fd5e6bea75410f8f6c4c82cdd5bcbea3
 If the game is still crashing, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Run as administrator
@@ -82,6 +82,13 @@ If the game is still crashing, try the next fix.
 4. Click**Apply > OK** .
 
 5. Run the game and check the issue is solved or not.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics card driver
 
@@ -112,9 +119,23 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it launch properly.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -129,6 +150,13 @@ OR
 3. Choose Local files and click**Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify-2.jpg)
 4. Start rainbow six and Uplay will open and ask to link your account
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Then your game will start automatically!
 
@@ -152,20 +180,13 @@ OR
 5. Launch Rainbow Six Siege to check.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note: If your computer don’t have Microsoft Visual C++ 201X Redistributable software, you can go to[Microsoft official website](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) to download the latest version.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Uplay
 
@@ -176,10 +197,10 @@ OR
 2. Set**View in Large icons** and click**Program and Features** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/program.jpg)
@@ -187,13 +208,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uplay.jpg)
 4. After uninstalling uPlay. Go to the[Uplay official website](https://uplay.ubisoft.com/en-GB) to download the latest version.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Install Uplay.
 6. Log in Uplay, run Rainbow Six Siege to check.
@@ -217,5 +231,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-digitally-preserved-the-ultimate-guide-for-saving-twitter-vids-for-2024/"><u>[Updated] Digitally Preserved The Ultimate Guide for Saving Twitter Vids for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-teaching-trends-top-10-innovative-audio-visual-recording-tools/"><u>[Updated] In 2024, Teaching Trends Top 10 Innovative Audio-Visual Recording Tools</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/automated-lead-capture-with-cutting-edge-cookiebot-technology/"><u>Automated Lead Capture with Cutting-Edge Cookiebot Technology</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-house-flipper-2-crashes-on-your-computer-a-comprehensive-fix-guide/"><u>Eliminate House Flipper 2 Crashes on Your Computer: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-infinix-note-30-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Infinix Note 30 Pro Phone Screen?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/how-the-samsung-galaxy-watch-active-2-outshines-its-original-version-with-superior-connectivity-control-and-insightful-functions/"><u>How the Samsung Galaxy Watch Active 2 Outshines Its Original Version with Superior Connectivity, Control, and Insightful Functions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/how-to-fix-and-prevent-0xc000036b-user-permission-denied-on-your-pc-quickly/"><u>How to Fix and Prevent 0xC000036B (User Permission Denied) on Your PC Quickly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-playstation-5-boot-failure-with-quick-solutions/"><u>How to Resolve PlayStation 5 Boot Failure with Quick Solutions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-free-to-use-tools-for-transcribing-digital-conferences/"><u>In 2024, Free-to-Use Tools for Transcribing Digital Conferences</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-art-of-shadowplay-recordings-solving-common-issues-on-windows-systems/"><u>Mastering the Art of Shadowplay Recordings: Solving Common Issues on Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-past-windows-terminal-lockup/"><u>Navigating Past Windows Terminal Lockup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-players-rejoice-wrc-10-game-crashing-problems-solved-enhanced-performance-guaranteed/"><u>PC Players Rejoice - WRC 10 Game Crashing Problems Solved! Enhanced Performance Guaranteed.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resident-evil-village-pc-stability-fixes-get-uninterrupted-gaming/"><u>Resident Evil Village PC Stability Fixes - Get Uninterrupted Gaming!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-not-launching-issue-last-epoch-update-fixes-for-pc-how-to-guide/"><u>Resolving the 'Not Launching' Issue: Last Epoch Update Fixes for PC | How-To Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-issue-escape-from-tarkov-server-disconnect/"><u>Resolving the Issue: Escape From Tarkov Server Disconnect</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722990899286-solving-lost-ark-server-disconnect-error-effective-solutions-revealed/"><u>Solving Lost Ark Server Disconnect Error - Effective Solutions Revealed!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/taking-on-the-competition-comprehensive-review-of-the-google-pixel-4a-5g/"><u>Taking on the Competition: Comprehensive Review of the Google Pixel 4a 5G</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-performance-issues-making-your-age-of-empires-4-gameplay-smoother/"><u>Troubleshooting Performance Issues: Making Your Age of Empires 4 Gameplay Smoother</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ultimate-guide-hp-chromebook-11-the-perfect-blend-of-productivity-and-entertainment/"><u>Ultimate Guide: HP Chromebook 11 - The Perfect Blend of Productivity & Entertainment</u></a></li>
+</ul></div>
 

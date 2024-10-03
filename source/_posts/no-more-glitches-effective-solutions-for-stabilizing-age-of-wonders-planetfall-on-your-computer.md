@@ -1,7 +1,7 @@
 ---
 title: "No More Glitches: Effective Solutions for Stabilizing 'Age of Wonders: Planetfall' On Your Computer"
-date: 2024-09-26T21:03:10.239Z
-updated: 2024-09-28T07:10:33.174Z
+date: 2024-09-29T15:36:22.404Z
+updated: 2024-10-03T03:01:32.687Z
 tags:
   - win11
   - win10
@@ -65,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -95,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
@@ -108,15 +101,22 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -126,16 +126,16 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
 
@@ -157,6 +157,13 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
@@ -174,13 +181,6 @@ thumbnail: https://thmb.techidaily.com/69447678dc133f5b018ef497ad72f57eb0cb6c7d8
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
@@ -208,20 +208,16 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-4-ways-how-to-download-videos-from-facebook-messenger/"><u>[New] 4 Ways | How to Download Videos From Facebook Messenger?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-action-in-full-hd-top-7-camcorders-for-thrills/"><u>[Updated] 2024 Approved Action in Full HD Top 7 Camcorders for Thrills</u></a></li>
-<li><a href="https://program-issues.techidaily.com/apex-legends-troubleshooting-how-to-fix-error-code-23-quickly-and-easily/"><u>Apex Legends Troubleshooting: How to Fix Error Code 23 Quickly and Easily</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722991971535-complete-guide-no-more-cyberpunk-2077-download-troubles-on-steam/"><u>Complete Guide: No More Cyberpunk 2077 Download Troubles on Steam</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-guide-resolving-the-elder-scrolls-online-failure-to-load-error/"><u>Easy Guide: Resolving 'The Elder Scrolls Online' Failure to Load Error</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722990711699-fix-your-steam-game-crashes-and-startup-problems-in-windows-10-easily/"><u>Fix Your Steam Game Crashes and Startup Problems in Windows 10 Easily</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/how-to-address-and-repair-cyberpunk-2077s-debilitating-black-screen-problem/"><u>How to Address and Repair Cyberpunk 2077’S Debilitating Black Screen Problem</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-sony-xperia-1-v-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Sony Xperia 1 V Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-lenovo-thinkphone-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Lenovo ThinkPhone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-technology-insights-toms-hardware-authority/"><u>Mastering Technology Insights: Tom's Hardware Authority</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723004823507-pc-troubles-discover-how-to-overcome-crashes-in-detroit-become-human/"><u>PC Troubles? Discover How to Overcome Crashes in Detroit: Become Human</u></a></li>
-<li><a href="https://program-issues.techidaily.com/persona-eb-golden-stability-fix-overcoming-common-crash-errors/"><u>Persona Eb Golden Stability Fix: Overcoming Common Crash Errors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/potatoes-the-humble-potato-has-become-an-essential-ingredient-in-portuguese-cuisine-over-the-centuries-particularly-in-the-north-where-dishes-like-cozido-a-349/"><u>Potatoes: The Humble Potato Has Become an Essential Ingredient in Portuguese Cuisine over the Centuries, Particularly in the North Where Dishes Like Cozido À Portuguesa (Portuguese Stew) and Batatas Saladas (Potato Salad) Are Popular Year-Round.</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/total-movement-insights-2023/"><u>Total Movement Insights 2023</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-unleash-your-creativity-top-rated-online-animation-software-for-video-making/"><u>Updated 2024 Approved Unleash Your Creativity Top-Rated Online Animation Software for Video Making</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-shotchrome-xtreme-top-tier-os-capturing/"><u>[Updated] 2024 Approved ShotChrome Xtreme Top-Tier OS Capturing</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-apowersoft-recording-software-overview/"><u>[Updated] Apowersoft Recording Software Overview</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-how-to-present-ppt-on-google-meet/"><u>[Updated] In 2024, How to Present PPT on Google Meet?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-diagnose-and-repair-freezing-errors-in-borderlands-3/"><u>Comprehensive Guide to Diagnose and Repair Freezing Errors in Borderlands 3</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-common-apex-legends-engine-errors-effortlessly/"><u>How to Fix Common Apex Legends Engine Errors Effortlessly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-xiaomi-redmi-13c-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Xiaomi Redmi 13C Phone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-fix-for-acrocefexe-errors-on-windows-expert-tips/"><u>Step-by-Step Fix for AcroCEF.exe Errors on Windows – Expert Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/straightforward-approach-to-mastering-simple-hdr-techniques/"><u>Straightforward Approach to Mastering Simple HDR Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-improve-file-transfers-on-win11-pcs-1/"><u>Strategies to Improve File Transfers on WIN11 PCs (1)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-your-clownfish-voice-modifier-a-step-by-step-guide/"><u>Troubleshooting Your Clownfish Voice Modifier: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/warcraft-3-reforged-winning-the-battle-against-pc-game-crashes-expert-advice/"><u>Warcraft 3 Reforged: Winning the Battle Against PC Game Crashes - Expert Advice</u></a></li>
 </ul></div>
 

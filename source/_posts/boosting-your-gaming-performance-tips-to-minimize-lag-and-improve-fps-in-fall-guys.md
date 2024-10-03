@@ -1,7 +1,7 @@
 ---
 title: "Boosting Your Gaming Performance: Tips to Minimize Lag & Improve FPS in Fall Guys"
-date: 2024-09-26T02:34:41.656Z
-updated: 2024-09-27T20:14:57.496Z
+date: 2024-09-30T07:02:50.902Z
+updated: 2024-10-03T11:49:16.550Z
 tags:
   - win11
   - win10
@@ -55,16 +55,16 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_10-38-20.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Type **dxdiag** , then press**Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_10-41-16.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  On the System tab, check your**OS, Processor and Memory** .
 
@@ -95,10 +95,10 @@ Follow the instructions below to view your computer hardware information:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-23-36.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Right-click the name of your graphics card and select**Properties** .
@@ -133,16 +133,16 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-43-32.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-43-38.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -151,13 +151,6 @@ Follow the instructions below to view your computer hardware information:
 **4)** Try launching your game.
 
  If your problem continues to occur, then go ahead with the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Run your game as an administrator
 
@@ -175,29 +168,9 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-49-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Relaunch _Borderlands 3_ from the Epic Games Launcher to test your issue.
 
 If the game still freezes, then move on to the fix below.
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: **Verify the game** files
 
@@ -208,6 +181,13 @@ If the game still freezes, then move on to the fix below.
 **2)**  Click **Library** , then click **the Settings icon** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-52-08.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Click **Verify** .
 
@@ -270,6 +250,13 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-13-29.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-13-35.jpg)
@@ -296,13 +283,6 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-19-52.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-05.jpg)
@@ -310,6 +290,13 @@ If your issue persists, check the fix below.
 **6)** Click your **C drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-39.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **7)** Click the button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
@@ -335,6 +322,13 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-32-41.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-33-15.jpg)
@@ -344,10 +338,10 @@ If your issue persists, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-33-39.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Right-click the Epics Games, then click **Uninstall/Change** .
@@ -383,19 +377,24 @@ If your issue persists, check the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-exclusive-list-of-smartphone-apps-for-changing-vocal-expression/"><u>[New] 2024 Approved Exclusive List of Smartphone Apps for Changing Vocal Expression</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-best-in-class-premium-screenshots-and-recorders/"><u>[New] Best in Class Premium Screenshots & Recorders</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-choosing-the-right-video-sharing-platform-tiktok-vs-youtubes-shorts/"><u>[New] In 2024, Choosing the Right Video Sharing Platform TikTok vs YouTubes' Shorts?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-igtv-to-fb-exposure-strategies-6-essential-tips/"><u>[New] In 2024, IGTV to FB Exposure Strategies (6 Essential Tips)</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1-how-to-fix-an-unreliable-zoom-connection-a-comprehensive-guide/"><u>1. How to Fix an Unreliable Zoom Connection: A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/banish-lag-and-hitching-proven-methods-to-optimize-grand-theft-auto-5-performance/"><u>Banish Lag and Hitching: Proven Methods to Optimize Grand Theft Auto 5 Performance</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-lag-in-depth-techniques-to-fix-high-ping-challenges-in-back-4-blood/"><u>Beat the Lag: In-Depth Techniques to Fix High Ping Challenges in 'Back 4 Blood'</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/building-a-professional-e-catalog-a-step-by-step-guide-using-flipbuilder/"><u>Building a Professional E-Catalog: A Step-by-Step Guide Using FlipBuilder</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-garrys-mod-ultimate-guide-to-preventing-game-crashes-in-22024/"><u>Fixing Garry's Mod: Ultimate Guide to Preventing Game Crashes in 2^2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-ultimate-guide-for-iphone-screen-taping/"><u>In 2024, The Ultimate Guide for iPhone Screen Taping</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/mastering-animated-gifs-creating-from-youtube-videos-online/"><u>Mastering Animated GIFs Creating From Youtube Videos Online</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-fixing-dev-error-6634-in-cod-warzone-updated-tips/"><u>Step-by-Step Solutions for Fixing Dev Error 6634 in COD Warzone - Updated Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-making-your-headphones-detectable-in-windows-11-media-player/"><u>Step-by-Step: Making Your Headphones Detectable in Windows 11 Media Player</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-stop-rocket-league-from-freezing-tips-and-solutions/"><u>Ultimate Guide: Stop Rocket League From Freezing (Tips & Solutions)</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-10-freepaid-luts-for-canon-camera-for-2024/"><u>[New] 10 Free/Paid LUTs for Canon Camera for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-experts-picks-the-top-5-professional-drone-brands/"><u>[New] 2024 Approved Expert's Picks The Top 5 Professional Drone Brands</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-heroic-journeys-unleashed-the-premier-game-collection-for-2024/"><u>[Updated] Heroic Journeys Unleashed The Premier Game Collection for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tailoring-your-zoom-experience-for-different-industries-on-windows-11/"><u>[Updated] Tailoring Your Zoom Experience for Different Industries on Windows 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-unveiling-canvas-power-10-pro-editor-techniques-for-2024/"><u>[Updated] Unveiling Canva's Power 10 Pro Editor Techniques for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-most-engaging-ar-games-for-phones-revealed/"><u>2024 Approved The Most Engaging AR Games for Phones Revealed</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/2024s-most-popular-and-highly-rated-karaoke-setups/"><u>2024'S Most Popular and Highly Rated Karaoke Setups</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquering-common-fortnite-hurdles-your-complete-guide-to-fixing-error-code-84/"><u>Conquering Common Fortnite Hurdles – Your Complete Guide to Fixing Error Code 84</u></a></li>
+<li><a href="https://games-able.techidaily.com/ea-play-top-7-games-for-sony-console/"><u>EA Play Top 7 Games for Sony Console</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-code-130-on-steam-master-the-fix-with-this-comprehensive-guide/"><u>Error Code 130 on Steam? Master the Fix with This Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-windows-not-responding-on-your-pc-with-a-ds4-controller-update-troubleshooting/"><u>Fixes for 'Windows Not Responding' On Your PC with a DS4 Controller - Update Troubleshooting</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-server-connection-lost-in-escape-from-tarkov/"><u>How to Fix 'Server Connection Lost' In Escape From Tarkov</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-the-essence-of-photography-polarrs-edits-revealed/"><u>Navigating the Essence of Photography Polarr’s Edits Revealed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-experience-with-dying-light-2-on-pc-solutions-for-improved-fps-and-smooth-graphics/"><u>Optimizing Your Experience with Dying Light 2 on PC: Solutions for Improved FPS & Smooth Graphics</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-lost-arks-frame-rate-drop-and-optimization-fix/"><u>Resolved: Lost Ark's Frame Rate Drop and Optimization Fix</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-error-0xc19001e1-on-windows-11-step-by-step-troubleshooting-guide/"><u>Resolving the 'Error 0xC19001E1' On Windows 11: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-path-to-endless-wealth-triumphing-over-challenges-in-the-world-of-like-a-dragon-for-pc/"><u>The Path to Endless Wealth: Triumphing Over Challenges in the World of Like a Dragon for PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-realme-10t-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Realme 10T 5G</u></a></li>
+<li><a href="https://program-issues.techidaily.com/wolcen-lords-of-mayhem-release-delayed-updates-and-expectations/"><u>Wolcen: Lords of Mayhem Release Delayed - Updates and Expectations</u></a></li>
 </ul></div>
 

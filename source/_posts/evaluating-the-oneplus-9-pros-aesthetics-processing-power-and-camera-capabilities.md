@@ -1,7 +1,7 @@
 ---
 title: Evaluating the OnePlus 9 Pro's Aesthetics, Processing Power and Camera Capabilities
-date: 2024-09-27T11:08:57.040Z
-updated: 2024-09-28T04:42:11.274Z
+date: 2024-09-28T16:59:29.777Z
+updated: 2024-10-02T23:35:13.874Z
 categories:
   - BestProducts
 description: This Article Describes Evaluating the OnePlus 9 Pro's Aesthetics, Processing Power and Camera Capabilities
@@ -69,18 +69,18 @@ Lifewire / Jeremy Laukkonen
 
  Luna is an impressive service with what seems like solid underlying tech right out of the gate. The biggest questions seem to be how and when Amazon will go about filling holes in the library, how well the service will work when they eventually roll out 4K streaming, and whether we’ll see better Android support in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Design and Controls: Decent enough app and a nearly flawless controller
 
  Luna isn’t a traditional game console, so there isn’t much design to speak of in terms of hardware. The two important elements here are the Luna app, which operates as an Android app on Fire TV and a web app in[Chrome](https://www.lifewire.com/what-is-google-chrome-4687647) and[Safari](https://www.lifewire.com/what-is-safari-4173608) , and the controller that’s technically optional.
 
 ![Amazon Luna](https://www.lifewire.com/thmb/c10USyUEVgaFrdeWRUBgX6MNpOQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_05-7314cf2ae25a4f428d93f40cc56fb5d1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -91,6 +91,13 @@ Lifewire / Jeremy Laukkonen
  The controller is similarly unassuming, and Amazon clearly isn’t trying to rock the boat there. It’s extremely similar in profile to an Xbox One controller, right down to the positioning of the offset analog sticks. This configuration has long been my favorite, with the Sony-style side-by-side analogs feeling cramped, so the Luna controller feels instinctually good in my hands. If you’re a fan of the Xbox One controller, you’ll likely feel the same. If you don’t like the Xbox-style design for whatever reason, then you may at least appreciate the fact that the build quality of the controller feels quite solid, and it’s very snappy and responsive in use.
 
 ![Amazon Luna](https://www.lifewire.com/thmb/jNDwaMGOVuF5UIISPsmdb5uQdGU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_04-985a4419a93945d2879b09d61fafae5a.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -113,10 +120,10 @@ Lifewire / Jeremy Laukkonen
 ![Amazon Luna](https://www.lifewire.com/thmb/6427gP-MSnqe4st8hfuI-7yxlos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_03-f12a92bc606e43caa77b445a2fdcf1c1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
@@ -124,13 +131,6 @@ Lifewire / Jeremy Laukkonen
  If you do opt to link your controller to your Amazon account when you buy it, and you already own other Amazon devices like[Alexa](https://www.lifewire.com/amazon-alexa-voice-assistant-4152107) that are connected to your Wi-Fi connection, then you can take advantage of Amazon’s Wi-Fi simple setup that shaves some time off the setup process. Otherwise, you just use the Luna controller app on your Android or iPhone to hook the controller up to Wi-Fi.
 
  After the initial setup process, your Luna controller is ready to go regardless of platform. Power on the controller, launch the Luna app or website, and everything automatically connects without any additional work or input.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Performance: Impressive game streaming, but no 4K
 
@@ -152,6 +152,13 @@ Lifewire / Jeremy Laukkonen
 
  If you have a slow internet connection or suffer from poor connectivity, then it’s likely that the brief issues I experienced could be amplified to an unacceptable point. If you have a decent connection, live closer to a major metropolitan area than I do, and have more than 10Mbps of downstream bandwidth available, the service should work just fine.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Software: Dozens of games, but the library is a bit thin with a lot of holes
 
  Luna’s biggest issue, and its biggest question mark going forward, is its streaming library. Amazon is taking a page from Microsoft’s book in that they’re trying to function as a Netflix of game streaming, but Amazon just doesn’t have the same deep library as Microsoft.
@@ -163,13 +170,6 @@ Lifewire / Jeremy Laukkonen
  During the beta period, the basic Luna subscription gets you access to 70 games, with an additional two dozen games locked behind the Ubisoft+ subscription. The 70 games included with the basic subscription offer a ton of entertainment value, but most genres are woefully underrepresented, and others are missing altogether. For example, fans of fighting games won’t find anything to rally behind here.
 
 ![Amazon Luna](https://www.lifewire.com/thmb/NBB1N6qtwbtdjrUgwr1YaBaTuBA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_02-37837bf860d244d3ab11ff01f37c609c-db472e204ada4ccca88e7510eacfae34.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -201,18 +201,18 @@ Lifewire / Jeremy Laukkonen
 
  Amazon Luna is an impressive game streaming service that works surprisingly well whether or not you buy the optional controller. It isn’t perfect, and you’re likely to experience hiccups here and there, but it’s an extremely affordable way to experience dozens of games, many of which would otherwise require an expensive gaming PC or console, without any kind of initial investment. The future of the service remains uncertain, and the precedent of locking Ubisoft games behind an expensive additional paywall isn’t a great sign, but Amazon has a chance to make a real splash in the gaming world with Luna.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Similar Products We've Reviewed
 
 * [Xbox Series X|S Controller](https://www.lifewire.com/xbox-series-x-or-s-controller-review-5113227)
 * [Sony DualSense Wireless Controller](https://www.lifewire.com/sony-dualsense-wireless-controller-review-feel-the-quality-5101639)
 * [Xbox One Elite Controller](https://www.lifewire.com/xbox-one-elite-controller-review-4770957)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -244,18 +244,22 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-bringing-images-to-life-windows-and-mac-text-integration-techniques/"><u>[New] Bringing Images to Life Windows & Mac Text Integration Techniques</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-exclusive-list-of-the-premier-mac-screenshots-tools/"><u>[New] Exclusive List of the Premier Mac Screenshots Tools</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-intuitive-methods-to-log-your-google-voice-conversations/"><u>[New] In 2024, Intuitive Methods to Log Your Google Voice Conversations</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-streaming-masterminds-choice-go-with-pmix-or-castpro-in-2024/"><u>[Updated] Streaming Masterminds' Choice Go with PMix or CastPro, In 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-instagram-engagement-game-changers-the-top-25-hashtags-you-need/"><u>2024 Approved Instagram Engagement Game-Changers The Top 25 Hashtags You Need</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/bert-and-gpt-showdown-natural-language-processing-unwrapped/"><u>BERT & GPT Showdown: Natural Language Processing Unwrapped</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723007389422-breaking-news-the-anticipated-launch-of-it-takes-two-is-now-live/"><u>Breaking News: The Anticipated Launch of 'It Takes Two' Is Now Live</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-analysis-the-ultimate-guide-to-the-onetastic-onenote-add-in/"><u>Comprehensive Analysis: The Ultimate Guide to the Onetastic OneNote Add-In</u></a></li>
-<li><a href="https://program-issues.techidaily.com/getting-past-the-launch-blockade-in-persona-3-farewell-ruins-a-comprehensive-fix-guide/"><u>Getting Past the Launch Blockade in Persona 3 Farewell Ruins: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/modern-warfare-3-mw3-pc-players-ultimate-guide-fixing-and-preventing-game-crashes-easily/"><u>Modern Warfare 3 (MW3) PC Players' Ultimate Guide: Fixing and Preventing Game Crashes Easily</u></a></li>
-<li><a href="https://program-issues.techidaily.com/restore-functionality-fixing-controller-recognition-problems-with-steam-and-windows/"><u>Restore Functionality: Fixing Controller Recognition Problems with Steam & Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/restoring-access-to-your-deactivated-instagram-presence/"><u>Restoring Access to Your Deactivated Instagram Presence</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-boosting-remote-work-engagement-with-4-tactics-for-2024/"><u>[New] Boosting Remote Work Engagement with 4 Tactics for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-revamp-your-mac-the-macos-sierra-setup-process/"><u>[New] Revamp Your Mac The macOS Sierra Setup Process</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-concept-to-completion-essential-design-actions/"><u>2024 Approved From Concept to Completion Essential Design Actions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/clearing-up-confusion-a-step-by-nstep-solution-for-destiny-2s-weasel-issue/"><u>Clearing Up Confusion: A Step-by-nStep Solution for Destiny 2'S 'Weasel' Issue</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-motorola-g54-5g-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Motorola G54 5G</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-tutorial-for-refreshing-the-driver-software-of-an-epson-wf-7620-on-a-pc-with-windows-os/"><u>Comprehensive Tutorial for Refreshing the Driver Software of an Epson WF-7620 on a PC with Windows OS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003721467-destiny-2-server-link-error-heres-how-you-can-fix-it-solved/"><u>Destiny 2 Server Link Error? Here's How You Can Fix It – SOLVED</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722991105063-how-to-fix-warzone-directx-error-in-4-easy-steps/"><u>How to Fix 'Warzone DirectX Error' In 4 Easy Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-starting-problems-in-outriders-for-pc-users/"><u>How to Overcome Starting Problems in Outriders for PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-ongoing-problem-of-watch-dogs-legion-not-running-smoothly-on-your-computer/"><u>How to Resolve the Ongoing Problem of Watch Dogs: Legion Not Running Smoothly on Your Computer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-xiaomi-redmi-k70e-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Xiaomi Redmi K70E Phone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-ways-to-boost-your-video-watch-count-responsibly/"><u>Legal Ways to Boost Your Video Watch Count Responsibly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-art-of-preventing-and-repairing-days-gone-breakdowns/"><u>Mastering the Art of Preventing & Repairing 'Days Gone' Breakdowns</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-persistent-killing-of-genshin-impact-on-personal-computers/"><u>Solving Persistent Killing of Genshin Impact on Personal Computers</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-role-of-green-infrastructure-in-revitalizing-cities/"><u>The Role of Green Infrastructure in Revitalizing Cities</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-ultimate-guide-to-digitizing-and-saving-faded-frames/"><u>The Ultimate Guide to Digitizing and Saving Faded Frames</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723001867978-watch-dogs-legion-stability-improved-no-more-crashes-on-windows-computers/"><u>Watch Dogs Legion Stability Improved - No More Crashes on Windows Computers</u></a></li>
 </ul></div>
 
