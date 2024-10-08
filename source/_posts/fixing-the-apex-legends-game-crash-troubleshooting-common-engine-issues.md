@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Apex Legends Game Crash: Troubleshooting Common Engine Issues"
-date: 2024-09-26T18:37:16.911Z
-updated: 2024-10-03T00:00:50.992Z
+date: 2024-10-06T17:30:50.942Z
+updated: 2024-10-08T18:15:15.514Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0204fe6005.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click Update to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -64,35 +71,22 @@ Here is how to grant administrative privileges to Apex Legends:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-564.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In File Explorer, right click on **Apex Legends .exe**  and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-565.png)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Compatibility**  tab. Then check the box next to **Run this program as an administrator** , and click **Apply** .
 
  3) After granting APex Legends administrative privileges, you can run the game again to see if Apex Legends Engine Error still occurs. If it doesn’t, then great! If the issue remains, please move on to**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Verify game files
 
@@ -104,38 +98,24 @@ Here is how to verify game files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-439-1024x522.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Right-click on**Apex Legends** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-561.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Wait until the repair process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Once done, run Apex Legends and check if the engine error is fixed. If yes, then great! If the issue persists, please move on to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Edit Registry
 
@@ -148,6 +128,13 @@ Here are the steps to add the command line:
  1) Right-click on**the empty area** on your desktop, and click**New** \>**Text Document** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-474.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2) Add the following command to the text document.
 
@@ -164,6 +151,13 @@ Windows Registry Editor Version 5.00
  4) Save the file name as**fix.reg** and select the type as**All files** . then click Save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-477.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Click**Yes** once you’re prompted about the message.
 
@@ -191,24 +185,16 @@ Windows Registry Editor Version 5.00
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-convert-and-share-simplified-mp3-to-youtube-process-3-phases-for-2024/"><u>[New] Convert & Share Simplified MP3 to YouTube Process [3 Phases] for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-hubsan-h501s-x4-fpv-quadcopter-review-for-2024/"><u>[New] Hubsan H501S X4 FPV Quadcopter Review for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-free-online-rhythm-analysis-boost-your-dj-skills-efficiently/"><u>[Updated] Free Online Rhythm Analysis Boost Your DJ Skills Efficiently</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-best-mirrorless-cams-top-picks-for-your-next-vlog-project/"><u>[Updated] The Best Mirrorless Cams Top Picks for Your Next Vlog Project</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-fixes-for-escape-from-tarkovs-connection-to-anticheat-service-failed/"><u>Effective Fixes for Escape From Tarkov's 'Connection to Anticheat Service Failed'</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-rockstar-game-services-are-unavailable-on-pc/"><u>Fix Rockstar Game Services Are Unavailable on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-get-warzone-20-running-smoothly-on-your-pc-7-key-fixes-you-need-in-2nd4/"><u>How to Get Warzone 2.0 Running Smoothly on Your PC: 7 Key Fixes You Need in 2nD4</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-to-integrate-chatgpt-with-whatsapp-for-customer-support/"><u>How to Integrate ChatGPT With WhatsApp for Customer Support</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-keep-your-skype-running-smoothly-a-guide-with-10-proven-fixes/"><u>How To Keep Your Skype Running Smoothly: A Guide with 10 Proven Fixes</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-13-pro-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 13 Pro Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-fix-chromium-and-youtube-streams/"><u>In 2024, Fix Chromium and YouTube Streams</u></a></li>
-<li><a href="https://program-issues.techidaily.com/in-depth-analysis-and-remedies-for-fixing-oxygen-not-included-game-crash-issues/"><u>In-Depth Analysis & Remedies for Fixing 'Oxygen Not Included' Game Crash Issues</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-amd-radeon-r9-360-drivers-free-download-and-upgrade-instructions-for-windows-11/"><u>Latest AMD Radeon R9 360 Drivers: Free Download and Upgrade Instructions for Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-fixes-to-dev-error-5573-on-your-cod-warzone-game-whether-youre-on-a-computer-or-console/"><u>Mastering the Fixes to Dev Error 5573 on Your COD: Warzone Game, Whether You're on a Computer or Console</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/revolutionary-6-sustainable-minecraft-homes-for-2024/"><u>Revolutionary 6 Sustainable Minecraft Homes for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-strategies-for-getting-your-division-2-game-running-again/"><u>Top Strategies for Getting Your Division 2 Game Running Again</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-success-overcoming-the-call-of-duty-black-ops-4-initialization-issue/"><u>Troubleshooting Success! Overcoming the Call of Duty: Black Ops 4 Initialization Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-fixing-no-available-camera-on-your-snap-device/"><u>Troubleshooting: Fixing 'No Available Camera' On Your Snap Device</u></a></li>
-<li><a href="https://program-issues.techidaily.com/victory-against-errors-the-case-study-of-defeating-security-breach-detected-in-gaming/"><u>Victory Against Errors: The Case Study of Defeating 'Security Breach Detected in Gaming'</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-earning-mastery-executing-a-3-step-procedure-to-evaluate-your-youtube-income/"><u>[New] In 2024, Earning Mastery Executing a 3-Step Procedure to Evaluate Your YouTube Income</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/comprehensive-guide-to-fix-user32dll-not-detected-problems-quickly/"><u>Comprehensive Guide to Fix User32.dll Not Detected Problems Quickly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-get-and-install-the-newest-logitech-g403-software-on-your-computer/"><u>How to Get and Install the Newest Logitech G403 Software on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-get-your-gamepad-working-with-steam-on-a-windows-machine/"><u>How to Get Your Gamepad Working With Steam on a Windows Machine</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-mini-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 mini To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-selective-online-shopping-destinations-fancy-wrapped-gifts/"><u>In 2024, Selective Online Shopping Destinations Fancy Wrapped Gifts</u></a></li>
+<li><a href="https://win11.techidaily.com/legacy-software-understanding/"><u>Legacy Software Understanding</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-the-safelisting-process-for-domains-on-mac-os-x-mail-a-comprehensive-guide/"><u>Navigating the Safelisting Process for Domains on Mac OS X Mail: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unveiling-the-challenges-that-have-halted-the-ascents-release-date/"><u>Unveiling the Challenges That Have Halted 'The Ascent's Release Date</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-isnt-my-cortana-active-expert-tips-to-restore-its-functionality/"><u>Why Isn't My Cortana Active? Expert Tips to Restore Its Functionality</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-masterclass-creating-captivating-splitscreen-content-for-2024/"><u>YouTube Masterclass Creating Captivating Splitscreen Content for 2024</u></a></li>
 </ul></div>
 

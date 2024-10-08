@@ -1,7 +1,7 @@
 ---
 title: "Call of Duty's Black Ops Cold War - UI Problem #27711: Fixed & Enhanced for Players"
-date: 2024-09-30T15:26:51.909Z
-updated: 2024-10-03T14:09:12.197Z
+date: 2024-10-06T17:18:04.428Z
+updated: 2024-10-08T22:05:42.400Z
 tags:
   - win11
   - win10
@@ -53,10 +53,10 @@ There are two ways for you to do this:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** to do it for free, but it’s partly manual.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/amd-5700-de-1.jpg)
@@ -76,31 +76,30 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-13.jpg)
 2. Navigate to the**Compatibility** tab. Then, tick**Disable fullscreen optimizations** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/11.jpg)
 3. Click**Change high DPI settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/12.jpg)
 4. Tick**Override** **High DPI** **scaling behavior** and select**Application** from the drop-down menu below. Then, click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/0-3.jpg)
@@ -109,10 +108,10 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch your game to see if the freezing problem goes away. If not, try the next fix below.
@@ -128,14 +127,14 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/14.jpg)
 
- After the process completes, relaunch the game to test the issue. If this fix doesn’t help, check out the last one.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ After the process completes, relaunch the game to test the issue. If this fix doesn’t help, check out the last one.
 
 ### Fix 5 – Lower the in-game graphics settings
 
@@ -147,6 +146,13 @@ Here are the steps:
 3. Lower the parameters under each section according to your needs.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/0-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Check how things go. If the freezing problem is persistent, you can contact **[Blizzard’s support](https://support.activision.com/contact-us)**  for further assistance. Since Black Ops Cold War is a relatively new game, we’d wait for the upcoming patches to resolve those known bugs.
 
@@ -172,21 +178,24 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-steady-shots-expert-tips-on-tripods-in-vlog-production/"><u>[New] 2024 Approved Steady Shots Expert Tips on Tripods in Vlog Production</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unlock-the-secrets-to-flawless-instagram-videos/"><u>[New] 2024 Approved Unlock the Secrets to Flawless Instagram Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-the-ultimate-screencast-blueprint-tools-and-techniques-mastery/"><u>[New] In 2024, The Ultimate Screencast Blueprint Tools & Techniques Mastery</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-key-methods-to-capture-and-document-live-youtube-broadcasts/"><u>[New] Key Methods to Capture and Document Live Youtube Broadcasts</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-quickly-connect-your-fb-story-via-linked-profile-for-2024/"><u>[New] Quickly Connect Your FB Story via Linked Profile for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-instant-visualization-techniques-for-timestamp-implementation/"><u>2024 Approved Instant Visualization Techniques for Timestamp Implementation</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/correcting-0x8007045d-failure-on-microsoft-oses/"><u>Correcting 0X8007045D Failure on Microsoft OSes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-the-startup-error-of-payday-2-on-personal-computers/"><u>Diagnosing and Repairing the Startup Error of Payday 2 on Personal Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723009090845-effortlessly-fix-your-pc-issues-with-assassins-creed-odyssey-no-more-crashes/"><u>Effortlessly Fix Your PC Issues with Assassin's Creed Odyssey - No More Crashes</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Infinix Smart 7 HD? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-persistent-freezing-problems-in-ghostwire-tokyo-for-windows-computers/"><u>How to Resolve Persistent Freezing Problems in Ghostwire: Tokyo for Windows Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-yakuza-like-a-dragons-intricacies-a-comprehensive-walkthrough-for-pc-gamers/"><u>Master Yakuza: Like a Dragon's Intricacies - A Comprehensive Walkthrough for PC Gamers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-solutions-easily-resolve-javascript-issues-in-discord/"><u>Quick Solutions: Easily Resolve JavaScript Issues in Discord</u></a></li>
-<li><a href="https://program-issues.techidaily.com/revolutionize-your-viewing-in-depth-analysis-of-lg-c9-oled-65-inch-screens-stunning-4k-performance/"><u>Revolutionize Your Viewing: In-Depth Analysis of LG C9 OLED 65-Inch Screen's Stunning 4K Performance</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-arma-e-3-game-crashes-once-and-for-all-learn-proven-techniques/"><u>Stop Arma E 3 Game Crashes Once and For All! Learn Proven Techniques</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-msi-afterburner-not-detecting-gpu-on-windows-1111/"><u>[SOLVED] MSI Afterburner Not Detecting GPU on Windows 11/11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fresh-talent-and-stunts-in-skating-highlights/"><u>[Updated] Fresh Talent and Stunts in Skating Highlights</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-skills-style-success-your-roadmap-in-the-creative-industry/"><u>2024 Approved Skills, Style, Success Your Roadmap in the Creative Industry</u></a></li>
+<li><a href="https://windows11.techidaily.com/a-detailed-approach-to-fixing-windows-error-code-30005/"><u>A Detailed Approach to Fixing Windows Error Code: 30005</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bards-own-quests-interactive-text-games-with-gpt/"><u>Bard's Own Quests: Interactive Text Games with GPT</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-issues-with-sea-of-thieves-launch-and-solutions/"><u>Common Issues with Sea of Thieves Launch and Solutions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/confronting-giants-picking-your-powerhouse-t5-or-sjcam-s6-for-2024/"><u>Confronting Giants Picking Your Powerhouse - T5 or SJCAM S6 for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/evaluating-the-need-for-rtx-graphics-card-enhancement/"><u>Evaluating the Need for RTX Graphics Card Enhancement</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-solutions-for-preventing-gameloop-malfunctions-on-modern-windows-systems/"><u>Expert Solutions for Preventing GameLoop Malfunctions on Modern Windows Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-stop-metro-exodus-from-crashing-on-your-windows-machine/"><u>Fixing the Issue: How to Stop Metro Exodus From Crashing on Your Windows Machine</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-storytelling-made-simple-with-premiere-pro-tips/"><u>In 2024, YouTube Storytelling Made Simple - With Premiere Pro Tips</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigate-invisible-video-device-snags/"><u>Navigate Invisible Video Device Snags</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-download-and-peer-connectivity-problems-with-utorrent/"><u>Overcoming Download and Peer Connectivity Problems with uTorrent</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/professional-photo-restoration-software-stellar-repair-for-photo-v8-windows/"><u>Professional Photo Restoration Software: Stellar Repair for Photo v8 (Windows)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/secure-and-innovate-with-our-selection-of-18-best-cam-apps/"><u>Secure & Innovate with Our Selection of #18 Best Cam Apps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-guide-correcting-the-notorious-memory-error-12707-glitch-in-modern-warfare-3/"><u>Solution Guide: Correcting the Notorious Memory Error 12707 Glitch in Modern Warfare 3</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-smooth-play-in-halo-infinite-no-more-stutters/"><u>Troubleshooting Tips for Smooth Play in Halo Infinite - No More Stutters!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-step-by-step-tutorial-resolving-teardown-crashes-effectively/"><u>Ultimate Step-by-Step Tutorial: Resolving Teardown Crashes Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/wwe-2k22-stability-issues-solved-ensure-uninterrupted-gameplay-on-your-pc/"><u>WWE 2K22 Stability Issues Solved: Ensure Uninterrupted Gameplay on Your PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Can't Play Helldivers 2 on Steam? Learn How to Resolve It Now
-date: 2024-10-02T15:53:38.511Z
-updated: 2024-10-03T13:28:07.575Z
+date: 2024-10-07T21:08:16.632Z
+updated: 2024-10-08T20:21:36.595Z
 tags:
   - win11
   - win10
@@ -35,42 +35,41 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-373.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Type**inetcpl.cpl** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-358.png)
+
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click the**Connections tab** , then**LAN settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-360.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** If any items on this window are checked, uncheck them. Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-363.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Restart your computer and Steam to test your issue.
 
  If none of the boxes is checked, or if you still get the error code 130, then go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your network adapter driver
 
@@ -104,16 +103,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-364.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -127,22 +126,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
@@ -153,10 +146,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)** Select **Uninstall a program** .
@@ -166,6 +159,13 @@ OR
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
@@ -209,22 +209,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-evaluating-max-360-and-hero-11-the-ultimate-gopro-video-battle/"><u>[New] Evaluating Max 360 & Hero 11 The Ultimate GoPro Video Battle</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-youtube-subscriber-awards-the-play-button-awards-for-creators/"><u>[New] In 2024, YouTube Subscriber Awards The Play Button Awards for Creators</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-craft-compelling-content-essential-youtube-short-video-edits/"><u>2024 Approved Craft Compelling Content Essential Youtube Short Video Edits</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-technological-testing-and-tracking-the-vll-method/"><u>2024 Approved Technological Testing and Tracking The VLL Method</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-install-updated-dch-based-nvidia-quadro-drivers-for-windows-11-systems/"><u>Easy Install: Updated DCH-Based Nvidia Quadro Drivers for Windows 11 Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-for-resolving-connectivity-issues-in-street-fighter-6-on-windows-computers/"><u>Expert Tips for Resolving Connectivity Issues in Street Fighter 6 on Windows Computers</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-s18-pros-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass S18 Pro’s lock screen pattern, PIN or password</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mount-and-blade-ii-bannerlord-stability-fixes-for-a-smoother-gaming-experience/"><u>Mount & Blade II: Bannerlord Stability Fixes for a Smoother Gaming Experience</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-maximize-your-workflow-the-10-best-video-editing-software-tools/"><u>New In 2024, Maximize Your Workflow The 10 Best Video Editing Software Tools</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/scelta-delleditor-pro-gopro-i-migliori-strumenti-software-per-creare-riprese-incredibili/"><u>Scelta Dell'Editor Pro-GoPro: I Migliori Strumenti Software per Creare Riprese Incredibili</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-fixing-fall-guys-stuttering-and-lag-issues-in-pc-version/"><u>Solved: Fixing Fall Guys Stuttering and Lag Issues in PC Version</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-to-fix-dead-by-daylight-code-8014-problems/"><u>Step-by-Step Solutions to Fix Dead by Daylight Code 8014 Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/surviving-against-all-odds-how-black-history-embodies-the-principle-of-eternal-return/"><u>Surviving Against All Odds: How Black History Embodies the Principle of 'Eternal Return'</u></a></li>
-<li><a href="https://program-issues.techidaily.com/testing-your-custom-script-to-test-your-newly-created-custom-routine-trigger-it-using-its-designated-sound-cue-or-conditions-youve-set-up-the-google-assista417/"><u>Testing Your Custom Script: To Test Your Newly Created Custom Routine, Trigger It Using Its Designated Sound Cue or Conditions You've Set Up. The Google Assistant Should Now Respond According to the Actions Specified in Your Script</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-the-msi-mystic-light-issue-on-a-pc-with-windows/"><u>Troubleshooting Guide: Fixing the MSI Mystic Light Issue on a PC with Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-easily-overcome-genshin-impact-launch-issues/"><u>Troubleshooting Tips: Easily Overcome Genshin Impact Launch Issues</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-guide-resolving-indivisible-program-errors-once-and-for-all/"><u>Ultimate Guide: Resolving Indivisible Program Errors Once and For All</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-delving-into-the-advantages-and-disadvantages-of-youtube-premium/"><u>[New] 2024 Approved Delving Into the Advantages and Disadvantages of YouTube Premium</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-supercharge-your-videos-with-these-proven-keyword-analyst-tools/"><u>[New] In 2024, Supercharge Your Videos with These Proven Keyword Analyst Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-feeds-to-filters-connecting-instagram-and-tiktok/"><u>2024 Approved From Feeds to Filters Connecting Instagram and TikTok</u></a></li>
+<li><a href="https://program-issues.techidaily.com/break-free-from-apex-legends-permanent-loading-screen-expert-tips-and-tricks/"><u>Break Free From Apex Legends Permanent Loading Screen – Expert Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-prevent-stardew-valley-from-killing-your-gaming-experience-on-pc/"><u>Expert Advice: Prevent Stardew Valley From Killing Your Gaming Experience on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-avoid-crashes-while-playing-mass-effect-legendary-edition-solutions-for-both-pc-and-xbox-gamers/"><u>How to Avoid Crashes While Playing Mass Effect Legendary Edition: Solutions for Both PC and Xbox Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-the-failed-anti-cheat-link-issue-in-escape-from-tarkov/"><u>How To Overcome the 'Failed Anti-Cheat Link' Issue in Escape From Tarkov</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-sever-spotify-facebook-association-effectively/"><u>How To Sever Spotify-Facebook Association Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-successfully-overcome-installation-hurdles-for-minecraft-on-windows-11/"><u>How to Successfully Overcome Installation Hurdles for Minecraft on Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-12-pro-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 12 Pro? Heres the Best Fixes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-freezes-how-to-fix-constant-crashes-in-watch-dogs-legion-for-pc-users/"><u>No More Freezes: How to Fix Constant Crashes in Watch Dogs: Legion for PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-cyberpunk-2077-for-lower-cpu-consumption-fixed/"><u>Optimizing Cyberpunk 2077 for Lower CPU Consumption - Fixed!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solution-guide-for-camera-not-found-problem-on-snap-device/"><u>Solution Guide for 'Camera Not Found' Problem on Snap Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-how-to-troubleshoot-and-repair-touchpad-scrolling-on-a-windows-10-laptop/"><u>Step-by-Step Guide: How to Troubleshoot and Repair Touchpad Scrolling on a Windows 10 Laptop</u></a></li>
 </ul></div>
 

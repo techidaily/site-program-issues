@@ -1,7 +1,7 @@
 ---
 title: How to Fix 'PC Doesn't Launch Far Cry 지도' Issue - Solutions Applied!
-date: 2024-09-30T14:31:11.575Z
-updated: 2024-10-03T06:27:35.186Z
+date: 2024-10-05T21:46:11.029Z
+updated: 2024-10-08T21:39:42.083Z
 tags:
   - win11
   - win10
@@ -40,15 +40,21 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click Everspace 2 from the game list and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Go to the**Local Files** tab and click**Verify Integrity of Game Files** .  
+
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
 
@@ -61,10 +67,10 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait until the process completes and launch the game to see if crashes are still there. If yes, keep reading the fixes below.
@@ -96,10 +102,10 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 3. Click the **Update**  button next to the _flagged graphics driver_ to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all the drivers_ that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
@@ -111,16 +117,16 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
  How does your game work now? If it crashes again, head to the next fix below.
 
 <!-- affiliate ads begin -->
-<span id="1977028">
+<span id="1975648">
 					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4 – Set launch options
@@ -133,17 +139,17 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam.jpg)
 2. Right-click Everspace 2 and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-2.jpg)
 3. On the**General** tab, type**\-dx11** in the text field under Launch Options.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/set-launch-options.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Close the window and restart Everspace 2 to check if the crashing got fixed. If none of the steps above do the trick, wait patiently for the upcoming patches. Since the game is still in Early Access, it should be further optimized before long.
 
@@ -169,17 +175,24 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-screen-recording-champion-top-10-apps-reviewed/"><u>[New] Screen Recording Champion Top 10 Apps Reviewed</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-mastering-the-art-of-iphones-detailed-photography/"><u>[Updated] 2024 Approved Mastering the Art of iPhone's Detailed Photography</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-soundsnatcher-free-guide-and-assessment/"><u>2024 Approved SoundSnatcher Free Guide & Assessment</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-visual-narratives-unleashed-top-5-filmmaking-skills/"><u>2024 Approved Visual Narratives Unleashed Top 5 Filmmaking Skills</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-realme-gt-neo-5-se-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Realme GT Neo 5 SE</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhance-your-gaming-session-overcoming-stutter-in-assassins-creed-valhalla-for-pc-players/"><u>Enhance Your Gaming Session: Overcoming Stutter in Assassins Creed Valhalla for PC Players</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-advice-rapid-solutions-for-laptops-with-dead-batteries/"><u>Expert Advice: Rapid Solutions for Laptops with Dead Batteries</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-rapidly-restore-steamvr-functionality-effortless-tips/"><u>How to Rapidly Restore SteamVR Functionality - Effortless Tips!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-connection-drops-and-packet-delay-on-discord-platform/"><u>How to Resolve Connection Drops and Packet Delay on Discord Platform</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-persistent-crashes-in-age-of-empires-iv-pc-edition/"><u>Resolved: Persistent Crashes in Age of Empires IV – PC Edition</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-complete-breakdown-demystifying-openai-for-enthusiasts/"><u>The Complete Breakdown: Demystifying OpenAI for Enthusiasts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/tricks-for-a-seamless-experience-cutting-down-lags-and-raising-frame-rates-in-fall-guys/"><u>Tricks for a Seamless Experience: Cutting Down Lags & Raising Frame Rates in Fall Guys</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-unseen-yet-seen-how-to-conceal-faces-and-objects-digitally/"><u>[New] In 2024, Unseen Yet Seen How to Conceal Faces and Objects Digitally</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-cool-climates-with-a-warm-twist-selecting-video-bgs-for-2024/"><u>[Updated] Cool Climates with a Warm Twist Selecting Video Bg's for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-revolutionary-alternative-tools-for-fbx-file-capture/"><u>[Updated] Revolutionary Alternative Tools for FBX File Capture</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-chucklechain-master-the-art-of-memes-at-home/"><u>2024 Approved ChuckleChain Master the Art of Memes at Home</u></a></li>
+<li><a href="https://program-issues.techidaily.com/accelerating-ubisoft-connect-transfer-rates-tips-and-tricks/"><u>Accelerating Ubisoft Connect Transfer Rates - Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battlefield-2042-performance-optimized-no-more-fps-dips-or-hitches-on-your-computer/"><u>Battlefield 2042 Performance Optimized: No More FPS Dips or Hitches on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-successfully-start-persona-n3-reload-when-it-wont-open/"><u>Expert Tips to Successfully Start Persona N3 Reload When It Won't Open</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-call-of-duty-wwii-error-4103-a-comprehensive-guide/"><u>Fixing Call of Duty: WWII Error 4103 – A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-error-code-0xc0000022-a-step-by-step-guide-for-resolving-adobes-launch-issues/"><u>Fixing Error Code 0xC0000022: A Step-by-Step Guide for Resolving Adobe's Launch Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-windows-media-player-how-to-restore-audio-functionality/"><u>Fixing Windows Media Player: How to Restore Audio Functionality</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-basic-to-breakthrough-elevating-your-zoom-livestream-game-for-2024/"><u>From Basic to Breakthrough Elevating Your Zoom Livestream Game for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-unresponsive-minecraft-gameplay-in-windows-environments/"><u>How to Resolve Unresponsive Minecraft Gameplay in Windows Environments</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722862098909-iphone-no-sound-dilemma-heres-how-to-make-calls-audible-again/"><u>IPhone No Sound Dilemma? Here's How to Make Calls Audible Again</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-step-by-step-guide-for-vintage-photo-conversion-and-storage-for-2024/"><u>The Step-by-Step Guide for Vintage Photo Conversion & Storage for 2024</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-10-telegram-spy-tools-on-apple-iphone-14-pro-for-parents-drfone-by-drfone-virtual-ios/"><u>Top 10 Telegram Spy Tools On Apple iPhone 14 Pro for Parents | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-installing-last-epoch-game-on-your-computer-latest-solutions-for-2am-users/"><u>Troubleshooting Tips for Installing 'Last Epoch' Game on Your Computer - Latest Solutions for 2Am Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-fixing-the-issue-of-logitech-g-hub-malfunction-on-windows/"><u>Troubleshooting Tips: Fixing the Issue of Logitech G Hub Malfunction on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-guide-to-eliminate-league-of-legends-black-screen-tips/"><u>Ultimate Troubleshooting Guide to Eliminate League of Legends' Black Screen - Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/wwe-2k20-troubleshooting-fixing-pc-game-crash-issues-quickly-and-effortlessly/"><u>WWE 2K20 Troubleshooting: Fixing PC Game Crash Issues Quickly and Effortlessly</u></a></li>
 </ul></div>
 

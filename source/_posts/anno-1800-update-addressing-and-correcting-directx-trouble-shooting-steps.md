@@ -1,7 +1,7 @@
 ---
 title: "Anno 1800 Update: Addressing and Correcting DirectX Trouble-Shooting Steps"
-date: 2024-09-29T16:25:25.503Z
-updated: 2024-10-02T16:17:08.484Z
+date: 2024-10-05T20:37:35.699Z
+updated: 2024-10-08T17:52:55.606Z
 tags:
   - win11
   - win10
@@ -40,28 +40,15 @@ In some cases, the culprit is NVIDA Streamer service, especially when it’s off
 3) See if your Shadowplay can record now.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2: Reinstall NVIDIA Driver
 
 In some cases, GeForce Experience install programs that are not graphics driver on your PC. So you should reinstall NVIDIA display driver all over again. You can go to NVIDIA support website to search for and download the latest version of display driver available. Or you can update your video card driver via Device Manager or Windows Update. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee): 1)[**Download**](https://tools.techidaily.com/drivereasy/download/)and install Driver Easy. 2) Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9a8fa563d.png)3) Click the**Update**button next to the flagged NVIDIA device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9b0348294.jpg)4) Restart your PC for the change to take effect. See if Shadowplay works well.
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3: Upgrade GeForce Experience
 
@@ -69,24 +56,31 @@ Beta version of GeForce Experience could get you faulty driver or other faulty N
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c23613857ca.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Right-click NVIDIA GeForce Experience and click**Uninstall**. Follow the on-screen instructions to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c236ca3feba.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Go to NVIDIA support to download the latest version of GeForce Experience and install as instructed. 4) See if your Shadowplay not recording problem is resolved.
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4: Enable desktop capture
 
@@ -95,10 +89,10 @@ If desktop capture is disabled, Shadowplay won’t detect if you play the game f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c238e4810b3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) See if your Shadowplay can record now.
@@ -120,21 +114,20 @@ If desktop capture is disabled, Shadowplay won’t detect if you play the game f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11-tips.techidaily.com/addressing-unviewable-documents-error-in-microsoft-office-mail/"><u>Addressing 'Unviewable' Documents Error in Microsoft Office Mail</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/best-free-video-converter-tools-for-windows-11-in-2020-transform-hd-and-4k-with-ease/"><u>Best Free Video Converter Tools for Windows 11 in 2020: Transform HD & 4K with Ease</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cod-warzone-pacific-bug-fixed-how-did-they-solve-it/"><u>COD: Warzone Pacific Bug Fixed – How Did They Solve It?</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-fixing-the-cache-miss-problem-errcachemiss-error-on-chrome/"><u>Guide to Fixing the 'Cache Miss' Problem – ERR_CACHE_MISS Error on Chrome</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-to-overcoming-ue4-madness-error-and-ensuring-stable-performance-in-outriders/"><u>Guide to Overcoming UE4 Madness Error and Ensuring Stable Performance in Outriders</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-freezing-issues-in-fall-guys-for-windows-users/"><u>How to Resolve Freezing Issues in 'Fall Guys' For Windows Users</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/how-to-troubleshoot-and-repair-your-logitech-g935-mic-for-windows-compatibility/"><u>How to Troubleshoot and Repair Your Logitech G935 Mic for Windows Compatibility</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-15-plus-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 15 Plus to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-fixes-to-overcome-directx-errors-in-call-of-duty-modern-warfare-2/"><u>Mastering the Fixes to Overcome DirectX Errors in Call of Duty: Modern Warfare ^[2]</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-game-interruptions-the-definitive-guide-to-fixing-stellaris-crashes/"><u>No More Game Interruptions: The Definitive Guide to Fixing Stellaris Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-batman-arkham-knight-crashes-expert-advice-on-resolving-critical-malfunctions/"><u>Overcome BATMAN: ARKHAM KNIGHT Crashes - Expert Advice on Resolving Critical Malfunctions</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-cable-modem-models-for-superior-internet-speed/"><u>Top-Rated Cable Modem Models for Superior Internet Speed</u></a></li>
-<li><a href="https://win-forum.techidaily.com/troubleshooting-tips-for-the-windows-11-not-installed-message-on-your-computer/"><u>Troubleshooting Tips for the 'Windows 11 Not Installed' Message on Your Computer</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-windows-11-a-step-by-step-guide-to-removing-your-pin-code/"><u>Unlocking Windows 11: A Step-by-Step Guide to Removing Your Pin Code</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-motorola-edgeplus-2023-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Motorola Edge+ (2023)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/windows-compatibility-fixes-to-prevent-xcom-2-from-crashing-during-play/"><u>Windows Compatibility Fixes to Prevent XCOM 2 From Crashing During Play</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-best-ranked-4k-uhd-media-viewers-available-at-no-cost/"><u>[New] 2024 Approved Best-Ranked 4K UHD Media Viewers Available at No Cost</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-navigate-the-social-sphere-10-techniques-for-triumphant-fb-growth/"><u>[New] 2024 Approved Navigate the Social Sphere 10 Techniques for Triumphant FB Growth</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unpacking-the-limitations-of-video-sharing-in-facebooks-community/"><u>[New] In 2024, Unpacking the Limitations of Video Sharing in Facebook's Community</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/conquering-the-flaws-of-windows-11-photo-app/"><u>Conquering the Flaws of Windows 11 Photo App</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/expert-tips-for-effortlessly-transforming-youtube-content-into-crystal-clear-mp3-audio-with-4k-youtube-to-mp3-and-its-comparable-alternatives/"><u>Expert Tips for Effortlessly Transforming YouTube Content Into Crystal Clear MP3 Audio with 4K Youtube to MP3 and Its Comparable Alternatives</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-palworld-eos-login-troubles-6-effective-strategies-that-work/"><u>Fix Your PalWorld EOS Login Troubles: 6 Effective Strategies That Work</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722966463540-get-your-zebra-gk420d-driver-now-fast-and-simple-download/"><u>Get Your ZEBRA GK420D Driver Now - Fast & Simple Download!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improved-gaming-experience-with-fix-to-pacific-crash-in-call-of-duty-warzone/"><u>Improved Gaming Experience with Fix to Pacific Crash in Call of Duty: Warzone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-net-selections-personalized-alarm-rhythm-files/"><u>In 2024, Prime Net Selections Personalized Alarm Rhythm Files</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013972679-master-the-stable-run-of-biomutant-on-your-pc-with-expert-tips-no-more-crashes/"><u>Master the Stable Run of Biomutant on Your PC with Expert Tips - No More Crashes</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/new-year-diverse-linguistic-dreams/"><u>New Year, Diverse Linguistic Dreams</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-battlefield-2042-performance-get-rid-of-fps-dip-and-stuttering-on-pc-systems/"><u>Optimize Battlefield 2042 Performance: Get Rid of FPS Dip and Stuttering on PC Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-steam-platform-issues-persistent-freezes-and-lags/"><u>Resolving Steam Platform Issues: Persistent Freezes & Lags</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-stabilize-your-nox-player-experience-avoid-pc-disruptions/"><u>Solution: Stabilize Your Nox Player Experience - Avoid PC Disruptions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-fixing-pc-compatibility-for-an-optimal-disco-elysium-experience/"><u>Troubleshooting Tips: Fixing PC Compatibility for an Optimal 'Disco Elysium' Experience</u></a></li>
 </ul></div>
 

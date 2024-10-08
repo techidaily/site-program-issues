@@ -1,7 +1,7 @@
 ---
 title: Why Isn't My Cortana Active? Expert Tips to Restore Its Functionality
-date: 2024-09-25T19:21:05.224Z
-updated: 2024-09-28T04:42:17.119Z
+date: 2024-10-01T16:17:21.640Z
+updated: 2024-10-08T16:36:20.784Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/2e9cfa327b9759eb425968540a827a94cde4fe4ea
 4. [Update your Microphone driver and audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1: Reboot your Windows 10 PC
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
@@ -41,13 +48,6 @@ Check your region and language settings on your computer:
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click **Time** **& language** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
@@ -57,10 +57,10 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Make sure the region and language settings is matched with yours.
@@ -78,33 +78,19 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Install the available updates.
 
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
 
@@ -127,10 +113,10 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
@@ -153,9 +139,23 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Try Cortana again to see if it works.
 
@@ -177,22 +177,20 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-secrets-of-streaming-sound-record-and-preserve/"><u>[Updated] 2024 Approved Secrets of Streaming Sound Record and Preserve</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-hitting-the-high-notes-of-youtube-editing-audio-addition-secrets-revealed/"><u>[Updated] Hitting the High Notes of YouTube Editing Audio Addition Secrets Revealed</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-financial-flip-understanding-1-million-views-payoff/"><u>2024 Approved The Financial Flip Understanding 1 Million Views Payoff</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/detailed-process-of-deleting-all-content-from-your-iphone-permanently/"><u>Detailed Process of Deleting All Content From Your iPhone Permanently</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-remedying-continuous-crashing-in-diablo-iii-a-comprehensive-approach/"><u>Diagnosing and Remedying Continuous Crashing in Diablo III - A Comprehensive Approach</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-incompatibility-alert-on-rainbow-six-extraction-drivers-and-hardware-troubleshooting-tips/"><u>Fixing the Incompatibility Alert on Rainbow Six Extraction: Drivers & Hardware Troubleshooting Tips</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-vivo-s18e-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo S18e Phone that is Locked?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/how-to-successfully-upgrade-your-intel-based-imac-a-comprehensive-guide/"><u>How To Successfully Upgrade Your Intel-Based iMac: A Comprehensive Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-12-proplus-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Realme 12 Pro+ 5G Bootloader Easily</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-bluestacks-crashing-in-5-quick-steps/"><u>Overcome BlueStacks Crashing in 5 Quick Steps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolve-your-rdr2-woes-escaping-the-endless-load-scene/"><u>Resolve Your RDR2 Woes: Escaping the Endless Load Scene</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-windows-remote-display-issue-darkened-screen/"><u>Resolving Windows Remote Display Issue: Darkened Screen</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solutions-for-when-your-logitech-c920-webcam-stops-working/"><u>Solutions for When Your Logitech C920 Webcam Stops Working</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-fixing-overwatch-when-it-fails-to-start/"><u>Solved: Fixing Overwatch When It Fails To Start</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-rated-iphone-mp4-video-converter-transform-movmkv-files-and-youtube-videos/"><u>Top Rated iPhone MP4 Video Converter - Transform MOV/MKV Files & YouTube Videos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-solutions-for-quick-recovery-from-league-of-legends-bandwidth-issues/"><u>Top Solutions for Quick Recovery From League of Legends Bandwidth Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-stop-chivalry-ii-from-crashing-now/"><u>Troubleshooting Guide: Stop Chivalry II From Crashing Now</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-shield-your-snapshots-from-times-tide-explore-cost-effective-solutions/"><u>[New] 2024 Approved Shield Your Snapshots From Time's Tide - Explore Cost-Effective Solutions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-a-compreenas-guide-to-producing-slow-motion-content-with-photos-and-internet/"><u>[Updated] 2024 Approved A Compreenas Guide to Producing Slow Motion Content with Photos & Internet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-crafting-the-perfect-close-youtubes-free-end-screen-tools/"><u>[Updated] 2024 Approved Crafting the Perfect Close YouTube's Free End Screen Tools</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-artistry-integrating-anime-inspired-effects/"><u>[Updated] Snapchat Artistry Integrating Anime-Inspired Effects</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-and-fixing-steam-cloud-desync-errors-step-by-step-instructions/"><u>Bypassing and Fixing Steam Cloud Desync Errors: Step-by-Step Instructions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-causes-of-black-desert-online-crashes-in-windows-what-you-need-to-know/"><u>Common Causes of Black Desert Online Crashes in Windows - What You Need to Know</u></a></li>
+<li><a href="https://program-issues.techidaily.com/deathloop-pc-version-troubleshooting-eliminating-frame-rate-freezes-and-drops/"><u>Deathloop PC Version Troubleshooting: Eliminating Frame Rate Freezes and Drops</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/flip-it-how-to-reverse-your-tiktok-videos-like-a-pro-for-2024/"><u>Flip It! How to Reverse Your TikTok Videos Like a Pro for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-rectifying-corsair-icue-connectivity-problems-in-windows-11/"><u>Guide to Rectifying Corsair iCUE Connectivity Problems in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-league-of-legends-internet-disconnection-errors-solved/"><u>How to Overcome League of Legends Internet Disconnection Errors (Solved)</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/next-level-setup-the-ultimate-guide-to-advanced-installer-customization/"><u>Next-Level Setup: The Ultimate Guide to Advanced Installer Customization</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-to-reactivate-a-frozen-internet-explorer-browser/"><u>Quick Fixes to Reactivate a Frozen Internet Explorer Browser</u></a></li>
+<li><a href="https://win-updates.techidaily.com/simple-guide-how-to-add-custom-ringtones-to-your-iphone/"><u>Simple Guide: How to Add Custom Ringtones to Your iPhone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-of-reduced-fps-in-dota-2-gaming-on-latest-windows-operating-systems/"><u>Solving the Issue of Reduced FPS in Dota 2 Gaming on Latest Windows Operating Systems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-the-best-iphone-and-ipad-videos-top-10/"><u>The Ultimate Guide to the Best iPhone & iPad Videos (Top 10)</u></a></li>
 </ul></div>
 

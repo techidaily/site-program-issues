@@ -1,7 +1,7 @@
 ---
 title: How To Get Past the Stubborn Loading Barrier on Far Cry 5'S Startup
-date: 2024-09-26T14:00:26.220Z
-updated: 2024-10-03T07:12:30.400Z
+date: 2024-10-03T20:03:28.065Z
+updated: 2024-10-08T22:07:40.331Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ Some players are reporting that they can’t get past the Mojang screen. It look
 6. **[Run Minecraft Launcher in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Perform a clean reinstall](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Uninstall your antivirus software
 
  Many things can cause Minecraft stuck on the loading screen issue, but one of the most known issues is your antivirus software. Many antivirus software is incompatible with Minecraft and should be uninstalled from your system.
@@ -51,13 +58,6 @@ The known problematic software are:
 * etc.
 
  You can view[the full list](https://minecrafthopper.net/help/known-incompatible-software/) of known incompatible software here.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Don’t use free VPNs
 
@@ -80,21 +80,14 @@ There are mainly two ways to update your device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
 3. Click **Update** next to your graphics card to download the latest driver, and then install it manually (you can do this in the Free version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you get 30-day money back guarantee and full technical support.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -127,23 +120,23 @@ There are mainly two ways to update your device drivers:
 1. Right-click the**Start** menu (the Windows logo) and select**Windows PowerShell (Admin).**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/admin.jpg)  
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you are on Windows 11, it will be**Terminal (Amin)** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
 2. Type or paste**Get-AppxPackage \*photos\* | Remove-AppxPackage** and press**Enter** . This will uninstall the Windows Photo app from your machine.
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3. Restart your PC to see if Minecraft can load normally.
 
@@ -161,13 +154,6 @@ If this method doesn’t work for you, then try the next fix, below.
 
  Now you can launch your Minecraft again to see if this issue has been resolved by now.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Perform a clean reinstall
 
  Minecraft stuck on the loading screen might be triggered by some important files in your Minecraft folder. Performing a clean uninstall might fix that. To do that, you’ll need to delete all the Minecraft data.
@@ -176,9 +162,23 @@ If this method doesn’t work for you, then try the next fix, below.
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 2. Right-click Minecraft, and select**Uninstall** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Once complete, type**%appdata%** in the Windows Search bar, and select the**%appdata%** folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/appdata.jpg)
 4. In case your system’s uninstallation removes all your worlds, you can create a backup of your worlds.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Once done, delete the**.Minecraft** folder.
 6. Download the most recent version of Minecraft Java[here](https://www.minecraft.net/en-us/download/) .
@@ -206,24 +206,19 @@ If this method doesn’t work for you, then try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-freshest-beats-newly-trending-music-for-youtube-short-videos/"><u>[New] Freshest Beats Newly Trending Music for YouTube Short Videos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-in-depth-tutorial-for-gameplay-recorders-on-win10/"><u>[New] In 2024, In-Depth Tutorial for Gameplay Recorders on Win10</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-unraveling-the-secrets-of-captivating-education-videos-the-ultimate-youtube-strategy/"><u>[New] In 2024, Unraveling the Secrets of Captivating Education Videos The Ultimate YouTube Strategy</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-mastering-netflix-recording-mac-edition-6-essential-steps/"><u>[Updated] 2024 Approved Mastering Netflix Recording Mac Edition - 6 Essential Steps</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-quick-simple-steps-to-saving-twitters-emotive-graphics-gifs/"><u>2024 Approved Quick, Simple Steps to Saving Twitter’s Emotive Graphics (GIFs)</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/beyond-imagination-ai-image-design-using-chatgpt/"><u>Beyond Imagination: AI Image Design Using ChatGPT</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-troubleshooting-tips-to-address-the-3-0x0001000b-bug-in-rainbow-six-siege/"><u>Comprehensive Troubleshooting Tips to Address the 3-0X0001000B Bug in Rainbow Six Siege</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723000252277-fix-overwatch-2s-startup-problems-in-202n-top-7-solutions-you-need-to-try/"><u>Fix Overwatch 2'S Startup Problems in 202N - Top 7 Solutions You Need to Try</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-nubia-z50-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-problem-when-call-of-duty-warzone-fails-to-launch/"><u>How to Resolve the Problem When Call of Duty Warzone Fails to Launch</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-vivo-y100a-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Vivo Y100A Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-mastering-vintage-visual-storytelling-techniques/"><u>In 2024, Mastering Vintage Visual Storytelling Techniques</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/principal-steps-to-follow-prior-to-buying-network-hardware/"><u>Principal Steps to Follow Prior to Buying Network Hardware</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-edge-browser-freezes-and-closes-a-guide-for-windows-nix-users/"><u>Resolving Edge Browser Freezes and Closes: A Guide for Windows Nix Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-fixing-incorrect-ryzen-driver-installations/"><u>Step-by-Step Guide to Fixing Incorrect Ryzen Driver Installations</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-stop-your-tower-of-fantasy-game-from-crashing-on-windows/"><u>Step-by-Step Guide: Stop Your Tower of Fantasy Game From Crashing on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-gameplay-interruptions-overcoming-stability-problems-in-metro-exodus-for-windows-users/"><u>Stop Gameplay Interruptions - Overcoming Stability Problems in Metro Exodus for Windows Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-resolving-the-battlenet-not-responding-issue/"><u>Ultimate Troubleshooting: Resolving the 'Battle.net Not Responding' Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-solving-chromes-flicker-issue-in-windows-pcs-a-complete-2024-guide/"><u>Ultimate Troubleshooting: Solving Chrome's Flicker Issue in Windows PCs - A Complete 2024 Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-unleashing-creativity-capturing-and-editing-impressive-videos-in-adobe-connect/"><u>[Updated] 2024 Approved Unleashing Creativity Capturing & Editing Impressive Videos in Adobe Connect</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-case-study-how-to-grow-on-youtube-to-have-millions-of-subs-for-2024/"><u>[Updated] Case Study How to Grow on YouTube to Have Millions of Subs for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/access-your-favorite-xbox-games-on-meta-quest-vr-without-a-console-microsoft-enables-cloud-streaming/"><u>Access Your Favorite Xbox Games on Meta Quest VR Without a Console, Microsoft Enables Cloud Streaming</u></a></li>
+<li><a href="https://facebook.techidaily.com/cutting-down-on-irksome-social-media-suggestions-on-facebook/"><u>Cutting Down On Irksome Social Media Suggestions on Facebook</u></a></li>
+<li><a href="https://program-issues.techidaily.com/forza-horizon-4-pc-crash-issues-resolved-troubleshooting-guide/"><u>Forza Horizon 4 PC Crash Issues Resolved: Troubleshooting Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-the-stuck-screen-successful-launch-of-rainbow-six-siege-explained/"><u>Overcome the Stuck Screen: Successful Launch of Rainbow Six Siege Explained</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-nier-automata-freezing-issues/"><u>Resolved: How to Fix NieR: Automata Freezing Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-game-glitches-the-ultimate-guide-to-overcoming-apex-legends-error-23/"><u>Solving Game Glitches: The Ultimate Guide to Overcoming Apex Legends Error 23</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-operating-driver-easys-mobile-app/"><u>Step-by-Step Guide: Operating Driver Easy's Mobile App</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-visual-vault-in-depth-recorder-comparisons/"><u>The Visual Vault In-Depth Recorder Comparisons</u></a></li>
+<li><a href="https://fox-that.techidaily.com/trouble-with-iphone-sound-controls-discover-7-reliable-solutions/"><u>Trouble with iPhone Sound Controls? Discover 7 Reliable Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solve-your-fortnite-freezing-issues-in-windows-10/"><u>Ultimate Guide: Solve Your Fortnite-Freezing Issues in Windows 10</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-boost-your-logic-pro-x-projects-with-these-indispensable-plugin-choices/"><u>Updated Boost Your Logic Pro X Projects with These Indispensable Plugin Choices</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Insights Into Fixing Aesthetic Distortions Encountered in Rust IDE
-date: 2024-09-20T18:22:49.040Z
-updated: 2024-09-28T05:56:57.800Z
+date: 2024-10-01T16:14:23.653Z
+updated: 2024-10-08T18:06:12.981Z
 tags:
   - win11
   - win10
@@ -32,10 +32,16 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
 [4: Update your keyboard driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Check for hardware issues
@@ -48,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
 * **Test your keyboard with another PC** if possible. If your keyboard still won’t work, then it’s likely defective and may need a repair.
 
 If you didn’t find any hardware issues, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Make sure no other devices are interfering
 
@@ -78,10 +77,10 @@ If you didn’t find any hardware issues, try the next fix.
 3. Navigate to**Wrath\_Data\\Plugins\\x86\_64** .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. **Make a copy of the Rewired\_DirectInput.dll file** , and save it at somewhere safe. There shouldn’t be any risk to delete this file, but backing up can always help if anything goes wrong.
@@ -89,6 +88,13 @@ If you didn’t find any hardware issues, try the next fix.
 6. Relaunch the game and test the issue.
 
  If this fix doesn’t solve your problem, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your keyboard driver
 
@@ -105,17 +111,17 @@ If you didn’t find any hardware issues, try the next fix.
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-19.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged keyboard driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-35.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -141,20 +147,24 @@ If you didn’t find any hardware issues, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-blueprint-of-visual-communication-instavideo-marketing-mastery/"><u>[Updated] 2024 Approved The Blueprint of Visual Communication InstaVideo Marketing Mastery</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypassing-bugs-expert-tips-for-launching-assassins-creed-mirage-despite-persistent-issues/"><u>Bypassing Bugs: Expert Tips for Launching Assassin's Creed Mirage Despite Persistent Issues</u></a></li>
-<li><a href="https://facebook.techidaily.com/disconnecting-spotify-account-from-your-facebook-space/"><u>Disconnecting Spotify Account From Your Facebook Space</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723010840997-dread-hunger-pc-issues-discover-how-to-prevent-unexpected-game-closures/"><u>Dread Hunger PC Issues? Discover How to Prevent Unexpected Game Closures</u></a></li>
-<li><a href="https://program-issues.techidaily.com/happy-viewing-eradicating-the-fixed-glimmer-on-your-screen-today/"><u>Happy Viewing: Eradicating the Fixed Glimmer on Your Screen Today</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-correct-ui-bug-27711-on-call-of-duty-black-ops-cold-war/"><u>How to Correct UI Bug 27711 on Call of Duty: Black Ops Cold War</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-a-step-by-step-approach-to-generating-income-with-trailers/"><u>In 2024, A Step-by-Step Approach to Generating Income with Trailers</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Infinix Note 30 Pro | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-saving-snaps-from-snapchat-on-camera-roll-a-guide/"><u>In 2024, Saving Snaps From Snapchat on Camera Roll – A Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maplestory-crashes-on-windows-11-find-solutions-with-our-2023-best-practices/"><u>MapleStory Crashes on Windows 11? Find Solutions with Our 2023 Best Practices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/msi-afterburner-and-gpu-detection-issues-solutions-for-windows-11-users/"><u>MSI Afterburner and GPU Detection Issues: Solutions for Windows 11 Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-players-rejoice-no-more-zombie-army-ebeam-dead-war-crashes/"><u>PC Players Rejoice: No More Zombie Army Ebeam: Dead War Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-unfreeze-issues-in-call-of-duty-vanguard-a-step-by-step-guide/"><u>Solving Unfreeze Issues in Call of Duty: Vanguard - A Step-by-Step Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-honor-90-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Honor 90 Pro FRP Bypass</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/unleashing-creative-potential-editing-tiktok-videos-on-mac-for-2024/"><u>Unleashing Creative Potential Editing TikTok Videos on Mac for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tailored-techniques-to-procure-tweets-gifs/"><u>[Updated] 2024 Approved Tailored Techniques to Procure Tweets GIFs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-make-your-instagram-posts-pop-with-correct-video-dimensions/"><u>[Updated] Make Your Instagram Posts Pop with Correct Video Dimensions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-poco-x5-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Poco X5 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/9plus-innovative-strategies-for-streaming-live-cricket-events-for-2024/"><u>9+ Innovative Strategies for Streaming Live Cricket Events for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/apeak-recording-examined-quality-and-features-decoded/"><u>Apeak Recording Examined Quality and Features Decoded</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/baldurs-gate-3-stability-problems-on-pc-here-are-the-working-fixes/"><u>Baldur's Gate 3 Stability Problems on PC? Here Are the Working Fixes!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-resolving-f1-2021-game-crashes-on-your-computer/"><u>Fixes and Solutions: Resolving F1 2021 Game Crashes on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/gpu-optimization-fixes-for-cyberpunk-2077-users-on-windows-10-systems/"><u>GPU Optimization Fixes for Cyberpunk 2077 Users on Windows 10 Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/granblue-fantasy-relink-not-working-heres-what-to-do/"><u>Granblue Fantasy Relink Not Working? Here’s What to Do!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-realme-narzo-60-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Realme Narzo 60 5G Easily?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/modern-warfare-2-pc-performance-boosters-fix-these-six-common-causes-of-game-crashes/"><u>Modern Warfare 2 PC Performance Boosters - Fix These Six Common Causes of Game Crashes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigate-with-ease-unveiling-five-prime-iphone-compatible-gps-apps/"><u>Navigate with Ease: Unveiling Five Prime iPhone-Compatible GPS Apps</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-top-10-free-surveillance-software-options/"><u>New In 2024, Top 10 Free Surveillance Software Options</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-slow-play-solving-league-of-legends-latency-issues/"><u>No More Slow Play – Solving League of Legends Latency Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-guide-overcoming-fortnites-blackout-problem-on-your-windows-machine/"><u>Solution Guide: Overcoming Fortnite's Blackout Problem on Your Windows Machine</u></a></li>
+<li><a href="https://program-issues.techidaily.com/streamlined-strategies-for-a-smooth-cyberpunk-ebrinkdownload-issueson-steam/"><u>Streamlined Strategies for a Smooth Cyberpunk Ebrinkdownload Issues]on Steam</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-launch-issues-of-overwatch-2-in-2/"><u>Troubleshooting Tips: Resolving Launch Issues of Overwatch 2 in 2지급년</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-and-fixing-dual-frame-rate-drops-on-your-personal-computer-solution-found/"><u>Understanding and Fixing Dual Frame Rate Drops on Your Personal Computer - Solution Found!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-windows-beats-out-linux-in-the-game-arena/"><u>Why Windows Beats Out Linux in The Game Arena</u></a></li>
 </ul></div>
 

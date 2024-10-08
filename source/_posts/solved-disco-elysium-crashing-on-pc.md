@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Disco Elysium Crashing on PC"
-date: 2024-09-29T00:29:59.913Z
-updated: 2024-10-03T03:56:51.301Z
+date: 2024-10-06T21:25:01.818Z
+updated: 2024-10-08T16:25:43.275Z
 tags:
   - win11
   - win10
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/4813724d53b5cad6b133b133522844cf1838d9743
  If this doesn’t work for you, don’t worry. There are other solutions to try.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Stop overclocking your CPU
@@ -54,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/4813724d53b5cad6b133b133522844cf1838d9743
  Overclocking means setting your CPU and memory to run at speeds higher than their official speed rate, and almost all processors ship with a speed rating. However, this may cause your game to crash or freeze. In that case, you should**set your CPU clock speed rate back to the default** to fix your issue.
 
  Assassin’s Creed Odyssey still crashes? Don’t worry. Try the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update available drivers
 
@@ -88,10 +81,10 @@ thumbnail: https://thmb.techidaily.com/4813724d53b5cad6b133b133522844cf1838d9743
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-71.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart your computer to take effect.
@@ -101,10 +94,10 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
  Still no luck? Don’t give up hope. There is something else you can do.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Modify your in-game settings
@@ -130,6 +123,19 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-75.png)
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click the**Graphics** tab, try lowing these settings:
 
 * **Shadows** : Low
@@ -141,19 +147,6 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-76.png)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-77.png)
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6) Restart your computer.
 
@@ -169,20 +162,27 @@ Open Assassin’s Creed Odyssey and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-78.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click on**Assassin’s Creed Odyssey** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-79.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-80.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
 
@@ -215,20 +215,15 @@ Open Assassin’s Creed Odyssey and see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-interactivemix-for-all-systems/"><u>[New] InteractiveMix for All Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-valorant-input-lag-on-pc-2024/"><u>[SOLVED] Valorant Input Lag on PC 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-handsonguide-to-yourwebcamrecord/"><u>[Updated] HandsOnGuide to YourWebcamRecord</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-steps-for-connecting-your-amazon-fire-stick-remote-to-your-device/"><u>Easy Steps for Connecting Your Amazon Fire Stick Remote to Your Device</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhance-performance-and-speed-tips-for-improving-frame-rate-in-ring-of-elysium/"><u>Enhance Performance and Speed: Tips for Improving Frame Rate in Ring of Elysium</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/family-fun-with-holy-stone-rc-a-complete-cartoon-race-car-review/"><u>Family Fun with Holy Stone RC: A Complete Cartoon Race Car Review</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixed-it-comprehensive-guide-to-restore-network-connections-in-outlook/"><u>Fixed It! Comprehensive Guide to Restore Network Connections in Outlook</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-for-a-non-functional-google-meet-webcam-now-resolved/"><u>Fixes for a Non-Functional Google Meet Webcam – Now Resolved!</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-ground-to-heavens-a-mobile-panorama-journey-for-2024/"><u>From Ground to Heavens A Mobile Panorama Journey for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-lava-storm-5g-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Lava Storm 5G</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-honor-90-lite-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Honor 90 Lite Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-smooth-gameplay-in-fallout-76-overcoming-visual-interruptions/"><u>Mastering Smooth Gameplay in Fallout ^76: Overcoming Visual Interruptions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-game-interruptions-resolve-resident-evil-village-crashes-on-pc-today/"><u>No More Game Interruptions: Resolve Resident Evil Village Crashes on PC Today</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tweetvidaudiomaker-instant-sound-output-for-2024/"><u>TweetVidAudioMaker Instant Sound Output for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/your-comprehensive-list-of-ideal-work-friendly-keyboards/"><u>Your Comprehensive List of Ideal Work-Friendly Keyboards</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-from-ordinary-to-spectacular-making-wow-worthy-tiktok-videos-with-templates/"><u>[Updated] From Ordinary to Spectacular Making Wow-Worthy TikTok Videos with Templates</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-discover-unlimited-stories-free-extensions-and-mobile-marvels/"><u>2024 Approved Discover Unlimited Stories – FREE Extensions & Mobile Marvels</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-to-resolving-apex-legends-technical-snags-and-crashes/"><u>Expert Guide to Resolving Apex Legends Technical Snags and Crashes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-much-does-pewdiepie-make-for-2024/"><u>How Much Does PewDiePie Make for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-infinix-hot-30-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Infinix Hot 30 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/modify-your-system-clock-changing-datetime-formats-in-windows-11-easily/"><u>Modify Your System Clock: Changing Date/Time Formats in Windows 11 Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigating-through-chaos-understanding-black-survival-in-an-endless-cycle/"><u>Navigating Through Chaos: Understanding 'Black Survival' In an Endless Cycle</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/netgear-nighthawk-x6-wi-fi-mesh-extender-review/"><u>Netgear Nighthawk X6 Wi-Fi Mesh Extender Review</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-lag-and-drops-a-comprehensive-fix-for-modern-warfare-2-stuttering-on-pcs/"><u>Say Goodbye to Lag and Drops - A Comprehensive Fix for Modern Warfare 2 Stuttering on PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/turbocharge-your-gameplay-techniques-for-smoother-play-and-higher-fps-in-valorant/"><u>Turbocharge Your Gameplay: Techniques for Smoother Play & Higher FPS in Valorant</u></a></li>
 </ul></div>
 

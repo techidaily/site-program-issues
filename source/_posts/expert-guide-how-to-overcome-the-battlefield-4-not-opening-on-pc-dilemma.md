@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: How to Overcome the 'Battlefield 4 Not Opening on PC' Dilemma"
-date: 2024-09-27T19:55:47.231Z
-updated: 2024-10-03T13:02:56.283Z
+date: 2024-10-02T19:54:56.952Z
+updated: 2024-10-08T20:11:57.652Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 
  Before you perform the troubleshooting steps below, please make sure your gaming rig satisfies the **[minimum requirements](https://www.ea.com/games/battlefield/battlefield-5/buy/pc-system-requirements?setLocale=en-us)**  to play Battlefield 5.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Run Battlefield 5 and Origin as administrator
 
  Running Battlefield 5 and the Origin client as an administrator will ensure they get the necessary permissions to launch properly. Here’s how:
@@ -45,13 +52,6 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 
  Relaunch BFV to check if the not launching problem goes away. If not, take a look at more fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2 – Switch to DirectX 11
 
  Many players report Battlefield 5 won’t launch when DX12 is enabled. To see if that’s the case, you can run the game on DirectX 11 via the following steps.
@@ -66,10 +66,10 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 5. Select**Notepad** or other similar editing tools.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Press**Ctrl** and**F** on your keyboard to open the search box. Then, type**Dx12Enabled** and press**Enter** .
@@ -95,20 +95,34 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-7.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Test the game’s performance after your graphics driver is updated. If Battlefield 5 still fails to open, move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Turn off Origin in-game overlay
 
@@ -120,29 +134,22 @@ To update your graphics driver, here are two safe ways for you:
 3. Navigate to the**Origin In-Game** tab, and toggle off**Enable Origin In-Game** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Relaunch the game to test this method. If it doesn’t help, continue to the next one below.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Disable cloud storage
 
@@ -170,13 +177,6 @@ To update your graphics driver, here are two safe ways for you:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After the process finishes, you can reinstall the game from Origin again, and it should be working the right way as expected.
 
 ---
@@ -202,14 +202,24 @@ To update your graphics driver, here are two safe ways for you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-explore-10-prime-video-editing-apps-for-android-and-pc/"><u>[New] Explore 10 Prime Video Editing Apps for Android and PC</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-making-a-mark-advanced-strategies-for-youtube-video-production/"><u>[Updated] 2024 Approved Making a Mark Advanced Strategies for YouTube Video Production</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/daily-dose-of-urdu-10-minute-challenge/"><u>Daily Dose of Urdu – 10-Minute Challenge</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/leveraging-ai-in-scholarly-pursuits/"><u>Leveraging AI in Scholarly Pursuits</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-gaming-made-easy-effective-solutions-for-common-fifa-19-stability-problems/"><u>PC Gaming Made Easy: Effective Solutions for Common FIFA 19 Stability Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-cs-go-not-loading-errors-quickly/"><u>Resolving CS: GO Not Loading Errors Quickly</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/streamlining-your-video-collection-converting-mp4-with-vlc-for-2024/"><u>Streamlining Your Video Collection Converting MP4 with VLC for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-house-flipper-2-pc-crashes/"><u>Troubleshooting Tips: Resolving House Flipper 2 PC Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fixes-for-starcraft-2-stability-issues-on-pc-now-working/"><u>Ultimate Fixes for StarCraft 2 Stability Issues on PC – Now Working</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-amplify-youtube-performance-rapid-video-rendering-guide/"><u>[New] Amplify YouTube Performance - Rapid Video Rendering Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-edu-topic-10-selective-learning-channels-online-for-2024/"><u>[New] Edu-Topic 10 Selective Learning Channels Online for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-revision-efficient-erasing-techniques-in-psx/"><u>[New] The Art of Revision Efficient Erasing Techniques in PSX</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-delay-effective-solutions-for-high-ping-in-bless-unleashed-for-windows-users/"><u>Beat the Delay: Effective Solutions for High Ping in Bless Unleashed for Windows Users</u></a></li>
+<li><a href="https://discover-community.techidaily.com/comparaison-complet-aac-vs-mp3-decouvrez-quelle-technologie-audio-offre-de-meilleures-caracteristiques/"><u>Comparaison Complet AAC Vs. MP3 - Découvrez Quelle Technologie Audio Offre De Meilleures Caractéristiques</u></a></li>
+<li><a href="https://games-able.techidaily.com/crafting-inclusive-communities-via-chess-poker-and-more-on-discord/"><u>Crafting Inclusive Communities via Chess, Poker, and More on Discord</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dealing-with-frequent-breakdowns-of-orbital-client-on-pc/"><u>Dealing with Frequent Breakdowns of Orbital Client on PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/expert-tips-for-instant-driver-updates-on-windows-11/"><u>Expert Tips for Instant Driver Updates on Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/gaming-glitch-guidance-fixing-warzone-disc-read-problems-in-versions-5-and-31-for-pc-players/"><u>Gaming Glitch Guidance: Fixing Warzone Disc Read Problems in Versions [5.#] & [3.1] for PC Players</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-huawei-nova-y71-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Huawei Nova Y71?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-12-pro-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted 12 Pro 5G Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-best-free-apple-iphone-12-mini-imei-checker-by-drfone-ios/"><u>In 2024, Best Free Apple iPhone 12 mini IMEI Checker</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-latest-fix-for-fnaf-security-breach-a-comprehensive-walkthrough-for-pc-users/"><u>Mastering the Latest Fix for FNAF Security Breach – A Comprehensive Walkthrough for PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-troubleshooting-fixes-for-total-war-warhammer-iii-continuous-crashes/"><u>PC Troubleshooting: Fixes for Total War: Warhammer III Continuous Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-the-issue-of-constant-freezing-in-warframe/"><u>Resolved: Fixing the Issue of Constant Freezing in Warframe</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-fortnite-ls-0013-launching-error/"><u>SOLVED: Fortnite LS-0013 Launching Error</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-voip-problems-making-among-us-microphone-function-correctly-on-your-computer/"><u>Solving VoIP Problems: Making Among Us Microphone Function Correctly on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-persistent-freezing-issues-in-samurai-warriors-5-for-pc/"><u>Troubleshooting Guide - Fixing Persistent Freezing Issues in Samurai Warriors 5 for PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-low-fps-problems-in-rainbow-six-extraction-game/"><u>Troubleshooting Low FPS Problems in Rainbow Six Extraction Game</u></a></li>
 </ul></div>
 

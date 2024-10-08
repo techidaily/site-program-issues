@@ -1,7 +1,7 @@
 ---
 title: "Mastering Modern Warfare 3: A Comprehensive Guide to Rectifying Memory Error 12707"
-date: 2024-10-01T07:22:54.100Z
-updated: 2024-10-03T04:57:36.896Z
+date: 2024-10-07T17:46:03.371Z
+updated: 2024-10-08T18:39:42.696Z
 tags:
   - win11
   - win10
@@ -25,13 +25,6 @@ A recent update of Warzone triggered a surge in reports of the**Dev Error 6034**
 2. [**Remove broken game files (PC)**](https://www.drivereasy.com/knowledge/how-to-fix-dev-error-6034-in-warzone-pc-xbox/#fix2)
 3. **[Remove Multiplayer game packs (Xbox)](https://www.drivereasy.com/knowledge/how-to-fix-dev-error-6034-in-warzone-pc-xbox/#fix3)**
 4. **[Reinstall Warzone](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver (PC)
 
@@ -63,10 +56,10 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -76,10 +69,10 @@ To do so, first visit the website of your GPU manufacturer:
  If the latest drivers didn’t give you luck, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Remove broken game files (PC)
@@ -99,6 +92,13 @@ To do so, first visit the website of your GPU manufacturer:
 
  If this method doesn’t do the trick, you can take a look at the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Remove Multiplayer game packs
 
  Soon after the Dev Error happens, console gamers discovered that they can fix the issue by**removing specific game packs** . This would be less painful than a complete reinstallation, so you can give it a shot. If you don’t know how, here’s a quick example on Xbox:
@@ -107,13 +107,6 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-1.jpg)
 2. Select**Call of Duty: Modern Warfare** . (You might also need to select**Manage installation on External drive** .)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
 
@@ -121,6 +114,13 @@ To do so, first visit the website of your GPU manufacturer:
 4. Now restart your Xbox and check if Warzone is working now.
 
 If this trick doesn’t help you, simply check out the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall Warzone
 
@@ -147,22 +147,22 @@ If this trick doesn’t help you, simply check out the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-leading-call-customization-applications/"><u>[Updated] 2024 Approved Leading Call Customization Applications</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevating-business-and-personal-visibility-with-youtube-mobile-edition/"><u>[Updated] In 2024, Elevating Business & Personal Visibility with YouTube, Mobile Edition</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-the-art-of-igtv-on-instagram-stories/"><u>[Updated] In 2024, Mastering the Art of IGTV on Instagram Stories</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-live-streaming-war-confronting-the-titans-wirecast-and-obs-for-2024/"><u>[Updated] Live Streaming War Confronting the Titans, Wirecast & OBS for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-flight-in-the-smallest-form-a-compreenasive-look-at-dji-sparks-miniature-wonders/"><u>2024 Approved Flight in the Smallest Form A Compreenasive Look at DJI Spark's Miniature Wonders</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-infinix-note-30-pro-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Infinix Note 30 Pro</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-helldivers-ii-solutions-for-the-notorious-black-screen-issue-at-startup/"><u>Fixing Helldivers II: Solutions for the Notorious Black Screen Issue at Startup</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723000685753-geforce-experience-crashes-heres-your-step-by-step-fix/"><u>GeForce Experience Crashes? Here’s Your Step-by-Step Fix!</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/1726030281099-geforce-experience/"><u>GeForce Experienceを使ってゲームだけのオーディオクリップを記録するコツ</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-the-detected-game-integrity-compromise-notification/"><u>How to Fix the Detected Game Integrity Compromise Notification</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p55-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Itel P55 Phone with Broken Screen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-no-hypervisor-detection-in-windows-sandbox-environment/"><u>Overcoming No Hypervisor Detection in Windows Sandbox Environment</u></a></li>
-<li><a href="https://program-issues.techidaily.com/patch-notes-update-how-to-fix-crashing-glitches-on-your-horizon-zero-dawn-pc-experience/"><u>Patch Notes Update: How to Fix Crashing Glitches on Your Horizon Zero Dawn PC Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-to-prevent-nier-replicant-game-from-freezing/"><u>Solution To Prevent Nier Replicant Game From Freezing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solutions-for-when-the-battlenet-launcher-fails-to-start-on-pc/"><u>Solutions for When the Battle.net Launcher Fails to Start on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-your-nvidia-shadowplay-isnt-responding/"><u>Troubleshooting Steps When Your Nvidia ShadowPlay Isn’t Responding</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-stop-dead-by-daylight-game-crashes-now/"><u>Troubleshooting Tips: Stop Dead By Daylight Game Crashes Now</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-how-to-effortlessly-record-movies-on-win10/"><u>[New] In 2024, How to Effortlessly Record Movies on Win10</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-10-strategies-for-educators-starting-their-own-youtube-series/"><u>[Updated] 2024 Approved 10 Strategies for Educators Starting Their Own YouTube Series</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-ultimate-strategy-for-subtitles-on-instagram-media/"><u>[Updated] The Ultimate Strategy for Subtitles on Instagram Media</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-revealing-the-identity-of-viewers-on-youtube/"><u>2024 Approved Revealing the Identity of Viewers on YouTube</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722990570796-common-issues-with-steam-remote-play-discover-quick-fixes-to-resume-gaming-anywhere/"><u>Common Issues with Steam Remote Play? Discover Quick Fixes to Resume Gaming Anywhere</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-tips-and-tricks-to-prevent-dreamlight-valley-from-freezing-your-pc-screen/"><u>Essential Tips and Tricks to Prevent Dreamlight Valley From Freezing Your PC Screen</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/explore-the-best-15-standout-stop-motion-films-of-all-time-for-2024/"><u>Explore the Best 15 Standout Stop-Motion Films of All Time for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-address-and-solve-vanguards-uninitialized-problem-on-valorant/"><u>How to Address and Solve Vanguard's Uninitialized Problem on Valorant</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-minds-on-trial-select-escapes-that-challenge-you/"><u>In 2024, Minds on Trial Select Escapes That Challenge You</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/leading-budget-friendly-record-software-showdown-in-games-for-2024/"><u>Leading Budget-Friendly Record Software Showdown in Games for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-smooth-playthroughs-of-f1-2021-solutions-to-common-pc-issues/"><u>Mastering Smooth Playthroughs of F1 2021: Solutions to Common PC Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-playback-problems-in-robocop-rogue-city-how-to-get-it-running-smoothly-on-your-computer/"><u>Resolving Playback Problems in RoboCop: Rogue City – How to Get It Running Smoothly on Your Computer</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/the-ultimate-list-of-free-mov-video-splitters-for-2024/"><u>The Ultimate List of Free MOV Video Splitters for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/trouble-with-discords-screen-mirroring-fix-it-easily-and-effectively/"><u>Trouble with Discord's Screen Mirroring? Fix It Easily & Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-battlefield-2042-fixing-persistent-directx-errors-easily/"><u>Troubleshooting Battlefield 2042: Fixing Persistent DirectX Errors Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-epic-games-launcher-swift-opening-techniques/"><u>Troubleshooting the Epic Games Launcher - Swift Opening Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/victory-over-overwatch-errors-tackling-the-graphics-driver-problem-once-and-for-all/"><u>Victory over Overwatch Errors: Tackling the Graphics Driver Problem Once and For All</u></a></li>
 </ul></div>
 
