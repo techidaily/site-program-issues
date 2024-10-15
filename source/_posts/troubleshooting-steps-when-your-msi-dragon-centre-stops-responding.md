@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps When Your MSI Dragon Centre Stops Responding
-date: 2024-10-01T16:39:08.482Z
-updated: 2024-10-08T16:52:56.263Z
+date: 2024-10-12T01:19:59.689Z
+updated: 2024-10-15T03:35:41.792Z
 tags:
   - win11
   - win10
@@ -43,13 +43,6 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 
  If you’re using a Wi-Fi connection, try using an ethernet cable. An ethernet cable can provide a more stable internet connection. If that’s not an option, you can instead, move your computer closer to your router as the distance between your PC and the Router could also affect your Wi-Fi connection and your gaming performance.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Update your graphics driver
 
  Outdated graphics drivers, of course, are the most common culprit to game issues. Be sure to download and install the correct driver set for your video card.
@@ -66,17 +59,23 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -103,6 +102,13 @@ thumbnail: https://thmb.techidaily.com/4c2f1c5599abfece009f925c2828de86667e5982a
 
 Your game still freezes? Try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Lower in-game graphics settings
 
  If you’re gaming on an old computer, try lowering the graphics settings a little bit so your game can run smoother. Here’s how to do it:
@@ -114,10 +120,10 @@ Your game still freezes? Try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-39-18.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Under the DISPLAY tab, go to**Graphics Quality > Preset** to **Medium** or **Low** .
@@ -131,10 +137,10 @@ Your game still freezes? Try the next fix below.
 If your issue persists, then move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Turn off unnecessary programs
@@ -174,21 +180,24 @@ If your issue persists, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-leading-websites-for-digital-3d-text-with-a-golden-accent/"><u>[New] 2024 Approved Leading Websites for Digital 3D Text with a Golden Accent</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-7-ideal-monitors-for-digital-artists-for-2024/"><u>[New] 7 Ideal Monitors for Digital Artists for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-smart-tech-unveiled-moto-z2-deep-dive-for-2024/"><u>[New] Smart Tech Unveiled Moto Z2 Deep Dive for 2024</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/enhancing-web-experiences-through-smart-analytics-unveiling-the-benefits-of-cookiebot-systems/"><u>Enhancing Web Experiences Through Smart Analytics: Unveiling the Benefits of Cookiebot Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fortnite-troubleshooting-ultimate-guide-to-stop-pc-game-from-freezing-2024-solution/"><u>Fortnite Troubleshooting: Ultimate Guide to Stop PC Game From Freezing (2024 Solution)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-a-smooth-battle-experience-overcoming-pc-hiccups-in-call-of-duty-modern-warfare/"><u>Get a Smooth Battle Experience: Overcoming PC Hiccups in Call of Duty: Modern Warfare</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-common-directx-errors-in-fifa-20-steps-for-a-smooth-gameplay/"><u>How to Fix Common DirectX Errors in FIFA 20: Steps for a Smooth Gameplay</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-oppo-a78-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Oppo A78 using Video Repair Utility on Mac?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-resident-evil-village-from-freezing-or-crashing-on-a-pc-step-by-step-fixes/"><u>How to Stop Resident Evil Village From Freezing or Crashing on a PC: Step-by-Step Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/itunes-alert-resolving-detection-of-audio-configuration-issues-quickly/"><u>ITunes Alert: Resolving Detection of Audio Configuration Issues Quickly</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-screenplay-essential-dialogue-techniques-for-2024/"><u>Mastering Screenplay Essential Dialogue Techniques for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-the-top-pc-intro-makers-a-beginners-guide-to-getting-started-for-2024/"><u>New The Top PC Intro Makers A Beginners Guide to Getting Started for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/practical-experience-with-innovative-arlo-home-defense-mechanism/"><u>Practical Experience with Innovative Arlo Home Defense Mechanism</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-converting-swf-files-to-mov-format-on-a-mac-for-enhanced-video-quality/"><u>Step-by-Step Guide: Converting SWF Files to MOV Format on a Mac for Enhanced Video Quality</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-optimizing-performance-and-fixing-crashes-in-avatar-on-pc/"><u>Troubleshooting Tips: Optimizing Performance and Fixing Crashes in 'Avatar on PC'</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlocking-infinite-treasure-a-guide-to-conquering-like-a-dragon-on-your-computer/"><u>Unlocking Infinite Treasure - A Guide to Conquering Like a Dragon on Your Computer</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ourly-headliners-the-leading-yt-videos-in-the-last-24-hours/"><u>[New] Hourly Headliners The Leading YT Videos in the Last 24 Hours</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-ranked-list-of-pristine-cost-free-websites-for-designers-delight/"><u>[New] Ranked List of Pristine, Cost-Free Websites for Designers' Delight</u></a></li>
+<li><a href="https://program-issues.techidaily.com/biomutant-pc-game-crashes-ultimate-troubleshooting-guide/"><u>Biomutant PC Game Crashes : Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquering-zoom-resource-hogging-discover-these-efficiencies-to-cut-down-cpu-drain/"><u>Conquering Zoom Resource Hogging: Discover These Efficiencies to Cut Down CPU Drain</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/cookiebot-driven-solutions-enhance-your-sites-performance/"><u>Cookiebot-Driven Solutions: Enhance Your Site's Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diablo-3-stability-issues-resolved-no-more-unexpected-shutdowns/"><u>Diablo 3 Stability Issues Resolved - No More Unexpected Shutdowns</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effectiveness-of-using-chatgpt-for-proofreading-tasks-a-closer-look/"><u>Effectiveness of Using ChatGPT for Proofreading Tasks: A Closer Look</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-cpu-power-achieve-optimal-performance-with-vanguard-software/"><u>Enhance CPU Power, Achieve Optimal Performance with Vanguard Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-sea-of-thieves-failure-to-start-properly/"><u>Fixing the Issue: Sea of Thieves Failure to Start Properly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-addressing-the-ntdlldll-system-crash-problem-on-windows-1110-platforms/"><u>Guide to Addressing the ntdll.dll System Crash Problem on Windows 11/10 Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-back-4-blood-ue4-gobi-error-expert-tips-and-solutions/"><u>How to Overcome 'Back 4 Blood - UE4 Gobi Error': Expert Tips and Solutions</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-15-pro-maxipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 15 Pro Max/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-poco-m6-pro-4g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Poco M6 Pro 4G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issue-troubleshooting-app-launch-failures-with-administrative-user/"><u>Resolved Issue: Troubleshooting App Launch Failures With Administrative User</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-performance-issues-how-to-remove-lag-and-stutters-from-half-life-alyx-gameplay/"><u>Solving Performance Issues: How to Remove Lag & Stutters From Half-Life: Alyx Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-for-kodi-connection-error-couldnt-get-directory-data/"><u>Step-by-Step Solution for Kodi Connection Error: Couldn't Get Directory Data</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-elder-scrolls-online-blackwood-lag-problem-solved-gameplay-enhanced/"><u>The Elder Scrolls Online Blackwood Lag Problem Solved – Gameplay Enhanced</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/vocal-voyagers-navigating-the-lyrical-landscape-top-song-titles-online-2024/"><u>Vocal Voyagers Navigating the Lyrical Landscape – Top Song Titles Online, 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/why-is-instagram-turning-my-video-sideways/"><u>Why Is Instagram Turning My Video Sideways?</u></a></li>
 </ul></div>
 

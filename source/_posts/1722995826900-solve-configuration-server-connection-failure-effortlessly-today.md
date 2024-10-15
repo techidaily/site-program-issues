@@ -1,7 +1,7 @@
 ---
 title: Solve ‘Configuration Server Connection Failure’ Effortlessly Today
-date: 2024-10-06T18:09:11.031Z
-updated: 2024-10-08T19:08:04.486Z
+date: 2024-10-13T00:52:52.776Z
+updated: 2024-10-14T18:09:18.829Z
 tags:
   - win11
   - win10
@@ -35,10 +35,10 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
 * [5. Enable Xbox Live Networking Service & Xbox Live Auth Manager](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Sign in again
@@ -48,19 +48,6 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
  If you’re on Steam, the**“Sign out”** option should appear when you start the game.
 
 ![sign out steam](https://images.drivereasy.com/wp-content/uploads/2021/05/sign-out.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  But if this method doesn’t do the trick, you can try the next fix below.
 
@@ -74,18 +61,31 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Xbox.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Select**Fix it** . Windows will try to detect and fix known issues with Teredo.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/fix-it.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Once complete, you will need to click the**Check again** button. If there’s no issue detected, you can launch your game to check if the ‘Unable to connect to the live configuration servers’ issue disappears.
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Reinstall the Teredo Adapter
 
@@ -105,9 +105,23 @@ netsh interface Teredo set state disable
 
 ![uninstall graphics driver](https://images.drivereasy.com/wp-content/uploads/2021/03/device-manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click **View** \> **Show hidden devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/show-hidden-devices.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Double-click on **Network adapters** .
 
@@ -118,13 +132,6 @@ netsh interface Teredo set state disable
 netsh interface Teredo set state type=default
 
  8) Now launch your game and check if the error message ‘Unable to connect to the live configuration servers’ is gone for now.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Turn on Windows Firewall
 
@@ -149,13 +156,6 @@ netsh advfirewall set allprofiles state on
  1) On your keyboard, press the Windows key + R key at the same time, and enter**services.msc** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/services-run-box.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Scroll down the bottom, and make sure**Xbox Live Auth Manager** and**Xbox Live Networking Service** are running. If not, right-click the service and click**Start** .
 
@@ -186,20 +186,20 @@ netsh advfirewall set allprofiles state on
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-beyond-social-media-norms-the-distinctive-features-of-triller/"><u>[Updated] Beyond Social Media Norms The Distinctive Features of Triller</u></a></li>
-<li><a href="https://os-tips.techidaily.com/2023s-most-popular-apple-watch-choices-expert-reviews-and-comparisons/"><u>2023'S Most Popular Apple Watch Choices - Expert Reviews & Comparisons</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-linkedin-live-clarity-ending-the-partially-muted-frustration/"><u>2024 Approved LinkedIn Live Clarity - Ending the Partially Muted Frustration</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-strategies-for-preventing-pc-gaming-disruptions-and-crashes/"><u>Expert Strategies for Preventing PC Gaming Disruptions and Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-i-fixed-the-persistent-black-screen-problem-on-my-device-a-step-by-step-guide/"><u>How I Fixed the Persistent Black Screen Problem on My Device - A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-enjoy-the-classic-gaming-experience-with-la-noire-for-pc-now-available/"><u>How to Enjoy the Classic Gaming Experience with L.A. Noire for PC – Now Available!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-c67-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme C67 5G to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-step-by-step-srt-addition-to-mp4s-for-next-level-audio/"><u>In 2024, Step-by-Step SRT Addition to MP4s for Next-Level Audio</u></a></li>
-<li><a href="https://program-issues.techidaily.com/instantly-resolve-your-black-screen-woes-with-these-6-oculus-link-hacks/"><u>Instantly Resolve Your Black Screen Woes with These 6 Oculus Link Hacks!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-technology-trends-with-toms-hardware-reviews/"><u>Mastering Technology Trends with Tom's Hardware Reviews</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-improper-installation-issues-with-the-amd-ryzen-master-software/"><u>Resolving Improper Installation Issues with the AMD Ryzen Master Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/starcraft-2-troubleshooting-made-easy-overcoming-pc-compatibility-crashes-for-smooth-gaming/"><u>StarCraft 2 Troubleshooting Made Easy: Overcoming PC Compatibility Crashes for Smooth Gaming</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-motorola-moto-g-stylus-5g-2023-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Motorola Moto G Stylus 5G (2023) Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-effortless-tips-for-storing-vimeo-videos/"><u>2024 Approved Effortless Tips for Storing Vimeo Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-smooth-cinematography-premium-stabilizer-recommendations/"><u>2024 Approved Smooth Cinematography Premium Stabilizer Recommendations</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/amazon-kindle-vs-amazon-fire-tablets-understanding-the-key-distinctions/"><u>Amazon Kindle Vs. Amazon Fire Tablets - Understanding the Key Distinctions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-techniques-for-correcting-fatal-errors-in-infinity-siege-when-played-on-desktop-computers/"><u>Effective Techniques for Correcting Fatal Errors in Infinity Siege When Played on Desktop Computers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/effortless-music-conversion-a-beginners-guide-to-cd-ripping-with-audacity/"><u>Effortless Music Conversion: A Beginner's Guide to CD Ripping with Audacity</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-the-issue-when-deathloop-wont-open/"><u>How to Overcome the Issue When Deathloop Won't Open</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-discovering-the-best-of-360-cams-pros-choice-roundup-2023/"><u>In 2024, Discovering the Best of 360° Cams Pros Choice Roundup, 2023</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/moto-g-power-analysis-exceptional-endurance-meets-stylish-design/"><u>Moto G Power Analysis: Exceptional Endurance Meets Stylish Design</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-get-your-elden-rings-multiplayer-up-and-running-again/"><u>Quick Fixes: Get Your Elden Ring's Multiplayer Up and Running Again!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-your-csgo-login-woes-five-key-strategies-to-tackle-the-no-user-logon-problem/"><u>Solve Your CSGO Login Woes: Five Key Strategies to Tackle the No User Logon Problem</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-writing-workflow-with-chatgpt-insights-for-creatives/"><u>Transform Your Writing Workflow with ChatGPT: Insights for Creatives</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-complete-guide-overcoming-crash-glitches-in-tales-of-arise/"><u>Troubleshooting Complete Guide - Overcoming Crash Glitches in Tales of Arise</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-resolving-palworld-session-search-issues/"><u>Troubleshooting Steps: Resolving PalWorld Session Search Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/valheim-pc-stability-guide-resolving-persistent-crashing-issues/"><u>Valheim PC Stability Guide: Resolving Persistent Crashing Issues</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Vivo Y27 4G? | Dr.fone</u></a></li>
 </ul></div>
 

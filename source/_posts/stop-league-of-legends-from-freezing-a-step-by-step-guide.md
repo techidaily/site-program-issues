@@ -1,7 +1,7 @@
 ---
 title: "Stop League of Legends From Freezing: A Step-by-Step Guide"
-date: 2024-10-02T16:24:00.273Z
-updated: 2024-10-08T21:17:12.148Z
+date: 2024-10-12T01:41:05.296Z
+updated: 2024-10-15T00:23:10.368Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -94,18 +87,18 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -123,11 +116,25 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -144,22 +151,21 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
@@ -175,16 +181,16 @@ thumbnail: https://thmb.techidaily.com/f6a7ada2504c6506664e9e8b754b42045262a6658
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -208,19 +214,24 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/0-most-susbcribed-youtuber-in-the-world/"><u>[New] 10 Most Susbcribed YouTuber in the World</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-essential-mac-compatible-mkv-players-for-2024/"><u>[New] Essential Mac-Compatible MKV Players for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-unplugged-joy-a-list-of-great-offline-ipad-games-for-2024/"><u>[New] Unplugged Joy A List of Great Offline iPad Games for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-seamless-integration-of-multimedia-pip-video-tips-for-sierra-users/"><u>[Updated] 2024 Approved Seamless Integration of Multimedia PIP Video Tips for Sierra Users</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-acclaimed-selections-outstanding-iphone-tone-specialists-for-2024/"><u>[Updated] Acclaimed Selections Outstanding iPhone Tone Specialists for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/experience-smooth-play-with-yakuza-6-on-pc-crash-no-more/"><u>Experience Smooth Play with Yakuza 6 on PC - Crash No More</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/illustration-insights-elevating-text-in-three-dimensions/"><u>Illustration Insights Elevating Text in Three Dimensions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005381349-naraka-bladepoint-performance-issues-resolved-boost-your-fps-and-eliminate-stuttering/"><u>Naraka: Bladepoint Performance Issues Resolved? Boost Your FPS and Eliminate Stuttering!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-destiny-ebserver-disconnects-a-complete-guide-to-troubleshooting-and-fixing-the-issue/"><u>Overcome Destiny Ebserver Disconnects: A Complete Guide to Troubleshooting and Fixing the Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-frame-drops-in-age-of-empires-iv-a-comprehensive-guide/"><u>Resolving Frame Drops in Age of Empires IV: A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-issue-what-to-do-if-paradox-launcher-wont-open/"><u>Solving the Issue: What to Do If Paradox Launcher Won't Open</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stabilizing-your-gameplay-addressing-total-war-warhammer-ii-performance-errors/"><u>Stabilizing Your Gameplay: Addressing Total War: Warhammer II Performance Errors</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/united-nations-of-joy-4th-of-july/"><u>United Nations of Joy: 4Th of July</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-10-best-free-chroma-key-apps-for-mobile-devices-updated-2023/"><u>Updated In 2024, 10 Best Free Chroma Key Apps for Mobile Devices (Updated 2023)</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-unlock-endless-entertainment-with-tiktok-on-your-macbook/"><u>[New] 2024 Approved Unlock Endless Entertainment with TikTok on Your MacBook</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mastering-the-skill-how-to-securely-record-on-whatsapp/"><u>2024 Approved Mastering the Skill How to Securely Record on WhatsApp</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-ultimate-screen-recorders-guide-trusted-recommendations/"><u>2024 Approved The Ultimate Screen Recorders Guide - Trusted Recommendations</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-xiaomi-redmi-note-12-4g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-on-resolving-war-thunders-recent-freezing-problems/"><u>Expert Advice on Resolving War Thunder's Recent Freezing Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-on-preventing-and-repairing-phoenix-point-game-crashes/"><u>Expert Tips on Preventing and Repairing Phoenix Point Game Crashes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/se-titans-the-10-most-subscribed-youtube-creators-for-2024/"><u>Fanbase Titans The 10 Most Subscribed YouTube Creators for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/frozen-in-action-solve-warframes-freezing-problem-once-and-for-all/"><u>Frozen in Action? Solve Warframe's Freezing Problem Once & For All</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exploring-periscopes-world-free-access-and-user-registration/"><u>In 2024, Exploring Periscope's World Free Access & User Registration</u></a></li>
+<li><a href="https://program-issues.techidaily.com/latest-fixes-for-phasmophobia-technical-problems-stay-updated-gaming-success/"><u>Latest Fixes for Phasmophobia Technical Problems - Stay Updated Gaming Success</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-silent-calls-getting-your-pcs-mic-working-with-zoom-again/"><u>Quick Fixes for Silent Calls: Getting Your PC's Mic Working with Zoom Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/restoring-logitech-options-software-to-full-capacity-for-windows-users-a-step-by-step-guide/"><u>Restoring Logitech Options Software to Full Capacity for Windows Users - A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-yakuza-6-the-song-of-life-pc-game-crashes/"><u>Troubleshooting Guide: Fixing Yakuza 6 'The Song of Life' PC Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-playing-origin-on-recent-versions-of-windows-os/"><u>Troubleshooting Steps for Playing Origin on Recent Versions of Windows OS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/twitch-audio-not-working-heres-how-to-fix-streaming-silence/"><u>Twitch Audio Not Working? Here's How to Fix Streaming Silence!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-reddit-triumphs-highly-upvoted-threads-compilation/"><u>Ultimate Reddit Triumphs Highly Upvoted Threads Compilation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-solutions-for-cult-of-the-lamb-stability-problems-on-windows/"><u>Ultimate Solutions for Cult of the Lamb Stability Problems on Windows</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upgrade-your-email-experience-mozilla-thunderbird-version-52/"><u>Upgrade Your Email Experience: Mozilla Thunderbird Version 52</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/winning-the-battle-against-high-cpu-load-caused-by-msmpengexe-on-windows-10-tips-and-tricks/"><u>Winning the Battle Against High CPU Load Caused by MsMpEng.exe on Windows 10: Tips & Tricks</u></a></li>
 </ul></div>
 

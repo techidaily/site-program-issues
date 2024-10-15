@@ -1,7 +1,7 @@
 ---
 title: Optimizing Cyberpunk 2077 for Lower CPU Consumption - Fixed
-date: 2024-10-05T16:21:54.373Z
-updated: 2024-10-08T21:54:13.016Z
+date: 2024-10-10T02:24:56.948Z
+updated: 2024-10-14T21:37:36.134Z
 tags:
   - win11
   - win10
@@ -40,11 +40,25 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ta-1.jpg)
 2. Right-click each application in the list and click**End task** to close them one by one.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0-2.jpg)
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
  If there’re no background programs consuming your CPU but the problem still exists, check out the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Turn off overlays
 
@@ -56,14 +70,20 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/steam1.jpg)
 2. Select the**In-Game** tab, untick**Enable the Steam Overlay while in-game** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/steam-2.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Check if Cyberpunk 2077 high CPU usage is still there. If so, proceed to **[Fix 3](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -74,13 +94,20 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 3. Uncheck the box next to **In-Game Overlay** and click **Ok** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Restart Cyberpunk 2077 to check whether your CPU maxes out. If the CPU usage remains high while you’re gaming, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3 – Adjust in-game graphics settings
@@ -97,36 +124,9 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/6-3.jpg)
 5. Scroll to**DLSS** and set it to**off** .  
 
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/graphics-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Relaunch the game to check if the issue persists. If yes, have a look at the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Change the power settings
 
@@ -136,6 +136,13 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-5.jpg)
 2. Select**Small icons** next to View by and click**Power Options** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-2.jpg)
 3. Choose**Balanced** or**High Performance** mode if you’re facing high CPU usage, then click**Change plan settings** next to your chosen plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-3.jpg)
@@ -144,20 +151,13 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-4.jpg)
 5. Select**Processor power management** \>**Maximum processor state** . Then, set it to another**value no below 90%** , and click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch Cyberpunk 2077 to test. If it’s still using too much CPU, continue to the last fix.
@@ -205,16 +205,24 @@ There are two ways you can update the device drivers correctly:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-easy-to-follow-steps-crafting-animated-gifs-from-youtube-content-pcmobile/"><u>[New] In 2024, Easy-to-Follow Steps Crafting Animated GIFs From YouTube Content (PC/Mobile)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-finding-balance-the-art-of-choosing-video-dimensions/"><u>[Updated] 2024 Approved Finding Balance The Art of Choosing Video Dimensions</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-elevate-snapchat-snaps-with-customizable-user-voices/"><u>[Updated] In 2024, Elevate Snapchat Snaps with Customizable User Voices</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-mastering-instagrams-music-stickers-integration/"><u>[Updated] In 2024, Mastering Instagram's Music Stickers Integration</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-complete-guide-to-utilizing-zoom-in-windows-10/"><u>2024 Approved A Complete Guide to Utilizing Zoom in Windows 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/6-quick-ways-to-fix-roblox-crashing-on-pc-2024/"><u>6 Quick Ways to Fix Roblox Crashing on PC - 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-yet-ambiguous-a-comprehensive-look-at-the-microsoft-surface-gos-market-positioning/"><u>Affordable yet Ambiguous - A Comprehensive Look at The Microsoft Surface Go's Market Positioning</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dead-by-daylight-error-code-8014-explained-steps-to-get-back-in-the-game/"><u>Dead By Daylight Error Code 8014 Explained: Steps to Get Back in the Game</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Motorola Edge 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/play-days-gone-on-pc-enjoy-the-action-packed-adventure/"><u>Play Days Gone on PC: Enjoy the Action-Packed Adventure!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-war-thunder-from-crashing-expert-hacks-and-advice-players/"><u>Stop War Thunder From Crashing - Expert Hacks and Advice Players</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unlocking-screen-record-features-for-capturing-snaps/"><u>[New] 2024 Approved Unlocking Screen Record Features for Capturing Snaps</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-zoning-in-on-images-core-via-affinity/"><u>[New] 2024 Approved Zoning in on Image's Core via Affinity</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-charting-success-navigating-youtube-statistics-with-social-blade/"><u>[New] Charting Success Navigating YouTube Statistics with Social Blade</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-storage-analysis-videography-on-64128gb-hardware/"><u>[Updated] Storage Analysis Videography on 64/128GB Hardware</u></a></li>
+<li><a href="https://android-frp.techidaily.com/about-huawei-p60-frp-bypass-by-drfone-android/"><u>About Huawei P60 FRP Bypass</u></a></li>
+<li><a href="https://fox-http.techidaily.com/bebops-avian-acrobatics-a-parrot-revelation/"><u>Bebop's Avian Acrobatics – A Parrot Revelation</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-guide-to-mend-internet-explorer-has-stopped-working-errors/"><u>Comprehensive Guide to Mend 'Internet Explorer Has Stopped Working' Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-display-error-solved-end-of-the-dark-screen-woes/"><u>Cyberpunk 2077 Display Error Solved: End of the Dark Screen Woes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-update-asus-laptop-driver-software-step-by-step-guide/"><u>Download & Update ASUS Laptop Driver Software: Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-on-handling-the-asset-not-found-mistake-error-4201-in-genshin-impact/"><u>Expert Advice on Handling the 'Asset Not Found' Mistake (Error #4201) in Genshin Impact</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-mysterious-black-screen-problem-when-playing-overwatch/"><u>Fixing the Mysterious Black Screen Problem When Playing Overwatch</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-elite-batteries-and-chargers-for-black-gopro-hero5-devices/"><u>In 2024, Elite Batteries & Chargers for Black GoPro Hero5 Devices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/no-more-crashes-optimizing-dragon-age-origins-gameplay-on-windows-10-systems/"><u>No More Crashes: Optimizing Dragon Age: Origins Gameplay on Windows 10 Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-ghostrunner-crashes-in-windows-11-a-step-by-step-guide/"><u>Resolving Ghostrunner Crashes in Windows 11 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-playback-lags-in-obs-advanced-strategies-for-stable-recording-and-streaming/"><u>Resolving Playback Lags in OBS: Advanced Strategies for Stable Recording and Streaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/simplify-the-numerator-by-combining-like-terms-4x-and-5x/"><u>Simplify the Numerator by Combining Like Terms (4X and 5X):</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000799950-stop-that-minecraft-outdated-drivers-error-easy-fix-inside/"><u>Stop That 'Minecraft Outdated Drivers' Error! Easy Fix Inside</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tactical-strategies-to-combat-the-0xc0000005-error-code-in-black-ops-cold-war/"><u>Tactical Strategies to Combat the 0xC0000005 Error Code in Black Ops Cold War</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-fix-for-valorants-pc-latency-techniques-to-improve-your-gameplay/"><u>The Ultimate Fix for Valorant's PC Latency : Techniques to Improve Your Gameplay</u></a></li>
 </ul></div>
 
