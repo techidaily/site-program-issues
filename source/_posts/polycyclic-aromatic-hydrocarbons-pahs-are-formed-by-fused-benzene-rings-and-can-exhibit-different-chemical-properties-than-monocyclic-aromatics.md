@@ -1,7 +1,7 @@
 ---
 title: Polycyclic Aromatic Hydrocarbons (PAHs) Are Formed by Fused Benzene Rings and Can Exhibit Different Chemical Properties than Monocyclic Aromatics
-date: 2024-10-08T04:43:37.428Z
-updated: 2024-10-14T19:48:26.046Z
+date: 2024-10-18T18:33:07.075Z
+updated: 2024-10-20T16:12:51.082Z
 tags:
   - win11
   - win10
@@ -79,13 +79,6 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8 fixes for FIFA 20 crashing
 
  Here are 8 fixes that have proved helpful to solve the FIFA 20 crashing issues. You may not need to try them all; just work your way down the list until you find the one that does the trick.
@@ -108,13 +101,6 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1:**Update your device drivers**
 
  Your crashing issue in FIFA 20 may be caused by outdated or corrupt device drivers (especially graphics card drivers). If you’re not sure whether all your device drivers are up-to-date, you should check.
@@ -134,10 +120,10 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -160,33 +146,40 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-212.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the Device Manager window, double-click on the **Display adapters** node to expand its drop-down list. Then right-click on your graphics card (the one used to run the game) and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-933.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Roll Back Driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-938.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If the **Roll Back Driver** option is grayed out, that means there’s no driver to roll back to. In this case you’ll have to try other fixes.
 
  4) Choose one of the reasons based on your own situation and click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-218.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Restart your computer for the changes to take effect.
 
@@ -202,29 +195,22 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-141.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the **Windows Update** tab, in the results pane, click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-947.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Wait for the system to search for available updates online. If there’s indeed a pending update, then Windows will automatically download the update and install it. Once the process completes, restart your computer for the changes to be fully implemented.
 
  Now launch FIFA 20 again and see whether it keeps crashing. If it does, then move on to the Fix 4 below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Change DirectX settings
 
@@ -267,10 +253,10 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-913.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Exit NVIDIA Control Panel, restart your computer, then launch FIFA 20.
@@ -278,6 +264,13 @@ In case you don’t know how, here’s the guidance:
 If you continue to face the crashing problem, please move on to Fix 6.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Repair corrupted system files
 
@@ -328,6 +321,13 @@ dism.exe /online /cleanup-image /restorehealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-165.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for the process to complete. Then, reboot your computer, launch FIFA 20, and wait to see if it keeps crashing. If it does, try out Fix 7.
 
 ---
@@ -368,19 +368,22 @@ dism.exe /online /cleanup-image /restorehealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-how-to-shoot-vertical-panorama-photos-with-your-smartphone-androidios/"><u>[New] 2024 Approved How to Shoot Vertical Panorama Photos with Your Smartphone Android/iOS</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-premier-fb-video-mp4-downloader-no-ads-no-wait/"><u>[Updated] In 2024, Premier FB Video MP4 Downloader - No Ads, No Wait</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1728483498413-5/"><u>解決『目錄名稱無效』問題：5個簡單方法來修正</u></a></li>
-<li><a href="https://program-issues.techidaily.com/accelerate-your-gaming-experience-fixes-for-assassins-creed-valhalla-slowdown/"><u>Accelerate Your Gaming Experience - Fixes for Assassin's Creed: Valhalla Slowdown</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723010737663-banish-your-woes-in-star-wars-jedi-fallen-order-squadron-with-fixes-for-critical-errors/"><u>Banish Your Woes in Star Wars Jedi: Fallen Order Squadron with Fixes for Critical Errors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortless-solutions-how-to-stop-your-chrome-browser-from-hanging-on-windows-11/"><u>Effortless Solutions: How to Stop Your Chrome Browser From Hanging on Windows 11</u></a></li>
-<li><a href="https://network-issues.techidaily.com/elevate-your-experience-geforce-rtx210-windows-update/"><u>Elevate Your Experience - GeForce RTX210 Windows Update</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-common-age-of-empires-4-stuttering-problems-proven-techniques/"><u>Fixing Common Age of Empires 4 Stuttering Problems: Proven Techniques</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/iphone-voice-memo-recording-guide-for-2024/"><u>IPhone Voice Memo Recording Guide for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-the-sims-4-visual-bliss-eliminating-video-card-glitches/"><u>Master The Sims 4 Visual Bliss: Eliminating Video Card Glitches</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-kernel32dll-issues-on-your-pc-step-by-step-guide/"><u>Resolving Kernel32.dll Issues on Your PC - Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-converting-spotify-playlists-into-text-format/"><u>Step-by-Step Guide: Converting Spotify Playlists Into Text Format</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-list-of-7-ai-technologies-transforming-how-we-tackle-math-challenges/"><u>The Ultimate List of 7 AI Technologies Transforming How We Tackle Math Challenges</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-naraka-bladepoint-stutter-and-lag/"><u>Troubleshooting Naraka: Bladepoint Stutter and Lag</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-revitalizing-video-engagement-easy-steps-for-an-animated-subscribe-button-in-filmora/"><u>[New] 2024 Approved Revitalizing Video Engagement Easy Steps for an Animated Subscribe Button in Filmora</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-beyond-popularity-ten-truths-you-need-to-know-about-instagram-reels/"><u>[New] Beyond Popularity Ten Truths You Need to Know About Instagram Reels</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993855904-bluestacks-hiccups-heres-how-you-can-fix-them-quickly-and-easily/"><u>BlueStacks Hiccups? Here's How You Can Fix Them Quickly and Easily!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-the-hurdle-connect-to-origin-successfully-now/"><u>Bypassing the Hurdle: Connect to Origin Successfully Now</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/centro-di-sincronizzazione-in-windows-11-risolto-come-riparare-il-collegamento/"><u>Centro Di Sincronizzazione in Windows 11 Risolto – Come Riparare Il Collegamento</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fallout-76-update-brings-an-end-to-troublesome-gameplay-hiccups-and-freezes/"><u>Fallout 76 Update Brings an End to Troublesome Gameplay Hiccups and Freezes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-your-computer-from-crashing-while-playing-madden-21/"><u>How to Prevent Your Computer From Crashing While Playing Madden '21</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-the-issue-of-grayed-out-icloud-options-in-ios-devices/"><u>How to Resolve the Issue of Grayed-Out iCloud Options in iOS Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-expert-strategies-for-perfectly-shared-screens-on-mobiledesktop/"><u>In 2024, Expert Strategies for Perfectly Shared Screens on Mobile/Desktop</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/live-streaming-with-manycam-the-ultimate-virtual-camera-and-video-effects-tool/"><u>Live Streaming with ManyCam: The Ultimate Virtual Camera and Video Effects Tool</u></a></li>
+<li><a href="https://program-issues.techidaily.com/medium-application-malfunction-on-desktop-solutions-unveiled/"><u>Medium Application Malfunction on Desktop: Solutions Unveiled</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-if-you-are-struggling-to-figure-out-which-online-video-trimmer-is-for-you-then-here-is-a-list-of-the-10-best-free-online-video-trimmers/"><u>New In 2024, If You Are Struggling to Figure Out Which Online Video Trimmer Is for You, Then Here Is a List of the 10 Best Free Online Video Trimmers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/pioneers-ultimate-mounting-system-review/"><u>Pioneer's Ultimate Mounting System Review</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-connection-to-server-lost-errors-in-escape-from-tarkov/"><u>Resolving Connection To Server Lost Errors in Escape From Tarkov</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-among-us-persistent-load-error-fix-and-troubleshooting-guide/"><u>Solving the 'Among Us' Persistent Load Error - Fix & Troubleshooting Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-when-call-of-duty-warzone-refuses-to-open/"><u>Troubleshooting Steps for When 'Call of Duty: Warzone' Refuses to Open</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-itel-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Itel Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
 </ul></div>
 

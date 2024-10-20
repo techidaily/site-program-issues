@@ -1,7 +1,7 @@
 ---
 title: Steps to Fix the Issue When You Can't Access Destiny 2 Servers Anymore
-date: 2024-10-01T20:11:49.833Z
-updated: 2024-10-08T19:05:21.577Z
+date: 2024-10-19T17:58:32.116Z
+updated: 2024-10-20T16:01:17.502Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/545eb30532b146292d910492a3de0882f942d02de
 5. **[Close unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Uninstall and reinstall Minecraft](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Run Minecraft in compatibility mode
 
  Some older games might run poorly in the most recent version of Windows 10\. To see if that’s the case for Minecraft, try running the game in compatibility mode. Here’s how:
@@ -40,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/545eb30532b146292d910492a3de0882f942d02de
 3. Select**Windows 8** from the drop-down menu, then click**Apply** and**OK** to save changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-apply-ok.jpg)
@@ -52,6 +59,13 @@ thumbnail: https://thmb.techidaily.com/545eb30532b146292d910492a3de0882f942d02de
 
 If the issue persists, read on and try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Check your antivirus settings
 
  Your antivirus software could block the normal operation of Minecraft and cause the black screen issue. To ensure the game functions properly, you should **add Minecraft Launcher as an exception to your antivirus software** . This will vary depending on the antivirus software you’re using.
@@ -59,6 +73,13 @@ If the issue persists, read on and try the next fix.
  See if the black screen issue appears again after adding Minecraft as an exception to your antivirus software.
 
 If the issue remains, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -72,13 +93,6 @@ If the issue remains, move on to the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
@@ -107,13 +121,6 @@ If the issue remains, move on to the next fix.
 
 If this method doesn’t do the trick, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Close unnecessary programs
 
  If you’re running multiple programs at the same time when playing Minecraft, there is a chance that one of your programs conflicts with the game. Besides, too many applications running in the background will consume more resources, which could cause the black screen issue. So we recommend that you close all unnecessary programs during the gameplay. To do so:
@@ -123,10 +130,10 @@ If this method doesn’t do the trick, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/end-task-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
@@ -134,13 +141,6 @@ If this method doesn’t do the trick, continue to the next fix.
 Relaunch Minecraft to see if your issue is resolved.
 
 If not, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Uninstall and reinstall Minecraft
 
@@ -150,19 +150,19 @@ If not, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/appdata-minecraft.jpg)
 2. Copy the**saves** folder and paste it to your desktop, as it contains your Minecraft world.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/saves.jpg)
 3. After saving your game data, delete everything inside the**.minecraft** folder.
 
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_.jpg)
 5. In Programs and Features, select**Minecraft Launcher** and click**Uninstall** . Then follow the on-screen instruction to uninstall the game.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
 6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
@@ -191,19 +191,21 @@ If not, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-tactics-to-make-fb-videos-attractive-and-effective/"><u>[New] Tactics to Make FB Videos Attractive and Effective</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-fundamental-skills-for-producing-emotionally-driven-testimonials/"><u>2024 Approved Fundamental Skills for Producing Emotionally-Driven Testimonials</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-superior-pcmacos-users-choice-best-8-uhd-video-player/"><u>2024 Approved Superior PC/MacOS Users' Choice Best 8 UHD Video Player</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-turning-dull-vids-into-engaging-experienents-with-music/"><u>2024 Approved Turning Dull Vids Into Engaging Experienents With Music</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1726228110360-mp4-aac-movavi/"><u>網路直通無限 MP4到 AAC 自由轉換 - 使用 Movavi 轉檔工具</u></a></li>
-<li><a href="https://program-issues.techidaily.com/civilization-vi-troubleshooting-issues-with-launch-on-windows-11-explained/"><u>Civilization VI Troubleshooting: Issues with Launch on Windows 11 Explained</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cyberpunk-2077s-input-lag-issue-now-resolved-how-to-play-smoothly/"><u>Cyberpunk 2077'S Input Lag Issue Now Resolved - How to Play Smoothly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723012291102-destiny-2s-beyond-light-update-flawlessly-implemented-on-pc-no-more-crashes/"><u>Destiny 2'S Beyond Light Update Flawlessly Implemented on PC - No More Crashes</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723862738874-get-your-hands-on-the-game-changing-lenovo-legion-slim-5-for-less-than-1100-shop-now-at-newegg/"><u>Get Your Hands on the Game-Changing Lenovo Legion Slim 5 for Less Than $1,100 – Shop Now at Newegg</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gpt-spotlight-identifying-sham-dialogue-participants/"><u>GPT Spotlight: Identifying Sham Dialogue Participants</u></a></li>
-<li><a href="https://program-issues.techidaily.com/insufficient-processor-speed-hinders-effective-use-of-vanguard-tool/"><u>Insufficient Processor Speed Hinders Effective Use of Vanguard Tool</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fixes-how-to-stop-your-controller-from-frequent-crashing/"><u>Quick Fixes: How to Stop Your Controller From Frequent Crashing</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-solutions-resolve-world-of-warships-crash-issues-on-windowspc-top-5-tips/"><u>Quick Solutions: Resolve World of Warships Crash Issues on Windows/PC - Top 5 Tips!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-persistent-audios-with-paused-youtube-videos-in-google-chrome-or-mozilla-firefox/"><u>Troubleshooting Persistent Audios with Paused YouTube Videos in Google Chrome or Mozilla Firefox</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-rhythm-and-pixels-recording-in-a-mac-studio/"><u>[Updated] 2024 Approved Rhythm and Pixels Recording in a Mac Studio</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-set-up-facebook-streaming-pcmaclaptop-tutorial-with-obs/"><u>[Updated] Set Up Facebook Streaming PC/Mac/Laptop Tutorial with OBS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-why-are-my-videos-flipped-on-instagram-for-2024/"><u>[Updated] Why Are My Videos Flipped On Instagram for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/10-must-have-plug-ins-for-final-cut-cinematography/"><u>10 Must-Have Plug-Ins for Final Cut Cinematography</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-ultimate-guide-to-bordered-ig-posts-using-best-apps/"><u>2024 Approved The Ultimate Guide to Bordered IG Posts Using Best Apps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-samsung-galaxy-z-fold-5-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/breakneck-beats-short-track-highlights-for-2024/"><u>Breakneck Beats Short Track Highlights for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-steam-cannot-update-cloud-library-comprehensive-solutions/"><u>Fixing 'Steam Cannot Update Cloud Library': Comprehensive Solutions</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-access-youtube-tracks-without-spending-a-dime-25plus-no-cost-audio-extractors/"><u>In 2024, Access YouTube Tracks Without Spending a Dime 25+ No-Cost Audio Extractors</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/is-sns-hdr-pro-the-gold-standard-for-hdr-editors-in-2024/"><u>Is SNS HDR Pro the Gold Standard for HDR Editors, In 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-smooth-performance-strategies-to-combat-forza-horizon-amoor/"><u>Mastering Smooth Performance: Strategies to Combat Forza Horizon Amoor</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-connectivity-hurdles-with-steams-servers-a-fix-guide/"><u>Overcoming Connectivity Hurdles with Steam's Servers: A Fix Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-persistent-crashes-in-necromunda-hired-gun-for-pc-gamers-solutions-explored/"><u>Overcoming Persistent Crashes in Necromunda: Hired Gun for PC Gamers - Solutions Explored</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-process-to-fetch-and-install-updated-drivers-for-the-logitech-g403-on-pc/"><u>Step-by-Step Process to Fetch and Install Updated Drivers for the Logitech G403 on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-pc-lag-with-these-swift-fixes-to-roblox-issues-edition/"><u>Stop PC Lag with These Swift Fixes to Roblox Issues Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unboxing-and-review-a-thorough-assessment-of-ankers-roav-dash-cam-c1/"><u>Unboxing & Review: A Thorough Assessment of Anker's Roav Dash Cam C1</u></a></li>
 </ul></div>
 

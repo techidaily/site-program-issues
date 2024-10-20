@@ -1,7 +1,7 @@
 ---
 title: "Resolving Lags: Ultimate Guide to Unfreeze Your Borderlands 3 Game"
-date: 2024-10-11T22:31:19.330Z
-updated: 2024-10-15T03:17:46.747Z
+date: 2024-10-13T18:23:25.820Z
+updated: 2024-10-20T16:45:13.410Z
 tags:
   - win11
   - win10
@@ -56,6 +56,13 @@ Call of Duty: Modern Warfare randomly freezes on PC when you’re enjoying a fur
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/1-0.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Check the information about your**operating system** ,**processor** and**memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/1-1-1.jpg)
@@ -68,9 +75,29 @@ Call of Duty: Modern Warfare randomly freezes on PC when you’re enjoying a fur
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/1-3-3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Click**Exit** .
 
  If your computer is above the required level to run Modern Warfare, move on to the second fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Avoid PC overheating
 
@@ -128,10 +155,16 @@ Call of Duty: Modern Warfare randomly freezes on PC when you’re enjoying a fur
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/6-1-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -140,32 +173,12 @@ Call of Duty: Modern Warfare randomly freezes on PC when you’re enjoying a fur
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/6-2-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You could do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If the freezing problem persists after you install the latest graphics driver, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair game files
 
@@ -177,19 +190,6 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-0-0-1200x741.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Click**Options** and select**Scan and Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-0-1.jpg)
@@ -199,13 +199,6 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-1-3-1.jpg)
 
  This will automatically scan and repair any missing or corrupted game files. After the process completes, relaunch Modern Warfare and check for the issue. If this doesn’t help, go for the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6 – Change in-game graphics settings
 
@@ -221,6 +214,13 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/5-2-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Scroll down to the**Details & Textures** tab, and configure the settings as below:
 
 * Texture Resolution:**Medium** or**Low**
@@ -234,6 +234,13 @@ Here are the steps:
  These settings are expected to balance your game performance and visual quality. You could gradually increase the settings to test which combination works the best and won’t trigger critical problems. If the lower settings don’t work, try**Reset tab to Default** .
 
  If Modern Warfare still freezes no matter how you change the settings, turn to the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7 – Disable in-game overlay
 
@@ -261,13 +268,6 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/7-2-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you want to disable the overlay feature just for Modern Warfare, navigate to the**Games** tab on the left pane, and click the**computer icon** next to Modern Warfare to**toggle off overplay** .
 
  Launch Modern Warfare to see if the freezing issue disappears. If things don’t get any better after you turn off the overlay, check out the last fix.
@@ -281,10 +281,10 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/8-1-5-1200x741.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Select**Options** and click**Uninstall Game** .
@@ -292,10 +292,10 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/8-2-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Download the latest version of Call of Duty: Modern Warfare and install the game again.
@@ -322,18 +322,16 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-full-disclosure-on-the-t5-cameras-action-features-for-2024/"><u>[Updated] Full Disclosure on the T5 Camera's Action Features for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleashing-funimate-on-android-step-by-step-apk-tutorial/"><u>[Updated] Unleashing Funimate on Android - Step-by-Step APK Tutorial</u></a></li>
-<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oppo-k11x-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ing-clickthrough-rates-with-attention-grabbing-youtube-thumbnails-for-2024/"><u>Boosting Clickthrough Rates with Attention-Grabbing YouTube Thumbnails for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/discover-the-power-of-mycam-recording-features/"><u>Discover the Power of MyCam Recording Features</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/dive-into-filmmaking-the-role-of-lenses-in-videos-for-2024/"><u>Dive Into Filmmaking The Role of Lenses in Videos for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-solutions-to-overcome-the-nwstoreexe-program-hiccups/"><u>Easy Solutions to Overcome the nw_store.exe Program Hiccups</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-lava-yuva-3-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Lava Yuva 3 Pro in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-resident-evil-village-pc-game-crashes-solved/"><u>How to Fix Resident Evil Village PC Game Crashes - Solved</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-warzone-20-high-ping-2024-tips/"><u>How to Fix Warzone 2.0 High Ping - 2024 Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-graphics-initialization-issue-errgfxd3dinit-in-gta-v-gameplay/"><u>How to Resolve Graphics Initialization Issue (ERR_GFX_D3D_INIT) in GTA V Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722999426890-mastering-the-streets-in-yakuza-like-a-dragon-on-pc-top-tips-and-tricks/"><u>Mastering the Streets in Yakuza: Like a Dragon on PC – Top Tips and Tricks!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/rocket-league-update-fixes-previous-system-freeze-bugs/"><u>Rocket League Update Fixes Previous System Freeze Bugs</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-enhancing-teamimage-blurring-backgrounds-on-microsoft-teams/"><u>[New] In 2024, Enhancing TeamImage Blurring Backgrounds on Microsoft Teams</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-comprehensively-exploring-best-options-for-online-photo-edits/"><u>[Updated] Comprehensively Exploring Best Options for Online Photo Edits</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726029130286-fbrmp4/"><u>使いやすくて賢明なFBRファイルをMP4に変換する技術</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-online-conversion-webm-files-into-mp4-format-using-movavi/"><u>Free Online Conversion: WebM Files Into MP4 Format Using Movavi</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-vhs-illusions-to-enhance-film-projects/"><u>In 2024, Prime VHS Illusions to Enhance Film Projects</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-halo-infinites-unwanted-pc-interruptions-learn-how/"><u>Say Goodbye to Halo Infinite's Unwanted PC Interruptions - Learn How</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722997182503-simplify-the-numerator-by-combining-like-terms-4x-and-5x/"><u>Simplify the Numerator by Combining Like Terms (4X and 5X)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/star-wars-jedi-fallen-order-pc-game-crashes-troubleshooting-steps/"><u>Star Wars Jedi: Fallen Order PC Game Crashes - Troubleshooting Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-correcting-the-msvcr110dll-error-on-helldivers-2/"><u>Step-by-Step Guide: Correcting the 'MSVCR110.DLL' Error on Helldivers 2</u></a></li>
 </ul></div>
 

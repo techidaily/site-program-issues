@@ -1,7 +1,7 @@
 ---
 title: Snapchat Camera Not Showing? Here's How You Can Solve It!
-date: 2024-10-14T02:54:58.139Z
-updated: 2024-10-14T23:27:04.574Z
+date: 2024-10-15T19:06:42.044Z
+updated: 2024-10-20T17:51:29.461Z
 tags:
   - win11
   - win10
@@ -42,18 +42,33 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 2. Click**Camera** in the left panel.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Make sure the toggle under**Allow apps to access your camera** is on.
 4. Click the**Change** button, check the**Camera access for this device** is on.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-02-43.jpg)
 5. Make sure you’ve turned on the**Allow desktop apps to access your camera** toggle.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-16-38.jpg)
 6. Relaunch Discord and check if the camera is working fine or not.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Rearrange your USB device (USB camera only)
 
@@ -68,13 +83,6 @@ Here’s how…
 
 If it doesn’t help, please move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Close all the background app
 
  One common reason for the Discord camera not working issue is your camera it’s used in the background by other applications so it’s not available to Discord. Also, kill unnecessary background programs will give Discord more resources and prevent potential conflicts.
@@ -83,6 +91,19 @@ If it doesn’t help, please move to the next fix.
 2. Choose the background app and then click**End task** to shut it down. Repeat the process until you’ve closed all the background apps.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-26-59.jpg)
 3. Launch Discord camera to check.
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update camera driver
 
@@ -113,13 +134,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
@@ -140,6 +154,13 @@ OR
 
 If your camera is still not working on Discord, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Reinstall Discord
 
  Reinstall Discord is a useful common fix for issues. It’s because the corrupt installation of Discord or the outdated Discord version could be the reason for many problems, camera not working issue could be one of the problems.
@@ -149,13 +170,6 @@ If your camera is still not working on Discord, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. Find Discord and click to expand it. Click the**Uninstall** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-40-47.jpg)
 4. Follow the on-screen instructions to finish the process.
 
@@ -163,27 +177,14 @@ If your camera is still not working on Discord, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-42-04.jpg)
 6. Find the Discord folder and delete it.  
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-01.jpg)
 7. Open the Run box and type**%LocalAppData%** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-33.jpg)
@@ -193,16 +194,10 @@ If your camera is still not working on Discord, move to the next fix.
 9. Restart your computer.
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 10. Go to the[Discord official website](https://discord.com/) and download the latest version of Discord.
@@ -229,18 +224,14 @@ If your camera is still not working on Discord, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-best-unmentioned-free-speech-to-text-tools-for-mac-users/"><u>[New] 2024 Approved Best Unmentioned Free Speech to Text Tools for Mac Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-guide-to-automatic-text-generation-with-google-docs-voice-recognition/"><u>[New] In-Depth Guide to Automatic Text Generation with Google Docs Voice Recognition</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-a-trailblazers-guide-youtube-studio-location-unveiled-for-2024/"><u>[Updated] A Trailblazer’s Guide YouTube Studio Location Unveiled for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/achieve-smooth-performance-fixing-stutter-issues-for-better-fps-on-valorant/"><u>Achieve Smooth Performance: Fixing Stutter Issues for Better FPS on Valorant</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-getting-tekken-8-up-and-running-on-your-computer-again/"><u>Expert Tips: Getting 'Tekken 8' Up and Running on Your Computer Again</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-on-iphone-6-5-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover deleted pictures on iPhone 6? 5 Best Solutions | Stellar</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-oppo-a59-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Oppo A59 5G to iPad | Dr.fone</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/instamp4ify-swift-and-easy-rmvb-to-mp4-video-conversion/"><u>InstaMP4ify: Swift and Easy RMVB-to-MP4 Video Conversion</u></a></li>
-<li><a href="https://fox-that.techidaily.com/lost-iphone-heres-why-it-might-be-invisible-on-find-my-and-how-to-spot-it/"><u>Lost iPhone? Here's Why It Might Be Invisible on 'Find My' And How to Spot It!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maximize-your-fps-in-call-of-duty-warzone-by-unlocking-gpu-utilization-on-windows-10-computers/"><u>Maximize Your FPS in Call of Duty: Warzone by Unlocking GPU Utilization on Windows 10 Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-issue-critical-failure-loading-steamuidll-fixes-applied/"><u>Resolved Issue: Critical Failure Loading 'steamui.dll' – Fixes Applied</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-phasmophobia-games-excessive-cpu-drain-a-step-by-step-guide/"><u>Solving the Phasmophobia Game's Excessive CPU Drain: A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-successful-fixes-for-non-functioning-netflix-on-xbox-console/"><u>Troubleshooting Successful: Fixes for Non-Functioning Netflix on Xbox Console</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-key-to-wealth-in-web-videos-view-count-imperative/"><u>[Updated] In 2024, The Key to Wealth in Web Videos View Count Imperative</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-streamline-your-screens-the-benefits-of-using-showmore-for-2024/"><u>[Updated] Streamline Your Screens The Benefits of Using ShowMore for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-complete-guide-to-optimizing-your-picsart-experience/"><u>2024 Approved Complete Guide to Optimizing Your PicsArt Experience</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/crafting-stellar-highlight-photos-on-instagram-for-2024/"><u>Crafting Stellar Highlight Photos on Instagram for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/editing-your-google-meet-sessions-recording-a-step-by-step-tutorial/"><u>Editing Your Google Meet Sessions Recording - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-correct-error-6-when-playing-dive-missions-in-cod-moden-warfare-pc-edition/"><u>Expert Tips to Correct Error #6 When Playing Dive Missions in CoD: Moden Warfare - PC Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-common-steam-issue-cant-link-with-local-steam-software/"><u>Fixing the Common Steam Issue: Can't Link With Local Steam Software?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/introduction-to-wet-scrubbers-and-their-use-in-removing-gaseous-pollutants-from-exhaust-streams-using-a-liquid-medium/"><u>Introduction to Wet Scrubbers and Their Use in Removing Gaseous Pollutants From Exhaust Streams Using a Liquid Medium.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-high-latency-in-bless-unleashed-steps-to-reduce-lag-and-improve-pc-performance/"><u>Solving High Latency in Bless Unleashed: Steps to Reduce Lag and Improve PC Performance</u></a></li>
 </ul></div>
 

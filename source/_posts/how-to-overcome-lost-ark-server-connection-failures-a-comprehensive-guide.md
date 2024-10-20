@@ -1,7 +1,7 @@
 ---
 title: "How to Overcome Lost Ark Server Connection Failures: A Comprehensive Guide"
-date: 2024-10-08T17:27:32.890Z
-updated: 2024-10-14T18:34:05.398Z
+date: 2024-10-18T19:13:26.487Z
+updated: 2024-10-20T18:38:03.103Z
 tags:
   - win11
   - win10
@@ -63,31 +63,31 @@ Connection issues can happen in every online game and bother many players. The L
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/control-panel.jpg)
 2. Set Control Panel view by **Large icons** then click **Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c2.jpg)
 3. Click **Allow an app or feature through Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg)
 4. Make sure the LOL is checked. If not, click the Change settings button then check the LOL. If you see more than one LOL entries, check all of them. Ensure the Private box and the Publick box are checked too.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Run LOL to check the issue is resolved or not.
 
  If the LOL is already checked and this method doesn’t work for you, you can move on to try another method.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Disable antivirus software
 
@@ -112,21 +112,15 @@ Connection issues can happen in every online game and bother many players. The L
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-714.png)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-715.png)
 4. Run League of Legends to check the connection issue is resolved or not.
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems using Driver Easy to update your drivers, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
@@ -143,15 +137,15 @@ Connection issues can happen in every online game and bother many players. The L
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network.jpg)
 2. Click**Proxy** on the left pane. Turn off the toggles under**Automatically detect settings**  and **Use setup script** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network1.jpg)
 3. Also, don’t forget to **disconnect your VPN** if you’re using it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Launch LOL and check the connection issue.
 
@@ -167,21 +161,16 @@ Connection issues can happen in every online game and bother many players. The L
 2. Type **control** **panel** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel1-1.jpg)
 3. Set Control Panel view by **Category** then click **View network status and tasks** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/09/network2.jpg)
-4. Click **Change adapter settings** .  
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/network2.jpg)
+4. Click **Change adapter settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network3.jpg)
 5. Right-click on your network and select **Properties** .  
@@ -189,26 +178,26 @@ Connection issues can happen in every online game and bother many players. The L
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network4.jpg)
 6. Double-click **Internet Protocol Version 4 (TCP/IPv4)**  to view its properties.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-630.png)
 7. In the pop-up window, select these two options: **Obtain an IP address automatically** and **Use the following DNS server addresses** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  For the Preferred DNS server, enter 8.8.8.8 to replace the primary IP address; for the **Alternate DNS server** , enter **8.8.4.4** . Then click **OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-633.png)  
 **Note** : If you want to restore your DNS server addresses, simply change **Use the following DNS server addresses** to **Obtain DNS server address automatically** and then restart your network adapter.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 8. Reboot your PC and launch LOL. Check the connection issue is resolved or not.
 
@@ -233,16 +222,18 @@ Connection issues can happen in every online game and bother many players. The L
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-vivo-y27-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/arma-3-stability-fixes-top-solutions-for-common-2024-crashes/"><u>Arma 3 Stability Fixes: Top Solutions for Common 2024 Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/banish-technical-glitches-in-ac-odyssey-easy-troubleshooting-guide-for-pc-users/"><u>Banish Technical Glitches in AC Odyssey - Easy Troubleshooting Guide for PC Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723013264375-enjoy-uninterrupted-gameplay-the-problematic-assassins-creed-odyssey-pc-bug-is-now-solved/"><u>Enjoy Uninterrupted Gameplay - The Problematic Assassin's Creed Odyssey PC Bug Is Now Solved!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-to-overcome-call-of-duty-vanguards-issue-5573-solutions-inside/"><u>Guide to Overcome Call of Duty Vanguard's Issue #5573 – Solutions Inside</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-lava-storm-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Lava Storm 5G Activity | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-crafting-unique-content-to-differentiate-your-channel/"><u>In 2024, Crafting Unique Content to Differentiate Your Channel</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-nubia-red-magic-8s-proplus-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Nubia Red Magic 8S Pro+ Device</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/navigating-through-netflixs-m7111-1331-5059-proxy-hurdle-strategies-and-solutions/"><u>Navigating Through Netflix's M7111-1331-5059 Proxy Hurdle: Strategies and Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/praey-for-the-overlords-pc-stability-issues-resolving-frequent-game-crashes/"><u>Praey for the Overlords PC Stability Issues - Resolving Frequent Game Crashes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-honor-x50-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Honor X50 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-mastering-alias-update-on-google-meet-devices/"><u>[New] 2024 Approved Mastering Alias Update on Google Meet Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-asus-mg28uq-4k-monitor-review/"><u>[New] ASUS MG28UQ 4K Monitor Review</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-innovating-engagement-integrate-thoughtful-chapters-into-your-youtube-videos/"><u>[New] Innovating Engagement Integrate Thoughtful Chapters Into Your YouTube Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-vanguard-glitches-solved-fixing-the-perplexing-freeze-problems-for-good/"><u>Call of Duty: Vanguard Glitches Solved: Fixing the Perplexing Freeze Problems for Good</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-tips-to-correct-the-0xc191e1-compatibility-issue-on-windows-10-devices/"><u>Comprehensive Tips to Correct the '0xC19^1E1' Compatibility Issue on Windows 10 Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/expert-tips-for-effective-steam-product-returns/"><u>Expert Tips for Effective Steam Product Returns</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-loom-capture-toolkit-essential-screen-casts-tips/"><u>In 2024, Loom Capture Toolkit Essential Screen Casts Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/obs-fixated-overcome-the-hurdle-of-screen-capture-failure/"><u>OBS Fixated! Overcome the Hurdle of Screen Capture Failure</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-initialization-errors-for-armored-core-vi-fires-of-rubicon-expert-fixes-and-tips/"><u>Overcoming Initialization Errors for Armored Core VI: Fires of Rubicon - Expert Fixes and Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-crashes-in-total-war-three-kingdoms-a-comprehensive-guide/"><u>Resolved: Fixing Crashes in Total War: Three Kingdoms - A Comprehensive Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/step-by-step-installation-of-beta-quadrant-addon-for-kodi-users-seeking-247-streaming-options-tv-channels-and-movies/"><u>Step-by-Step Installation of Beta Quadrant Addon for Kodi Users Seeking 24/7 Streaming Options, TV Channels, and Movies</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-bamboo-driver-for-wacom/"><u>Streamlined Bamboo Driver for Wacom</u></a></li>
+<li><a href="https://program-issues.techidaily.com/victory-against-delays-fixing-input-lag-for-a-smoother-valorant-experience/"><u>Victory Against Delays: Fixing Input Lag for a Smoother Valorant Experience</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Beat the Game-Breaking Bugs in 'True Colors' - Your Ultimate Solution Inside!
-date: 2024-09-24T08:49:30.787Z
-updated: 2024-09-27T18:35:33.327Z
+date: 2024-10-17T18:58:42.331Z
+updated: 2024-10-20T17:49:46.821Z
 tags:
   - win11
   - win10
@@ -55,10 +55,10 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
  If your rig is powerful enough for the game, check out the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of game files
@@ -71,18 +71,19 @@ Here’s how:
 2. Under the**Installed** section, click the picture of Immortals Fenyx Rising.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-1.jpg)
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
 
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
 
 If this method doesn’t help, you can take a look at the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -109,20 +110,21 @@ If this method doesn’t help, you can take a look at the next one.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -141,13 +143,6 @@ And here’s how you can make sure your system is the latest:
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -172,24 +167,24 @@ And here’s how you can make sure your system is the latest:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-filmographys-finest-shots-the-best-camera-and-lighting-tips/"><u>[New] In 2024, Filmography's Finest Shots The Best Camera & Lighting Tips</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-capture-the-moment-live-streams-archive/"><u>[Updated] 2024 Approved Capture the Moment Live Streams Archive</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-essential-tips-for-hosting-a-successful-facebook-live-event/"><u>[Updated] In 2024, Essential Tips for Hosting a Successful Facebook Live Event</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-top-5-uavs-for-elevating-your-gopro-videos-and-movies/"><u>[Updated] Top 5 UAVs for Elevating Your GoPro Videos and Movies</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-uninterrupted-virtual-engagement-top-5-high-quality-recorders-for-2024/"><u>[Updated] Uninterrupted Virtual Engagement - Top 5 High-Quality Recorders for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/44cm44or44k944kz44oz5l244gj44gm5a625bqt55so44ot44oh44kq44kr44od44oi44gu5oml6acg44ks44kk44oj44cn/"><u>「パソコン使って家庭用ビデオカットの手順ガイド」</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mobility-meets-entertainment-top-portable-viewers/"><u>2024 Approved Mobility Meets Entertainment Top Portable Viewers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/accelerate-your-ark-adventure-expert-strategies-for-increasing-fps-in-pc-battles/"><u>Accelerate Your ARK Adventure: Expert Strategies for Increasing FPS in PC Battles</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/combining-apples-mobile-clips-with-desktop-footage-a-how-to-tutorial/"><u>Combining Apple's Mobile Clips with Desktop Footage – A How-To Tutorial</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dragon-quest-xi-stability-fix-ending-the-game-crash-problem/"><u>Dragon Quest XI Stability Fix: Ending the Game Crash Problem</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722991748166-expert-advice-eliminating-nioh-2-full-versions-crashing-glitches-permanently/"><u>Expert Advice: Eliminating Nioh 2 Full Version's Crashing Glitches Permanently</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-persistent-lagging-issues-in-the-latest-version-of-assassins-creed-unity-a-comprehensive-guide/"><u>Fixing Persistent Lagging Issues in the Latest Version of Assassin’s Creed Unity: A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-constant-conflict-how-to-prevent-warzone-20-from-crashing-on-your-computer/"><u>Fixing the Constant Conflict: How to Prevent Warzone 2.0 From Crashing on Your Computer</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-frolic-fables-a-vhs-review-of-the-comical-epic/"><u>In 2024, 'Frolic Fables' - A VHS Review of The Comical Epic</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-master-meeting-magic-key-ways-to-tweak-with-zoom-converter/"><u>In 2024, Master Meeting Magic Key Ways to Tweak with Zoom Converter</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-how-to-regain-access-after-a-fortnite-restricted-entry-warning/"><u>Solved: How to Regain Access After a Fortnite Restricted Entry Warning</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-for-when-battlenet-refuses-to-start-guide/"><u>Step-by-Step Solution for When Battle.net Refuses to Start (Guide)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-the-disruptions-correcting-frequent-crashes-in-forza-horizon-navigating-pc-issues/"><u>Stop the Disruptions: Correcting Frequent Crashes in Forza Horizon Navigating PC Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-step-by-step-overcoming-dev-error-mjuzr-zns-6068-in-call-of-duty/"><u>Troubleshooting Step-by-Step: Overcoming Dev Error ˈmjuːzɛr Zɔːn's 6068 in Call of Duty</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-how-to-create-effective-intro-videos-for-your-podcasts/"><u>[New] How to Create Effective Intro Videos for Your Podcasts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-downloadfacebookvideos-essential-browser-addons-for-a-smooth-social-media-journey-in-firefox/"><u>[Updated] 2024 Approved DownloadFacebookVideos! - Essential Browser Addons for a Smooth Social Media Journey in FireFox</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-complete-immersive-camera-review/"><u>[Updated] Complete Immersive Camera Review</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-transformative-tutorial-turning-vids-on-twitter-into-catchy-animated-memes-gifs/"><u>[Updated] Transformative Tutorial Turning Vids on Twitter Into Catchy Animated Memes (GIFs)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/assassins-creed-rogue-launch-issues-discover-effective-troubleshooting-steps/"><u>Assassin’s Creed Rogue Launch Issues? Discover Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/combining-audio-and-screens-apples-mix/"><u>Combining Audio & Screens Apple's Mix</u></a></li>
+<li><a href="https://program-issues.techidaily.com/delay-alert-no-set-date-yet-for-diablo-immortals-arrival-on-desktop-systems/"><u>Delay Alert: No Set Date Yet for Diablo Immortal's Arrival on Desktop Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/far-cry-6-fix-ultimate-guide-to-resolve-the-notorious-black-screen-problem/"><u>Far Cry 6 Fix: Ultimate Guide to Resolve the Notorious Black Screen Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/gaming-smoothly-on-pc-with-aliens-fireteam-elite-how-to-stop-the-crashes/"><u>Gaming Smoothly on PC with Aliens: Fireteam Elite - How to Stop the Crashes</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-realme-11-pro-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-your-pc-from-crashing-while-playing-euro-truck-simulator-2/"><u>How to Stop Your PC From Crashing While Playing Euro Truck Simulator 2</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-create-my-pokemon-overworld-maps-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Create My Pokemon Overworld Maps On Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-huawei-p60-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Huawei P60 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000003965-master-the-art-of-troubleshooting-device-malfunctions-secure-stability-today/"><u>Master the Art of Troubleshooting Device Malfunctions: Secure Stability Today!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximizing-performance-unlocking-the-best-fps-settings-for-modern-warfare/"><u>Maximizing Performance: Unlocking the Best FPS Settings for Modern Warfare</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-hurdles-why-diablo-ii-resurrected-launch-is-on-hold/"><u>Overcoming Hurdles – Why Diablo II Resurrected Launch Is on Hold</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unlock-a-library-of-free-audiobooks-with-your-us-spotify-premium-account/"><u>Unlock a Library of Free Audiobooks with Your U.S. Spotify Premium Account</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-does-warno-keep-failing-to-load-on-pc-find-out-the-reasons-here/"><u>Why Does Warno Keep Failing to Load on PC? Find Out the Reasons Here</u></a></li>
 </ul></div>
 

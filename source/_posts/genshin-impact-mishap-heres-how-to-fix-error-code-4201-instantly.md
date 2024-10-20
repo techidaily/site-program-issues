@@ -1,7 +1,7 @@
 ---
 title: Genshin Impact Mishap? Here's How to Fix Error Code 4201 Instantly
-date: 2024-08-28T06:38:09.424Z
-updated: 2024-08-29T06:38:09.424Z
+date: 2024-10-15T16:29:11.667Z
+updated: 2024-10-20T16:21:02.056Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/efbab3d097792aa66f0bd2cf2071c3ef92d9d9dc7
 
  As mentioned in the introduction, Error 4201 on Genshin impact sometimes can be a server issue. When the server is down, there’s nothing much to do on the player-side. This article will only focus on the possible fixes that players can do.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your Internet connection
 
  Error 4201 is a connection issue, so the first thing you should check is to make sure your Internet is working fine. Here’s a few things that you can do to check your Internet connection:
@@ -46,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/efbab3d097792aa66f0bd2cf2071c3ef92d9d9dc7
 
  If your Internet connection is valid and reliable but you still get Error 4201 on Genshin Impact, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Run the game executable as Admin
 
  Another possible cause of Error 4201 is the game being blocked on your PC. If Genshin Impact is blocked on your PC, it won’t be able to connect to the server. You may need to give administrative permissions to Genshin Impact on your PC, and it’s important to do this to the game executable itself instead of the game shortcut. Here’s how:
@@ -54,14 +68,8 @@ thumbnail: https://thmb.techidaily.com/efbab3d097792aa66f0bd2cf2071c3ef92d9d9dc7
 2. Find the game executable file, right-click it then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-20_16-49-02.jpg)
 3. Go to the**Compatibility** tab, and check the box of**Run this program as an administrator** . Then click**Apply** and**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-20_16-51-47.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If running the game executable as Admin doesn’t solve your problem, try the next fix.
 
 ## Fix 3: Check your VPN
@@ -83,16 +91,18 @@ thumbnail: https://thmb.techidaily.com/efbab3d097792aa66f0bd2cf2071c3ef92d9d9dc7
 1. On your taskbar, right-click the**network icon** , then click**Open Network & Internet settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Quad9 DNS server addresses as below, then click**OK** .  
 
@@ -102,9 +112,20 @@ thumbnail: https://thmb.techidaily.com/efbab3d097792aa66f0bd2cf2071c3ef92d9d9dc7
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-20_17-31-37.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If configuring DNS settings doesn’t solve your problem, try the last fix.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Update your network adapter driver
 
@@ -120,9 +141,6 @@ thumbnail: https://thmb.techidaily.com/efbab3d097792aa66f0bd2cf2071c3ef92d9d9dc7
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the **Update**  button next to the network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. For example, you can update your graphics driver as well (see as below.)  
@@ -147,8 +165,6 @@ Remember to restart your PC for the new drivers to take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +172,24 @@ Remember to restart your PC for the new drivers to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-conquer-with-titans-top-7-strategic-multiplayer-battles/"><u>[New] 2024 Approved Conquer with Titans Top 7 Strategic Multiplayer Battles</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-supercharge-your-social-sagas-free-seamless-online-integration/"><u>[New] In 2024, Supercharge Your Social Sagas FREE, Seamless Online Integration</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-conquer-small-screen-navigate-through-these-best-free-and-online-downloader-tools/"><u>[Updated] Conquer Small Screen Navigate Through These Best Free & Online Downloader Tools</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-how-to-stay-grounded-in-virtual-reality-spaces/"><u>[Updated] How to Stay Grounded in Virtual Reality Spaces</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-intuitive-guide-how-to-capture-on-vimeo-for-2024/"><u>[Updated] Intuitive Guide How to Capture on Vimeo for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-pinnacle-of-camera-quality-top-18-4k-camcorders/"><u>[Updated] Pinnacle of Camera Quality - Top 18 4K Camcorders</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-kodi-network-issue-expert-tips-on-getting-directory-info-back-solved/"><u>Fix Your Kodi Network Issue: Expert Tips on Getting Directory Info Back [Solved]</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-no-smudges-on-screens-keeping-your-gopro-crisp/"><u>In 2024, No Smudges on Screens Keeping Your GoPro Crisp</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-these-7-techniques-and-never-face-an-nba-2k23-game-crash-on-your-windows-machine-again/"><u>Master These 7 Techniques and Never Face an NBA 2K23 Game Crash on Your Windows Machine Again</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/must-see-vr-movies-for-film-enthusiasts-for-2024/"><u>Must-See VR Movies for Film Enthusiasts for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/precision-close-up-techniques-with-kinemaster-software/"><u>Precision Close-Up Techniques with Kinemaster Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-gas-station-simulation-software-continuous-pc-crashes/"><u>Resolved: Fixes for Gas Station Simulation Software Continuous PC Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-reviving-an-unresponsive-hp-display-unit-solved/"><u>Step-by-Step Guide to Reviving an Unresponsive HP Display Unit [SOLVED]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-the-non-responsive-windows-11-taskbar-issue/"><u>Troubleshooting Guide: Fixing the Non-Responsive Windows 11 Taskbar Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-lag-problems-solutions-for-dying-light-players/"><u>Troubleshooting Lag Problems: Solutions for Dying Light Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-resolving-issues-with-windows-11s-taskbar/"><u>Troubleshooting: Resolving Issues with Windows 11'S Taskbar</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-overcoming-lag-in-the-outriders-online-battle-royale/"><u>Ultimate Guide to Overcoming Lag in the Outriders Online Battle Royale</u></a></li>
+</ul></div>
 

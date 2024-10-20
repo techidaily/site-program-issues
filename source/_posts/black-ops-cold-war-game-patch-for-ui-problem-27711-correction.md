@@ -1,7 +1,7 @@
 ---
 title: "Black Ops: Cold War Game Patch for UI Problem 27711 Correction"
-date: 2024-10-06T19:41:29.214Z
-updated: 2024-10-08T21:44:03.650Z
+date: 2024-10-18T18:08:32.310Z
+updated: 2024-10-20T17:57:50.279Z
 tags:
   - win11
   - win10
@@ -26,13 +26,6 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart your PC
 
  Some gamers on[Reddit](https://www.reddit.com/r/blackopscoldwar/comments/kia139/get%5Fui%5Ferror%5F27711%5Fand%5Falso%5Fsomething%5Felse/) reported that the game went back to normal after a system restart. So before you try anything more complicated,**exit your game and do a normal reboot** . You’d be surprised how often this trick works.
@@ -40,10 +33,16 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
  If the error persists after a reboot, you can take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Scan and repair your game
@@ -53,24 +52,26 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 1. First open your **Blizzard Battle.net** client. In the left menu, select **Call of Duty: BOCW** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify.jpg)
 2. Click **Options**  and select **Scan and Repair** . Then wait until the checking is completed.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now you can launch the game and see if it loads this time.
 
  If this method doesn’t give you luck, simply take a look at the next one below.
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -103,19 +104,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if the error code reoccurs.
@@ -140,6 +128,13 @@ Here’s how you can check for updates manually:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’ve installed all the system updates, launch Black Ops Cold War and see if you can play now.
@@ -163,22 +158,22 @@ Here’s how you can check for updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-tips.techidaily.com/new-taking-your-aerial-game-to-new-heights-with-dji-spark-reviewed/"><u>[New] Taking Your Aerial Game to New Heights with DJI Spark Reviewed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ideas-aplenty-crafting-inspirational-photographic-mosaics/"><u>[Updated] Ideas Aplenty Crafting Inspirational Photographic Mosaics</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-deciphering-the-language-of-copyright-notices-from-youtube/"><u>2024 Approved Deciphering the Language of Copyright Notices From YouTube</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-blunders-in-nba-2k20-a-step-by-step-guide-to-smoother-play/"><u>Beat the Blunders in NBA 2K20 - A Step-by-Step Guide to Smoother Play</u></a></li>
-<li><a href="https://program-issues.techidaily.com/call-of-duty-ww2-understanding-and-fixing-error-4128/"><u>Call of Duty WW2 - Understanding and Fixing Error 4128</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dying-light-mastering-stability-and-optimizing-gameplay-speed/"><u>Dying Light: Mastering Stability & Optimizing Gameplay Speed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/elevate-your-gaming-rig-discover-the-budget-z790-ayw-wifi-debuting-with-ddr5-from-asus/"><u>Elevate Your Gaming Rig: Discover the Budget Z790-AYW WIFI Debuting with DDR5 From ASUS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-guide-to-overcoming-modern-warfare-and-warzone-severe-crash-errors/"><u>Expert Guide to Overcoming Modern Warfare and Warzone Severe Crash Errors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-errors-troubleshoot-issues-when-your-game-wont-start/"><u>Fixing Errors: Troubleshoot Issues When Your Game Won't Start</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-fluctuating-fps-in-gaming-effective-strategies-explored/"><u>Fixing Fluctuating FPS in Gaming: Effective Strategies Explored</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-itel-a70-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Itel A70 Pattern Lock Screen</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/inside-intova-x-pushing-video-tech-boundaries/"><u>Inside Intova X Pushing Video Tech Boundaries</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinstating-functional-wastebin-icon-in-windows-11/"><u>Reinstating Functional Wastebin Icon in Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-retrieve-deleted-messages-in-microsoft-outlook/"><u>Step-by-Step Guide: Retrieve Deleted Messages in Microsoft Outlook</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-fixes-for-persistent-valorant-pc-game-crashes/"><u>Troubleshooting: Fixes for Persistent Valorant PC Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-splitgates-frame-rate-drops-and-hitches/"><u>Ultimate Guide: Solving Splitgate's Frame Rate Drops and Hitches</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/wmv-3g2-wmv-3g2/"><u>WMV 파일을 3G2로 제공할 수 있는 원격 인터넷 용 WMV-3G2 전환 도구 - 무료 쇼</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-best-streaming-cameras-to-boost-viewer-interaction-on-twitch/"><u>[New] The Best Streaming Cameras to Boost Viewer Interaction on Twitch</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-angles-of-perspective-youtubes-path-to-dynamic-video-editing/"><u>[Updated] In 2024, Angles of Perspective YouTube's Path to Dynamic Video Editing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-step-by-step-acquiring-top-notch-clip-art-without-a-price-tag/"><u>[Updated] Step-by-Step Acquiring Top-Notch Clip Art Without a Price Tag</u></a></li>
+<li><a href="https://program-issues.techidaily.com/7-effective-troubleshooting-steps-to-resolve-stuck-loading-in-forza-horizon-5/"><u>7 Effective Troubleshooting Steps to Resolve Stuck Loading in Forza Horizon 5</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-and-repairing-launch-problems-in-call-of-duty-warzone/"><u>Addressing and Repairing Launch Problems in Call of Duty: Warzone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-your-utorrent-downloads-tips-for-overcoming-sluggish-performance/"><u>Boost Your uTorrent Downloads: Tips for Overcoming Sluggish Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-in-place-for-seamless-play-grand-theft-auto-vs-gta-nv-stuttering-problem-solved/"><u>Fixes in Place for Seamless Play: Grand Theft Auto V's (GTA Nv) Stuttering Problem Solved</u></a></li>
+<li><a href="https://program-issues.techidaily.com/god-of-war-first-person-shooter-release-date-confirmed-for-pc-platform/"><u>God of War First-Person Shooter Release Date Confirmed for PC Platform</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/helping-hands-in-colombia-danny-from-colombias-mission/"><u>Helping Hands in Colombia: Danny From Colombia’s Mission</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/high-definition-screens-selecting-your-optimal-4k-display/"><u>High Definition Screens Selecting Your Optimal 4K Display</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-enable-gpu-usage-for-cyberpunk-2077-on-windows-11-systems/"><u>How to Enable GPU Usage for Cyberpunk 2077 on Windows 11 Systems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-the-challenge-of-unrecognized-iphones-in-itunes-and-finder/"><u>Overcoming the Challenge of Unrecognized iPhones in iTunes and Finder</u></a></li>
+<li><a href="https://extra-support.techidaily.com/photographic-standouts-with-our-top-10-grid-picks-for-2024/"><u>Photographic Standouts with Our Top 10 Grid Picks for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-no-available-camera-input-error-in-snap-application/"><u>Resolving 'No Available Camera Input' Error in Snap Application</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-guide-to-free-stunning-photographs/"><u>The Ultimate Guide to Free, Stunning Photographs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-preventing-biomutant-from-crashing-on-pcs-latest-tips-for-2e24/"><u>Ultimate Guide to Preventing Biomutant From Crashing on PCs - Latest Tips for 2E24</u></a></li>
 </ul></div>
 

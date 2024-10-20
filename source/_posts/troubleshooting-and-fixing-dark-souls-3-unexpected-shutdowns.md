@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Fixing Dark Souls 3 Unexpected Shutdowns
-date: 2024-10-06T20:55:03.961Z
-updated: 2024-10-08T18:39:10.363Z
+date: 2024-10-19T16:11:37.601Z
+updated: 2024-10-20T16:16:41.145Z
 tags:
   - win11
   - win10
@@ -42,10 +42,16 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-708.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can go to the game options and change to Windowed mode, then re-launch your game to see if it works.
@@ -59,10 +65,10 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Open**DarkSouls3** folder.
@@ -104,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/2406330bf931e26fe8a1a800921df2ca60aab8bad
 
 Now launch Dark Souls 3 and see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Set game options to LOW
 
  If your game options are set High, this requires much more system resources and so Dark Souls 3 may crash. In that case, you should set game options to**_LOW_** so as to stop your game crashing.
@@ -118,6 +117,13 @@ Now launch Dark Souls 3 and see if it works.
  Be sure to set the resolution to the same resolution of your monitor. Also set**Effects quality** ,**Shadow quality** , and**Light quality** to**LOW** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-709.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you can’t access the in-game settings, try this:
 
@@ -136,10 +142,10 @@ If you can’t access the in-game settings, try this:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-711.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6) Save your file changes and restart your game.
@@ -159,10 +165,10 @@ Then play your game to see if it works properly.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-702.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Right click on**Dark Souls 3** , and click**Properties** .
@@ -198,20 +204,21 @@ Then play your game to see if it works properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-creating-an-ideal-oculus-rift-environment/"><u>[Updated] In 2024, Creating an Ideal Oculus Rift Environment</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-cost-effective-choices-chinese-vr-technology/"><u>2024 Approved Cost-Effective Choices Chinese VR Technology</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-realme-11-proplus-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Realme 11 Pro+? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhanced-dbz-kakarot-ultimate-fix-for-stability-and-performance-upgrade/"><u>Enhanced DBZ: Kakarot Ultimate Fix for Stability and Performance Upgrade</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/playchoice-pondering-over-dacast/"><u>PlayChoice Pondering Over DaCast</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-overcoming-destiny-2-server-disconnection-issues/"><u>Resolved: Overcoming 'Destiny 2 Server Disconnection Issues'</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/sea-of-thieves-wont-launch-here-are-the-fixes-you-need-to-know/"><u>Sea of Thieves Won't Launch? Here Are the Fixes You Need to Know</u></a></li>
-<li><a href="https://win11.techidaily.com/simplifying-unblocked-files-via-powershell-on-pc/"><u>Simplifying Unblocked Files via PowerShell on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-guide-resolving-constant-crashes-of-blender-application-on-desktops/"><u>Solution Guide: Resolving Constant Crashes of Blender Application on Desktops</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solutions-for-resolving-the-missing-msvcr110dll-in-helldivers-2/"><u>Solutions for Resolving the Missing MSVCR110.dll in HellDivers 2</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-mass-effect-trilogy-stability-issues-on-pc-and-xbox-a-comprehensive-guide/"><u>Solving Mass Effect Trilogy Stability Issues on PC and Xbox: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-risks-and-protections-for-your-data-in-customized-generative-ai-systems-such-as-chatgpt/"><u>The Risks and Protections for Your Data in Customized Generative AI Systems Such as ChatGPT</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-10-tips-to-eliminate-battlefield-5-latency-issues/"><u>Top 10 Tips to Eliminate Battlefield 5 Latency Issues</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-social-media-platforms-facebook-twitter-instagram-and-youtube/"><u>Top Social Media Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/movavi-caf-m4r/"><u>무세워서 코드 바꾸기: 오피스에서 Movavi CAF M4R 변환</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-boosting-productivity-how-to-proficiently-use-a-virtual-whiteboard-in-zoom/"><u>[New] In 2024, Boosting Productivity How to Proficiently Use a Virtual Whiteboard in Zoom</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-source-unlimited-stock-media-from-top-tier-4-youtube-channels/"><u>[New] In 2024, Source Unlimited Stock Media From Top-Tier 4 YouTube Channels</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-elevate-conversational-impact-how-to-pin-messages-wisely-in-discord/"><u>[Updated] 2024 Approved Elevate Conversational Impact How to Pin Messages Wisely in Discord</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-live-video-showdown-which-is-superior-virusmixwirecast-in-2024/"><u>[Updated] Live Video Showdown Which Is Superior, VirusMix/WireCast, In 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/accessing-audio-at-no-cost-the-ultimate-list-of-8-mp3-seekers-android/"><u>Accessing Audio at No Cost The Ultimate List of 8 MP3 Seekers (Android)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-restoring-your-logitech-c92eb-camera-functionality/"><u>Diagnosing and Restoring Your Logitech C92eb Camera Functionality</u></a></li>
+<li><a href="https://fox-making.techidaily.com/easy-guide-converting-avchd-files-to-avi-format-using-windows-software/"><u>Easy Guide: Converting AVCHD Files to AVI Format Using Windows Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-bootup-breakdowns-effective-fixes-for-fall-guys-not-starting-properly/"><u>Eliminating Bootup Breakdowns: Effective Fixes for Fall Guys Not Starting Properly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-troubleshooting-tips-for-major-bugs-in-activisions-popular-fps-games/"><u>Essential Troubleshooting Tips for Major Bugs in Activision's Popular FPS Games</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-enhances-chat-with-groundbreaking-ar-tech/"><u>Facebook Enhances Chat With Groundbreaking AR Tech</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-of-alan-wake-2-not-releasing-what-can-you-do/"><u>Fixing the Issue of Alan Wake 2 Not Releasing – What Can You Do?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-darkness-resolving-your-halo-infinites-screen-issue/"><u>How to Overcome Darkness: Resolving Your Halo Infinite's Screen Issue</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-lava-blaze-pro-5g-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Lava Blaze Pro 5G in Minutes | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-picks-for-optimal-cloud-space-solutions/"><u>In 2024, Top Picks for Optimal Cloud Space Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-stop-rdr2-from-crashing-on-your-computer/"><u>Troubleshooting Guide: How to Stop RDR2 From Crashing on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-resolve-crashes-in-division-2-ultimate-guide/"><u>Troubleshooting Steps to Resolve Crashes in Division 2: Ultimate Guide</u></a></li>
 </ul></div>
 

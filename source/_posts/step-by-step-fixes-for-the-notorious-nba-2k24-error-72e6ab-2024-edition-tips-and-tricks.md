@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Fixes for the Notorious NBA 2K24 Error 72E6ab: 2024 Edition Tips and Tricks"
-date: 2024-08-28T06:38:12.131Z
-updated: 2024-08-29T06:38:12.131Z
+date: 2024-10-17T18:11:25.511Z
+updated: 2024-10-20T17:32:45.548Z
 tags:
   - win11
   - win10
@@ -59,10 +59,6 @@ Here are Grounded’s minimum specs:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Fix 2 – Temporarily disable your anti-virus programs
 
  Anti-virus programs can interfere with Grounded and stop it from running properly. To test if they’re the causes, you could temporarily disable your anti-virus programs and relaunch Grounded.
@@ -74,6 +70,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 If the problem persists, move towards the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -101,9 +104,6 @@ If the problem persists, move towards the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-1.jpg)
@@ -117,6 +117,13 @@ If the problem persists, move towards the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4 – Switch to DirectX 11 in the game setting
 
  Many players reported that Grounded crashes in the DirectX 12 mode. In this case, you can force the game to run on DirectX 11 and see if the problem is solved.
@@ -125,9 +132,6 @@ If the problem persists, move towards the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 **2)** Check your**DirectX version** . If it’s DirectX 12, continue to step 3, or if you have DirectX 11, you can jump to **[fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-0-1.jpg)
@@ -138,9 +142,6 @@ If the problem persists, move towards the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 **4)** Locate**Grounded** on the game list, right click it and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-2.jpg)
@@ -149,19 +150,26 @@ If the problem persists, move towards the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **6)** Type**\-dxlevel 110** in the field and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-4-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **7)** Click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-5.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Relaunch Grounded to check if the issue is solved. If not, there’s another fix for you.
 
@@ -180,23 +188,40 @@ If the problem persists, move towards the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)** Click the**Local files** tab, and click**Verify integrity of game files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-3.jpg)
 
 <!-- affiliate ads begin -->
-
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Wait for the process to complete. Then play Grounded to see whether the crashing problem goes away. If not, check out the fix below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6 – Play single-player in the offline mode
 
  Playing with friends is absolutely one of the most charming parts of Grounded. However, if you constantly run into crashing at the loading screen and couldn’t even complete a whole game, you could try playing single player in the offline mode.
@@ -206,8 +231,12 @@ If the problem persists, move towards the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **2)** Ensure the**Don’t save account credentials on this computer option** isn’t ticked. Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/stem4.jpg)
@@ -215,6 +244,19 @@ If the problem persists, move towards the next fix.
 **3)** Click**Steam** and click**Go offline** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Click**Restart in offline mode** .
 
@@ -238,8 +280,6 @@ Launch Steam. Then, play the game in single-player and see how it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -247,4 +287,24 @@ Launch Steam. Then, play the game in single-player and see how it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-clear-vision-in-gaming-captures-overcoming-obs-black-screens-for-2024/"><u>[New] Clear Vision in Gaming Captures Overcoming OBS Black Screens for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-from-live-to-legacy-preserving-facebook-events/"><u>[New] From Live to Legacy Preserving Facebook Events</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-a-compreayers-guide-to-smooth-and-clear-xbox-screen-recordings/"><u>[New] In 2024, A Compreayer’s Guide to Smooth and Clear Xbox Screen Recordings</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-alpine-adventure-2022s-spectacular-snowboard-cross-olympic-moments/"><u>[Updated] 2024 Approved Alpine Adventure 2022'S Spectacular Snowboard Cross Olympic Moments</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-nba-2k24s-troublesome-e66ac-glitch-comprehensive-guide-and-fixes/"><u>Eliminate NBA 2K24's Troublesome E66ac Glitch: Comprehensive Guide & Fixes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/enhancing-your-gaming-soundscape-in-outriders-expert-advice-on-clearing-up-audio-hitches/"><u>Enhancing Your Gaming Soundscape in Outriders: Expert Advice on Clearing Up Audio Hitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-windows-11-start-menu-issue-a-complete-solution/"><u>Fixing the Windows 11 Start Menu Issue: A Complete Solution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-updated-software-and-download-drivers-for-your-logitech-g403-mouse-on-pc/"><u>Get Updated Software & Download Drivers for Your Logitech G403 Mouse on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-fall-guys-freezing-glitch-for-a-smooth-gaming-experience-on-pc/"><u>How to Fix Fall Guys Freezing Glitch for a Smooth Gaming Experience on PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-videos-from-iphone-13-pro-max-without-backup-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Videos from iPhone 13 Pro Max Without Backup? | Stellar</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-mobile-video-enhancers-for-high-quality-gopro-videos-for-2024/"><u>Leading Mobile Video Enhancers for High-Quality GoPro Videos for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/logitechs-full-blown-4k-webcam-complete-reveal-and-evaluation-for-2024/"><u>Logitech's Full-Blown 4K Webcam - Complete Reveal & Evaluation for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/personalize-your-home-streaming-a-detailed-walkthrough-to-alter-chromecast-backgrounds/"><u>Personalize Your Home Streaming: A Detailed Walkthrough to Alter Chromecast Backgrounds</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-stop-eye-straining-flicker-on-your-display/"><u>Resolved: How to Stop Eye-Straining Flicker on Your Display</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-wsappx-effective-methods-to-address-increased-cpu-load-and-hard-drive-usage/"><u>Troubleshooting WSAPPX: Effective Methods to Address Increased CPU Load and Hard Drive Usage</u></a></li>
+<li><a href="https://program-issues.techidaily.com/war-thunder-performance-optimization-say-goodbye-to-slowdowns-2024-advice/"><u>War Thunder Performance Optimization - Say Goodbye to Slowdowns (2024 Advice)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722998122023-warzone-dev-error-5573-heres-what-you-need-to-know-for-pc-and-console-setup-correction/"><u>Warzone Dev Error #5573? Here's What You Need To Know for PC & Console Setup Correction</u></a></li>
+</ul></div>
 

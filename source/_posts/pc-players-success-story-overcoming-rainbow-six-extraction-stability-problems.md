@@ -1,7 +1,7 @@
 ---
 title: "PC Players' Success Story: Overcoming Rainbow Six Extraction Stability Problems"
-date: 2024-10-08T16:53:44.869Z
-updated: 2024-10-14T20:12:19.157Z
+date: 2024-10-15T18:50:11.294Z
+updated: 2024-10-20T18:44:35.080Z
 tags:
   - win11
   - win10
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
 7. **[Change the screen resolution to 1080p (PS4 Pro)](https://www.drivereasy.com/knowledge/solved-insurgency-sandstorm-keeps-crashing/#Fix7)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Verify integrity of game files
@@ -47,23 +47,30 @@ thumbnail: https://thmb.techidaily.com/0ef39d9a604e71499226be4f237e87d1b86c04c6f
 2. **Right-click** Insurgency: Sandstorm and select**Properties…** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-properties.jpg)
 3. Navigate to the**LOCAL FILES** tab and select**Verify integrity of game files…** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-verify-game-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once the process is finished, launch Insurgency: Sandstorm to see if the game crashes again.
@@ -90,9 +97,23 @@ If the game keeps crashing, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-program-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Launch the game again to check if your problem is resolved.
 
 If the crashing issue remains, check out the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -107,6 +128,13 @@ If the crashing issue remains, check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
@@ -116,6 +144,13 @@ If the crashing issue remains, check out the next fix.
 
  If updating your graphics driver doesn’t help, proceed to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Reset the video settings
 
  Some players have reported that they fixed the crashing issue by resetting the video settings. You can give it a try. Here’s how:
@@ -123,19 +158,6 @@ If the crashing issue remains, check out the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Then, type**%AppData%\\..\\Local** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/appdata-local.jpg)
 2. Navigate to**Insurgency > Saved > Config > WindowsClient** .
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Delete the**GameUserSettings.ini** file.
 
@@ -150,13 +172,6 @@ If this fix doesn’t do the trick, continue to the next one.
 1. On your keyboard, press**Ctrl** ,**Shift** and**Esc** keys at the same time to bring up**Task Manager** .
 2. **Right-click** the applications that may interfere with your game and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/task-manager-end-task.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
@@ -178,22 +193,8 @@ If the crashing issue persists, go ahead with the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
 4. In the new window, click**Browse…** . Browse to**Steam > steamapps > common > sandstorm** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/add-another-app-browse.jpg)
 5. Select**InsurgencyEAC.exe** application and click**Open** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Click**Network types…** , check**Private** and**Public** then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/network-types.jpg)
@@ -201,13 +202,6 @@ If the crashing issue persists, go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/add.jpg)
 8. Repeat step 3 to step 7 to add**InsurgencyClient-Win64-Shipping.exe** application. The file is located at **Steam > steamapps > common > sandstorm > Insurgency > Binaries > Win64** .
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Once done, relaunch the game to see if it crashes again.
 
@@ -236,19 +230,24 @@ Once done, relaunch the game to see if it crashes again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-enhancing-engagement-streaming-historical-video-events-on-facebook/"><u>[New] In 2024, Enhancing Engagement Streaming Historical Video Events on Facebook</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-amplifying-video-clarity-on-youtube/"><u>[Updated] In 2024, Amplifying Video Clarity on YouTube</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-overcoming-a-stalled-obs-video-capture-process/"><u>[Updated] In 2024, Overcoming a Stalled OBS Video Capture Process</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-experience-cinematic-adventure-with-intova-edge-x/"><u>2024 Approved Experience Cinematic Adventure With Intova Edge X</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhance-stability-for-spellbreak-on-pc-troubleshooting-guide/"><u>Enhance Stability for Spellbreak on PC: Troubleshooting Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone SE (2022)? | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-optimal-vision-selections-of-best-4k-dslrs-in-action/"><u>In 2024, Optimal Vision Selections of Best 4K DSLRs in Action</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-resolve-cod-black-ops-cold-war-not-boot-error-on-your-desktop/"><u>Step-by-Step Guide to Resolve Cod: Black Ops Cold War Not Boot Error on Your Desktop</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722998229888-the-ultimate-guide-to-starting-age-of-empires-iv-without-a-glitch/"><u>The Ultimate Guide to Starting Age of Empires IV Without a Glitch!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-7-solutions-to-the-overwatch-2-launch-issue-problems-resolved/"><u>Top 7 Solutions to the Overwatch 2 Launch Issue : Problems Resolved</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-preventing-midgard-tribes-game-crashes/"><u>Troubleshooting Tips for Preventing Midgard Tribes Game Crashes</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-unresponsive-spotify-on-windows-11/"><u>Troubleshooting Unresponsive Spotify on Windows 11</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/unraveling-why-your-facebooks-newsfeed-fails-to-suggest-movies/"><u>Unraveling Why Your Facebook's Newsfeed Fails to Suggest Movies</u></a></li>
-<li><a href="https://program-issues.techidaily.com/why-your-pc-might-be-having-issues-with-the-medium-a-deep-dive-into-the-cause-of-crashes/"><u>Why Your PC Might Be Having Issues With The Medium - A Deep Dive Into The Cause Of Crashes</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-essential-guide-to-preserving-screen-chats/"><u>[Updated] Essential Guide to Preserving Screen Chats</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-navigating-youtube-music-eclecticism/"><u>[Updated] In 2024, Navigating YouTube Music Eclecticism</u></a></li>
+<li><a href="https://facebook.techidaily.com/10-essential-tips-for-perfect-fb-timeline-covers/"><u>10 Essential Tips for Perfect Fb Timeline Covers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-best-ios-slideshow-software-from-x-to-ios13/"><u>2024 Approved Best iOS Slideshow Software From X to IOS13</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-skies-simple-snaps-vertical-phone-panoramas/"><u>2024 Approved High Skies, Simple Snaps Vertical Phone Panoramas</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/achieve-high-quality-recordings-with-these-5-windows-11-tips-for-2024/"><u>Achieve High-Quality Recordings with These 5 Windows 11 Tips for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009338389-coding-solved-why-does-call-of-duty-modern-warfare-keep-crashing-tips-to-resolve/"><u>Coding Solved: Why Does Call of Duty: Modern Warfare Keep Crashing? Tips to Resolve</u></a></li>
+<li><a href="https://program-issues.techidaily.com/destiny-2s-expansion-beyond-light-troubleshooting-pc-game-crashes/"><u>Destiny 2'S Expansion 'Beyond Light': Troubleshooting PC Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-call-of-duty-black-ops-cold-wars-temperature-troubles-for-smoother-gameplay/"><u>Diagnosing & Repairing Call of Duty: Black Ops Cold War's Temperature Troubles for Smoother Gameplay</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-eight-effective-chatgpt-alternatives-can-these-side-hustles-boost-your-income/"><u>Exploring Eight Effective ChatGPT Alternatives – Can These Side Hustles Boost Your Income?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722998769920-fix-elden-rings-fps-drops-instantly-with-these-simple-effective-tips/"><u>Fix Elden Ring's FPS Drops Instantly with These Simple, Effective Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-windows-10-restoring-access-to-locked-out-sync-functions-a-step-by-step-tutorial/"><u>Fixing Windows 10: Restoring Access to Locked-Out Sync Functions – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-enable-and-troubleshoot-spatial-audio-in-windows-1110/"><u>How to Enable & Troubleshoot Spatial Audio in Windows 11/10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-lag-problems-in-guilty-gear-strive-ultimate-fixes/"><u>How to Overcome Lag Problems in Guilty Gear - Strive- Ultimate Fixes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-magic-6-lite-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Magic 6 Lite has been deleted.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-smooth-windows-11-display-transitions/"><u>Steps for Smooth Windows 11 Display Transitions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fixes-for-assassins-creed-syndicate-crashes-expert-advice/"><u>Ultimate Fixes for Assassin's Creed Syndicate Crashes - Expert Advice</u></a></li>
+<li><a href="https://program-issues.techidaily.com/update-itunes-reports-an-audio-misconfiguration-error/"><u>Update: ITunes Reports an Audio Misconfiguration Error</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-wont-my-game-of-valheim-start-diagnosing-and-fixing-common-launch-failures/"><u>Why Won't My Game of Valheim Start? Diagnosing and Fixing Common Launch Failures</u></a></li>
 </ul></div>
 

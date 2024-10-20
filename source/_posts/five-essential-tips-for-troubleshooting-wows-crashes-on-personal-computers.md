@@ -1,7 +1,7 @@
 ---
 title: Five Essential Tips for Troubleshooting WoWs Crashes on Personal Computers
-date: 2024-08-28T06:39:27.910Z
-updated: 2024-08-29T06:39:27.910Z
+date: 2024-10-18T18:10:05.917Z
+updated: 2024-10-20T17:14:10.256Z
 tags:
   - win11
   - win10
@@ -52,16 +52,10 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
  3) Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click_Update All_ .)
 
  4) Once the driver is updated, reboot your PC for the changes to take effect.
@@ -80,18 +74,33 @@ There are mainly two methods for you to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Go to the LOCAL FILES tab, and click**Verify Integrity of game files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Wait for the process to complete. It may take a few seconds to verify the integrity of your game files.
 
  Once complete, you can restart the game to check if the Unreal Engine error has been solved by now.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Force Outriders to run in DX11
 
@@ -103,6 +112,13 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-in-dx-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now when you click the Play button, the game is always run in DX11\. If this method doesn’t do the trick, you can change the launch option back to**\-force -dx12** .
 
 ### 5\. Launch the game in your game folder
@@ -113,9 +129,6 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/browse.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
  2) Right-click**OUTRIDERS-Win64-Shipping** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties-game-exe.jpg)
@@ -125,6 +138,13 @@ There are mainly two methods for you to update the graphics driver:
  4) Launch the game from the exe.
 
  Granting enough access and running the game directly worked for many other players. If Outriders is still crashing with ‘Unreal process has crashed: UE4-Madness error’, you can try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 6\. Allow your game to run through Firewall
 
@@ -136,16 +156,17 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  3) On the left pane, click**Allow an app or feature through Windows Defender Firewall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/allow-firewall.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Now you can click**Change settings** and scroll down to Outriders to make sure the**Private** and**Public** boxes are both checked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/allowed.jpg)
@@ -167,8 +188,6 @@ There are mainly two methods for you to update the graphics driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +195,26 @@ There are mainly two methods for you to update the graphics driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/fixed-cod-modern-warfare-3-the-application-has-unexpectedly-stopped-working/"><u>[Fixed] COD Modern Warfare 3 The Application Has Unexpectedly Stopped Working</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ice-dance-showcase-olympic-winter-2022/"><u>[Updated] Ice Dance Showcase Olympic Winter 2022</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-speedy-engagement-the-how-to-for-video-speed-in-stories/"><u>[Updated] In 2024, Speedy Engagement The How-To for Video Speed in Stories</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-comprehensive-guide-to-creating-movies-not-just-youtube/"><u>[Updated] The Comprehensive Guide to Creating Movies, Not Just YouTube</u></a></li>
+<li><a href="https://program-issues.techidaily.com/continuous-audio-non-responsive-videos-on-youtube-heres-how-to-rectify-this-error-with-chrome-or-firefox/"><u>Continuous Audio, Non-Responsive Videos on YouTube? Here's How to Rectify This Error with Chrome or Firefox</u></a></li>
+<li><a href="https://program-issues.techidaily.com/destiny-2-troubleshooting-guide-overcoming-centipede-error-code/"><u>Destiny 2 Troubleshooting Guide - Overcoming Centipede Error Code</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-and-tricks-for-fixing-battlenet-wont-open-issues-the-definitive-2024-guide/"><u>Expert Tips and Tricks for Fixing Battle.net Won't Open Issues: The Definitive 2024 Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/hidden-glance-guide-top-instagram-story-tools-for-2024/"><u>Hidden Glance Guide Top Instagram Story Tools for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-retrieve-and-store-pictures-taken-during-facetime-sessions-in-ios/"><u>How to Retrieve and Store Pictures Taken During FaceTime Sessions in iOS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003939786-how-to-successfully-run-resident-evil-5-on-your-computer-solved/"><u>How To Successfully Run Resident Evil 5 On Your Computer - Solved</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y100a-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y100A to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-the-top-ranking-linksys-velop-a-cutting-edge-mesh-network-solution/"><u>In-Depth Analysis of the Top-Ranking Linksys Velop: A Cutting-Edge Mesh Network Solution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/modern-warfare-2-wont-start-troubleshooting-and-fixes/"><u>Modern Warfare 2 Won't Start: Troubleshooting and Fixes</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-list-of-stop-motion-animation-programs-for-mac-and-pc/"><u>New 2024 Approved The Ultimate List of Stop Motion Animation Programs for Mac and PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/speeding-up-fallout/"><u>Speeding Up Fallout 지정된 긴 로드 시간: 일관성 있는 수단</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-amplify-vram-in-windows-os/"><u>Strategies to Amplify VRAM in Windows OS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-your-cs2-game-crashes-effective-strategies-and-patches-updated-guide/"><u>Troubleshoot Your CS2 Game Crashes: Effective Strategies & Patches - Updated Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-fortnite-warzone-lag-issues/"><u>Ultimate Guide: Solving Fortnite Warzone Lag Issues</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/what-does-the-blue-marker-on-fb-chat-reveal-in-2024/"><u>What Does the Blue Marker on FB Chat Reveal, In 2024</u></a></li>
+</ul></div>
 

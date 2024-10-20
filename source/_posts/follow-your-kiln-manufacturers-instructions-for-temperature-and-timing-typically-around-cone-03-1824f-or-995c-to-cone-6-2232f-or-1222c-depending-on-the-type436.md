@@ -1,7 +1,7 @@
 ---
 title: Follow Your Kiln Manufacturer's Instructions for Temperature and Timing, Typically Around Cone 03 (1824°F or 995°C) to Cone 6 (2232°F or 1222°C), Depending on the Type of Underglaze Used.
-date: 2024-09-01T10:26:10.606Z
-updated: 2024-09-02T10:26:10.606Z
+date: 2024-10-18T18:23:43.413Z
+updated: 2024-10-20T17:14:32.121Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/f8d5308a72df2042f1308b78dc1efb598f7f3491c
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check system requirements
 
  If your Armored Core 6: Fires of Rubicon crashes a lot, before or during the game, one of the first things you need to check is whether your computer meets the minimum system requirements for the game. If your machine is below or just at the requirements, you may need to upgrade your hardware for Armored Core 6: Fires of Rubicon to run smoothly.
@@ -57,8 +64,12 @@ Here are the requirements for your reference:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Verify game files
 
  Corrupted or damaged game files could also be the culprits to the crashing of Armored Core 6: Fires of Rubicon, and verifying game files from within Steam helped to fix the crashing problem, according to some gamers in the Steam forum. So the next thing you should do here is to repair the game files. To do so:
@@ -71,18 +82,12 @@ Here are the requirements for your reference:
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Steam will verify the game’s files – this process may take several minutes.
 
  When the game files are verified and repaired, launch Armored Core 6: Fires of Rubicon from Steam again to see if the crashing problem still remains. If so, please move on.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Run the game as admin and in compatibility mode
 
  Some gamers reported that running Armored Core 6: Fires of Rubicon as administrator (and preferably in compatibility mode as well) also helped to stop it from crashing. This is probably because giving the game administrator privileges ensures its full rights to do anything it needs on your computer. Lacking certain rights to use system files could be the reason why Armored Core 6: Fires of Rubicon crashes at some point.
@@ -101,14 +106,18 @@ Here are the requirements for your reference:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Update graphics card driver
 
  An outdated or incorrect display card driver could also be the culprit to your Armored Core 6: Fires of Rubicon’s crashing problem, so if the above methods don’t help to fix it, it’s likely that you have a corrupted or outdated graphics driver. So you should update your drivers to see if it helps.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -123,8 +132,12 @@ To do so, first visit the website of your GPU manufacturer:
  Then search for your GPU model. Note that you should only download the latest driver installer that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to update.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2: Update your graphics driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -136,9 +149,20 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -147,9 +171,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Turn off RTX (Ray Tracing)
 
  If your Armored Core 6: Fires of Rubicon usually crashes in the middle of the game, it’s probably helpful if you can**turn off Ray Tracing** , which helps to produce realistic lighting effects, adding an extra level of realism to the game. But ray tracing also takes much processing power, which could cause problems like game crashing or freezing. To see if turning of ray tracing helps:
@@ -158,19 +179,28 @@ To do so, first visit the website of your GPU manufacturer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-59.png)
 2. Select**Graphics Settings** , then**Quality Settings (Detailed)** .  
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-60.png)
 3. Select Ray Tracing Quality at the bottom, and set it to  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-61.png)
 4. Select**OFF** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-62.png)
 5. Then play the game and see if the crashing stops.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
 If Armored Core 6: Fires of Rubicon still crashes, please move on.
 
@@ -196,8 +226,6 @@ If Armored Core 6: Fires of Rubicon still crashes, please move on.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +233,18 @@ If Armored Core 6: Fires of Rubicon still crashes, please move on.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/error-overcome-implementing-easy-anti-cheat-to-solve-eac-problems/"><u>'Error Overcome: Implementing Easy Anti-Cheat to Solve EAC Problems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-convert-your-srt-files-for-free-with-top-websites/"><u>[New] Convert Your SRT Files for FREE with Top Websites</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-discover-7-unforgettable-marriage-videos-on-vimeo-for-2024/"><u>[Updated] Discover 7 Unforgettable Marriage Videos on Vimeo for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-engaging-youtube-beginnings-two-methods/"><u>[Updated] In 2024, Crafting Engaging YouTube Beginnings Two Methods</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-complex-projects-on-magix-video-pro-x/"><u>[Updated] Navigating Complex Projects on Magix Video Pro X</u></a></li>
+<li><a href="https://program-issues.techidaily.com/five-star-solution-fixing-frequent-freezes-and-crashes-on-total-war-three-kingdoms-gameplay/"><u>Five-Star Solution: Fixing Frequent Freezes & Crashes on Total War: Three Kingdoms Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fresh-strategies-to-combat-constant-pauses-and-hiccups-in-minecraft-for-pc-expert-advice/"><u>Fresh Strategies to Combat Constant Pauses and Hiccups in Minecraft for PC - Expert Advice</u></a></li>
+<li><a href="https://program-issues.techidaily.com/modern-warfare-2024-pc-launch-problem-solved-start-gaming-today/"><u>Modern Warfare 2024 PC Launch Problem Solved: Start Gaming Today!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/reliable-and-sturdy-asus-chromebook-c2eusse-ideal-for-education-in-depth-analysis/"><u>Reliable & Sturdy Asus Chromebook C2eusse, Ideal for Education: In-Depth Analysis</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revive-your-rainbow-six-siege-experience-fixing-launch-failures-easily/"><u>Revive Your Rainbow Six Siege Experience: Fixing Launch Failures Easily</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-nokia-g42-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Nokia G42 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+</ul></div>
 

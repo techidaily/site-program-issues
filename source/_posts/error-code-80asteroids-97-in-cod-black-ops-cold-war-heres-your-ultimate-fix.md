@@ -1,7 +1,7 @@
 ---
 title: "Error Code 80Asteroids 97 in COD: Black Ops Cold War? Here's Your Ultimate Fix"
-date: 2024-10-11T03:26:33.029Z
-updated: 2024-10-14T19:41:16.618Z
+date: 2024-10-18T16:39:42.782Z
+updated: 2024-10-20T18:20:42.562Z
 tags:
   - win11
   - win10
@@ -24,6 +24,13 @@ If you’re presented with an error message ‘_**DirectX Encountered an Unrecov
 3. **[Repair your game files](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Play the game in DirectX 11 mode](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1\. Close unnecessary background apps
 
  The most possible cause of your Warzone DirectX error is interference from your third-party applications. If you’re using the following software, you can try closing them to check if the error disappears.
@@ -32,6 +39,13 @@ If you’re presented with an error message ‘_**DirectX Encountered an Unrecov
 * **Apps that support overlay features** (you can disable Discord Overlay or GeForce Experience Overlay etc.)
 
  Make sure you have closed all the applications that are related to graphics card monitoring, and turn off all overlay features. Try launching your COD: Warzone again to test the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2\. Update your device drivers
 
@@ -60,18 +74,18 @@ There are mainly two ways of updating your device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3\. If you just want to update your webcam driver for free, simply click the **Update** button next to it (it’s partly manual).  
   
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4\. Once complete, restart your computer for the changes to take effect.
 
@@ -90,23 +104,9 @@ There are mainly two ways of updating your device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/warzone.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4\. Click**Begin Scan** , and wait for the process to complete.
 
  Does the simple workaround work for you? If not, you can try the following fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4\. Play the game in DirectX 11 mode
 
@@ -118,16 +118,16 @@ There are mainly two ways of updating your device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/mw-d3d11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3\. Check **Additional Command Line Arguments** and type **\-d3d11** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/image-11.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4\. Click **Done** .
 
@@ -155,20 +155,22 @@ There are mainly two ways of updating your device drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-haven.techidaily.com/can-ai-like-chatgpt-contribute-to-the-creation-of-viruses-and-malware/"><u>Can AI Like ChatGPT Contribute to the Creation of Viruses and Malware?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/doom-eternal-crash-woes-heres-how-you-can-rectify-them/"><u>DOOM Eternal Crash Woes? Here's How You Can Rectify Them</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-for-pc-instability-in-crusader-kings-iii/"><u>Fixes for PC Instability in Crusader Kings III</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-issues-solve-the-problem-of-slime-rancher-2-crashes-on-your-pc/"><u>Fixing Issues: Solve the Problem of 'Slime Rancher 2' Crashes on Your PC</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/how-to-rectify-unrecognized-video-cards/"><u>How to Rectify Unrecognized Video Cards</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-to-superior-cloud-solutions-for-your-needs/"><u>In 2024, Navigating to Superior Cloud Solutions for Your Needs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leading-chatgpt-queries-and-snippets-compiled-from-githubs-treasure-trove/"><u>Leading ChatGPT Queries & Snippets Compiled From GitHub's Treasure Trove</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pinnacle-chroma-modifier-for-2024/"><u>Pinnacle Chroma Modifier for 2024</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/1728510129213-ssdhdd/"><u>SSD克隆HDD方法：成功的硬盘数据迁移和重新分区指导</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-6-must-have-journaling-mobile-applications/"><u>Top 6 Must-Have Journaling Mobile Applications</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fix-for-risk-of-rain-2-stability-issues-and-crashes/"><u>Ultimate Fix for Risk of Rain 2 Stability Issues and Crashes</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/ultimate-guide-from-apple-iphone-13-mini-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide from Apple iPhone 13 mini iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-the-thaumaturge-game-crashes-on-your-computer/"><u>Ultimate Guide: Resolving the Thaumaturge Game Crashes on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlocking-endless-riches-with-how-to-fix-like-a-dragon-steps-for-successful-pc-installation/"><u>Unlocking Endless Riches with How to Fix Like a Dragon: Steps for Successful Pc Installation</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unraveling-the-mystery-behind-nier-replicant-game-freeze-error-corrected/"><u>Unraveling the Mystery Behind NieR: Replicant Game Freeze Error Corrected!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unveiling-the-process-making-high-impact-educational-videos-on-youtube/"><u>[New] Unveiling the Process Making High-Impact Educational Videos on YouTube</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-fallout-3-crashing-on-windows-10/"><u>[SOLVED] Fallout 3 Crashing on Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-state-of-decay-2-keeps-crashing-2024-tips/"><u>[SOLVED] State of Decay 2 Keeps Crashing – 2024 Tips</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-create-viral-tiktok-content-step-by-step-templates-guide/"><u>[Updated] 2024 Approved Create Viral TikTok Content Step-by-Step Templates Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-zte-nubia-z60-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/are-there-any-connectivity-issues-with-xbox-live-today/"><u>Are There Any Connectivity Issues with Xbox Live Today?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-how-to-stop-praey-for-the-overlord-from-crashing-on-your-computer/"><u>Fixes & Solutions: How to Stop Praey for the Overlord From Crashing on Your Computer</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/how-to-troubleshoot-video-issues-when-watching-android-movies-on-your-pc/"><u>How to Troubleshoot Video Issues When Watching Android Movies on Your PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-samsung-galaxy-s24-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Samsung Galaxy S24 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-minecraft-expert-advice-for-eliminating-lag-and-enhancing-pc-gaming-experience/"><u>Mastering Minecraft: Expert Advice for Eliminating Lag and Enhancing PC Gaming Experience</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-the-complexities-of-macos-srt-changes-for-2024/"><u>Navigating the Complexities of macOS SRT Changes for 2024</u></a></li>
+<li><a href="https://fox-making.techidaily.com/seamless-transition-guide-turning-your-avi-videos-into-m4v-format/"><u>Seamless Transition Guide: Turning Your AVI Videos Into M4V Format</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-guide-resolve-continuous-freezing-and-crashing-issues-in-escape-from-tarkov-on-computer-systems/"><u>Solution Guide: Resolve Continuous Freezing and Crashing Issues in Escape From Tarkov on Computer Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-valheim-lag-issues-optimize-gameplay-on-your-windows-pc/"><u>Solving Valheim Lag Issues: Optimize Gameplay on Your Windows PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steps-to-solve-pc-hiccups-with-slimerancher-navigating-through-crashes-and-freezes/"><u>Steps to Solve PC Hiccups with Slimerancher Navigating Through Crashes and Freezes</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-ankers-super-bright-led-camping-lantern-a-top-notch-tactical-illuminator/"><u>Ultimate Guide to Anker's Super Bright LED Camping Lantern: A Top-Notch Tactical Illuminator</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-avi-video-cutter-reviews-top-16-options-for-precise-trimming-for-2024/"><u>Updated AVI Video Cutter Reviews Top 16 Options for Precise Trimming for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solve ‘Configuration Server Connection Failure’ Effortlessly Today
-date: 2024-10-13T00:52:52.776Z
-updated: 2024-10-14T18:09:18.829Z
+date: 2024-10-14T17:28:45.732Z
+updated: 2024-10-20T17:24:21.350Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
 * [4. Turn on Windows Firewall](https://tools.techidaily.com/drivereasy/download/)
 * [5. Enable Xbox Live Networking Service & Xbox Live Auth Manager](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Sign in again
 
  This error might be temporary and the fix can be as easy as signing in again. Just sign out of your current account on the main menu, and sign in again. This should fix the ‘Unable to connect to the live configuration servers’.
@@ -49,7 +42,21 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
 
 ![sign out steam](https://images.drivereasy.com/wp-content/uploads/2021/05/sign-out.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  But if this method doesn’t do the trick, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Check the status of Teredo (Windows 10)
 
@@ -65,27 +72,7 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/fix-it.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Once complete, you will need to click the**Check again** button. If there’s no issue detected, you can launch your game to check if the ‘Unable to connect to the live configuration servers’ issue disappears.
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Reinstall the Teredo Adapter
 
@@ -106,22 +93,15 @@ netsh interface Teredo set state disable
 ![uninstall graphics driver](https://images.drivereasy.com/wp-content/uploads/2021/03/device-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click **View** \> **Show hidden devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/show-hidden-devices.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Double-click on **Network adapters** .
 
@@ -132,6 +112,13 @@ netsh interface Teredo set state disable
 netsh interface Teredo set state type=default
 
  8) Now launch your game and check if the error message ‘Unable to connect to the live configuration servers’ is gone for now.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Turn on Windows Firewall
 
@@ -156,6 +143,13 @@ netsh advfirewall set allprofiles state on
  1) On your keyboard, press the Windows key + R key at the same time, and enter**services.msc** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/services-run-box.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Scroll down the bottom, and make sure**Xbox Live Auth Manager** and**Xbox Live Networking Service** are running. If not, right-click the service and click**Start** .
 
@@ -186,20 +180,24 @@ netsh advfirewall set allprofiles state on
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-effortless-tips-for-storing-vimeo-videos/"><u>2024 Approved Effortless Tips for Storing Vimeo Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-smooth-cinematography-premium-stabilizer-recommendations/"><u>2024 Approved Smooth Cinematography Premium Stabilizer Recommendations</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/amazon-kindle-vs-amazon-fire-tablets-understanding-the-key-distinctions/"><u>Amazon Kindle Vs. Amazon Fire Tablets - Understanding the Key Distinctions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-techniques-for-correcting-fatal-errors-in-infinity-siege-when-played-on-desktop-computers/"><u>Effective Techniques for Correcting Fatal Errors in Infinity Siege When Played on Desktop Computers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/effortless-music-conversion-a-beginners-guide-to-cd-ripping-with-audacity/"><u>Effortless Music Conversion: A Beginner's Guide to CD Ripping with Audacity</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-the-issue-when-deathloop-wont-open/"><u>How to Overcome the Issue When Deathloop Won't Open</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-discovering-the-best-of-360-cams-pros-choice-roundup-2023/"><u>In 2024, Discovering the Best of 360° Cams Pros Choice Roundup, 2023</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/moto-g-power-analysis-exceptional-endurance-meets-stylish-design/"><u>Moto G Power Analysis: Exceptional Endurance Meets Stylish Design</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fixes-get-your-elden-rings-multiplayer-up-and-running-again/"><u>Quick Fixes: Get Your Elden Ring's Multiplayer Up and Running Again!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-your-csgo-login-woes-five-key-strategies-to-tackle-the-no-user-logon-problem/"><u>Solve Your CSGO Login Woes: Five Key Strategies to Tackle the No User Logon Problem</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-your-writing-workflow-with-chatgpt-insights-for-creatives/"><u>Transform Your Writing Workflow with ChatGPT: Insights for Creatives</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-complete-guide-overcoming-crash-glitches-in-tales-of-arise/"><u>Troubleshooting Complete Guide - Overcoming Crash Glitches in Tales of Arise</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-resolving-palworld-session-search-issues/"><u>Troubleshooting Steps: Resolving PalWorld Session Search Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/valheim-pc-stability-guide-resolving-persistent-crashing-issues/"><u>Valheim PC Stability Guide: Resolving Persistent Crashing Issues</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-chrome-being-slow-quickly-and-easily/"><u>[SOLVED] Chrome Being Slow | Quickly & Easily!</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-complete-guide-to-edit-a-video-with-gopro-studio/"><u>[Updated] Complete Guide to Edit a Video with GoPro Studio</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-how-to-captivate-viewers-with-stunning-story-bokeh/"><u>[Updated] In 2024, How to Captivate Viewers with Stunning Story Bokeh</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-motorola-edgeplus-2023-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Motorola Edge+ (2023)</u></a></li>
+<li><a href="https://win-trending.techidaily.com/download-and-save-local-copies-of-your-flipbooks-with-easy-steps-on-flipbuilder/"><u>Download and Save Local Copies of Your Flipbooks with Easy Steps on FlipBuilder</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-strategies-for-managing-workflow-with-slack-notifications/"><u>Effective Strategies for Managing Workflow with Slack Notifications</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/eliminating-blemishes-in-image-downloads/"><u>Eliminating Blemishes in Image Downloads</u></a></li>
+<li><a href="https://extra-information.techidaily.com/globe-spin-cameras-versus-three-dimensional-photography/"><u>Globe-Spin Cameras versus Three-Dimensional Photography</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-constant-crashing-in-age-of-empires-4-for-windows-users/"><u>How to Prevent Constant Crashing in Age of Empires 4 for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-persistent-crashing-in-the-full-edition-of-nioh-2/"><u>How to Resolve Persistent Crashing in the Full Edition of Nioh 2</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-pioneers-designing-the-online-avengers-landscape/"><u>In 2024, Pioneers Designing the Online Avengers Landscape</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/leading-edge-screen-snapshot-software-for-2024/"><u>Leading Edge Screen Snapshot Software for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-fix-for-granblue-fantasys-launch-errors-the-relink-solution/"><u>Mastering the Fix for Granblue Fantasy's Launch Errors: The ReLink Solution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-game-crashes-in-death-stranding-optimized-settings-for-a-perfect-gaming-session/"><u>Overcome Game Crashes in Death Stranding: Optimized Settings for a Perfect Gaming Session</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-lag-issues-in-world-of-warcraft-with-these-proven-2024-tweaks/"><u>Resolve Lag Issues in World of Warcraft with These Proven 2024 Tweaks!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-review-of-zmi-powerpack-20000-your-go-to-portable-energy-solution/"><u>The Ultimate Review of ZMI PowerPack 20000 - Your Go-To Portable Energy Solution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-10-tips-for-eliminating-lag-in-call-of-duty-black-ops-cold-war/"><u>Top 10 Tips for Eliminating Lag in Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722989606702-troubleshooting-persistent-sony-vegas-crashes-get-your-project-up-and-running/"><u>Troubleshooting Persistent Sony Vegas Crashes - Get Your Project Up and Running</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-overcoming-the-application-couldnt-start-correctly-hurdle-in-adobe-software/"><u>Troubleshooting Tips: Overcoming the 'Application Couldn't Start Correctly' Hurdle in Adobe Software</u></a></li>
 </ul></div>
 

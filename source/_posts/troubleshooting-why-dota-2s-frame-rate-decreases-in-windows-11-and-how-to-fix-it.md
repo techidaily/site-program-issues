@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Why Dota 2'S Frame Rate Decreases in Windows 11 and How to Fix It"
-date: 2024-08-28T06:41:02.827Z
-updated: 2024-08-29T06:41:02.827Z
+date: 2024-10-15T17:44:30.577Z
+updated: 2024-10-20T16:26:34.490Z
 tags:
   - win11
   - win10
@@ -38,8 +38,12 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
  If this works for you, you won’t see the black screen. But if the issue persists, don’t worry. There are still other fixes for you to try.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Switch to the windowed mode, then switch back to the full screen mode
 
  A black screen is usually caused by some temporary graphics settings issue. And this can usually be fixed by switching between the windowed and full screen mode. To do so:
@@ -50,8 +54,12 @@ See a black screen when playing CoD: WWII? Although this is an annoying issue, y
  This should fix your black screen issue. But if not, then you should try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your device drivers
 
  Perhaps you’re having the black screen issue on your game because you’re using a wrong device driver or it’s out of date. If that’s the case for you, you should update your device drivers on your computer.
@@ -82,29 +90,26 @@ OR
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-424.png)
 3. Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-425.png)  
  You can do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ### Fix 4: Reinstall your game
 
  If the fixes above don’t work for you, you should try reinstalling CoD: WWII. To do so:
@@ -113,9 +118,6 @@ OR
 2. Type**appwiz.cpl** , then press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 3. Delete Call of Duty: World War II (right click this game in the list and select**Uninstall** ).
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Download the game from where you purchased it.
 5. Try playing CoD: WWII and see if this fixes your black screen issue.
 
@@ -130,8 +132,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +139,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-combating-an-unresponsive-obs-camera-input-stream-for-2024/"><u>[New] Combating an Unresponsive OBS Camera Input Stream for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-converting-graphics-to-iconic-messages-a-complete-tutorial-for-chat-apps/"><u>[New] In 2024, Converting Graphics to Iconic Messages A Complete Tutorial for Chat Apps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-duality-in-display-rotating-videos-on-instagram-one-click-at-a-time/"><u>[New] In 2024, Duality in Display Rotating Videos on Instagram, One Click at a Time</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-the-essential-list-of-gratuitous-quality-memes/"><u>[Updated] 2024 Approved The Essential List of Gratuitous, Quality Memes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-masterful-seo-approaches-for-soaring-in-youtube-video-popularity-for-2024/"><u>[Updated] Masterful SEO Approaches for Soaring in YouTube Video Popularity for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-xiaomi-13t-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Xiaomi 13T to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dealing-with-sea-of-thieves-errors-a-guide-to-getting-your-game-running-smoothly/"><u>Dealing with Sea of Thieves Errors: A Guide to Getting Your Game Running Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/destiny-2-pc-version-now-fully-functional-enjoy-gaming-seamlessly/"><u>Destiny 2 PC Version Now Fully Functional: Enjoy Gaming Seamlessly</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/enhancing-call-of-duty-warzone-performance-guide-to-enable-gpu-utilization-in-windows-10/"><u>Enhancing Call of Duty: Warzone Performance: Guide to Enable GPU Utilization in Windows 10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-insights-on-computer-components-with-toms-gear-guides/"><u>Expert Insights on Computer Components with Tom’s Gear Guides</u></a></li>
+<li><a href="https://program-issues.techidaily.com/exploring-common-causes-and-solutions-to-grand-theft-auto-v-game-crashing-issues/"><u>Exploring Common Causes and Solutions to Grand Theft Auto V Game Crashing Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-voice-chat-disruptions-a-step-by-nstep-solution-for-among-us-players-on-pc/"><u>Overcoming Voice Chat Disruptions: A Step-by-nStep Solution for Among Us Players on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-now-available-for-far-cry-6-initial-pc-startup-issues/"><u>Resolved: Fixes Now Available for Far Cry 6 Initial PC Startup Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-directx-issues-in-battlefield-2042-a-step-by-step-guide/"><u>Solving DirectX Issues in Battlefield 2042: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-strategy-a-comprehensive-2024-guide-to-roller-champions-multiplayer-tactics/"><u>Step-by-Step Strategy: A Comprehensive 2024 Guide to Roller Champions Multiplayer Tactics</u></a></li>
+</ul></div>
 

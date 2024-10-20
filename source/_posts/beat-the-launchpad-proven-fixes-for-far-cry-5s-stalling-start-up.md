@@ -1,7 +1,7 @@
 ---
 title: "Beat the Launchpad: Proven Fixes for Far Cry 5'S Stalling Start-Up"
-date: 2024-10-02T19:05:29.609Z
-updated: 2024-10-08T17:19:15.091Z
+date: 2024-10-13T16:47:48.642Z
+updated: 2024-10-20T16:40:02.584Z
 tags:
   - win11
   - win10
@@ -24,13 +24,6 @@ There’re things you can do before trying complicated fixes:
 * Make sure you’ve closed unnecessary background programs
 * Make sure Enlisted are not blocked from your firewall
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -38,13 +31,6 @@ There’re things you can do before trying complicated fixes:
 1. [Run as administrator](https://tools.techidaily.com/drivereasy/download/)
 2. [Install Windows updates](https://tools.techidaily.com/drivereasy/download/)
 3. [Update graphic driver](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Run as administrator
 
@@ -55,14 +41,21 @@ There’re things you can do before trying complicated fixes:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. In the Compatibility tab, click **Run as administrator** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 4. Relaunch the game.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If it’s not working, move to the next fix.
@@ -77,6 +70,13 @@ If it’s not working, move to the next fix.
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Enlisted and check.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this didn’t solve your problems, read on for further troubleshooting.
 
@@ -100,16 +100,10 @@ If it’s not working, move to the next fix.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
 <!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
@@ -138,16 +132,19 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-mastering-cinematography-youtube-guides-by-aspiring-directors/"><u>[New] 2024 Approved Mastering Cinematography YouTube Guides by Aspiring Directors</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-crafting-captivating-unboxing-content-top-tips/"><u>[New] Crafting Captivating Unboxing Content Top Tips</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-exploring-present-vr-innovations/"><u>[Updated] Exploring Present VR Innovations</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortlessly-fix-chrome-stalling-issues-on-your-windows-10-system/"><u>Effortlessly Fix Chrome Stalling Issues on Your Windows 10 System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-mandatory-firmware-update-leads-to-black-screen-issues-on-hp-probook-devices/"><u>How Mandatory Firmware Update Leads to Black Screen Issues on HP ProBook Devices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-update-errors-for-a-smooth-minecraft-native-launcher-experience/"><u>Overcoming Update Errors for a Smooth Minecraft Native Launcher Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-solutions-overcoming-the-bf-heroes-and-villains-warzone-disc-error-5031-on-your-computer/"><u>Quick Solutions: Overcoming the BF Heroes and Villains ™ Warzone Disc Error (5.0/3.1) on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/repairing-the-grayscale-crisis-in-fallout-4-gaming-experience/"><u>Repairing the Grayscale Crisis in Fallout 4 Gaming Experience</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-strategies-how-to-repair-the-avcodecdll-is-absent-problem/"><u>Step-by-Step Strategies: How to Repair the 'Avcodec.dll' Is Absent Problem</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ing-tactics-for-time-strapped-youtubers/"><u>Trimming Tactics for Time-Strapped YouTubers</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-samsung-galaxy-a14-4g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Samsung Galaxy A14 4G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/drafting-a-compelling-closing-statement-for-tiktok-for-2024/"><u>Drafting a Compelling Closing Statement for TikTok for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/effective-ways-to-leverage-zoom-on-chrome-os-devices/"><u>Effective Ways to Leverage Zoom on Chrome OS Devices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/elder-scrolls-online-wont-start-heres-the-fix/"><u>Elder Scrolls Online Won't Start? Here's the Fix</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-darkness-restore-light-fixing-the-pc-screen-blackout-in-rainbow-six-siege-gameplay/"><u>Eliminate Darkness, Restore Light: Fixing the PC Screen Blackout in Rainbow Six Siege Gameplay</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/lenovo-t430-driver-downloads-for-windows-1187-made-simple-and-straightforward/"><u>Lenovo T430 Driver Downloads for Windows 11/8/7 Made Simple and Straightforward</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-art-of-fixing-obs-studio-stability-issues-in-windows-111e-whats-new/"><u>Master the Art of Fixing OBS Studio Stability Issues in Windows 11/1E - What's New ?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-pexels-tips-for-discovering-striking-images-for-2024/"><u>Navigating Pexels Tips for Discovering Striking Images for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/new-world-update-fixed-issues-while-battling-persistent-freezing-problems/"><u>New World Update: Fixed Issues While Battling Persistent Freezing Problems</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-optimization-success-fixes-implemented-for-zombie-army-4-dead-war-launch-glitches/"><u>PC Optimization Success! Fixes Implemented for 'Zombie Army 4: Dead War' Launch Glitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-your-amd-radeon-driver-problems-software-wont-launch/"><u>Resolve Your AMD Radeon Driver Problems - Software Won't Launch</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/sync-fix-twitter-vids-and-chrome-for-2024/"><u>Sync Fix Twitter Vids and Chrome for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/transferring-iphone-files-to-pc-without-cables-5-easy-techniques/"><u>Transferring iPhone Files to PC Without Cables: 5 Easy Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-success-how-to-enjoy-a-seamless-hades-gaming-experience-on-pc/"><u>Troubleshooting Success: How to Enjoy a Seamless Hades Gaming Experience on PC</u></a></li>
 </ul></div>
 

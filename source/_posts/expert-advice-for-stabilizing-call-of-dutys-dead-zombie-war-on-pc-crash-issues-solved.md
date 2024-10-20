@@ -1,7 +1,7 @@
 ---
 title: Expert Advice for Stabilizing Call of Duty's Dead Zombie War on PC – Crash Issues Solved
-date: 2024-10-02T22:05:29.800Z
-updated: 2024-10-08T18:27:15.099Z
+date: 2024-10-14T19:06:31.539Z
+updated: 2024-10-20T18:23:27.545Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
 
  Launch the game and see if this issue persists after you stopped overclocking. if the game still crashes, try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics drivers
 
  A corrupted or outdated driver can also be the main culprit behind the game’s crashing issues. If you haven’t updated your graphics driver for a long time, you should update the graphics driver to see if it solves the crashing issue. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -72,29 +79,22 @@ If the issue persists, try the next fix below.
 2. Click **LOCAL FILES** \> **Verify integrity of game files…** . Wait a few minutes for Steam to validate the files of the game.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart Metro Exodus PC Enhanced Edition to check if this fix stops the crashes. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Install the latest game patch
 
@@ -105,16 +105,10 @@ If the issue persists, try the next fix below.
  Run Metro Exodus PC Enhanced Edition again to see if the game crashes. If it didn’t work, or there was no new game patch available, move on to the next fix, below.
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Disable in-game overlays
@@ -135,13 +129,6 @@ If the issue persists, try the next fix below.
 
  See if Metro Exodus PC Enhanced Edition crashes after you disabled all the in-game overlays. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 6: Perform a clean boot
 
  Metro Exodus PC Enhanced Edition may crash if it conflicts with another application on your PC. If don’t know which application conflicts with the game, it’s necessary to perform a clean boot.
@@ -159,14 +146,21 @@ To perform a clean boot, just follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
@@ -203,21 +197,20 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-seamless-playlist-transfer-migrating-from-spotify-to-youtube-music-service/"><u>[New] 2024 Approved Seamless Playlist Transfer Migrating From Spotify to YouTube Music Service</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-facebooks-unique-media-the-top-ios-downloader-tools-revealed-today/"><u>[Updated] 2024 Approved Facebook's Unique Media The Top iOS Downloader Tools Revealed Today</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-transformational-tools-in-youtube-studio-for-creators/"><u>[Updated] 2024 Approved Transformational Tools in YouTube Studio for Creators</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-sonic-update-for-whatsapp-statues/"><u>2024 Approved Sonic Update for WhatsApp Statues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elden-ring-optimization-guide-6-rapid-remedies-to-resolve-fps-fluctuations-and-hitches/"><u>Elden Ring Optimization Guide: 6 Rapid Remedies to Resolve FPS Fluctuations & Hitches!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-a-malfunctioning-huion-pen-top-5-effective-strategies/"><u>Fixing a Malfunctioning Huion Pen - Top 5 Effective Strategies</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hassle-free-driver-integration-for-smooth-windows-updating-experience/"><u>Hassle-Free Driver Integration for Smooth Windows Updating Experience</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-vivo-t2x-5g-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Vivo T2x 5G.</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-gameplay-capture-simplified-the-ultimate-win10-guide/"><u>In 2024, Gameplay Capture Simplified The Ultimate Win10 Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-connection-fixes-in-terraria-top-n-proven-strategies/"><u>Mastering Connection Fixes in Terraria - Top N Proven Strategies</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-ultimate-guide-on-solving-gta-v-performance-issues/"><u>Resolved: Ultimate Guide on Solving GTA V Performance Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steam-wont-see-my-controller-heres-the-quick-fix-for-windows-users/"><u>Steam Won't See My Controller? Here's the Quick Fix for Windows Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-and-overcome-league-of-legends-crashes-with-ease/"><u>Troubleshoot and Overcome League of Legends Crashes with Ease</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-how-to-stop-madden-nfl-21-from-exiting-unexpectedly-on-pc/"><u>Troubleshooting Tips: How to Stop Madden NFL 21 From Exiting Unexpectedly on PC</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-dbpower-600a-peak-charger-with-18000mah-capacity-unbiased-review/"><u>Ultimate Guide: DBPower 600A Peak Charger with 18,000mAh Capacity - Unbiased Review</u></a></li>
-<li><a href="https://program-issues.techidaily.com/warcraft-iii-reforged-crashes-fixed-comprehensive-guide-to-fixing-issues-on-pc/"><u>Warcraft III: Reforged Crashes Fixed – Comprehensive Guide to Fixing Issues on PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-finalizing-your-linkedin-journey-steps-for-termination/"><u>[New] Finalizing Your LinkedIn Journey Steps for Termination</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-premiere-guide-uploading-vids-for-youtube/"><u>[Updated] Premiere Guide Uploading Vids for YouTube</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/cubefit-terramat-analysis-transform-your-standing-time-into-fitness-gains/"><u>CubeFit TerraMat Analysis: Transform Your Standing Time Into Fitness Gains</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-your-racing-experience-fixing-forza-horizon-5-issues-by-updating-gpu-drivers/"><u>Enhance Your Racing Experience: Fixing Forza Horizon 5 Issues by Updating GPU Drivers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-the-correct-drivers-for-your-brother-mfc-nwdw-printer-running-windows/"><u>Find and Install the Correct Drivers for Your Brother MFC-Nwdw Printer Running Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-found-how-to-resolve-days-gone-pc-launch-issues/"><u>Fixes Found: How To Resolve 'Days Gone' PC Launch Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-freezing-issues-and-enhance-fps-performance-in-call-of-duty-modern-warfare-3/"><u>How to Fix Freezing Issues & Enhance FPS Performance in Call of Duty: Modern Warfare 3</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-nubia-red-magic-8s-pro-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Nubia Red Magic 8S Pro Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-art-of-seamless-gameplay-eliminating-performance-hiccups-in-todays-fast-paced-games/"><u>Mastering the Art of Seamless Gameplay: Eliminating Performance Hiccups in Today’s Fast-Paced Games</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-game-glitches-stability-tips-for-tormented-souls-on-windowsmac/"><u>Overcome Game Glitches: Stability Tips for 'Tormented Souls' On Windows/Mac</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/social-sync-combining-ig-and-youtube-videos-for-2024/"><u>Social Sync Combining IG and YouTube Videos for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-controller-malfunctions-fast-troubleshoot-and-resolve-issually/"><u>Stop Controller Malfunctions Fast - Troubleshoot and Resolve Issually</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-birth-of-intelligent-machines-ais-genesis-story/"><u>The Birth of Intelligent Machines: AI's Genesis Story</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-5-best-4k-monitors-for-color-grading/"><u>Top 5 Best 4K Monitors for Color Grading</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-s18-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo S18 | Dr.fone</u></a></li>
 </ul></div>
 

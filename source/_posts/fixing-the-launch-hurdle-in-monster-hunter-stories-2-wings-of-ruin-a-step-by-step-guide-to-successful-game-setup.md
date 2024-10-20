@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Launch Hurdle in Monster Hunter Stories 2: Wings of Ruin - A Step-by-Step Guide to Successful Game Setup"
-date: 2024-10-04T21:23:23.108Z
-updated: 2024-10-08T19:16:10.900Z
+date: 2024-10-19T17:53:50.592Z
+updated: 2024-10-20T19:09:11.169Z
 tags:
   - win11
   - win10
@@ -102,16 +102,10 @@ In case you don’t know how, here’s the guidance:
 ---
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1:**Update your device drivers**
@@ -138,13 +132,6 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  If you still have random crashes with FIFA 20, you should give the next fix a try.
@@ -167,13 +154,6 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-938.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the **Roll Back Driver** option is grayed out, that means there’s no driver to roll back to. In this case you’ll have to try other fixes.
 
  4) Choose one of the reasons based on your own situation and click **Yes** .
@@ -185,13 +165,6 @@ In case you don’t know how, here’s the guidance:
  Now run FIFA 20 and check whether your crashing problem still exists. If it does, then please proceed to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update Windows operating system
 
@@ -227,15 +200,22 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-847.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) After “DIRECTX\_SELECT = 1” is located, change it to**DIRECTX\_SELECT = 0** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-866.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If your**fifasetup.ini** file is already set to**0** when you first open it, then try changing it to**1** instead.
@@ -245,10 +225,10 @@ In case you don’t know how, here’s the guidance:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Adjust settings in NVIDIA Control Panel
@@ -259,18 +239,18 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-903.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the NVIDIA Control Panel window, click**Manage 3D settings** in the left pane. On the right panel, go to the**Program Settings** tab and click**Add** to select FIFA 20 (navigate to your game file and double-click it). Then, you can customize settings for FIFA 20 based on your liking. For example, you can set**Vertical sync** to**On** .
 
  On completion, click**Apply** to save the changes you’ve made.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-913.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3) Exit NVIDIA Control Panel, restart your computer, then launch FIFA 20.
 
@@ -292,6 +272,13 @@ If you continue to face the crashing problem, please move on to Fix 6.
  1) On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run dialog box. Type **cmd** and press **Ctrl+Shift+Enter**  to run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) When Windows asks for permission to make changes to your device, click **Yes** .
 
@@ -317,6 +304,13 @@ sfc /scannow
 
 ![This image has an empty alt attribute; its file name is image-182.png](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If prompted for consent, click **Yes** .
 
  2) In Command Prompt, type the following command (**note** that there’s a space to the left of each slash “/”):
@@ -328,10 +322,10 @@ dism.exe /online /cleanup-image /restorehealth
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-165.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait for the process to complete. Then, reboot your computer, launch FIFA 20, and wait to see if it keeps crashing. If it does, try out Fix 7.
@@ -374,20 +368,24 @@ dism.exe /online /cleanup-image /restorehealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-the-top-8-sites-for-sharing-and-downloading-free-3d-text-psds/"><u>[New] The Top 8 Sites for Sharing and Downloading Free 3D Text PSDs</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-discover-the-ultimate-5-gaming-webcam-winners-for-streaming/"><u>[Updated] 2024 Approved Discover the Ultimate 5 Gaming Webcam Winners for Streaming</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-convert-youtube-videos-to-mp3-songs-on-mac/"><u>[Updated] 2024 Approved How to Convert YouTube Videos to MP3 Songs on Mac</u></a></li>
-<li><a href="https://program-issues.techidaily.com/a-players-handbook-to-fixing-rainbow-six-connections-gone-wrong/"><u>A Player's Handbook to Fixing Rainbow Six Connections Gone Wrong</u></a></li>
-<li><a href="https://program-issues.techidaily.com/complete-guide-to-prevent-and-resolve-pc-instability-for-horizon-forbidden-west/"><u>Complete Guide to Prevent and Resolve PC Instability for 'Horizon Forbidden West'</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-access-group-policy-editor-gpeditmsc-on-windows-home-systems/"><u>How to Access Group Policy Editor (gpedit.msc) on Windows Home Systems</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-nokia-c300-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-fortnite-launch-errors-swiftly-and-effectively/"><u>How to Resolve Fortnite Launch Errors Swiftly and Effectively</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-v27-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo V27 to New Android? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 14 without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-a-beginners-guide-to-gameye-win10/"><u>In 2024, A Beginner's Guide to GamEye Win10</u></a></li>
-<li><a href="https://article-helps.techidaily.com/mastering-visual-enhancements-in-tiktok-for-2024/"><u>Mastering Visual Enhancements in TikTok for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-technical-glitches-comprehensive-guide-to-fixing-dev-error-5573-in-warzone-pc-and-console/"><u>Overcome Technical Glitches: Comprehensive Guide to Fixing Dev Error 5573 in Warzone (PC & Console)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-for-smoothing-out-freezes-in-grand-theft-auto-v/"><u>Step-by-Step Solution for Smoothing Out Freezes in Grand Theft Auto V</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-non-stop-buffering-on-your-discord-live-video-chat/"><u>Troubleshooting Non-Stop Buffering on Your Discord Live Video Chat</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-expert-evaluation-best-action-capture-systems/"><u>[Updated] In 2024, Expert Evaluation Best Action Capture Systems</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-navigating-the-world-of-cost-free-graphic-designs/"><u>[Updated] In 2024, Navigating the World of Cost-Free Graphic Designs</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-countdown-chronicles-the-best-mobile-clocks-for-weddings/"><u>2024 Approved Countdown Chronicles The Best Mobile Clocks For Weddings</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-personalizing-call-screens-the-prepost-meeting-edge/"><u>2024 Approved Personalizing Call Screens The Pre/Post-Meeting Edge</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bug-free-victory-overcoming-total-war-three-kingdoms-stability-issues/"><u>Bug-Free Victory: Overcoming Total War: Three Kingdoms Stability Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ensure-smooth-sailing-with-hogwarts-legacy-2024-solutions-for-startup-failures/"><u>Ensure Smooth Sailing with Hogwarts Legacy: 2024 Solutions for Startup Failures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-solutions-for-the-evil-genius-2-unable-to-start-problem/"><u>Expert Solutions for the 'Evil Genius 2' Unable to Start Problem</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-motorola-razr-40-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Motorola Razr 40</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-halo-infinites-persistent-black-screen-glitch-easily/"><u>How to Resolve Halo Infinite's Persistent Black Screen Glitch Easily</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-apple-iphone-12-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On Apple iPhone 12 Pro Max without Password?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/netflix-now-working-seamlessly-on-your-xbox-one-heres-how-we-fixed-it/"><u>Netflix Now Working Seamlessly on Your Xbox One – Here's How We Fixed It</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/prime-unlimited-space-service-catalogue-for-2024/"><u>Prime Unlimited Space Service Catalogue for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-issues-why-fall-guys-wont-load-or-keeps-crashing/"><u>Resolving Issues: Why Fall Guys Won't Load or Keeps Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-fixing-thaumaturge-stability-issues-on-desktop-systems/"><u>Step-by-Step Solutions for Fixing Thaumaturge Stability Issues on Desktop Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-game-crashes-now-expert-fixes-for-gameloop-problems-on-windows-11-and-10/"><u>Stop Game Crashes Now! Expert Fixes For GameLoop Problems On Windows 11 and 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-pc-playback-problems-with-our-ultimate-bloodhunt-fixes/"><u>Troubleshoot PC Playback Problems with Our Ultimate Bloodhunt Fixes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unveiling-8-top-choices-your-go-to-templates-on-ig-for-2024/"><u>Unveiling 8 Top Choices Your Go-To Templates on IG for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fix It! When Red Dead Redemption 2 Just Won't Launch: Step-by-Step Solutions"
-date: 2024-08-28T06:40:33.478Z
-updated: 2024-08-29T06:40:33.478Z
+date: 2024-10-19T17:26:42.282Z
+updated: 2024-10-20T18:06:36.947Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 ![allow an app through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
 3. Under the **Allowed apps and features**  section, scroll down and find Modern Warfare II. If it’s not on the list, click **Change settings > Allow another app…** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/allow-modern-warfare-through-windows-firewall.jpg)
 
  Now navigate to your game’s installation folder and add it to the list. Then check the boxes under**Domain** ,**Private** , and**Public** . Once done, click**OK** to apply the changes.
@@ -71,21 +78,20 @@ If this doesn’t do the trick, try the next fix below.
 
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the **Processes**  tab, select the program and click **End task** until you close all the unneeded applications.  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  (Some gamers did find that the Razer Synapse is more likely to be in conflict with a number of big releases. Therefore, if you have it installed in your computer, stop it from running in the background. )  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
  When you’re done, launch your game. If your problem persists, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Repair corrupted game files
 
  From time to time, your game files can get corrupted. When that happens, a wide variety of problems would occur, ranging from minor game glitches to critical issues such as game crashing and failures to load. To check if that’s your case, you can utilize the repair tool. Depending on your gaming platform, the steps you take will vary.
@@ -106,12 +112,22 @@ If this doesn’t do the trick, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/call-of-duty-modern-warfare-II-properties-steam.png)
 2. Choose the **LOCAL FILES**  tab. Then click on the **Verify integrity of game files…**  button.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/call-of-duty-modern-warfare-II-verify-game-files.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Steam will verify the game files. This process may take a few minutes. If there are file validation failures, you can safely ignore the message that pops up.
 
@@ -120,6 +136,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ## 5\. Update your graphics driver
 
  To resolve any compatibility issues, one of the first things you should do is to update your drivers. Updates are released routinely. If you’re running a computer with out-of-date drivers, several issues can occur.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to update your graphics driver
 
@@ -135,9 +158,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/dxdiag.jpg)
 3. When the DirectX Diagnostic Tool loads, select the**Display** tab. Then you’ll find your graphics card’s name and manufacturer listed in the Device section.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/graphics-card-name-and-manufacturer-new.jpg)
 
@@ -158,13 +178,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
+
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you have to do is to download them one at a time and manually install them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -182,9 +213,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair.png)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After the repair, try to launch Modern Warfare II and you should be able to enjoy your game to the fullest without much unexpected interruptions.
 
 ---
@@ -197,8 +225,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -206,4 +232,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-inside-the-drone-world-detailed-look-at-dji-phantom-4/"><u>[New] Inside the Drone World Detailed Look at DJI Phantom 4</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-capture-live-camera-video-using-vlc-media/"><u>[Updated] Capture Live Camera Video Using VLC Media</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-the-ultimate-guide-to-choosing-between-gopro-and-yi/"><u>[Updated] In 2024, The Ultimate Guide to Choosing Between GoPro and Yi</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-quick-start-uploading-your-videos-to-instagram-via-pcmac/"><u>[Updated] Quick Start Uploading Your Videos to Instagram via PC/Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unpacking-the-wirecast-experience-and-its-rivals/"><u>2024 Approved Unpacking the WireCast Experience & Its Rivals</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/decoding-grok-by-elon-musk-an-insight-into-this-innovative-ai-and-its-affordability/"><u>Decoding Grok by Elon Musk: An Insight Into This Innovative AI & Its Affordability</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-fixing-halo-infinites-audio-glitches-easily/"><u>Expert Tips for Fixing Halo Infinite's Audio Glitches Easily</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-xiaomi-redmi-a2-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-it-right-now-why-isnt-my-voice-chat-working-the-warning-explained/"><u>Fix It Right Now: Why Isn't My Voice Chat Working? The Warning Explained</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722997877946-fixing-dirt-5-pc-game-freezing-issues-solutions-inside/"><u>Fixing Dirt 5 PC Game Freezing Issues - Solutions Inside!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-do-heterotrophs-contribute-to-soil-health-in-an-agricultural-ecosystem/"><u>How Do Heterotrophs Contribute to Soil Health in an Agricultural Ecosystem?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Asus ROG Phone 8 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/psychonauts-2-for-pc-users-diagnosing-and-fixing-sudden-game-crashes/"><u>Psychonauts 2 for PC Users: Diagnosing and Fixing Sudden Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-your-cs2-performance-woes-a-guide-to-overcoming-fps-dips-and-stutter-for-a-smoother-gaming-experience/"><u>Resolve Your CS2 Performance Woes: A Guide to Overcoming FPS Dips & Stutter for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-spotify-web-player-issues-a-step-by-step-fix-for-slow-performance-and-glitches/"><u>Solve Spotify Web Player Issues : A Step-by-Step Fix for Slow Performance and Glitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009084096-solving-slow-chrome-dilemmas-quick-wins-for-browsers/"><u>Solving Slow Chrome Dilemmas – Quick Wins for Browsers</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/step-by-step-tutorial-for-saving-tvn24-broadcasts-as-mp4-files-on-your-computer/"><u>Step-by-Step Tutorial for Saving TVN24 Broadcasts as MP4 Files on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722995441501-twitch-sound-not-working-heres-how-you-can-get-it-to-work-perfectly-now/"><u>Twitch Sound Not Working? Here's How You Can Get It to Work Perfectly Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unveiling-why-guilty-gear-strive-was-held-back-from-launch-inside-scoop/"><u>Unveiling Why Guilty Gear Strive Was Held Back From Launch - Inside Scoop</u></a></li>
+</ul></div>
 

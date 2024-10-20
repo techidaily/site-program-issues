@@ -1,7 +1,7 @@
 ---
 title: Solved! Troubleshooting Days Gone PC Startup Problems and Error Fixes
-date: 2024-10-03T18:46:31.736Z
-updated: 2024-10-08T20:54:03.726Z
+date: 2024-10-13T16:26:31.726Z
+updated: 2024-10-20T17:12:32.907Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8
 8. **[Allow TCP Network Port Access](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall DaVinci Resolve](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1\. End the Resolve process
 
  The first thing you should try is to end the DaVinci Resolve process in the Task Manager. Here’s how:
@@ -53,10 +46,10 @@ thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8
 No luck? Don’t worry. We have a few more fixes for you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2\. Unplug USB devices
@@ -65,13 +58,6 @@ No luck? Don’t worry. We have a few more fixes for you.
 
  Resolve will act up especially if you’re using a USB headset as the audio output device. Once you have removed the USB device from your PC, launch your Revolve again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3\. Launch DaVinci Resolve in Compatibility mode
 
  Still can’t launch your Resolve? It might be caused by some incompatibility issues, which can be solved by running Resolve in compatibility mode.
@@ -79,10 +65,25 @@ No luck? Don’t worry. We have a few more fixes for you.
 1. Right-click on the Resolve shortcut or the executable file in the installation folder, and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/resolve-properties.jpg)
 2. Go to the**Compatibility** tab, and check the**Run this program in compatibility for** Windows 8 or Windows 7.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/resolve-compatibibility.jpg)
 3. Click**Apply** \>**OK** to save the changes.
 
  Now you can run Resolve to test the issue. If DaVinci Resolve is still not responding, you can head on to the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4\. Update the graphics driver
 
@@ -96,13 +97,6 @@ No luck? Don’t worry. We have a few more fixes for you.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![scan drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/scan-now-5.7.0.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
 
@@ -119,24 +113,38 @@ No luck? Don’t worry. We have a few more fixes for you.
 ![command line](https://images.drivereasy.com/wp-content/uploads/2021/11/system-run-commands.jpg)
 2. Go to the**Advanced** tab and select**Settings** under**Performance** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![view the advanced settings](https://images.drivereasy.com/wp-content/uploads/2021/11/advanced.jpg)
 3. Once the Performance Options window is open, go to the**Advanced** tab and select**Change** .  
 ![adjust virtual memory size](https://images.drivereasy.com/wp-content/uploads/2021/11/property-options.jpg)
 4. Uncheck the**Automatically manage paging file size for all drives** . Then select**Custom size** , and enter the value accordingly.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![installed ram](https://images.drivereasy.com/wp-content/uploads/2021/11/installed-ram.jpg)  
 **Note:** It’s recommended to use a number that’s**one and a half times** the total available memory for the “**Initial size** ” and**three times** of available memory for the “**Maximum size** ” when possible. (For example, my installed RAM is 16GB, so I set the initial size to 24,000, maximum size to 48,000). If you don’t know your installed RAM, you can press the**Windows** key +**Pause** to check your device specifications.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Click **OK**  to confirm the change.
 
  Restart your computer for the changes to take effect, and try opening your DaVinci Resolve to check if it launches successfully.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6\. Enable IGPU Multi-Monitor in BIOS
 
@@ -157,13 +165,6 @@ No luck? Don’t worry. We have a few more fixes for you.
 2. Under the**Advanced** Settings, you will see the**IGPU Multi-Monitor Option** .
 3. Switch this feature from**Disabled** to**Enabled** .
 4. Save and exit the BIOS.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7\. Uninstall your antivirus software
 
@@ -216,24 +217,22 @@ Here’s how to troubleshoot this issue quickly:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-guide-deleting-items-from-your-youtubeumbers-list/"><u>[Updated] 2024 Approved Guide Deleting Items From Your YouTube'umbers List</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exclusive-5-ios-backdrop-change-programs-for-apple-devices/"><u>[Updated] Exclusive 5 iOS Backdrop Change Programs for Apple Devices</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-soundtrack-switch-up-effortlessly-moving-your-music-queue/"><u>2024 Approved Soundtrack Switch-Up Effortlessly Moving Your Music Queue</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-realme-v30-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-transfer-music-from-apple-iphone-11-pro-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Transfer Music from Apple iPhone 11 Pro to Android | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-next-gen-windows-with-meaningful-improvements/"><u>Crafting Next-Gen Windows with Meaningful Improvements</u></a></li>
-<li><a href="https://program-issues.techidaily.com/escape-from-tarkov-stability-improvement-no-more-pc-crashes/"><u>Escape From Tarkov Stability Improvement: No More PC Crashes!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-xiaomi-redmi-note-12-pro-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Xiaomi Redmi Note 12 Pro 5G</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-solve-crash-problems-in-chivalry-2-for-a-smooth-gaming-experience/"><u>How to Solve Crash Problems in Chivalry 2 for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/say-goodbye-to-stuttering-gameplay-resolving-fps-drops-in-gtfo/"><u>Say Goodbye to Stuttering Gameplay: Resolving FPS Drops in GTFO</u></a></li>
-<li><a href="https://program-issues.techidaily.com/star-wars-battlefront-2-guide-overcoming-the-notorious-error-code-327/"><u>Star Wars Battlefront 2 Guide: Overcoming the Notorious Error Code 327</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-art-of-pacing-keeping-gaming-enjoyable/"><u>The Art of Pacing: Keeping Gaming Enjoyable</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-optimizing-a-sluggish-steam-connection/"><u>Troubleshooting and Optimizing a Sluggish Steam Connection</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-armored-core-vi-wont-start/"><u>Troubleshooting Steps When Armored Core VI Won't Start</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723006930691-ultimate-fixes-for-common-apex-legends-gameplay-engine-problems-now-resolved/"><u>Ultimate Fixes for Common Apex Legends Gameplay Engine Problems – Now Resolved</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-7-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking iPhone 7 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-power-of-restful-nights-in-depth-analysis-of-ihome-zenergy-bedside-machine/"><u>Unveiling the Power of Restful Nights: In-Depth Analysis of IHome Zenergy Bedside Machine</u></a></li>
-<li><a href="https://program-issues.techidaily.com/update-on-wolcen-why-the-lords-of-mayhem-expansion-hasnt-launched-yet/"><u>Update on Wolcen - Why the Lords of Mayhem Expansion Hasn't Launched Yet?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/win-the-battle-against-wow-latency-quick-tricks-for-lag-free-playtime/"><u>Win the Battle Against WoW Latency: Quick Tricks for Lag-Free Playtime</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-unmask-background-ambiance-free-or-paid-solutions-explored-for-2024/"><u>[New] Unmask Background Ambiance - Free or Paid Solutions Explored for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-acoustic-architects-building-with-mac-studios/"><u>[Updated] 2024 Approved Acoustic Architects Building with Mac Studios</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-secrets-unveiled-the-ultimate-guide-to-recording-games/"><u>[Updated] In 2024, Secrets Unveiled The Ultimate Guide to Recording Games</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-pc-stability-concerns-with-actionable-tips-for-a-smooth-subnautica-below-zero-experience/"><u>Addressing PC Stability Concerns with Actionable Tips for a Smooth Subnautica: Below Zero Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/avoid-missed-emotions-easy-emoji-15-integration-for-win11/"><u>Avoid Missed Emotions: Easy Emoji 15 Integration for Win11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-guide-addressing-problems-when-your-iphones-guided-access-wont-start/"><u>Fix Guide: Addressing Problems When Your iPhone's Guided Access Won’t Start</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-black-screen-difficulties-solutions-explored/"><u>How to Overcome Black Screen Difficulties – Solutions Explored</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-screencast-o-matic-review-everything-you-need-to-know/"><u>In 2024, Screencast-O-Matic Review Everything You Need To Know</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/no-fuss-trick-for-clownfish-tone-change-in-windows-domain-for-2024/"><u>No-Fuss Trick for Clownfish Tone Change in Windows Domain for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/palette-knives-can-be-used-to-scrape-off-excess-underglaze-or-create-textured-effects/"><u>Palette Knives Can Be Used to Scrape Off Excess Underglaze or Create Textured Effects.</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-enhancing-your-gaming-experience-with-these-6-fixes-for-hogwarts-legacys-stuttering-issues-2024-edition/"><u>Resolved: Enhancing Your Gaming Experience with These 6 Fixes for Hogwarts Legacy's Stuttering Issues - 2024 Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-warzone-failure-to-start-up/"><u>Resolved: Fixes for Warzone Failure to Start Up</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-resolving-steams-connection-issues-with-server/"><u>Solved: Resolving Steam's Connection Issues with Server</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-how-to-thoroughly-wipe-browser-history-off-smartphones/"><u>Step-by-Step Guide: How to Thoroughly Wipe Browser History Off Smartphones</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-to-stop-discord-from-unexpectedly-closing/"><u>Step-by-Step Solutions to Stop Discord From Unexpectedly Closing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-restore-audio-in-fallout-4-on-your-computer/"><u>Troubleshooting Steps to Restore Audio in Fallout 4 on Your Computer</u></a></li>
 </ul></div>
 

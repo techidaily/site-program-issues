@@ -1,7 +1,7 @@
 ---
 title: How to Address and Solve Vanguard's Uninitialized Problem on Valorant
-date: 2024-10-14T03:02:11.704Z
-updated: 2024-10-14T17:42:04.401Z
+date: 2024-10-18T16:35:51.197Z
+updated: 2024-10-20T17:45:34.963Z
 tags:
   - win11
   - win10
@@ -52,13 +52,6 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1\. Allow your game to run through Windows Firewall
 
  Check for any firewall and antivirus restrictions that may hinder your connection. As reported by some gamers, turning off firewall restrictions and uninstalling antivirus software worked for them immediately.
@@ -71,6 +64,13 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 2. Type in**firewall.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
 3. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
@@ -86,19 +86,6 @@ If your game isn’t on the list, follow these steps:
 3. Once added, tick both the**Private** and**Public** boxes for the application.
 4. Restart your Battle.net and play the game again the test the issue.
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2\. Perform a network reset
 
  If the fix above didn’t fix your problem, the problem is not caused by your antivirus software or firewall interruption. You may want to follow these steps to reset your network quickly:
@@ -108,10 +95,10 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 2. Click **OK** to confirm your action.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Once the Command Prompt window is open, type the following 5 command lines (press **Enter**  after entering each command line):  
@@ -133,10 +120,10 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 3. Right-click your current network connection, and select **Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
@@ -150,6 +137,13 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 ![change DNS server](https://images.drivereasy.com/wp-content/uploads/2021/07/following-DNS.jpg)
 6. Click **OK** to apply.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4\. Update your device drivers
 
@@ -167,23 +161,29 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed.jpg)
 3. Click the **Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-network-driver-2.jpg)
 4. Once your drivers are up to date, restart your computer for the changes to take full effect.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5\. Use a VPN
@@ -224,18 +224,24 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-voice-overhaul-made-simple-explore-7-best-audio-editing-apps/"><u>[New] 2024 Approved Voice Overhaul Made Simple Explore 7 Best Audio Editing Apps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-apples-content-downloading-with-ease/"><u>[Updated] Navigating Apple's Content Downloading with Ease</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-xiaomi-13t-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Xiaomi 13T Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/addressing-and-correcting-the-vibrant-red-screens-of-windows-11-computers/"><u>Addressing and Correcting the Vibrant Red Screens of Windows 11 Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723008849014-apex-legends-wont-load-master-these-simple-fixes/"><u>Apex Legends Won't Load? Master These Simple Fixes!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/evite-la-copia-ilegal-de-discos-por-que-no-convertir-tu-dvd-a-disco-duro-legalmente/"><u>Evite La Copia Ilegal De Discos, ¿Por Qué No Convertir Tu DVD a Disco Duro Legalmente?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-to-fix-sons-of-the-forest-pc-crashes-optimize-gaming-experience/"><u>Expert Tips to Fix 'Sons of the Forest' PC Crashes - Optimize Gaming Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/immediate-fixes-to-eliminate-stuttering-and-optimize-frame-rates-in-elden-ring/"><u>Immediate Fixes to Eliminate Stuttering and Optimize Frame Rates in Elden Ring</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ios-16-a-step-by-step-guide-to-adding-songs-to-your-ipod-touch-without-using-itunes/"><u>IOS 16: A Step-by-Step Guide to Adding Songs to Your iPod Touch Without Using iTunes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-fixing-your-obs-screen-recordings-issue-now-solved/"><u>Troubleshooting and Fixing Your OBS Screen Recordings – Issue Now Solved</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-cod-mw3-when-it-suddenly-stops-working/"><u>Troubleshooting COD: MW3 When It Suddenly Stops Working</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-how-to-correctly-address-a-new-world-connection-mishap/"><u>Troubleshooting Tips: How To Correctly Address a New World Connection Mishap</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-how-to-get-your-usb-mouse-back-in-action-on-a-laptop/"><u>Troubleshooting: How to Get Your USB Mouse Back in Action on a Laptop</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-mastering-the-art-top-5-fluid-gaming-journeys/"><u>[New] 2024 Approved Mastering the Art Top 5 Fluid Gaming Journeys</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-laughter-is-free-access-to-top-meme-creations-for-2024/"><u>[New] Laughter Is Free Access to Top Meme Creations for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ensuring-compliance-in-zoom-meetings-a-recording-guide-for-2024/"><u>[Updated] Ensuring Compliance in Zoom Meetings A Recording Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flashing-lights-of-olympic-speed/"><u>2024 Approved Flashing Lights of Olympic Speed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-mastering-online-channel-name-creation-tips-and-tricks/"><u>2024 Approved Mastering Online Channel Name Creation Tips & Tricks</u></a></li>
+<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-y100a-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-street-fighter-6-delays-and-latency-headaches-advanced-optimization-techniques-for-gaming-laptops-and-desktops/"><u>Beat Street Fighter 6 Delays & Latency Headaches – Advanced Optimization Techniques for Gaming Laptops and Desktops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-palworld-game-crash-issues-easy-solutions-and-tips/"><u>Fix Palworld Game Crash Issues: Easy Solutions and Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-how-to-stop-mfsx-2020-from-continuously-crashing-on-your-pc/"><u>Fixes & Solutions: How To Stop MFSX 2020 From Continuously Crashing On Your PC</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-rokus-closed-caption-malfunction-expert-advice-and-techniques/"><u>Fixing Roku's Closed Caption Malfunction: Expert Advice and Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fortnite-troubleshooting-guide-restoring-your-right-to-play-after-a-blockage-notice/"><u>Fortnite Troubleshooting Guide: Restoring Your Right to Play After a Blockage Notice</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-itel-p55t-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Itel P55T to iPod | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-mastering-moonlight-shots-on-iphone/"><u>In 2024, Mastering Moonlight Shots on iPhone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/modern-warfare-3-understanding-the-common-causes-behind-2024-frame-rate-hiccups/"><u>Modern Warfare 3: Understanding the Common Causes Behind 2024 Frame Rate Hiccups</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-pc-game-glitches-fixed-guide-to-no-more-dauntless-crashes/"><u>Overcome PC Game Glitches: Fixed Guide to No More Dauntless Crashes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/streamlined-subtitling-processes-for-instagrams-dynamic-media-for-2024/"><u>Streamlined Subtitling Processes for Instagram's Dynamic Media for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/thaumaturge-crash-guide-top-strategies-for-a-stable-pc-experience/"><u>Thaumaturge Crash Guide: Top Strategies for a Stable PC Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tips-and-tricks-for-enhancing-your-fps-on-tainted-grail-conquest-gaming-platform/"><u>Tips and Tricks for Enhancing Your FPS on Tainted Grail: Conquest Gaming Platform</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tutorial-for-steady-game-execution-preventing-game-crashes-in-win-10win-11-environments/"><u>Tutorial for Steady Game Execution: Preventing Game Crashes in Win 10/Win 11 Environments</u></a></li>
 </ul></div>
 

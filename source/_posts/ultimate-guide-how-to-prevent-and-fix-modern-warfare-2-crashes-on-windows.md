@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: How to Prevent and Fix Modern Warfare 2 Crashes on Windows"
-date: 2024-10-05T16:02:40.662Z
-updated: 2024-10-08T19:59:01.610Z
+date: 2024-10-16T18:20:30.950Z
+updated: 2024-10-20T16:39:44.543Z
 tags:
   - win11
   - win10
@@ -60,6 +60,13 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 7. **[Tweak in-game settings](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Run a full scan of your PC](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Download & install all Windows updates
 
  Windows updates usually come with bug fixes and new features. To get the best performance, you should check if there are any updates available for download. This could be the easiest way to fix your issue without much troubleshooting.
@@ -71,21 +78,7 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If**Updates are available** , click**Install now** and wait for the updates to be installed on your system. Once complete, restart your computer and relaunch your game. If it doesn’t have a huge impact, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Update your graphics driver
 
@@ -143,21 +136,7 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once you’re done, dive into a new gameplay. If your problem persists, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Reset priority and affinity
 
@@ -178,18 +157,25 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/set-affinity-to-CPU-0-1-2-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Don’t know how many cores your CPU has? Simply go to the**Performance** tab on the Task Manager. Then you’ll see the number of cores in your processor.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/how-to-check-how-many-cores-your-CPU-has.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After you’ve applied all the changes, launch your game and see how things go. If no improvements have been seen, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Enable hardware acceleration
 
@@ -203,6 +189,13 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Dyling-Light-2-enable-accelerated-high-gpu-scheduling.png)
 3. Then go to your game’s installation folder and add the exe file to the list.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Now click on the**Options** button.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/enable-hardware-acceleration-modern-warfare-2.jpg)
@@ -211,6 +204,13 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/enable-hardware-acceleration-modern-warfare-2-high-performance.jpg)
 
  After applying the changes, launch the game and test the performance. If you can’t see many improvements, move on to the next method below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Verify your game files
 
@@ -226,11 +226,25 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/call-of-duty-modern-warfare-II-properties-steam.png)
 2. Choose the **LOCAL FILES**  tab. Then click on the **Verify integrity of game files…**  button.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/call-of-duty-modern-warfare-II-verify-game-files.png)
 
  Steam is now verifying the integrity of your game files. This process could take several minutes depending on the file size.
 
  Once the repair is finished, close the window and play your game to check if it works. If this doesn’t do the trick, proceed to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### On Battle.net
 
@@ -249,22 +263,21 @@ If that doesn’t make any difference, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/tweak-in-game-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Under the QUALITY section
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/modern-warfare-2-quality-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 8\. Run a full scan of your PC
@@ -278,13 +291,6 @@ If that doesn’t make any difference, try the next fix below.
 3. If Fortect detects any issues on your PC, click **Start Repair** to start the repair process.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After the repair, restart your computer and you should be able to play your game without many interruptions.
 
@@ -307,21 +313,24 @@ If that doesn’t make any difference, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-unleash-the-power-of-zoom-with-these-tips/"><u>[New] 2024 Approved Unleash the Power of Zoom with These Tips</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-magix-photography-control-an-in-depth-review-for-2024/"><u>[New] MAGIX Photography Control An In-Depth Review for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pixel-perfecting-free-high-quality-mobile-photography-boost/"><u>[Updated] Pixel Perfecting Free, High-Quality Mobile Photography Boost</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-easy-mp3-snippet-from-fb-chats/"><u>2024 Approved Easy MP3 Snippet From FB Chats</u></a></li>
-<li><a href="https://program-issues.techidaily.com/banishing-disruptions-essential-strategies-for-tackling-new-world-network-hiccups/"><u>Banishing Disruptions: Essential Strategies for Tackling New World Network Hiccups</u></a></li>
-<li><a href="https://extra-information.techidaily.com/cutting-edge-retouch-erasing-unwanted-backdrops-in-photos/"><u>Cutting-Edge Retouch Erasing Unwanted Backdrops in Photos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/essential-troubleshooting-steps-when-borderlands-3-wont-open/"><u>Essential Troubleshooting Steps When Borderlands 3 Won't Open</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-solutions-to-stabilize-grounded-gameplay-on-your-computer-updated-guide/"><u>Expert Solutions to Stabilize 'Grounded' Gameplay on Your Computer - Updated Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-back-to-the-basics-with-these-fixes-for-a-broken-start-button-on-windows/"><u>Get Back to the Basics with These Fixes for a Broken Start Button on Windows</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-tecno-spark-10c-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Tecno Spark 10C to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-apple-iphone-8-location-by-mobile-number-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 6 Apps/Services to Trace Any Apple iPhone 8 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/practices-like-crop-rotation-intercropping-organic-amendments-and-biological-pest-control-decrease-reliance-on-chemical-fertilizers-and-pesticides-while-pro446/"><u>Practices Like Crop Rotation, Intercropping, Organic Amendments, and Biological Pest Control Decrease Reliance on Chemical Fertilizers and Pesticides While Promoting Natural Soil Fertility and Plant Health</u></a></li>
-<li><a href="https://win-blog.techidaily.com/the-definitive-solution-fixing-hitman-3s-persistent-crashes-on-your-pc-updated/"><u>The Definitive Solution: Fixing Hitman 3'S Persistent Crashes on Your PC (Updated )</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-football-manager-2021-pc-bugs-comprehensive-solutions-to-stop-game-crashes/"><u>Troubleshooting Football Manager 2021 PC Bugs - Comprehensive Solutions to Stop Game Crashes.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-non-responsive-windows-11-taskbar-problems/"><u>Troubleshooting Guide: Resolving Non-Responsive Windows 11 Taskbar Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-fixing-discord-lags/"><u>Ultimate Troubleshooting: Fixing Discord Lags</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-secure-your-brand-on-youtube-adding-logos-and-watermarks/"><u>[Updated] In 2024, Secure Your Brand on YouTube Adding Logos & Watermarks</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/creative-channel-themes-get-them-for-free/"><u>Creative Channel Themes Get Them for Free</u></a></li>
+<li><a href="https://program-issues.techidaily.com/deciphering-and-fixing-error-code-tfla0002-for-successful-finals-completion/"><u>Deciphering and Fixing Error Code TFLA0002 for Successful Finals Completion</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeat-the-launch-bug-expert-solutions-for-playing-fallout-3-this-year/"><u>Defeat the Launch Bug: Expert Solutions for Playing Fallout 3 This Year</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-logitech-brio-webcam-software-compatible-with-windows-11-8-and-7/"><u>Download Logitech Brio Webcam Software Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-strategies-to-get-counter-strike-going-again-after-a-failed-start/"><u>Effective Strategies to Get Counter-Strike Going Again After a Failed Start</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-how-to-ensure-fortnites-warzone-uses-gpu-in-windows-11/"><u>Fix: How to Ensure Fortnite's Warzone Uses GPU in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-inspired-wearables-navigating-the-next-generation-of-tech/"><u>GPT-Inspired Wearables: Navigating the Next Generation of Tech</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-get-the-most-recent-hp-laserjet-m514-driver-update-for-optimal-performance/"><u>How to Get the Most Recent HP LaserJet M514 Driver Update for Optimal Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-repair-a-dnssddll-file-thats-not-located-or-present-on-your-system/"><u>How To Repair A Dnssd.Dll File That's Not Located or Present on Your System</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-ps5xbox-series-x-elite-console-companion-screens/"><u>In 2024, PS5/Xbox Series X Elite Console Companion Screens</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/invisible-footprints-tech-review-for-2024/"><u>Invisible Footprints Tech Review for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-screen-shimmers-your-definitive-guide-to-banishing-the-blink/"><u>No More Screen Shimmers – Your Definitive Guide to Banishing the Blink!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-recurrent-game-errors-mastering-stability-throughout-the-finals-on-windows-or-mac/"><u>Overcoming Recurrent Game Errors: Mastering Stability Throughout The Finals on Windows or Mac</u></a></li>
+<li><a href="https://program-issues.techidaily.com/spellbreak-pc-issues-resolved-fixes-for-stability-and-performance/"><u>Spellbreak PC Issues Resolved: Fixes for Stability and Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steps-to-resolve-steelseries-gg-engine-malfunctioning-on-pc-with-windows-os/"><u>Steps to Resolve SteelSeries GG Engine Malfunctioning on PC with Windows OS</u></a></li>
+<li><a href="https://win11.techidaily.com/turning-on-windows-file-compression/"><u>Turning On Windows File Compression</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/updating-your-toshiba-laptops-software-essential-driver-downloads-for-windows-users/"><u>Updating Your Toshiba Laptop's Software: Essential Driver Downloads for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/vrchat-stability-guide-discover-8-successful-fixes-to-enhance-gameplay-experience-on-pc/"><u>VRChat Stability Guide: Discover 8 Successful Fixes to Enhance Gameplay Experience on PC</u></a></li>
 </ul></div>
 

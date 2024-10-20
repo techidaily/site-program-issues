@@ -1,7 +1,7 @@
 ---
 title: "Resolved: How to Fix the FIFA 2020 Game Crash Issue"
-date: 2024-10-06T17:06:53.969Z
-updated: 2024-10-08T22:24:19.212Z
+date: 2024-10-17T18:36:41.505Z
+updated: 2024-10-20T19:01:12.353Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/4703b9d657812b3886216df90e44b1d9ef5fb3878
 4. [**Run in compatibility mode**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Modify your Registry**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Check for corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Modify config files to fix launching issues
 
@@ -61,6 +68,13 @@ If the game still crashes, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
@@ -78,18 +92,25 @@ If the game still crashes, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
 If Tower of Fantasy still crashes, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Run in compatibility mode
 
@@ -100,24 +121,17 @@ If Tower of Fantasy still crashes, you can try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/tower-of-fantasy-compatibility-0.jpg)
 2. In the pop-up window, navigate to the**Compatibility** tab, set to**run this program in compatibility mode for Windows 8** . Then check the box next to**Disable fullscreen optimizations** and**Run this program as an administrator** . In the end, click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/tower-of-fantasy-compatibility-1.jpg)
 3. Now you can test the gameplay in Tower of Fantasy.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this fix doesn’t work for you, undo the settings and continue to the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Modify your Registry (Advanced)
 
@@ -129,31 +143,18 @@ If Tower of Fantasy still crashes, you can try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/windows-r-regedit.jpg)
 2. In the address bar, type or paste **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\GraphicsDrivers** and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-1.jpg)
 3. Right click the empty space and create a**DWORD (32-bit) Value** . Then name it**TdrLevel** .  
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-2.jpg)
 4. Double-click**TdrLevel** to edit the value. Select**Hexadecimal** and set**Value data** to**0** .  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-3.jpg)
 5. Now reboot your PC and launch Tower of Fantasy.
@@ -161,6 +162,13 @@ If Tower of Fantasy still crashes, you can try the next fix below.
  If TdrLevel didn’t fix the issue, rename TdrLevel to**TdrDelay** , select the**Decimal** option and set Value data to**10** and try again after reboot.
 
 If this fix doesn’t give you luck, take a look at the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Check for corrupted system files
 
@@ -173,21 +181,7 @@ If this fix doesn’t give you luck, take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -210,24 +204,18 @@ If this fix doesn’t give you luck, take a look at the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-precision-and-perfection-applying-luts-in-video-post-production/"><u>[New] Precision and Perfection Applying LUTs in Video Post-Production</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-revolutionize-your-virtual-dialogue-the-google-meet-guide-for-2024/"><u>[New] Revolutionize Your Virtual Dialogue The Google Meet Guide for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-unveiling-enhancements-in-sonys-s6500-bdhd-player-for-2024/"><u>[New] Unveiling Enhancements in Sony's S6500 BD/HD Player for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-practical-advice-for-documenting-online-conferencing-sessions/"><u>[Updated] 2024 Approved Practical Advice for Documenting Online Conferencing Sessions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/avoid-game-crashes-on-battlefield-1-easy-steps-to-a-smoother-experience/"><u>Avoid Game Crashes on Battlefield 1 – Easy Steps to a Smoother Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortlessly-resolve-life-is-strange-glitches-true-colors-edition-unlocked/"><u>Effortlessly Resolve Life Is Strange Glitches - True Colors Edition Unlocked</u></a></li>
-<li><a href="https://program-issues.techidaily.com/football-manager-2022-launch-postponed-heres-why-and-how-it-was-resolved/"><u>Football Manager 2022 Launch Postponed - Here's Why and How It Was Resolved</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-revolutionize-your-podcasts-rankings-with-effective-seo-methods/"><u>In 2024, Revolutionize Your Podcast's Rankings with Effective SEO Methods</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/masterful-method-smart-watch-to-access-mac-for-2024/"><u>Masterful Method Smart Watch to Access Mac for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/materials/"><u>Materials</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-performance-how-to-address-fps-issues-and-smoothing-out-gameplay-on-splitgate/"><u>Optimizing Performance: How To Address FPS Issues & Smoothing Out Gameplay on Splitgate</u></a></li>
-<li><a href="https://video-capture.techidaily.com/pro-screen-recorder-battle-top-selections-unveiled/"><u>Pro Screen Recorder Battle Top Selections Unveiled</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resident-evil-village-pc-issues-heres-how-to-resolve-the-persistent-game-crashing-problem/"><u>Resident Evil Village PC Issues? Here's How to Resolve the Persistent Game Crashing Problem</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-wallpaper-engine-crashing-issues-on-windows-11-and-10/"><u>Resolved: Fixes for Wallpaper Engine Crashing Issues on Windows 11 & 10</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/revolutionize-your-videos-with-top-10-free-srt-converters/"><u>Revolutionize Your Videos with Top 10 Free SRT Converters</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-solving-msedgeexe-freezes-and-crashes-for-a-smooth-edge-experience/"><u>Step-by-Step Guide: Solving MSEdge.exe Freezes & Crashes for a Smooth Edge Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/success-strategies-against-endgame-hurdle-decoding-and-defeating-tfla0002/"><u>Success Strategies Against Endgame Hurdle: Decoding and Defeating TFLA0002</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-5-car-locator-apps-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Top 5 Car Locator Apps for Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-effective-practices-for-device-video-capture/"><u>[New] In 2024, Effective Practices for Device Video Capture</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-how-to-use-your-switch-pro-controller-on-steam/"><u>[Updated] 2024 Approved How to Use Your Switch Pro Controller on Steam</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-how-to-screen-capture-anything-including-netflix-on-a-mac-in-six-steps/"><u>2024 Approved How to Screen Capture Anything, Including Netflix, on a Mac in Six Steps</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/btns-in-pt-languages-a-cross-continental-study/"><u>BTNs in PT Languages: A Cross-Continental Study</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-logitech-g602-mice-software-for-windows-computers/"><u>Get the Latest Logitech G602 Mice Software for Windows Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-restore-voice-chat-functionality-in-among-us-on-your-pc-quick-fix-guide/"><u>How To Restore Voice Chat Functionality In Among Us On Your PC - Quick Fix Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/instagram-streamlining-the-process-of-image-addition/"><u>Instagram Streamlining the Process of Image Addition</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-challenges-with-safaris-full-page-image-capture-proven-methods-to-try/"><u>Overcoming Challenges with Safari's Full-Page Image Capture: Proven Methods to Try</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pacific-battlefront-issues-in-cod-warzone-solved-crashing-problems/"><u>Pacific Battlefront Issues in COD: Warzone - Solved Crashing Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-restoring-functionality-of-the-steelseries-gg-gamepad-engine-on-windows/"><u>Step-by-Step Guide to Restoring Functionality of the SteelSeries GG Gamepad Engine on Windows</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/swift-repair-for-xerox-error-alert-0x1/"><u>Swift Repair for Xerox Error Alert 0X1</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-fix-for-content-file-blocked-error-in-your-steam-library/"><u>The Ultimate Fix for 'Content File Blocked' Error in Your Steam Library</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993098360-update-trouble-heres-how-you-can-fix-minecraft-launcher-issues-easily/"><u>Update Trouble? Here's How You Can Fix Minecraft Launcher Issues Easily</u></a></li>
 </ul></div>
 

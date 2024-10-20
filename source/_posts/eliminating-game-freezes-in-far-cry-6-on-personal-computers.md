@@ -1,7 +1,7 @@
 ---
 title: Eliminating Game Freezes in Far Cry 6 on Personal Computers
-date: 2024-08-28T06:40:48.764Z
-updated: 2024-08-29T06:40:48.764Z
+date: 2024-10-15T18:32:43.687Z
+updated: 2024-10-20T18:18:43.341Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/aa39b0c8b4b398091d4035d320c4791ea5b2efa57
 5. **[Toggle offline and online mode in Origin](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of game files
 
  If the game files are missing or corrupted, you may face the issue of Battlefield 4 not launching. So before trying anything more complicated, you’ll need to verify the integrity of game files. Here’s how:
@@ -54,9 +61,6 @@ Open Battlefield 4 to test if the launching issue is resolved.
 
 If the issue remains, check out the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  Graphics driver is essential to the functioning of PC games. If you’re using a faulty or outdated graphics driver, you may encounter the issue of Battlefield 4 not launching. To fix the potential problems and enjoy maximum gaming performance, you need to make sure your graphics driver is up to date.
@@ -69,10 +73,6 @@ If the issue remains, check out the next solution.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
@@ -84,8 +84,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  If updating the graphics driver doesn’t do the trick, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Run Battlefield 4 and Origin as administrator
 
  To make sure you have full access to all the game files, you can run Battlefield 4 and Origin as administrator. This might help you to fix the Battlefield 4 not launching issue. Here’s how:
@@ -94,18 +98,27 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Go to**_C:\\Program Files (x64)\\Origin Games\\Battlefield 4_** . Then right-click the**Bf4.exe** file and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Properties1.jpg)
 3. Navigate to the**Compatibility** tab, Then check the box next to**Run this program as an administrator** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/BF4-properties.jpg)
 4. On your desktop, right-click the Origin client icon and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-properties.jpg)
 5. Navigate to the**Compatibility** tab. Then check the box next to**Run this program as an administrator** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-origin-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Check if Battlefield 4 launches properly.
 
  If this method doesn’t help you resolve the problem, move on to the next fix below.
@@ -117,9 +130,6 @@ Check if Battlefield 4 launches properly.
 1. Open Origin and select**My Game Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-my-game-library.jpg)
 2. Right-click Battlefield 4 and select**Game Properties…** .  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-game-properties-1.jpg)
 3. Under When launching this game, select**Battlefield 4™ (x86)** from the drop-down menu and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/BF4-86.jpg)
@@ -128,8 +138,12 @@ Check if Battlefield 4 launches properly.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/bf4-64.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Restart your computer and check if you can launch Battlefield 4 successfully.
 
 If this fix doesn’t help, go ahead with the next fix below.
@@ -145,11 +159,28 @@ If this fix doesn’t help, go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-go-online.jpg)
 4. Return to the game and try to launch it again.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If Battlefield 4 is still not launching, continue to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6: Reinstall the game
 
  If all methods mentioned above fail to resolve your problem of Battlefield 4 not launching, try reinstalling the game as a last resort. Here’s how:
@@ -159,9 +190,12 @@ If Battlefield 4 is still not launching, continue to the next fix below.
 2. Right-click the**Battlefield 4** tile from the list, and select**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-uninstall.jpg)
 3. After the process finishes, reinstall the game from Origin.
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Check if Battlefield 4 could launch normally.
@@ -179,8 +213,6 @@ Check if Battlefield 4 could launch normally.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +220,19 @@ Check if Battlefield 4 could launch normally.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-3-simplified-ways-to-save-lenovo-screenshots-for-2024/"><u>[New] 3 Simplified Ways to Save Lenovo Screenshots for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-utilizing-in-presentation-speech-to-text-functionality-in-powerpoint/"><u>[New] Utilizing In-Presentation Speech-to-Text Functionality in PowerPoint</u></a></li>
+<li><a href="https://program-issues.techidaily.com/b4b-gobi-crash-troubleshooting-on-udk-fixing-ue4-game-issues-easily/"><u>B4B Gobi Crash Troubleshooting on UDK - Fixing UE4 Game Issues Easily!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-eradicating-v-ray-stuttering-for-flawless-rendering-experience-on-personal-computers/"><u>Expert Advice: Eradicating V-Ray Stuttering for Flawless Rendering Experience on Personal Computers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-xr-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone XR Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improving-your-resident-evil-village-experience-by-addressing-pcs-low-fps-issues/"><u>Improving Your Resident Evil Village Experience by Addressing PC's Low FPS Issues</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-logitech-configuration-challenges-effective-fixes-for-windows-users/"><u>Overcoming Logitech Configuration Challenges: Effective Fixes for Windows Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/speeding-up-microsoft-edge-enhanced-performance-coming-soon/"><u>Speeding Up Microsoft Edge: Enhanced Performance Coming Soon</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tips-for-unfreezing-your-call-of-duty-black-ops-cold-war-gameplay-experience/"><u>Step-by-Step Tips for Unfreezing Your Call of Duty: Black Ops Cold War Gameplay Experience</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-slow-motion-magic-unlocking-the-power-of-windows-live-movie-maker/"><u>Updated 2024 Approved Slow Motion Magic Unlocking the Power of Windows Live Movie Maker</u></a></li>
+</ul></div>
 

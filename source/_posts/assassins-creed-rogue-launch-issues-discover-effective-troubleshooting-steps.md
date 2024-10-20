@@ -1,7 +1,7 @@
 ---
 title: Assassin’s Creed Rogue Launch Issues? Discover Effective Troubleshooting Steps
-date: 2024-09-21T06:47:52.653Z
-updated: 2024-09-27T23:19:15.869Z
+date: 2024-10-15T18:14:19.639Z
+updated: 2024-10-20T18:27:44.451Z
 tags:
   - win11
   - win10
@@ -38,16 +38,16 @@ As one of the most anticipated video games in early 2022, Monster Hunter Rise is
 3. Select the**Compatibility** tab. Tick**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-program-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Directly launch the exe file to see how it works. If it still doesn’t start properly, try**running the game in compatibility mode for Windows 8** . This is a simple workaround for many players.
 
 Still no luck? Move on to the next method below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2 – Allow your game through Controlled Folder Access and antivirus
 
@@ -56,6 +56,13 @@ Still no luck? Move on to the next method below.
 1. On the Windows search box, type**windows security** and select**Windows Security** from the results.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/1.jpg)
 2. Select **Virus & threat protection**  from the left pane. Scroll to the Ransomware protection section and click **Manage ransomware protection** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/2.jpg)
 3. Toggle on the**Controlled folder access** , and click **Allow an app through Controlled folder access** .  
@@ -67,13 +74,20 @@ Still no luck? Move on to the next method below.
 5. Navigate to the game’s installation folder and add the**MonsterHunterRise.exe file** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you have also installed any third-party anti-virus software like McAfee, Bitdefender and Avast, make sure your game is added to their whitelists and not blocked.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -86,23 +100,16 @@ Still no luck? Move on to the next method below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
  Once done, restart the computer for the changes to take effect. Then test if the issue reoccurs. If yes, there are a few more fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4 – Disable resource-hogging programs
@@ -115,13 +122,20 @@ Still no luck? Move on to the next method below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Check if the game launches as expected. If not, take a look at Fix 5.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5 – Verify the integrity of game files
@@ -132,26 +146,12 @@ Check if the game launches as expected. If not, take a look at Fix 5.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. From the game list, right-click**Monster Hunter Rise** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Select**Local Files** from the left pane and click**Verify intergrity of game files** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 
  It may take a few minutes to finish scanning and repairing. Then you can restart the game to see if the problem persists. If so, continue to the last method.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6 – Repair your system files
 
@@ -167,14 +167,14 @@ Check if the game launches as expected. If not, take a look at Fix 5.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 Test the game to see if your system runs faster and smoother now.
 
@@ -200,21 +200,16 @@ Test the game to see if your system runs faster and smoother now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ominate-search-results-powerful-youtube-seo-techniques-exposed/"><u>[New] Dominate Search Results Powerful YouTube SEO Techniques Exposed</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-zooming-up-triad-of-effective-video-enhancement-practices/"><u>[New] In 2024, Zooming Up Triad of Effective Video Enhancement Practices</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-capturing-quality-video-on-macbook/"><u>[Updated] Capturing Quality Video on MacBook</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-leading-the-charge-in-pc-livestreams-with-tiktok-features/"><u>2024 Approved Leading the Charge in PC Livestreams with TikTok Features</u></a></li>
-<li><a href="https://common-error.techidaily.com/decode-the-dirty-volume-issue-understanding-and-fixing-error-0x80071ac3/"><u>Decode the Dirty Volume Issue: Understanding and Fixing Error 0X80071AC3</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-solutions-stop-wwe-2k20-from-crashing-on-your-pc-step-by-step-guide/"><u>Easy Solutions: Stop WWE 2K20 From Crashing on Your PC - Step-by-Step Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-f23-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo F23 5G Phones with/without a PC</u></a></li>
-<li><a href="https://change-location.techidaily.com/honor-play-7t-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Play 7T Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stabilize-the-fuser-software-when-it-continuously-exits-unexpectedly/"><u>How to Stabilize the Fuser Software When It Continuously Exits Unexpectedly</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-music-manifesto-constructing-your-signature-youtube-playlists/"><u>In 2024, Music Manifesto Constructing Your Signature YouTube Playlists</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Poco C55? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-compatibility-keep-your-dragon-age-origins-game-smooth-on-windows-11-without-any-crashes/"><u>Mastering Compatibility: Keep Your Dragon Age: Origins Game Smooth on Windows 11 Without Any Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-instance-connection-in-path-of-exile-comprehensive-fixes-and-tips/"><u>Mastering Instance Connection in Path of Exile: Comprehensive Fixes & Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-obstacles-in-call-of-duty-black-ops-cold-war-coding-error-0xc0000005-solutions/"><u>Overcoming Obstacles in Call of Duty: Black Ops Cold War - Coding Error 0Xc0000005 Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixes-implemented-for-warzone-game-failure-to-start/"><u>Resolved: Fixes Implemented for Warzone Game Failure to Start</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-discord-glitches-for-a-smooth-streaming-experience-a-step-by-step-guide/"><u>Resolving Discord Glitches for a Smooth Streaming Experience: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-monetization-strategies-for-gamers/"><u>[Updated] Monetization Strategies for Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-needed-overcoming-launch-issues-in-age-of-empires-4/"><u>Fixes Needed: Overcoming Launch Issues in Age of Empires 4</u></a></li>
+<li><a href="https://program-issues.techidaily.com/football-manager-game-stability-enhanced-no-more-unexpected-shutdowns-in-version/"><u>Football Manager Game Stability Enhanced - No More Unexpected Shutdowns in Version #</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-rejuvenate-old-memories-with-modern-instagram-features/"><u>In 2024, How to Rejuvenate Old Memories with Modern Instagram Features</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-simplifying-the-art-of-gif-production/"><u>In 2024, Simplifying the Art of GIF Production</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-faster-windows-11-boots-a-triad-of-tips/"><u>Mastering Faster Windows 11 Boots: A Triad of Tips</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-learning-how-to-slow-down-a-video-on-iphone-properly/"><u>New 2024 Approved Learning How to Slow Down a Video on iPhone Properly</u></a></li>
+<li><a href="https://win11.techidaily.com/secure-file-access-preventing-read-only-windows-folders/"><u>Secure File Access: Preventing Read-Only Windows Folders</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stabilizing-your-gameplay-addressing-total-war-warhammer-ii-performance-errors/"><u>Stabilizing Your Gameplay: Addressing Total War: Warhammer II Performance Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-guide-to-solving-latency-issues-and-enhancing-your-rainbow-six-siege-experience/"><u>The Ultimate Guide to Solving Latency Issues & Enhancing Your Rainbow Six Siege Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-phasmophobia-tackling-high-processor-usage/"><u>Troubleshooting Phasmophobia: Tackling High Processor Usage</u></a></li>
 </ul></div>
 

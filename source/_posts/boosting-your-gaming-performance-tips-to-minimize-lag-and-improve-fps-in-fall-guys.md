@@ -1,7 +1,7 @@
 ---
 title: "Boosting Your Gaming Performance: Tips to Minimize Lag & Improve FPS in Fall Guys"
-date: 2024-10-07T17:13:46.053Z
-updated: 2024-10-14T21:47:01.016Z
+date: 2024-10-15T17:09:08.445Z
+updated: 2024-10-20T18:33:53.012Z
 tags:
   - win11
   - win10
@@ -63,18 +63,18 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_10-40-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)**  Click the **Display 1** tab to check your graphics card.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_10-45-46.jpg)
 
  Make sure your computer meets the minimum requirements to run the game, then move on to the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Rule out driver issues
 
@@ -90,16 +90,16 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-20-41.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Double-click**Display adapters** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-23-36.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Right-click the name of your graphics card and select**Properties** .
 
@@ -114,6 +114,13 @@ Follow the instructions below to view your computer hardware information:
 **5)** Select**My apps don’t work with this driver** , then click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-37-13.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now try launching your game again to see if this has resolved your issue. If your issues continue to occur, try updating your device drivers.
 
@@ -133,23 +140,9 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-43-32.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-43-38.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -189,16 +182,16 @@ If the game still freezes, then move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-52-08.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click **Verify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-52-13.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Epic Games Launcher will fix corrupted or missing game files if it detects any. Wait for the scans to be complete, then relaunch _Borderlands 3_ to check if this has fixed your issue.
 
@@ -216,6 +209,13 @@ If your issue persists, check the fix below.
 **1)**  Right-click your taskbar and select **Start Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-02-36.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Click the **Processes** tab to see what processes are consuming your resources most.
 
@@ -237,6 +237,13 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-07-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-07-19.jpg)
@@ -246,6 +253,13 @@ If your issue persists, check the fix below.
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-07-25.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Try launching _Borderlands 3_ to see if it works properly now. If not, check the next fix, below.
 
@@ -275,6 +289,13 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-13-29-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_14-04-17.jpg)
@@ -290,13 +311,6 @@ If your issue persists, check the fix below.
 **6)** Click your **C drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-39.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **7)** Click the button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
@@ -326,23 +340,9 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-33-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-33-39.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Right-click the Epics Games, then click **Uninstall/Change** .
 
@@ -377,24 +377,14 @@ If your issue persists, check the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-joining-the-zoom-community-with-ease-on-an-android-device/"><u>[New] Joining the Zoom Community with Ease on an Android Device</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-achieving-professional-quality-remotely/"><u>[Updated] 2024 Approved Achieving Professional Quality Remotely</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-understanding-panoramic-cinema-captures/"><u>2024 Approved Understanding Panoramic Cinema Captures</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-the-secret-ingredient-for-boosting-site-engagement-and-seo-success/"><u>Cookiebot: The Secret Ingredient for Boosting Site Engagement and SEO Success</u></a></li>
-<li><a href="https://program-issues.techidaily.com/current-status-of-xbox-live-are-there-any-issues-or-downtime-today/"><u>Current Status of Xbox Live: Are There Any Issues or Downtime Today?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-fixes-when-msi-afterburner-doesnt-detect-your-gpu-on-recent-windows-versions-windows-1011/"><u>Effective Fixes when MSI Afterburner Doesn't Detect Your GPU on Recent Windows Versions (Windows 10/11)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-for-patching-up-outpost-armageddons-pc-shutdown-glitches/"><u>Effective Solutions for Patching Up Outpost: Armageddon's PC Shutdown Glitches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-roblox-not-launching-problem-top-tips/"><u>Fixing the Roblox Not Launching Problem – Top Tips</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/how-to-get-your-iphone-11-videos-running-smoothly-again-essential-solutions-for-persistent-video-problems/"><u>How to Get Your iPhone 11 Videos Running Smoothly Again: Essential Solutions for Persistent Video Problems</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-how-to-captivate-with-instagrams-live-feature/"><u>In 2024, How to Captivate with Instagram's Live Feature</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-system-performance-to-reduce-high-cpu-usage-by-god-of-war/"><u>Optimizing System Performance to Reduce High CPU Usage by God of War</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-issue-continuous-freezing-and-shutdowns-of-nox-player-on-pc-explained/"><u>Resolved Issue: Continuous Freezing and Shutdowns of Nox Player on PC Explained</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-pc-stuttering-in-minecraft-with-2023s-latest-fixes-and-hacks/"><u>Resolving PC Stuttering in Minecraft With 2023'S Latest Fixes and Hacks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/secure-your-scare-how-to-prevent-and-solve-crash-issues-in-fnaf-for-windows-players/"><u>Secure Your Scare: How to Prevent and Solve Crash Issues in FNaF for Windows Players</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steam-friends-network-now-accessible-after-troubleshooting-guide-success/"><u>Steam Friend's Network Now Accessible After Troubleshooting Guide Success</u></a></li>
-<li><a href="https://win-able.techidaily.com/steam-vr-malfunctions-heres-how-you-can-solve-them-swiftly/"><u>Steam VR Malfunctions? Here's How You Can Solve Them Swiftly!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-futility-of-crushing-the-smartphone-industry-companies-cant-make-it-vanish/"><u>The Futility of Crushing the Smartphone Industry - Companies Can’t Make It Vanish.</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-live-chat-with-woocommerce-leading-into-the-live-selling-world/"><u>Updated In 2024, Live Chat With WooCommerce Leading Into the Live Selling World</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726227848535-windows/"><u>Windows用動的プレゼンテーションツール「ムヴァヴィスライドメーカー」の使い方</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-essential-guide-to-musical-feed-posts-on-instagram/"><u>2024 Approved The Essential Guide to Musical Feed Posts on Instagram</u></a></li>
+<li><a href="https://win11.techidaily.com/cant-open-exe-files-on-windows-try-these-fixes/"><u>Can’t Open EXE Files on Windows? Try These Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-correcting-amds-ryzen-master-driver-installation-issues/"><u>Effective Solutions for Correcting AMD's Ryzen Master Driver Installation Issues</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/evolving-narratives-in-virtual-cinema-landscapes-for-2024/"><u>Evolving Narratives in Virtual Cinema Landscapes for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-stop-god-of-war-from-frequent-pc-crashes/"><u>Fixing the Issue: How to Stop God of War From Frequent PC Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fresh-celestial-body-encounters-relentless-icy-conditions-strategies-for-adaptation-and-mitigation/"><u>Fresh Celestial Body Encounters Relentless Icy Conditions - Strategies for Adaptation and Mitigation</u></a></li>
+<li><a href="https://article-tips.techidaily.com/mastering-the-art-of-search-engine-optimization-for-podcasts/"><u>Mastering the Art of Search Engine Optimization for Podcasts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-cannot-reach-live-config-servers-a-step-by-step-guide/"><u>Resolving 'Cannot Reach Live Config Servers': A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ten-proven-methods-to-restore-cellular-connectivity-in-your-iphone/"><u>Ten Proven Methods to Restore Cellular Connectivity in Your iPhone</u></a></li>
 </ul></div>
 

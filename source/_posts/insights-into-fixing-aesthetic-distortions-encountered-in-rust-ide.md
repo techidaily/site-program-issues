@@ -1,7 +1,7 @@
 ---
 title: Insights Into Fixing Aesthetic Distortions Encountered in Rust IDE
-date: 2024-10-01T16:14:23.653Z
-updated: 2024-10-08T18:06:12.981Z
+date: 2024-10-19T16:42:39.563Z
+updated: 2024-10-20T18:27:19.701Z
 tags:
   - win11
   - win10
@@ -31,19 +31,6 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
 
 [4: Update your keyboard driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Check for hardware issues
 
  When your keyboard stops working in-game, the first thing you can do is to rule out the possibility of a faulty device. Here are some general troubleshooting steps you can try:
@@ -65,6 +52,13 @@ If you didn’t find any hardware issues, try the next fix.
 
  You may also like:[How to fix wireless keyboard lag?](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Delete Rewired\_DirectInput.dll file
 
  This fix was originally for solving the mouse-not-working problem, but some players found that it worked for keyboard issues too. The developers are working on the keyboard bug, and they suggest users to try this fix as a workaround. Here’s how:
@@ -77,10 +71,10 @@ If you didn’t find any hardware issues, try the next fix.
 3. Navigate to**Wrath\_Data\\Plugins\\x86\_64** .
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. **Make a copy of the Rewired\_DirectInput.dll file** , and save it at somewhere safe. There shouldn’t be any risk to delete this file, but backing up can always help if anything goes wrong.
@@ -88,13 +82,6 @@ If you didn’t find any hardware issues, try the next fix.
 6. Relaunch the game and test the issue.
 
  If this fix doesn’t solve your problem, there’s one more fix you can try.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Update your keyboard driver
 
@@ -112,16 +99,29 @@ If you didn’t find any hardware issues, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-19.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged keyboard driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-35.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -147,24 +147,22 @@ If you didn’t find any hardware issues, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tailored-techniques-to-procure-tweets-gifs/"><u>[Updated] 2024 Approved Tailored Techniques to Procure Tweets GIFs</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-make-your-instagram-posts-pop-with-correct-video-dimensions/"><u>[Updated] Make Your Instagram Posts Pop with Correct Video Dimensions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-poco-x5-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Poco X5 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/9plus-innovative-strategies-for-streaming-live-cricket-events-for-2024/"><u>9+ Innovative Strategies for Streaming Live Cricket Events for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/apeak-recording-examined-quality-and-features-decoded/"><u>Apeak Recording Examined Quality and Features Decoded</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/baldurs-gate-3-stability-problems-on-pc-here-are-the-working-fixes/"><u>Baldur's Gate 3 Stability Problems on PC? Here Are the Working Fixes!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-resolving-f1-2021-game-crashes-on-your-computer/"><u>Fixes and Solutions: Resolving F1 2021 Game Crashes on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/gpu-optimization-fixes-for-cyberpunk-2077-users-on-windows-10-systems/"><u>GPU Optimization Fixes for Cyberpunk 2077 Users on Windows 10 Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/granblue-fantasy-relink-not-working-heres-what-to-do/"><u>Granblue Fantasy Relink Not Working? Here’s What to Do!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-realme-narzo-60-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Realme Narzo 60 5G Easily?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/modern-warfare-2-pc-performance-boosters-fix-these-six-common-causes-of-game-crashes/"><u>Modern Warfare 2 PC Performance Boosters - Fix These Six Common Causes of Game Crashes</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigate-with-ease-unveiling-five-prime-iphone-compatible-gps-apps/"><u>Navigate with Ease: Unveiling Five Prime iPhone-Compatible GPS Apps</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-top-10-free-surveillance-software-options/"><u>New In 2024, Top 10 Free Surveillance Software Options</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-slow-play-solving-league-of-legends-latency-issues/"><u>No More Slow Play – Solving League of Legends Latency Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-guide-overcoming-fortnites-blackout-problem-on-your-windows-machine/"><u>Solution Guide: Overcoming Fortnite's Blackout Problem on Your Windows Machine</u></a></li>
-<li><a href="https://program-issues.techidaily.com/streamlined-strategies-for-a-smooth-cyberpunk-ebrinkdownload-issueson-steam/"><u>Streamlined Strategies for a Smooth Cyberpunk Ebrinkdownload Issues]on Steam</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-launch-issues-of-overwatch-2-in-2/"><u>Troubleshooting Tips: Resolving Launch Issues of Overwatch 2 in 2지급년</u></a></li>
-<li><a href="https://program-issues.techidaily.com/understanding-and-fixing-dual-frame-rate-drops-on-your-personal-computer-solution-found/"><u>Understanding and Fixing Dual Frame Rate Drops on Your Personal Computer - Solution Found!</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/why-windows-beats-out-linux-in-the-game-arena/"><u>Why Windows Beats Out Linux in The Game Arena</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-master-higher-rankings-on-yt-the-best-seo-tips-and-tricks-1-11/"><u>[New] 2024 Approved Master Higher Rankings on YT The Best SEO Tips and Tricks (1-11)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-surveying-with-style-instagrams-polling-protocols-explained/"><u>[New] Surveying with Style Instagram's Polling Protocols Explained</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-close-up-clarity-mastering-teammate-focus/"><u>[Updated] 2024 Approved Close-Up Clarity Mastering Teammate Focus</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-strategy-supreme-the-top-7-battlefield-commanders/"><u>[Updated] Strategy Supreme The Top 7 Battlefield Commanders</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-vivo-s18-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Vivo S18 Pro FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fortnite-update-glitches-heres-how-to-tackle-the-disappearing-entry-point-dilemma/"><u>Fortnite Update Glitches? Here's How to Tackle the Disappearing Entry Point Dilemma</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-do-you-repair-the-sudden-crash-in-ring-of-elysium-solutions-explained/"><u>How Do You Repair the Sudden Crash in Ring of Elysium? Solutions Explained!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-get-elden-rings-multiplayer-mode-back-up-and-running-a-comprehensive-fix/"><u>How to Get Elden Ring's Multiplayer Mode Back Up and Running: A Comprehensive Fix</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000268251-no-sound-in-lost-ark-here-are-the-solutions-you-need/"><u>No Sound in Lost Ark? Here Are the Solutions You Need!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-call-of-duty-warzone-performance-by-activating-the-gpu-on-your-windows-11-machine/"><u>Optimizing Call of Duty: Warzone Performance by Activating the GPU on Your Windows 11 Machine</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-crusader-kings-2-startup-errors-successfully-explained/"><u>Resolving Crusader Kings 2 Startup Errors Successfully Explained</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-improper-installation-issues-with-the-amd-ryzen-master-software/"><u>Resolving Improper Installation Issues with the AMD Ryzen Master Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009181263-revive-the-villainy-fix-noise-failures-in-evil-genius-2-easily/"><u>Revive the Villainy – Fix Noise Failures in 'Evil Genius 2' Easily!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/self-portraits-for-social-media-success-for-2024/"><u>Self-Portraits for Social Media Success for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solution-restoring-functionality-to-your-msi-dragon-center-issues/"><u>Step-by-Step Solution: Restoring Functionality to Your MSI Dragon Center Issues</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-the-ultimate-list-of-adobe-premiere-elements-substitutes/"><u>Updated 2024 Approved The Ultimate List of Adobe Premiere Elements Substitutes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-we-know-about-the-latest-xbox-vr-innovation-price-release-date-and-more-insider-info/"><u>What We Know About the Latest Xbox VR Innovation – Price, Release Date & More Insider Info</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Repairing the Persistent Problem of Metro Exodus PC Crashes
-date: 2024-10-06T16:33:23.793Z
-updated: 2024-10-08T17:15:39.505Z
+date: 2024-10-16T18:56:31.236Z
+updated: 2024-10-20T17:20:49.782Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ Does**Grand Theft Auto** (**GTA** ) **5 stutter**  whenever you’re in the midd
 
  If this fix doesn’t help, don’t worry, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Limit your FPS
 
  The high FPS and extended distance scaling could be the reason for the GTA 5 stuttering issue. To solve it, you could reduce them.
@@ -50,15 +43,15 @@ Does**Grand Theft Auto** (**GTA** ) **5 stutter**  whenever you’re in the midd
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/close.jpg)
 4. Click**Graphics** and find**Refresh Rate** . Keep it around 60Hz or smaller to limit your FPS.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/refresh.jpg)
 5. Relaunch the game to check.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable full-screen optimisations
 
@@ -70,6 +63,20 @@ Does**Grand Theft Auto** (**GTA** ) **5 stutter**  whenever you’re in the midd
 4. In the**Compatibility** mode, check the**Disable full-screen optimisations** box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/full.jpg)
 5. Relaunch the game and check.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update graphics card driver
 
@@ -105,21 +112,14 @@ OR
 4. Relaunch the game and check whether it will stutter or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Turn off VSync
 
@@ -153,21 +153,24 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-behind-the-scenes-youtube-live-thumbnail-secrets/"><u>[New] 2024 Approved Behind the Scenes YouTube Live Thumbnail Secrets</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-found-how-to-get-back-n-blood-game-launching-smoothly-on-windows-versions-win11107/"><u>[Solution Found] How to Get Back N Blood Game Launching Smoothly on Windows Versions (Win11/10/7)</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-crafting-visual-narratives-with-premium-text-tools-in-ae/"><u>[Updated] Crafting Visual Narratives with Premium Text Tools in AE</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unveiling-innovative-cloud-storage-options-in-2s024/"><u>[Updated] Unveiling Innovative Cloud Storage Options in 2S024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-the-art-of-restoring-past-reddit-articles/"><u>2024 Approved Mastering the Art of Restoring Past Reddit Articles</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-oneplus-nord-ce-3-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror OnePlus Nord CE 3 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/best-practices-for-resolving-lag-issues-in-pc-video-games/"><u>Best Practices for Resolving Lag Issues in PC Video Games</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boosting-performance-expert-advice-to-eliminate-minecraft-stutter-on-pc/"><u>Boosting Performance : Expert Advice to Eliminate Minecraft Stutter on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722997320442-cortana-malfunction-heres-what-you-need-to-know/"><u>Cortana Malfunction? Here's What You Need to Know</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminate-launch-issues-7-expert-tactics-against-the-infamous-steam-black-screen-of-2024/"><u>Eliminate Launch Issues: 7 Expert Tactics Against the Infamous Steam Black Screen of 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/finding-lost-facebook-posts-a-recovery-blueprint/"><u>Finding Lost Facebook Posts: A Recovery Blueprint</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-sony-xperia-5-v-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Sony Xperia 5 V to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-team-fortress-2-from-keep-falling-over-a-comprehensive-fix/"><u>How to Stop Team Fortress 2 From Keep Falling Over: A Comprehensive Fix</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-previewed-fb-activity-is-it-safe-or-not-for-2024/"><u>Navigating Previewed FB Activity Is It Safe or Not for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-arcadegeddons-persistent-pc-malfunctions/"><u>Resolved: Fixes for Arcadegeddon's Persistent PC Malfunctions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/where-windows-hides-shot-files/"><u>Where Windows Hides Shot Files</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-purchasing-options-choosing-premium-vs-standard-fixtures-and-whether-they-are-integrated-or-retrofit-options-can-alter-costs/"><u>[Updated] 2024 Approved __Purchasing Options__ Choosing Premium Vs. Standard Fixtures and Whether They Are Integrated or Retrofit Options Can Alter Costs.</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-basic-blueprint-for-seamless-speech-alteration-in-your-windows-sphere/"><u>[Updated] 2024 Approved The Basic Blueprint for Seamless Speech Alteration in Your Windows Sphere</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-all-about-farming-on-ginger-isle/"><u>[Updated] All About Farming on Ginger Isle</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-iphone-gps-applications-our-pick-of-the-top-five/"><u>Best iPhone GPS Applications: Our Pick of the Top Five</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-modern-warfare-fps-issues-addressed-with-recent-game-update/"><u>Call of Duty: Modern Warfare - FPS Issues Addressed with Recent Game Update</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-glitched-graphics-a-guide-for-warzone-players-dealing-with-screen-flares/"><u>Eliminating Glitched Graphics: A Guide for Warzone Players Dealing with Screen Flares</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-for-fixing-phasmophobia-vr-malfunctions-quickly/"><u>Expert Advice for Fixing Phasmophobia VR Malfunctions Quickly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-how-to-stop-your-windows-computer-from-experiencing-blender-application-collapses/"><u>Fix: How to Stop Your Windows Computer From Experiencing Blender Application Collapses</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-combine-mov-files-for-free-5-excellent-options/"><u>In 2024, Combine MOV Files for Free 5 Excellent Options</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-nail-the-art-of-time-lapses-with-your-gopro-hero5-black/"><u>In 2024, Nail the Art of Time-Lapses with Your GoPro Hero5 Black</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-simplify-your-meetings-using-zoom-to-upgrade-skype/"><u>In 2024, Simplify Your Meetings Using Zoom to Upgrade Skype</u></a></li>
+<li><a href="https://program-issues.techidaily.com/microsoft-edge-stability-issues-fixed-in-windows-11-resolved/"><u>Microsoft Edge Stability Issues Fixed in Windows 11 - Resolved</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993013472-resolving-rainbow-six-sieges-error-code-3-0x0001000b-a-comprehensive-guide/"><u>Resolving Rainbow Six Siege's Error Code 3-0X0001000B: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-hitch-successful-activation-of-vanguard-skin-in-valorant-gameplay/"><u>Resolving the Hitch: Successful Activation of Vanguard Skin in Valorant Gameplay</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-flawless-arduino-nano-driver-installation-for-windows-users/"><u>Step-by-Step Tutorial: Flawless Arduino Nano Driver Installation for Windows Users</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/trending-rap-anthems-from-tiktok-stars-for-2024/"><u>Trending Rap Anthems From TikTok Stars for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshoot-your-twitch-viewing-a-guide-with-7-key-fixes-for-loading-problems/"><u>Troubleshoot Your Twitch Viewing: A Guide with 7 Key Fixes for Loading Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-for-persistent-crashing-in-grand-theft-auto-5/"><u>Troubleshooting Guide for Persistent Crashing in Grand Theft Auto 5</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-issues-when-launching-avatar-the-game-on-pandora-frontiers/"><u>Troubleshooting Guide: Resolving Issues When Launching 'Avatar - The Game' On Pandora Frontiers</u></a></li>
 </ul></div>
 

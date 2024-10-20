@@ -1,7 +1,7 @@
 ---
 title: League of Legends Stability Tips - No More Crashing
-date: 2024-08-28T06:37:50.508Z
-updated: 2024-08-29T06:37:50.508Z
+date: 2024-10-16T16:36:23.835Z
+updated: 2024-10-20T18:05:15.475Z
 tags:
   - win11
   - win10
@@ -60,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/37be59bd79492103146c553d037e355365677b206
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -86,21 +83,28 @@ thumbnail: https://thmb.techidaily.com/37be59bd79492103146c553d037e355365677b206
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -114,14 +118,18 @@ thumbnail: https://thmb.techidaily.com/37be59bd79492103146c553d037e355365677b206
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -138,17 +146,24 @@ thumbnail: https://thmb.techidaily.com/37be59bd79492103146c553d037e355365677b206
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -179,8 +194,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +201,23 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-techniques-for-private-yt-content-dissemination-in-gmail-for-2024/"><u>[Updated] Cutting-Edge Techniques for Private YT Content Dissemination in Gmail for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-critical-shortcomings-of-vr-technology/"><u>[Updated] In 2024, Critical Shortcomings of VR Technology</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-master-the-art-of-freezing-out-the-backdrop-in-your-design/"><u>[Updated] In 2024, Master the Art of Freezing Out the Backdrop in Your Design</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/conquering-startup-problems-effective-solutions-for-handling-equipment-error-code-10/"><u>Conquering Startup Problems: Effective Solutions for Handling Equipment Error Code 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/destiny-2s-ultimate-broccoli-crash-patch-of-2024-a-detailed-analysis/"><u>Destiny 2'S Ultimate Broccoli Crash Patch of 2024: A Detailed Analysis</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-repairing-non-functional-voice-chat-due-to-content-warnings/"><u>Expert Tips for Repairing Non-Functional Voice Chat Due to Content Warnings</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-sony-xperia-1-v-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Sony Xperia 1 V</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-poco-c50-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Poco C50 Device</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigate-the-galaxy-and-secure-elite-fps-drops-a-comprehensive-walkthrough-of-mass-effect-legendary-edition/"><u>Navigate the Galaxy and Secure Elite FPS Drops: A Comprehensive Walkthrough of Mass Effect Legendary Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-and-easy-solutions-for-successful-discord-installation-failures/"><u>Quick and Easy Solutions for Successful Discord Installation Failures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722994543080-scavenger-race-victory-guide-master-your-match-on-pc/"><u>Scavenger Race Victory Guide - Master Your Match on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/seamless-gameplay-awaits-resolve-fortnites-launching-glitches-now/"><u>Seamless Gameplay Awaits - Resolve Fortnite's Launching Glitches Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/successfully-installing-tiny-tinas-wonderlands-without-issues-on-your-desktop-computer/"><u>Successfully Installing Tiny Tina's Wonderlands without Issues on Your Desktop Computer</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-realm-of-melodies-where-to-get-hearing-heroes-ringtones/"><u>The Realm of Melodies Where to Get Hearing Heroes' Ringtones</u></a></li>
+<li><a href="https://fox-that.techidaily.com/widget-woes-swift-fixes-to-get-them-running-again-on-your-apple-device/"><u>Widget Woes? Swift Fixes to Get Them Running Again on Your Apple Device</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Motorola Razr 40 | Dr.fone</u></a></li>
+</ul></div>
 

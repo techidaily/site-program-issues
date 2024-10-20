@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix: Resolve KernelBase.dll Freezing Problem Instantly"
-date: 2024-10-11T18:05:36.395Z
-updated: 2024-10-15T00:07:12.848Z
+date: 2024-10-18T19:08:25.849Z
+updated: 2024-10-20T18:24:52.780Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-8.jpg)
 3. Click the**Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
 
@@ -58,16 +65,23 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
@@ -94,36 +108,10 @@ If this method doesn’t help, go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-5.jpg)
 3. Navigate to the following locations:  
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
 4. Delete the**Preferences** and**Caches** folder.
 
 So does the crash go away now? If not, there is the last fix to try.
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Set launch options
 
@@ -134,10 +122,10 @@ So does the crash go away now? If not, there is the last fix to try.
 2. Right-click**Football Manager 2021** and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
@@ -147,10 +135,10 @@ So does the crash go away now? If not, there is the last fix to try.
 4. Type**–config very\_low** in the text field and click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
@@ -182,22 +170,18 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-pros-choice-top-15-luts-for-excellent-gopro-videos/"><u>[New] 2024 Approved Pro's Choice Top 15 LUTs For Excellent GoPro Videos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-enhance-efficiency-engage-creativity-with-mematic/"><u>[Updated] 2024 Approved Enhance Efficiency, Engage Creativity with Mematic</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-dive-into-digital-clarity-the-guide-for-full-hd-on-tweet-for-2024/"><u>[Updated] Dive Into Digital Clarity The Guide for Full HD on Tweet for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-design-thinking-for-content-creators-crafting-impactful-facebook-reels/"><u>[Updated] In 2024, Design Thinking for Content Creators Crafting Impactful Facebook Reels</u></a></li>
-<li><a href="https://program-issues.techidaily.com/defeating-common-issues-your-step-by-step-guide-to-boot-up-borderlands-3-without-fail/"><u>Defeating Common Issues – Your Step-by-Step Guide to Boot Up Borderlands 3 Without Fail</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>How to Bypass FRP on Xiaomi Civi 3 Disney 100th Anniversary Edition?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-your-total-war-warhammer-ii-game-from-crashing-solutions-unveiled/"><u>How to Stop Your Total War: Warhammer II Game From Crashing – Solutions Unveiled</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-poco-f5-pro-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Poco F5 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-tailored-titling-techniques-for-impactful-youtube-channels/"><u>In 2024, Tailored Titling Techniques for Impactful YouTube Channels</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-troubles-discover-how-to-stop-tower-of-fantasy-from-crashing-now/"><u>PC Troubles? Discover How to Stop Tower of Fantasy From Crashing Now</u></a></li>
-<li><a href="https://fox-place.techidaily.com/pc-reset-einfachste-schritte-zur-wiederherstellung-des-alten-systems-profi-anleitungen/"><u>PC-Reset: Einfachste Schritte Zur Wiederherstellung Des Alten Systems | Profi-Anleitungen 🔥</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722987435863-rapid-results-with-star-wars-battlefront-ii-shaders-no-more-stuck-tuning/"><u>Rapid Results with Star Wars Battlefront II Shaders: No More Stuck Tuning</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-common-issues-and-solutions-for-starcraft-2-pc-crashes/"><u>Resolved: Common Issues and Solutions for StarCraft 2 PC Crashes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/solution-guide-installing-the-latest-broadcom-ethernet-driver-on-windows-11/"><u>Solution Guide: Installing the Latest Broadcom Ethernet Driver on Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-resolve-error-code-103003-in-sivaks-cauldron-update/"><u>Step-by-Step Guide to Resolve Error Code 103003 in Sivak's Cauldron Update</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-continuous-failure-making-your-sony-vegas-experience-smooth-and-uninterrupted/"><u>Troubleshooting Continuous Failure: Making Your Sony Vegas Experience Smooth and Uninterrupted</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-the-stuck-boot-phase-of-watch-dogs-legion-effective-solutions/"><u>Troubleshooting the Stuck Boot Phase of Watch Dogs: Legion – Effective Solutions</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-quick-guide-seamless-audio-transitions/"><u>[New] Quick Guide Seamless Audio Transitions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-swipe-right-on-virality-blend-tiktok-trends-into-insta-reels/"><u>[Updated] 2024 Approved Swipe Right on Virality Blend TikTok Trends Into Insta Reels</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-dji-airborne-collection-basic-kit-elite-series-4k-masterclass/"><u>[Updated] In 2024, DJI Airborne Collection Basic Kit, Elite Series, 4K Masterclass</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-ways-to-resolve-frequent-minecraft-dungeon-game-crashes-on-your-computer/"><u>Effective Ways to Resolve Frequent Minecraft Dungeon Game Crashes on Your Computer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hps-visionary-color-display-dissecting-the-z32x-monitor-for-2024/"><u>HP’s Visionary Color Display Dissecting the Z32X Monitor for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/installing-and-updating-your-logitech-g602-mini-gamepad-driver-on-windows-pcs-a-comprehensive-guide/"><u>Installing & Updating Your Logitech G602 Mini Gamepad Driver on Windows PCs: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gamers-tutorial-overcoming-super-persona-disruptions-for-smooth-playthroughs/"><u>PC Gamers' Tutorial: Overcoming Super Persona Disruptions for Smooth Playthroughs</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quick-and-effortless-guide-to-converting-videos-for-your-blackberry-device-2024-edition/"><u>Quick and Effortless Guide to Converting Videos for Your BlackBerry Device - 2024 Edition</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-guide-updating-your-gtx-660-graphics-card-drivers/"><u>Quick Guide: Updating Your GTX 660 Graphics Card Drivers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-vanguard-initiation-errors-for-a-smooth-gameplay-experience-in-valorant/"><u>Resolving Vanguard Initiation Errors for a Smooth Gameplay Experience in Valorant</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-eliminate-rainbow-six-sieges-black-screen-on-your-computer/"><u>Step-by-Step Guide to Eliminate Rainbow Six Siege's Black Screen on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-street-fighter-6-from-crashing-the-top-6-tips-to-optimize-your-pc/"><u>Stop Street Fighter 6 From Crashing: The Top 6 Tips to Optimize Your PC</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-strengths-and-mobility-of-the-pioneer-bdr-xs0ebuilding-review-a-closer-look-at-its-blu-ray-writing-capabilities/"><u>Unveiling the Strengths & Mobility of the Pioneer BDR-XS0ebuilding Review: A Closer Look at Its Blu-Ray Writing Capabilities</u></a></li>
 </ul></div>
 

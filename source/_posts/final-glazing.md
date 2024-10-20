@@ -1,7 +1,7 @@
 ---
 title: Final Glazing
-date: 2024-10-11T02:44:03.864Z
-updated: 2024-10-15T00:28:27.746Z
+date: 2024-10-15T16:01:22.628Z
+updated: 2024-10-20T17:42:01.532Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ FIFA 20 DirectX Error
 4. **[Update DirectX](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Check if your PC meets the system requirements for FIFA 20](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  Perhaps one of the most common causes of a DirectX error on FIFA is an outdated or corrupt graphics driver. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -51,10 +58,10 @@ FIFA 20 DirectX Error
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -68,13 +75,6 @@ FIFA 20 DirectX Error
 5) Play FIFA and check to see if the DirectX error is resolved. If yes, then great! If it still occurs, please move on to **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Unplug ccontrollers
 
@@ -93,6 +93,13 @@ Here is how to do it:
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and**R** at the same time, then type_**C: \\ Users \\% Username% \\ Documents \\ FIFA 20 Demo**_ and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-129.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Double-click on the**fifasetup.ini** file.
 
@@ -118,13 +125,6 @@ Here is how to do it:
  Still no joy? please move on to **Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Check if your PC meets the system requirements for FIFA 20
 
@@ -161,10 +161,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
@@ -194,16 +194,24 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-revamping-your-tiktok-videos-top-3-background-changing-methods-for-2024/"><u>[New] Revamping Your TikTok Videos Top 3 Background Changing Methods for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-streamlining-media-transfer-fb-video-to-whatsapp/"><u>[Updated] Streamlining Media Transfer FB Video to WhatsApp</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210889467-dealing-with-unsuccessful-rpcs-learn-how-to-correct-them-here/"><u>Dealing With Unsuccessful RPCs? Learn How To Correct Them Here!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-destiny-2-bug-overcoming-the-centipede-error/"><u>Fixing Destiny 2 Bug: Overcoming the Centipede Error</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-game-crashes-for-dragon-age-origins-on-new-windows-platform/"><u>How to Prevent Game Crashes for Dragon Age: Origins on New Windows Platform</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-xs-max-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From iPhone XS Max Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Vivo G2 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-the-challenge-of-uninstalling-city-creation-game-2/"><u>Overcoming the Challenge of Uninstalling City Creation Game 2</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/the-next-chapter-in-advertising-key-2024-fb-trends-to-track/"><u>The Next Chapter in Advertising Key 2024 FB Trends to Track</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-issues-when-minecraft-wont-launch/"><u>Troubleshooting Guide: Resolving Issues When Minecraft Won't Launch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-issues-with-pacific-drive-freezing-on-your-computer/"><u>Troubleshooting Tips: Resolving Issues with Pacific Drive Freezing on Your Computer</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-expert-tips-for-capturing-and-saving-igtv-on-handhrani/"><u>[New] 2024 Approved Expert Tips for Capturing and Saving IGTV on Handhrani</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-canva-cinematography-perfecting-music-cropping-and-editing/"><u>[New] Canva Cinematography Perfecting Music Cropping and Editing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-how-to-fade-out-audio-in-logic-pro/"><u>[New] How To Fade Out Audio In Logic Pro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-modulate-your-message-a-top-tier-list-of-voice-change-mobile-apps-for-2024/"><u>[New] Modulate Your Message A Top-Tier List of Voice Change Mobile Apps for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-google-chrome-crashing-easily/"><u>[Solved] Google Chrome Crashing. Easily</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-how-to-produce-high-impact-low-cost-youtube-ads/"><u>2024 Approved How to Produce High-Impact, Low-Cost YouTube Ads?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-dirt-5-pc-malfunctions-effective-troubleshooting-techniques/"><u>Eliminating Dirt 5 PC Malfunctions: Effective Troubleshooting Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-discord-streams-resolving-app-crashes-during-live-broadcasts/"><u>How to Fix Discord Streams: Resolving App Crashes During Live Broadcasts</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-nubia-phone-by-drfone-android/"><u>How to Reset a Locked Nubia Phone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-se-2022-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone SE (2022) without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-chrome-os-talk-modifiers-selecting-the-top-5-cloud-speech-services/"><u>In 2024, Chrome OS Talk Modifiers Selecting the Top 5 Cloud Speech Services</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-wolcen-overcoming-pc-compatibility-and-stability-challenges/"><u>Mastering Wolcen: Overcoming PC Compatibility and Stability Challenges</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quickening-the-pace-resolving-slow-launches-in-fallout-4-gaming-experience/"><u>Quickening the Pace: Resolving Slow Launches in Fallout 4 Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-the-black-screen-problem-in-fallout-4/"><u>Resolved: How to Fix the Black Screen Problem in Fallout 4</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-fix-for-blue-screen-error-in-hell-divers-the-twin-heroes-ii-gameplay/"><u>The Ultimate Fix for 'Blue Screen' Error in Hell Divers: The Twin Heroes II Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-preventing-and-repairing-guilty-gear-strive-pc-instability-issues/"><u>Ultimate Guide: Preventing and Repairing Guilty Gear Strive PC Instability Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-and-resolving-the-stability-issues-causing-king-of-fighters-xv-to-crash-on-pc-systems/"><u>Understanding and Resolving the Stability Issues Causing 'King of Fighters XV' To Crash on PC Systems</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/be-money-matters-how-to-understand-your-partner-payouts/"><u>YouTube Money Matters How to Understand Your Partner Payouts</u></a></li>
 </ul></div>
 

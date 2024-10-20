@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Critical 'Ark' Bug: A Step-by-Step Guide"
-date: 2024-09-20T23:39:13.313Z
-updated: 2024-09-28T09:36:04.604Z
+date: 2024-10-14T17:56:04.423Z
+updated: 2024-10-20T17:48:01.872Z
 tags:
   - win11
   - win10
@@ -46,6 +46,19 @@ We understand how frustrating it can be to run into the freezing issue when play
 
  After the reboot, launch Halo Infinite and test your gameplay. If it still keeps freezing, try the next fix below.
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Update your graphics driver
 
  Your graphics driver is essential for getting top performance from your GPU.**If you’re using an outdated graphics driver** while playing a demanding game such as Halo Infinite, you’re more likely to encounter the freezing issue. In this case, you should update your graphics driver. It can fix performance bottlenecks and introduce improvements that make your game run smoothly.
@@ -62,25 +75,25 @@ We understand how frustrating it can be to run into the freezing issue when play
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After updating drivers, restart your PC and check if your problem has been resolved.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 If updating drivers doesn’t help, try the next fix below.
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Delete temp files
 
@@ -93,26 +106,33 @@ If updating drivers doesn’t help, try the next fix below.
 3. Press the**Ctrl + A keys** simultaneously to select all files. Then right-click and select**Delete** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
 4. If you receive the following prompt, simply check the box next to**Do this for all current items** and click**Skip** .  
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![delete temporary files](https://images.drivereasy.com/wp-content/uploads/2021/08/skip-for-all-current-items.png)
 5. When it finishes deleting all temp files, head to your desktop. Right-click**Recycling Bin** and select**Empty Recycling Bin** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)
 
  Now launch Halo Infinite. If your problem persists, move on to the next fix.
 
@@ -127,13 +147,6 @@ If updating drivers doesn’t help, try the next fix below.
 3. Locate the applications that are eating up a lot of memory. If you don’t need them while playing Halo Infinite, right-click each of them and select**End task** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-background-applications.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you use Razer Synapse, make sure you turn it off while playing Halo Infinite. Some players found that it affects your gameplay. It could be possible that Razer Synapse is in conflict with your game.
 
@@ -152,26 +165,13 @@ To verify the integrity of your game files, follow the steps below:
 3. Select the**LOCAL FILES** tab. Then click**Verify integrity of game files…** .  
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-integrity-of-game-fiiles.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now Steam will verify your game’s files. This process may take several minutes. Once the process is completed, close the Window then launch your game. If it still keeps freezing, move on to the next fix.
 
@@ -189,13 +189,6 @@ To verify the integrity of your game files, follow the steps below:
 
 If this doesn’t help, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Disable in-game overlay
 
  Halo Infinite’s in-game overlay is a feature that aims to improve your gaming experience. But sometimes they just do the opposite of that, eating up bandwidth or introducing compatibility problems. In this case, you’ll need to disable it. Follow the instructions below to do so.
@@ -207,10 +200,10 @@ If this doesn’t help, try the next fix below.
 3. Select the**GENERAL** tab. Then uncheck**Enable the Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-in-game-overlay.png)
@@ -226,6 +219,13 @@ If this doesn’t help, try the next fix below.
 3. Click **Start Repair** to start the repair process and wait for Fortect to fix the problem.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 When it’s completed, launch Halo Infinite and test the gameplay.
 
@@ -250,22 +250,16 @@ When it’s completed, launch Halo Infinite and test the gameplay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-navigating-playlist-creation-on-youtube-easily/"><u>[New] 2024 Approved Navigating Playlist Creation on YouTube Easily</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-captivating-video-content-tips-for-pinterest-boards-for-2024/"><u>[New] Captivating Video Content Tips for Pinterest Boards for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-which-is-superior-for-editing-bandicam-or-camtasia/"><u>[New] In 2024, Which Is Superior for Editing Bandicam or Camtasia?</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-convenient-method-to-design-original-shorts-thumbnails/"><u>[Updated] In 2024, Convenient Method to Design Original Shorts Thumbnails</u></a></li>
-<li><a href="https://program-issues.techidaily.com/battlefield-v-pc-crash-issues-solutions-found/"><u>Battlefield V PC Crash Issues - Solutions Found!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/five-easy-troubleshooting-steps-to-get-genshin-impact-running-smoothly/"><u>Five Easy Troubleshooting Steps to Get Genshin Impact Running Smoothly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-incompatible-device-warning-on-rainbow-six-extraction-games/"><u>Fixing the Incompatible Device Warning on Rainbow Six Extraction Games</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-lava-blaze-pro-5g-phone-by-drfone-android/"><u>How to Reset a Locked Lava Blaze Pro 5G Phone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-playtime-preventing-manor-lords-from-crashing-on-your-computer/"><u>Optimizing Playtime: Preventing Manor Lords From Crashing on Your Computer</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-adobe-issues-fixing-the-error-code-c0000022/"><u>Resolving Adobe Issues: Fixing the Error Code C0000022</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-gaming-experience-how-to-fix-common-world-of-warcraft-crashes-quickly/"><u>Smooth Gaming Experience: How to Fix Common World of Warcraft Crashes Quickly</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/sound-science-for-language-success-music-and-effective-strategies/"><u>Sound Science for Language Success - Music & Effective Strategies</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-resolving-microsoft-edge-crashes-on-windows-11-systems/"><u>Troubleshooting and Resolving Microsoft Edge Crashes on Windows 11 Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-overcoming-darkness-inflicted-pc-game-freezes/"><u>Troubleshooting Guide: Overcoming Darkness-Inflicted PC Game Freezes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-made-simple-successful-discord-setup-without-the-hurdles/"><u>Troubleshooting Made Simple: Successful Discord Setup Without the Hurdles</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-how-to-remove-tiktok-watermarks-best-online-methods/"><u>Updated In 2024, How to Remove TikTok Watermarks Best Online Methods</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/video-reverse-technique-iphone-expertise-guide/"><u>Video Reverse Technique IPhone Expertise Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-a-comprehensive-guide-to-locating-and-creating-superb-instagram-alarms/"><u>[New] A Comprehensive Guide to Locating and Creating Superb Instagram Alarms</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-premier-eco-cinema-tech-usage-and-mastery-for-2024/"><u>[New] Premier Eco-Cinema Tech Usage and Mastery for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/bypass-the-hassle-effective-strategies-for-rapid-fix-of-itunes-error-code-14-discover-how-in-under-10-steps/"><u>Bypass the Hassle: Effective Strategies for Rapid Fix of iTunes Error Code 14 - Discover How in Under 10 Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cant-get-steam-remote-play-running-discover-the-best-troubleshooting-techniques-here/"><u>Can't Get Steam Remote Play Running? Discover the Best Troubleshooting Techniques Here!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeat-the-dreaded-crash-repair-strategies-for-helldivers-n-blue-screen-mishap/"><u>Defeat the Dreaded Crash: Repair Strategies for Helldivers N Blue Screen Mishap</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nedge-coder-for-2024/"><u>ImaginEdge Coder for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-xiaomi-redmi-k70-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Xiaomi Redmi K70 Screen | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/movavi-mp4-mp4/"><u>Movavi MP4 형식을 무료 MP4로 온라인 전환 - 원두</u></a></li>
+<li><a href="https://program-issues.techidaily.com/star-wars-the-old-republic-not-working-heres-how-to-get-it-running-smoothly-again/"><u>Star Wars The Old Republic Not Working? Here's How to Get It Running Smoothly Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-dragon-age-origins-crashes-in-windows-11-effective-solutions-and-tips/"><u>Troubleshooting Dragon Age: Origins Crashes in Windows 11 - Effective Solutions and Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-solving-dragon-age-origins-freezes-on-windows-11/"><u>Troubleshooting Guide: Solving Dragon Age: Origins Freezes on Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved Issue: Regain Your Login Privileges on Origin Today"
-date: 2024-10-01T15:33:09.538Z
-updated: 2024-10-02T17:55:36.209Z
+date: 2024-10-14T17:48:55.907Z
+updated: 2024-10-20T16:01:34.863Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Install the latest Fortnite patch
 
  The developers of Fortnite release regular game patches to fix bugs. It’s possible that a recent patch has stopped you from logging into the game, and that a new patch is required to fix it.
@@ -51,11 +44,32 @@ thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b
 2. On the left panel, click**Library** . On the right, click **the gear button** on the lower-right corner of **Fortnite** .  
 ![Fix 1 step 2](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-1-step-2.png)
 3. **Turn on** the toggle next to **Auto update** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-2-step-3.png)
 4. Restart Epic Games Launcher.
 5. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.
 
  Run Fortnite again to check if you can log into the game or not. If it not, or there was no new game patch available, move on to Fix 2, below.
+
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Reboot your network
 
@@ -66,10 +80,10 @@ thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b
 ![wireless router](https://images.drivereasy.com/wp-content/uploads/2018/10/wireless-router.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2. **Plug in** your network devices again and wait until the indicator lights are back to its normal state.
@@ -95,13 +109,6 @@ See if you can log in or not. if not, try the next fix, below.
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-5-step-1.jpg)
 2. In Command Prompt, type**netsh winsock reset**  and press **Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![netsh winsock reset](https://images.drivereasy.com/wp-content/uploads/2018/10/netsh-winsock-reset.jpg)
 3. **Restart** your PC to complete the reset.
 
@@ -118,18 +125,19 @@ See if you can log in or not. if not, try the next fix, below.
 2. Type the command line**ipconfig /flushdns**  and press **Enter**  on your keyboard.  
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### To renew your IP
 
 1. On your keyboard, press**the Windows Logo Key** and **R** at the same time to open the Run dialog. Type **cmd**  and then press **Ctrl** , **Shift**  and **Enter**  on your keyboard at the same time to **run the Command Prompt as administrator** . You will be prompted for permission. Click **Yes** to run the **Command Prompt** .  
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-5-step-1.jpg)
 2. Type the command line**ipconfig /release**  and press **Enter**  on your keyboard.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ipconfig release](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-release.jpg)
 3. Type the command line**ipconfig /renew**  and press **Enter**  on your keyboard.  
 
@@ -137,13 +145,6 @@ See if you can log in or not. if not, try the next fix, below.
 4. Launch Fortnite.
 
  See if you can log in or not. If this issue persists, try updating your network driver to the latest version.
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Update your network driver
 
@@ -171,14 +172,14 @@ See if you can log in or not. if not, try the next fix, below.
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)  
 ![Update Broadcom 802.11.ac Network Adapter driver](https://images.drivereasy.com/wp-content/uploads/2018/12/Update-Broadcom-802.11.ac-Network-Adapter-driver.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Avoid wireless interference
 
@@ -202,14 +203,14 @@ See if you can log in or not. if not, try the next fix, below.
 ![LAN Settings](https://images.drivereasy.com/wp-content/uploads/2018/10/LAN-Settings.jpg)
 4. If you’re using a VPN or a third-party proxy sever,**disable** it.
 
- Launch Fortnite to see if you can log in or not. If not, try the next fix to change the DNS server.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Launch Fortnite to see if you can log in or not. If not, try the next fix to change the DNS server.
 
 ### Fix 9: Change the DNS server
 
@@ -222,13 +223,6 @@ See if you can log in or not. if not, try the next fix, below.
 ![Control Panel](https://images.drivereasy.com/wp-content/uploads/2018/10/Control-Panel.jpg)
 3. In the pop-up window, click**Change adapter settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Change adapter settings](https://images.drivereasy.com/wp-content/uploads/2018/10/Change-adapter-settings.jpg)
 4. **Right-click** your current network and then select **Properties** .  
 
@@ -238,6 +232,19 @@ See if you can log in or not. if not, try the next fix, below.
 6. Select**Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.  
 ![TCP/IPv4 Properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Internet-protocol-verison-4-properties.jpg)
 7. Restart your PC and launch Fortnite.
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 See if you can log in or not. If not, try the next fix.
 
@@ -250,6 +257,13 @@ See if you can log in or not. If not, try the next fix.
 1. On your keyboard, press**Ctrl** , **Shift** and **Esc** at the same time to open the **Task Manager** .
 2. **Right-click** the bandwidth hogging applications and then select **End task** .  
 ![Task Manager](https://images.drivereasy.com/wp-content/uploads/2018/10/Task-Manager.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Launch Fortnite to see if you can log in or not.
 
@@ -274,18 +288,22 @@ Launch Fortnite to see if you can log in or not.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-windows-pc-broadcasting-prodigy-mastering-the-art-of-live-tv-recording-for-2024/"><u>[New] Windows PC Broadcasting Prodigy Mastering the Art of Live TV Recording for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-essential-platforms-secure-and-reliable-video-services-for-smes-for-2024/"><u>[Updated] Essential Platforms Secure & Reliable Video Services for SMEs for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-unlock-social-media-secrets-with-instagram-insights/"><u>2024 Approved Unlock Social Media Secrets with Instagram Insights</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-steps-to-resolve-lagging-and-connections-in-new-world-update/"><u>Easy Steps to Resolve Lagging & Connections in 'New World' Update</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancing-gameplay-quality-in-avatar-the-games-frontiers-of-pandora-combatting-low-frame-rates-and-glitches/"><u>Enhancing Gameplay Quality in 'Avatar: The Game's Frontiers of Pandora': Combatting Low Frame Rates & Glitches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-to-resolve-problems-with-launching-your-new-monster-hunter-game/"><u>Expert Tips to Resolve Problems with Launching Your New Monster Hunter Game</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/harnessing-the-power-of-conversational-ai-for-a-steady-meditation-schedule/"><u>Harnessing the Power of Conversational AI for a Steady Meditation Schedule</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-successfully-fix-a-failed-connectivity-on-new-world/"><u>How to Successfully Fix a Failed Connectivity on 'New World'</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-honor-x9b-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Honor X9b</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-oppo-find-x6-pro-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Oppo Find X6 Pro and Browser | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-nokia-c22-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Nokia C22 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolve-your-fortnite-login-failed-issue-in-minutes-step-by-step-guide/"><u>Resolve Your 'Fortnite Login Failed' Issue in Minutes - Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-continuous-restarts-of-pacific-drive-in-windows-environments/"><u>Troubleshooting Continuous Restarts of Pacific Drive in Windows Environments</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-interactive-learning-strategies-in-video-editing/"><u>[New] Interactive Learning Strategies in Video Editing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-disco-elysium-crashing-on-pc/"><u>[SOLVED] Disco Elysium Crashing on PC</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-bypassing-hurdles-seamless-pc-file-integration-tips-and-tricks/"><u>[Updated] Bypassing Hurdles Seamless PC File Integration Tips and Tricks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-superior-hd-visual-capture-and-recorders/"><u>[Updated] In 2024, Superior HD Visual Capture and Recorders</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/avchd-mts-converter-for-galaxy-m54-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD MTS Converter for Galaxy M54 5G</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-launch-errors-in-monster-hunter-rise-expert-advice-and-tricks/"><u>Bypassing Launch Errors in Monster Hunter Rise: Expert Advice & Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-script-execution-with-newly-minted-run-software/"><u>Elevate Script Execution with Newly Minted Run Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-lost-ark-server-connection-failures-a-comprehensive-guide/"><u>How to Overcome Lost Ark Server Connection Failures: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/instantly-convert-mov-to-mkv-for-free-using-the-movavi-media-converter/"><u>Instantly Convert MOV to MKV for Free Using the Movavi Media Converter</u></a></li>
+<li><a href="https://program-issues.techidaily.com/lag-free-racing-experience-eliminating-slowdown-issues-in-forza-horizon-5/"><u>Lag-Free Racing Experience: Eliminating Slowdown Issues in Forza Horizon 5</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mafia-definitive-edition-delay-clarified-and-solution-found-awaiting-launch/"><u>Mafia: Definitive Edition Delay Clarified and Solution Found – Awaiting Launch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-errgfxstate-issue-in-red-dead-redemption-2-a-comprehensive-guide/"><u>Resolving the ERR_GFX_STATE Issue in Red Dead Redemption 2: A Comprehensive Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/sky-magnificence-in-focus-leading-websites-uncovered/"><u>Sky Magnificence in Focus Leading Websites Uncovered</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-league-of-legends-from-freezing-a-step-by-step-guide/"><u>Stop League of Legends From Freezing: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-final-solution-to-rectify-visual-distortion-in-rust-programming/"><u>The Final Solution to Rectify Visual Distortion in Rust Programming</u></a></li>
+<li><a href="https://win-special.techidaily.com/usb-file-sync-on-the-go-free-tool-for-auto-duplicating-files/"><u>USB File Sync On-the-Go: Free Tool for Auto Duplicating Files</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/vobwmvwindows/"><u>VOBファイルをWMV形式に変換するためのWindows対応ガイド</u></a></li>
 </ul></div>
 

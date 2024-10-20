@@ -1,7 +1,7 @@
 ---
 title: Ultimate Step-by-Step Guide to Stop FIFA 21 From Crashing on Windows
-date: 2024-10-04T17:40:55.717Z
-updated: 2024-10-08T16:03:53.352Z
+date: 2024-10-17T17:04:58.341Z
+updated: 2024-10-20T19:05:54.355Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -67,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -96,13 +82,6 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -121,6 +100,13 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
@@ -132,10 +118,10 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
@@ -148,16 +134,16 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
@@ -177,9 +163,23 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -203,20 +203,19 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-10-non-native-screen-capture-applications/"><u>[Updated] Top 10 Non-Native Screen Capture Applications</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youtubes-essential-learning-resources-for-upcoming-directors/"><u>[Updated] YouTube's Essential Learning Resources for Upcoming Directors</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/diagnosing-and-resolving-the-not-found-error-a-step-by-step-guide-to-restoring-ocidll/"><u>Diagnosing and Resolving the 'Not Found' Error: A Step-by-Step Guide to Restoring 'oci.dll'</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-12-pro-max-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/find-a-common-denominator-for-the-fractions-on-the-left-side-of-the-equation-the-least-common-multiple-lcm-of-5-and-n-is-20-so-we-will-use-that-as-our-commo413/"><u>Find a Common Denominator for the Fractions on the Left Side of the Equation. The Least Common Multiple (LCM) of 5 and N Is 20, so We Will Use that as Our Common Denominator</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-crusader-kings-iii-not-working-properly-on-your-windows-pc/"><u>Fixes and Solutions: Crusader Kings III Not Working Properly on Your Windows PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-the-common-rust-visual-malfunction/"><u>How to Fix the Common Rust Visual Malfunction</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/iphone-connectivity-problems-with-itunes-for-windows-10-users-solved/"><u>IPhone Connectivity Problems with iTunes for Windows 10 Users – Solved</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/leading-edge-in-video-creation-top-10-gadgets-for-2024/"><u>Leading Edge in Video Creation - Top 10 Gadgets for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-the-ultimate-list-of-10-image-to-video-makers-online/"><u>New In 2024, The Ultimate List of 10 Image to Video Makers Online</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/paint-picture-humor-for-2024/"><u>Paint Picture Humor for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-players-guide-resolving-persistent-lag-and-crashes-in-lost-ark/"><u>PC Players' Guide: Resolving Persistent Lag and Crashes in Lost Ark</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-importance-of-keeping-active-wins-11-notification-sounds/"><u>The Importance of Keeping Active Wins 11 Notification Sounds</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-adobe-after-effects-fixing-crashes-on-windows-11-and-10/"><u>Troubleshooting Adobe After Effects: Fixing Crashes on Windows 11 and 10</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-top-10-screen-capture-tools-for-educators-for-2024/"><u>[New] Top 10 Screen Capture Tools for Educators for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-top-5-methods-to-record-high-quality-audio-on-windows/"><u>[New] Top 5 Methods to Record High-Quality Audio on Windows</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-three-easy-iphone-methods-for-integrating-songs-into-videos/"><u>[Updated] Three Easy iPhone Methods for Integrating Songs Into Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-tecno-spark-20c-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Tecno Spark 20C to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/6-top-fixes-for-a-non-functional-obs-microphone-updated-guide-2024/"><u>6 Top Fixes for a Non-Functional OBS Microphone - Updated Guide 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-fixes-for-when-the-outer-worlds-keeps-crashing-on-pc/"><u>Essential Fixes for When 'The Outer Worlds' Keeps Crashing on PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-honor-v-purse-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Honor V Purse For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-xr-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone XR without Passcode or Face ID</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-realme-c51-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Realme C51 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-truth-behind-the-postponement-of-guilty-gear-strive-launch/"><u>The Truth Behind the Postponement of Guilty Gear Strive Launch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-methods-for-enhancing-your-ark-sanctuary-fps-performance-on-pc/"><u>Top Methods for Enhancing Your ARK: Sanctuary FPS Performance on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/uninterrupted-gaming-remedying-frequent-breakdowns-of-ffxiv-for-pc-users/"><u>Uninterrupted Gaming - Remedying Frequent Breakdowns of FFXIV for PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/your-guide-to-shopping-for-televisions-online-top-6-retailers-revealed/"><u>Your Guide to Shopping for Televisions Online: Top 6 Retailers Revealed</u></a></li>
 </ul></div>
 

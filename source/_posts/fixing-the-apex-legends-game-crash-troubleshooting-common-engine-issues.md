@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Apex Legends Game Crash: Troubleshooting Common Engine Issues"
-date: 2024-10-08T18:08:40.967Z
-updated: 2024-10-15T01:08:14.718Z
+date: 2024-10-14T17:43:37.686Z
+updated: 2024-10-20T17:27:26.064Z
 tags:
   - win11
   - win10
@@ -43,10 +43,10 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0209829f51.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -71,6 +71,13 @@ Here is how to grant administrative privileges to Apex Legends:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-564.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In File Explorer, right click on **Apex Legends .exe**  and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-565.png)
@@ -91,6 +98,13 @@ Here is how to verify game files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-439-1024x522.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Right-click on**Apex Legends** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-561.png)
@@ -99,23 +113,9 @@ Here is how to verify game files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Once done, run Apex Legends and check if the engine error is fixed. If yes, then great! If the issue persists, please move on to**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Edit Registry
 
@@ -129,13 +129,6 @@ Here are the steps to add the command line:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-474.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) Add the following command to the text document.
 
 Windows Registry Editor Version 5.00
@@ -145,16 +138,10 @@ Windows Registry Editor Version 5.00
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-475.png)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**File** \>**Save as…**
@@ -164,6 +151,13 @@ Windows Registry Editor Version 5.00
  4) Save the file name as**fix.reg** and select the type as**All files** . then click Save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-477.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Click**Yes** once you’re prompted about the message.
 
@@ -191,18 +185,24 @@ Windows Registry Editor Version 5.00
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-elevate-your-content-a-compreranial-guide-to-template-driven-tiktok-videos/"><u>[New] In 2024, Elevate Your Content A Compreranial Guide to Template-Driven TikTok Videos</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-unlock-your-creative-potential-with-audio-edits-in-canva-videos/"><u>[New] In 2024, Unlock Your Creative Potential with Audio Edits in Canva Videos</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-implementing-stunning-visual-effects-on-zoom-calls-for-2024/"><u>[Updated] Implementing Stunning Visual Effects on Zoom Calls for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005843271-easy-fixes-for-fall-guys-crashing-upon-startup-get-back-in-the-game/"><u>Easy Fixes for Fall Guys Crashing Upon Startup – Get Back in the Game</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-tecno-pop-8-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Tecno Pop 8</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-superior-webcam-gear-for-podcasters/"><u>In 2024, Superior Webcam Gear for Podcasters</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pioneering-artificial-intelligence-for-superior-online-scouring/"><u>Pioneering Artificial Intelligence for Superior Online Scouring</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-strategies-for-phoenix-points-game-crashing-glitches-now-fixed/"><u>Solution Strategies for Phoenix Point's Game-Crashing Glitches Now Fixed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steam-troubleshooting-successfully-removing-file-restrictions/"><u>Steam Troubleshooting: Successfully Removing File Restrictions</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/mline-your-seo-strategy-with-the-leading-7-online-youtube-tags-tools-for-2024/"><u>Streamline Your SEO Strategy with the Leading 7 Online Youtube Tags Tools for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/the-secrets-of-successfully-posting-imovie-videos-on-vimeo-for-2024/"><u>The Secrets of Successfully Posting iMovie Videos on Vimeo for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-sony-xperia-1-v-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Sony Xperia 1 V to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-prevent-robocop-rogue-city-from-freezing-or-crashing-during-pc-playthrough/"><u>Ultimate Guide to Prevent RoboCop: Rogue City From Freezing or Crashing During PC Playthrough</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-p2715q-4k-display-unveiled-a-comprehensive-analysis/"><u>[New] 2024 Approved P2715Q 4K Display Unveiled A Comprehensive Analysis</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-innovative-strategies-for-amplifying-subscriber-numbers-via-channel-branding/"><u>[New] Innovative Strategies for Amplifying Subscriber Numbers via Channel Branding</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-explore-the-best-8-mirrorless-cameras-for-youtube-vloggers/"><u>[Updated] 2024 Approved Explore the Best 8 Mirrorless Cameras for YouTube Vloggers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-flashfreeze-video-cut-out-instruction-for-2024/"><u>[Updated] FlashFreeze Video Cut-Out Instruction for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-compare-and-contrast-best-software-for-screen-grabs-obsfraps/"><u>[Updated] In 2024, Compare and Contrast Best Software for Screen Grabs (OBS/Fraps)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-streamlining-video-communication-in-laptop-using-whatsapp-desktop/"><u>[Updated] Streamlining Video Communication in Laptop Using WhatsApp Desktop</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-2d-to-spatial-the-evolution-of-cinematic-videos/"><u>2024 Approved From 2D to Spatial The Evolution of Cinematic Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-on-resolving-utorrents-not-responding-situation-with-7-key-solutions/"><u>Expert Advice on Resolving UTorrent's Not Responding Situation with 7 Key Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722998736180-fixing-the-dark-screen-glitch-in-call-of-duty-wwii-for-pc-users-solved/"><u>Fixing the Dark Screen Glitch in Call of Duty WWII for PC Users - Solved!</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>How to Get and Use Pokemon Go Promo Codes On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-make-a-video-from-photo-with-music-for-2024/"><u>How to Make a Video From Photo with Music for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-use-the-portable-version-of-driver-easy/"><u>How to Use the Portable Version of Driver Easy</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-issue-crusader-kings-iii-no-longer-crashing-on-windows-computers/"><u>Resolved Issue: Crusader Kings III No Longer Crashing on Windows Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-steps-for-fixing-wwe-2k22-pc-game-crashes/"><u>Resolved: Troubleshooting Steps for Fixing WWE 2K22 PC Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revised-solution-to-prevent-software-name-from-collapsing-on-your-computer/"><u>Revised Solution to Prevent [Software Name] From Collapsing on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-maplestorys-initialization-errors-successfully/"><u>Troubleshooting Guide: Fixing Maplestory's Initialization Errors Successfully</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-overcoming-the-persistent-loading-hurdle-in-among-us-gameplay/"><u>Troubleshooting Tips: Overcoming the Persistent Loading Hurdle in Among Us Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unraveling-the-secrets-behind-star-wars-battlefront-2s-notorious-pitch-black-display-fault-fixes/"><u>Unraveling the Secrets Behind Star Wars Battlefront 2'S Notorious Pitch-Black Display Fault Fixes</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-google-play-services-keeps-stopping-on-oppo-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What to Do if Google Play Services Keeps Stopping on Oppo A2 | Dr.fone</u></a></li>
 </ul></div>
 

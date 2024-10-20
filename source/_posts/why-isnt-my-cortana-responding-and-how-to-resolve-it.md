@@ -1,7 +1,7 @@
 ---
 title: Why Isn't My Cortana Responding and How to Resolve It?
-date: 2024-10-03T21:17:15.940Z
-updated: 2024-10-08T20:10:49.717Z
+date: 2024-10-18T18:27:01.911Z
+updated: 2024-10-20T17:45:32.094Z
 tags:
   - win11
   - win10
@@ -47,6 +47,13 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Right-click **Elite Dangerous**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
@@ -60,13 +67,6 @@ This could take several minutes. Wait for the process to be complete.
 **5)**  Relaunch your game to test the issue.
 
  Still failing? Try the next solution to update your graphics driver to the most recent version.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3 – Update your graphics driver
 
@@ -84,6 +84,13 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
@@ -93,13 +100,6 @@ This could take several minutes. Wait for the process to be complete.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch the game to test your issue. If the crash still occurs, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4 – Stop overclocking
 
@@ -117,22 +117,15 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Restart your game to see if it runs correctly now.
 
 Your game still won’t work correctly? Read on and try Fix 5.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6 – Lower your graphics settings
@@ -148,10 +141,10 @@ Your game still won’t work correctly? Read on and try Fix 5.
 If the crashing still happens, continue with the next solution below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 7 – Run the game in Windowed mode
@@ -161,6 +154,13 @@ If the crashing still happens, continue with the next solution below.
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-03-22.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Copy **%localappdata%Frontier DevelopmentsElite DangerousOptionsGraphics** and paste it into the text box, then press**Enter** .
 
@@ -193,22 +193,22 @@ If the crashing still happens, continue with the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-adding-impact-strategies-for-youtubes-last-impressions/"><u>[New] In 2024, Adding Impact Strategies for Youtubes' Last Impressions</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-aiseesoft-screen-recorder-review/"><u>[New] In 2024, Aiseesoft Screen Recorder Review</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-microsoft-screen-recorder-download-and-use-guide-for-2024/"><u>[New] Microsoft Screen Recorder Download and Use Guide for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-public-melodies-for-calmness/"><u>[New] Public Melodies for Calmness</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-sync-facebook-media-for-larger-display-views/"><u>[New] Sync Facebook Media for Larger Display Views</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-unveiling-secrets-how-to-dominate-fb-searches-with-these-10-hacks/"><u>[New] Unveiling Secrets How to Dominate FB Searches with These 10 Hacks</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-winter-sports-photography-choosing-the-right-camera/"><u>[Updated] 2024 Approved Winter Sports Photography Choosing the Right Camera</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-set-up-grid-layout-for-google-meet-participants-viewing/"><u>[Updated] In 2024, Set Up Grid Layout for Google Meet Participants' Viewing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-discord-crash-issues-in-just-5-easy-steps/"><u>Fix Your Discord Crash Issues in Just 5 Easy Steps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-constant-crash-of-microsoft-teams-assistant-on-windows/"><u>Fixing the Constant Crash of Microsoft Teams Assistant on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-diagnose-and-repair-malfunctions-in-gamer-oriented-utility-centers-like-raijinteks-afterburner/"><u>How to Diagnose & Repair Malfunctions in Gamer-Oriented Utility Centers Like Raijintek's Afterburner</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-rocket-league-stability-proven-fixes-to-keep-it-running-smoothly-in-2s24/"><u>Master Rocket League Stability: Proven Fixes to Keep It Running Smoothly in 2S24</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-for-helldivers-ii-boot-failure-and-dark-startup/"><u>Step-by-Step Solution for Helldivers II Boot Failure and Dark Startup</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-starting-problems-in-grand-theft-auto-v/"><u>Troubleshooting Guide: Starting Problems in Grand Theft Auto V</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-live-server-connection-failure-alerts/"><u>Troubleshooting Tips for 'Live Server Connection Failure' Alerts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fix-guide-resolving-biomutant-game-crashes/"><u>Ultimate Fix Guide: Resolving Biomutant Game Crashes</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-activating-built-in-recorders-on-mate-and-p-series-phones-mate-1020-p2010/"><u>[New] 2024 Approved Activating Built-In Recorders on Mate and P Series Phones (Mate 10/20; P20/10)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-best-tripod-for-iphone-and-android-smartphone/"><u>[Updated] The Best Tripod for iPhone and Android Smartphone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-infinix-zero-5g-2023-turbo-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Infinix Zero 5G 2023 Turbo Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/anno-1800-and-directx-compatibility-solving-the-game-breaking-glitch/"><u>Anno 1800 & DirectX Compatibility: Solving the Game-Breaking Glitch!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-ways-to-prevent-crashes-in-outpost-infinity-on-your-pc-gaming-experience/"><u>Effective Ways to Prevent Crashes in Outpost: Infinity on Your PC Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-gaming-experience-solutions-for-smoother-gameplay-and-higher-fps-in-warzone/"><u>Enhance Gaming Experience: Solutions for Smoother Gameplay & Higher FPS in Warzone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-resolve-gameplay-interruptions-and-crashes-in-persona-4-golden/"><u>Guide to Resolve Gameplay Interruptions & Crashes in Persona 4 Golden</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-play-mkv-movies-on-edge-40-pro-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do I play MKV movies on Edge 40 Pro?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-sons-of-midgard-unite-epic-release/"><u>In 2024, Sons of Midgard Unite! Epic Release</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-hl-lags-or-crashes-how-to-stabilize-pc-for-hell-let-loose/"><u>No More HL Lags or Crashes: How to Stabilize PC for Hell Let Loose</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-issues-with-geforce-experience-not-opening-an-easy-fix/"><u>Overcoming Issues with GeForce Experience Not Opening: An Easy Fix</u></a></li>
+<li><a href="https://program-issues.techidaily.com/persistent-gaming-pleasure-solutions-to-unanticipated-crashes-in-arise/"><u>Persistent Gaming Pleasure: Solutions to Unanticipated Crashes in Arise</u></a></li>
+<li><a href="https://program-issues.techidaily.com/successfully-resolving-the-camera-not-found-error-on-snapchat-app/"><u>Successfully Resolving the 'Camera Not Found' Error on Snapchat App</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-honor-x50i-by-drfone-android/"><u>Three Ways to Sim Unlock Honor X50i</u></a></li>
+<li><a href="https://article-posts.techidaily.com/transforming-your-iphone-footage-into-vr/"><u>Transforming Your iPhone Footage Into VR</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-solving-mass-effect-legendary-edition-crashes-on-pc-and-xbox/"><u>Troubleshooting Guide: Solving Mass Effect Legendary Edition Crashes on PC and Xbox</u></a></li>
 </ul></div>
 

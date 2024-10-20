@@ -1,7 +1,7 @@
 ---
 title: Eliminating Startup Glitches in Hogwarts Legacy with These 8 Methods
-date: 2024-08-28T06:40:03.403Z
-updated: 2024-08-29T06:40:03.403Z
+date: 2024-10-16T17:28:30.460Z
+updated: 2024-10-20T17:21:23.239Z
 tags:
   - win11
   - win10
@@ -52,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/6606769b9bc0a3d1ddf4196efcbbf3ffe5de65576
 3. The**Installed RAM** shows how much RAM do you have.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your driver
 
  Many PC issues are related to your drivers. Updating your drivers would improve your PC performance and avoid any potential issues. Some gamers have fixed the God of War memory leak issue after updating drivers.
@@ -69,25 +66,20 @@ There are mainly two ways you can update the driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the Update button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Disable your integrated graphics
 
  Many gamers have proved it’s a working fix. So if you have an internal GPU, follow the steps below to fix the God of War “not enough available memory” issue.
@@ -97,32 +89,49 @@ There are mainly two ways you can update the driver:
 1. Right-click on the Desktop and launch NVIDIA Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/nvidia-control-panel.jpg)
 2. Select**Manage 3D settings** in the left panel.
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3. Under**Global Settings** , set the preferred graphics processor to your graphics card. Then click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Disable integrated graphics through Device Manager** :
 
 1. Click the**Search** icon on the bottom of your screen.
 2. Type**device manager** and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s5.jpg)
 3. Click**Display adapters** .
+
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Right-click on your integrated graphics and click**Disable device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s6.jpg)
 5. Restart the game and check if the issue persists.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Update God of War
 
  The game development team is working on this issue. Santa Monica Studios has just deployed God of War Update 1.0.1\. Although the new patch doesn’t fix the issue for everyone, the dev team may fix the memory leak issue in the future. So don’t forget to update the God of War when there are available patches.
@@ -144,11 +153,24 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -170,8 +192,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +199,26 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-top-12-video-grabber-online-to-download-any-video-you-like/"><u>[New] In 2024, Top 12 Video Grabber Online to Download Any Video You Like</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-dji-phantom-3s-expert-features/"><u>[New] Unveiling DJI Phantom 3'S Expert Features</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-fb-top-10-crafting-engaging-songs-for-fb-videos-for-2024/"><u>[Updated] FB Top 10 Crafting Engaging Songs for FB Videos for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-captivating-your-audience-writing-podcast-intros/"><u>2024 Approved Captivating Your Audience Writing Podcast Intros</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722990944267-banish-kurtzpel-downfall-errors-once-and-for-all-effective-troubleshooting-steps-unveiled/"><u>Banish KurtzPel Downfall Errors Once and For All - Effective Troubleshooting Steps Unveiled!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-vivo-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Vivo Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://program-issues.techidaily.com/crash-no-more-effective-fixes-to-keep-blender-running-smoothly-on-pcs/"><u>Crash No More: Effective Fixes to Keep Blender Running Smoothly on PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-sony-vegas-issues-expert-guide-to-avoiding-sudden-closures/"><u>Fix Your Sony Vegas Issues: Expert Guide to Avoiding Sudden Closures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-get-outriders-running-again/"><u>Fixing the Issue: How to Get Outriders Running Again</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/harnessing-the-strength-of-cookiebot-to-boost-online-success/"><u>Harnessing the Strength of Cookiebot to Boost Online Success</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-13-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://win-able.techidaily.com/once-your-design-is-complete-and-the-tile-is-fully-dry-may-take-up-to-24-hours-apply-a-clear-glaze-over-the-entire-surface-to-seal-in-the-colors-this-step-w605/"><u>Once Your Design Is Complete and the Tile Is Fully Dry (May Take up to 24 Hours), Apply a Clear Glaze over the Entire Surface to Seal in the Colors. This Step Will Protect Your Work During the Final Firing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-superpeople-dx9-issue-a-step-by-step-guide/"><u>Solving the 'Superpeople DX9 Issue' - A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-remedy-for-fixing-the-life-threatening-gaming-glitch-in-ghost-runner-for-windows-10-users/"><u>Step-by-Step Remedy for Fixing the Life-Threatening Gaming Glitch in Ghost Runner for WINDOWS 10 Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-playstation-wars-effective-ways-to-fix-modern-warfare-stalling-on-your-computer/"><u>Stop PlayStation Wars: Effective Ways to Fix 'Modern Warfare' Stalling on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-mafia-trilogys-capstone-game-now-confirmed-for-launch/"><u>The Mafia Trilogy's Capstone Game Now Confirmed for Launch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-how-to-solve-fall-guys-game-crashes-on-launch/"><u>Troubleshooting: How to Solve 'Fall Guys' Game Crashes on Launch</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-u23-by-fonelab-android-recover-video/"><u>Undeleted lost videos from U23</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Eliminating Errors in PlayStation Now Streamed Titles Like RoboCop: Fatal Mission"
-date: 2024-10-13T02:26:24.207Z
-updated: 2024-10-15T03:57:27.645Z
+date: 2024-10-13T18:49:30.527Z
+updated: 2024-10-20T17:52:23.439Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 | **DirectX**   | Version 11                                          | Version 11                                          |
 | **Storage**   | 60 GB available space                               | 60 GB available space                               |
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  If “**Yes my gear is up for running Star Wars: Battlefront 2** “, here are 8 crashing fixes for you to try. You might not need to try them all; just work down the list until you find the one that does the trick.
@@ -54,13 +47,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 6. **[Disable antivirus software temporarily](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Disable Discord In-Game Overlay](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 1: Repair your game
 
@@ -99,9 +85,23 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Wait for the process to complete.
 
  Restart Steam and play your Battlefront 2 again to test the issue. If the game keeps crashing randomly, you can repair the game manually.
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your device drivers
 
@@ -126,10 +126,10 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **OR**
@@ -153,13 +153,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
  This fix works for most PC users, but if this doesn’t work for your case, don’t worry. There’re a few more fixes you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Revert back to DX11
 
  Many Battlefront 2 players find reverting to DX11 helps reduce random crashes. Here’s how to do it:
@@ -174,6 +167,13 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 **Note:** If you find reverting to DX11 makes your game laggy, you can edit**BootOptions.ini** again to enable DX12.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Run as administrator
 
  When the game keeps crashing, you can always run both your game launcher and game.exe file as administrator. To make sure your game runs smoothly, you can run your game as an administrator permanently.
@@ -184,18 +184,18 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/compatibility.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Apply** \>**OK** .
 
  4) Go to your game installation folder and run your game exe file as administrator too.
 
  This works for many PC players, but if it doesn’t do the trick for you, don’t be upset.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Disable antivirus software temporarily
 
@@ -231,10 +231,10 @@ If the game keeps crashing, you can try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/disable-all.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Select the **Startup** tab and click **Open Task Manager** .
@@ -246,10 +246,16 @@ If the game keeps crashing, you can try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-start-up-item-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Go back to **System Configuration** , then click **OK** .
@@ -314,24 +320,19 @@ If the game keeps crashing, you can try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-from-raw-footage-to-youtube-perfection-premiere-pro-techniques/"><u>[New] 2024 Approved From Raw Footage to YouTube Perfection - Premiere Pro Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-samsung-gear-360-top-alternative-cameras-2023-edition/"><u>[Updated] Samsung Gear 360 Top Alternative Cameras 2023 Edition</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1725288923455-ai/"><u>AI 제조 - 비디오 및 이미지 강화: 편집, 재편집, 녹화 기술</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722994887783-effortless-fixes-for-common-problems-in-madden-22-fast-track-to-victory/"><u>Effortless Fixes for Common Problems in Madden 22 – Fast Track to Victory</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723008853146-how-to-fix-cyberpunk-2077s-notorious-black-screen-problem-solutions-unveiled/"><u>How to Fix Cyberpunk 2077'S Notorious Black Screen Problem - Solutions Unveiled</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-properly-download-and-set-up-a-mouse-driver-for-your-windows-7-pc/"><u>How to Properly Download & Set Up a Mouse Driver for Your Windows 7 PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-samsung-galaxy-s24plus-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Samsung Galaxy S24+ to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-realme-11x-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Realme 11X 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-samsung-galaxy-a24-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Samsung Galaxy A24 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-m14-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy M14 5G</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-top-8-authentic-youtube-boosting-platforms/"><u>In 2024, Top 8 Authentic YouTube Boosting Platforms</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-stable-gameplay-how-to-eliminate-fortnite-freezing-glitches-infographic/"><u>Mastering Stable Gameplay: How to Eliminate Fortnite Freezing Glitches [Infographic]</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mlb-the-show-21-update-addressing-the-previous-server-connection-error/"><u>MLB The Show 21 Update: Addressing the Previous Server Connection Error</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-overcoming-the-black-ops-cold-war-error-xc0000005/"><u>Resolved: Overcoming the Black Ops Cold War Error XC0000005</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-issue-of-unsuccessful-connections-in-minecraft-playground/"><u>Solving The Issue of Unsuccessful Connections in Minecraft Playground</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-solving-dev-error-6034-on-pc-and-xbox-console-modern-warfare/"><u>Step-by-Step Guide: Solving Dev Error 6034 on PC and Xbox Console – Modern Warfare</u></a></li>
-<li><a href="https://program-issues.techidaily.com/successfully-tackled-missing-camera-on-snap-application-error/"><u>Successfully Tackled: Missing Camera on Snap Application Error</u></a></li>
-<li><a href="https://program-issues.techidaily.com/uncover-the-solution-to-overcome-fallout-4s-persistent-black-screen-challenge/"><u>Uncover the Solution to Overcome Fallout 4'S Persistent Black Screen Challenge</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-ultimate-list-of-budget-friendly-editor-apps/"><u>[New] 2024 Approved The Ultimate List of Budget-Friendly Editor Apps</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-channel-building-through-characters-and-plot-twists/"><u>[Updated] Channel-Building Through Characters and Plot Twists</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-the-next-generation-of-video-communities-post-youtube/"><u>2024 Approved The Next Generation of Video Communities Post-YouTube</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-lag-and-crashes-in-your-metro-exodus-enhanced-edition-on-pc-solved/"><u>Banish Lag and Crashes in Your Metro Exodus Enhanced Edition on PC - Solved!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-of-10-premium-free-email-accounts/"><u>Discover the Ultimate List of 10 Premium Free Email Accounts</u></a></li>
+<li><a href="https://win-docs.techidaily.com/effiziente-methoden-zur-wiederherstellung-verlorener-daten-auf-raw-datentragern-expertenrat-zum-schutz-ihrer-wichtigen-informationen/"><u>Effiziente Methoden Zur Wiederherstellung Verlorener Daten Auf RAW-Datenträgern - Expertenrat Zum Schutz Ihrer Wichtigen Informationen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-code-0x803f8001-on-your-minecraft-launcher-easy-solutions-for-windows-1110-gamers/"><u>Error Code 0X803f8001 on Your Minecraft Launcher? Easy Solutions for Windows 11/10 Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-on-resolving-mount-and-blade-ii-bannerlords-stability-issues/"><u>Expert Advice on Resolving Mount & Blade II: Bannerlord's Stability Issues</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guide-transforming-videos-into-different-formats-for-multiple-uses/"><u>Guide: Transforming Videos Into Different Formats for Multiple Uses</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-solve-the-not-found-problem-when-starting-fortnite-tips-and-steps/"><u>How to Solve the 'Not Found' Problem When Starting Fortnite - Tips & Steps</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-itel-p55plus-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Itel P55+ to Mac? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/lenovo-x1-carbon-driver-downloads-compatible-with-windows-10-and-7-simple-setup-tutorials/"><u>Lenovo X1 Carbon Driver Downloads - Compatible with Windows 10 & 7: Simple Setup Tutorials</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/sharing-offline-versions-of-your-online-created-flipbooks-using-flipbuilder-tips-and-tricks/"><u>Sharing Offline Versions of Your Online-Created Flipbooks Using FlipBuilder – Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/warriors-guide-to-debugging-call-of-duty-warzone-error-6328-strategies-for-2025-mastering-cod-warzone-error-resolution-defeat-dev-bug-6328-in-the-upcoming-y407/"><u>Warrior's Guide to Debugging Call of Duty: Warzone Error 6328 - Strategies for 202#5. Mastering Cod: Warzone Error Resolution - Defeat Dev Bug 6328 in the Upcoming Year!</u></a></li>
 </ul></div>
 

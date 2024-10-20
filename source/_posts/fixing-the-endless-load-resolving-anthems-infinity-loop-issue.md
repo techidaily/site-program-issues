@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Endless Load: Resolving Anthem's Infinity Loop Issue"
-date: 2024-10-10T22:18:35.227Z
-updated: 2024-10-14T22:33:14.021Z
+date: 2024-10-15T19:14:56.953Z
+updated: 2024-10-20T18:35:18.329Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 4. **[Turn on off VSync](https://tools.techidaily.com/drivereasy/download/)**
 5. **[perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Verify integrity of game files
 
  One common cause of FUSER crashing issue is the corrupted game files. If you’re not sure if the game crashes are triggered by the faulty game files, just verify integrity of game files. By doing that, you can repair the game.
@@ -41,25 +48,11 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **If you play FUSER in Epic Games Launcher** , you can follow the instructions below to verify the game files:
 
 1. Launch**Epic Games Launcher** and go to your**Library** .
 2. click on the**three dots** under the**FUSER** game tile and select**Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
@@ -78,15 +71,15 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 
@@ -95,10 +88,10 @@ thumbnail: https://thmb.techidaily.com/23f15d03527dcdfd4e30255dbd41a14d668e3faaf
  Launch FUSER and see if the latest graphics driver stops the crash. If this fix doesn’t work for you, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
@@ -134,36 +127,43 @@ You can try turning off VSync and see if this issue persists.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
 <!-- affiliate ads begin -->
-<span id="1982596">
+<span id="1982457">
 					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 **Restart** your PC and launch FUSER to see if it crashes. If the game doesn’t crash, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
 
@@ -197,21 +197,22 @@ You can try turning off VSync and see if this issue persists.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-boost-your-video-impact-quickly-learn-effective-techniques-for-fb-subtitle-creation/"><u>[New] 2024 Approved Boost Your Video Impact Quickly - Learn Effective Techniques for FB Subtitle Creation</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-essentials-unleashed-8-products-that-are-changing-the-business-landscape/"><u>[New] 2024 Approved Essentials Unleashed 8 Products That Are Changing the Business Landscape</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-how-to-create-or-schedule-a-google-meet/"><u>[Updated] 2024 Approved How to Create or Schedule A Google Meet?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-hilarity-highway-the-funniest-youtube-videos-on-twitter/"><u>[Updated] Hilarity Highway The Funniest YouTube Videos on Twitter</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-fixes-for-major-development-glitches-in-call-of-duty-mw-and-black-ops-cold-war/"><u>Expert Fixes for Major Development Glitches in Call of Duty: MW & Black Ops Cold War</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-glitch-in-chivalry-2-how-its-done-and-lessons-learned/"><u>Fixing the Glitch in Chivalry 2 - How It's Done & Lessons Learned</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-vivo-y17s-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Vivo Y17s Lock Screen Password</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-onedrive-errors-on-windows-11-an-experts-fix-list/"><u>Navigating OneDrive Errors on Windows 11: An Expert's Fix List</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-gaming-fixes-implemented-for-crusader-kings-iii-crashes/"><u>PC Gaming: Fixes Implemented for Crusader Kings III Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/tackling-continuous-freezes-resolving-watch-dogs-legion-malfunctions-for-windows-users/"><u>Tackling Continuous Freezes - Resolving 'Watch Dogs: Legion' Malfunctions for Windows Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-blender-pc-issues-avoid-unwanted-shutdowns-and-stabilize-your-experience/"><u>Troubleshooting Blender PC Issues: Avoid Unwanted Shutdowns and Stabilize Your Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-issues-with-robocop-legacy-rogue-city-game-crashes-on-windows/"><u>Troubleshooting Tips: Resolving Issues with RoboCop: Legacy – Rogue City Game Crashes on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-overcoming-anticheat-connection-failure-in-escape-from-tarkov/"><u>Troubleshooting: Overcoming 'Anticheat Connection Failure' In Escape From Tarkov</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-full-playback-potential-view-anything-on-apple-tv-using-vlc-methods/"><u>Unlock Full Playback Potential: View Anything on Apple TV Using VLC Methods</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722879395301-what-to-watch-on-max-right-now-see-our-expert-recommendations/"><u>What to Watch on Max Right Now? See Our Expert Recommendations!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-masterclass-in-minimal-photoshop-alterations/"><u>[New] 2024 Approved Masterclass in Minimal Photoshop Alterations</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-enigma-of-missing-video-suggestions-in-your-feed-for-2024/"><u>[New] The Enigma of Missing Video Suggestions in Your Feed for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-guide-to-understanding-android-lightroom-for-2024/"><u>[Updated] The Ultimate Guide to Understanding Android Lightroom for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-lag-top-techniques-for-optimizing-dota-2-in-2e24/"><u>Beat the Lag: Top Techniques for Optimizing Dota 2 in 2E24</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dealing-with-2e4-gameplay-glitches-how-to-stabilize-days-gone/"><u>Dealing with 2E4 Gameplay Glitches: How To Stabilize 'Days Gone'</u></a></li>
+<li><a href="https://games-able.techidaily.com/deep-dive-into-conflict-11-top-strategy-war-games/"><u>Deep Dive Into Conflict: 11 Top Strategy War Games</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725290544445-dvd-decrypter/"><u>DVD Decrypterによるデジタル著作権保護フリーの方法と、不可能時の対策</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015901913-effortless-mic-tests-achieving-crystal-clear-sound-in-minutes/"><u>Effortless Mic Tests: Achieving Crystal Clear Sound in Minutes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enjoy-uninterrupted-gaming-how-the-persistent-crashing-of-assassins-creed-valhalla-on-pc-is-no-longer-an-issue/"><u>Enjoy Uninterrupted Gaming: How the Persistent Crashing of Assassin’s Creed Valhalla on PC Is No Longer an Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-it-how-to-stop-slime-rancher-nx-from-crashing-on-your-computer/"><u>Fix It! How to Stop Slime Rancher nX From Crashing on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-achieve-seamless-play-with-high-fps-and-no-stuttering-in-naraka-bladepoint/"><u>How To Achieve Seamless Play with High FPS and No Stuttering in Naraka: Bladepoint</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-world-of-wearables-a-buyers-guide-with-five-crucial-points-for-smartwatches/"><u>Navigating the World of Wearables: A Buyer's Guide with Five Crucial Points for Smartwatches</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/peculiar-picasso-creating-quirky-quick-memes-for-2024/"><u>Peculiar Picasso Creating Quirky, Quick Memes for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-youtube-video-stuttering-audio-lingers-on-solutions-for-chrome-and-firefox-users/"><u>Resolving YouTube Video Stuttering: Audio Lingers On - Solutions for Chrome and Firefox Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-mystery-solved-accessing-the-missing-la-noire-pc-edition-explained/"><u>The Mystery Solved: Accessing the Missing L.A. Noire PC Edition Explained</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-samsung-galaxy-m34-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Samsung Galaxy M34 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-serious-sam-4-fixes-for-pc-performance-issues/"><u>Troubleshooting Serious Sam 4: Fixes for PC Performance Issues</u></a></li>
 </ul></div>
 

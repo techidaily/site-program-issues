@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting MSEdge.exe Faults in Windows Systems
-date: 2024-10-08T04:42:45.032Z
-updated: 2024-10-15T02:40:41.854Z
+date: 2024-10-17T17:54:03.661Z
+updated: 2024-10-20T16:40:37.712Z
 tags:
   - win11
   - win10
@@ -37,10 +37,16 @@ thumbnail: https://thmb.techidaily.com/c58560aeeed11adb8f42f4b9530bfd82fdd84e9fa
 5. **[Run Warzone in Windowed mode](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
@@ -57,13 +63,26 @@ thumbnail: https://thmb.techidaily.com/c58560aeeed11adb8f42f4b9530bfd82fdd84e9fa
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-pro-3070-update-all.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -82,16 +101,10 @@ Here’s how you can check for updates manually:
 2. Scroll down and select**Update & Security** .  
 
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
@@ -99,13 +112,6 @@ Here’s how you can check for updates manually:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
@@ -123,13 +129,6 @@ Once done, restart your PC and see if Warzone is using your GPU.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nvidia-control-panel.jpg)
 2. In the left pane, click**Manage 3D settings** . Click**CUDA – GPUs** and select your graphics card. Then click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-1.jpg)
 3. In the left pane, select**Set PhysX Configuration** . Under**Select a PhysX processor** , click to expand the drop down list and**select your GPU** .  
 
@@ -146,6 +145,13 @@ Once done, restart your PC and see if Warzone is using your GPU.
 ![how to disable hardware accelerated GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2020/10/display-settngs.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of Warzone. Choose**ModernWarfare.exe** in the game folder.  
 
@@ -153,20 +159,27 @@ Once done, restart your PC and see if Warzone is using your GPU.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/graphics-settings-warzone-browse.jpg)
 4. Click**Options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-force-gpu-1.jpg)
 5. In the pop-up window, select**High performance** and click**OK** to apply the settings.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-force-gpu-2.jpg)
 6. You can do the same for**Modern Warfare Launcher.exe** . Once done, start Warzone and compare the GPU utilization with the gameplay.
 
  If this setting doesn’t help, take a look at the next solution below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Run Warzone in Windowed mode
 
@@ -176,13 +189,6 @@ Once done, restart your PC and see if Warzone is using your GPU.
 2. Navigate to the**GRAPHICS** tab. Under the**Display** section, set**Display Mode** to**Windowed** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-windowed.jpg)
 3. Now check if the game runs as expected.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -203,18 +209,24 @@ Once done, restart your PC and see if Warzone is using your GPU.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-instant-aspect-ratio-tuning-for-youtube-on-mac/"><u>[Updated] Instant Aspect Ratio Tuning for Youtube on Mac</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-top-10-dynamic-yoga-platforms-for-optimal-health-and-strength/"><u>[Updated] Top 10 Dynamic Yoga Platforms for Optimal Health & Strength</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-dramatic-fades-in-a-flash/"><u>2024 Approved Dramatic Fades in a Flash</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-stats-galore-visualize-youtubes-fascinating-facts-2017/"><u>2024 Approved Stats Galore! Visualize YouTube's Fascinating Facts (2017)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-infinix-zero-30-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Infinix Zero 30 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723003692284-monster-hunter-rise-wont-open-discover-the-quick-solutions-you-need/"><u>Monster Hunter Rise Won't Open? Discover the Quick Solutions You Need</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/pro-stream-setup-best-equipment-to-take-your-youtube-streams-to-the-next-level-for-2024/"><u>Pro Stream Setup Best Equipment to Take Your Youtube Streams to the Next Level for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-tips-to-get-you-back-into-action-if-warzone-wont-start-up/"><u>Quick Tips to Get You Back Into Action if Warzone Won’t Start Up</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-a-persistent-loading-issue-during-discord-broadcasting/"><u>Resolved: How to Fix a Persistent 'Loading' Issue During Discord Broadcasting</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resume-your-account-entry-secure-login-now-functional/"><u>Resume Your Account Entry – Secure Login Now Functional</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-future-of-ai-arrives-meet-openais-latest-innovation-gpt-cutting-edge/"><u>The Future of AI Arrives: Meet OpenAI's Latest Innovation, GPT-Cutting Edge</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transform-your-3gpp-images-into-fun-gifs-overnight-no-cost-involved-discover-how-to-use-movavi/"><u>Transform Your 3GPP Images Into Fun GIFs Overnight, No Cost Involved - Discover How to Use Movavi</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-how-to-resolve-teso-game-freezing-and-loading-issues/"><u>Troubleshooting: How to Resolve TESO Game Freezing & Loading Issues</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-no-money-just-screen-time-how-to-record-youtube/"><u>[New] In 2024, No Money, Just Screen Time How To Record YouTube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-valorant-image-magic-quick-professionally-crafted-portraits/"><u>[New] In 2024, Valorant Image Magic Quick, Professionally Crafted Portraits</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-enhancing-productivity-with-azure-voice-recognition/"><u>[Updated] 2024 Approved Enhancing Productivity with Azure Voice Recognition</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-a-comprehensive-guide-to-creating-high-impact-slow-motion-images-and-video-content-on-instagram-for-2024/"><u>[Updated] A Comprehensive Guide to Creating High-Impact Slow Motion Images and Video Content on Instagram for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-launch-your-live-stream-a-comprehensive-beginners-manual/"><u>[Updated] Launch Your Live Stream A Comprehensive Beginner's Manual</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-nurture-harmony-and-well-being-the-finest-yogic-channels-alive-for-2024/"><u>[Updated] Nurture Harmony & Well-Being - The Finest Yogic Channels Alive for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/baldurs-gate-iii-error-solved-now-ready-for-adventure/"><u>Baldur's Gate III Error Solved - Now Ready for Adventure</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723006996929-cyberpunk-2077-and-gpu-usage-issues-on-windows-11-solved/"><u>Cyberpunk 2077 and GPU Usage Issues on Windows 11 - Solved!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enabling-hyper-v-feature-on-your-windows-11-pc-a-complete-walkthrough/"><u>Enabling Hyper-V Feature on Your Windows 11 PC - A Complete Walkthrough</u></a></li>
+<li><a href="https://program-issues.techidaily.com/end-the-game-pause-7-strategies-for-fixing-halo-infinite-freezes/"><u>End the Game Pause: 7 Strategies for Fixing Halo Infinite Freezes</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-90-lite-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor 90 Lite to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-realme-c55-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Realme C55</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-visionary-devices-pushing-computing-limits/"><u>In 2024, Visionary Devices Pushing Computing Limits</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-solution-eradicating-dev-error-6634-in-cod-warzone/"><u>Master the Solution: Eradicating Dev Error 6634 in Cod: Warzone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/navigate-roblox-error-277-successfully-expert-tips-for-players-using-pcs-updated/"><u>Navigate Roblox Error 277 Successfully: Expert Tips for Players Using PCs (Updated )</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-slowness-proven-techniques-to-speed-up-your-origin-internet-downloads-in/"><u>Overcome Slowness: Proven Techniques to Speed Up Your Origin Internet Downloads In</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-stutter-and-glitch-in-call-of-dutys-warzone-gameplay/"><u>Resolving Stutter and Glitch in Call of Duty's Warzone Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-does-ready-or-not-keep-crashing-solutions-for-a-stable-gaming-experience/"><u>Why Does Ready Or Not Keep Crashing? Solutions for a Stable Gaming Experience</u></a></li>
 </ul></div>
 

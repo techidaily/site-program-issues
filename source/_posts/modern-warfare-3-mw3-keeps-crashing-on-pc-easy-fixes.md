@@ -1,7 +1,7 @@
 ---
 title: Modern Warfare 3 (MW3) Keeps Crashing on PC - Easy Fixes
-date: 2024-10-13T04:23:36.258Z
-updated: 2024-10-15T01:34:56.414Z
+date: 2024-10-17T17:25:58.612Z
+updated: 2024-10-20T17:46:27.529Z
 tags:
   - win11
   - win10
@@ -69,11 +69,32 @@ thumbnail: https://thmb.techidaily.com/110fb399f984d23daa9e38ab73955fe742594ebb4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-setting-1024x592.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-system-requirements.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  _The system requirements information is captured from Epic Games Launcher_
 
@@ -100,24 +121,10 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Modify AMD graphics card settings
 
@@ -127,13 +134,6 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
@@ -148,10 +148,10 @@ Here are the system requirements for Control:
 3. Select Intel Graphics Settings to open it.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
@@ -166,23 +166,23 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch Control again in reduced settings to see if it crashes or not. If the game still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Delete the “render.ini” file
 
@@ -194,6 +194,13 @@ Here are the system requirements for Control:
 4. Launch Control again.
 
  See if the game will crash or not. Normally this issue should be resolved. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Perform a Windows Update
 
@@ -215,6 +222,19 @@ Here are the system requirements for Control:
 [https://www.microsoft.com/en-us/download/details.aspx?id=30653](https://www.microsoft.com/en-us/download/details.aspx?id=30653)
 
  After installing Microsoft Visual C++ 2013 and Microsoft .NET Framework, you need to restart Windows. Then launch Control to see if this issue persists. If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Install the latest Control patch
 
@@ -241,19 +261,6 @@ Here are the system requirements for Control:
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 10: Run Program Compatibility Troubleshooter
 
  If Control often crashes on your Windows 10 PC, you can try running Windows Program Compatibility Troubleshooter to run the game in Windows 7 mode. Here’s how to do it:
@@ -264,13 +271,6 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_14-25-41.png)
 3. Double-click the shortcut of Control on your desktop to launch it. This time Control will run in the compatibility mode you set in step 2.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 See if this fix works for you. If not, try the next fix, below.
 
@@ -300,18 +300,18 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-optimize-visibility-choosing-the-right-hashtags-today/"><u>[New] Optimize Visibility Choosing the Right Hashtags Today</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-sound-loads-in-inshot-editing-software/"><u>[Updated] Mastering Sound Loads in InShot Editing Software</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-prime-selections-securing-entry-level-channel-monetization-sites/"><u>[Updated] Prime Selections Securing Entry-Level Channel Monetization Sites</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-evaluation-of-the-brother-hl-l3295cdw-a-high-speed-and-superior-quality-color-laser-printer/"><u>Comprehensive Evaluation of the Brother HL-L3295CDW - A High-Speed and Superior Quality Color Laser Printer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-failed-to-connect-via-anticheat-error-on-escape-from-tarkov/"><u>Fixing the 'Failed to Connect via Anticheat' Error on Escape From Tarkov</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-construct-your-own-home-made-google-cardboard-vr-device-for-2024/"><u>How to Construct Your Own Home-Made Google Cardboard VR Device for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719579855799-mondlys-lifetime-plan-zero-price/"><u>Mondly's Lifetime Plan: Zero Price!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/patching-up-overwatchs-graphic-mishaps-drivers-revised/"><u>Patching Up Overwatch's Graphic Mishaps – Drivers Revised</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-unexpected-shutdowns-in-starcraft-ii-on-personal-computers-tips-and-tricks/"><u>Resolving Unexpected Shutdowns in StarCraft II on Personal Computers - Tips & Tricks</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-influencers-roadmap-instagram-edition-for-2024/"><u>The Influencer's Roadmap Instagram Edition for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-repairing-blue-screen-in-helldivers-version-2/"><u>Troubleshooting and Repairing 'Blue Screen' In Helldivers Version 2</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-elevate-your-storytelling-expert-approved-1080p-video-editing-solutions/"><u>Updated In 2024, Elevate Your Storytelling Expert-Approved 1080P Video Editing Solutions</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-nokia-105-classic-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Nokia 105 Classic Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-live-screen-archive-aggregators/"><u>[New] Live Screen Archive Aggregators</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-slide-show-software-selection-from-ix-ios13/"><u>[New] Slide Show Software Selection From IX-IOS13</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-harnessing-google-trends-for-video-concept-generation/"><u>[Updated] In 2024, Harnessing Google Trends for Video Concept Generation</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/blur-your-images-soul-the-best-face-pixelation-techniques/"><u>Blur Your Image's Soul The Best Face Pixelation Techniques</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-zte-axon-40-lite-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the ZTE Axon 40 Lite Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hp-visuals-gone-wrong-discover-how-to-fix-your-screen-problems-here/"><u>HP Visuals Gone Wrong? Discover How To Fix Your Screen Problems Here!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-oppo-reno-11f-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Oppo Reno 11F 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/maintaining-image-integrity-effective-instagram-photowatermarking-for-2024/"><u>Maintaining Image Integrity Effective Instagram Photowatermarking for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-freezing-how-the-latest-patch-improves-your-halo-experience/"><u>No More Freezing - How the Latest Patch Improves Your Halo Experience</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/premium-gadget-trio-elite-quality-dell-monitor-unmatched-anc-headphones-and-ultrasharp-webcam-for-enhanced-visuals/"><u>Premium Gadget Trio: Elite Quality Dell Monitor, Unmatched ANC Headphones, and UltraSharp Webcam for Enhanced Visuals</u></a></li>
+<li><a href="https://program-issues.techidaily.com/simple-solutions-resolve-your-steam-corrupt-disk-mishap-quickly-and-effectively/"><u>Simple Solutions: Resolve Your Steam Corrupt Disk Mishap Quickly and Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/starfield-wont-play-solve-your-game-launch-issues-with-this-comprehensive-guide-steam-and-xbox/"><u>Starfield Won't Play? Solve Your Game Launch Issues with This Comprehensive Guide (Steam & Xbox)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-starfield-game-not-starting-on-steam-or-xbox/"><u>Troubleshooting Guide: Resolving Issues with Starfield Game Not Starting on Steam or Xbox</u></a></li>
 </ul></div>
 

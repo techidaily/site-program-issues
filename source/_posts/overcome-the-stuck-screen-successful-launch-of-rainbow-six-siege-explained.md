@@ -1,7 +1,7 @@
 ---
 title: "Overcome the Stuck Screen: Successful Launch of Rainbow Six Siege Explained"
-date: 2024-10-03T22:29:05.036Z
-updated: 2024-10-08T19:27:20.623Z
+date: 2024-10-19T19:10:39.821Z
+updated: 2024-10-20T17:17:14.640Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 7. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
  The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Check the game’s system requirements
 
@@ -75,9 +68,23 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/AOE4-steam-verify-game-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Once the process is completed, try launching the game again.
 
 If the issue persists, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -93,10 +100,10 @@ If the issue persists, move on to the next fix.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
@@ -107,13 +114,6 @@ If the issue persists, move on to the next fix.
  After updating your graphics driver, restart your PC and check if you can launch Age of Empires IV now.
 
  If you’re still having trouble launching the game, check out the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -154,6 +154,13 @@ If this fix doesn’t work for you, proceed to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall.cpl_.jpg)
 2. In the pop-up window, click**Allow an app or feature through Windows Firewall** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
 3. Locate**RelicCardinal.exe** from the list of apps. If not listed, click**Change settings** \>**Allow another app…** , then locate**RelicCardinal.exe** .  
 
@@ -161,10 +168,10 @@ If this fix doesn’t work for you, proceed to the next one.
 4. Checkmark both**Private** and**Public** settings.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click**OK** .
@@ -178,17 +185,38 @@ If this fix doesn’t work for you, proceed to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/settings-protection-history.jpg)
 3. Select**RelicCardinal.exe** , then click**Actions** \>**Allow** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Windows Controlled Folder Access
 
 1. In the search box on the taskbar, type**Controlled folder access** , then click**Open** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Controlled-Folder-Access.jpg)
 2. Select**Allow an app through Controlled folder access** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/allow-an-app-through-controlled-folder-access.jpg)
 3. Click**Add an allowed app** \>**Recently blocked apps** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/add-an-allowed-app.jpg)
 4. Select**RelicCardinal.exe** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Other antivirus programs
 
@@ -198,19 +226,6 @@ If this fix doesn’t work for you, proceed to the next one.
 
 If it doesn’t, try the last fix below.
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Perform a clean boot
 
  The Age of Empires IV may not launch if you’re running software that interferes with Steam and your game. To see if that’s the case, you can perform a clean boot. Here’s how:
@@ -219,28 +234,8 @@ If it doesn’t, try the last fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 2. In System Configuration, navigate to the **Services** tab and check the box next to **Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as **Realtek** , **AMD** , **NVIDIA** and **Intel** . Then click **OK** to save the changes.  
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open**Task Manager** , then navigate to the **Startup** tab.  
@@ -250,13 +245,6 @@ If it doesn’t, try the last fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. Restart your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Try launching the game again. If the game launches normally, you can try to enable services one by one until you find the problematic software.
 
@@ -285,20 +273,18 @@ Restart your PC to apply the changes after enabling each service.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-seamless-integration-of-skype-and-zoom-for-businesses-for-2024/"><u>[New] Seamless Integration of Skype and Zoom for Businesses for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-going-bold-on-instagram-techniques-to-trend-worldwide/"><u>[Updated] Going Bold on Instagram Techniques to Trend Worldwide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/clarifying-visuals-in-call-of-duty-warzone-a-guide-for-pc-gamers/"><u>Clarifying Visuals in Call of Duty: Warzone – A Guide for PC Gamers</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-redmi-note-12-4g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi Redmi Note 12 4G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-issue-davinci-resolve-failure-to-start-on-windows-operating-systems/"><u>Fixing the Issue: DaVinci Resolve Failure to Start on Windows Operating Systems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-tecno-spark-20-pro-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Tecno Spark 20 Pro to Protect Your Individual Information</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo T2 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/mac-drm-free-solutions-unlocking-your-itunes-media-libraries/"><u>Mac DRM-Free Solutions: Unlocking Your iTunes Media Libraries</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/rs-building-marvels-virtual-horizons-for-2024/"><u>Masters Building Marvel's Virtual Horizons for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/outriders-not-starting-up-on-your-pc-try-these-fixes-now/"><u>Outriders Not Starting Up on Your PC ? Try These Fixes Now!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-correcting-the-directx-error-for-activisions-modern-warfare-2/"><u>Step-by-Step Solution: Correcting the DirectX Error for Activision's Modern Warfare 2</u></a></li>
-<li><a href="https://program-issues.techidaily.com/steps-to-successfully-troubleshoot-and-stop-no-rest-for-the-wicked-from-crashing-on-windowsmac/"><u>Steps to Successfully Troubleshoot and Stop 'No Rest for the Wicked' From Crashing on Windows/Mac</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-palworld-instant-solutions-for-startup-issues/"><u>Troubleshooting Palworld: Instant Solutions for Startup Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-overcoming-fifa-22-stuttering-and-crashes-on-personal-computers/"><u>Ultimate Guide to Overcoming FIFA 22 Stuttering and Crashes on Personal Computers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-ideal-choices-our-exclusive-top-10-gopro-case-picks/"><u>[New] 2024 Approved Ideal Choices Our Exclusive Top 10 GoPro Case Picks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-capturing-details-with-intimate-filming-techniques/"><u>2024 Approved Capturing Details with Intimate Filming Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-overcoming-swtor-game-starts-up-difficulties-successfully/"><u>Guide: Overcoming SWTOR Game Starts-Up Difficulties Successfully</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-oppo-a59-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Oppo A59 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-12-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 12 to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-use-these-8-powerful-chatgpt-prompts-for-a-more-concentrated-workflow/"><u>How to Use These 8 Powerful ChatGPT Prompts for a More Concentrated Workflow</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-exclusive-review-of-top-mp4-players/"><u>In 2024, Exclusive Review of Top MP4 Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/installing-hyper-v-on-windows-1/"><u>Installing Hyper-V on Windows 1</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-game-stability-in-2n24-how-to-prevent-frustrating-crashes/"><u>PC Game Stability in 2N24: How to Prevent Frustrating Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-diablo-immortal-resolving-pc-issues-and-crashes-for-players/"><u>Troubleshooting Diablo Immortal - Resolving PC Issues and Crashes for Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-smooth-gameplay-fixing-freezing-in-outriders-on-your-computer/"><u>Troubleshooting Steps for Smooth Gameplay - Fixing Freezing in Outriders on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-discord-app-sudden-crashes/"><u>Ultimate Guide: Solving Discord App Sudden Crashes</u></a></li>
 </ul></div>
 

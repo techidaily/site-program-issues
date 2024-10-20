@@ -1,7 +1,7 @@
 ---
 title: Resolving Destiny 2 Graphical Glitches - Initialization Error Fix
-date: 2024-10-07T21:36:19.918Z
-updated: 2024-10-14T20:59:38.855Z
+date: 2024-10-17T18:17:00.631Z
+updated: 2024-10-20T18:02:52.746Z
 tags:
   - win11
   - win10
@@ -32,13 +32,6 @@ STAR WARS The Old Republic (SWTOR) window does not show after you press Play? Yo
 4. [**Verify the integrity of game files**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Delete the Bitraider folder](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Rule out software conflicts
 
  The SWTOR not launching problem can be caused by a previous task session that didn’t end properly or the BitRaider background downloader that interferes with the game. To fix this, simply open the Task Manager and end the SWTOR Launcher task and BitRaider processes:
@@ -51,6 +44,19 @@ STAR WARS The Old Republic (SWTOR) window does not show after you press Play? Yo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_11-51.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Running third-party programs in the background can also interfere with your game and lead to issues like this (_especially overlay programs_ ). So, if you’re running multiple programs while gaming, please close them to rule out software conflicts and free up resources for your game.
 
  If your**antivirus** is running, temporarily disable it and check if the problem persists. This is because antivirus sometimes mistakenly identifies the game login module as a security threat.
@@ -62,16 +68,10 @@ STAR WARS The Old Republic (SWTOR) window does not show after you press Play? Yo
 If SWTOR still won’t start, read on and try the next fix below.
 
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Run SWTOR in Admin mode
@@ -112,6 +112,13 @@ If this doesn’t work for you, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-17-08.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -135,13 +142,6 @@ If your game still won’t launch, then go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-56-38.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-57-39.jpg)
@@ -161,10 +161,10 @@ If SWTOR is still unplayable, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-39-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Delete the**Bitraider folder** .
@@ -183,15 +183,28 @@ If SWTOR is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-20-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Select**Notepad** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-20-56.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **6)** Find the matching section in the file and delete the 4 lines and replace them with this:
@@ -214,13 +227,6 @@ If SWTOR is still unplayable, move on to the next fix.
 **11)** Type**appwiz.cpl** and hit**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-24_15-48-15.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **12)** Right-click**Bitraider Streaming Client** and select**Uninstall** .
 
@@ -247,18 +253,24 @@ If SWTOR is still unplayable, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-art-of-patience-transform-your-reels-through-slow-motion/"><u>[New] In 2024, The Art of Patience Transform Your Reels Through Slow-Motion</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-saying-goodbye-a-guide-for-ending-your-discord-membership-for-2024/"><u>[New] Saying Goodbye A Guide for Ending Your Discord Membership for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-samsung-galaxy-a05-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Samsung Galaxy A05.</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-x8b-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor X8b? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-and-performance-review-of-the-latest-apple-macbook-pro-with-retina-display-m1-2021/"><u>In-Depth Analysis and Performance Review of the Latest Apple MacBook Pro with Retina Display (M1, 2021)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-the-last-epochs-pc-launch-challenges-a-step-by-step-guide-to-the-2024-patch/"><u>Overcoming The Last Epoch's PC Launch Challenges: A Step-by-Step Guide to the 2024 Patch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolve-bluestacks-instability-quickly-with-these-5-tips/"><u>Resolve BlueStacks Instability Quickly With These 5 Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-acrocefexe-from-crashing-effective-fixes-for-windows-users/"><u>Stop AcroCEF.exe From Crashing - Effective Fixes for Windows Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-msi-afterburner-not-recognizing-graphics-cards-in-windows-operating-systems/"><u>Troubleshooting Tips for MSI Afterburner Not Recognizing Graphics Cards in Windows Operating Systems</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/understanding-the-duration-required-for-language-mastery/"><u>Understanding the Duration Required for Language Mastery</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-motorola-moto-e13-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Motorola Moto E13 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/why-did-modern-consoles-lag-behind-ps2-in-delivering-60fps-gaming-experiences-a-historical-perspective/"><u>Why Did Modern Consoles Lag Behind PS2 in Delivering 60Fps Gaming Experiences: A Historical Perspective</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723008636285-winning-the-battle-against-adobe-premiere-pro-crashes-on-windows-11-and-10-systems-tips-included/"><u>Winning the Battle Against Adobe Premiere Pro Crashes on Windows 11 and 10 Systems - Tips Included!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-unlock-clearer-livestreams-with-these-4-tips/"><u>[New] 2024 Approved Unlock Clearer Livestreams with These 4 Tips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-defeat-synthetic-followers-for-true-popularity-peak/"><u>[Updated] 2024 Approved Defeat Synthetic Followers for True Popularity Peak</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-full-spectrum-review-google-podcasts-app-explained/"><u>[Updated] Full Spectrum Review Google Podcasts App Explained</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-finding-the-most-economical-streaming-apps-for-your-phone/"><u>2024 Approved Finding the Most Economical Streaming Apps for Your Phone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/elevate-drones-to-new-peaks-with-these-crucial-supplementary-gear/"><u>Elevate Drones to New Peaks with These Crucial Supplementary Gear</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ng-and-accessing-your-personalized-musical-selection-zone-on-youtube/"><u>Finding and Accessing Your Personalized Musical Selection Zone on Youtube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-pet-eyes-in-your-photos/"><u>How to Fix Pet Eyes in Your Photos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-quickly-resolve-warzone-directx-error-in-four-steps-a-detailed-guide/"><u>How to Quickly Resolve Warzone DirectX Error in Four Steps - A Detailed Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prime-windows-rapid-photo-displayer/"><u>In 2024, Prime Window's Rapid Photo Displayer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/intersectionality-and-health-an-analysis-of-socioeconomic-status-raceethnicity-and-gender/"><u>Intersectionality and Health: An Analysis of Socioeconomic Status, Race/Ethnicity, and Gender</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximize-frame-rates-in-valheim-expert-advice-for-players-seeking-higher-performance/"><u>Maximize Frame Rates in Valheim: Expert Advice for Players Seeking Higher Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/new-god-of-war-fps-game-announces-arrival-on-personal-computers/"><u>New God of War FPS Game Announces Arrival on Personal Computers!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-missing-ping-issue-on-halo-infinite-a-detailed-guide/"><u>Solving the Missing Ping Issue on Halo Infinite - A Detailed Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721470364104-struggling-with-your-iphones-vpn-connection-discover-these-7-effective-fixes-now/"><u>Struggling With Your iPhone's VPN Connection? Discover These 7 Effective Fixes Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-unable-to-connect-errors-in-minecraft-servers/"><u>Troubleshooting 'Unable to Connect' Errors in Minecraft Servers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-mastering-your-drive-with-the-mobile-app/"><u>Ultimate Guide: Mastering Your Drive with the Mobile App</u></a></li>
+<li><a href="https://program-issues.techidaily.com/winning-the-fight-against-blackouts-expert-solutions-for-warzone-game-crashes/"><u>Winning the Fight Against Blackouts: Expert Solutions for Warzone Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/wolcen-lords-of-mayhem-release-delayed-what-gamers-need-to-know/"><u>Wolcen: Lords of Mayhem Release Delayed – What Gamers Need to Know</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44oe44od44kt44oz44oi44od44k344ol44gn44gu55s76z2i5pku5b2x5pa55rov44o76kej5rg6562w77ya5ypluso6yyy5asx5pwx5pmc/"><u>マッキントッシュでの画面撮影方法・解決策：収録失敗時</u></a></li>
 </ul></div>
 

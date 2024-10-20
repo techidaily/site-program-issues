@@ -1,7 +1,7 @@
 ---
 title: Can't Play Helldivers 2 on Steam? Learn How to Resolve It Now
-date: 2024-10-07T21:08:16.632Z
-updated: 2024-10-08T20:21:36.595Z
+date: 2024-10-13T16:15:41.170Z
+updated: 2024-10-20T16:15:08.975Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 2. **[Update your network adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Adjust your proxy settings
 
  In most cases, Error 130 happens when your browser fails to connect to the internet because of improper proxy configuration. To fix it, follow the instructions below:
@@ -40,28 +47,15 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-358.png)
 
 <!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Click the**Connections tab** , then**LAN settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-360.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** If any items on this window are checked, uncheck them. Then, click**OK** .
 
@@ -103,13 +97,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-364.png)
@@ -126,30 +113,37 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)** Select **Uninstall a program** .
@@ -160,16 +154,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **8)[Download](https://store.steampowered.com/about/)**  Steam.
 
@@ -209,20 +203,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-delving-into-the-advantages-and-disadvantages-of-youtube-premium/"><u>[New] 2024 Approved Delving Into the Advantages and Disadvantages of YouTube Premium</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-supercharge-your-videos-with-these-proven-keyword-analyst-tools/"><u>[New] In 2024, Supercharge Your Videos with These Proven Keyword Analyst Tools</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-feeds-to-filters-connecting-instagram-and-tiktok/"><u>2024 Approved From Feeds to Filters Connecting Instagram and TikTok</u></a></li>
-<li><a href="https://program-issues.techidaily.com/break-free-from-apex-legends-permanent-loading-screen-expert-tips-and-tricks/"><u>Break Free From Apex Legends Permanent Loading Screen – Expert Tips & Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-prevent-stardew-valley-from-killing-your-gaming-experience-on-pc/"><u>Expert Advice: Prevent Stardew Valley From Killing Your Gaming Experience on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-avoid-crashes-while-playing-mass-effect-legendary-edition-solutions-for-both-pc-and-xbox-gamers/"><u>How to Avoid Crashes While Playing Mass Effect Legendary Edition: Solutions for Both PC and Xbox Gamers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-the-failed-anti-cheat-link-issue-in-escape-from-tarkov/"><u>How To Overcome the 'Failed Anti-Cheat Link' Issue in Escape From Tarkov</u></a></li>
-<li><a href="https://facebook.techidaily.com/how-to-sever-spotify-facebook-association-effectively/"><u>How To Sever Spotify-Facebook Association Effectively</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-successfully-overcome-installation-hurdles-for-minecraft-on-windows-11/"><u>How to Successfully Overcome Installation Hurdles for Minecraft on Windows 11</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-12-pro-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 12 Pro? Heres the Best Fixes</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-freezes-how-to-fix-constant-crashes-in-watch-dogs-legion-for-pc-users/"><u>No More Freezes: How to Fix Constant Crashes in Watch Dogs: Legion for PC Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-cyberpunk-2077-for-lower-cpu-consumption-fixed/"><u>Optimizing Cyberpunk 2077 for Lower CPU Consumption - Fixed!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solution-guide-for-camera-not-found-problem-on-snap-device/"><u>Solution Guide for 'Camera Not Found' Problem on Snap Device</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-guide-how-to-troubleshoot-and-repair-touchpad-scrolling-on-a-windows-10-laptop/"><u>Step-by-Step Guide: How to Troubleshoot and Repair Touchpad Scrolling on a Windows 10 Laptop</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-achieve-more-money-from-your-short-videos-on-youtube/"><u>[New] 2024 Approved Achieve More Money From Your Short Videos on YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-creative-potential-utilizing-luts-to-enhance-video-quality/"><u>[New] Unlock Creative Potential Utilizing LUTs to Enhance Video Quality</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-leading-selection-no-cost-outstanding-lut-links/"><u>[Updated] 2024 Approved The Leading Selection No-Cost, Outstanding LUT Links</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-most-popular-fb-videos-download-now-for-2024/"><u>[Updated] Most Popular FB Videos - Download Now for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-gameplay-disruptions-expert-fixes-for-days-gone-crashes-in-202/"><u>Eliminate Gameplay Disruptions: Expert Fixes for Days Gone Crashes in 202([[[[[]]]]])</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-solutions-for-preventing-crashes-when-playing-manor-lords-on-your-computer/"><u>Essential Solutions for Preventing Crashes When Playing 'Manor Lords' On Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-red-dead-online-troubleshooting-steps-to-resolve-pc-crashes/"><u>Fixing Red Dead Online: Troubleshooting Steps to Resolve PC Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hitman-3-stability-improvement-tips-for-gaming-enthusiasts/"><u>Hitman 3 Stability Improvement Tips for Gaming Enthusiasts</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-x-online-here-are-6-easy-ways-by-drfone-ios/"><u>How to Unlock Apple iPhone X Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/tart-your-youtube-venture-top-equipment-choices/"><u>Jumpstart Your YouTube Venture Top Equipment Choices</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-create-stunning-animations-best-android-and-iphone-apps-free/"><u>New Create Stunning Animations Best Android and iPhone Apps (Free)</u></a></li>
+<li><a href="https://review-topics.techidaily.com/nokia-data-retrieval-tool-restore-lost-data-from-nokia-by-fonelab-android-recover-data/"><u>Nokia Data Retrieval tool – restore lost data from Nokia</u></a></li>
+<li><a href="https://win-net.techidaily.com/not-found-alert-understanding-error-404-messages/"><u>Not Found Alert! Understanding Error 404 Messages</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-latency-problems-in-valheim-a-guide-for-windows-users/"><u>Resolving Latency Problems in Valheim: A Guide for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-division-2-game-optimization-tips-resolving-low-frames-per-second-issues/"><u>The Division 2 Game Optimization Tips: Resolving Low Frames Per Second Issues</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-invisible-wireless-networks-tips-for-reappearance-success/"><u>Troubleshooting Invisible Wireless Networks – Tips for Reappearance Success</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-major-development-errors-a-guide-for-call-of-dutys-latest-titles/"><u>Troubleshooting Major Development Errors: A Guide for Call of Duty's Latest Titles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-resolving-no-available-camera-error-on-snap-device/"><u>Troubleshooting: Resolving 'No Available Camera' Error on Snap Device</u></a></li>
+<li><a href="https://program-issues.techidaily.com/wwe-2k22-resolving-your-pcs-stuttering-and-freezing-issues-expert-tips/"><u>WWE 2K22 - Resolving Your PC's Stuttering and Freezing Issues | Expert Tips!</u></a></li>
 </ul></div>
 

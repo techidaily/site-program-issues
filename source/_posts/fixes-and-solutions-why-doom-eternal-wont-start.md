@@ -1,7 +1,7 @@
 ---
 title: "Fixes and Solutions: Why DOOM Eternal Won't Start?"
-date: 2024-09-27T07:18:09.631Z
-updated: 2024-09-28T06:35:28.775Z
+date: 2024-10-16T18:13:08.648Z
+updated: 2024-10-20T17:55:16.766Z
 tags:
   - win11
   - win10
@@ -41,25 +41,25 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the left panel, click**Game Overlay** . Make sure you turn on the toggle next to **Enable in-game overlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-enable-in-game-overlay-1-1200x714.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Run Discord as administrator
 
@@ -68,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
  1) On your desktop,**right-click** the shortcut of **Discord** and then select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
@@ -86,24 +79,37 @@ thumbnail: https://thmb.techidaily.com/0fabbd6ca39e068e6ff5a1dc76e09f39c4c023b26
 
 See if this issue reappears. If not, you have fixed this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
 
  If you’re using a third-party antivirus application on your PC, you may encounter the**Discord overlay** not working issue. Your third-party antivirus application may interfere with**Discord** , so your **Discord overlay** may not run as expected. You can try   **adding your Discord to the whitelist of your third-party antivirus application** .
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Check for software interruption
 
  Maybe the**Discord overlay** not working issue is also triggered by the interruption from other applications running on your PC. Try**temporarily disabling them** to see if your**Discord overlay** works or not. If you’re running**the programs that have the overlay features** , or you’re running**the programs that can access your microphone** , they may interfere with your**Discord overlay** .
 
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable hardware acceleration in Discord
 
@@ -119,13 +125,6 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run your game again to see if this issue persists. If not, you have resolved this problem!
 
 ### Fix 6: Reinstall Discord
@@ -138,6 +137,13 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
@@ -147,10 +153,10 @@ See if this issue reappears. If not, you have fixed this issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 iv. Restart your PC.
@@ -207,20 +213,22 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-tape-to-trending-seamless-mp3-to-youtube-transition-for-2024/"><u>[New] From Tape to Trending Seamless MP3 to YouTube Transition for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-4-effective-methods-for-slide-embedding-from-youtube/"><u>[New] In 2024, 4 Effective Methods for Slide Embedding From YouTube</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-engage-in-enlightening-youtube-exchanges/"><u>[New] In 2024, Engage in Enlightening YouTube Exchanges</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-launching-laughter-hilarious-initiation-hints-for-2024/"><u>[Updated] Launching Laughter Hilarious Initiation Hints for 2024</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-xiaomi-13t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Xiaomi 13T Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/complete-solution-resolving-star-wars-jedi-fallen-order-pc-launch-issues/"><u>Complete Solution: Resolving Star Wars Jedi: Fallen Order PC Launch Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-fixes-for-preventing-medium-from-crashing-on-personal-computers/"><u>Effective Fixes for Preventing Medium From Crashing on Personal Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminating-constant-freezes-in-nox-game-player-on-your-computer/"><u>Eliminating Constant Freezes in Nox Game Player on Your Computer</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-establish-a-new-identity-in-gmail-the-ultimate-guide-to-using-an-email-alias/"><u>How to Establish a New Identity in Gmail: The Ultimate Guide to Using an Email Alias</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-honor-x50-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Honor X50 to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722989111203-mlb-the-show-21-online-issue-resolved-get-back-to-winning-now/"><u>MLB The Show 21 Online Issue Resolved - Get Back to Winning Now</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pathfinder-wrath-of-the-righteous-not-starting-heres-how-to-fix-it-quickly/"><u>Pathfinder: Wrath of the Righteous Not Starting? Here's How to Fix It Quickly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-fixing-a-nonfunctional-keyboard-for-your-pathfinder-game/"><u>Step-by-Step Guide to Fixing a Nonfunctional Keyboard for Your Pathfinder Game</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/top-7-tecniche-essenziali-per-ottimizzare-la-registrazione-di-video-in-diretta-su-computer-e-dispositivi-mobile/"><u>Top 7 Tecniche Essenziali per Ottimizzare La Registrazione Di Video in Diretta Su Computer E Dispositivi Mobile</u></a></li>
-<li><a href="https://program-issues.techidaily.com/understanding-and-solving-gtfo-application-failures/"><u>Understanding and Solving GTFO Application Failures</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-breaking-into-design-your-strategy-for-career-success/"><u>[Updated] Breaking Into Design Your Strategy for Career Success</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-enhancing-visual-storytelling-with-windows-11s-video-capabilities-for-2024/"><u>[Updated] Enhancing Visual Storytelling with Windows 11'S Video Capabilities for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-from-novice-to-experienced-6-strategies-for-quick-verification-on-instagram/"><u>2024 Approved From Novice to Experienced 6 Strategies for Quick Verification on Instagram</u></a></li>
+<li><a href="https://program-issues.techidaily.com/5-effective-methods-to-get-battlenet-up-and-running-again/"><u>5 Effective Methods to Get Battle.net Up and Running Again</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-output-with-chatgpt-strategy-tips/"><u>Boosting Output with ChatGPT Strategy Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-fixes-when-your-battlefield-4-game-wont-launch-on-pc-systems/"><u>Comprehensive Fixes: When Your Battlefield 4 Game Won't Launch on PC Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/endless-loads-not-anymore-quick-solutions-for-madden-nfl-eborne-22s-stuck-screen/"><u>Endless Loads? Not Anymore! Quick Solutions for Madden NFL Eborne 22'S Stuck Screen</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guide-to-resolving-iphones-incompatibility-with-third-party-gadgets/"><u>Guide to Resolving iPhone's Incompatibility with Third-Party Gadgets</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>How to Find iSpoofer Pro Activation Key On Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-repair-a-non-functional-intel-system-assist-application/"><u>How to Repair a Non-Functional Intel System Assist Application</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-depth-analysis-best-valheim-seeds-for-growth/"><u>In-Depth Analysis Best Valheim Seeds for Growth</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-graphics-driver-updates-for-nvidia-geforce-rtx-30-series-and-earlier-install-guide-for-windows-1011/"><u>Latest Graphics Driver Updates for NVIDIA GeForce RTX™ 30-Series and Earlier: Install Guide for Windows 10/11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/preventing-fifa-22-from-freezing-or-crashing-during-play-pc/"><u>Preventing FIFA 22 From Freezing or Crashing During Play (PC)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rust-display-anomaly-resolution-techniques-for-seamless-experience/"><u>Rust Display Anomaly Resolution Techniques for Seamless Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/triumph-over-amd-radeon-r9-issues-on-win11/"><u>Triumph Over AMD Radeon R9 Issues on Win11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-fixing-pc-issues-for-star-wars-jedi-fallen-order/"><u>Troubleshooting and Fixing PC Issues for 'Star Wars Jedi: Fallen Order'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-how-to-prevent-and-fix-modern-warfare-2-crashes-on-windows/"><u>Ultimate Guide: How to Prevent and Fix Modern Warfare 2 Crashes on Windows</u></a></li>
 </ul></div>
 

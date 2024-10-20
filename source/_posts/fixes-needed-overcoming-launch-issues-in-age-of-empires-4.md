@@ -1,7 +1,7 @@
 ---
 title: "Fixes Needed: Overcoming Launch Issues in Age of Empires 4"
-date: 2024-09-28T02:27:28.807Z
-updated: 2024-10-03T02:08:47.482Z
+date: 2024-10-13T16:26:46.361Z
+updated: 2024-10-20T19:12:44.989Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ There is nothing more frustrating than buying a video game and not being able to
 5. **[Check for software conflicts](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Update Windows components](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Run the game as an administrator
 
@@ -69,9 +76,23 @@ If your issue persists, don’t fret. Move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-58-50.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click **Roll Back Driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-59-08.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you can’t click the button, or if rolling back to the previous version didn’t fix your issue, then move on and try updating your graphics driver.
 
@@ -95,13 +116,6 @@ If your issue persists, don’t fret. Move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-11-28_12-21-06.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -110,10 +124,10 @@ If your issue persists, don’t fret. Move on to the next fix below.
  Relaunch your game to test your issue. If your game is still unplayable, then go ahead with the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Reset in-game settings
@@ -140,6 +154,13 @@ If your issue persists, don’t fret. Move on to the next fix below.
 
  Try launching your game to see if this helped. If your issue persists, move on to the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Delete game cache files
 
  Clearing game cache files can improve your gaming performance and allow the game to start when it will not otherwise work. So if Black Ops 4 won’t launch on your PC,
@@ -160,23 +181,9 @@ If your issue persists, don’t fret. Move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-04_12-31-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)**  Highlight and delete the **Blizzard Entertainment**  and **Battle.net folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-505.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Relaunch your game to test the issue.
 
@@ -206,10 +213,16 @@ Here is how:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-24.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Relaunch your game to test your issue.
@@ -230,6 +243,13 @@ If your issue continues to occur, try performing a clean boot on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-32-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Uncheck the box next to **Load startup items** . Then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-44.jpg)
@@ -247,10 +267,10 @@ If your issue continues to occur, try performing a clean boot on your PC.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-34-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **7)**  Click the **Startup tab.**
@@ -289,13 +309,6 @@ If your issue continues to occur, try performing a clean boot on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-32-15-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the button next to **Normal startup,**  and then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-37-21.jpg)
@@ -325,13 +338,6 @@ If your game still won’t launch, move on to the next fix.
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-31-06.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Restart your computer and the game after the update is complete.
 
@@ -363,17 +369,16 @@ If the issue persists, try the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-binaural-bliss-broken-recovery-steps/"><u>[New] Binaural Bliss Broken Recovery Steps</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-top-voice-changer-app-magic-call-and-its-alternatives/"><u>[New] Top Voice Changer App Magic Call and Its Alternatives</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-premier-imagery-unboxing-analysis/"><u>2024 Approved Premier Imagery Unboxing Analysis</u></a></li>
-<li><a href="https://program-issues.techidaily.com/addressing-and-correcting-windows-compatibility-problems-with-battlenet-launcher/"><u>Addressing and Correcting Windows Compatibility Problems with Battle.net Launcher</u></a></li>
-<li><a href="https://program-issues.techidaily.com/escape-the-halted-load-essential-troubleshooting-tips-for-fixing-forza-horizon-5-issues/"><u>Escape the Halted Load: Essential Troubleshooting Tips for Fixing Forza Horizon 5 Issues</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-honor-magic-5-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Honor Magic 5 Phone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-essential-list-of-cost-free-versatile-video-players/"><u>In 2024, Essential List of Cost-Free, Versatile Video Players</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-realme-v30t-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Realme V30T Data? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/innovative-design-ensures-peak-performance-a-review-on-the-twelve-south-compass-pro-tripod/"><u>Innovative Design Ensures Peak Performance: A Review on the Twelve South Compass Pro Tripod</u></a></li>
-<li><a href="https://extra-information.techidaily.com/integrating-video-conferencing-within-gmail-ecosystem-with-zoom/"><u>Integrating Video Conferencing Within Gmail Ecosystem with Zoom</u></a></li>
-<li><a href="https://program-issues.techidaily.com/rockstar-games-launcher-troubleshooting-guide-fixing-issues/"><u>Rockstar Games Launcher Troubleshooting Guide: Fixing Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stabilize-your-gaming-experience-expert-tips-for-resolving-state-of-decay-2-glitches/"><u>Stabilize Your Gaming Experience: Expert Tips for Resolving State of Decay 2 Glitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/kof-xv-on-pc-how-to-enjoy-seamless-gameplay-after-fixing-the-notorious-bugs/"><u>'KOF XV on PC': How to Enjoy Seamless Gameplay After Fixing the Notorious Bugs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-convenient-youtube-viewing-activate-picture-in-picture-on-iphone/"><u>[Updated] Convenient YouTube Viewing Activate Picture-in-Picture on iPhone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-capture-gifs-like-pro-on-any-mac/"><u>[Updated] In 2024, Capture GIFs Like Pro on Any Mac</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-troubleshooting-fresh-install-of-epson-ds-510-driver-on-windows-a-step-by-step-tutorial/"><u>Easy Troubleshooting: Fresh Install of Epson DS-510 Driver on Windows - A Step by Step Tutorial</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-access-to-whatsapp-users-reined-in-by-germany-legislation/"><u>Facebook's Access to WhatsApp Users Reined in by Germany Legislation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-halo-infinite-pc-game-crashes-complete-guide/"><u>Fix Your Halo Infinite PC Game Crashes: Complete Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/getting-past-the-starting-gate-strategies-to-fix-fall-guys-from-crashing-on-launch/"><u>Getting Past the Starting Gate: Strategies to Fix Fall Guys From Crashing on Launch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-correctly-address-and-solve-error-code-4128-on-call-of-duty-wwii-gameplay/"><u>How to Correctly Address and Solve Error Code 4128 on Call of Duty WWII Gameplay</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-poco-c65-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Poco C65?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-launch-problems-in-evil-genius-2-for-an-optimal-gaming-experience/"><u>Overcoming Launch Problems in Evil Genius 2 for an Optimal Gaming Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/tecniche-di-ottimizzazione-per-la-riduzione-delle-dimensioni-dei-video-mov-strategie-top/"><u>Tecniche Di Ottimizzazione per La Riduzione Delle Dimensioni Dei Video MOV: Strategie Top</u></a></li>
 </ul></div>
 

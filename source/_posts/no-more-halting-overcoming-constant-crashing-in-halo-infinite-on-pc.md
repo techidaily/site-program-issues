@@ -1,7 +1,7 @@
 ---
 title: "No More Halting: Overcoming Constant Crashing in Halo Infinite on PC"
-date: 2024-10-06T19:21:44.855Z
-updated: 2024-10-08T19:01:01.126Z
+date: 2024-10-19T18:37:31.435Z
+updated: 2024-10-20T16:11:14.686Z
 tags:
   - win11
   - win10
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
  If you have a gamepad or controller connected to the computer, it’s likely they’ve interfered with Diablo Immortal and triggered the crash. You could simply **unplug those peripherals like the wheel, controller or other USB devices** to see if the problem gets fixed. If not, check out the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2 – Launch the game in windowed mode
@@ -56,10 +56,10 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
  Now that you’ve applied the changes, relaunch the game to test the issue. If the crashes persist, move on to the third fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3 – Rename the game folder
@@ -71,6 +71,13 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 3. Open the**Diablo Immortal Launcher** directly from the folder.
 
  Check if the game works normally now. If not, revert the folder’s name and try the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Update your graphics driver
 
@@ -86,13 +93,6 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/de-5.7.2-scan-1.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/amd-6800xt.jpg)
 
  When the update finishes, reboot your computer for the changes to take effect. The game should be running more smoothly with better performance. If not, take a look at the next fix.
@@ -106,16 +106,23 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files.jpg)
 3. Click**Begin Scan** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files-2-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The scanning will start immediately, followed by a repair update if missing or corrupt files are found. Once done, restart the game and see how it works. Still no luck? There is one more fix to try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6 – Disable Discord overlay
 
@@ -127,13 +134,6 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 3. Select**Game Overlay** from the left pane and**toggle off** the button for**Enable in-game overlay** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Close Discord and relaunch your game. If the crashes occur again, you may need to contact Blizzard support for specific assistance.
 
@@ -159,14 +159,24 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-fiscal-fortitude-the-story-of-mr-beast/"><u>[New] 2024 Approved Fiscal Fortitude The Story of Mr. Beast</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-ultimate-collection-of-sandbox-games/"><u>[New] In 2024, The Ultimate Collection of Sandbox Games</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-master-full-length-youtube-watching-mode-for-2024/"><u>[New] Master Full-Length YouTube Watching Mode for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-download-youtube-music-to-your-android-phone-top-6-free-apps-for-2024/"><u>[Updated] Download YouTube Music to Your Android Phone Top 6 Free Apps for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/a-buyers-guide-to-exceptional-hdr-photography-equipment/"><u>A Buyer's Guide to Exceptional HDR Photography Equipment</u></a></li>
-<li><a href="https://program-issues.techidaily.com/arcadegeddon-continuously-malfunctioning-on-windows-solutions-found/"><u>Arcadegeddon Continuously Malfunctioning on Windows - Solutions Found</u></a></li>
-<li><a href="https://program-issues.techidaily.com/audio-gone-missing-in-action-solve-lost-ark-sound-glitch-easily/"><u>Audio Gone Missing in Action? Solve Lost Ark Sound Glitch Easily!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-solutions-for-playing-payday-2-addressing-pc-launch-errors/"><u>Easy Solutions for Playing Payday 2: Addressing PC Launch Errors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-game-lag-tips-to-stop-your-assassins-creed-odyssey-from-freezing-on-pc/"><u>Solving Game Lag: Tips to Stop Your Assassin's Creed Odyssey From Freezing on PC</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-instagram-lost-and-found-follower-hunt/"><u>[New] 2024 Approved Instagram Lost and Found Follower Hunt</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pioneering-collage-apps-for-an-android-aesthetic/"><u>[New] Pioneering Collage Apps for an Android Aesthetic</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/apple-iphone-7-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>Apple iPhone 7 Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/bringing-realities-closer-google-cardboard-vs-samsung-gear/"><u>Bringing Realities Closer Google Cardboard Vs. Samsung Gear</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013180582-common-fixes-for-crusader-kings-ii-launch-failures-get-gaming-now/"><u>Common Fixes for Crusader Kings II Launch Failures - Get Gaming Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeat-twitch-hiccups-7-strategies-for-resolving-playback-glitches/"><u>Defeat Twitch Hiccups: 7 Strategies for Resolving Playback Glitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-strategies-for-lowering-cpu-load-in-cyberpunk-2077/"><u>Effective Strategies for Lowering CPU Load in Cyberpunk 2077</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improving-frame-rates-and-reducing-lag-in-watch-dogs-legion-a-comprehensive-guide/"><u>Improving Frame Rates & Reducing Lag in Watch Dogs: Legion - A Comprehensive Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-advanced-visual-techniques-for-impressive-after-effects-titles/"><u>In 2024, Advanced Visual Techniques for Impressive After Effects Titles</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/leading-edge-in-video-creation-top-10-gadgets-for-2024/"><u>Leading Edge in Video Creation - Top 10 Gadgets for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/master-the-art-of-resolving-hp-officejet-pro-6978-driver-malfunctions-for-optimal-printing/"><u>Master the Art of Resolving HP Officejet Pro 6978 Driver Malfunctions for Optimal Printing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/astery-choosing-top-dj-videos-for-events/"><u>Mix Mastery Choosing Top DJ Videos for Events</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-function-keys-on-windows-10-pcs/"><u>Restore Function Keys on Windows 10 PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004036022-samurai-warriors-5-pc-stability-issues-heres-what-you-need-to-know/"><u>Samurai Warriors 5 PC Stability Issues? Here's What You Need to Know!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-6-speedy-fixes-to-resolve-roblox-issues-on-your-pc/"><u>Top 6 Speedy Fixes to Resolve Roblox Issues on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-techniques-to-smooth-out-minecraft-play-on-your-computer/"><u>Top Techniques to Smooth Out Minecraft Play on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-ensuring-smooth-gameplay-on-your-computer-with-spellbreak/"><u>Troubleshooting Guide: Ensuring Smooth Gameplay on Your Computer with Spellbreak</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fixes-to-eliminate-v-rising-frame-drops-and-freeze-ups-on-pc/"><u>Ultimate Fixes to Eliminate 'V Rising' Frame Drops and Freeze-Ups on PC</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/unveiling-the-full-potential-of-powerdirector-24/"><u>Unveiling the Full Potential of PowerDirector '24</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Revitalize Your Warfare Experience with These Strategies to Overcome Game Boot Failures
-date: 2024-10-13T22:37:26.334Z
-updated: 2024-10-14T18:01:57.747Z
+date: 2024-10-13T17:10:39.948Z
+updated: 2024-10-20T17:23:02.419Z
 tags:
   - win11
   - win10
@@ -57,13 +57,6 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 
  If you’re confident with your gaming rig, simply continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Change Display Mode
 
  Some Modern Warfare gamers reported that changing the Display Mode from**Fullscreen Borderless** to**Fullscreen** fixes their FPS dropping issue. You can give this a try as it may boost your FPS right away.
@@ -91,11 +84,25 @@ You can do it with only 2 steps:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your computer and join a game in Modern Warfare. You can now test the gameplay and see if the driver update helps your case.
 
  If updating the driver doesn’t do the trick for you, take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows updates
 
@@ -107,22 +114,8 @@ And it’s quite easy to update too:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Windows will then check and install updates automatically. This might take a while depending on your Internet speed.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed the updates, restart the computer.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To install all the available updates, you might need to repeat these steps several times until Windows prompts that you’re up to date when you click**Check for updates** .
 
@@ -137,10 +130,10 @@ And it’s quite easy to update too:
  If you’re sure you’ve left enough resources for Modern Warfare and the FPS issue is still there, check out the next fix to change your power plan.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Change your power plan to Ultimate Performance
@@ -157,14 +150,21 @@ Here’s how to enable this power plan:
 3. On your keyboard, press the**Windows logo key** and type**cmd** . Select**Run as Administrator** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this,**return to step 2** to enable the Ultimate Performance power plan.  
@@ -191,16 +191,22 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-ultimate-guide-inverse-video-tricks-on-youtube-plustutorials/"><u>[Updated] 2024 Approved Ultimate Guide Inverse Video Tricks on YouTube (+Tutorials)</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-a-beginners-guide-to-instagram-story-feature/"><u>[Updated] In 2024, A Beginner's Guide to Instagram Story Feature</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-decoding-earnings-for-content-producers-on-short-form-platform/"><u>[Updated] In 2024, Decoding Earnings for Content Producers on Short-Form Platform</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/2024s-top-performers-best-combined-cable-modem-and-routers/"><u>2024'S Top Performers: Best Combined Cable Modem and Routers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypassing-steam-malfunctions-a-guide-to-correcting-the-failed-to-load-steamuidll/"><u>Bypassing Steam Malfunctions: A Guide to Correcting the 'Failed to Load steamui.dll'</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-the-black-screen-problem-on-your-epic-games-launcher/"><u>How to Overcome the Black Screen Problem on Your Epic Games Launcher</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-11-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 11 Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-facebook-live-mastery-making-the-most-of-real-time-sharing/"><u>In 2024, Facebook Live Mastery Making the Most of Real-Time Sharing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/life-is-strange-true-colors-crash-solved/"><u>Life Is Strange: True Colors Crash [SOLVED]</u></a></li>
-<li><a href="https://program-issues.techidaily.com/preventing-unexpected-game-interruptions-overcoming-ffxivs-pc-stability-issues/"><u>Preventing Unexpected Game Interruptions: Overcoming FFXIV's PC Stability Issues.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-fixing-the-non-responsive-windows-11-taskbar/"><u>Troubleshooting Tips: Fixing the Non-Responsive Windows 11 Taskbar</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-discover-the-leading-youtube-to-webm-converter-tools-for-2024/"><u>[New] Discover the Leading YouTube-to-WebM Converter Tools for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-free-auditory-gamespace-vaults-copyright-free/"><u>[New] Free Auditory Gamespace Vaults (Copyright-Free)</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-the-most-engaging-tiktok-stars-for-your-drive-for-2024/"><u>[New] The Most Engaging TikTok Stars for Your Drive for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-how-to-perfectly-capture-audio-remotely/"><u>[Updated] 2024 Approved How to Perfectly Capture Audio Remotely</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-finding-the-perfect-pair-matching-mics-with-every-type-of-youtubers-style/"><u>[Updated] In 2024, Finding the Perfect Pair Matching Mics with Every Type of YouTuber's Style</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/5-free-online-video-editors-similar-to-imovie-updated-2023/"><u>5 Free Online Video Editors Similar to iMovie (Updated 2023)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battle-the-glitches-effective-fixes-for-crashing-issues-in-final-fantasy-xv-pc-edition/"><u>Battle the Glitches: Effective Fixes for Crashing Issues in Final Fantasy XV PC Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-code-red-quick-solutions-for-playing-valorant-on-windows-in-202/"><u>Beat the Code Red: Quick Solutions for Playing Valorant on Windows in 202</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-vanguard-and-the-mystery-of-error-0x00001338-n-a-complete-fix-for-pc/"><u>Call of Duty Vanguard and the Mystery of Error 0X00001338 (N) - A Complete Fix for PC</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-google-pixel-8-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Google Pixel 8 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/contact-hp-support/"><u>Contact HP Support</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-access-kindle-fire-hd8-az3-e-books-and-documents/"><u>How to Access Kindle Fire HD8 (Az3) E-Books and Documents</u></a></li>
+<li><a href="https://program-issues.techidaily.com/obs-screen-capture-woes-heres-how-to-get-it-up-and-running-again/"><u>OBS Screen Capture Woes? Here's How to Get It Up and Running Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-startup-difficulties-a-guide-to-farming-simulator-22-issues/"><u>Overcoming Startup Difficulties: A Guide to Farming Simulator 22 Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-fixing-starfield-game-crashes-and-freezes-on-windows-pcs/"><u>Solved: Fixing Starfield Game Crashes and Freezes on Windows PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723012418783-trouble-with-fall-guys-heres-how-to-stop-it-from-crashing-at-launch/"><u>Trouble with Fall Guys? Here’s How to Stop It From Crashing at Launch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-non-responsive-corsair-icue-software-in-windows-11-environments/"><u>Troubleshooting the Non-Responsive Corsair iCUE Software in Windows 11 Environments</u></a></li>
 </ul></div>
 

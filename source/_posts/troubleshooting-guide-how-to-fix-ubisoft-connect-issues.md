@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Fix Ubisoft Connect Issues"
-date: 2024-08-28T06:40:23.629Z
-updated: 2024-08-29T06:40:23.629Z
+date: 2024-10-14T17:59:49.829Z
+updated: 2024-10-20T17:01:12.518Z
 tags:
   - win11
   - win10
@@ -58,17 +58,12 @@ Recently, many_Phoenix Point_ players are reporting the game crashing problem. T
 If your issue persists, move on to the next fix, below.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Run your game as an administrator
 
  By default, Windows runs programs as a user, with limited access to the files and folders on your PC. To see if that’s the problem for you, try running your game as an administrator. Here is how:
@@ -77,24 +72,39 @@ If your issue persists, move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-50-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Go to the **Compatibility tab** , then check the box next to **Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-50-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Click **Apply** , then **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-50-23.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **4)** Restart your game to see if this worked.
 
  If the game crashing issue continues to occur, then go ahead with Fix 3, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Turn off unnecessary programs
 
  If you’re running multiple programs at the same time during gameplay, your PC might get overloaded and crash your game. Or, in some cases, one of your programs is conflicting with your game and causes it to fail.
@@ -105,14 +115,18 @@ If your issue persists, move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-02-46-1024x251.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 **2)** Right-click the programs you want to close and select End Task.
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-04-08.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Relaunch your game to see if this fixed your issue.
 
@@ -136,9 +150,6 @@ If it didn’t, read on and try the fix below.
 
  If your game still won’t work properly, then try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Reinstall your game
 
  This problem might occur when the game is not properly installed on your PC. If that’s the core issue, reinstalling the game should fix it. Follow the instructions below:
@@ -158,9 +169,6 @@ If it didn’t, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-22-09.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 **4)**  Relaunch the **Epic Games Launcher**  to download and install _Phoenix Point_ .
 
  If your game is still unplayable, move on to **[Fix 6](https://tools.techidaily.com/drivereasy/download/)**  , below.
@@ -175,6 +183,13 @@ If it didn’t, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-56-02-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click **Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_12-03-14.jpg)
@@ -187,9 +202,6 @@ If it didn’t, read on and try the fix below.
 
 If your problem continues to occur, then move on and try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Reinstall your game launcher
 
  If you’re playing on Epic Games and none of the fixes above worked for you, try reinstalling your game launcher. Here is how to do it:
@@ -200,21 +212,20 @@ If your problem continues to occur, then move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-27-09.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 **2)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-27-19.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-27-30.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Right-click the Epics Games, then click **Uninstall/Change** .
 
@@ -222,16 +233,10 @@ The powerful video editing program for your Windows PC</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-27-38.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 **5)** [**Download**](https://www.epicgames.com/unrealtournament/download) and install the Epic Games Launcher. Then, reinstall _Phoenix Point_ .
 
  If this fix didn’t help, don’t fret! There is still one more fix to try.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7: Check for Windows updates
 
  Although it’s unlikely that this problem is caused by outdated Windows components, you should still rule out the possibility. Try installing all the new Windows updates to see if this works for you. Here is how to do it:
@@ -240,13 +245,17 @@ The powerful video editing program for your Windows PC</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-29-22.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-29-34.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)**  Restart your computer and your game.
 
  Hopefully, this article helped. Please leave a comment below if you have any questions or suggestions, or if you managed to fix this issue in some other way. I would love your thoughts!
@@ -264,8 +273,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -273,4 +280,21 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-direct-mp4-uploader-perfect-for-facebook-channels-for-2024/"><u>[New] Direct MP4 Uploader Perfect for Facebook Channels for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-elevate-farming-fun-with-these-top-7-stardew-valley-enhancements/"><u>[New] In 2024, Elevate Farming Fun with These Top 7 Stardew Valley Enhancements</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-guide-for-elevating-videos-from-basic-sdr-to-breathtaking-hdr-splendor/"><u>[New] Ultimate Guide for Elevating Videos From Basic SDR to Breathtaking HDR Splendor</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-your-quick-path-to-multimedia-tweeting/"><u>[Updated] In 2024, Your Quick Path to Multimedia Tweeting</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-unveiling-recmeisters-high-quality-screen-recording-capabilities-for-2024/"><u>[Updated] Unveiling Recmeister's High-Quality Screen Recording Capabilities for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-comprehensive-overview-of-whatsapp-voice-calls/"><u>2024 Approved Comprehensive Overview of WhatsApp Voice Calls</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-your-gaming-experience-overcoming-frames-per-second-drops-in-splitgate/"><u>Boost Your Gaming Experience: Overcoming Frames Per Second Drops in Splitgate</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/efficient-strategies-online-learning-lithuanian-success/"><u>Efficient Strategies: Online Learning Lithuanian Success</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enshrouded-game-error-resolved-play-uninterrupted-on-your-desktop/"><u>Enshrouded Game Error Resolved: Play Uninterrupted on Your Desktop</u></a></li>
+<li><a href="https://network-issues.techidaily.com/fix-laptop-screen-wont-turn-on-issue/"><u>Fix Laptop Screen Won’t Turn On Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-apex-legends-playtime-mastering-connection-troubleshooting-techniques/"><u>Fix Your Apex Legends Playtime: Mastering Connection Troubleshooting Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/getting-age-of-empires-iv-up-and-running-a-guide-to-fix-installation-problems/"><u>Getting Age of Empires IV Up and Running - A Guide to Fix Installation Problems</u></a></li>
+<li><a href="https://facebook.techidaily.com/networking-nightmare-all-social-media-downed/"><u>Networking Nightmare: All Social Media Downed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlock-and-install-hyper-v-feature-on-windows-10-a-simple-walkthrough/"><u>Unlock and Install Hyper-V Feature on Windows 10 - A Simple Walkthrough</u></a></li>
+</ul></div>
 

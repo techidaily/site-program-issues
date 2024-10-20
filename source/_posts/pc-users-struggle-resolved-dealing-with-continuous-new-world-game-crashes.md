@@ -1,7 +1,7 @@
 ---
 title: "PC Users Struggle: Resolved - Dealing with Continuous 'New World' Game Crashes"
-date: 2024-10-12T17:18:19.677Z
-updated: 2024-10-14T20:34:22.432Z
+date: 2024-10-17T18:24:23.812Z
+updated: 2024-10-20T19:05:37.129Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 9. **[Reinstall_Remnant_ and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Restart your computer
@@ -47,13 +47,6 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
  If _Remnant_ still crashes after the reboot, go ahead with the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2:**Disable your antivirus temporarily**
 
@@ -65,6 +58,13 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Run your game as an administrator
 
  Some players experience the_Remnant_ crash when running_Remnant_ under a standard user account. In this case, the quickest fix is granting your game launcher with admin credentials. Follow the instructions below to see how:
@@ -75,23 +75,9 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Relaunch Steam and_Remnant_ to test your issue.
 
@@ -149,6 +135,13 @@ If your problem persists, then move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Right-click**Remnant: From the Ashes** and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-84.png)
@@ -169,6 +162,13 @@ If your problem persists, then move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-585.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Paste**%LOCALAPPDATA%\\Remnant\\Saved\\Config\\WindowsNoEditor** on the address bar, then press the**Enter key** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-586.png)
@@ -176,6 +176,13 @@ If your problem persists, then move on to the next fix below.
 **3)** Right-click**Engine.ini** , select**Open With** , then click**Notepad** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-591.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Copy and paste the following text at the bottom.
 
@@ -214,13 +221,6 @@ If the game is still unplayable, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-608.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)**  Relaunch your game to check if your issue had been resolved.
 
  If this didn’t work for you, repeat steps above to**disable the compatibility mode** .
@@ -243,25 +243,33 @@ If the game is still unplayable, read on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Right-click**Remnant: From the Ashes** and select **Uninstall.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-246.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click**DELETE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-247.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)** Download and install**Remnant** again.
 
@@ -287,23 +295,9 @@ If the game is still unplayable, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
@@ -348,20 +342,18 @@ If the game is still unplayable, read on and try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-eyevid-fb-content-grabber-for-2024/"><u>[New] EyeVid FB Content Grabber for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-xiaomi-redmi-note-12-pro-4g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Xiaomi Redmi Note 12 Pro 4G</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-helldivers-2-on-computer-expert-fixes-for-uninterrupted-gaming-bliss/"><u>Beat Helldivers 2 on Computer: Expert Fixes for Uninterrupted Gaming Bliss</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypassing-eos-login-errors-6-tactics-for-a-smooth-palworld-experience/"><u>Bypassing EOS Login Errors: 6 Tactics for a Smooth Palworld Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/call-of-duty-warzone-20-high-latency-woes-heres-how-to-achieve-a-smooth-gaming-experience/"><u>Call of Duty Warzone 2.0 High Latency Woes? Here's How to Achieve a Smooth Gaming Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-get-warzone-20-running-smoothly-on-your-pc-7-key-fixes-you-need-in-2nd4/"><u>How to Get Warzone 2.0 Running Smoothly on Your PC: 7 Key Fixes You Need in 2nD4</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-avoiding-youtubes-controversial-scrutiny/"><u>In 2024, Avoiding YouTube's Controversial Scrutiny</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-essential-android-tools-for-video-recording/"><u>In 2024, Essential Android Tools for Video Recording</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-sound-loads-in-inshot-editing-software/"><u>Mastering Sound Loads in InShot Editing Software</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/microsoft-unveils-strategy-on-windows-driving-hybrid-work-revolution-zdnet/"><u>Microsoft Unveils Strategy on Windows Driving Hybrid Work Revolution | ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixing-initialization-errors-with-vanguard-in-valorant/"><u>Resolved: Fixing Initialization Errors with Vanguard in Valorant</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-eliminating-directx-error-messages-in-fifa-20/"><u>Step-by-Step Solutions for Eliminating DirectX Error Messages in FIFA 20</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-fixing-no-available-camera-on-your-snap-device/"><u>Troubleshooting: Fixing 'No Available Camera' On Your Snap Device</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-4-ways-to-sync-audio-to-video-automatically-in/"><u>Updated 2024 Approved 4 Ways to Sync Audio to Video Automatically In</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/warzone-wont-start-troubleshooting-guide-for-resolving-crashes/"><u>Warzone Won't Start? Troubleshooting Guide for Resolving Crashes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-expertise-in-making-screen-captures-on-ios-easier/"><u>[New] 2024 Approved Expertise in Making Screen Captures on iOS Easier</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-total-war-three-kingdoms-crash-issue/"><u>[Solved] Total War: Three Kingdoms Crash Issue</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-oppo-find-n3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-fps-drops-in-call-of-duty-modern-warfare-a-complete-guide/"><u>Eliminate FPS Drops in Call of Duty: Modern Warfare - A Complete Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Samsung Galaxy S23? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your iPhone 6s Plus</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-y17s-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo Y17s Through Google Earth?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-amd-rx-5700-xt-video-card-drivers-on-windows-support-for-versions-111087/"><u>Install AMD RX 5700 XT Video Card Drivers on Windows: Support for Versions 11/10/8/7</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/logiteches-superior-c920-pro-an-insightful-review-of-its-high-definition-webcam-capabilities/"><u>Logiteche's Superior C920 Pro: An Insightful Review of Its High Definition Webcam Capabilities</u></a></li>
+<li><a href="https://program-issues.techidaily.com/national-pesticide-information-center-2016-glyphosate-retrieved-from-(httpsnpicorsteduhazardspestfactsgpshtml)/"><u>National Pesticide Information Center (2016). Glyphosate. Retrieved From <https://npic.orst.edu/hazards/pestfacts/gps.html></u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-troubleshooting-made-simple-solving-hitman-3-game-crashes/"><u>PC Troubleshooting Made Simple: Solving Hitman 3 Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-how-to-fix-nba-2k23-crashing-issues-on-pc-top-7-tips-and-tricks/"><u>Solved: How to Fix NBA 2K23 Crashing Issues on PC - Top 7 Tips & Tricks</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ltimate-guide-to-sound-shakers/"><u>The Ultimate Guide to Sound Shakers</u></a></li>
 </ul></div>
 

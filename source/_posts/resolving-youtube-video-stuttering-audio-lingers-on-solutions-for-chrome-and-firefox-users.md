@@ -1,7 +1,7 @@
 ---
 title: "Resolving YouTube Video Stuttering: Audio Lingers On - Solutions for Chrome and Firefox Users"
-date: 2024-08-28T06:37:44.101Z
-updated: 2024-08-29T06:37:44.101Z
+date: 2024-10-15T17:51:13.031Z
+updated: 2024-10-20T17:36:13.806Z
 tags:
   - win11
   - win10
@@ -42,6 +42,14 @@ thumbnail: https://thmb.techidaily.com/30033eb1d439e3a5ccb9587805c5084ce6ce6344b
 1. At the top right in Chrome, click the **three dots** \> **More tools** \> **Clear browsing data** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa334b3637a.jpg)
 2. From the **Advanced** tab, set the Time range to **All time** . Select the types of information you want to remove. Make sure **Cookies and other site data** , **Cache images and files** are selected.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa337b7af41.jpg)
 3. Click**Clear data** .
 4. When the data is cleared, type **chrome://restart** in the URL bar then press **Enter** to restart Chrome and check if the problem is resolved. If not, try[**Fix 2**](https://tools.techidaily.com/drivereasy/download/) .  
@@ -53,6 +61,14 @@ thumbnail: https://thmb.techidaily.com/30033eb1d439e3a5ccb9587805c5084ce6ce6344b
 2. Select **Library** \> **History** \> **Clear Recent History** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa33f2eb77a.png)
 3. A small window will pop up and ask you for details about what to delete. Select all check boxes and set the time range to **Everything** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa34023c8f2.jpg)
 4. Click**Clear Now** .
 5. Once everything is clear, relaunch Firefox and check if YouTube now works properly. If not, try Fix 2, below.
@@ -60,8 +76,12 @@ thumbnail: https://thmb.techidaily.com/30033eb1d439e3a5ccb9587805c5084ce6ce6344b
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Disable browser add-ons
 
  If you have lots of add-ons installed on your browser, they may conflict with each other and stop YouTube from working. To see if this is causing your problem, try disabling them:
@@ -71,23 +91,29 @@ thumbnail: https://thmb.techidaily.com/30033eb1d439e3a5ccb9587805c5084ce6ce6344b
 1. Type **chrome://extensions** in the URL bar and press **Enter** to open the Chrome extension manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa350150087.png)
 2. **Toggle off** all extensions to disable them.  
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa350f743b4.jpg)
 3. Restart Chrome and test if the YouTube issue is fixed. If not, move on to[**Fix 3**](https://tools.techidaily.com/drivereasy/download/) .
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 
 #### On Firefox
 
 1. Click the**three line** button on the far right, then select Add-ons.![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa356b752ac.jpg)
 2. In the Add-ons Manager tab,  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
    * To disable an extension or theme, click Extensions or Themes, select the add-on you want to disable and click the **Disable** button next to it.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa35ddb2fa5.jpg)  
    * **To disable a plugin** , click **Plugins** , select the plugin you want to disable, and select **Never Activate** from the drop-down menu.  
@@ -108,25 +134,38 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 1. Click the**three dots** on the far right, then select **Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa36db131bc.jpg)
 2. Scroll down to the bottom and click **Advanced** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa36e7f2618.jpg)
 3. Under **System** , turn off the **Use hardware acceleration when available** option.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa36f56f5eb.jpg)
 4. Relaunch Chrome and test. If YouTube still freezes, try[**Fix 4**](https://tools.techidaily.com/drivereasy/download/) .
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### On Firefox
 
 1. Click the**three lines** in the upper right corner, and select **Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa372f5571c.jpg)
 2. Click **General** on the left.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa373c65352.jpg)
 3. Under **Performance** , de-select **Use recommended performance settings** , then de-select **Use hardware acceleration when available** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa374843a3c.jpg)
@@ -150,14 +189,8 @@ OR
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa3888b6a8a.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa38934c6ad.jpg)
 4. Restart your computer and check if YouTube now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 5, below.
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -174,6 +207,13 @@ Here’s how to update Adobe Flash Player
 4. Check if the YouTube problem is resolved.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Use a different browser
 
@@ -202,8 +242,6 @@ Hopefully this can help you out.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -211,4 +249,18 @@ Hopefully this can help you out.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-ios-and-android-perfecting-your-chat-tone-with-whatsapp-ringtones/"><u>[New] IOS & Android Perfecting Your Chat Tone with WhatsApp Ringtones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-picks-for-online-classical-tone-downloads/"><u>2024 Approved Top Picks for Online Classical Tone Downloads</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-advanced-gadgets-with-toms-guide-to-computer-hardware/"><u>Discover Advanced Gadgets with Tom's Guide to Computer Hardware</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722999375878-fix-discord-overlay-issues-simple-solutions-you-can-apply-today/"><u>Fix Discord Overlay Issues: Simple Solutions You Can Apply Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-startup-errors-for-a-total-war-saga-troy-game-on-your-computer/"><u>How to Resolve Startup Errors for A Total War Saga: Troy Game on Your Computer</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/messengers-new-ar-tools-a-social-revolution/"><u>Messenger's New AR Tools: A Social Revolution</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/re-esturing-nvidia-display-commands/"><u>Re-Esturing NVIDIA Display Commands</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-future-of-high-resolution-viewing-an-overview-of-asuss-proart-pa-329q-monitor/"><u>The Future of High-Resolution Viewing An Overview of Asus's ProArt PA 329Q Monitor</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ubisoft-connect-malfunction-expert-tips-and-fixes-for-the-year-2024/"><u>Ubisoft Connect Malfunction: Expert Tips and Fixes for the Year 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/victory-achieved-no-more-local-steam-client-process-unreachable-errors-on-your-system/"><u>Victory Achieved – No More 'Local Steam Client Process Unreachable' Errors on Your System</u></a></li>
+</ul></div>
 

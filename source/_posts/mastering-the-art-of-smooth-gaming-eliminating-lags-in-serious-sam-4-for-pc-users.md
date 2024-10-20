@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Smooth Gaming: Eliminating Lags in Serious Sam 4 for PC Users"
-date: 2024-10-04T17:41:52.503Z
-updated: 2024-10-08T21:51:39.324Z
+date: 2024-10-13T17:14:45.042Z
+updated: 2024-10-20T17:34:32.748Z
 tags:
   - win11
   - win10
@@ -38,13 +38,6 @@ If you got frame drops during the game for no reason, don’t worry, you’re no
 5. [Change priority](https://tools.techidaily.com/drivereasy/download/)
 6. [Verify the game files](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Switch programs & move the game to SSD
 
  This tip is from a player who figured out if his frames drop, he can use the**Alt+Tab** shortcut to switch out and back in. After that, the game starts running flawlessly.
@@ -52,13 +45,6 @@ If you got frame drops during the game for no reason, don’t worry, you’re no
  Did you install the game in HDD or SSD? We recommend installing the game on SSD so the problem might go.
 
  Since the FPS issue varies from person to person, we can’t promise this tip is working for everyone, but it’s worth trying.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Lower video settings
 
@@ -77,6 +63,13 @@ If you got frame drops during the game for no reason, don’t worry, you’re no
 
 If this fix doesn’t help, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Change NVIDIA settings
 
  If you have a NVIDIA graphic card, change the NVIDIA program settings would fix the issue.
@@ -88,6 +81,13 @@ If this fix doesn’t help, move to the next fix.
 5. Reboot the game to check.
 
 If it doesn’t help, move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your driver
 
@@ -111,10 +111,16 @@ If it doesn’t help, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -135,6 +141,13 @@ If it doesn’t help, move to the next fix.
 
 If it’s not working, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 6: Verify the game files
 
  Sometimes there’re some missing files that cause the FPS drop issue. You can fix it by Verify the game files.
@@ -143,13 +156,6 @@ If it’s not working, move to the next fix.
 2. Right-click on Dying Light and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-07_17-10-14.png)
 3. Click**LOCAL FILES** and click**Verify integrity of game files…**  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify.png)
 4. When the process is finished, reboot the game to check.
@@ -177,14 +183,16 @@ Hope this post helps and you can enjoy the game. Have fun!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-streamlabs-versus-obs-a-compreran-analysis-for-broadcasters/"><u>[Updated] 2024 Approved Streamlabs Versus OBS A Compreran Analysis for Broadcasters</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-meme-magic-perfect-10-design-tips-and-tricks/"><u>[Updated] Meme Magic Perfect 10 Design Tips & Tricks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-step-by-step-guide-to-professional-gopro-footage-for-2024/"><u>A Step-by-Step Guide to Professional Gopro Footage for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/filmmakers-toolkit-masterful-avi-to-gif-conversion-via-filmora-windowsmacos/"><u>Filmmaker’s Toolkit Masterful AVI to GIF Conversion via Filmora (Windows/macOS)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-to-resolve-d3d-setup-error-errgfxd3dinit-in-gta-v-gameplay/"><u>Guide to Resolve D3D Setup Error (ERR_GFX_D3D_INIT) in GTA V Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/persona-5-strikers-darkness-problem-tips-and-fixes-for-uninterrupted-gaming-fun/"><u>Persona 5 Strikers Darkness Problem: Tips and Fixes for Uninterrupted Gaming Fun</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-tips-to-reduce-initial-boot-time-frustrations-with-battlefront-ii-on-desktops/"><u>Quick Tips to Reduce Initial Boot Time Frustrations with Battlefront II on Desktops</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-checklist-5-key-points-for-choosing-the-perfect-smartwatch/"><u>The Ultimate Checklist: 5 Key Points for Choosing the Perfect Smartwatch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/winning-against-battlenet-troubles-expert-tips-and-solutions-to-get-you-online/"><u>Winning Against Battle.net Troubles: Expert Tips and Solutions to Get You Online</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-6-essential-tips-to-create-instas-most-attractive-unboxings/"><u>[Updated] 6 Essential Tips to Create Insta's Most Attractive Unboxings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-logos-sculpt-your-brand-with-stock-imagery/"><u>2024 Approved Free Logos Sculpt Your Brand with Stock Imagery</u></a></li>
+<li><a href="https://program-issues.techidaily.com/baldurs-gate-3-pc-crash-issue-solved-enjoy-seamless-gaming-experience/"><u>Baldur's Gate 3 - PC Crash Issue Solved, Enjoy Seamless Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-to-resolving-frostpunk-sudden-crashes/"><u>Expert Guide to Resolving Frostpunk Sudden Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/making-sticky-notes-stand-out-on-windows/"><u>Making Sticky Notes Stand Out on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-your-obs-no-more-screen-capture-issues/"><u>Resolved: Fixing Your OBS - No More Screen Capture Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solving-steam-issues-for-a-smooth-run-of-tiny-tinas-wonderlands-on-windows/"><u>Troubleshooting and Solving Steam Issues for a Smooth Run of Tiny Tina's Wonderlands on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-and-resolving-startup-issues-with-warframe/"><u>Understanding and Resolving Startup Issues with Warframe</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-11-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-narzo-60-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme Narzo 60 5G Device</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-mavix-m9-ergonomic-gaming-chair-a-comfort-revolution-in-gaming-furniture/"><u>Unveiling the Mavix M9 Ergonomic Gaming Chair - A Comfort Revolution in Gaming Furniture</u></a></li>
 </ul></div>
 

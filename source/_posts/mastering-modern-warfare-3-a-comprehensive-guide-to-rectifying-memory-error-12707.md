@@ -1,7 +1,7 @@
 ---
 title: "Mastering Modern Warfare 3: A Comprehensive Guide to Rectifying Memory Error 12707"
-date: 2024-10-10T05:14:42.837Z
-updated: 2024-10-15T03:09:36.693Z
+date: 2024-10-16T18:55:13.667Z
+updated: 2024-10-20T17:09:37.120Z
 tags:
   - win11
   - win10
@@ -54,10 +54,10 @@ To do so, first visit the website of your GPU manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
@@ -69,10 +69,10 @@ To do so, first visit the website of your GPU manufacturer:
  If the latest drivers didn’t give you luck, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Remove broken game files (PC)
@@ -90,6 +90,13 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-1.jpg)
 4. Wait for the process to complete. Then launch Warzone and check if it’s working now.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this method doesn’t do the trick, you can take a look at the next one.
 
 ### Fix 3: Remove Multiplayer game packs
@@ -100,27 +107,20 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-1.jpg)
 2. Select**Call of Duty: Modern Warfare** . (You might also need to select**Manage installation on External drive** .)  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
 4. Now restart your Xbox and check if Warzone is working now.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this trick doesn’t help you, simply check out the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall Warzone
 
@@ -147,18 +147,24 @@ If this trick doesn’t help you, simply check out the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-advanced-measures-to-record-mobile-devices/"><u>[New] In 2024, Advanced Measures to Record Mobile Devices</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-from-sky-to-screen-live-streaming-from-dji-drones/"><u>[New] In 2024, From Sky to Screen Live-Streaming From DJI Drones</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-quick-steps-to-record-movies-on-your-tech-devices/"><u>[New] Quick Steps to Record Movies on Your Tech Devices</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-dance-of-words-crafting-bouncing-text-effects/"><u>[Updated] 2024 Approved Dance of Words Crafting Bouncing Text Effects</u></a></li>
-<li><a href="https://program-issues.techidaily.com/battling-with-constant-pc-crashes-during-the-king-of-fighters-xv-heres-how-you-can-win/"><u>Battling with Constant PC Crashes During 'The King of Fighters XV'? Here's How You Can Win!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723013070377-boost-your-play-with-fortnites-season-eight-upgrade-fps-enhancements-explained/"><u>Boost Your Play with Fortnite's Season Eight Upgrade – FPS Enhancements Explained!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortless-tricks-for-fixing-apex-legends-launch-errors-quickly/"><u>Effortless Tricks for Fixing Apex Legends Launch Errors Quickly</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-infinix-smart-8-hd-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Infinix Smart 8 HD? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723012583607-how-to-stop-call-of-duty-vanguard-from-freezing-on-your-computer-pc-for-the-2024-update/"><u>How to Stop Call of Duty Vanguard From Freezing on Your Computer (PC) for the 2024 Update</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Oppo Reno 11F 5G? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/speedy-troubleshooting-guide-effortless-fixes-for-when-madden-ebby-wont-work/"><u>Speedy Troubleshooting Guide: Effortless Fixes for When Madden Ebby Won't Work</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-updating-minecraft-video-card-drivers-for-optimal-performance/"><u>Troubleshooting Tips: Updating Minecraft Video Card Drivers for Optimal Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixed-optimizing-connection-speeds-and-overcoming-high-ping-in-back-4-blood/"><u>[FIXED] Optimizing Connection Speeds and Overcoming High Ping in 'Back 4 Blood'</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-mastering-speech-recording-top-apps-for-your-ipad/"><u>[New] 2024 Approved Mastering Speech Recording Top Apps for Your iPad</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-evasive-action-to-escape-the-shadowban-snare-for-2024/"><u>[New] Evasive Action to Escape the Shadowban Snare for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instaidentity-100-innovative-caption-examples-for-global-sharing-for-2024/"><u>[Updated] InstaIdentity 100 Innovative Caption Examples for Global Sharing for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000781849-conquering-the-dark-fixing-far-cry-6s-opaque-screens/"><u>Conquering the Dark: Fixing Far Cry 6'S Opaque Screens</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-not-loading-here-are-the-solutions/"><u>Cyberpunk 2077 Not Loading? Here Are the Solutions!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-code-6-no-more-steps-to-fix-call-of-dutys-issues-for-pc-users-on-modern-warfare-and-diver-wars/"><u>Error Code 6 No More: Steps to Fix Call of Duty's Issues for PC Users on Modern Warfare & Diver Wars</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719311785872-fix-crashing-file-explorer-on-windows-11-now/"><u>Fix Crashing File Explorer on Windows 11 Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-stop-battlefield-v-from-freezing-or-crashing-on-your-computer/"><u>Fixes & Solutions: Stop Battlefield V From Freezing or Crashing on Your Computer</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-xiaomi-redmi-a2-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Xiaomi Redmi A2 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-division-2-not-launching-2024-tips/"><u>How to Fix Division 2 Not Launching – 2024 Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-darkest-dungeon-2-from-freezing-and-crashing-on-your-pc/"><u>How to Prevent Darkest Dungeon 2 From Freezing and Crashing on Your PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-artistry-of-image-editing-understanding-luts-role/"><u>In 2024, The Artistry of Image Editing Understanding LUTs' Role</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/navigating-through-vlcs-recording-options-for-2024/"><u>Navigating Through VLC's Recording Options for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/securing-smooth-iphone-video-playback-top-three-strategies-for-2024/"><u>Securing Smooth iPhone Video Playback Top Three Strategies for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-fix-resolving-slowdowns-on-the-updated-spotify-web-player-2022-version/"><u>The Ultimate Fix: Resolving Slowdowns on the Updated Spotify Web Player (2022 Version)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-solar-powered-charging-devices-expert-review-by-zdnet/"><u>Top 5 Solar Powered Charging Devices - Expert Review by ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fixes-for-when-persona-3-reload-wont-launch-expert-tips/"><u>Ultimate Fixes for When Persona 3 Reload Won't Launch – Expert Tips</u></a></li>
 </ul></div>
 

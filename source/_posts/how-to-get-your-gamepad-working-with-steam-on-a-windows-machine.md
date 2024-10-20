@@ -1,7 +1,7 @@
 ---
 title: How to Get Your Gamepad Working With Steam on a Windows Machine
-date: 2024-10-04T19:36:43.502Z
-updated: 2024-10-08T21:31:39.734Z
+date: 2024-10-16T17:01:35.387Z
+updated: 2024-10-20T19:14:08.084Z
 tags:
   - win11
   - win10
@@ -41,19 +41,6 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-166-1024x728.png)
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%ProgramData%**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/005.png)
@@ -63,28 +50,15 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap4-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Delete all the files and folders in this folder **except for the LocalContent folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap5.png)
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%AppData%**  and press **Enter** .
 
@@ -98,22 +72,15 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap275.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  8) Double-click the**Local**  folder to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/006.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  9) Delete the**Origin**  folder in the **Local** folder.
@@ -158,13 +125,6 @@ Or
 
 ![Driver Easy Scan Screen](https://images.drivereasy.com/wp-content/uploads/2019/12/Driver-Easy-Scan-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Update-graphics-driver.jpg)
@@ -200,6 +160,13 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this fix works, your Origin will open when you double-click its shortcut. If not, try the next fix, below.
 
 ---
@@ -224,6 +191,13 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap266-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Select the**Services** tab, check **Hide all Microsoft services** and then click **Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap17-2-1.png)
@@ -237,10 +211,10 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-12.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Go back to the**System Configuration** window and click **OK** .
@@ -269,11 +243,25 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap267.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Restart your PC when the Windows update process completed.
 
  If this fix works, Origin will open when you double-click its shortcut on the desktop. If not, try the next fix to reinstall Origin.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 7: Reinstall Origin**
 
@@ -296,10 +284,10 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap268.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 iv. Restart your Windows system when it is completed.
@@ -328,22 +316,18 @@ iv. Restart your Windows system when it is completed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-top-ten-dos-and-donts-in-the-youtube-world/"><u>[Updated] Top Ten Do's and Don'ts in the YouTube World</u></a></li>
-<li><a href="https://program-issues.techidaily.com/battlefield-v-blue-screen-fix-resolving-memory-error-1760-on-ps4-and-gaming-laptop/"><u>Battlefield V Blue Screen Fix - Resolving Memory Error 1760 on PS4 & Gaming Laptop</u></a></li>
-<li><a href="https://win-blog.techidaily.com/beat-the-unreal-engine-4-mayhem-in-outriders-fix-for-process-has-crashed/"><u>Beat the Unreal Engine 4 Mayhem in Outriders: Fix for 'Process Has Crashed'</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/elite-archives-for-3d-graffiti-fonts/"><u>Elite Archives for 3D Graffiti Fonts</u></a></li>
-<li><a href="https://windows11.techidaily.com/eradicating-microsoft-edge-on-win11/"><u>Eradicating Microsoft Edge on Win11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723007779449-heroes-of-the-storm-connectivity-fixed-restart-your-adventure/"><u>Heroes of the Storm Connectivity Fixed – Restart Your Adventure!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-the-dark-side-solving-epic-games-launcher-display-issues/"><u>How to Overcome the Dark Side: Solving Epic Games Launcher Display Issues</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/latest-wwdc-2025-insights-apples-new-releases-and-updates/"><u>Latest WWDC 2025 Insights: Apple's New Releases & Updates</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-roblox-boot-up-obstacles-a-comprehensive-guide-updated/"><u>Overcoming Roblox Boot-Up Obstacles: A Comprehensive Guide [Updated ]</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-walkthrough-overcoming-installation-hurdles-for-mass-effect-legendary-edition/"><u>Solution Walkthrough: Overcoming Installation Hurdles for Mass Effect Legendary Edition</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/tales-of-trial-by-fire-vs-innovative-challenges-for-2024/"><u>Tales of Trial by Fire Vs. Innovative Challenges for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-of-both-worlds-online-and-offline-glitch-video-editors-compared/"><u>The Best of Both Worlds Online and Offline Glitch Video Editors Compared</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721267874604-the-definitive-guide-to-image-recovery-making-the-most-of-stellar-photo-restoration-for-windows-users/"><u>The Definitive Guide to Image Recovery: Making the Most of Stellar Photo Restoration for Windows Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-solving-wrongdoers-keyboard-malfunctions-on-pc/"><u>Troubleshooting Guide: Solving 'Wrongdoers' Keyboard Malfunctions on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-resolving-warzone-pc-match-finding-issues/"><u>Troubleshooting Steps: Resolving 'Warzone' PC Match-Finding Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-tips-for-reducing-long-load-durations-in-fallout-4/"><u>Ultimate Troubleshooting Tips for Reducing Long Load Durations in Fallout 4</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-redmi-note-12-pro-4g-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Redmi Note 12 Pro 4G.</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-how-to-record-and-save-voices-on-iphone-efficiently/"><u>[New] 2024 Approved How to Record & Save Voices on iPhone Efficiently</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-how-to-overlay-photos-on-computer-desktop-and-online/"><u>[Updated] In 2024, How to Overlay Photos on Computer (Desktop & Online)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-ch340-usb-to-serial-adapter-software-for-windows-11/"><u>Download & Update CH340 USB-to-Serial Adapter Software for Windows 11</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/einfache-sicherung-von-windows-7-auf-einem-qnap-nas-system-schritt-fur-schritt-anleitung/"><u>Einfache Sicherung Von Windows 7 Auf Einem QNAP NAS System - Schritt-Für-Schritt-Anleitung</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-realme-gt-5-240w-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-yuva-2-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Lava Yuva 2 Phone without Any Data Loss</u></a></li>
+<li><a href="https://program-issues.techidaily.com/minecraft-freeze-fixes-top-tips-to-get-your-game-running-smoothly-again/"><u>Minecraft Freeze Fixes: Top Tips to Get Your Game Running Smoothly Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gamers-rejoice-the-king-of-fighters-xv-crash-errors-now-squashed/"><u>PC Gamers Rejoice: The King of Fighters XV Crash Errors Now Squashed!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/plug-and-play-fun-with-the-singing-machine-sml385btbk-the-most-accessible-colorful-karaoke-device/"><u>Plug & Play Fun With the Singing Machine SML385BTBK: The Most Accessible Colorful Karaoke Device!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-palworld-session-search-issue-a-comprehensive-guide/"><u>Solving the 'Palworld' Session Search Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/step-by-step-process-to-preserve-instagrams-ephemeral-content-for-2024/"><u>Step-by-Step Process to Preserve Instagram's Ephemeral Content for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-essential-seo-handbook-for-podcast-success-for-2024/"><u>The Essential Seo Handbook for Podcast Success for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-when-your-minecraft-load-screen-wont-proceed/"><u>Troubleshooting Tips When Your Minecraft Load Screen Won't Proceed</u></a></li>
 </ul></div>
 

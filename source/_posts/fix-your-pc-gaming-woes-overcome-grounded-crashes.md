@@ -1,7 +1,7 @@
 ---
 title: "Fix Your PC Gaming Woes: Overcome 'Grounded' Crashes"
-date: 2024-08-28T06:37:21.529Z
-updated: 2024-08-29T06:37:21.529Z
+date: 2024-10-14T18:48:24.668Z
+updated: 2024-10-20T16:35:28.366Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/f6689b1ce3b098830c1181e612252ff5b928460b4
 2. **[Run Apex Legends as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Verify game files](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Edit registry](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Update the graphics driver
 
@@ -64,9 +71,6 @@ Here is how to grant administrative privileges to Apex Legends:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-564.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
  2) In File Explorer, right click on **Apex Legends .exe**  and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-565.png)
@@ -78,8 +82,12 @@ Here is how to grant administrative privileges to Apex Legends:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Verify game files
 
  You should also check the integrity of the game files to see if any of them are corrupt or missing.
@@ -94,12 +102,22 @@ Here is how to verify game files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-561.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3) Wait until the repair process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Once done, run Apex Legends and check if the engine error is fixed. If yes, then great! If the issue persists, please move on to**Fix 4** , below.
 
@@ -117,6 +135,13 @@ Here are the steps to add the command line:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-474.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Add the following command to the text document.
 
 Windows Registry Editor Version 5.00
@@ -125,23 +150,21 @@ Windows Registry Editor Version 5.00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-475.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Click**File** \>**Save as…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-476.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  4) Save the file name as**fix.reg** and select the type as**All files** . then click Save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-477.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  5) Click**Yes** once you’re prompted about the message.
 
  6) Run Apex Legends again to see if the Engine error has been fixed.
@@ -159,8 +182,6 @@ Windows Registry Editor Version 5.00
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +189,20 @@ Windows Registry Editor Version 5.00
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-screen-solidarities-picking-the-right-media-company/"><u>[New] 2024 Approved Screen Solidarities Picking the Right Media Company</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-bringing-down-the-time-barrier-for-fastening-fb-video-content/"><u>[New] Bringing Down the Time Barrier for Fastening FB Video Content</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-free-video-openers-to-increase-views/"><u>[New] Free Video Openers to Increase Views</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-quick-guide-how-to-revamp-facebook-profile-imagery/"><u>[New] Quick Guide How to Revamp Facebook Profile Imagery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-teleport-into-virtuality-top-10-mobile-vr-headsets-reviewed/"><u>[Updated] Teleport Into Virtuality Top 10 Mobile VR Headsets Reviewed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/boost-bandw-vibrancy-ps-grading-hacks-for-2024/"><u>Boost B&W Vibrancy PS Grading Hacks for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-learn-to-turn-comments-on-or-off-on-youtube-easily/"><u>In 2024, Learn to Turn Comments On or Off on YouTube Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/inside-look-on-defeating-darkness-overcoming-lol-black-screen-glitches/"><u>Inside Look on Defeating Darkness: Overcoming LoL Black Screen Glitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-difficulties-in-launching-the-razer-synapse-application/"><u>Overcoming Difficulties in Launching the Razer Synapse Application</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-challenge-of-elevated-cpu-usage-while-playing-starfield-expert-tips-and-tricks/"><u>Overcoming the Challenge of Elevated CPU Usage While Playing Starfield: Expert Tips and Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-playback-problems-in-the-phasmophobia-virtual-reality-experience/"><u>Resolving Playback Problems in the Phasmophobia Virtual Reality Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-league-of-legends-link-up-glitch-patch-notes-from-the-2024-update/"><u>Resolving the League of Legends Link-Up Glitch: Patch Notes From the 2024 Update</u></a></li>
+<li><a href="https://program-issues.techidaily.com/seamless-adventure-restored-in-dragon-quest-xi-fix-for-previous-game-freezes/"><u>Seamless Adventure Restored in Dragon Quest XI: Fix for Previous Game Freezes</u></a></li>
+</ul></div>
 

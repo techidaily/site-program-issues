@@ -1,7 +1,7 @@
 ---
 title: "Resolved: How to Fix NieR: Automata Freezing Issues"
-date: 2024-10-02T19:51:59.004Z
-updated: 2024-10-08T16:21:14.081Z
+date: 2024-10-14T18:28:35.625Z
+updated: 2024-10-20T17:55:44.502Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 | Graphics  | AMD Radeon R9 270X or NVIDIA GeForce GTX 960 |
 | Storage   | 42 GB available space                        |
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -37,6 +44,19 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 3. [Verify game files](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 5. [Disable your antivirus software](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Edit username
 
@@ -57,21 +77,7 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch the game to check.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this doesn’t work for you, then try to verify game files in Steam.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Verify game files
 
@@ -84,13 +90,6 @@ If this fix doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-2.jpg)
 4. When the process is completed, relaunch NieR Replicant.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this fix doesn’t bring luck, take a look at the next one below.
 
@@ -113,10 +112,10 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -137,16 +136,10 @@ Here’s how to disable Windows Security temporarily.
 2. Select**Windows Security** in the left pane, and click**Virus & threat protection** .  
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
@@ -155,13 +148,20 @@ Here’s how to disable Windows Security temporarily.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Turn off Real-time protection.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Relaunch NieR Replicant and check if it’s running properly.
@@ -187,22 +187,18 @@ Relaunch NieR Replicant and check if it’s running properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-windows-11-camcorders-and-webcams-guide-for-2024/"><u>[Updated] Essential Windows 11 Camcorders & Webcams Guide for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-face-flaunting-visual-guidebook/"><u>[Updated] Face Flaunting Visual Guidebook</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-action-seekers-showdown-hero-4-meets-ghost-s-drifting/"><u>2024 Approved Action Seekers' Showdown Hero 4 Meets Ghost-S Drifting</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cs2-performance-issues-solved-eliminate-latency-and-reduce-your-ping-on-pc/"><u>CS2 Performance Issues Solved: Eliminate Latency & Reduce Your Ping on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-not-responding-error-how-to-get-valorant-running-on-your-pc-latest-guide/"><u>Fix 'Not Responding' Error: How to Get Valorant Running on Your PC (Latest Guide)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-world-of-warcraft-unable-to-open-errors-on-pc-solutions-that-work/"><u>Fixing 'World of Warcraft Unable to Open' Errors on PC - Solutions That Work!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/gaming-hack-elevating-your-gameplay-with-higher-fps-on-tainted-grail-conquest-stage/"><u>Gaming Hack: Elevating Your Gameplay with Higher FPS on Tainted Grail: Conquest Stage</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Google Pixel Fold? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Vivo Y100A? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-farming-simulator-22-gameplay-fixing-fps-drops-on-the-pc-build/"><u>Optimizing Farming Simulator 22 Gameplay: Fixing FPS Drops on the PC Build</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-issue-of-amd-radeon-software-failure-step-by-step-guide/"><u>Solving the Issue of AMD Radeon Software Failure: Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/swift-solution-to-upgrade-malfunction-fixing-windows-update-error-0x80246007/"><u>Swift Solution to Upgrade Malfunction: Fixing Windows Update Error 0X80246007</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-6-typical-gpt-car-related-setup-glitches-and-fixes/"><u>Top 6 Typical GPT Car-Related Setup Glitches & Fixes</u></a></li>
-<li><a href="https://media-tips.techidaily.com/ultimate-guide-using-a-dlna-compatible-device-for-media-playback-on-windows-operating-systems/"><u>Ultimate Guide: Using a DLNA Compatible Device for Media Playback on Windows Operating Systems</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/updated-best-4-morgan-freeman-voice-generator-tools-for-voice-cloning-for-2024/"><u>Updated Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/warframe-stuck-on-start-screen-a-comprehensive-guide-to-fixing-it-fast/"><u>Warframe Stuck on Start Screen? A Comprehensive Guide to Fixing It Fast!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722982680843-warzone-directx-troubles-here-are-4-easy-fixes-to-restore-your-gameplay/"><u>Warzone DirectX Troubles? Here Are 4 Easy Fixes to Restore Your Gameplay!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-breaking-down-the-font-inclusion-process-in-ae/"><u>[Updated] Breaking Down the Font Inclusion Process in AE</u></a></li>
+<li><a href="https://program-issues.techidaily.com/avoid-crashes-in-deathloop-effortless-tips-and-techniques-for-players/"><u>Avoid Crashes in Deathloop - Effortless Tips and Techniques for Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-common-issues-making-your-iphone-compatible-with-itunes-for-windows-10-users/"><u>Banish Common Issues: Making Your iPhone Compatible with iTunes for Windows 10 Users</u></a></li>
+<li><a href="https://win-guides.techidaily.com/crafting-confidence-in-your-subscribers-the-art-of-trustworthy-email-marketing-using-massmail/"><u>Crafting Confidence in Your Subscribers: The Art of Trustworthy Email Marketing Using MassMail</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-perfect-youtube-music-playlists-via-web-and-mobile-platforms-for-2024/"><u>Crafting Perfect YouTube Music Playlists via Web & Mobile Platforms for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-how-to-fix-persistent-lag-and-smoothing-frame-rate-issues/"><u>Cyberpunk 2077: How to Fix Persistent Lag & Smoothing Frame Rate Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-dying-light-audio-problem-a-complete-guide/"><u>Fixing the Dying Light Audio Problem: A Complete Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-xs-max-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock From iPhone XS Max You Should Try Out</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/instant-file-accessibility-syncing-from-pc-to-iphone-for-2024/"><u>Instant File Accessibility Syncing From PC to iPhone for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/is-inshot-surging-above-all-else-in-edits/"><u>Is InShot Surging Above All Else in Edits?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-dragons-dogma-2-experience-a-guide-to-addressing-low-fps-and-hitches/"><u>Optimizing Dragon's Dogma 2 Experience: A Guide to Addressing Low FPS and Hitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-march-2024-guide-to-bypassing-assassins-creed-odyssey-pc-performance-hiccups/"><u>The Ultimate March 2024 Guide to Bypassing Assassin's Creed Odyssey PC Performance Hiccups</u></a></li>
 </ul></div>
 

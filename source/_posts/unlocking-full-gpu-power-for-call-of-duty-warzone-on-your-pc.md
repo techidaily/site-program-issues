@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Full GPU Power for Call of Duty: Warzone on Your PC"
-date: 2024-10-07T22:34:05.151Z
-updated: 2024-10-14T23:02:56.846Z
+date: 2024-10-15T16:24:44.022Z
+updated: 2024-10-20T16:41:39.438Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/38e4000e96c33206bb992b3f696967e164e1f69dc
 5. **[Delete the game cache files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Adjust the in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Reboot your network
 
  Many players reported the Warzone dev error 6328 can be caused by network glitches. To see if that’s the case, try troubleshooting your router and modem.
@@ -49,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/38e4000e96c33206bb992b3f696967e164e1f69dc
  Simply **turn off the router and modem and plug it back in after at least 30 seconds** . This is supposed to refresh your device and clear the clogged connection. And you’re also recommended to**use a wired connection** instead of Wi-Fi for more stable gameplay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 modem
 
@@ -79,10 +65,10 @@ wireless router
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
@@ -92,6 +78,13 @@ wireless router
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Check how Warzone works. If the driver update doesn’t give you luck, move on to the third solution.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Run Warzone on DirectX 11
 
@@ -115,8 +108,22 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.jpg)
 2. Click**Settings** under the Performance section.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
@@ -125,30 +132,23 @@ wireless router
 5. Select**C drive** and check **Custom size** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5 – Delete the game cache files
@@ -160,13 +160,6 @@ wireless router
 
  Restart the Battle.net client and see whether you could play Warzone as normal. If the game is still unplayable, try the last method.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6 – Adjust the in-game graphics settings
 
  If you’re able to get into Warzone and the error 6328 appears only in the middle of the game, tweaking certain graphics settings might help the situation. Here’s how:
@@ -177,6 +170,13 @@ wireless router
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Save the changes and restart Warzone to test. Then the game should be running perfectly without the 6328 error code.
 
@@ -202,19 +202,24 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-ancestral-creations-public-domain-masterpieces/"><u>[Updated] Ancestral Creations Public Domain Masterpieces</u></a></li>
-<li><a href="https://win11.techidaily.com/8-ways-to-boost-your-studying-on-windows/"><u>8 Ways to Boost Your Studying on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-for-fixing-persistent-lags-and-freezes-during-deathloop-sessions-on-your-gaming-console-or-pc/"><u>Expert Advice for Fixing Persistent Lags and Freezes During Deathloop Sessions on Your Gaming Console or PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-youtube-videos-with-audio-but-no-visuals-a-guide-for-chrome-and-firefox-users/"><u>Fix YouTube Videos with Audio but No Visuals: A Guide for Chrome & Firefox Users</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-12-mini-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone 12 mini to iPad | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-xiaomi-redmi-note-12-pro-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Xiaomi Redmi Note 12 Pro 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-infinix-gt-10-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Infinix GT 10 Pro without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-not-showing-win10s-fullview-windows/"><u>Monitor Not Showing Win10's Fullview Windows</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/quality-commitment-msi-responds-to-z790-chipset-flaws-with-immediate-replacement-of-defective-units/"><u>Quality Commitment: MSI Responds to Z790 Chipset Flaws with Immediate Replacement of Defective Units</u></a></li>
-<li><a href="https://program-issues.techidaily.com/say-goodbye-to-crashes-in-diablo-ii-resurrected-solutions-revealed/"><u>Say Goodbye to Crashes in Diablo II: Resurrected - Solutions Revealed!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-when-msi-afterburner-fails-to-detect-gpus-under-windows-1110/"><u>Troubleshooting Tips: When MSI Afterburner Fails to Detect GPUs Under Windows 11/10</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/understanding-windows-disk-cleanup-what-are-the-risks-and-benefits-of-deleting-essential-files/"><u>Understanding Windows Disk Cleanup: What Are the Risks and Benefits of Deleting Essential Files?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/untangle-your-fifa-19-gameplay-with-easy-fixes-for-the-notorious-directx-error/"><u>Untangle Your FIFA 19 Gameplay with Easy Fixes for the Notorious DirectX Error</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-anonymous-surveillance-methods-hiding-private-data-effectively/"><u>[New] In 2024, Anonymous Surveillance Methods Hiding Private Data Effectively</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-unmatched-12-apps-for-endless-screen-saving/"><u>[New] In 2024, Unmatched 12 Apps for Endless Screen Saving</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-and-correcting-oculus-visual-disturbances-linked-with-graphic-hardware/"><u>Addressing and Correcting Oculus Visual Disturbances Linked with Graphic Hardware</u></a></li>
+<li><a href="https://blog-min.techidaily.com/efficient-techniques-for-converting-vob-files-into-mov-format/"><u>Efficient Techniques for Converting VOB Files Into MOV Format</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-overcome-hyper-scapes-sudden-closures-during-pc-play/"><u>Expert Tips to Overcome Hyper Scape's Sudden Closures During PC Play</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-nokia-71-exceptional-screen-and-camera-capabilities-for-value-seekers/"><u>Exploring the Nokia 7.1: Exceptional Screen and Camera Capabilities for Value Seekers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-not-enough-space-error-in-god-of-war-for-smoother-gaming-experience/"><u>Fix ‘Not Enough Space’ Error in God of War for Smoother Gaming Experience</u></a></li>
+<li><a href="https://media-tips.techidaily.com/future-of-smart-viewing-samsung-excludes-google-voice-control-from-upcoming-televisions/"><u>Future of Smart Viewing: Samsung Excludes Google Voice Control From Upcoming Televisions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/halo-infinites-solved-monochrome-visual-glitches-explained/"><u>Halo Infinite's Solved Monochrome Visual Glitches Explained</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-oneplus-ace-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-12-pro-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 12 Pro Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-initialization-errors-in-deathloop-for-a-smooth-startup/"><u>How to Overcome Initialization Errors in Deathloop for a Smooth Startup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-the-2024-broccoli-hurdle-in-destiny-2-an-experts-guide/"><u>How to Overcome the 2024 Broccoli Hurdle in Destiny 2 - An Expert's Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-reboot-iphones-wi-fi-and-bluetooth-for-troubleshooting-a-step-by-step-guide/"><u>How to Reboot iPhone's Wi-Fi and Bluetooth for Troubleshooting: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-best-webinar-title-generator/"><u>In 2024, Best Webinar Title Generator</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-seamless-srt-discover-the-top-8-subs-to-srts-software-for-every-os/"><u>In 2024, Seamless SRT Discover the Top 8 Subs to SRTS Software for Every OS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-utorrent-download-and-peer-connectivity-hiccups/"><u>Overcoming uTorrent Download and Peer Connectivity Hiccups</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-troubleshooting-fixes-for-pc-gaming-stability-with-the-king-of-fighters-xv/"><u>The Ultimate Troubleshooting Fixes for PC Gaming Stability with The King of Fighters XV</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-unfreezing-call-of-duty-vanguard-gameplay-smoothly/"><u>Troubleshooting Tips for Unfreezing Call of Duty: Vanguard Gameplay Smoothly</u></a></li>
 </ul></div>
 

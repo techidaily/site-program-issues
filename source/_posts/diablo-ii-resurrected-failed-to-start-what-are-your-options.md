@@ -1,7 +1,7 @@
 ---
 title: Diablo II Resurrected Failed to Start – What Are Your Options?
-date: 2024-10-01T17:36:24.810Z
-updated: 2024-10-08T21:12:28.744Z
+date: 2024-10-16T17:35:11.795Z
+updated: 2024-10-20T18:01:48.705Z
 tags:
   - win11
   - win10
@@ -66,13 +66,6 @@ If you don’t know how to find your PC specs, take the steps below.
 
  If your game still isn’t launching even though your computer meets the system requirements, follow the troubleshooting steps below to identify and resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -89,19 +82,6 @@ If you don’t know how to find your PC specs, take the steps below.
 **Graphics drivers** act as a bridge that allows your operating system and applications, such as Starfield, to interact effectively with your graphics hardware.
 
  When Starfield or any other game fails to launch, outdated or incompatible graphics drivers can often be a leading cause of the problem. To ensure that your system is equipped with the latest software to support your game’s requirements, enhance performance, and maintain compatibility, you should**update your graphics drivers** .
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 1: Manually update graphics drivers
 
@@ -120,6 +100,13 @@ If you have no idea what kind of graphics card your PC is packing,
 3. Select the**Performance** tab. In the left sidebar, select**GPU** to view GPU-related information. Then you’ll see information about your graphics card, including its name and model. The name displayed here corresponds to your graphics card.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-identify-your-graphics-card.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update graphics drivers (recommended)
 
@@ -155,6 +142,13 @@ To download and install the latest Windows updates, take these steps:
 
 ![Windows 11 check for Windows updates](https://images.drivereasy.com/wp-content/uploads/2022/04/win11-Windows-Update-Check-for-updates.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### On Windows 10
 
  Press the**Windows logo + I keys** simultaneously to open Settings. Then go to**Update & Security > Windows Update** .
@@ -175,24 +169,10 @@ To temporarily disable the Windows Firewall:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-disable-windows-firewall.png)
 3. Click **Turn Windows Defender Firewall on or off** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-windows-features-on-or-off.png)
 4. Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network, and Public network. Then click **OK** .  
 
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-firewall.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 To temporarily turn off your antivirus software:
 
@@ -201,10 +181,10 @@ To temporarily turn off your antivirus software:
 3. Then launch Starfield and see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Verify the integrity of game files (Steam users)
@@ -222,10 +202,10 @@ To temporarily turn off your antivirus software:
 5. Steam will verify the game’s files – this process may take several minutes. When the process is complete, try to launch Starfield and see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Update the Xbox and Gaming Services apps
@@ -247,10 +227,10 @@ Follow the steps below to do this.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/Xbox-status.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Uninstall and reinstall the game
@@ -273,15 +253,22 @@ Follow the steps below to do this.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-run-the-system-file-checker.jpg)
 5. Now type **sfc /scannow**  and press Enter. Then it’ll start scanning the integrity of all protected operating system files and replace incorrect, corrupted, changed, or damaged versions with the correct versions.  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When you see a message that says “Verification 100% complete”, type**exit** and press Enter.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/use-System-File-Checker-to-repair-corrupted-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  However, this tool may not help you with a 100% guarantee. Sometimes it fails to fix an underlying problem. If that’s your case, you can try **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , a powerful tool that specializes in Windows repair.
@@ -295,6 +282,13 @@ Below is how you can benefit from the use of Fortect.
 3. If it detects any issues on your PC, click **Start Repair**  to let it start the repairing process.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, do not hesitate to contact their support team.
 
@@ -315,18 +309,18 @@ Below is how you can benefit from the use of Fortect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-how-to-record-lectures-on-mac/"><u>[New] 2024 Approved How to Record Lectures on Mac</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-voice-over-techniques-creating-compelling-video-content/"><u>[New] Voice Over Techniques Creating Compelling Video Content</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-liftoff-your-phone-images-with-free-magnification-app/"><u>[Updated] In 2024, Liftoff Your Phone Images with Free Magnification App</u></a></li>
-<li><a href="https://windows11.techidaily.com/autopilot-off-stopping-chromes-unwanted-tab-openings/"><u>Autopilot Off: Stopping Chrome's Unwanted Tab Openings</u></a></li>
-<li><a href="https://program-issues.techidaily.com/defeat-mozilla-firefoxs-freeze-problem-a-step-by-step-guide/"><u>Defeat Mozilla Firefox's Freeze Problem: A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-wwe-2k20-pc-crashing-problems-without-hassle/"><u>Fix WWE 2K20 PC Crashing Problems Without Hassle</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723009070969-fix-your-borderlands-amoknot-loading-top-strategies-inside/"><u>Fix Your Borderlands amoKnot Loading: Top Strategies Inside!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ls-0013-error-fix-for-borderlands-3-effective-solutions-explored/"><u>LS-0013 Error Fix for Borderlands 3: Effective Solutions Explored</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimize-your-play-effective-fixes-for-forza-horizon-5s-performance-crashes-on-windows-pcs/"><u>Optimize Your Play: Effective Fixes for Forza Horizon 5'S Performance Crashes on Windows PCs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-installation-hurdles-how-to-get-your-football-manager-2023-game-running-smoothly/"><u>Overcome Installation Hurdles: How to Get Your Football Manager 2023 Game Running Smoothly</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/rapid-video-capture-software-w-audible-commentaries/"><u>Rapid Video Capture Software W/ Audible Commentaries</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-vivo-y78plus-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Vivo Y78+ password or pattern lock</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/visionary-verdicts-expert-picks-for-the-top-10-cameras-for-2024/"><u>Visionary Verdicts Expert Picks for the Top 10 Cameras for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-enhancing-online-presence-obs-and-facebook-synergy/"><u>[Updated] 2024 Approved Enhancing Online Presence OBS & Facebook Synergy</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-visuals-theory-to-practice-with-colors/"><u>2024 Approved Crafting Visuals Theory to Practice with Colors</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/6kej5rg66zu76iwm5lik5pqr5pmc5lin6kal5pah5lu25lml5lid5asn5oqa5ben/"><u>解決電腦上暫時不見文件之七大技巧</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boost-your-rainbow-six-extraction-gameplay-with-better-frames-per-second-fps/"><u>Boost Your Rainbow Six Extraction Gameplay with Better Frames Per Second (FPS)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-to-overcome-fatal-errors-encountered-while-playing-ghostrunner-on-windows-10/"><u>Effective Solutions to Overcome Fatal Errors Encountered While Playing Ghostrunner on Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-cannot-connect-to-server-problem-in-minecraft-gaming/"><u>How To Overcome 'Cannot Connect to Server' Problem In Minecraft Gaming</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/icloud-unlocker-download-unlock-icloud-lock-for-your-iphone-11-pro-by-drfone-ios/"><u>iCloud Unlocker Download Unlock iCloud Lock for your iPhone 11 Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rainbow-six-siege-connection-error-fixes-tips-for-a-smooth-multiplayer-experience/"><u>Rainbow Six Siege Connection Error Fixes - Tips for a Smooth Multiplayer Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/repair-steps-resolving-non-launch-problems-in-farming-simulator-22/"><u>Repair Steps: Resolving Non-Launch Problems in Farming Simulator 22</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-dilemma-of-your-iphone-not-recognizing-by-itunes-in-windows-11-environment/"><u>Resolving the Dilemma of Your iPhone Not Recognizing by iTunes in Windows 11 Environment</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-ultimate-walkthrough-to-get-the-latest-sata-storage-device-drivers-on-your-pc-with-windows-os/"><u>The Ultimate Walkthrough to Get the Latest SATA Storage Device Drivers on Your PC with Windows OS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-star-wars-squadrons-crashes-fixed/"><u>Troubleshooting Tips for Star Wars Squadrons Crashes Fixed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-solutions-for-resolving-ghost-touch-issues-on-your-iphone-a-step-by-step-guide/"><u>Ultimate Solutions for Resolving Ghost Touch Issues on Your iPhone - A Step-by-Step Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Dark Mode Display Glitches in COD: WWII Game on Windows Systems – Fix Now!"
-date: 2024-10-08T03:19:37.062Z
-updated: 2024-10-15T01:39:43.027Z
+date: 2024-10-14T17:02:51.647Z
+updated: 2024-10-20T17:31:34.310Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ Recently many Fallout 76 players have been plagued by the**Fallout 76 disconnect
 6. **[Switch the DNS server](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Is Fallout 76 down?](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1:**Reset Winsock**
 
  Winsock is an application in Windows that handles the data on the computer that programs use for Internet access. So when you can’t connect Fallout 76 to its server, you can give Winsock a try. It reverts the Winsock Catalog back to its default settings, which often proves useful in network problems.
@@ -57,18 +50,18 @@ Here is how to reset Winsock data:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer.
 
 5) Launch Fallout 76 to see if it can be connected to the game server. If yes, then great! If the issue remains, please try**Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2:**Close bandwidth hogging applications**
 
@@ -106,13 +99,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5af0deb80ba.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -122,10 +108,10 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Restart your network
@@ -153,10 +139,10 @@ _wireless router_
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 5: Flush your DNS and Renew your IP**
@@ -181,6 +167,13 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
  3) Type**the following command line** and press **Enter**  on your keyboard.
@@ -189,37 +182,30 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11-5.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Type**the following command line** and press **Enter**  on your keyboard.
 
 **ipconfig /renew**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5) Launch Fallout 76.
 
  Check to see if the Fallout 76 connecting issue still occurs. If it is still not fixed, please try**Fix 6** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Switch the DNS server
 
@@ -231,6 +217,19 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In **View by** , choose **Category** . Then click **View network status and tasks** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-611.png)
@@ -239,15 +238,22 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-612.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Right-click on**your current network** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-613.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Double-click **Internet Protocol Version 4(TCP/IPv4)**  to view its properties.
@@ -293,24 +299,22 @@ Here is how to switch the DNS server to Google Public DNS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-learn-to-navigate-two-screens-a-comprehensible-guide-to-floating-window-on-netflix-for-2024/"><u>[New] Learn to Navigate Two Screens A Comprehensible Guide to Floating Window on Netflix for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-essentials-of-using-azures-voice-recognition/"><u>[New] The Essentials of Using Azure's Voice Recognition</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeo-tribute-spotlight/"><u>2024 Approved Vimeo Tribute Spotlight</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-guide-to-m3-macbook-pro-anticipated-arrival-pricing-info-and-detailed-specs/"><u>Comprehensive Guide to M3 MacBook Pro: Anticipated Arrival, Pricing Info & Detailed Specs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/deathloop-not-launched-heres-how-you-can-solve-it/"><u>Deathloop Not Launched? Here’s How You Can Solve It!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnose-and-repair-why-your-pacific-drive-wont-launch-and-how-to-overcome-it/"><u>Diagnose & Repair: Why Your Pacific Drive Won't Launch and How to Overcome It</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-game-crashing-issues/"><u>How to Fix Game Crashing Issues</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oneplus-12r-drfone-by-drfone-android/"><u>How to Screen Mirroring OnePlus 12R? | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-efficiently-configuring-zoom-for-flawless-calls/"><u>In 2024, Efficiently Configuring Zoom for Flawless Calls</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/last-epoch-wont-boot-on-your-pc-masterful-fixes-and-updates-for-a-seamless-gaming-experience-202n/"><u>Last Epoch Won't Boot on Your PC? Masterful Fixes and Updates for a Seamless Gaming Experience (202N)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-pcmobile-video-filter-techniques-for-2024/"><u>Mastering PC/Mobile Video Filter Techniques for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-initialization-problems-in-your-atomic-heart-app/"><u>Overcoming Initialization Problems in Your Atomic Heart App</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-launch-screen-hiccups-in-cold-war-a-guide-for-players-and-consoles-users/"><u>Overcoming Launch Screen Hiccups in 'Cold War': A Guide for Players and Consoles Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-black-ops-cold-war-interface-bug-27711-fixed/"><u>Resolved: Black Ops Cold War Interface Bug 27711 Fixed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-dinosaur-adventures-ultimate-guide-to-solve-jurassic-world-evolution-crashes/"><u>Smooth Dinosaur Adventures: Ultimate Guide to Solve Jurassic World Evolution Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-for-fall-guys-not-starting-up-correctly-play-without-interruptions/"><u>Step-by-Step Fixes for Fall Guys Not Starting Up Correctly - Play Without Interruptions</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/transforma-tus-datos-de-sonido-sin-costo-usando-la-funcionalidad-online-de-conversion-ram-a-mp3-de-movavi/"><u>Transforma Tus Datos De Sonido Sin Costo Usando La Funcionalidad Online De Conversión RAM a MP3 De Movavi</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/unveiling-ipads-full-potential-a-timelapse-journey-begins-here/"><u>Unveiling iPad's Full Potential A Timelapse Journey Begins Here</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-elevate-your-video-game-on-instagram-with-right-dimensions/"><u>[New] In 2024, Elevate Your Video Game on Instagram with Right Dimensions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-explore-a-world-of-delicious-treats-top-rated-cookie-shops/"><u>[New] In 2024, Explore a World of Delicious Treats Top-Rated Cookie Shops</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-tier-free-memes-for-everyday-chuckles/"><u>[New] Top-Tier Free Memes for Everyday Chuckles</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722855049012-basketball-bonanza-unleashed-experience-the-thrills-of-march-madness-and-final-four-live/"><u>Basketball Bonanza Unleashed: Experience the Thrills of March Madness & Final Four Live!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/combatting-fraudgpt-essential-self-defense-tips/"><u>Combatting FraudGPT: Essential Self-Defense Tips</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/explore-the-leading-10-video-editing-tools-for-your-computer-in-this-comprehensive-list/"><u>Explore the Leading 10 Video Editing Tools for Your Computer in This Comprehensive List</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-how-to-stop-halo-3-from-crashing-on-your-pc/"><u>Fixes and Solutions: How to Stop Halo 3 From Crashing on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-overcome-constant-crashing-in-valheim-game/"><u>Fixes and Solutions: Overcome Constant Crashing in Valheim Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004091413-how-to-address-the-notorious-error-4201-on-genshin-impact-detailed-fixes/"><u>How To Address the Notorious Error 4201 on Genshin Impact – Detailed Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/league-of-legends-connectivity-fix-overcoming-lag-and-disconnects/"><u>League of Legends Connectivity Fix: Overcoming Lag and Disconnects</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-gta-style-interruptions-solve-hitman-3s-pc-crash-issues-in-the-new-year/"><u>No More GTA-Style Interruptions: Solve Hitman 3'S PC Crash Issues in the New Year</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-your-sea-of-thieves-game-crash-issues-here/"><u>Resolve Your Sea of Thieves Game Crash Issues Here</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/sound-capture-module-for-iphone-24-year-for-2024/"><u>Sound Capture Module for iPhone '24 Year for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-struggling-with-bf2042-expert-advice-for-resolving-pc-game-crashes/"><u>Stop Struggling with BF2042: Expert Advice for Resolving PC Game Crashes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/subir-videos-desde-mp4mpeg-a-flv-sin-costo-con-convertidor-online-de-movavi/"><u>Subir Videos Desde MP4/MPEG a FLV Sin Costo Con Convertidor Online De Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steams-remote-play-top-solutions-for-when-it-fails/"><u>Troubleshooting Steam's Remote Play: Top Solutions for When It Fails</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-mystery-your-ultimate-cheat-sheet-to-bsod-error-codes/"><u>Unraveling the Mystery: Your Ultimate Cheat Sheet to BSOD Error Codes</u></a></li>
 </ul></div>
 

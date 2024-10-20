@@ -1,7 +1,7 @@
 ---
 title: Fixing Warzone's Memory Error Code 0-1766 on Xbox and PC
-date: 2024-09-24T17:14:39.345Z
-updated: 2024-09-28T09:46:11.408Z
+date: 2024-10-19T16:09:12.869Z
+updated: 2024-10-20T17:26:11.734Z
 tags:
   - win11
   - win10
@@ -42,16 +42,10 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
  Before we dive into anything advanced, make sure you’ve tried to re-launch Warzone, and restart your Xbox/PC to see if the error is gone.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Check your Internet connection (Xbox & PC)
@@ -70,16 +64,10 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
  If a few games and apps running in the background, your Xbox or PC won’t be able to let Warzone use all the resources and run smoother. Also background programs could interfere with Warzone, causing the Memory Error 0-1766\. Below is how to close the games and apps running in the background:
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### On Xbox
@@ -88,34 +76,21 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 2. You’ll see a list of games and apps. If a game or app is running, it’ll be highlighted. Select the games and apps you wish to close, then**press the Menu button** (the three-line button.)
 3. Select**Quit** .
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### On PC
 
 1. Right-click your taskbar, then click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the**Processes** tab, you’ll see all the programs/processes that are running in the background. You can look for the processes that are CPU, memory and/or network-hogging, which is most likely to conflict with Warzone.  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Take Chrome here, for example, right-click it then click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this doesn’t resolve the Memory Error 0-1766 for you, try the fixes for Xbox below, or jump to the[fixes for PC players](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -134,6 +109,13 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 
  If you still get the Memory Error 0-1766 after adjusting the display settings on your Xbox console, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Clear Mac address (Xbox)
 
  Clearing your Mac address gives a fresh reboot on your Xbox, and it’s likely to resolve the Memory Error 0-1766 on Warzone. The steps are quite easy, below is how:
@@ -143,6 +125,13 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 3. Scroll down to find**Network Settings** , and select**Advanced Settings** \>>**Alternate Mac Address** .
 4. **Clear the Alternate Mac Address** . Your Xbox console should restart.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5: Verify and repair your game files (PC)
 
  If you’re getting the COD Warzone Memory Error 0-1766 on PC, a quick fix you can try is to verify your game files. Damaged game files could cause the error, but you can do a quick scan and repair within the Battle.net app. Here’s how:
@@ -151,13 +140,6 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 2. Click the**gear-shaped icon** , then click**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_10-38-31-1.jpg)
 3. Wait for the scan to complete, then re-launch Warzone to test if the error is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’ve been accessing Warzone from Modern Warfare, you’ll need to go to the Modern Warfare page and do as Step 2 above instructs.
 
@@ -175,15 +157,15 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Move to the**Startup** tab, and click**Open Task Manager** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (Windows 7 users: right-click an empty area on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
@@ -203,13 +185,6 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 3. Reboot your computer and launch Warzone. If you get the Memory Error 0-1176 once again, then you know that one of the services you ticked above is conflicting with it. If the error is gone, then the above five services are fine, and you’ll have to keep looking for the offending service.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Repeat steps 2 and 3 above until you find the service that conflicts with Warzone.  
 
  NOTE: We recommend testing five items in a group since it’s more efficient, but you’re welcome to do it at your own pace.
@@ -219,6 +194,14 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 1. Right-click anywhere empty on your taskbar and click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Move to the**Startup** tab, and**enable the first five startup items** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Warzone to test if the error is resolved.
 
@@ -242,21 +225,15 @@ thumbnail: https://thmb.techidaily.com/66380fee6148181c7fbef919ab70be5b7f03dcd6b
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -287,18 +264,18 @@ Make sure to restart your PC for the new driver to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-add-visual-appeal-with-these-methods-for-yt-video-inclusion-in-ppt/"><u>[New] 2024 Approved Add Visual Appeal with These Methods for YT Video Inclusion in PPT</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-ultimate-blueprint-for-flawless-srt-construction/"><u>[Updated] In 2024, The Ultimate Blueprint for Flawless SRT Construction</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oneplus-11r-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/bard-vs-chatgpt-showdown-determining-the-ultimate-ai-conversationalist/"><u>Bard Vs. ChatGPT Showdown: Determining the Ultimate AI Conversationalist</u></a></li>
-<li><a href="https://common-error.techidaily.com/error-4000-on-twitch-heres-the-definitive-solution-you-need/"><u>Error 4000 on Twitch? Here's the Definitive Solution You Need!</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/essential-techniques-for-quick-and-reliable-recording-of-online-classes/"><u>Essential Techniques for Quick and Reliable Recording of Online Classes</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915371234-exploring-the-giants-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>Exploring the Giants of Social Networking: Facebook, Twitter, Instagram and YouTube</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-6s-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 6s</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-entry-not-detected-hurdles-in-fortnite-effective-solutions/"><u>Overcoming 'Entry Not Detected' Hurdles in Fortnite: Effective Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixing-the-persistent-dark-display-issue-in-fortnite-on-windows/"><u>Resolved: Fixing the Persistent Dark Display Issue in Fortnite on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-pc-gameplay-issues-in-helldivers-2-proven-fix-techniques/"><u>Resolving PC Gameplay Issues in Helldivers 2: Proven Fix Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-directx-issues-in-call-of-duty-modern-warfare-2-for-seamless-gaming/"><u>Troubleshooting DirectX Issues in Call of Duty: Modern Warfare 2 for Seamless Gaming</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/update-your-amd-radeon-hd-7850-best-drivers-and-installation-guide-on-windows-11/"><u>Update Your AMD Radeon HD 7850: Best Drivers & Installation Guide on Windows 11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-launch-and-lay-the-foundations-of-xps-video-craft/"><u>[New] 2024 Approved Launch & Lay the Foundations of XP's Video Craft</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-how-to-fix-paladins-crash-2024-tips/"><u>[Solved] How to Fix Paladins Crash? | 2024 Tips</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-tempo-trackers-guide-accessible-free-tools-for-2024/"><u>[Updated] The Tempo Tracker’s Guide – Accessible, Free Tools for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-oppo-reno-8t-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Oppo Reno 8T 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-tecno-phantom-v-fold-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Tecno Phantom V Fold is off? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-computer-components-with-toms-hardware-guides-trusted-experts-in-the-industry/"><u>Exploring Computer Components with Tom's Hardware Guides: Trusted Experts in the Industry</u></a></li>
+<li><a href="https://windows11.techidaily.com/exploring-updates-in-windows-os/"><u>Exploring Updates in Windows OS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improving-gaming-experience-by-addressing-and-correcting-drop-in-fps-rates/"><u>Improving Gaming Experience by Addressing and Correcting Drop in FPS Rates</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-in-depth-look-at-using-key-combos-for-efficient-screen-recording-in-os-x/"><u>In 2024, In-Depth Look at Using Key Combos for Efficient Screen Recording in OS X</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-troubleshooting-days-gone-pc-startup-problems-and-error-fixes/"><u>Solved! Troubleshooting Days Gone PC Startup Problems and Error Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-activating-hyper-v-in-windows-10/"><u>Step-by-Step Guide: Activating Hyper-V in Windows 10</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/unlock-the-secrets-of-facebook-live-a-beginners-manual/"><u>Unlock the Secrets of Facebook Live A Beginner's Manual</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-your-hardware-drivers-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to update your hardware drivers in Windows 11 & 10 & 7</u></a></li>
 </ul></div>
 

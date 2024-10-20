@@ -1,7 +1,7 @@
 ---
 title: "Top Tips for Boosting Gameplay Smoothness: Eliminate FPS Drops on Your PC"
-date: 2024-10-02T18:48:35.244Z
-updated: 2024-10-08T18:41:11.648Z
+date: 2024-10-16T16:39:21.255Z
+updated: 2024-10-20T19:03:48.199Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Splitgate-how-to-boost-FPS-and-fix-stuttering-1200x675.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Close unnecessary programs
 
  Programs like browsers, game launchers, anti-virus software are CPU intensive. So if you have them running in the background when playing Splitgate, you’re most likely to suffer from game stutters. To fix that, you should end programs that you don’t need to be running when in-game. But be cautious that you should not end processes that are essential for running Windows, otherwise your computer may fail to work properly.
@@ -40,13 +47,6 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Splitgate and select **End task** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
 
  Also, too many startup apps can be a drag on your computer’s performance. Therefore, you should prevent these apps from automatically starting when you sign into Windows:
@@ -56,16 +56,10 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 ![disable apps from running automatically at startup](https://images.drivereasy.com/wp-content/uploads/2021/04/startup-disable.png)
 
 <!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After you’ve done these, play Splitgate. If your problems persist, proceed to the next fix.
@@ -81,27 +75,14 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-temp-files-1.jpg)
 4. Press**Ctrl + A** at the same time to select all the files inside the folder. Then right-click and select**Delete** .  
 
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
 5. If the following prompt appears, simply check**Do this for all current items** and click**Skip** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![delete temporary files](https://images.drivereasy.com/wp-content/uploads/2021/08/skip-for-all-current-items.png)
@@ -110,6 +91,13 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)  
 
  Now you should be able to play your game smoothly. But if it doesn’t work for you, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Stop overclocking
 
@@ -133,16 +121,16 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC and then test the gameplay. If you’re still getting low FPS and stutters, don’t worry. Below are some other fixes you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Enable hardware-accelerated GPU scheduling
 
@@ -154,13 +142,6 @@ Here’s how to update drivers with Driver Easy:
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down. Find **Graphics settings** and click on it.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/grahics-settings-1.png)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
 
@@ -170,13 +151,20 @@ Here’s how to update drivers with Driver Easy:
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-hardware-accelerated-GPU-scheduling.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After applying the changes, restart your PC and you should be able to gain a certain amount of FPS boost. However, if this doesn’t do the trick, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Optimize in-game settings
 
@@ -214,16 +202,21 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-gamers-nexus-1000plus-game-sessions/"><u>[New] 2024 Approved Gamers' Nexus 1,000+ Game Sessions</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-game-of-thrones-ringtones-premier-download-websites-ranked/"><u>[New] In 2024, Game of Thrones Ringtones Premier Download Websites Ranked</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-inquiry-how-to-view-all-media-sharing-in-app-messages/"><u>[New] In 2024, Inquiry How to View All Media Sharing in App Messages?</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-mastering-youtube-to-mpeg-format-change/"><u>[New] In 2024, Mastering YouTube to MPEG Format Change</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-optimizing-viewing-experience-video-filters-for-all-screens/"><u>[Updated] Optimizing Viewing Experience Video Filters for All Screens</u></a></li>
-<li><a href="https://program-issues.techidaily.com/call-of-duty-world-war-ii-error-code-woe-no-more-a-step-by-step-fix/"><u>Call of Duty World War II Error Code Woe No More - A Step-by-Step Fix</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminating-disruptions-effective-solutions-to-prevent-god-of-war-from-crashing-on-desktops/"><u>Eliminating Disruptions: Effective Solutions to Prevent God of War From Crashing on Desktops</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-tecno-spark-20-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-slow-lol-connection-tips-for-overcoming-game-lags/"><u>How to Fix Slow LoL Connection: Tips for Overcoming Game Lags</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-strategies-for-restarting-a-stalled-pacific-drive-system/"><u>Step-by-Step Strategies for Restarting a Stalled Pacific Drive System</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ultimate-guide-updating-your-samsung-phones-usb-drivers/"><u>Ultimate Guide: Updating Your Samsung Phone's USB Drivers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/avigating-the-nuances-of-mukbang-filmmaking-techniques-for-2024/"><u>[New] Navigating the Nuances of Mukbang Filmmaking Techniques for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twit-favorites-of-the-year-amazon-primes-peak-series-for-2024/"><u>[New] Twit-Favorites of the Year Amazon Prime's Peak Series for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nlocking-the-secrets-to-earnings-on-youtube-shorts-for-2024/"><u>[New] Unlocking the Secrets to Earnings on YouTube Shorts for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-expert-schematic-designing-stopwatches-for-streaming-software/"><u>[Updated] 2024 Approved Expert Schematic Designing Stopwatches for Streaming Software</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-artisans-guide-to-cropping-and-soundscaping-in-canvas/"><u>[Updated] 2024 Approved The Artisan's Guide to Cropping and Soundscaping in Canvas</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-top-picks-for-novice-gopro-enthusiasts/"><u>[Updated] In 2024, Top Picks for Novice GoPro Enthusiasts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-nurturing-network-growth-for-top-tier-subscribers/"><u>[Updated] Nurturing Network Growth for Top-Tier Subscribers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-the-endless-load-screen-when-watching-or-hosting-a-discord-live-session/"><u>Bypassing the Endless Load Screen When Watching or Hosting a Discord Live Session</u></a></li>
+<li><a href="https://program-issues.techidaily.com/crashes-no-more-overcoming-total-war-warhammer-iis-technical-glitches/"><u>Crashes No More: Overcoming Total War: Warhammer II's Technical Glitches</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-fusion-of-anime-and-disappointment-in-the-valkyrie-vind-sl125/"><u>Exploring the Fusion of Anime and Disappointment in the Valkyrie Vind SL125</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-woes-solving-wolcen-pc-malfunctions-and-crashes/"><u>Fix Your Woes: Solving Wolcen PC Malfunctions and Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-low-fps-issues-for-dota-2-players-on-the-latest-windows-operating-system/"><u>Fixing Low FPS Issues for Dota 2 Players on the Latest Windows Operating System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-riot-games-fixed-the-recurring-connectivity-bug-in-lols-latest-2aster-version/"><u>How Riot Games Fixed the Recurring Connectivity Bug in LoL's Latest 2Aster Version</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-last-battle-not-anymore-fixing-persistent-pc-problems-with-the-final-saga/"><u>The Last Battle? Not Anymore! Fixing Persistent PC Problems with The Final Saga</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-prolonged-startup-for-pc-players-of-star-wars-battlefront-ii/"><u>Troubleshooting Prolonged Startup for PC Players of Star Wars: Battlefront II</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/upgrade-to-new-nvidia-rtx-2080-ti-drivers-for-an-unmatched-gaming-experience/"><u>Upgrade to New NVIDIA RTX 2080 Ti Drivers for an Unmatched Gaming Experience</u></a></li>
 </ul></div>
 

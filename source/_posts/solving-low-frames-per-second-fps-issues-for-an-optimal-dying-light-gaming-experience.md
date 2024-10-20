@@ -1,7 +1,7 @@
 ---
 title: Solving Low Frames Per Second (FPS) Issues for an Optimal Dying Light Gaming Experience
-date: 2024-09-23T10:53:41.697Z
-updated: 2024-09-28T00:12:09.902Z
+date: 2024-10-17T17:50:06.931Z
+updated: 2024-10-20T17:59:52.266Z
 tags:
   - win11
   - win10
@@ -26,22 +26,16 @@ It’s annoying to face crashes during the game. Don’t worry, the SEGA team ha
 * [Fix 1: Lower your graphics settings](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 2: Edit Settings](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Official Fix
 
 Follow the steps below to fix the crashing issue.
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 1: Check the requirements
 
@@ -68,6 +62,13 @@ Follow the steps below to fix the crashing issue.
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
@@ -75,13 +76,6 @@ Follow the steps below to fix the crashing issue.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 3: Install beta patch
 
@@ -91,19 +85,6 @@ Restart your computer for the changes to take effect.
 ![Steam game Yakuza 3 Remastered properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Go to the**BETAS** tab and enter the beta access code**yakuza6patch** .  
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-18-16.jpg)
 3. From the drop-down menu, select “**patch\_beta** ”.
 
@@ -112,10 +93,10 @@ Restart your computer for the changes to take effect.
  That’s it, the beta patch should solve your crashing issue. But if the game is still crashing, you can try the below fixes or contact the SEGA team for help.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Lower your graphics settings
@@ -127,19 +108,26 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-45-48.jpg)
 3. In the pop-up window, check**Override high DPI scaling behavior** , choose**Application** in the drop-down menu.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-31-35.jpg)
 4. Click**Disable fullscreen optimizations** &**Run this program as an administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-32-29.jpg)
 5. Save the changes and relaunch the game.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This fix works for some players. But computers vary from person to person, if it’s not working, please try another fix.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Edit Settings
 
@@ -153,21 +141,16 @@ Restart your computer for the changes to take effect.
 3. In the**Advanced** tab, click**Settings…** under Performance.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-10-23.jpg)
 4. Go to the**Advanced** tab and make sure Programs is checked. Then click**Change…**  
-![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-40.jpg)
-5. Uncheck**Automatically manage paging file size for all drives** . Select the drive that Yakuza 6: The Song of Life is installed.
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-40.jpg)
+5. Uncheck**Automatically manage paging file size for all drives** . Select the drive that Yakuza 6: The Song of Life is installed.
 
 6. Select**Custom size** . The Initial size should be the**Recommended size** that under**Total paging file size for all drives** .  
  Mine is**2918** MB.  
@@ -179,16 +162,10 @@ Restart your computer for the changes to take effect.
 8. Restart your PC and your problem should be fixed.
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -210,14 +187,17 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-chromes-picture-in-picture-capabilities-explained/"><u>[New] Chrome's Picture-In-Picture Capabilities Explained</u></a></li>
-<li><a href="https://program-issues.techidaily.com/addressing-performance-lags-and-stuttering-in-playstation-4-gameplay-for-ac-valhalla/"><u>Addressing Performance Lags & Stuttering in PlayStation 4 Gameplay for AC Valhalla</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-tips-to-resolve-consistent-valorant-application-shutdowns-on-personal-computers/"><u>Expert Tips to Resolve Consistent 'Valorant Application Shutdowns' On Personal Computers</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-samsung-galaxy-xcover-6-pro-tactical-edition-screen-sharing-drfone-by-drfone-android/"><u>How To Do Samsung Galaxy XCover 6 Pro Tactical Edition Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-ubisoft-connect-download-speed-slow/"><u>How to Fix Ubisoft Connect Download Speed Slow</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-apple-iphone-11-pro-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About Apple iPhone 11 Pro Unlock Chip You Need to Know</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-fortnites-video-memory-issues-a-complete-guide/"><u>Resolving Fortnite's Video Memory Issues: A Complete Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-lag-issues-in-avatar-optimizing-performance-on-pandora/"><u>Solving Lag Issues in Avatar: Optimizing Performance on Pandora</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/viral-visions-the-ultimate-guide-to-tiktok-editing-wonders-for-2024/"><u>Viral Visions The Ultimate Guide to TikTok Editing Wonders for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-expand-your-knowledge-elite-15-sci-yt-channels-list-for-2024/"><u>[New] Expand Your Knowledge Elite 15 Sci-YT Channels List for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-your-personalized-blueprint-to-livestreaming-on-tiktok-via-desktop-for-2024/"><u>[New] Your Personalized Blueprint to Livestreaming on TikTok via Desktop for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-mastering-youtube-conversion-the-ultimate-4k-guide/"><u>[Updated] Mastering YouTube Conversion The Ultimate 4K Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-legal-landscape-what-to-watch-for/"><u>AI's Legal Landscape: What to Watch For?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banishing-sea-of-thieves-launch-errors-a-step-by-step-success-story/"><u>Banishing Sea of Thieves Launch Errors: A Step-by-Step Success Story</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-sony-xperia-10-v-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Sony Xperia 10 V Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-cygwin1dll-errors-a-comprehensive-guide/"><u>Fixing ‘Cygwin1.dll’ Errors: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/garrys-mod-crashes-no-more-updated-fix-guide-for-gamers/"><u>Garry's Mod Crashes No More - Updated Fix Guide for Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/launch-lost-ark-successfully-updated-troubleshooting-steps/"><u>Launch Lost Ark Successfully: Updated Troubleshooting Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-lag-stable-playthrough-of-assassins-creed-odyssey-on-windows/"><u>No More Lag - Stable Playthrough of Assassin's Creed Odyssey on Windows!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/quick-and-effective-ways-to-resolve-chrome-freezing-issues-in-windows-11/"><u>Quick & Effective Ways to Resolve Chrome Freezing Issues in Windows 11</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/transform-your-streaming-experience-through-youtubes-av1-technology/"><u>Transform Your Streaming Experience Through YouTube's AV1 Technology</u></a></li>
 </ul></div>
 

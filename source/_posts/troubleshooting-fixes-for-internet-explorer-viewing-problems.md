@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Fixes for Internet Explorer Viewing Problems
-date: 2024-08-28T06:39:43.164Z
-updated: 2024-08-29T06:39:43.164Z
+date: 2024-10-18T17:11:47.606Z
+updated: 2024-10-20T19:10:37.968Z
 tags:
   - win11
   - win10
@@ -33,9 +33,6 @@ Does**Grand Theft Auto** (**GTA** ) **5 stutter**  whenever you’re in the midd
 
  If this fix doesn’t help, don’t worry, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Limit your FPS
 
  The high FPS and extended distance scaling could be the reason for the GTA 5 stuttering issue. To solve it, you could reduce them.
@@ -45,18 +42,23 @@ Does**Grand Theft Auto** (**GTA** ) **5 stutter**  whenever you’re in the midd
 3. Reduce it to the lowest cause the higher it would cost more video memory.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/close.jpg)
 4. Click**Graphics** and find**Refresh Rate** . Keep it around 60Hz or smaller to limit your FPS.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/refresh.jpg)
 5. Relaunch the game to check.
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Disable full-screen optimisations
 
  The full-screen mode could be the reason for the GTA stuttering issue. By disabling the full-screen mode may help you fix the issue.
@@ -67,10 +69,6 @@ Does**Grand Theft Auto** (**GTA** ) **5 stutter**  whenever you’re in the midd
 4. In the**Compatibility** mode, check the**Disable full-screen optimisations** box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/full.jpg)
 5. Relaunch the game and check.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update graphics card driver
 
@@ -100,12 +98,24 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will stutter or not.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -132,8 +142,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +149,22 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/nhance-your-music-library-top-6-free-ios-apps-for-audio-conversion-for-2024/"><u>[New] Enhance Your Music Library Top 6 Free iOS Apps for Audio Conversion for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unlocking-the-power-of-social-medias-fb-covers-for-2024/"><u>[Updated] Unlocking the Power of Social Media's FB Covers for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/complete-user-experience-with-vsco-camera-app-for-2024/"><u>Complete User Experience with VSCO Camera App for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-game-stutters-and-frame-drops-for-smooth-play-in-forza-horizon-5/"><u>Fixing Game Stutters and Frame Drops for Smooth Play in Forza Horizon 5</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-samsung-galaxy-f04-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Samsung Galaxy F04 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-fix-eliminating-starcraft-2s-sudden-shutdown-problem-on-desktops/"><u>Master the Fix: Eliminating StarCraft 2'S Sudden Shutdown Problem on Desktops</u></a></li>
+<li><a href="https://tools.techidaily.com/aiseesoft/mobile-transfer/"><u>Mobile Transfer</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-honor-magic-5-pro-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Honor Magic 5 Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-assassins-creed-rogue-freezing-issues-expert-fixing-tips-and-techniques/"><u>Resolving Assassin's Creed Rogue Freezing Issues - Expert Fixing Tips & Techniques</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/securely-back-up-your-iphone-effective-strategies-using-a-computer-and-itunes/"><u>Securely Back Up Your iPhone: Effective Strategies Using a Computer & iTunes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-fixes-for-starfield-audio-glitches-no-more-skipping-or-hiccups/"><u>Solved: Fixes for Starfield Audio Glitches - No More Skipping or Hiccups</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-for-updating-minecrafts-core-game-client/"><u>Step-by-Step Fixes for Updating Minecraft's Core Game Client</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-infinix-zero-30-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Infinix Zero 30 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-a-detailed-look-at-comprehensive-computer-insights/"><u>Tom's Tech Hub: A Detailed Look at Comprehensive Computer Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-overcome-among-us-2024-crashes-with-these-proven-fixes/"><u>Troubleshoot and Overcome 'Among Us' 2024 Crashes with These Proven Fixes</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Latest Strategies for Resolving League of Legends' Mysterious Black Screen Issue
-date: 2024-10-06T21:47:00.895Z
-updated: 2024-10-08T17:06:45.917Z
+date: 2024-10-18T16:37:20.058Z
+updated: 2024-10-20T18:05:18.574Z
 tags:
   - win11
   - win10
@@ -49,13 +49,6 @@ Finally, Cyberpunk 2077 is released! But it could be very frustrating to encount
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 4. Relaunch Cyberpunk 2077 to check.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 If your issue continues to occur, you can move to the next fix.
@@ -71,16 +64,29 @@ If your issue continues to occur, you can move to the next fix.
 2. Right-click the programs you want to close and select **End Task** . Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 3. Restart Cyberpunk 2077 to see if this fixed your issue.
 
  If this fix doesn’t help your case, simply take a look at the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify your game files
 
@@ -91,18 +97,25 @@ If your issue continues to occur, you can move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_15-04-01.jpg)
 3. Right-click **Cyberpunk 2077**  and select **Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** . This could take several minutes. Wait for the process to be complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/verify-integrity-of-game-files-Steam-1.jpg)
 5. Relaunch Cyberpunk 2077 to check the issue.
 
- If your game still won’t run correctly, then go ahead with the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If your game still won’t run correctly, then go ahead with the next fix, below.
 
 ### Fix 4: Adjust your virtual memory
 
@@ -117,14 +130,21 @@ If your issue continues to occur, you can move to the next fix.
 2. Click **Settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-35.jpg)
 3. Click the **Advanced**  tab, and then click **Change** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-31.jpg)
 4. Uncheck the box next to **Automatically manage paging file size for all drives** .  
@@ -142,20 +162,13 @@ If your issue continues to occur, you can move to the next fix.
 8. Restart your computer and test your game.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If your issue still exists, move to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall your game
 
@@ -170,13 +183,6 @@ If your issue still exists, move to the next fix.
 
 If the issue continues to occur, go to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Perform a clean boot
 
  A clean boot is basically starting your system with the most basic services and programs. In some cases, this can minimize the chances of software conflicts and reserve the most resources for your game.
@@ -190,21 +196,22 @@ You can follow these simple steps to do a clean boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your video card or sound card manufacturer, such as **Realtek** , **AMD** , **NVIDIA**  and **Intel** . Then click **OK**  to save the changes.  
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig-uncheck-services-clean-boot.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
+
+<!-- affiliate ads begin -->
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 
@@ -232,15 +239,18 @@ You can follow these simple steps to do a clean boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-boost-your-brand-with-masterful-looped-videos-on-instagram/"><u>[New] Boost Your Brand with Masterful Looped Videos on Instagram</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1-solving-vlcs-trouble-with-mkv-a-comprehensive-guide/"><u>1. Solving VLC's Trouble with MKV: A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/breaking-down-madden-nfl-19-amazing-gameplay-with-traditional-feel/"><u>Breaking Down Madden NFL '19: Amazing Gameplay with Traditional Feel</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Can I use iTools gpx file to catch the rare Pokemon On Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-vivo-y77t-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Vivo Y77t</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-solving-the-hyper-scape-keeps-crashing-dilemma-for-gamers/"><u>Expert Advice: Solving the 'Hyper Scape Keeps Crashing' Dilemma for Gamers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-stability-overcoming-freeze-frames-in-call-of-duty-vanguard/"><u>Mastering Stability: Overcoming Freeze Frames in Call of Duty: Vanguard</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-gameplay-how-to-improve-red-dead-redemption-2s-frame-rate-and-smoothness/"><u>Optimizing Gameplay: How to Improve Red Dead Redemption 2'S Frame Rate and Smoothness</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fix-eliminate-your-pcs-zoom-dark-display-problems/"><u>Ultimate Fix: Eliminate Your PC's Zoom Dark Display Problems</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/visual-narrative-the-art-of-scriptwriting/"><u>Visual Narrative The Art of Scriptwriting</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-androids-heartfelt-selection-of-3d-empathy-players-for-2024/"><u>[New] Android's Heartfelt Selection of 3D Empathy Players for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-how-to-fade-in-and-fade-out-video-clips/"><u>[Updated] In 2024, How to Fade-In and Fade-Out Video Clips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-fixing-spiked-cpu-usage-on-modern-operating-systems-like-windows/"><u>Diagnosing & Fixing Spiked CPU Usage on Modern Operating Systems Like Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-to-combat-discords-packet-loss-problem/"><u>Effective Solutions to Combat Discord's Packet Loss Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-fortnite-account-instant-solutions-for-login-issues/"><u>Fix Your Fortnite Account: Instant Solutions for Login Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-silent-menace-resolving-audio-issues-in-evil-genius-2/"><u>Fixing Silent Menace: Resolving Audio Issues in 'Evil Genius 2'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-restore-sound-in-your-epic-adventure-through-skyrim/"><u>How To Restore Sound in Your Epic Adventure Through Skyrim</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/securely-save-your-adventures-learn-the-best-practices-for-backing-up-pc-game-saves-with-our-expert-tips/"><u>Securely Save Your Adventures: Learn the Best Practices for Backing Up PC Game Saves with Our Expert Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/steps-to-migrate-your-google-images-to-apples-icloud-service/"><u>Steps to Migrate Your Google Images to Apple's iCloud Service</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-lifewire-guide-to-online-free-ai-courses/"><u>The Lifewire Guide to Online Free AI Courses</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-story-of-resolving-fatal-errors-in-arise-an-unreal-engine-4-journey/"><u>The Story of Resolving Fatal Errors in 'Arise': An Unreal Engine 4 Journey</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-ultimate-guide-to-choosing-the-best-drone-camera-spotlight-on-the-dominating-dji-mavic-nova-pro-model-for-professionals/"><u>The Ultimate Guide to Choosing the Best Drone Camera: Spotlight on the Dominating DJI Mavic Nova Pro Model for Professionals</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-iphone-6-plus-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From iPhone 6 Plus?</u></a></li>
 </ul></div>
 

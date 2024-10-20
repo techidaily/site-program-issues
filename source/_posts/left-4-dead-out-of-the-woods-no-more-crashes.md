@@ -1,7 +1,7 @@
 ---
 title: Left 4 Dead ² Out of the Woods - No More Crashes!
-date: 2024-08-28T06:40:46.302Z
-updated: 2024-08-29T06:40:46.302Z
+date: 2024-10-17T18:16:53.316Z
+updated: 2024-10-20T16:12:07.836Z
 tags:
   - win11
   - win10
@@ -37,16 +37,17 @@ thumbnail: https://thmb.techidaily.com/baa0ab8cd5a07fe136f1cc2c4fb3a4d9f403c6961
 
 If Biomutant still crashes, there are more fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2 – Restart your computer and Steam
 
  Sometimes the program glitches like crashes can be resolved by a simple restart. You could**restart your computer and Steam** to see if this helps your case. If not, try the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3 – Verify integrity of game files
 
  When there’s something wrong with Biomutant, it’s necessary to do an integrity check to see if any corrupted or missing game files are causing the crashes. Here are the steps:
@@ -56,17 +57,31 @@ If Biomutant still crashes, there are more fixes below.
 2. From the game list, right-click**Biomutant** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Select the**Local Files** tab on the left and click**Verify integrity of game files** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/steam-verify-game-files-1.jpg)
 
  Wait a few minutes for the process to complete and test the game. If the same issue persists, move on to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4 – Update your graphics driver
 
  If you keep running into Biomutant crashing, it’s likely that your graphics driver is faulty or outdated. To ensure a smooth gaming experience at all times, you should update the graphics driver to the latest.
@@ -87,17 +102,18 @@ There are two ways to do this:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you could click**Update** to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-6900xt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  So does the driver update dramatically boost the game performance? If not, check out the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5 – Disable overlays
 
  According to other players, the Steam overlay is a buggy feature that can trigger Biomutant crashing. Simply disable this option to see how the game works. If you’re using an overlay with any third-party app, make sure to turn them off as well.
@@ -105,6 +121,14 @@ There are two ways to do this:
 1. Open Steam and navigate to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click Biomutant on the list and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. On the **General** tab, untick **Enable Steam overlay while in-game** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
@@ -122,8 +146,6 @@ There are two ways to do this:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +153,19 @@ There are two ways to do this:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-choosing-the-right-microphone-for-mac-devices-a-compreenas/"><u>[New] Choosing the Right Microphone for Mac Devices (A Compreenas)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-select-blur-apps-for-softened-backdrops/"><u>[New] Select Blur Apps for Softened Backdrops</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-80plus-creative-cooking-channel-names-to-attract-more-audience/"><u>2024 Approved 80+ Creative Cooking Channel Names to Attract More Audience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-tips-to-address-and-fix-amdnvidia-graphics-issues-on-the-sims-4/"><u>Comprehensive Tips to Address and Fix AMD/Nvidia Graphics Issues on The Sims 4</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/comprehensive-winxdvd-instructions-your-complete-user-manual/"><u>Comprehensive WinXDVD Instructions: Your Complete User Manual</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/disable-non-specific-youtube-video-alerts/"><u>Disable Non-Specific YouTube Video Alerts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-to-overcome-launching-difficulties-in-witcher-3-game/"><u>Effective Fixes to Overcome Launching Difficulties in Witcher 3 Game</u></a></li>
+<li><a href="https://facebook.techidaily.com/leading-social-media-landscapes-boosting-biz-success/"><u>Leading Social Media Landscapes Boosting Biz Success</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-stubborn-freezes-tips-for-a-smooth-chrome-experience-on-windows-10/"><u>Resolving Stubborn Freezes: Tips for a Smooth Chrome Experience on Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-when-mass-effect-legendary-edition-wont-start/"><u>Solving The Issue When Mass Effect Legendary Edition Won't Start</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-middle-ground-in-marvels-avengers-critique/"><u>Unveiling the Middle Ground in Marvel's Avengers Critique</u></a></li>
+<li><a href="https://win-community.techidaily.com/watching-youtube-with-microsoft-edge-just-got-smarter-introducing-ai-on-the-fly-subtitles-zdnet-insights/"><u>Watching YouTube with Microsoft Edge Just Got Smarter: Introducing AI On-the-Fly Subtitles | ZDNet Insights</u></a></li>
+</ul></div>
 

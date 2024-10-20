@@ -1,7 +1,7 @@
 ---
 title: "Getting Past the Starting Gate: Strategies to Fix Fall Guys From Crashing on Launch"
-date: 2024-10-13T20:16:44.386Z
-updated: 2024-10-15T04:06:53.842Z
+date: 2024-10-15T17:39:03.743Z
+updated: 2024-10-20T17:27:04.009Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/84ab8b003b888e575512ee8282263dc686c848f59
 4. **[Close the background programs](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Disable your antivirus program](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run Dauntless on the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Verify game integrity
 
@@ -54,10 +61,10 @@ Here is how to verify the integrity of Dauntless:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -74,6 +81,13 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -86,19 +100,6 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Close the background programs
 
  Your Dauntless may crash because of interference issues from some programs running in the background. They include utility programs provided by your hardware manufacturers that can improve your game performance. To see if that’s the case for you, close all those programs before you run your game. Then check to see if this is able to stop your crashing issue.
@@ -106,13 +107,6 @@ Here is how to verify the integrity of Dauntless:
  Hopefully your Dauntless crashing issue is resolved by now. If it’s still no joy, please move on to**Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus program
 
@@ -127,10 +121,10 @@ Here is how to verify the integrity of Dauntless:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Run Dauntless on the dedicated graphics card
@@ -147,13 +141,6 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
@@ -163,6 +150,13 @@ Here is how to verify the integrity of Dauntless:
  5) In **Select the preferred graphics processor for this program** , select **High-performance NVIDIA processor** . Then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-24.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6) Launch Dauntless and check to see if the crashing issue is fixed.
 
@@ -187,17 +181,20 @@ Here is how to verify the integrity of Dauntless:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-hidden-gems-on-youtube-understanding-unlisted-videos/"><u>[New] 2024 Approved Hidden Gems on YouTube Understanding 'Unlisted' Videos</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-online-video-editors-for-youtube-for-2024/"><u>[New] Free Online Video Editors for YouTube for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/apex-legends-comprehensive-guide-to-fixing-your-lag-issues-today/"><u>Apex Legends: Comprehensive Guide to Fixing Your Lag Issues Today</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-bluetooth-sound-delay-simple-steps-for-a-smooth-listening-experience/"><u>Fixing Bluetooth Sound Delay: Simple Steps for a Smooth Listening Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/helldivers-2-crashing-on-pc-proven-fixes/"><u>Helldivers 2 Crashing on PC: Proven Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-address-download-progress-timeout-issues-for-seamless-transfers/"><u>How to Address Download Progress 'Timeout' Issues for Seamless Transfers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-oculus-odyssey-a-journey-through-best-vr-headsets/"><u>In 2024, Oculus Odyssey A Journey Through Best VR Headsets</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mysterious-shade-monitor-malaise/"><u>Mysterious Shade: Monitor Malaise</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/top-5-best-free-computer-diagnostic-tools-compare-and-choose/"><u>Top 5 Best Free Computer Diagnostic Tools - Compare & Choose!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-fast-loading-issues-in-star-wars-battlefront-ii-on-pc/"><u>Troubleshooting Fast Loading Issues in Star Wars: Battlefront II on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-why-wont-my-mass-effect-legendary-edition-start/"><u>Troubleshooting Guide: Why Won't My Mass Effect Legendary Edition Start?</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/urban-elegance-best-6-modern-mc-mansions/"><u>Urban Elegance Best 6 Modern MC Mansions</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-leading-mp4-to-facebook-mover/"><u>[New] Leading MP4 to Facebook Mover</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/uperior-sound-modification-equipment-for-video-artists/"><u>[New] Superior Sound Modification Equipment for Video Artists</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-unveiling-effective-metaverse-engagement-tactics-for-2024/"><u>[Updated] Unveiling Effective Metaverse Engagement Tactics for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/6-ways-to-boost-fps-in-apex-legends-quickly-and-easily/"><u>6 Ways to Boost FPS in Apex Legends | Quickly & Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bioshock-2-remastered-patch-resolved-crashing-issues/"><u>BioShock 2 Remastered Patch: Resolved Crashing Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guia-detallada-para-solucionar-la-pantalla-en-negro-durante-el-juego-de-fallout-4/"><u>Guía Detallada Para Solucionar La Pantalla en Negro Durante El Juego De Fallout 4</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-constant-stutter-in-deathloop-a-guide-for-xbox-series-xs-ps5-and-pc-players/"><u>How to Overcome Constant Stutter in Deathloop: A Guide for Xbox Series X|S, PS5, and PC Players</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-photopony-pro-exploring-affordable-filters/"><u>In 2024, PhotoPony Pro Exploring Affordable Filters</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722990895095-mastering-stability-in-assassins-creed-valhalla-for-pc-gamers-crash-no-more/"><u>Mastering Stability in Assassin's Creed Valhalla for PC Gamers - Crash No More!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-through-circuitry-toms-hardware-deep-dives-explained/"><u>Navigating Through Circuitry: Tom's Hardware Deep Dives Explained</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/perfect-partnership-a-guide-to-linking-insta-with-tiktok-for-2024/"><u>Perfect Partnership A Guide to Linking Insta with TikTok for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-8-solutions-when-iphone-control-center-fails/"><u>Troubleshooting Guide: 8 Solutions When iPhone Control Center Fails</u></a></li>
+<li><a href="https://program-issues.techidaily.com/untangling-the-causes-of-chivalry-2-gameplay-interruptions-tips-and-fixes/"><u>Untangling the Causes of Chivalry 2 Gameplay Interruptions: Tips & Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-does-darkest-dungeon-2-keep-freezing-solutions-to-maintain-smooth-gameplay/"><u>Why Does Darkest Dungeon 2 Keep Freezing? Solutions to Maintain Smooth Gameplay</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/xsplit-library-downloads-and-critical-perspectives-for-2024/"><u>XSplit Library Downloads and Critical Perspectives for 2024</u></a></li>
 </ul></div>
 

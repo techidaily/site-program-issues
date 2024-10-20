@@ -1,7 +1,7 @@
 ---
 title: 6 Effective Strategies to Resolve Terraria's Disconnection Issues
-date: 2024-10-07T16:05:46.150Z
-updated: 2024-10-08T19:49:58.656Z
+date: 2024-10-18T17:48:30.092Z
+updated: 2024-10-20T18:10:46.979Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/1f277a1e71fd10df1b01699e57758c33c523b120e
 
  Before we dive into anything advanced, make sure you[check the server status](https://www.playlostark.com/en-gb/support/server-status) first. If the server is under maintenance, you’ll need to wait till it’s done.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Test your internet connection
 
  When your network connection is unstable, it can fail to connect you to the game server. A quick test and refresh could help:
@@ -65,14 +58,14 @@ If this doesn’t help, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/steam-verify-game-files%E5%89%AF%E6%9C%AC.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this doesn’t solve your problem, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Update the graphics driver
 
@@ -95,10 +88,10 @@ If this doesn’t solve your problem, move on to the next fix.
  Reboot your PC and launch Lost Ark to see if you can connect to the server now. If this doesn’t help, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Configure your firewall settings
@@ -112,22 +105,8 @@ If this doesn’t solve your problem, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-control-panel.jpg)
 3. Select **View by: small icons** , then click **Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-09-27.jpg)
 4. Click **Allow an app or feature through Windows Defender Firewall** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-10-08.jpg)
 5. Scroll down to see if Lost Ark is on the exception list. If so, that means the game is allowed through your firewall, and you can [jump to the next fix](https://tools.techidaily.com/drivereasy/download/) . If you can’t find Lost Ark in the exception list, follow the steps below to unblock the game.
@@ -153,6 +132,13 @@ If this doesn’t solve your problem, move on to the next fix.
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1: Flush your DNS
 
  Flushing DNS will clear the DNS cache from your PC. When the DNS cache is deleted, your PC need to obtain the data from the DNS server every time it accesses a new website. This may solve the “cannot connect to the server” error if it’s triggered by invalid DNS cache data.
@@ -164,29 +150,16 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy **ipconfig /flushdns** , and paste it in the pop-up window. Then press **Enter** .  
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns%E7%9A%84%E5%89%AF%E6%9C%AC.png)
 4. Your DNS cache is successfully cleared.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2: Switch to a public DNS server
@@ -201,8 +174,28 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select **Internet Protocol Version 4 (TCP/IPv4)** , then click **Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
+
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -210,10 +203,10 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 7: Repair corrupted system files
@@ -226,6 +219,19 @@ Here are the steps:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -252,20 +258,22 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-achieve-professionalism-in-sims-4-videography-for-2024/"><u>[Updated] Achieve Professionalism in Sims 4 Videography for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-stream-like-a-pro-on-youtube-best-webcams-reviewed/"><u>[Updated] Stream Like a Pro on YouTube Best Webcams Reviewed</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-expert-techniques-for-high-quality-xbox-screenshots/"><u>2024 Approved Expert Techniques for High-Quality Xbox Screenshots</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-skillful-stylization-efficiently-tap-into-windows-paints-features/"><u>2024 Approved Skillful Stylization Efficiently Tap Into Windows Paint's Features</u></a></li>
-<li><a href="https://program-issues.techidaily.com/5-proven-methods-to-address-no-user-logon-glitch-in-counter-strike-global-offensive/"><u>5 Proven Methods to Address No User Logon Glitch in Counter Strike: Global Offensive</u></a></li>
-<li><a href="https://program-issues.techidaily.com/call-of-duty-warzone-display-issues-explained-and-resolved-with-ease/"><u>Call of Duty: Warzone Display Issues Explained & Resolved with Ease</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/dissecting-intelligence-the-moto-z2-breakdown-for-2024/"><u>Dissecting Intelligence The Moto Z2 Breakdown for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-zte-blade-a73-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/madden-22-load-error-troubleshooting-steps-for-a-smooth-startup/"><u>Madden '22 Load Error Troubleshooting Steps for a Smooth Startup</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maximize-your-fps-ultimate-guide-to-fixing-drops-and-accelerating-gameplay-on-pc/"><u>Maximize Your FPS: Ultimate Guide to Fixing Drops and Accelerating Gameplay on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-gaming-woes-heres-how-to-stop-apex-legends-from-crashing-unexpectedly/"><u>PC Gaming Woes? Here's How to Stop Apex Legends From Crashing Unexpectedly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-clearing-up-the-mystery-of-persona-vee-strikers-black-screen-troubleshoot/"><u>Solved: Clearing Up the Mystery of Persona Vee Strikers' Black Screen Troubleshoot</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-resolving-the-battlenet-unable-to-launch-issue/"><u>Step-by-Step Solution: Resolving the 'Battle.net Unable to Launch' Issue</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/transitioning-to-windows-11-pro-a-step-by-step-guide/"><u>Transitioning to Windows 11 Pro: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-complete-dynamics-review-2023/"><u>2024 Approved Complete Dynamics Review 2023</u></a></li>
+<li><a href="https://program-issues.techidaily.com/best-methods-to-solve-rocket-league-failure-to-start-dilemma/"><u>Best Methods to Solve Rocket League Failure to Start Dilemma</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-resolve-helldivers-iis-startup-black-screen-glitch/"><u>Comprehensive Guide to Resolve Helldivers II's Startup Black Screen Glitch</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/cubic-cottages-for-newcomers-to-mc-world/"><u>Cubic Cottages for Newcomers to MC World</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-solutions-for-unfreezing-fortnite-ultimate-guide-for-gamers/"><u>Expert Solutions for Unfreezing Fortnite : Ultimate Guide for Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-solutions-for-unstable-persona-4-golden-eliminate-crashing-issues-now/"><u>Expert Solutions for Unstable Persona 4 Golden - Eliminate Crashing Issues Now</u></a></li>
+<li><a href="https://discover-able.techidaily.com/free-steps-to-move-your-entire-address-book-from-pc-to-iphone/"><u>Free Steps to Move Your Entire Address Book From PC to iPhone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-get-league-of-legends-running-smoothly-again-2024-troubleshooting-guide/"><u>How To Get League of Legends Running Smoothly Again: 2024 Troubleshooting Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-transform-your-youtube-videos-into-high-quality-audio-files-using-the-top-mp3-converter/"><u>How to Transform Your YouTube Videos Into High-Quality Audio Files Using the Top MP3 Converter</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-nokia-c210-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Nokia C210 PC | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-avs-video-editor-an-in-depth-analysis/"><u>New AVS Video Editor An In-Depth Analysis</u></a></li>
+<li><a href="https://howto.techidaily.com/realme-11-proplus-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 11 Pro+ Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/successfully-initiating-deathloop-after-previous-failure-tips-and-tricks/"><u>Successfully Initiating Deathloop After Previous Failure - Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/trouble-with-mass-effect-legendary-edition-heres-how-to-fix-it/"><u>Trouble with Mass Effect Legendary Edition? Here's How to Fix It!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-solutions-for-midgard-the-tribal-clashes/"><u>Troubleshooting and Solutions for Midgard: The Tribal Clashes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unraveling-youtubes-platform-for-content-crafting-for-2024/"><u>Unraveling YouTube’s Platform for Content Crafting for 2024</u></a></li>
 </ul></div>
 

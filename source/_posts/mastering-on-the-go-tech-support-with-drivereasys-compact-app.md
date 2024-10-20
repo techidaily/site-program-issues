@@ -1,7 +1,7 @@
 ---
 title: Mastering On-the-Go Tech Support with DriverEasy's Compact App
-date: 2024-08-28T06:37:57.221Z
-updated: 2024-08-29T06:37:57.221Z
+date: 2024-10-14T17:00:13.153Z
+updated: 2024-10-20T18:42:41.071Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ You just jumped into the stylish world of Persona but annoyed to find that Perso
 5. [**Run your game as an administrator**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Tweak some settings in NVIDIA Control Panel](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Close all unnecessary applications
 
  Your Persona 5 Strikers may be crashed by interference from some programs running in the background.
@@ -56,6 +63,13 @@ There are mainly two ways for you to update your graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/clean.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 2: Automatically
 
  If you don’t have the time, patience, or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -68,20 +82,20 @@ There are mainly two ways for you to update your graphics driver:
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
  ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with the Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 4. Reboot your computer and launch the game to see if Persona 5 Strikers is launching properly.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 3\. Verify the game files
 
  To make sure there are no corrupted or missing files, you can check the integrity of the game files. Here’s how to do it:
@@ -92,19 +106,8 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 3. Go to the**Local files** , and select**Verify the integrity of the game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/verify.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Wait for the verification to complete. Once done, you can relaunch your Persona 5 Strikers to test the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## 4\. Play the game in windowed mode
 
  Another way to stop your Persona 5 Strikers from crashing is to play the game in windowed mode. Here’s how to do it:
@@ -112,17 +115,25 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 1. Go to your Steam Library, and right-click Persona 5 Strikers > select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/persona-5-properties.png)
 2. Under the**LAUNCH OPTIONS** , add**\-windowed** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/windowed-mode.png)
 3. Close the game’s **Properties** window and launch the game.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you will find the game stops crashing. If this method doesn’t work for you, don’t worry. You can try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 5\. Run your game as an administrator
 
  Persona 5 Strikers may not work properly if it lacks administrative rights. To make sure your game has full access to the game files, you can run the game as an administrator and launch your game from the installation folder.
@@ -132,17 +143,18 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. Right-click the game.exe file, and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-10.30.23-AM.png)
 3. Go to the**Compatibility** tab, and check the box next to the**Disable fullscreen optimizations** , and**Run this program as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/compatibility.png)
 4. Click**Apply** \>**OK** .
 
  Now launch your game from there and see if this solved your crashing issue. If not, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Tweak some settings in NVIDIA Control Panel
 
  Some find turning off Triple Buffering and setting Low Latency Mode to Ultra help them reduce Persona 5 Strikers crashing. Here’s how to do it:
@@ -172,8 +184,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +191,20 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-the-million-sub-code-insights-for-digital-growth/"><u>[Updated] Unlocking the Million-Sub Code Insights for Digital Growth</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-from-novice-to-pro-an-extensive-guide-on-using-zd-softs-recording-features/"><u>2024 Approved From Novice to Pro An Extensive Guide on Using ZD Soft’s Recording Features</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquering-the-tfla0002-hurdle-a-comprehensive-troubleshooting-manual/"><u>Conquering the TFLA0002 Hurdle: A Comprehensive Troubleshooting Manual</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-easily-correct-steams-damaged-game-discs/"><u>Expert Tips to Easily Correct Steam's Damaged Game Discs</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-dolby-atmos-malfunctions-for-a-smooth-experience-on-windows-platforms-11-and-10/"><u>Fixing Dolby Atmos Malfunctions for a Smooth Experience on Windows Platforms (11 & 10)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/framing-frontiers-cutting-edge-app-innovations-24/"><u>Framing Frontiers Cutting-Edge App Innovations '24</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-successfully-install-and-update-broadcom-network-adapter-drivers-for-gige-on-windows-10-expert-tips/"><u>How to Successfully Install & Update Broadcom Network Adapter Drivers for GigE on Windows 10 - Expert Tips</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-plus-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Plus to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-constant-freezing-in-total-war-warhammer-iii-for-pc-users/"><u>Resolving Constant Freezing in Total War: Warhammer III for PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-deathloop-crash-issue-on-pc-simple-troubleshooting-guide/"><u>Solving the Deathloop Crash Issue on PC: Simple Troubleshooting Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-amazonbasics-shredder-a-look-at-its-12-sheets-and-cutting-edge-safety-features/"><u>Top AmazonBasics Shredder: A Look at Its 12 Sheets and Cutting-Edge Safety Features</u></a></li>
+</ul></div>
 

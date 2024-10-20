@@ -1,7 +1,7 @@
 ---
 title: Division 2 Won't Start? Top Strategies to Get Gaming This Year!
-date: 2024-10-02T22:07:52.871Z
-updated: 2024-10-08T16:06:04.611Z
+date: 2024-10-17T19:17:36.141Z
+updated: 2024-10-20T19:03:28.762Z
 tags:
   - win11
   - win10
@@ -31,10 +31,10 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Update your graphics driver
@@ -56,25 +56,18 @@ The outdated or broken graphics driver often crashes the game.
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
- See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
 ## Fix 2: Verify the game files
 
@@ -86,26 +79,13 @@ The outdated or broken graphics driver often crashes the game.
 
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
@@ -126,6 +106,13 @@ The outdated or broken graphics driver often crashes the game.
 
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
 ## Fix 5: Set launch options on Steam
@@ -136,6 +123,13 @@ The outdated or broken graphics driver often crashes the game.
 2. In the**GENERAL** section, click **SET LAUNCH OPTIONS…**  
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 `-useallavailablecores -high`
 
@@ -171,21 +165,22 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-ultimate-ig-dashboard-unraveling-user-engagement-patterns/"><u>[New] 2024 Approved The Ultimate IG Dashboard Unraveling User Engagement Patterns</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-nokia-c12-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Nokia C12</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How To Activate and Use Life360 Ghost Mode On Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-fortnite-errors-on-pc/"><u>How to Fix Fortnite Errors on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-your-jurassic-world-evolution-from-crashing-troubleshooting-guide/"><u>How To Stop Your Jurassic World Evolution From Crashing - Troubleshooting Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/inside-the-story-behind-guilty-gear-strives-postponement-and-what-fans-can-expect-now/"><u>Inside the Story Behind Guilty Gear Strive's Postponement and What Fans Can Expect Now</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/instant-help-for-speed-boosting-and-fixing-fps-issues-in-assassins-creed-valhalla/"><u>Instant Help for Speed Boosting and Fixing FPS Issues in Assassin's Creed: Valhalla</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mobile-gpt-utilization-tips-and-tricks-for-androidios/"><u>Mobile GPT Utilization: Tips and Tricks for Android/iOS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-msvcr110dll-missing-error-in-helldivers-2-step-by-step-guide/"><u>Resolving the MSVCR110.dll Missing Error in Helldivers 2: Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-overcoming-hitman-3-black-screen-troubles-on-a-computer/"><u>Step-by-Step Guide to Overcoming Hitman #3 Black Screen Troubles on a Computer</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-guide-to-youtube-thumbnails-that-get-views-for-2024/"><u>The Ultimate Guide to YouTube Thumbnails that Get Views for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722998179693-troubleshooting-guide-origin-application-not-starting-on-windows-11-issue-resolved/"><u>Troubleshooting Guide: Origin Application Not Starting on Windows 11 - Issue Resolved</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-for-resolving-battlenet-startup-failures/"><u>Ultimate Guide for Resolving Battle.net Startup Failures</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-more-from-chatgpt-through-token-optimization/"><u>Unlocking More From ChatGPT Through Token Optimization</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725290085501-winxvideo-ai/"><u>WinxVideo AI革新您的影像质量，爭取最佳成果</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-league-of-legends-lag-issue/"><u>[SOLVED] League of Legends Lag Issue</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-profit-from-social-media-maximizing-facebook-earnings/"><u>[Updated] Profit From Social Media Maximizing Facebook Earnings</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-silent-canvases-unscheduled-vid-removal-for-2024/"><u>[Updated] Silent Canvases Unscheduled Vid Removal for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/15-simple-ways-to-integrate-gpt-into-workflow/"><u>15 Simple Ways to Integrate GPT Into Workflow</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-epson-ds-530-printer-driver-software-for-windows-11-x64-systems/"><u>Free Epson DS-530 Printer Driver Software for Windows 11 X64 Systems</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-13-pro-max-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 13 Pro Max</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-building-audience-organically-tactics-that-deliver-views/"><u>In 2024, Building Audience Organically Tactics That Deliver Views</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-huawei-nova-y91withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Huawei Nova Y91with/without a PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/invest-in-memories-at-a-cost-you-love-the-akaso-ek7000/"><u>Invest in Memories at a Cost You Love - The AKASO EK7000</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-first-time-load-problems-fixing-the-black-screen-on-launch-for-helldivers-ii/"><u>Overcoming First-Time Load Problems: Fixing the Black Screen on Launch for Helldivers II</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-heart-of-iron-iv-common-errors-a-comprehensive-guide/"><u>Resolving Heart of Iron IV Common Errors: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamless-driver-update-for-geforce-rtx-2070-super-gpus-on-windows-11-comprehensive-guide-and-download-links/"><u>Seamless Driver Update for GeForce RTX 2070 Super GPUs on Windows 11: Comprehensive Guide and Download Links</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-your-stories-with-lush-soundtracks/"><u>Share Your Stories with Lush Soundtracks!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-new-world-game-ultimate-guide-to-lowering-excessive-cpu-usage/"><u>Solving 'New World' Game: Ultimate Guide to Lowering Excessive CPU Usage</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-overcoming-razer-synapse-cannot-open/"><u>Troubleshooting Tips: Overcoming 'Razer Synapse Cannot Open'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-stop-the-hiccups-in-age-of-empires-4-gameplay/"><u>Troubleshooting Tips: Stop the Hiccups in Age of Empires 4 Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fix-for-scavengers-keeping-you-from-gaming-on-your-computer/"><u>Ultimate Fix for Scavengers Keeping You From Gaming On Your Computer</u></a></li>
 </ul></div>
 

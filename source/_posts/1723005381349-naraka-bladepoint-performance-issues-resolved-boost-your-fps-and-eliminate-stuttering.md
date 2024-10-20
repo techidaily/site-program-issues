@@ -1,7 +1,7 @@
 ---
 title: "Naraka: Bladepoint Performance Issues Resolved? Boost Your FPS and Eliminate Stuttering!"
-date: 2024-09-25T22:38:21.050Z
-updated: 2024-10-03T08:47:10.185Z
+date: 2024-10-17T18:41:50.206Z
+updated: 2024-10-20T18:22:21.288Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ As one of the most awaited games in 2022, Elden Ring is finally here. However ma
 5. [**Disable Microsoft Device Association Root Enumerator**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Adjust the NVIDIA settings](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Update your graphics driver
 
  A broken or outdated graphics driver can trigger a variety of gaming issues such as constant stuttering or massive FPS drops. If you’re playing AAA titles like Elden Ring with high system requirements, you should definitely update your graphics driver to gain the best in-game experience.
@@ -50,13 +43,40 @@ To keep your graphics driver up-to-date, here are two options for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After the driver update, relaunch the game to see how it works. If the problem persists, there are more fixes to try.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Optimize graphics settings
 
@@ -68,13 +88,6 @@ To keep your graphics driver up-to-date, here are two options for you:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dedicated-gpu-3.jpg)
 3. Go to the game’s installation folder and add the**eldenring.exe file** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Once it’s added, click it and select**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/graphics-settings-1.jpg)
@@ -89,26 +102,40 @@ If this method doesn’t work, try the next solution.
 1. Launch your Steam client and select the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Elden Ring** from the game list and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Select**LOCAL FILES** and click**Verify integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It may take a while for Steam to scan and repair the game files, which will replace the wrong files with those from the official server. Now check if you get smoother gameplay. If not, try the next fix below.
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Disable Steam overlay
 
@@ -124,13 +151,6 @@ If this method doesn’t work, try the next solution.
 
 Restart the game and test. Still no luck? Continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5 – Disable Microsoft Device Association Root Enumerator
 
  Some players also reported that disabling Microsoft Device Association Root Enumerator resolves the stuttering dramatically. Disabling this device may stop some part of the device driver from installing, but your computer will work normally for the most part.
@@ -143,29 +163,22 @@ Restart the game and test. Still no luck? Continue to the next fix.
 3. Right-click**Microsoft Device Association Root Enumerator** and click**Disable device** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-2.jpg)
 4. Click**Yes** to confirm.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Test if you has an instant FPS boost. If so, you can enable the device again while you’re not playing the game. If the issue reoccurs, turn the device on and then take a look at the last fix.
@@ -205,22 +218,22 @@ Restart the game and test. Still no luck? Continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-first-steps-to-faster-film-playback-in-snapchat/"><u>[New] First Steps to Faster Film Playback in Snapchat</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-diablo-3-keeps-crashing/"><u>[SOLVED] Diablo 3 Keeps Crashing</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-investigating-profit-per-viewer-engagement-on-video-platforms/"><u>[Updated] 2024 Approved Investigating Profit per Viewer Engagement on Video Platforms</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-essential-how-to-sharing-videos-from-youtube-on-instagram/"><u>[Updated] 2024 Approved The Essential How-To Sharing Videos From YouTube on Instagram</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/big-news-for-creators-filmora-x-now-runs-on-arm-devices/"><u>Big News for Creators Filmora X Now Runs on ARM Devices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cutting-edge-strategies-to-optimize-your-minecraft-session-now/"><u>Cutting-Edge Strategies to Optimize Your Minecraft Session Now</u></a></li>
-<li><a href="https://win-web.techidaily.com/downloading-and-transforming-ustream-content-tips-for-mp3-and-mp4-file-creation/"><u>Downloading and Transforming Ustream Content - Tips for MP3 & MP4 File Creation</u></a></li>
-<li><a href="https://program-issues.techidaily.com/epic-games-launcher-troubleshooting-guide-black-screen-resolved/"><u>Epic Games Launcher Troubleshooting Guide - Black Screen Resolved</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-bland-lands-3-game-crashes-effective-solutions-explored/"><u>Fixing Bland Lands 3 Game Crashes: Effective Solutions Explored</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-the-latest-logitech-g403-drivers-and-enjoy-seamless-pc-gaming/"><u>Get the Latest Logitech G403 Drivers and Enjoy Seamless PC Gaming</u></a></li>
-<li><a href="https://program-issues.techidaily.com/god-of-war-not-running-smoothly-on-pc-heres-how-to-stop-the-endless-crashes/"><u>God of War Not Running Smoothly on PC? Here's How to Stop the Endless Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-continuous-freezing-in-tormented-souls-for-pc-users/"><u>How to Fix Continuous Freezing in Tormented Souls for PC Users</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-extract-and-save-fb-videos-on-pcmac-anywhere/"><u>In 2024, Extract & Save FB Videos on PC/Mac, Anywhere</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-harmonious-audio-pathway-guidebook/"><u>In 2024, Harmonious Audio Pathway Guidebook</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-realme-12plus-5gwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Realme 12+ 5Gwith/without a PC</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-step-by-step-guide-to-obs-streaming-success-for-2024/"><u>The Step-by-Step Guide to OBS Streaming Success for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-players-when-call-of-dutys-modern-warfare-3-wont-start/"><u>Troubleshooting Steps for Players When Call of Duty's Modern Warfare 3 Won't Start</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-ultimate-guide-to-bandicam-the-2023-comprehensive-overview/"><u>[New] 2024 Approved Ultimate Guide to Bandicam The 2023 Comprehensive Overview</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unveiling-the-best-vr-game-engines-of-2023-for-2024/"><u>[New] Unveiling the Best VR Game Engines of 2023 for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-audio-input-reduction-zero-price-included/"><u>2024 Approved Audio Input Reduction - Zero Price Included</u></a></li>
+<li><a href="https://driver-install.techidaily.com/accelerate-driver-updates-on-windows-versions-10plus81plus7-guide/"><u>Accelerate Driver Updates on Windows Versions: 10+8.1+7 Guide!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-a-huge-impact-youtube-titles-that-sell-for-2024/"><u>Crafting a Huge Impact YouTube Titles That Sell for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-ways-to-lower-your-computers-cpu-load-during-a-zoom-call/"><u>Effective Ways to Lower Your Computer's CPU Load During a Zoom Call</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/guide-enable-automatic-playback-in-your-custom-flipbooks-using-flipbuilder/"><u>Guide: Enable Automatic Playback in Your Custom Flipbooks Using FlipBuilder</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-and-resolve-fifa-2-section-1-problem-as-the-theme-question-theme-question/"><u>How to Prevent and Resolve FIFA 2 # Section 1: Problem as the Theme Question (Theme Question)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-infinix-hot-40-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Infinix Hot 40 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installation-guide-epson-workforce-ds-30-windows-11-compatible-printer-driver/"><u>Installation Guide: Epson WorkForce DS 30 Windows 11 Compatible Printer Driver</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-modern-warfare-3-a-comprehensive-guide-to-rectifying-memory-error-12707/"><u>Mastering Modern Warfare 3: A Comprehensive Guide to Rectifying Memory Error 12707</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-compatibility-issues-fixed-in-latest-patch-for-euro-truck-simulator-2/"><u>PC Compatibility Issues Fixed in Latest Patch for Euro Truck Simulator 2!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steam-critical-failure-resolving-the-failed-to-load-steamuidll-fatal-error/"><u>Steam Critical Failure: Resolving the 'Failed to Load SteamUI.DLL' Fatal Error</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-big-players-of-online-interaction-a-look-into-facebook-twitter-instagram-and-youtube/"><u>Understanding The Big Players of Online Interaction: A Look Into Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlocking-the-gpeditmsc-tool-for-windows-home-users-a-step-by-step-guide/"><u>Unlocking the gpedit.msc Tool for Windows Home Users – A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/valorant-game-stalling-solve-the-persistent-pc-freezes-and-play-smoothly/"><u>Valorant Game Stalling? Solve the Persistent PC Freezes and Play Smoothly!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/world-of-tanks-blitz-stability-issues-heres-how-to-stop-the-game-from-crashing/"><u>World of Tanks Blitz Stability Issues? Here's How to Stop the Game From Crashing</u></a></li>
 </ul></div>
 

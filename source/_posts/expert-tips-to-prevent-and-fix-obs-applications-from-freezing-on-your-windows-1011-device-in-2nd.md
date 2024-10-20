@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Prevent and Fix OBS Applications From Freezing on Your Windows 10/11 Device in 2nD
-date: 2024-10-08T03:10:28.213Z
-updated: 2024-10-14T16:34:35.103Z
+date: 2024-10-15T17:27:09.085Z
+updated: 2024-10-20T17:13:55.337Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 
  An unstable overclocking will lead to excessive energy consumption and cause your programs to malfunction. So if you’ve overclocked your CPU or GPU and then Hitman 3 crashes, try**disabling overclocking utilities like MSI Afterburner** and **setting the clock speed back to the default** . If this doesn’t help, have a look at the second fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2 – Use the dedicated GPU
 
  If you have two graphics cards installed to your computer, make sure to run Hitman 3 on your dedicated GPU, because the inbuilt card is usually underpowered for graphics-intensive games and can trigger the crashing issue. Here’s how to switch to the dedicated card in NVIDIA settings:
@@ -48,10 +55,10 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 4. Select**HITMAN 3** from the list and click**Add Selected Program** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-4.jpg)
@@ -59,36 +66,29 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-5.jpg)
 6. Exit the NVIDIA Control Panel.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Launch Hitman 3 and select**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-6.jpg)
 8. Select your**dedicated graphics card** instead of the integrated one next to Graphics Processing Unit, and click**Save** .  
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you have an AMD graphics card, you could refer to this[official guide](https://www.amd.com/en/support/kb/faq/dh-017) to configure the Radeon settings.
 
  Now see if Hitman 3 works properly. If not, there are two more fixes to try.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Verify the integrity of game files
 
@@ -97,13 +97,6 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 1. Open your Epic Games Launcher and navigate to the**Library** tab in the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-1-2.jpg)
 2. Mouse over the**Hitman 3 tile** and click**the icon with three dots** at the lower right corner. Then, select**Verify** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-2.jpg)
 3. After the process completes, launch Hitman 3 to test.
@@ -124,10 +117,10 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 3. Click the**Update** button next to the_flagged graphics driver_ to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all the drivers_ that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
@@ -146,8 +139,22 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-1-3.jpg)
 2. Click**Settings** under Performance.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-2-2.jpg)
 3. Navigate to the**Advanced** tab. Then, click**Change** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-3-2.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
@@ -156,10 +163,10 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 5. Select the**C drive** and click**Custom size** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-5.jpg)
@@ -167,13 +174,6 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 
 **Note** : According to Microsoft, you should set virtual memory no less than**1.5 times** and no more than **3 times** the amount of RAM on your computer. For example, if you have 8 GB RAM, the**Initial size** should be 8 x 1024 x 1.5 = 12288 MB while the **Maximum size** should be 8 x 1024 x 3 = 24576 MB. If you don’t know how much RAM you have, read our post to[check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart the computer for changes to take effect. Once you’ve done that, run Hitman 3 and the crashes should be resolved now.
 
@@ -199,15 +199,20 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-bitevideo-innovator/"><u>[New] 2024 Approved BiteVideo Innovator</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/how-to-archive-your-favorite-movies-mac-screenshots-for-netflix-for-2024/"><u>How to Archive Your Favorite Movies Mac Screenshots for Netflix for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-infinix-smart-8-pro-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Infinix Smart 8 Pro</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-ultimate-list-slow-motion-video-editing-solutions/"><u>New 2024 Approved The Ultimate List Slow Motion Video Editing Solutions</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-installation-hurdles-correcting-the-windows-10-not-installed-error-80240020/"><u>Overcome Installation Hurdles: Correcting the 'Windows 10 Not Installed' Error 80240020</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-issue-of-minecraft-crashing-unresponsive-on-windows/"><u>Resolving the Issue of Minecraft Crashing Unresponsive on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/say-goodbye-to-disruptions-solving-the-age-of-empires-4-stability-issue-on-pc/"><u>Say Goodbye to Disruptions: Solving the Age of Empires 4 Stability Issue on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-overcoming-palworlds-search-session-problems/"><u>Step-by-Step Solution: Overcoming Palworld's Search Session Problems</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-best-of-the-best-in-open-world-gaming-for-2024/"><u>The Best of the Best in Open World Gaming for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-complete-fix-overcoming-no-sound-glitches-in-playerunknowns-battlegrounds-pubg/"><u>The Complete Fix: Overcoming No Sound Glitches in PlayerUnknown's Battlegrounds (PUBG)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevating-the-end-scene-in-youtube-productions/"><u>[New] 2024 Approved Elevating the End Scene in YouTube Productions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/thical-approaches-to-achieve-one-million-youtube-subscribers/"><u>[New] Ethical Approaches to Achieve One Million YouTube Subscribers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-propel-your-profile-5-core-techniques-for-instagram-marketing-gurus-for-2024/"><u>[New] Propel Your Profile 5 Core Techniques for Instagram Marketing Gurus for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-revolutionary-appeal-of-apples-m1-max-clip/"><u>[New] The Revolutionary Appeal of Apple's M1 Max Clip</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-fresh-talent-and-stunts-in-skating-highlights/"><u>[Updated] Fresh Talent and Stunts in Skating Highlights</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-world-of-instantaneous-public-sharing/"><u>[Updated] Navigating the World of Instantaneous Public Sharing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-steps-to-address-minecraft-launch-problems/"><u>Comprehensive Steps to Address Minecraft Launch Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/confronting-utorrent-stalls-top-7-proven-ways-to-restore-functionality/"><u>Confronting Utorrent Stalls: Top 7 Proven Ways to Restore Functionality</u></a></li>
+<li><a href="https://program-issues.techidaily.com/crash-no-more-top-strategies-to-fix-among-us-glitches/"><u>Crash No More: Top Strategies To Fix 'Among Us' Glitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-days-gone-failed-pc-installation-problems-fixed/"><u>How to Fix 'Days Gone' Failed PC Installation Problems (FIXED)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-issues-when-thaumaturge-wont-start-on-your-pc/"><u>Resolving Issues When Thaumaturge Won't Start on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-windows-11-error-code-0xc19001e1-step-by-step-fix/"><u>Resolving Windows 11 Error Code 0xC19001E1 - Step by Step Fix</u></a></li>
+<li><a href="https://program-issues.techidaily.com/six-essential-solutions-to-prevent-street-fighter-6-pc-game-crashes/"><u>Six Essential Solutions to Prevent Street Fighter 6 PC Game Crashes</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-infinix-gt-10-pro-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Infinix GT 10 Pro without backup.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/up-to-date-chatgpt-impact-for-all/"><u>Up-to-Date ChatGPT Impact for All</u></a></li>
 </ul></div>
 

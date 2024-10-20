@@ -1,7 +1,7 @@
 ---
 title: "Victory over Overwatch Errors: Tackling the Graphics Driver Problem Once and For All"
-date: 2024-10-10T05:15:04.399Z
-updated: 2024-10-14T18:12:45.671Z
+date: 2024-10-17T16:52:44.196Z
+updated: 2024-10-20T18:39:04.055Z
 tags:
   - win11
   - win10
@@ -39,10 +39,10 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 * etc.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to fix ‘ **_Connection to the Battle.net game server has been lost_**  ‘?
@@ -83,15 +83,15 @@ If your game isn’t on the list, follow these steps:
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/07/add-program.gif)
 2. Click**Browse** to locate your game (**BlackOpsColdWar.exe** ) and click**Add** once selected.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Once added, tick both the**Private** and**Public** boxes for the application.
 4. Restart your Battle.net and play the game again the test the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2\. Perform a network reset
 
@@ -100,6 +100,14 @@ If your game isn’t on the list, follow these steps:
 1. In the Windows search box, type **cmd** . Under **Command Prompt** , select **Run as administrator** .  
 _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)_
 2. Click **OK** to confirm your action.
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Once the Command Prompt window is open, type the following 5 command lines (press **Enter**  after entering each command line):  
 
 **`netsh winsock reset`**  
@@ -111,6 +119,13 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2021/07/reset.png)
 4. Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3\. Change your DNS server
 
 1. On your keyboard, press the **Windows + R** key at the same time to open the Run dialog box.
@@ -118,25 +133,11 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa.jpg)
 3. Right-click your current network connection, and select **Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
 
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Preferred DNS server: 8.8.8.8**  
 **Alternate DNS server: 8.8.4.4**  
@@ -145,10 +146,10 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 6. Click **OK** to apply.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4\. Update your device drivers
@@ -167,17 +168,17 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed.jpg)
 3. Click the **Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-network-driver-2.jpg)
 4. Once your drivers are up to date, restart your computer for the changes to take full effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5\. Use a VPN
 
@@ -217,17 +218,22 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-your-handy-hint-downloading-youtube-videos-to-your-apple-device/"><u>[New] 2024 Approved Your Handy Hint Downloading YouTube Videos to Your Apple Device</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/cognados-entre-ingles-y-espanol-50-expresiones-simples/"><u>Cognados Entre Inglés Y Español: 50 Expresiones Simples</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/dive-into-cutting-edge-3d-printing-at-rapid-plus-tct-2024-a-first-look-at-the-latest-printers-and-materials/"><u>Dive Into Cutting-Edge 3D Printing at Rapid + TCT 2024 – A First Look at the Latest Printers & Materials</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-hacks-to-prevent-your-cities-skylines-game-from-crashing/"><u>Expert Hacks to Prevent Your Cities: Skylines Game From Crashing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-your-pacific-drive-running-smoothly-again-essential-troubleshooting-steps/"><u>Get Your Pacific Drive Running Smoothly Again - Essential Troubleshooting Steps</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Lava Blaze Curve 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-game-changing-trick-enter-mac-apple-watch-style/"><u>In 2024, Game-Changing Trick Enter Mac, Apple Watch Style</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/precision-screen-recorders-for-xbox-gamers-explained/"><u>Precision Screen Recorders for Xbox Gamers Explained</u></a></li>
-<li><a href="https://program-issues.techidaily.com/taming-discords-resource-demand-comprehensive-fixes-for-elevated-cpu-use/"><u>Taming Discord's Resource Demand : Comprehensive Fixes for Elevated CPU Use</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-netgear-nighthawk-c7000-unveiled-a-detailed-review-of-this-high-flying-wireless-networking-marvel/"><u>The Netgear Nighthawk C7000 Unveiled: A Detailed Review of This High-Flying Wireless Networking Marvel</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-stop-youtube-buffering-and-freezing-easily/"><u>Troubleshooting Tips: Stop YouTube Buffering & Freezing Easily!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-experts-choice-androids-best-large-group-calling/"><u>[New] 2024 Approved Expert's Choice Android's Best Large Group Calling</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-excellent-devices-for-frame-by-frame-filmmaking/"><u>[New] In 2024, Excellent Devices for Frame-by-Frame Filmmaking</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-present-day-vr-tech-diary/"><u>[Updated] Present-Day VR Tech Diary</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-affordable-facetime-replacements-for-android/"><u>2024 Approved Affordable FaceTime Replacements for Android</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/1726027787767-xmedia-recode/"><u>動画中の音声抽出方法とXMedia Recodeを使った代用戦略</u></a></li>
+<li><a href="https://program-issues.techidaily.com/biomutant-for-pc-how-to-avoid-crashes-and-enjoy-gaming-without-hiccups-updated-guide-2024/"><u>Biomutant for PC: How to Avoid Crashes and Enjoy Gaming Without Hiccups (Updated Guide 2024)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/discord-camera-malfunction-heres-how-you-can-resolve-it-now/"><u>Discord Camera Malfunction? Here's How You Can Resolve It Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/division-2-wont-start-top-troubleshooting-strategies/"><u>Division 2 Won't Start? Top Troubleshooting Strategies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/gamers-guide-to-fixing-frames-per-second-drops-and-improving-load-times/"><u>Gamers' Guide to Fixing Frames Per Second Drops and Improving Load Times</u></a></li>
+<li><a href="https://program-issues.techidaily.com/gaming-hacks-addressing-and-repairing-continuous-crash-issues-in-cod-modern-warfare-2/"><u>Gaming Hacks: Addressing and Repairing Continuous Crash Issues in COD: Modern Warfare 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-rectifying-fifa-21s-inability-to-start-correctly/"><u>Guide: Rectifying FIFA 21'S Inability to Start Correctly</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-y100-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo Y100</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-video-editing-on-a-shoestring-top-software/"><u>In 2024, Video Editing on a Shoestring Top Software</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/next-level-bargain-gaming-immerse-in-the-action-with-an-affordable-39-lg-wqhd-curve-on-amazon-for-just-999/"><u>Next-Level Bargain Gaming: Immerse in the Action with an Affordable 39 LG WQHD Curve on Amazon for Just $999!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-bugs-in-age-of-wonders-planetfall-a-comprehensive-troubleshooting-guide-for-pc-users/"><u>Overcoming Bugs in 'Age of Wonders: Planetfall': A Comprehensive Troubleshooting Guide for PC Users</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/secure-your-data-with-protected-mode-in-windows-781011-stress-free-privacy/"><u>Secure Your Data with Protected Mode in Windows 7/8/10/11 - Stress-Free Privacy</u></a></li>
+<li><a href="https://program-issues.techidaily.com/winning-tips-for-overcoming-league-of-legends-internet-delays/"><u>Winning Tips for Overcoming League of Legends Internet Delays</u></a></li>
 </ul></div>
 

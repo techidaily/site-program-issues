@@ -1,7 +1,7 @@
 ---
 title: "Conquered: The Ultimate Guide to Fixing Resident Evil Village Launch Troubles"
-date: 2024-08-28T06:37:55.376Z
-updated: 2024-08-29T06:37:55.376Z
+date: 2024-10-19T17:45:30.760Z
+updated: 2024-10-20T16:24:42.675Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 3. [Change mouse settings](https://tools.techidaily.com/drivereasy/download/)
 4. [Update device driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Download an invisible cursor theme file
 
  To solve the mouse cursor that appears on the black bars in-game issue, download an invisible cursor theme file would do the job.
@@ -44,9 +51,12 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_11-07-00.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Change resolution
 
  Many players have found out the best resolution to solve this cursor issue is**16:9** . That means if you have 1680: 1050, select 1600 x 900 instead. If you run the game with a 16: 10 monitor, the black bar would appear on the bottom of your screen and the desktop mouse becomes visible. The game would be unplayable because of sensitivity and aiming issues.
@@ -57,11 +67,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_11-14-23.jpg)
 4. Make sure you’re in full screen, not borderless window.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : This fix might let the image lose a lot of quality.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Change mouse settings
 
  Change the in-game mouse settings might help. Players have proved that the max sensitivity is not 10 and you can set the number go beyond 10.
@@ -71,13 +85,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 If this fix brings no luck, move to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update device driver
 
  Keeping your drivers updated is important to your PC. If driver on your PC is outdated or corrupted, you may encounter crashes or other issues that won’t let you enjoy the game. To prevent potential risks, you need to update your device driver regularly.
@@ -98,16 +113,10 @@ There are two ways you can update your device drivers:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the device driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -121,8 +130,6 @@ There are two ways you can update your device drivers:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +137,21 @@ There are two ways you can update your device drivers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-unlock-access-to-nba-live-gameplay-with-these-15-tips/"><u>[New] Unlock Access to NBA Live Gameplay with These 15 Tips</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-crafting-a-new-digital-persona-comprehensible-steps-for-changing-tiktok-handle/"><u>[Updated] Crafting a New Digital Persona Comprehensible Steps for Changing TikTok Handle</u></a></li>
+<li><a href="https://program-issues.techidaily.com/combatir-el-error-forza-horizon-4-wont-launch-tacticas-eficaces-actualizadas-para-2024/"><u>Combatir El Error 'Forza Horizon 4 Won't Launch': Tácticas Eficaces Actualizadas Para 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/complete-instructions-for-installing-apple-device-drivers-on-windows-10/"><u>Complete Instructions for Installing Apple Device Drivers on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/discovery-and-fix-for-error-45/"><u>Discovery and Fix for Error #45</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fine-tuning-scalability-of-youtube-media-for-2024/"><u>Fine-Tuning Scalability of YouTube Media for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-hp-laserjet-pro-mfp-m428fdw-drivers-for-windows-users-compatible-with-windows-71011/"><u>Get the Latest HP LaserJet Pro MFP M428fdw Drivers for Windows Users: Compatible with Windows 7/10/11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-get-crusader-kings-iii-running-smoothly-after-pc-crashes-expert-tips-included/"><u>How to Get Crusader Kings III Running Smoothly After PC Crashes – Expert Tips Included</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-improve-performance-in-half-life-alyx-dealing-with-lag-and-frame-drops-on-pcs/"><u>How to Improve Performance in 'Half-Life: Alyx': Dealing with Lag and Frame Drops on PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-solve-your-origin-wont-start-issue-efficiently/"><u>How to Solve Your Origin Won't Start Issue Efficiently</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-channel-mastery-leverage-customizable-description-templates-for-more-followers/"><u>In 2024, Channel Mastery Leverage Customizable Description Templates for More Followers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/newly-launched-wonderfox-document-handling-software-version-12-now-available/"><u>Newly Launched WonderFox Document Handling Software - Version 1.2 Now Available</u></a></li>
+<li><a href="https://program-issues.techidaily.com/persistent-chill-in-updated-reality-discover-fixes-now/"><u>Persistent Chill in Updated Reality: Discover Fixes Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-8-solutions-to-stop-vrchat-from-crashing-on-your-desktop/"><u>Top 8 Solutions to Stop VRChat From Crashing on Your Desktop</u></a></li>
+</ul></div>
 

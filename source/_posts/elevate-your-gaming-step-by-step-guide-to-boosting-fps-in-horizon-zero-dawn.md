@@ -1,7 +1,7 @@
 ---
 title: "Elevate Your Gaming: Step-by-Step Guide to Boosting FPS in Horizon Zero Dawn"
-date: 2024-10-01T22:25:14.241Z
-updated: 2024-10-08T18:08:22.730Z
+date: 2024-10-14T18:39:20.534Z
+updated: 2024-10-20T16:22:48.260Z
 tags:
   - win11
   - win10
@@ -35,10 +35,10 @@ thumbnail: https://thmb.techidaily.com/6304baca930779dbe6ae3412704c6577c66eb8d78
 11. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics drivers
@@ -61,15 +61,22 @@ thumbnail: https://thmb.techidaily.com/6304baca930779dbe6ae3412704c6577c66eb8d78
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (Alternatively, if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Stop overclocking
 
@@ -82,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/6304baca930779dbe6ae3412704c6577c66eb8d78
  If your PC fails to meet the recommended system requirements for Control, you should use a reduced settings profile for graphics-related features, because higher settings will increase the workload for your PC, which may even lead to the game crash issue. You can follow the screenshots below to lower the in-game graphics settings:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-setting-1024x592.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
 
@@ -121,13 +121,6 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 
@@ -138,8 +131,23 @@ Here are the system requirements for Control:
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
@@ -150,8 +158,22 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by Large icons.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select Intel Graphics Settings to open it.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click 3D to open the 3D settings.  
@@ -212,21 +234,7 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-49-47.png)
 2. Click **Verify** to start verifying the game files.  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
 
@@ -247,21 +255,14 @@ Here are the system requirements for Control:
 2. In the Properties Window, navigate to**the Compatibility tab** , check the box next to**Run this program in compatibility mode for:** and select**Windows 7** from the drop-down list. Check the box next to**Run as an administrator** and then click**OK** to save the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_14-25-41.png)
 3. Double-click the shortcut of Control on your desktop to launch it. This time Control will run in the compatibility mode you set in step 2.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 See if this fix works for you. If not, try the next fix, below.
 
@@ -291,24 +292,24 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-essential-windows-8-tips-record-your-screen/"><u>[New] Essential Windows 8 Tips Record Your Screen</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-precision-planning-the-guide-to-online-collaboration/"><u>[New] In 2024, Precision Planning The Guide to Online Collaboration</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-boosting-productivity-how-to-capture-your-online-meeting-experience/"><u>[Updated] 2024 Approved Boosting Productivity How to Capture Your Online Meeting Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/3-simple-ways-to-block-unwanted-messages-on-iphone-a-step-by-step-guide-zdnet/"><u>3 Simple Ways to Block Unwanted Messages on iPhone: A Step-by-Step Guide (ZDNet)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/baldurs-gate-troubleshooting-guide-fix-stutters-boost-framerate-6-techniques/"><u>Baldur's Gate Troubleshooting Guide - Fix Stutters, Boost Framerate (6 Techniques)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-rockstar-games-launcher-glitches-proven-fixes-to-get-you-gaming/"><u>Beat Rockstar Games Launcher Glitches: Proven Fixes to Get You Gaming</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effortless-waysto-stop-dayz-from-freezing-quick-guide-and-tips/"><u>Effortless Waysto Stop DayZ From Freezing: Quick Guide & Tips</u></a></li>
-<li><a href="https://driver-download.techidaily.com/expert-advice-on-securing-the-latest-version-of-the-epson-et-3760-printer-driver-for-your-pc/"><u>Expert Advice on Securing the Latest Version of the Epson ET-3760 Printer Driver for Your PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/flawless-firefights-advanced-techniques-to-combat-low-fps-in-valorant-exclusive-2024-insights/"><u>Flawless Firefights: Advanced Techniques to Combat Low FPS in Valorant (Exclusive 2024 Insights)</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-vivo-y27s-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Vivo Y27s to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From Apple iPhone 11 Pro Max</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Share/Fake Location on WhatsApp for Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-atomic-heart-crashes-on-startup-best-practices-and-solutions/"><u>Overcome 'Atomic Heart Crashes on Startup': Best Practices and Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-gaming-resolving-the-issue-of-dual-frame-rate-decrease/"><u>PC Gaming: Resolving the Issue of Dual Frame Rate Decrease</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ping-perfection-advanced-techniques-to-optimize-warzone-20-connection-speed-in-2n24/"><u>Ping Perfection: Advanced Techniques to Optimize Warzone 2.0 Connection Speed in 2N24</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-music-after-galaxy-s24-ultra-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Galaxy S24 Ultra has been deleted</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-constant-dread-hunger-game-freezes-on-pc-a-step-by-step-guide/"><u>Resolving Constant Dread Hunger Game Freezes on PC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fixes-for-path-of-exile-cannot-connect-to-server-issue-complete-2-guide/"><u>Ultimate Fixes for 'Path of Exile Cannot Connect to Server' Issue - Complete 2# Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/untangling-star-wars-squadron-game-breaking-issues-now-resolved/"><u>Untangling Star Wars Squadron Game-Breaking Issues – Now Resolved</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitterize-your-tiktok-posts/"><u>[Updated] 2024 Approved Twitterize Your TikTok Posts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-average-earnings-for-podcast-creators/"><u>[Updated] Average Earnings for Podcast Creators</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-must-have-settings-for-online-broadcasting/"><u>2024 Approved Must-Have Settings for Online Broadcasting</u></a></li>
+<li><a href="https://program-issues.techidaily.com/accelerate-your-progress-expert-tips-for-swift-shader-tweaks-in-star-wars-battlefront-ii/"><u>Accelerate Your Progress: Expert Tips for Swift Shader Tweaks in Star Wars Battlefront II</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beyond-the-touchdown-resolving-your-football-manager-2019-freezing-issues/"><u>Beyond the Touchdown: Resolving Your Football Manager 2019 Freezing Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-error-why-isnt-your-nvidia-screen-capture-working/"><u>Common Error: Why Isn't Your Nvidia Screen Capture Working?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-solutions-for-resolving-the-missing-shelldll-error-on-your-pc/"><u>Effective Solutions for Resolving the Missing Shell.dll Error on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/efficient-ways-to-fix-a-non-functioning-steamvr-system/"><u>Efficient Ways to Fix a Non-Functioning SteamVR System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhanced-stability-now-smooth-and-bug-free-gaming-in-assassins-creed-valhalla-pc-version/"><u>Enhanced Stability: Now Smooth and Bug-Free Gaming in Assassin's Creed Valhalla PC Version</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-errors-when-trying-to-open-your-razer-synapse-software/"><u>Fixing Errors When Trying To Open Your Razer Synapse Software</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-methods-to-transform-your-mts-videos-into-mp4-format-compatible-with-all-devices-on-windows-and-macos/"><u>Free Methods to Transform Your MTS Videos Into MP4 Format Compatible with All Devices on Windows and macOS</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ating-the-monetization-maze-on-youtube/"><u>Navigating the Monetization Maze on Youtube</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-lag-issues-in-avatar-the-game-fix-low-fps-and-smoothing-out-stutter/"><u>Solving Lag Issues in 'Avatar: The Game' - Fix Low FPS & Smoothing Out Stutter</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-zoom-freezes-and-crashes-advanced-fixes-for-users-of-windows-11-and-10/"><u>Troubleshooting Zoom Freezes and Crashes: Advanced Fixes for Users of Windows 11 & 10</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tv-blank-face-laptop-lights-on/"><u>TV Blank Face, Laptop Lights On</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-rotate-avi-videos-with-ease-16-best-free-tools-and-apps/"><u>Updated Rotate AVI Videos with Ease 16 Best Free Tools and Apps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/xbox-live-outage-current-server-status-update/"><u>Xbox Live Outage - Current Server Status Update</u></a></li>
 </ul></div>
 

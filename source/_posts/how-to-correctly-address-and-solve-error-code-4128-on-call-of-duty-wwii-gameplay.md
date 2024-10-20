@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Address and Solve Error Code 4128 on Call of Duty WWII Gameplay
-date: 2024-10-13T19:49:39.238Z
-updated: 2024-10-15T04:19:10.223Z
+date: 2024-10-19T18:35:16.047Z
+updated: 2024-10-20T18:19:37.406Z
 tags:
   - win11
   - win10
@@ -36,6 +36,13 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 
  As many players reported, the dev error 5573 is related to specific operator skins or actions you’re performing. If you’re using other skins or outfits on your operators, try**switching to the Base skin/outfit** and see how it works. This trick should apply to all the players on PC or console. But if it doesn’t help your case, move on to more fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2 – Verify the integrity of game files
 
  If Vanguard is constantly crashing with a dev error code, there may be something wrong with the game files. To scan and repair any missing or damaged game files, you need to do an integrity check.
@@ -45,10 +52,10 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/scan-and-repair-game-files-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait for the process to complete. Then restart the game to check if the issue persists. If Yes, continue to the next solution.
@@ -67,20 +74,20 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Reboot your computer for the changes to take effect. If the error code reoccurs, try the next solution.
@@ -110,24 +117,17 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now the computer’s performance and stability is improved. You can restart Vanguard again to see if the game works without trouble.
 
@@ -150,19 +150,18 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/failed-connection-with-anticheat-system-how-to-fix-it-on-eft/"><u>'Failed Connection with Anticheat System': How to Fix It on EFT</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723011030971-fixed-grounded-crashing-on-pc-2024-tips/"><u>[Fixed] Grounded Crashing on PC - 2024 Tips</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-unforgettable-journeys-our-favorites-in-adventure-gameplay-for-2024/"><u>[New] Unforgettable Journeys Our Favorites in Adventure Gameplay for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-unlocking-audible-content-from-twitter-videos/"><u>[Updated] 2024 Approved Unlocking Audible Content From Twitter Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-revolutionizing-lessons-with-top-screen-recorder-apps/"><u>2024 Approved Revolutionizing Lessons with Top Screen Recorder Apps</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cure-your-game-fixes-for-the-persistent-directx-glitch-in-anno-1800/"><u>Cure Your Game: Fixes for the Persistent DirectX Glitch in Anno 1800</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminate-red-dead-online-disruptions-a-comprehensive-guide-for-a-smooth-gaming-experience/"><u>Eliminate Red Dead Online Disruptions: A Comprehensive Guide for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-insert-sign-in-xlsm-files-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to insert sign in .xlsm files</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Use Life360 on Windows PC For Apple iPhone 6 Plus? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/incompatible-driver-not-found-by-os/"><u>Incompatible Driver Not Found by OS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/red-dead-redemption-2-performance-improved-pc-crashes-no-longer-an-issue/"><u>Red Dead Redemption 2 Performance Improved: PC Crashes No Longer an Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-how-to-address-and-correct-acrocef-exe-glitches/"><u>Troubleshooting Tips: How to Address and Correct AcroCEF Exe Glitches</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-avi-video-rotation-made-easy-16-free-solutions-for-windows-mac-android-iphone-and-online-users/"><u>Updated 2024 Approved AVI Video Rotation Made Easy 16 Free Solutions for Windows, MAC, Android, iPhone, and Online Users</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723212303022-windows-10-update-stuck-or-frozen-how-do-i-fix-it/"><u>Windows 10 Update Stuck or Frozen – How Do I Fix It?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-window-warriors-choose-the-best-capture-apps/"><u>[New] 2024 Approved Window Warriors Choose the Best Capture Apps</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-adjust-macs-captured-screen-storage-place-for-2024/"><u>[New] Adjust Mac's Captured Screen Storage Place for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevating-your-contents-exposure-with-ongoing-creative-commons-usage/"><u>[New] In 2024, Elevating Your Content's Exposure with Ongoing Creative Commons Usage</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-guide-insert-a-linked-text-in-your-tiktok-bio/"><u>[New] Step-by-Step Guide Insert a Linked Text in Your TikTok Bio</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-of-the-2er-ipad-pro-with-m1-chip-unmatched-desktop-power-in-portable-form/"><u>Comprehensive Analysis of the 2Er iPad Pro with M1 Chip - Unmatched Desktop Power in Portable Form</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dealing-with-the-delayed-drop-heres-how-to-play-football-manager-2022-right-now/"><u>Dealing With the Delayed Drop? Here's How to Play Football Manager 2022 Right Now!</u></a></li>
+<li><a href="https://common-error.techidaily.com/defeat-the-0x800705b4-error-in-your-windows-11-update-process-with-these-proven-strategies/"><u>Defeat the 0X800705B4 Error in Your Windows 11 Update Process with These Proven Strategies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-recurring-nox-player-collapses-on-laptop-and-desktop-systems/"><u>How to Fix Recurring Nox Player Collapses on Laptop and Desktop Systems</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-no-one-sees-you-heres-how-to-make-your-youtube-video-a-hit/"><u>In 2024, No One Sees You? Here’s How To Make Your YouTube Video A Hit</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723002024009-lost-in-digital-battlefields-reboot-your-link-with-blizzard-gaming-servers-now/"><u>Lost in Digital Battlefields? Reboot Your Link with Blizzard Gaming Servers Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/nvidias-gaming-overlay-not-responding-heres-how-to-get-it-working-again/"><u>Nvidia's Gaming Overlay Not Responding? Here's How to Get It Working Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-for-troublesome-maplestory-boot-problems-ensures-seamless-play/"><u>Solution for Troublesome Maplestory Boot Problems Ensures Seamless Play</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-strategies-for-resolving-rocket-league-game-crashes-2024-edition/"><u>Top Strategies for Resolving Rocket League Game Crashes - 2024 Edition</u></a></li>
 </ul></div>
 

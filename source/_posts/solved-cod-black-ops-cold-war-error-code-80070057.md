@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] COD: Black Ops Cold War Error Code 80070057"
-date: 2024-08-28T06:40:30.927Z
-updated: 2024-08-29T06:40:30.927Z
+date: 2024-10-13T16:07:11.023Z
+updated: 2024-10-20T16:09:52.192Z
 tags:
   - win11
   - win10
@@ -42,14 +42,26 @@ The first thing, as it suggests, is to perform a scan and repair.
 2. Go to the**GAMES** tab, select**Call of Duty: BOCW** and click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/COD.jpg)
 3. Click**Scan and Repair** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-to-new-version-1.jpg)
 4. Wait for the process to complete.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch the game again to test the issue. If you see this error again, don’t worry, because there’re more fixes you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Install the latest patch
 
  No matter what problem you’re experiencing, be sure to install the latest patch. Game developers keep releasing new updates to fix known issues.
@@ -61,23 +73,20 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![check for updates](https://images.drivereasy.com/wp-content/uploads/2020/12/update-to-new-version-battle.net_.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you already have the latest version of Call of Duty: Black Ops Cold War but the error code just shows up again, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Update the graphics driver
 
@@ -93,6 +102,14 @@ Key features:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged video card to automatically download the correct version of their driver (you can do this with the **FREE** version), and then install it manually on your computer.  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll get full tech support and a 30-day money-back guarantee).
 4. Restart your computer and launch your game to test the issue.
@@ -106,19 +123,18 @@ Key features:
 1. Open the**Battle.net** app and locate your**Call of Duty: BOCW** under the**GAMES** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/COD.jpg)
 2. Select**Game Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/game-settings.jpg)
 3. Under**Call of Duty: Black Ops Cold War** , check the box next to**Additional command line arguments** . Then type**\-d3d11** into the box to force the game to run in DX11.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Game-settings-DX11.jpg)
 4. Click**Done** to apply the changes.
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch the game and play for a while to see if the error code 80070057 persists. If your game is working like a charm now, then congratulations. But if not, try the fix, below.
 
@@ -130,15 +146,16 @@ Key features:
 2. Press**Windows** Key+**R** to open the Run dialogue. Type**%ProgramData%** into the Run field and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/data.jpg)
 3. Delete the folder**Blizzard Entertainment** , which contains the cache directory.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/delete-cache.jpg)
 4. Restart the Battle.net app and relaunch the game.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Set English as the Windows display language
 
  Many players fixed the error code by setting English as the display language when playing Black Ops Cold War.
@@ -148,9 +165,6 @@ Key features:
 2. Makes sure you set**English** (US or UK) as the**Windows display language** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/English.jpg)
 3. If you don’t see English, click**Add a language** .  
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/add.jpg)
 
 Restart your computer and relaunch your game again to test the issue.
@@ -169,8 +183,6 @@ Restart your computer and relaunch your game again to test the issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +190,19 @@ Restart your computer and relaunch your game again to test the issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-samsung-photography-essentials-a-detailed-review-2023/"><u>[New] Samsung Photography Essentials – A Detailed Review, 2023</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-ultimate-guide-to-converting-youtube-to-avi-videos/"><u>[Updated] 2024 Approved The Ultimate Guide to Converting YouTube to AVI Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-concurrent-display-archiving-for-2024/"><u>[Updated] Concurrent Display Archiving for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-maiden-recording-appraisal-article-for-2024/"><u>[Updated] Maiden Recording Appraisal Article for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-zoom-the-ultimate-guide-to-audio-recording-for-podcasts-for-2024/"><u>[Updated] Mastering Zoom The Ultimate Guide to Audio Recording for Podcasts for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-steam-detection-issues-for-controllers-on-a-windows-machine/"><u>Bypassing Steam Detection Issues for Controllers on a Windows Machine</u></a></li>
+<li><a href="https://article-posts.techidaily.com/from-noisy-to-neat-cutting-out-clutter-on-photos/"><u>From Noisy to Neat Cutting Out Clutter on Photos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-the-ls-0013-initialization-failure-in-fortnite/"><u>How to Fix the LS-0013 Initialization Failure in Fortnite</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-playstation-conflicts-solving-total-war-saga-troy-issues-on-pc/"><u>How To Resolve PlayStation Conflicts - Solving 'Total War Saga: Troy' Issues On PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008140242-master-the-art-of-smooth-gaming-tips-to-prevent-disco-elysium-from-crashing/"><u>Master The Art of Smooth Gaming – Tips to Prevent Disco Elysium From Crashing!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigate-beyond-chatgpt-with-assurance-embrace-the-security-of-duckduckgos-exclusive-ai-chatting-solutions/"><u>Navigate Beyond ChatGPT with Assurance - Embrace the Security of DuckDuckGo’s Exclusive AI Chatting Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-stabilizing-palworld-performance-on-your-desktop-pc/"><u>Step-by-Step Solution: Stabilizing PalWorld Performance on Your Desktop PC</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Saints Row Won't Open? Here's What You Need to Do Now (Issue Resolved)
-date: 2024-09-01T10:26:07.494Z
-updated: 2024-09-02T10:26:07.494Z
+date: 2024-10-17T17:38:26.910Z
+updated: 2024-10-20T18:38:39.340Z
 tags:
   - win11
   - win10
@@ -43,18 +43,27 @@ Beat Saber is a great VR title, but many players are reporting game crashing iss
 2. Right-click Beat Saber and select**Properties** .  
 ![Properties-BeatSaber](https://images.drivereasy.com/wp-content/uploads/2020/12/Properties-BeatSaber.jpg)
 3. Select the **Local files** tab and click the **Verify integrity of game files…** button.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![ Verify integrity of game files...](https://images.drivereasy.com/wp-content/uploads/2020/12/localfiles.jpg)
 4. Steam will verify the game files. It may take about 3-5 minutes.
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Once complete, launch the game again to test the issue.
 
  If Beat Saber keeps crashing rather randomly, don’t be upset, for we have a few more fixes to try.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 3: Remove all the mods
 
  If you’re running mods and having this crashing issue, we strongly recommend you to try the game without any modes. Since all the current Beat Saber mods are not official so they can bump into problems.
@@ -64,11 +73,15 @@ Beat Saber is a great VR title, but many players are reporting game crashing iss
 1. Go to the**Local Files** tab of Beat Saber, and click**Browse Local Files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/local-files.jpg)
 2. Locate the**Plugins** folder, and delete the .dll files inside.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Beat-Saber-Plugin.jpg)
 3. Relaunch your game and see if it keeps crashing.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If Beat Saber still crashes without any mods, you can try the fix, below.
 
@@ -97,20 +110,34 @@ If Beat Saber still crashes without any mods, you can try the fix, below.
 2. Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update**  button next to your graphics card to download the latest and correct driver for it, then you can manually install it.  
+
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)  
  Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , which comes with **Full Support** and a **30-day Money Back Guarantee** . You will be prompted to upgrade when you click **Update All** ).
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 4. Restart your computer for the changes to take full effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 5: Run as administrator
 
  Some gamers mentioned that they manage to solve the crash as well as the black screen error by running the game as administrator. You can try this workaround to see if it helps:
@@ -125,9 +152,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  To run your game as an administrator ensure you have full access to all the game files. This should fix some game crashes, but if unfortunately not, don’t worry. Try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## Fix 6: Perform a clean reinstall
 
  If all of your drivers are already up to date and have uninstalled mods, but the game just keeps crashing, you can try reinstalling your game and deleting all the related game folders (uninstalling it from Steam is not enough).
@@ -137,9 +161,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Press the**Windows** key +**R** at the same time, and type**%appdata%** in the Run box, and press**Enter** .  
 ![AppData](https://images.drivereasy.com/wp-content/uploads/2020/12/appdata.jpg)
 4. Delete all the game-related AppData.
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
 Download Beat Saber again and see if a clean reinstall solves this issue.
 
@@ -168,8 +189,6 @@ Download Beat Saber again and see if a clean reinstall solves this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +196,18 @@ Download Beat Saber again and see if a clean reinstall solves this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/updated-clockwise-conundrum-video-undo-for-iphone-users/"><u>[Updated] Clockwise Conundrum Video Undo for iPhone Users</u></a></li>
+<li><a href="https://win-guides.techidaily.com/windows-10iphone/"><u>四种最佳方法将Windows 10电脑中的音乐传输到iPhone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/alan-wake-2-crash-free-gaming-expert-advice-and-solutions/"><u>Alan Wake 2 Crash-Free Gaming : Expert Advice and Solutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/capacity-limit-how-many-vids-in-128gb-for-2024/"><u>Capacity Limit How Many Vids in 128GB for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dealing-with-stutter-and-collapses-in-age-of-wonders-planetfall-a-guide-for-pc-gamers/"><u>Dealing with Stutter and Collapses in 'Age of Wonders: Planetfall': A Guide for PC Gamers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-to-fix-xlivedll-not-found-errors-and-get-your-system-running-smoothly-again/"><u>Expert Tips to Fix 'xlive.dll Not Found' Errors and Get Your System Running Smoothly Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-restore-your-discord-overlay-feature/"><u>Fixing the Issue: How to Restore Your Discord Overlay Feature</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-honor-v-purse-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Honor V Purse to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-compre-written-by-john-doe-phd-in-psychology-specializing-in-human-behavior-and-motivation-motivational-interviewing/"><u>In 2024, The Compre Written By John Doe, PhD in Psychology, Specializing in Human Behavior and Motivation (Motivational Interviewing)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-stagnation-in-human-progression-strategies-for-overcoming-non-launch-events/"><u>Resolving Stagnation in Human Progression: Strategies for Overcoming Non-Launch Events</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-is-my-cyberpunk-2077-game-keep-crashing-find-out-here/"><u>Why Is My Cyberpunk 2077 Game Keep Crashing? Find Out Here</u></a></li>
+</ul></div>
 

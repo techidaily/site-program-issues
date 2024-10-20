@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Correcting the Notorious NW_Store.exe Glitch
-date: 2024-08-28T06:40:26.470Z
-updated: 2024-08-29T06:40:26.470Z
+date: 2024-10-13T18:29:33.027Z
+updated: 2024-10-20T16:09:54.414Z
 tags:
   - win11
   - win10
@@ -43,27 +43,32 @@ thumbnail: https://thmb.techidaily.com/25e355cfe41e9e10950c631e4aa9da16590e30c12
 6. Log into Skype and test by sending a message to a contact.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b96253de6794.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Solution 2 – Update your Skype to the latest version
 
  If you’re using an older version of Skype on Windows 10, you can check for updates in the **[Microsoft Store](https://www.microsoft.com/en-us/p/skype/9wzdncrfj364?rtc=1&activetab=pivot%3aoverviewtab)**  to try fixing the**Skype messages not sending** problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b96361562b3d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
  For**Windows 7 & 8** users, you can sign into Skype and select**Help** , then**Check for updates** .
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 3 – **Get the classic version of Skype**
 
  If the above steps produce no results in your Microsoft Skype, then you may try installing the classic version of Skype for your Windows PC. Click this **[link](http://download.skype.com/msi/SkypeSetup%5F7.41.0.101.msi)**  to download the**classic Skype 7.41.0.101** for Windows.
@@ -79,22 +84,36 @@ thumbnail: https://thmb.techidaily.com/25e355cfe41e9e10950c631e4aa9da16590e30c12
 1. Type**skype** in the Windows search box,**right-click** on Skype and select**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b964f2f2dddb.jpg)
 2. On your keyboard, press the **Windows![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8ac86a6f5.png)**  
- key and **R**  at the same time to open the Run box.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ key and **R**  at the same time to open the Run box.
 3. Type**%appdata%** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b964f4e00b2c.png)
 4. Select the**Skype** folder and**delete** it to completely remove Skype from your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b964c3405240.jpg)
 5. Click **[this link](https://www.skype.com/en/get-skype/)**  to download Skype.  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b964d3604b91.jpg)
 6. When the download is completed, open the downloaded file and follow the onscreen instructions to reinstall Skype on your PC.
+
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -111,7 +130,28 @@ Hopefully this fixes your problem.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bee7000c9754.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . You get full support and a 30-day money back guarantee.)  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bee6ff414d3a.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>.**
 
@@ -123,8 +163,6 @@ Hopefully this fixes your problem.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +170,22 @@ Hopefully this fixes your problem.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/fixed-lost-ark-fps-drop-and-performance-issue/"><u>[FIXED] Lost Ark FPS Drop & Performance Issue</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-android-and-iphones-leading-tools-for-enhanced-fb-likes/"><u>[New] 2024 Approved Android & iPhone's Leading Tools for Enhanced FB Likes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-smiles-and-snickers-7-hilarious-video-concepts-for-content-creators/"><u>[New] 2024 Approved Smiles & Snickers 7 Hilarious Video Concepts for Content Creators</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-drone-racers-companion-basics-to-aces-and-top-5-fpv-brands/"><u>[Updated] In 2024, The Drone Racer's Companion Basics to Aces and Top 5 FPV Brands</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-stream-side-stacking-pewdiepies-payday-portion/"><u>[Updated] Stream-Side Stacking PewDiePie’s Payday Portion</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/1728494728138-7/"><u>7有效技巧：容易地修正文件删除后再次出现问题</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/creating-compelling-valorant-thumbnails-for-digital-viewers/"><u>Creating Compelling Valorant Thumbnails for Digital Viewers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-remedies-when-your-minecraft-game-gets-stuck-at-startup-screen/"><u>Effective Remedies When Your Minecraft Game Gets Stuck at Startup Screen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-to-eliminate-game-lag-in-outriders-for-windows-users/"><u>Effective Solutions to Eliminate Game Lag in Outriders for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-issues-with-logitech-options-on-windows-a-comprehensive-guide/"><u>Fixing Issues with Logitech Options on Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/from-social-tv-viewing-to-funny-interactive-gifs-a-twitter-video-journey-for-2024/"><u>From Social TV Viewing to Funny, Interactive Gifs A Twitter Video Journey for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/lossless-dvd-copying-solutions-on-windows-11-a-guide-for-efficient-backups/"><u>Lossless DVD Copying Solutions on Windows 11: A Guide for Efficient Backups</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-audio-configuration-errors-in-itunes/"><u>Resolved: Fixing Audio Configuration Errors in iTunes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/skyrim-muted-heres-how-to-bring-back-game-sounds/"><u>Skyrim Muted? Here's How to Bring Back Game Sounds</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-to-tackle-high-latency-in-your-chivalry-2-gaming-experience-new-techniques-unveiled/"><u>Step-by-Step Solutions to Tackle High Latency in Your Chivalry 2 Gaming Experience (New Techniques Unveiled)</u></a></li>
+</ul></div>
 

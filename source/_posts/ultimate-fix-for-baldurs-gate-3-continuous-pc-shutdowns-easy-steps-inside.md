@@ -1,7 +1,7 @@
 ---
 title: Ultimate Fix for Baldur's Gate 3 Continuous PC Shutdowns – Easy Steps Inside
-date: 2024-08-28T06:37:37.860Z
-updated: 2024-08-29T06:37:37.860Z
+date: 2024-10-13T18:27:17.126Z
+updated: 2024-10-20T17:00:49.037Z
 tags:
   - win11
   - win10
@@ -50,18 +50,12 @@ thumbnail: https://thmb.techidaily.com/755e6887211290e7a3605c3c466915e29d575ef74
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/09/multiversus-twitter-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Tony Huynh is the Game Director of MultiVersus.
 
  When server issues happen, just wait until they solve these problems. For any pending game updates, install them immediately and see if the game still crashes.
 
 Nothing wrong with the game? Simply move on to the following fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  Game crashes tend to be graphics-related. Any faulty or outdated graphics driver will probably trigger MultiVersus crashing. We always recommend gamers to keep their graphics drivers up to date, so as to avoid issues like crashing – an optimization of your game experience. Here’re two ways to do it:
@@ -106,18 +100,28 @@ Simply remove all game mods and see if the issue disappears.
 1. Navigate to the installation folder for the game. If you downloaded it from Steam, the default location is C:\\Program Files (x86)\\Steam\\steamapps\\common\\MultiVersus\\MultiVersus. Then click**Content** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/09/multiversus-folder-content-1.jpg)
 2. Then click the**Paks** folder.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/09/multiversus-paks.jpg)
 3. You’ll see the**\~mod** folder where you put your game mods.**Delete** it to remove all the mods.  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/09/multiversus-mods-folder-1.jpg)
 
  Restart your game to check for any improvements. If no luck, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### Fix 4: Improve your Internet connection
 
  Game-playing requires a stable Internet. If the Internet is slow on your end, the game might crash. So you should make sure the Internet is working properly while playing. To optimize the connection:
@@ -143,16 +147,25 @@ Try restarting your router to refresh your Internet connection.
 1. On your Taskbar, right-click and select**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/09/taskbar-task-manager.jpg)
 2. Right-click the app that you don’t need, then click**End task** .  
+
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/09/task-manager-close-app.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Relaunch your game and see if it still crashes. If so, move on to the following fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Install all Windows updates
 
  According to some gamers, Windows updates fixed their crashing issue. So if you haven’t updated for a while, it’s time to do so. Here’s how to do it:
@@ -160,23 +173,8 @@ Try restarting your router to refresh your Internet connection.
 1. In the search box on your screen, type**updates** and click**Open** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/09/search-box-updates.jpg)
 2. Click**Check for updates** to see if there are available updates.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/check-for-updates.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Hold on until the updating procedure completes. Then restart your computer, relaunch the game, and check if the crashing is fixed.
 
 No changes? Move on to the next fix.
@@ -188,16 +186,34 @@ No changes? Move on to the next fix.
 1. Open Steam, navigate to**LIBRARY** , and find MultiVersus.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/09/multiversus-steam.jpg)
 2. Right-click it and select**Properties…**  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/09/multiversus-properties.jpg)
 3. Select**LOCAL FILES** and click**Verify integrity of game files…**  
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/09/multiversus-local-files.jpg)
 
  When the verifying finishes, launch MultiVersus again to see if it still crashes. If this issue persists, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### Fix 7: Perform a clean boot
 
  One potential trigger of crashing is that other programs are conflicting with MultiVersus. You can perform a clean boot to weed out the offender. Here is how to do it:
@@ -205,28 +221,22 @@ No changes? Move on to the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** to invoke the Run box. Type**msconfig** and click**OK** .  
 ![run msconfig](https://images.drivereasy.com/wp-content/uploads/2021/11/run-msconfig.png)
 2. Navigate to the**Services** tab and enable the**Hide all Microsoft services** checkbox.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig-hide-all-microsoft-services-clean-boot.jpg)
 3. **Uncheck**  all the services EXCEPT for those belong to your graphics card or sound card manufacturer, such as **Realtek** , **AMD** , **NVIDIA**  and **Intel** . Then click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig-uncheck-services-clean-boot.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs with high Startup impact, and click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  Restart your PC and launch MultiVersus again. If the game still crashes, repeat the steps above and disable another program.
 
 If it’s not helpful, try the next fix.
@@ -238,14 +248,16 @@ If it’s not helpful, try the next fix.
 1. Open Steam and find MultiVersus under**LIBRARY** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/09/multiversus-steam.jpg)
 2. Right-click on the game icon, select Manage – Uninstall, and follow the instruction.  
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/09/steam-multiversus-uninstall-1.jpg)
 3. Download MultiVersus from Steam. Once done, launch the installer and follow the on-screen instructions to install it.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -260,8 +272,6 @@ If it’s not helpful, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -269,4 +279,24 @@ If it’s not helpful, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-brilliant-setups-top-17-gear-for-online-videographers/"><u>[New] In 2024, Brilliant Setups Top 17 Gear for Online Videographers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-mastery-of-playback-essential-skills-in-ps3-recording/"><u>[New] In 2024, Mastery of Playback Essential Skills in PS3 Recording</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-skyeconomys-haven-budget-friendly-large-data-space/"><u>[New] In 2024, SkyEconomy's Haven Budget-Friendly Large Data Space</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-formulating-gripping-narratives-for-your-vlogs-for-2024/"><u>[Updated] Formulating Gripping Narratives for Your Vlogs for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-demystifying-filmoras-multimedia-capabilities/"><u>[Updated] In 2024, Demystifying Filmora's Multimedia Capabilities</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-digital-worlds-the-essential-software-list-for-animators/"><u>2024 Approved Crafting Digital Worlds The Essential Software List for Animators</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/best-free-video-sharing-platforms-the-top-alternatives-to-youtube/"><u>Best Free Video Sharing Platforms: The Top Alternatives to YouTube</u></a></li>
+<li><a href="https://program-issues.techidaily.com/helldivers-2-and-the-msvcr110dll-dilemma-a-step-by-step-fix-guide/"><u>Helldivers 2 and the MSVCR110.dll Dilemma: A Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improved-visuals-fix-unclear-screenshots-in-outriders-edition/"><u>Improved Visuals Fix Unclear Screenshots in Outriders Edition</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-nokia-c300-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Nokia C300?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/maximizing-b-roll-value-essential-techniques/"><u>Maximizing B-Roll Value Essential Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-for-when-your-steam-games-just-wont-run-smoothly/"><u>Quick Fixes for When Your Steam Games Just Won't Run Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-why-insurgency-sandstorm-frequently-experiences-game-crashes/"><u>Resolved: Why 'Insurgency: Sandstorm' Frequently Experiences Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-gamers-handbook-to-supercharged-ark-gameplay-unleashing-maximum-fps-potential-on-pc-setups/"><u>The Gamer's Handbook to Supercharged ARK Gameplay: Unleashing Maximum FPS Potential on PC Setups</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-trick-for-launching-days-gone-on-pc-its-done/"><u>The Ultimate Trick for Launching Days Gone on PC - It's Done</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-techniques-resolving-bloodhunt-performance-issues-on-windows/"><u>Troubleshooting Techniques: Resolving BloodHunt Performance Issues on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unraveling-the-mystery-why-does-ascent-keep-failing-on-your-windows-computer/"><u>Unraveling the Mystery: Why Does Ascent Keep Failing on Your Windows Computer?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Opening Issues with Razer Synapse Software
-date: 2024-10-09T04:42:20.559Z
-updated: 2024-10-15T01:07:19.471Z
+date: 2024-10-15T17:46:47.115Z
+updated: 2024-10-20T18:20:18.603Z
 tags:
   - win11
   - win10
@@ -70,13 +70,6 @@ There are mainly two ways you can update the graphics driver:
 
  If updating the graphics driver doesn’t work, you can move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Change in-game settings
 
  Some gamers found when they turn on VSYN with setting frames rate to 144 or 90, the stuttering issue has gone. You can have a try. It’s a simple and common fix that has helped a lot of gamers. You can give it a try.
@@ -88,10 +81,10 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
@@ -101,16 +94,10 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Set**TEXTURE FILTERING** to**Ultra** .
@@ -125,6 +112,13 @@ There are mainly two ways you can update the graphics driver:
 
 If it’s not working, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Turn off background apps
 
  The background apps could be the culprit for the Halo Infinite stuttering issue. Especially the background recording apps that can cause performance issues when enabled. You can turn off these apps to improve performance.
@@ -135,14 +129,14 @@ If it’s not working, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Change NVIDIA resolution
 
@@ -169,21 +163,22 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-gastronomy-goals-viral-eats-and-culinary-creations-for-2024/"><u>[New] Gastronomy Goals Viral Eats and Culinary Creations for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-from-obscurity-to-star-in-3-simple-steps/"><u>[Updated] In 2024, From Obscurity to Star in 3 Simple Steps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-smirk-sessions-humorous-content-for-all-events/"><u>2024 Approved Smirk Sessions Humorous Content for All Events</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-step-by-step-review-mastering-the-art-of-picsart/"><u>2024 Approved Step-by-Step Review Mastering the Art of PicsArt</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722986075919-black-screen-dilemma-solutions-that-work/"><u>Black Screen Dilemma - Solutions that Work!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cutting-down-high-resource-consumption-in-starfield-advanced-tips-and-tricks-for-the-current-year/"><u>Cutting Down High Resource Consumption in Starfield: Advanced Tips and Tricks for the Current Year</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enjoy-gaming-without-interruptions-patch-update-resolves-total-war-warhammer-iii-crashes-on-windows-platforms/"><u>Enjoy Gaming Without Interruptions: Patch Update Resolves 'Total War: Warhammer III' Crashes on Windows Platforms</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/from-deletion-to-joy-a-testimonial-on-extraordinary-photo-salvage/"><u>From Deletion to Joy: A Testimonial on Extraordinary Photo Salvage</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-continuous-cutting-out-of-sound-issues-in-windows-11-solved/"><u>How to Fix Continuous Cutting Out of Sound Issues in Windows 11 – Solved!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/identifying-factors-for-fluctuating-frames-per-second-fps-issues/"><u>Identifying Factors for Fluctuating Frames Per Second (FPS) Issues</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-tecno-spark-go-2023-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Tecno Spark Go (2023) Phone?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-pc-lag-and-fix-fall-guys-freezing-problems-quickly/"><u>Overcome PC Lag & Fix Fall Guys Freezing Problems Quickly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-shadowplay-hiccups-effortless-recording-tips-for-windows-users/"><u>Overcome ShadowPlay Hiccups - Effortless Recording Tips for Windows Users</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-windows-hurdles-to-successfully-connect-a-steam-controller/"><u>Overcoming Window's Hurdles to Successfully Connect a Steam Controller</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/reliable-source-to-get-swf-video-converter-factory-pro-with-full-refund-assurance-for-risk-free-transactions/"><u>Reliable Source to Get SWF Video Converter Factory Pro with Full Refund Assurance for Risk-Free Transactions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-htc-u23-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on HTC U23</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-deciphering-user-insights-in-youtube-comments-for-2024/"><u>[Updated] Deciphering User Insights in YouTube Comments for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-chronicle-your-conquests-with-galaxy-screen-captures/"><u>[Updated] In 2024, Chronicle Your Conquests with Galaxy Screen Captures</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-microsnap-evaluation-and-comparable-software-for-2024/"><u>[Updated] MicroSnap Evaluation & Comparable Software for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-tricks-for-smooth-auditory-paths/"><u>2024 Approved Top Tricks for Smooth Auditory Paths</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-your-gaming-experience-by-eliminating-freezing-issues-in-dying-light-fps/"><u>Boost Your Gaming Experience by Eliminating Freezing Issues in Dying Light FPS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-repairing-your-corsair-icue-software-compatibility-in-new-windows-versions/"><u>Comprehensive Guide to Repairing Your Corsair iCUE Software Compatibility in New Windows Versions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-techniques-to-boost-your-ubisoft-connects-download-rates/"><u>Effective Techniques to Boost Your Ubisoft Connect's Download Rates</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/get-the-ultimate-app-download-winx-mobile-youtube-video-downloader/"><u>Get the Ultimate App: Download WinX Mobile YouTube Video Downloader</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-photography-for-the-masses-the-best-12-sites-offering-accessible-stock-images/"><u>In 2024, Photography for the Masses - The Best 12 Sites Offering Accessible Stock Images</u></a></li>
+<li><a href="https://program-issues.techidaily.com/internet-explorer-display-issues-successful-strategies-for-clearing-common-errors/"><u>Internet Explorer Display Issues: Successful Strategies for Clearing Common Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-common-problems-with-intel-graphics-software-on-desktops/"><u>Overcoming Common Problems with Intel Graphics Software on Desktops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-for-when-the-epic-games-launcher-wont-start-up/"><u>Quick Solutions for When the Epic Games Launcher Won't Start Up</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/stellar-photo-alterations-frameshift-prowess/"><u>Stellar Photo Alterations FrameShift Prowess</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-8-solutions-to-prevent-hogwarts-legacy-from-crashing-at-launch/"><u>Top 8 Solutions to Prevent Hogwarts Legacy From Crashing at Launch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-making-your-stardew-valley-game-stable-again/"><u>Troubleshooting Tips: Making Your Stardew Valley Game Stable Again</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-tempo-transitions-the-art-of-syncing-your-footage-to-music-pulses-using-adobe-premiere-pros-tools/"><u>Updated 2024 Approved Tempo Transitions The Art of Syncing Your Footage to Music Pulses Using Adobe Premiere Pros Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/viral-visuals-high-favored-instagram-filters-for-2024/"><u>Viral Visuals High-Favored Instagram Filters for 2024</u></a></li>
 </ul></div>
 

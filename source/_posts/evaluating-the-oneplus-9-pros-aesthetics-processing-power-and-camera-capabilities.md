@@ -1,7 +1,7 @@
 ---
 title: Evaluating the OnePlus 9 Pro's Aesthetics, Processing Power and Camera Capabilities
-date: 2024-10-12T21:38:15.295Z
-updated: 2024-10-15T01:59:09.736Z
+date: 2024-10-15T18:14:49.160Z
+updated: 2024-10-20T16:03:29.932Z
 categories:
   - BestProducts
 description: This Article Describes Evaluating the OnePlus 9 Pro's Aesthetics, Processing Power and Camera Capabilities
@@ -44,6 +44,19 @@ Lifewire / Jeremy Laukkonen
 
 ![Amazon Luna](https://www.lifewire.com/thmb/NT3lnZ3hOwaGUbS2tHARE7zRT1Q=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_Hero_Square-cced3e5a3d3e4d24af1b85a59c76932d.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Jeremy Laukkonen
 
 [View On Amazon](https://www.amazon.com/luna/landing-page?tag=lifewire-onsite-prod-20&ascsubtag=5119523%7Cnc95ba131dcd04d8fadef0bfb2a313e6816%7C)
@@ -75,13 +88,6 @@ Lifewire / Jeremy Laukkonen
 
 ![Amazon Luna](https://www.lifewire.com/thmb/c10USyUEVgaFrdeWRUBgX6MNpOQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_05-7314cf2ae25a4f428d93f40cc56fb5d1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Jeremy Laukkonen
 
  The Luna app, both the Fire TV version and the web app version, is well-designed enough, without a whole lot to really stand out or impress. It functions as a basic interface to access all of the games that the service offers, including a Home screen that highlights games in various categories, a Library screen that lists every available game, and a Playlist page that provides easy access to games you have specifically chosen to place there.
@@ -93,10 +99,10 @@ Lifewire / Jeremy Laukkonen
 ![Amazon Luna](https://www.lifewire.com/thmb/jNDwaMGOVuF5UIISPsmdb5uQdGU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_04-985a4419a93945d2879b09d61fafae5a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
@@ -110,13 +116,6 @@ Lifewire / Jeremy Laukkonen
  In terms of ports, the Luna controller includes a USB-C port for charging and connectivity and a 3.5mm port for plugging in your favorite set of headphones or earbuds. At the back, you’ll find a removable battery cover, as the controller is powered by two AA batteries.
 
  Overall, the Luna controller has quickly become one of my favorite alternatives to the Xbox One or Xbox Series X/S controller; the only real issues being the mushy d-pad and the texture of the analog sticks. I ended up snapping on some performance thumb grips, which worked great.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Setup Process: Quick and easy
 
@@ -152,6 +151,19 @@ Lifewire / Jeremy Laukkonen
 
  If you have a slow internet connection or suffer from poor connectivity, then it’s likely that the brief issues I experienced could be amplified to an unacceptable point. If you have a decent connection, live closer to a major metropolitan area than I do, and have more than 10Mbps of downstream bandwidth available, the service should work just fine.
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Software: Dozens of games, but the library is a bit thin with a lot of holes
 
  Luna’s biggest issue, and its biggest question mark going forward, is its streaming library. Amazon is taking a page from Microsoft’s book in that they’re trying to function as a Netflix of game streaming, but Amazon just doesn’t have the same deep library as Microsoft.
@@ -163,13 +175,6 @@ Lifewire / Jeremy Laukkonen
  During the beta period, the basic Luna subscription gets you access to 70 games, with an additional two dozen games locked behind the Ubisoft+ subscription. The 70 games included with the basic subscription offer a ton of entertainment value, but most genres are woefully underrepresented, and others are missing altogether. For example, fans of fighting games won’t find anything to rally behind here.
 
 ![Amazon Luna](https://www.lifewire.com/thmb/NBB1N6qtwbtdjrUgwr1YaBaTuBA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Amazon_Luna_02-37837bf860d244d3ab11ff01f37c609c-db472e204ada4ccca88e7510eacfae34.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Lifewire / Jeremy Laukkonen
 
@@ -184,10 +189,10 @@ Lifewire / Jeremy Laukkonen
  The Luna controller has a heftier price tag of $50, but that’s actually pretty reasonable if you compare it to other wireless controllers. It’s cheaper than a lot of the other options, and you can use it via Wi-Fi with Luna, or via Bluetooth or USB-C to play non-Luna games on your PC. All in all, it’s a good controller that’s priced competitively.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Amazon Luna vs. Microsoft Game Pass Ultimate
@@ -213,6 +218,13 @@ Lifewire / Jeremy Laukkonen
 * [Xbox Series X|S Controller](https://www.lifewire.com/xbox-series-x-or-s-controller-review-5113227)
 * [Sony DualSense Wireless Controller](https://www.lifewire.com/sony-dualsense-wireless-controller-review-feel-the-quality-5101639)
 * [Xbox One Elite Controller](https://www.lifewire.com/xbox-one-elite-controller-review-4770957)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -244,21 +256,20 @@ Lifewire / Jeremy Laukkonen
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-how-to-seamlessly-add-snap-camera-to-microsoft-chats-for-2024/"><u>[New] How To Seamlessly Add Snap Camera to Microsoft Chats for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-master-the-visuals-top-tips-for-dynamic-and-appealing-live-videos/"><u>[New] In 2024, Master the Visuals Top Tips for Dynamic and Appealing Live Videos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-your-step-by-step-guide-to-ifunny-meme-usage/"><u>[Updated] 2024 Approved Your Step-by-Step Guide to iFunny Meme Usage</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-mac-basics-for-creating-attractive-first-youtube-videos/"><u>2024 Approved Mac Basics for Creating Attractive First Youtube Videos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/banish-your-lag-and-hiccups-expert-fixes-for-apex-legends-engine-woes/"><u>Banish Your Lag and Hiccups - Expert Fixes for Apex Legends' Engine Woes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-guide-troubleshooting-and-fixing-crash-issues-in-outpost-infinity-siege-for-windows-users/"><u>Comprehensive Guide: Troubleshooting and Fixing Crash Issues in Outpost: Infinity Siege for Windows Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-your-game-of-back-n4-blood-from-killing-your-computer-tips-and-solutions/"><u>How to Prevent Your Game of 'Back N4 Blood' From Killing Your Computer: Tips & Solutions</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-streaming-software-showdown-the-ultimate-guide-to-obs-vs-shadowplay/"><u>In 2024, Streaming Software Showdown The Ultimate Guide to OBS Vs. ShadowPlay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723000643663-microsoft-edge-crashing-on-windows-11-heres-how-to-fix-it-now/"><u>Microsoft Edge Crashing on Windows 11? Here's How to Fix It Now!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-gaming-relief-effective-fixes-for-the-notorious-scavengers-game-crashing-problem/"><u>PC Gaming Relief: Effective Fixes for the Notorious Scavengers Game Crashing Problem</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723001186968-quick-solutions-overcome-pc-issues-in-world-of-warships-top-5-fixes/"><u>Quick Solutions: Overcome PC Issues in World of Warships - Top 5 Fixes!</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-big-four-in-social-media-a-deep-dive-into-facebook-twitter-instagram-and-youtube-strategies/"><u>The Big Four in Social Media: A Deep Dive Into Facebook, Twitter, Instagram, & YouTube Strategies</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-7-methods-for-converting-4k-videos-into-high-definition-1080p-format/"><u>Top 7 Methods for Converting 4K Videos Into High-Definition 1080P Format</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-call-of-duty-warzones-persistent-black-screen-issue/"><u>Ultimate Guide: Resolving Call of Duty Warzone's Persistent Black Screen Issue</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-no-cost-video-blurring-the-best-online-tools-and-techniques-for-2024/"><u>Updated No-Cost Video Blurring The Best Online Tools and Techniques for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-voice-partisanship-gadgets-for-novices-and-the-experienced/"><u>Updated Voice Partisanship Gadgets for Novices and the Experienced</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-secure-your-social-media-experience-from-ad-interruptions-for-2024/"><u>[New] Secure Your Social Media Experience From Ad Interruptions for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/augmenting-film-quality-integrating-letterboxing-in-digital-spaces-for-2024/"><u>Augmenting Film Quality Integrating Letterboxing in Digital Spaces for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-fix-guide-preventing-gameplay-interruptions-in-house-flipper-2-for-windows-users/"><u>Easy Fix Guide: Preventing Gameplay Interruptions in 'House Flipper 2' For Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-how-to-stop-dirt-5-from-continuously-crashing-on-your-pc/"><u>Fix: How to Stop Dirt 5 From Continuously Crashing on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/from-frustration-to-victory-overcoming-error-6328-woes-in-call-of-duty-warzone-insider-tips-and-tricks/"><u>From Frustration to Victory: Overcoming Error 6328 Woes in Call of Duty Warzone - Insider Tips & Tricks</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 Pro Max without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mastering-the-craft-of-youtubers-music-reaction-videos-essentials/"><u>Mastering the Craft of Youtubers Music Reaction Videos Essentials</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reverse-screen-settings-in-win7/"><u>Reverse Screen Settings in Win7</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safeguard-your-system-booting-into-windows-11s-safe-mode/"><u>Safeguard Your System: Booting Into Windows 11'S Safe Mode</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/soundscout-audio-critique-adventure-for-2024/"><u>SoundScout Audio Critique Adventure for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/spotify-not-working-on-your-browser-resolve-playback-speed-issues/"><u>Spotify Not Working on Your Browser? Resolve Playback Speed Issues</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-secret-lives-of-messages-exploring-whatsapp-hidden-features-for-2024/"><u>The Secret Lives of Messages Exploring WhatsApp Hidden Features for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/trouble-free-gaming-resolving-baldurs-gate-3-crashes-on-desktop-pcs/"><u>Trouble-Free Gaming: Resolving Baldur's Gate 3 Crashes on Desktop PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-optimizing-cs-2-performance-overcoming-lags-and-high-pings/"><u>Troubleshooting Steps for Optimizing CS 2 Performance: Overcoming Lags and High Pings</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fix-for-baldurs-gate-3-continuous-pc-shutdowns-easy-steps-inside/"><u>Ultimate Fix for Baldur's Gate 3 Continuous PC Shutdowns – Easy Steps Inside</u></a></li>
 </ul></div>
 

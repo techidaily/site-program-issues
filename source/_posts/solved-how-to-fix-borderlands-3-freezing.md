@@ -1,7 +1,7 @@
 ---
 title: "[Solved] How to Fix Borderlands 3 Freezing?"
-date: 2024-10-13T22:36:05.562Z
-updated: 2024-10-14T20:58:19.732Z
+date: 2024-10-14T18:50:27.736Z
+updated: 2024-10-20T16:40:42.209Z
 tags:
   - win11
   - win10
@@ -62,13 +62,6 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_10-45-46.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Make sure your computer meets the minimum requirements to run the game, then move on to the fix below.
 
 ### Fix 2: Rule out driver issues
@@ -85,6 +78,13 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-20-41.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Double-click**Display adapters** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-23-36.jpg)
@@ -94,10 +94,10 @@ Follow the instructions below to view your computer hardware information:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-28-26.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Click the**Driver** tab, then click**Roll Back Driver** .
@@ -109,13 +109,6 @@ Follow the instructions below to view your computer hardware information:
 **5)** Select**My apps don’t work with this driver** , then click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-37-13.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now try launching your game again to see if this has resolved your issue. If your issues continue to occur, try updating your device drivers.
 
@@ -135,16 +128,16 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-43-32.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-43-38.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -162,6 +155,13 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-49-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Go to the **Compatibility tab** , check the box next to **Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_14-05-40.jpg)
@@ -175,10 +175,16 @@ Follow the instructions below to view your computer hardware information:
 If the game still freezes, then move on to the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: **Verify the game** files
@@ -194,6 +200,13 @@ If the game still freezes, then move on to the fix below.
 **3)**  Click **Verify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_11-52-13.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Epic Games Launcher will fix corrupted or missing game files if it detects any. Wait for the scans to be complete, then relaunch _Borderlands 3_ to check if this has fixed your issue.
 
@@ -222,13 +235,6 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-02-45.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After turning off unwanted programs, relaunch your game to test your issue. If your problem still exists, try **[Fix 6](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ---
@@ -238,6 +244,13 @@ If your issue persists, check the fix below.
 **1)**  Right-click your taskbar and select **Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-07-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
@@ -263,6 +276,13 @@ If your issue persists, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-13-35.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Restart your computer and your game after the update is complete. If the freezing issue happens again, try the fix, below.
 
 ### Fix 7: Adjust your virtual memory
@@ -276,19 +296,6 @@ If your issue persists, check the fix below.
 **1)** On your keyboard, press the **Windows logo** key and type **advanced system settings** . Then, click **View advanced system settings.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-13-29-1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Click **Settings** .
 
@@ -315,13 +322,6 @@ If your issue persists, check the fix below.
 **8)** Click **Set** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-28_12-21-48.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **9)** Restart your computer and your game.
 
@@ -378,20 +378,21 @@ If your issue persists, check the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-exceptional-windows-calls-8-highest-rated/"><u>[Updated] 2024 Approved Exceptional Windows Calls 8 Highest Rated</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-exploring-premium-webcams-shoppers-insights-for-2024/"><u>[Updated] Exploring Premium Webcams - Shopper's Insights for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-ultimate-vlogging-battle-gopro-hero5-black-vs-sessions/"><u>[Updated] In 2024, The Ultimate Vlogging Battle GoPro Hero5 Black VS Sessions</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-keep-your-tweets-compliant-with-aspect-ratio-requirements/"><u>2024 Approved Keep Your Tweets Compliant with Aspect Ratio Requirements</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/2024s-ultimate-selection-for-highest-quality-power-inverters/"><u>2024'S Ultimate Selection for Highest Quality Power Inverters</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722983071174-easy-fixes-for-a-broken-start-menu-on-your-new-windows-11-pc/"><u>Easy Fixes for a Broken Start Menu on Your New Windows 11 PC.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/escaping-the-deadlock-expert-tips-to-get-out-of-minecrafts-loading-loop/"><u>Escaping the Deadlock: Expert Tips to Get Out of Minecraft's Loading Loop</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-msi-afterburner-failure-to-recognize-gpu-in-windows-11/"><u>How to Fix MSI Afterburner Failure to Recognize GPU in Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-successfully-reopen-discord-if-it-gets-stuck-on-startup/"><u>How to Successfully Reopen Discord if It Gets Stuck on Startup</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-quirky-expressions-in-text-master-meme-creation/"><u>In 2024, Quirky Expressions in Text Master Meme Creation</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/innovating-content-creation-vimeo-edition/"><u>Innovating Content Creation Vimeo Edition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722995789012-organophosphates-inhibit-acetylcholinesterase-leading-to-an-accumulation-of-acetylcholine-causing-muscarinic-symptoms-but-not-primarily-cardiotoxicity/"><u>Organophosphates Inhibit Acetylcholinesterase Leading to an Accumulation of Acetylcholine, Causing Muscarinic Symptoms but Not Primarily Cardiotoxicity</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-deployment-hurdles-a-comprehensive-guide-to-fixing-app-issues-before-the-2024-market-entry/"><u>Overcoming Deployment Hurdles: A Comprehensive Guide to Fixing App Issues Before the 2024 Market Entry</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-avatar-frontiers-of-pandora-performance-issues-boost-your-fps-and-smooth-out-the-motion/"><u>Solving 'Avatar: Frontiers of Pandora' Performance Issues – Boost Your FPS & Smooth Out the Motion</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-two-pronged-approach-to-perfecting-your-youtube-video-introduction/"><u>[New] 2024 Approved Two-Pronged Approach to Perfecting Your YouTube Video Introduction</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-methods-for-converting-twitter-videos-into-mp3-format-for-2024/"><u>[New] Methods for Converting Twitter Videos Into MP3 Format for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-streamsavvy-beyond-the-dacast-boundary/"><u>2024 Approved StreamSavvy Beyond the DaCast Boundary</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-improved-expert-tips-to-curb-the-games-input-lag-problems/"><u>Cyberpunk 2077 Improved: Expert Tips to Curb the Game's Input Lag Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-overcoming-interruptions-in-code-vein-gameplay-by-eliminating-freezes/"><u>Expert Tips: Overcoming Interruptions in Code Vein Gameplay by Eliminating Freezes</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-football-manager-2021-from-freezing-or-crashing-on-your-pc/"><u>How to Prevent Football Manager 2021 From Freezing or Crashing on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improving-gameplay-smoothness-and-frames-per-second-fps-in-call-of-duty-warzone/"><u>Improving Gameplay Smoothness & Frames per Second (FPS) in Call of Duty: Warzone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-elevate-views-not-video-length-expert-guide-to-yt-desc-templates/"><u>In 2024, Elevate Views, Not Video Length Expert Guide to YT Desc Templates</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-voyage-to-greatness-youtubes-best-travel-vids/"><u>In 2024, Voyage to Greatness YouTube's Best Travel Vids</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-exploring-the-best-macdaws-an-extensive-review-of-the-top-8-software-for-2024/"><u>New Exploring the Best MacDAWs An Extensive Review of the Top 8 Software for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-repairing-google-meetings-camera-issues-quickly/"><u>Solution Found: Repairing Google Meeting's Camera Issues Quickly!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-forza-horizon-5-pc-game-crashes-expert-solutions/"><u>Solving 'Forza Horizon 5' PC Game Crashes: Expert Solutions</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-essential-guide-to-creating-cinematic-videos-in-camtasa-for-2024/"><u>The Essential Guide to Creating Cinematic Videos in Camtasa for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-silent-calls-getting-sounds-back-for-zoom-meetings-on-windowsmac/"><u>Troubleshooting Silent Calls: Getting Sounds Back for Zoom Meetings on Windows/Mac</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-unstick-your-discord-stream-from-endless-loading-screens/"><u>Troubleshooting: Unstick Your Discord Stream From Endless Loading Screens</u></a></li>
 </ul></div>
 

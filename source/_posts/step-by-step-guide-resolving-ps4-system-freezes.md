@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Resolving PS4 System Freezes"
-date: 2024-08-28T06:39:57.795Z
-updated: 2024-08-29T06:39:57.795Z
+date: 2024-10-18T18:27:31.947Z
+updated: 2024-10-20T16:56:53.598Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ New Grounded patch is live! However, many players reported that Grounded keeps c
 4. **[Switch to DirectX 11 in the game setting](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Play single-player in the offline mode](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1 – Make sure your PC meets the minimum specs for Grounded
 
@@ -58,6 +65,13 @@ Here are Grounded’s minimum specs:
  If your computer isn’t geared up for the game, then it’s time to upgrade your PC. If you have perfect PC specs but still see the crashing problem, then read on to find out more fixes below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Temporarily disable your anti-virus programs
 
@@ -98,8 +112,12 @@ If the problem persists, move towards the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)** Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-1.jpg)
@@ -125,47 +143,53 @@ If the problem persists, move towards the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-0-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If you have an older version such as DirectX 10 or DirectX 9, you may need to **[update DirectX](https://tools.techidaily.com/drivereasy/download/)**  to run the game.
 
 **3)** Launch Steam, and click the**Library** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Locate**Grounded** on the game list, right click it and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **5)** Click the**General** tab and click**Set launch options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)** Type**\-dxlevel 110** in the field and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-4-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **7)** Click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
  Relaunch Grounded to check if the issue is solved. If not, there’s another fix for you.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5 – Verify the integrity of game files
 
  Game data that is missing or corrupted also results in the Grounded crashing issue. You can let Steam check and repair the game files and cache, and this takes a few steps.
@@ -178,16 +202,10 @@ If the problem persists, move towards the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 **3)** Click the**Local files** tab, and click**Verify integrity of game files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
  Wait for the process to complete. Then play Grounded to see whether the crashing problem goes away. If not, check out the fix below.
 
 ---
@@ -200,21 +218,28 @@ If the problem persists, move towards the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Ensure the**Don’t save account credentials on this computer option** isn’t ticked. Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/stem4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Click**Steam** and click**Go offline** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **4)** Click**Restart in offline mode** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/steam2.jpg)
@@ -237,8 +262,6 @@ Launch Steam. Then, play the game in single-player and see how it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -246,4 +269,26 @@ Launch Steam. Then, play the game in single-player and see how it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-mastering-the-art-of-webp-conversion-to-jpeg/"><u>[New] In 2024, Mastering the Art of WebP Conversion to JPEG</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-spark-interest-fast-unique-bios-and-hashtags-for-tinder-success/"><u>2024 Approved Spark Interest Fast Unique Bios and Hashtags for Tinder Success</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-lava-storm-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Lava Storm 5G?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enabling-hyper-v-virtualization-on-windows-11-a-comprehensive-tutorial/"><u>Enabling Hyper-V Virtualization on Windows 11 - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-lava-blaze-2-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Lava Blaze 2 Quickly | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-stutter-and-lag-the-ultimate-guide-to-smoother-play-for-hogwarts-legacy/"><u>Fixing Stutter and Lag: The Ultimate Guide to Smoother Play for Hogwarts Legacy</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-freezing-issues-with-fortnite-on-your-computer/"><u>How to Fix Freezing Issues with Fortnite on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-the-ascent-from-dumping-your-save-files-during-pc-sessions/"><u>How to Stop The Ascent From Dumping Your Save Files During PC Sessions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/mastering-hardware-choices-with-toms-technical-advice/"><u>Mastering Hardware Choices with Tom's Technical Advice</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-soft-focus-the-secret-of-great-bokeh-in-stories-for-2024/"><u>Mastering Soft Focus The Secret of Great Bokeh in Stories for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-pc-input-lag-issues-in-valorant-fixes-and-solutions/"><u>Overcoming PC Input Lag Issues in Valorant - Fixes & Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gamers-guide-to-resolving-multiversus-not-launching-top-tips-and-tricks/"><u>PC Gamers Guide to Resolving MultiVersus Not Launching – Top Tips and Tricks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premium-list-high-end-ios-tune-creators-for-2024/"><u>Premium List High-End iOS Tune Creators for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-the-black-screen-problem-in-far-cry-6/"><u>Resolved: Fixing the Black Screen Problem in Far Cry 6</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/scrutinizing-high-dynamic-range-insights-from-luminance-for-2024/"><u>Scrutinizing High Dynamic Range Insights From Luminance for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tactical-volume-management-in-live-mixing-for-2024/"><u>Tactical Volume Management in Live Mixing for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/the-path-to-harmonized-workspaces-in-win1011/"><u>The Path to Harmonized Workspaces in WIN10/11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-enhance-your-among-us-gameplay-avoid-downloads-issues/"><u>Troubleshoot and Enhance Your Among Us Gameplay: Avoid Downloads Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-and-resolving-the-dota-2-vac-error-alert-updated-tips/"><u>Understanding and Resolving the Dota ˈ2 VAC Error Alert - Updated Tips</u></a></li>
+</ul></div>
 

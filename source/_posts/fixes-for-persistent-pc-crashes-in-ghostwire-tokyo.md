@@ -1,7 +1,7 @@
 ---
 title: "Fixes for Persistent PC Crashes in Ghostwire: Tokyo"
-date: 2024-08-28T06:39:20.403Z
-updated: 2024-08-29T06:39:20.403Z
+date: 2024-10-19T17:27:55.952Z
+updated: 2024-10-20T18:42:54.311Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Delete “DataPC\_TGT\_WorldMap.forge”
 
  You can try deleting the game file “_DataPC\_TGT\_WorldMap.forge_ ” if Ghost Recon Breakpoint crashes at launch on your computer. Here’s how to do it:
@@ -47,6 +54,13 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
  Launch the game again to see if you can play it without crashes. If not, don’t worry. Please read on and try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics drivers
 
@@ -70,9 +84,6 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers-2.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -88,9 +99,6 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Verify the game files
 
  The game crash issue can also be triggered by the faulty game files. To fix this issue, you need to verify the game files. Here is how to do it:
@@ -100,9 +108,6 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
 1. In Uplay, navigate to **the Games tab** and move your mouse cursor to the game tile of Ghost Recon Breakpoint. Then click **the downward triangle** on the lower-right corner of the game tile.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/verify-game-file-uplay.jpg)
 2. Select **Verify files** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/verify-game-file-uplay1.jpg)
 
 #### Epic Game Launcher
@@ -111,11 +116,23 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
 2. Click **the cog icon** on the lower-right corner of Ghost Recon Breakpoint.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/verify-game-file-epic.jpg)
 3. Click **Verify** to start verifying the game files.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/verify-game-file-epic1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Launch the game after verifying the game file to see if this fix works. If not, try the next fix, below.
 
 ---
@@ -128,10 +145,6 @@ Tom Clancy’s Ghost Recon Breakpoint has gained considerable popularity among o
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### Fix 6: Lower in-game settings
 
  If your PC fails to meet the recommended system requirements for Ghost Recon Breakpoint, you should**use a reduced settings profile for graphics related features** , because higher settings will increase the workload for your PC, which may even lead to game crash issue.
@@ -176,8 +189,12 @@ Here are the system requirements for Ghost Recon Breakpoint:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 7: Reinstall the game
 
  If none of the fixes works for you, it’s time to reinstall the game. Usually after reinstalling, you should be able to play Ghost Recon Breakpoint smoothly.
@@ -195,8 +212,6 @@ Here are the system requirements for Ghost Recon Breakpoint:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,4 +219,21 @@ Here are the system requirements for Ghost Recon Breakpoint:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-awaitingnewagecameratechnologies/"><u>[New] AwaitingNewAgeCameraTechnologies</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-lg-vr-headgear-review-complete-immersion-unlocked/"><u>[New] LG VR Headgear Review Complete Immersion Unlocked</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-elite-15-luts-transforming-gopro-action-footage/"><u>[Updated] 2024 Approved Elite 15 LUTs Transforming GoPro Action Footage</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-tailoring-pixel-sounds-to-your-style/"><u>[Updated] 2024 Approved Tailoring Pixel Sounds to Your Style</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-prime-binge-worthy-hits-highest-tweets-and-view-counts-for-2024/"><u>[Updated] Prime Binge-Worthy Hits Highest Tweets & View Counts for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-the-basics-essential-photo-edits-for-starters/"><u>2024 Approved Master the Basics Essential Photo Edits for Starters</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-vanguard-continues-to-encounter-pc-issues/"><u>CoD Vanguard Continues to Encounter PC Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/football-manager-2022-pc-stability-fixed-no-more-crashes/"><u>Football Manager 2022 PC Stability Fixed - No More Crashes</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-realme-c53-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Realme C53 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/launch-your-wealth-journey-on-periscope-platform/"><u>Launch Your Wealth Journey on Periscope Platform</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-performance-a-guide-to-lowering-cpu-usage-in-phasmophobia/"><u>Optimizing Performance: A Guide to Lowering CPU Usage in Phasmophobia</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-metro-exodus-pc-gameplay-interruptions-avoidance-of-frequent-crashes-and-freezes/"><u>Overcoming Metro Exodus PC Gameplay Interruptions: Avoidance of Frequent Crashes and Freezes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-persona-5-strikers-black-screen-issue-a-step-by-step-guide/"><u>Resolving the 'Persona 5 Strikers' Black Screen Issue: A Step-by-Step Guide</u></a></li>
+</ul></div>
 

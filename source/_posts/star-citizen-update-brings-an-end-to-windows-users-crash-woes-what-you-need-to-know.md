@@ -1,7 +1,7 @@
 ---
 title: Star Citizen Update Brings an End to Windows Users' Crash Woes - What You Need To Know!
-date: 2024-10-06T20:57:18.349Z
-updated: 2024-10-08T18:01:05.287Z
+date: 2024-10-19T18:58:59.346Z
+updated: 2024-10-20T18:19:03.544Z
 tags:
   - win11
   - win10
@@ -38,10 +38,10 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
  Try running the game and the game launcher as administrator to see if it helps. If not, try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2 – Verify the integrity of game files
@@ -58,29 +58,22 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-34.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)**  Relaunch your game to test the issue.
 
  Still failing? Try the next solution to update your graphics driver to the most recent version.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3 – Update your graphics driver
 
@@ -98,16 +91,29 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -118,13 +124,6 @@ This could take several minutes. Wait for the process to be complete.
 ## Fix 4 – Stop overclocking
 
  An unstable overclock will crash your game and the whole system. So, **if you’re overclocking your CPU or GPU, set the clock speed rate back to the default** to see if that resolves the crash issue. If it doesn’t, move on to the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5 – Disable unnecessary programs
 
@@ -162,6 +161,13 @@ If the crashing still happens, continue with the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-03-22.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Copy **%localappdata%Frontier DevelopmentsElite DangerousOptionsGraphics** and paste it into the text box, then press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-10-56.jpg)
@@ -193,17 +199,22 @@ If the crashing still happens, continue with the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-hands-off-strategies-for-snapshots-of-online-meetings-macpc-platforms/"><u>[New] 2024 Approved Hands-Off Strategies for Snapshots of Online Meetings (Mac/PC Platforms)</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/experience-the-ultimate-multipurpose-anker-maggo-magnetic-charger-station-featuring-qi-usb-c-and-6-additional-ports/"><u>Experience the Ultimate Multipurpose Anker MagGo Magnetic Charger Station: Featuring Qi, USB-C, and 6 Additional Ports</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/expert-guide-crafting-the-perfect-hdr-portrait-image/"><u>Expert Guide Crafting the Perfect HDR Portrait Image</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-to-resolving-rainbow-six-extraction-driverhardware-incompatibility-issues-easily/"><u>Guide to Resolving Rainbow Six Extraction Driver/Hardware Incompatibility Issues Easily</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-xs-max-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-building-a-billion-dollar-brand-on-youtube-jake-paul/"><u>In 2024, Building a Billion-Dollar Brand on Youtube (Jake Paul)</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ative-thumbnail-tips-for-mac-users-youtube/"><u>Innovative Thumbnail Tips for Mac Users - YouTube</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/mastering-haul-videos-tips-and-tricks-for-editors/"><u>Mastering Haul Videos Tips & Tricks for Editors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-troubles-decoded-the-tale-of-consecutive-system-failures/"><u>PC Troubles Decoded: The Tale of Consecutive System Failures</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-fixing-call-of-duty-warzone-pc-stability-for-a-flawless-gaming-experience-202n/"><u>Troubleshooting and Fixing Call of Duty Warzone PC Stability for a Flawless Gaming Experience (202N)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-internet-explorer-not-responding-errors/"><u>Troubleshooting Guide: Resolving 'Internet Explorer Not Responding' Errors</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-resolving-your-xbox-one-when-it-says-no-connection/"><u>Ultimate Guide: Resolving Your Xbox One When It Says No Connection</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-from-hobbyist-to-pro-the-full-potential-of-sj-cam-s6/"><u>[Updated] 2024 Approved From Hobbyist to Pro The Full Potential of SJ-CAM S6</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-obs-video-magic-top-5-editing-secrets-revealed/"><u>[Updated] 2024 Approved OBS Video Magic Top 5 Editing Secrets Revealed</u></a></li>
+<li><a href="https://fox-http.techidaily.com/blend-pictures-with-computers-easily-for-2024/"><u>Blend Pictures with Computers Easily for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/camera-not-working-in-google-meet-heres-how-you-can-fix-it/"><u>Camera Not Working in Google Meet? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/complete-fixes-for-ghostrunners-critical-failures-in-the-latest-windows-os/"><u>Complete Fixes for Ghostrunner's Critical Failures in the Latest Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-shut-down-audio-enhancements-on-your-windows-10-device/"><u>Comprehensive Guide: Shut Down Audio Enhancements on Your Windows 10 Device</u></a></li>
+<li><a href="https://program-issues.techidaily.com/days-gone-action-packed-adventure-now-available-for-pc-official-launch-announcement/"><u>Days Gone Action-Packed Adventure Now Available for PC – Official Launch Announcement</u></a></li>
+<li><a href="https://program-issues.techidaily.com/farming-simulator-22-pc-version-investigating-potential-frame-rate-drops-and-solutions/"><u>Farming Simulator 22 PC Version: Investigating Potential Frame Rate Drops and Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723011227336-football-manager-2022-release-delayed-heres-how-you-can-play-now/"><u>Football Manager 2022 Release Delayed? Here's How You Can Play Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/half-life-alyx-how-to-overcome-lag-and-frame-rate-issues-for-a-seamless-gaming-experience-on-pc/"><u>Half-Life: Alyx - How to Overcome Lag and Frame Rate Issues for a Seamless Gaming Experience on PC</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oneplus-ace-3-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on OnePlus Ace 3? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-on-iphone-13-mini-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working On iPhone 13 mini</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-lava-blaze-2-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Lava Blaze 2 Without PUK Codes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-quick-fix-guide-for-uninterrupted-gameplay-on-borderlands-3/"><u>Master the Quick-Fix Guide for Uninterrupted Gameplay on Borderlands 3</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-epic-games-fortnite-ls-0013-initialization-issue/"><u>Resolved: Fixes for Epic Games' Fortnite LS-0013 Initialization Issue</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/sequencing-the-adventures-of-superman-the-perfect-watch-order-for-fans/"><u>Sequencing the Adventures of Superman: The Perfect Watch Order for Fans</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-motorola-edge-40-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Motorola Edge 40 Pro | Dr.fone</u></a></li>
 </ul></div>
 

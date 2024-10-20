@@ -1,7 +1,7 @@
 ---
 title: "Solving Game Glitches: The Ultimate Guide to Overcoming Apex Legends Error 23"
-date: 2024-10-05T16:18:16.514Z
-updated: 2024-10-08T18:35:41.976Z
+date: 2024-10-16T18:28:39.277Z
+updated: 2024-10-20T18:01:57.156Z
 tags:
   - win11
   - win10
@@ -79,13 +79,6 @@ After you save the changes, test your gameplay.
   
 ![repair game files Mass Effect Legendary Edition](https://images.drivereasy.com/wp-content/uploads/2021/05/repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this didn’t help, move on to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
 
 **Verify game files integrity on Steam**
@@ -98,18 +91,18 @@ After you save the changes, test your gameplay.
 
  Once the process is finished, play Mass Effect. If your problem persists, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Update your graphics driver
 
  Low FPS, lagging gameplay, or poor graphics aren’t always caused by an old graphics card. Sometimes, updating your graphics driver can fix performance bottlenecks and introduce improvements that make your game significantly run smoother. Moreover, updating your graphics can ensure that you always have the newest features. Therefore, if you can’t remember when was the last time you updated your drivers, do it right now as it can make a big difference.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics driver
 
@@ -119,13 +112,6 @@ After you save the changes, test your gameplay.
 [AMD](https://www.amd.com/en/support)
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics driver (recommended)
 
@@ -147,6 +133,13 @@ Here’s how to update drivers with Driver Easy:
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC and test your gameplay. If this didn’t help, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Run your game in high priority
 
@@ -188,6 +181,13 @@ If this didn’t give you any luck, try the next fix below.
   
 ![Mass Effect Legendary Edition enable high performance](https://images.drivereasy.com/wp-content/uploads/2021/05/enable-power-plan.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click**Options** .  
   
 ![enable high performance Mass Effect Legendary Edition](https://images.drivereasy.com/wp-content/uploads/2021/05/enable-high-performance.jpg)
@@ -211,22 +211,21 @@ If this didn’t give you any luck, try the next fix below.
 ![disable Chrome hardware acceleration](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-hardware-acceleration-Google-Chrome-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Scroll down to the bottom and click on **Advanced** .  
   
 ![disable hardware acceleration Google Chrome](https://images.drivereasy.com/wp-content/uploads/2020/12/advanced-disable-hardware-acceleration-Google-Chrome.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Scroll down to the **System**  section, toggle off the option **Use hardware acceleration when available** . Then click **Relaunch** .  
   
@@ -242,19 +241,26 @@ If this didn’t give you any luck, try the next fix below.
   
 ![disable hardware acceleration Discord](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-disable-hardware-acceleration.png)
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you can’t notice much difference after disabling hardware acceleration, try the next fix below.
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Disable Windows 10 gaming features
@@ -270,10 +276,10 @@ Here’s how to do this:
 ![disable windows 10 gaming features disable game mode](https://images.drivereasy.com/wp-content/uploads/2021/01/gaming-in-the-settings.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) From the left pane, select **Game bar** and toggle off **Record game clips, screenshots, and broadcast using Game bar** .  
@@ -285,10 +291,10 @@ Here’s how to do this:
 ![turn off record in the background option](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-record-in-the-background-option.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) From the left sidebar, select **Game Mode** . Then toggle off **Game Mode** .
@@ -316,24 +322,17 @@ Here’s how to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-adding-closed-captions-to-vimeo-footage/"><u>[New] In 2024, Adding Closed Captions to Vimeo Footage</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-maximizing-b-roll-effective-techniques-for-enhancing-videos/"><u>[New] In 2024, Maximizing B-Roll Effective Techniques for Enhancing Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-squaring-the-circle-of-facebook-engagement-with-visuals/"><u>[New] In 2024, Squaring the Circle of Facebook Engagement with Visuals</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-pros-secret-windows-11-gems-uncovered/"><u>[New] Pro's Secret Windows 11 Gems Uncovered</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-oppo-find-x6-pro-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo Find X6 Pro Fingerprint Lock</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dying-light-volume-glitches-effective-fixes-and-sound-restoration-techniques/"><u>Dying Light Volume Glitches: Effective Fixes and Sound Restoration Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-steps-to-rectify-the-audio-configuration-issues-itunes-warns-about/"><u>Easy Steps to Rectify the Audio Configuration Issues iTunes Warns About</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/echo-pop-versus-echo-dot-unveiling-key-distinctions-and-features/"><u>Echo Pop Versus Echo Dot: Unveiling Key Distinctions and Features!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancing-gaming-performance-solutions-to-stop-stuttering-and-crashes-in-serious-sam-4-on-windows-computers/"><u>Enhancing Gaming Performance: Solutions to Stop Stuttering & Crashes in Serious Sam ^4 on Windows Computers</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/expert-guide-bypassing-copy-protection-on-dvds-with-dvdfab-and-comparable-solutions/"><u>Expert Guide: Bypassing Copy Protection on DVDs with DVDFab and Comparable Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-nba-2k21-from-crashing-on-your-windows-computer/"><u>How to Stop NBA 2K21 From Crashing on Your Windows Computer</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-google-meet-recording-made-easy-for-smartphone-users/"><u>In 2024, Google Meet Recording Made Easy for Smartphone Users</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/next-gen-ai-assistant-microsoft-copilot-enhances-singapore-legaltech-infrastructure-insights-for-zdnet/"><u>Next-Gen AI Assistant Microsoft Copilot Enhances Singapore LegalTech Infrastructure – Insights for ZDNET</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-pc-boot-failures-in-payday-2-expert-solutions-revealed/"><u>Overcoming PC Boot Failures in Payday 2 - Expert Solutions Revealed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolve-roblox-not-starting-up-quickly-with-our-latest-fixes-and-advice/"><u>Resolve Roblox Not Starting Up Quickly with Our Latest Fixes and Advice</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-death-stranding-not-launching/"><u>Solved: Death Stranding Not Launching</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-missing-msvcr110dll-a-step-by-step-guide-for-helldivers-2/"><u>Solving the Missing MSVCR110.dll: A Step-by-Step Guide for Helldivers 2</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-strategy-for-gamers-why-choose-steam-over-others/"><u>The Ultimate Strategy for Gamers: Why Choose Steam Over Others</u></a></li>
-<li><a href="https://program-issues.techidaily.com/watch-dogs-legion-stabilized-overcoming-pc-crashing-issues-for-an-enhanced-gaming-experience/"><u>Watch Dogs: Legion Stabilized - Overcoming PC Crashing Issues for an Enhanced Gaming Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-software-practices-for-transforming-pictures-into-films/"><u>[New] Best Software Practices for Transforming Pictures Into Films</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-ultimate-checklist-for-growing-youtube-subscribers/"><u>[Updated] 2024 Approved The Ultimate Checklist for Growing YouTube Subscribers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unleash-creative-potential-applying-effects-and-filters-on-zoom/"><u>[Updated] Unleash Creative Potential Applying Effects and Filters on Zoom</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-elevate-your-podcasts-name-game-10-ai-powered-options/"><u>2024 Approved Elevate Your Podcast's Name Game 10 AI-Powered Options</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-gamers-beware-how-to-tackle-the-recent-error-2024-glitch/"><u>Cyberpunk 2077 Gamers Beware: How to Tackle the Recent Error 2024 Glitch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-your-game-from-crashing-in-oxygen-a-real-time-space-colony-simulator/"><u>How To Prevent Your Game From Crashing in 'Oxygen: A Real-Time Space Colony Simulator'</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-12-pro-max-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 12 Pro Max Without Apple Password? | Stellar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-watch-the-transformers-movies-in-order/"><u>How to Watch the Transformers Movies in Order</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-2024-launch-glitches-in-call-of-dutys-black-ops-cold-war-expert-tips-and-tricks/"><u>Resolving 2024 Launch Glitches in Call of Duty's Black Ops Cold War - Expert Tips & Tricks</u></a></li>
+<li><a href="https://win11.techidaily.com/shining-up-dull-desktops-with-vibrant-colors/"><u>Shining Up Dull Desktops with Vibrant Colors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-resolve-pc-compatibility-problems-with-fifa-19/"><u>Ultimate Guide to Resolve PC Compatibility Problems with FIFA 19</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unlock-premium-channel-quality-with-1byones-hdtv-amplified-indoor-antenna-smart-spend-for-crystal-clear-viewing/"><u>Unlock Premium Channel Quality with 1BYONE's HDTV Amplified Indoor Antenna – Smart Spend for Crystal Clear Viewing</u></a></li>
 </ul></div>
 

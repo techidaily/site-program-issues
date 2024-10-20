@@ -1,7 +1,7 @@
 ---
 title: "Forza Horizon 4 PC Crash Issues Resolved: Troubleshooting Guide"
-date: 2024-10-05T16:45:49.117Z
-updated: 2024-10-08T16:38:36.065Z
+date: 2024-10-19T18:40:47.321Z
+updated: 2024-10-20T17:53:41.498Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ If you’re playing_Euro Truck Simulator 2 (ETS2)_ on your PC and it starts cras
 6. **[Run the game as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall your game](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## First thing to check
 
  The minimum system specifications to play _Euro Truck Simulator_ need to be met to run the game smoothly; otherwise, you are likely to run into crashing issues during gameplay. So, if you’re playing on an extremely old PC, the only way to fix the crashing issue would be an upgrade to your computer’s hardware.
@@ -53,13 +46,6 @@ If you’re playing_Euro Truck Simulator 2 (ETS2)_ on your PC and it starts cras
 
  Make sure your PC meets the minimum system specs to run the game, then move on to the solutions below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Verify the integrity of game files
 
  Game crashing issues can be caused by a missing or corrupted game file. If you’re playing on Steam, follow the instructions below to verify the integrity of your game files:
@@ -74,6 +60,13 @@ If you’re playing_Euro Truck Simulator 2 (ETS2)_ on your PC and it starts cras
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_15-07-22.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
  This could take several minutes. Wait for the process to be complete. Steam will automatically fix corrupt files if it detects any.
@@ -83,6 +76,13 @@ If you’re playing_Euro Truck Simulator 2 (ETS2)_ on your PC and it starts cras
 **5)** Relaunch your game to see if this has resolved your issue.
 
 If no, try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Check for mod errors
 
@@ -132,19 +132,6 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_15-12-22.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -152,10 +139,10 @@ If your game is still unplayable, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_15-38-36.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -166,6 +153,13 @@ If your game is still unplayable, move on to the next fix.
 **4)** After updating your graphics driver, try launching your game again to test your issue.
 
  If the crashing issue continues to occur, then go ahead with the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5:**Run the game as an administrator**
 
@@ -183,20 +177,27 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-35-29.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Right-click **Euro Truck Simulator 2** , then select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-46-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Click the **Compatibility tab** , then check **Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-40-30.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)**  Click **Apply** , then **OK** .
 
@@ -225,24 +226,18 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-54-21.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-54-40.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Try relaunching_ETS2_ to see if this has resolved your issue. If your game crashes again, check the next fix, below.
 
@@ -256,6 +251,19 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-56-02.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Right-click the resource-consuming process and select **End task** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
@@ -263,13 +271,6 @@ If your game is still unplayable, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-56-12-1.jpg)
 
  Relaunch_ETS2_ to see if this has resolved your issue. If your game still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall your game
 
@@ -284,13 +285,6 @@ If your game is still unplayable, move on to the next fix.
 **3)** Click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_15-36-27.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Restart**your computer** .
 
@@ -319,15 +313,20 @@ If your game is still unplayable, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-how-to-make-your-profile-cover-video-more-attractive/"><u>[Updated] How to Make Your Profile Cover Video More Attractive</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/4-effective-methods-fake-gps-location-on-apple-iphone-6s-plusipad-drfone-by-drfone-virtual-ios/"><u>4 Effective Methods Fake GPS Location on Apple iPhone 6s Plus/iPad | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-error-how-to-overcome-cod-vanguards-obstacle-error-code-0x00001338-on-windowsmac/"><u>Beat the Error: How to Overcome COD Vanguard's Obstacle - Error Code 0X00001338 on Windows/Mac</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-solutions-stop-wwe-2k20-from-crashing-on-your-windows-pc/"><u>Easy Solutions: Stop WWE 2K20 From Crashing on Your Windows PC!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-honor-magic-6-pro-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Honor Magic 6 Pro</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-iphone-12-pro-max-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your iPhone 12 Pro Max</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722986917341-say-goodbye-to-game-interruptions-fixing-subnauticas-below-zero-crashes-on-desktops/"><u>Say Goodbye to Game Interruptions: Fixing Subnautica's Below Zero Crashes on Desktops</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-overcome-pc-black-screen-errors-while-playing-resident-evil-village/"><u>Step-by-Step Guide to Overcome PC Black Screen Errors While Playing Resident Evil: Village</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-oppo-f25-pro-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Oppo F25 Pro 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-12-simple-tricks-to-make-your-youtube-videos-go-viral/"><u>[New] 2024 Approved 12 Simple Tricks to Make Your YouTube Videos Go Viral</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-navigate-macs-screen-capture-like-a-pro-with-simple-keys/"><u>[New] In 2024, Navigate Mac's Screen Capture Like a Pro with Simple Keys</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-pivotal-user-feedback-a-look-at-vllo/"><u>[New] Pivotal User Feedback A Look at VLLO</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-power-of-free-enhancing-your-obs-studio-projects-using-luts/"><u>[New] The Power of Free Enhancing Your OBS Studio Projects Using LUTs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-how-to-fix-the-cycle-frontier-crashing-on-pc/"><u>[SOLVED] How to Fix The Cycle: Frontier Crashing on PC</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-game-on-mobile-funimate-apk-setup-simplified/"><u>[Updated] In 2024, Game On Mobile Funimate APK Setup Simplified</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-transformative-instagram-edits-professional-strategies-for-2024/"><u>[Updated] Transformative Instagram Edits Professional Strategies for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-tecno-spark-go-2023-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Tecno Spark Go (2023)? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-solutions-for-fixing-acrocefexeexe-malfunction-on-your-pc/"><u>Easy Solutions for Fixing acrocefexe.exe Malfunction on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhanced-listening-experience-starfield-audio-error-corrections-for-continuous-playback/"><u>Enhanced Listening Experience - Starfield Audio Error Corrections for Continuous Playback</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gaming-relief-overcoming-forza-horizon-4s-infamous-crash-bug-solutions/"><u>PC Gaming Relief: Overcoming Forza Horizon 4'S Infamous Crash Bug Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-guide-resolving-wwe-2k20-pc-shutdown-issues-smoothly/"><u>Quick Guide: Resolving WWE 2K20 PC Shutdown Issues Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-the-ultimate-guide-to-fixing-davinci-resolve-startup-issues-in-windows-os/"><u>Resolved! The Ultimate Guide to Fixing DaVinci Resolve Startup Issues in Windows OS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-samsung-galaxy-s24plus-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Samsung Galaxy S24+ with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-skydrive-issues-steps-to-resolve-city-building-not-launching/"><u>Troubleshooting SkyDrive Issues: Steps to Resolve City Building Not Launching</u></a></li>
 </ul></div>
 

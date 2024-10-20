@@ -1,7 +1,7 @@
 ---
 title: "Fix: How to Stop Dirt 5 From Continuously Crashing on Your PC"
-date: 2024-08-28T06:37:32.803Z
-updated: 2024-08-29T06:37:32.803Z
+date: 2024-10-19T18:58:33.517Z
+updated: 2024-10-20T17:38:34.852Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ Released on March 26, 2021,**It Takes Two** is currently topping the Steam chart
 
  Launch It Takes Two to see if it crashes or not. If the game still crashes, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Update graphics driver
 
  **The broken or outdated graphics driver may also be the main culprit** behind the game crashing issues. As we all know, an outdated or corrupted graphics driver would trigger game crashing, stuttering (FPS dropping), and even screen flickering issues.
@@ -48,6 +55,13 @@ Released on March 26, 2021,**It Takes Two** is currently topping the Steam chart
  The latest graphics driver will**enhance your graphics card performance** and**unlock the full potential of your graphics card** , which will give you an edge in PC video games.
 
 There are mainly two ways you can update your graphics drivers:
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Manually
 
@@ -65,9 +79,6 @@ There are mainly two ways you can update your graphics drivers:
 
 **Or**
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2: Automatically (Recommended)
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -84,17 +95,29 @@ There are mainly two ways you can update your graphics drivers:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You need to restart your PC after you finish updating your graphics driver.
 
  Launch the game to see if it crashes or not. Normally, after you update the graphics driver, the game crashing issue will disappear.
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -104,9 +127,6 @@ There are mainly two ways you can update your graphics drivers:
 
  Launch It Takes Two to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Add the game as an exception to your 3rd party antivirus software
 
  If you have 3rd party antivirus software installed on your computer, make sure you’ve added It Takes Two as an exception to your antivirus software, because those third-party antivirus software hooks very deep into your system, and it may interfere with the game.
@@ -117,10 +137,6 @@ There are mainly two ways you can update your graphics drivers:
 
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## Fix 5: Stop overclocking / turbo boosting
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -129,9 +145,6 @@ There are mainly two ways you can update your graphics drivers:
 
  If this issue persists after you stop overclocking, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6: Update or reinstall DirectX files
 
  Most games require DirectX 11 to run properly, and It Takes Two is no exception. If there’s a problem with DirectX, the game would crash on startup. If that’s the case, updating the DirectX to the latest version may help. Here is how to do it:
@@ -140,8 +153,12 @@ There are mainly two ways you can update your graphics drivers:
 2. Click the Download button to start the download.  
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
+
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  See if the game crashing issue reappears. If not, congratulations, you’ve fixed this issue!
@@ -162,8 +179,6 @@ There are mainly two ways you can update your graphics drivers:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +186,17 @@ There are mainly two ways you can update your graphics drivers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/fix-your-roblox-loading-problems-with-these-simple-tips-and-fixes/"><u>Fix Your Roblox Loading Problems with These Simple Tips and Fixes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-icloud-activation-lock-with-imei-code-on-your-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, Bypass iCloud Activation Lock with IMEI Code On your Apple iPhone XS Max</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-grids-that-wow-discover-the-top-apps-for-pics/"><u>In 2024, Grids That Wow Discover the Top Apps for Pics</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-content-creators-dilemma-choosing-between-igtv-and-youtube/"><u>In 2024, The Content Creator’s Dilemma Choosing Between IGTV and YouTube</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/mastering-scroll-captures-a-step-by-step-guide-to-screenshots-in-windows-11/"><u>Mastering Scroll Captures: A Step-by-Step Guide to Screenshots in Windows 11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/ranked-top-ios-solutions-for-playing-classic-psp-games-today/"><u>Ranked Top iOS Solutions for Playing Classic PSP Games Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-why-rainbow-six-siege-wont-start/"><u>Solving the Issue: Why Rainbow Six Siege Won't Start</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-made-easy-the-definitive-7-step-guide-to-fixing-nba-2k23-crashes-on-your-computer/"><u>Troubleshooting Made Easy: The Definitive 7-Step Guide to Fixing NBA 2K23 Crashes on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-preventing-euro-truck-simulator-from-crashing-on-your-computer/"><u>Ultimate Guide to Preventing Euro Truck Simulator ➔ From Crashing on Your Computer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-truth-about-prompt-engineering-careers-9-factors-to-evaluate-before-you-decide/"><u>Unlocking The Truth About Prompt Engineering Careers: 9 Factors To Evaluate Before You Decide</u></a></li>
+</ul></div>
 

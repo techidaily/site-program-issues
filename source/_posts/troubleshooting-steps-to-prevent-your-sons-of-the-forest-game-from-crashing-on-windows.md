@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps to Prevent Your 'Sons of the Forest' Game From Crashing on Windows
-date: 2024-10-04T19:44:53.093Z
-updated: 2024-10-08T16:56:49.174Z
+date: 2024-10-17T18:49:28.326Z
+updated: 2024-10-20T18:46:42.632Z
 tags:
   - win11
   - win10
@@ -48,16 +48,16 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-212.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Type **dxdiag**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Check your **Operating System, Processor, Memory** and **DirectX Version** .
 
@@ -67,14 +67,14 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
 
- If your computer meets the minimum requirements to run _HOI4_ , read on and check the fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If your computer meets the minimum requirements to run _HOI4_ , read on and check the fix, below.
 
 ### Fix 2: **Restart your computer**
 
@@ -100,6 +100,13 @@ _Hearts of Iron IV (HOI4)_ keeps crashing on your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)**  Relaunch Steam and _Hearts of Irons 4_ .
 
 If your problem still exists, then move on to the fix below.
@@ -114,18 +121,18 @@ If your problem still exists, then move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-131.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Click the **Compatibility tab** , then check the box next to **Disable fullscreen optimizations** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-130.png)
 
  Relaunch_HOI4_ to see if this has resolved your issue. If not, read on and try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: **Update your graphics driver**
 
@@ -162,13 +169,6 @@ There are two ways you can get the right graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -189,22 +189,15 @@ To fix it, try verifying the integrity of your game files on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-133.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)**  Click the **LOCAL FILES**  tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-134.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait for the scans to be complete, then relaunch_HOI4_ to see if your problem has been resolved. If not, try the next fix.
@@ -231,6 +224,13 @@ To fix it, try verifying the integrity of your game files on Steam:
 
  Restart your computer and your game to see if this worked for you. If your problem persists, try the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 8: **Check for Windows Updates**
 
  Always ensure that your computer has all of the latest recommended Windows updates to keep your applications running smoothly. Here is how to do it:
@@ -243,16 +243,16 @@ To fix it, try verifying the integrity of your game files on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-537.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Restart your computer and your game after the update is complete.
 
  You can hopefully play the game without crashes now. If not, check the fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 9: Reinstall your game and/or Steam
 
@@ -297,6 +297,13 @@ Relaunch your game to test your issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-361.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Under **View by** , select **Category.**  Then, select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-374.png)
@@ -304,13 +311,6 @@ Relaunch your game to test your issue.
 **5)** Right-click **Steam** , and then click **Uninstall** . Then, wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-364.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  **6)[Download](https://store.steampowered.com/about/)**  and install Steam.
 
@@ -347,20 +347,14 @@ Relaunch your game to test your issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-how-do-i-make-my-video-perfectly-fit-instagram-for-2024/"><u>[New] How Do I Make My Video Perfectly Fit Instagram for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-top-5-secret-story-viewers-tools-for-2024/"><u>[New] Top 5 Secret Story Viewers' Tools for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-chasing-the-cause-of-frozen-photobooth-videos/"><u>2024 Approved Chasing the Cause of Frozen Photobooth Videos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/call-of-duty-warzone-display-troubles-a-step-by-step-solution-to-graphics-loading-failures/"><u>Call of Duty Warzone Display Troubles? A Step-by-Step Solution to Graphics Loading Failures</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dialogues-and-dramas-mastering-interactions-through-chatgpt/"><u>Dialogues & Dramas: Mastering Interactions Through ChatGPT</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-logitech-driving-force-gt-steering-wheel-software-for-pc-compatible-with-windows-7-10-and-11/"><u>Download Logitech Driving Force GT Steering Wheel Software for PC: Compatible with Windows 7, 10 & 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ending-the-struggle-premiere-pro-instability-no-more-for-windows-users/"><u>Ending the Struggle: Premiere Pro Instability No More for Windows Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-ensure-call-of-duty-warzone-takes-advantage-of-your-graphics-card-in-windows-11/"><u>How to Ensure Call of Duty Warzone Takes Advantage of Your Graphics Card in Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-a-continuously-crashing-blender-program-on-your-windows-computer/"><u>How to Fix a Continuously Crashing Blender Program on Your Windows Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-path-of-exile-server-connectivity-problems-ultimate-fixes-players/"><u>How to Overcome Path of Exile Server Connectivity Problems - Ultimate Fixes Players</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-technology-in-depth-analysis-by-toms-experts/"><u>Mastering Technology: In-Depth Analysis by Tom’s Experts</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-honor-magic-5-pro-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Honor Magic 5 Pro? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-tutorial-how-to-securely-get-your-lenovo-thinkpad-x220-drivers-instantly/"><u>Step-by-Step Tutorial: How to Securely Get Your Lenovo ThinkPad X220 Drivers Instantly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-insiders-guide-to-fixing-adobe-cannot-start-as-expected-with-code-0xc0000022/"><u>The Insider's Guide to Fixing 'Adobe Cannot Start as Expected' With Code 0Xc0000022</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-samsung-galaxy-s24-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Samsung Galaxy S24 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/mplify-your-content-two-approaches-to-skyrocket-traffic-for-2024/"><u>[New] Amplify Your Content Two Approaches to Skyrocket Traffic for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-capture-and-save-memories-webcam-recordings-in-vlc-format-for-2024/"><u>[New] Capture & Save Memories Webcam Recordings in VLC Format for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/how-to-retrieve-older-whatsapp-messages-a-guide-to-accessing-deleted-or-archived-conversations/"><u>How to Retrieve Older WhatsApp Messages: A Guide to Accessing Deleted or Archived Conversations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/increasing-fps-performance-in-tainted-grail-strategies-for-enhanced-gaming-experience/"><u>Increasing FPS Performance in Tainted Grail - Strategies for Enhanced Gaming Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/online-free-wmv-converted-to-avi-format-with-movavis-tool/"><u>Online Free WMV Converted to AVI Format with Movavi's Tool</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-pc-launch-issues-successful-troubleshooting-of-everspace-2/"><u>Resolving PC Launch Issues: Successful Troubleshooting of Everspace 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-the-startup-glitch-play-days-gone-on-pc-with-these-simple-fixes/"><u>Solve The Startup Glitch: Play 'Days Gone' On PC With These Simple Fixes</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/top-5-effective-strategies-to-resolve-a-stalled-sql-server-restoration-process/"><u>Top 5 Effective Strategies to Resolve a Stalled SQL Server Restoration Process</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-black-ops-cold-war-resolve-error-code-0xc00n/"><u>Troubleshooting Black Ops Cold War: Resolve Error Code 0Xc00n</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Fallout 3 Crashes on Windows 11 – Solutions Inside"
-date: 2024-10-01T18:22:35.151Z
-updated: 2024-10-08T18:44:07.462Z
+date: 2024-10-18T18:27:05.058Z
+updated: 2024-10-20T16:09:43.064Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/0c48024453358ef6a98b286edd181eb113a17b352
 5. **[Replace game files with a fan-made patch](https://tools.techidaily.com/drivereasy/download/)**
 6. [**Check for corrupted system files**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Scan and repair your game files
 
  When troubleshooting game not launching issues, first you need to make sure there aren’t any corrupted or missing files.
@@ -47,17 +40,17 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-1.jpg)
 2. In the left menu, select**LOCAL FILES** . Then click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-2.jpg)
 3. Wait until the checking completes. Then you can try to start the game.
 
  If this trick doesn’t give you luck, take a look at the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -73,16 +66,10 @@ Here’s how you can check the file integrity on Steam:
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -90,6 +77,13 @@ Here’s how you can check the file integrity on Steam:
  Once you’ve updated your graphics driver, restart your PC and check if Resident Evil 5 launches now.
 
  If the latest video driver doesn’t help you, check out the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -113,6 +107,19 @@ Here’s how you can check the file integrity on Steam:
 
  Once you’ve installed the latest GFWL, restart your PC and check if Resident Evil 5 works now.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Replace game files with a fan-made patch
 
  Another hack without installing GFWL would be replacing certain game files of Resident Evil 5 with a fan-made patch. It appears the patch can fix some known bugs of Resident Evil 5\. You can try the patch and see if it gives you luck.
@@ -124,20 +131,6 @@ Here’s how you can check the file integrity on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-2.jpg)
 4. Now check if Resident Evil 5 can launch normally.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Check for corrupted system files
 
@@ -151,13 +144,26 @@ Here’s how you can check the file integrity on Steam:
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -180,20 +186,20 @@ Here’s how you can check the file integrity on Steam:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-playlist-perfection-updated-devices/"><u>[New] Playlist Perfection Updated Devices</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-best-20-facebook-jail-memes-to-brighten-up-your-day/"><u>[Updated] 2024 Approved Best 20 Facebook Jail Memes to Brighten Up Your Day</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-best-ways-to-record-and-preserve-internet-radio/"><u>[Updated] The Best Ways to Record and Preserve Internet Radio</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-the-key-to-crisp-clear-cinematography-for-2024/"><u>[Updated] The Key to Crisp, Clear Cinematography for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-techniques-to-eliminate-stuttering-in-csgo-a-step-by-step-guide/"><u>Effective Techniques to Eliminate Stuttering in CS:GO - A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-tips-overcome-pc-crashes-in-yakuza-3-remastered/"><u>Fixes and Tips: Overcome PC Crashes in Yakuza 3 Remastered</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-google-pixel-8-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Google Pixel 8 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/inside-information-on-sonys-car-project-afela-news-pricing-predictions-launch-timeline-and-specs-revealed/"><u>Inside Information on Sony's Car Project (AFELA): News, Pricing Predictions, Launch Timeline, and Specs Revealed!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/issues-with-launching-robocop-rogue-city-game-on-windows-pcs/"><u>Issues with Launching RoboCop: Rogue City Game on Windows PCs</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/master-the-art-of-pip-on-microsoft-edge/"><u>Master the Art of PIP on Microsoft Edge</u></a></li>
-<li><a href="https://video-capture.techidaily.com/mastering-multimedia-conversions-transform-video-and-audio-files-with-these-techniques/"><u>Mastering Multimedia Conversions: Transform Video & Audio Files with These Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-fall-guys-overcoming-pc-game-freezing-issues/"><u>Solving Fall Guys: Overcoming PC Game Freezing Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/team-fortress-2-no-more-crashing-a-step-by-step-fix-for-constant-breakdowns/"><u>Team Fortress 2 No More Crashing - A Step-by-Step Fix for Constant Breakdowns</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-discord-install-issues-quick-and-effective-methods/"><u>Troubleshooting Discord Install Issues: Quick and Effective Methods</u></a></li>
-<li><a href="https://program-issues.techidaily.com/valorant-performance-boost-top-strategies-to-overcome-low-fps-issues/"><u>Valorant Performance Boost: Top Strategies to Overcome Low FPS Issues</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-mastering-roblox-recording-best-practices-on-a-mac/"><u>[Updated] 2024 Approved Mastering Roblox Recording Best Practices on a Mac</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-growth-galore-strategies-for-surpassing-yield-with-youtube-mobile-audiences-for-2024/"><u>[Updated] Growth Galore Strategies for Surpassing Yield with YouTube Mobile Audiences for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-srt-addition-to-mp4s-for-next-level-audio/"><u>[Updated] Step-by-Step SRT Addition to MP4s for Next-Level Audio</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-cultivating-lasting-partnerships-with-brands-in-youtube-land/"><u>2024 Approved Cultivating Lasting Partnerships with Brands in Youtube Land</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/asian-miniature-villages-in-creative-sphere-of-mc-for-2024/"><u>Asian Miniature Villages in Creative Sphere of MC for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723012943877-beat-the-bug-effective-ways-to-prevent-titanfall-2-crashes-now/"><u>Beat the Bug: Effective Ways to Prevent Titanfall 2 Crashes Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/counterstrikes-successor-modern-warfare-fixed-app-continues-to-run-smoothly-after-update/"><u>Counterstrike's Successor, Modern Warfare - Fixed App Continues to Run Smoothly After Update</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-to-reactivate-your-corsair-icue-in-new-microsoft-operating-systems/"><u>Effective Solutions to Reactivate Your Corsair iCUE in New Microsoft Operating Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-fallout-4-performance-slumps-expert-tips-and-tricks/"><u>Fixing Fallout 4 Performance Slumps - Expert Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-issues-with-a-nonfunctional-logitech-c920-camera-a-comprehensive-guide/"><u>Fixing Issues with a Nonfunctional Logitech C920 Camera: A Comprehensive Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/make-every-xbox-moment-count-expert-recording-advice-for-2024/"><u>Make Every Xbox Moment Count Expert Recording Advice for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/professional-media-transformation-leading-specialists-in-dvd-and-video-software-digiarty-systems/"><u>Professional Media Transformation: Leading Specialists in DVD and Video Software - Digiarty Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-fixing-rise-of-the-tomb-raider-ring-of-elysium-crash-issues/"><u>Step-by-Step Guide to Fixing Rise of the Tomb Raider (Ring of Elysium) Crash Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-controller-problems-now-quick-fixes-guaranteed/"><u>Stop Controller Problems Now - Quick Fixes Guaranteed</u></a></li>
 </ul></div>
 

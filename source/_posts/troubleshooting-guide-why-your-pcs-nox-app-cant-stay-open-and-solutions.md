@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Why Your PC's Nox App Can't Stay Open & Solutions"
-date: 2024-10-05T22:26:42.730Z
-updated: 2024-10-08T18:51:45.861Z
+date: 2024-10-13T18:58:49.248Z
+updated: 2024-10-20T17:29:44.797Z
 tags:
   - win11
   - win10
@@ -37,15 +37,22 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 ![check if a game supports Steam Remote Play](https://images.drivereasy.com/wp-content/uploads/2020/10/check-if-the-game-supports-remote-play-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On your game’s store page, scroll down and on the right side, you’ll see if your game supports Remote Play or not.  
   
 ![check if a game supports Steam Remote Play or not](https://images.drivereasy.com/wp-content/uploads/2020/10/check-if-a-game-supports-Steam-Remote-Play-or-not.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After you’ve made sure that your game supports Remote Play, you can perform the troubleshooting steps below to fix the issue.
 
@@ -61,6 +68,13 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Update your device drivers
 
  A number of bugs can be fixed by performing a dirver update. If Remote Play isn’t working for you or you are getting poor performance, graphical glitches or black screens, make sure you have the latest drivers installed. driver updates can **give you a speed boost, fix problems, and sometimes even provide you with completely new features** , all for free.
@@ -72,13 +86,6 @@ The Steam Remote Play is a feature that allows you to stream your games from you
  To update your drivers manually, you can go to the Device Manager, then manually update each driver by following the on-screen instructions.
 
  Or you can go to the device manufacturer’s driver download page. Then find the correct driver for your system, download and install it step by step.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update your drivers** (recommended)
 
@@ -97,11 +104,31 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-video-card-driver.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, try connecting to your remote computer to check if it works.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Disable hardware encoding
 
@@ -111,6 +138,13 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
 ![disable hardware encoding Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-hardware-encoding-Steam.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the left pane of the window, select**Remote Play** . Then click**ADVANCED CLIENT OPTIONS** .  
   
 ![disable hardware encoding Steam Steam Remote Play not working](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-hardware-encoding-Steam-Remote-Play.jpg)
@@ -118,13 +152,6 @@ The Steam Remote Play is a feature that allows you to stream your games from you
  3) Uncheck the option**Enable hardware decoding** and then click**OK** .
 
 ![disable hardware decoding Steam Remote Play not working](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-hardware-encoding-Steam-Remote-Play-not-working.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now try reconnecting your device to check if the issue persists.
 
@@ -136,18 +163,18 @@ Now try reconnecting your device to check if the issue persists.
 
  1) On the bottom right hand side of your screen, right-click on the network![network icon](https://images.drivereasy.com/wp-content/uploads/2020/10/network-icon.png) or Wi-Fi![wifi icon](https://images.drivereasy.com/wp-content/uploads/2020/10/wifi-icon.png) icon. Then select**Open Network & Internet settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-IPv6-select-open-network-settings.jpg)
 
  2) In the**Change your network settings** section, click**Change adapter options** .  
   
 ![how to disable IPv6](https://images.drivereasy.com/wp-content/uploads/2020/10/change-adapter-options-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Right-click on your**active network adapter** , whether it’s Ethernet or Wi-Fi. Then select**Properties** .  
   
@@ -160,13 +187,6 @@ Now try reconnecting your device to check if the issue persists.
 5) Now restart your computer for the settings to take effect.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Use a static IP address
 
@@ -193,13 +213,6 @@ To set a static IP address, you can:
 
 ![set a static ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/set-a-static-ip-address-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 To check them, you can:
 
 * Right-click on the Start button and select**Windows PowerShell (Admin)** .  
@@ -218,22 +231,15 @@ To check them, you can:
 
 ![how to check my ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/check-my-ip-address-how-to.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Now you can see your**IPv4 Address, Subnet Mask and Default Gateway** .  
 
 ![my own ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/my-own-ip-address.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After you’ve set a static IP address, try connecting to your devices to check if it works.
@@ -259,21 +265,24 @@ To check them, you can:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-access-youtube-tracks-without-spending-a-dime-25plus-no-cost-audio-extractors/"><u>[New] In 2024, Access YouTube Tracks Without Spending a Dime 25+ No-Cost Audio Extractors</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-secrets-to-improve-your-gopro-videos/"><u>[New] Top Secrets to Improve Your GoPro Videos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-psychonauts-2-keeps-crashing-on-pc/"><u>[SOLVED] Psychonauts 2 Keeps Crashing on PC</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-visual-narratives-that-speak-volumes-with-instagramcaptions/"><u>[Updated] In 2024, Visual Narratives That Speak Volumes with #InstagramCaptions</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-infinix-note-30-vip-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Infinix Note 30 VIP Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/error-0x803f8001-no-more-a-complete-fix-for-the-minecraft-launcher-on-windows-1110/"><u>Error 0X803F8001 No More - A Complete Fix for the Minecraft Launcher on Windows 11/10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-discord-video-chat-screen-share-audio-not-working-correctly/"><u>Fix Your Discord Video Chat - Screen Share Audio Not Working Correctly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/half-life-alyx-pc-optimization-guide-fixes-for-tackling-frame-drops-and-jittery-playback/"><u>Half-Life: Alyx PC Optimization Guide – Fixes for Tackling Frame Drops and Jittery Playback</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-troubleshoot-a-non-detecting-steam-virtual-reality-setup/"><u>How to Troubleshoot a Non-Detecting Steam Virtual Reality Setup</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-secrets-of-saving-gameplay-on-windows-10/"><u>In 2024, Secrets of Saving Gameplay on Windows 10</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-zte-nubia-flip-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 ZTE Nubia Flip 5G Android SIM Unlock APK</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maximizing-gameplay-fluidity-solutions-to-resolve-low-fps-in-valorant-updated-guide/"><u>Maximizing Gameplay Fluidity: Solutions to Resolve Low FPS in Valorant (Updated Guide )</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-launch-problems-a-guide-to-getting-robocop-rogue-city-running-on-windows-and-mac/"><u>Overcoming Launch Problems: A Guide to Getting RoboCop: Rogue City Running on Windows & Mac</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ultimate-guide-to-using-handbrake-mastering-dvd-conversion-techniques/"><u>Ultimate Guide to Using Handbrake: Mastering DVD Conversion Techniques</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/webcam-use-in-professional-settings-for-slide-shows-for-2024/"><u>Webcam Use in Professional Settings for Slide Shows for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-11-compatibility-resolving-surface-pro-4s-camera-issues-successfully/"><u>Windows 11 Compatibility: Resolving Surface Pro 4'S Camera Issues Successfully</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/aking-compelling-media-previews-for-channels-for-2024/"><u>[New] Making Compelling Media Previews for Channels for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-is-photoshops-image-smoothing-worth-the-hype/"><u>[Updated] Is Photoshop's Image Smoothing Worth the Hype?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/discord-streaming-dilemma-solving-mute-microphones-during-screen-casts/"><u>Discord Streaming Dilemma: Solving Mute Microphones During Screen Casts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/elevating-virtual-meetings-using-zoom-proficiently-on-win11-for-2024/"><u>Elevating Virtual Meetings Using Zoom Proficiently on Win11 for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-stop-house-flipper-2-from-crashing-on-pc-with-easy-fixes/"><u>Expert Guide: Stop House Flipper 2 From Crashing on PC with Easy Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/genshin-impact-wont-start-discover-these-effortless-fixes-today/"><u>Genshin Impact Won't Start? Discover These Effortless Fixes Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-repair-an-unresponsive-obs-audio-input-expert-solutions/"><u>How to Repair an Unresponsive OBS Audio Input - Expert Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-f15-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Samsung Galaxy F15 5G Phone without Any Data Loss</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Motorola Moto G84 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-free-online-video-communication-tools-rated-best/"><u>In 2024, Free Online Video Communication Tools Rated Best</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-blue-screen-challenge-in-helldivers-2-top-troubleshooting-tips/"><u>Overcoming the Blue Screen Challenge in HellDivers 2 - Top Troubleshooting Tips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/requesting-for-unrestricted-access-to-shared-visual-and-audio-content/"><u>Requesting for Unrestricted Access to Shared Visual & Audio Content</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/resolving-iphone-unrecognized-by-itunes-effective-strategies-and-tips/"><u>Resolving 'iPhone Unrecognized by iTunes': Effective Strategies and Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722982147391-size-and-mass-of-the-colliding-objects-larger-vehicles-can-cause-significant-damage-due-to-their-size-and-momentum/"><u>Size and Mass of the Colliding Objects - Larger Vehicles Can Cause Significant Damage Due to Their Size and Momentum.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722999503431-solving-persona-5-strikers-display-problems-black-screen-solutions-available/"><u>Solving Persona 5 Strikers Display Problems: Black Screen Solutions Available!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamline-your-youtube-thumbnail-process-for-2024/"><u>Streamline Your YouTube Thumbnail Process for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/top-5-best-ps2-emulator-for-ios/"><u>Top 5 Best PS2 Emulator for Ios</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-solving-valheim-stutters-and-hitches-on-windowspc/"><u>Ultimate Guide to Solving Valheim Stutters and Hitches on Windows/PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/valheim-launch-issues-2n-2024-identifying-causes-and-effective-solutions/"><u>Valheim Launch Issues 2N 2024: Identifying Causes and Effective Solutions</u></a></li>
 </ul></div>
 

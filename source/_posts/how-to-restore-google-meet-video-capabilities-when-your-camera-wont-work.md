@@ -1,7 +1,7 @@
 ---
 title: How to Restore Google Meet Video Capabilities When Your Camera Won't Work
-date: 2024-10-07T18:50:30.575Z
-updated: 2024-10-08T22:11:22.537Z
+date: 2024-10-16T16:16:27.185Z
+updated: 2024-10-20T16:22:38.283Z
 tags:
   - win11
   - win10
@@ -29,10 +29,10 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
  Corrupted game files may be caused by sudden shutdowns, incomplete downloads or updates, game bugs and glitches. Below are 3 methods you can try to tackle it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1 — Verify game files integrity
@@ -50,15 +50,15 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/skywalker-saga-crash-1.jpg)
 2. Select **Installed Files** in the left tab, and click **Verify integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-verify-the-integrity-of-game-files-on-Starfield.png)
 3. Steam will verify the game’s files – this process may take several minutes
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait for the process to complete. Once done, exit Steam and open it again.
 
@@ -67,13 +67,6 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 1. Open Origin and click **My Game Library** in the left tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/skywalker-saga-crash-3.jpg)
 2. Right-click the game. Click **Repair**  in the drop-down menu.  
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/skywalker-saga-crash-4.jpg)
 
@@ -93,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/Xbox2.png)
 3. Select**Files** and then**Verify and repair** .  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/Xbox.png)
 
  Exit the app and relaunch it. However, if the programs find no corrupted files or this fix doesn’t work for you, continue to try the next one.
@@ -106,22 +106,16 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/2023-10-27_10-36-27.png)
 3. Find the**launcher** directory, go in and delete files called**developer log** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer, start the launcher from Steam, but DON’T press start. Instead go to launcher**settings** and click**repair** .
 
  Other users recommend removing the broken save files from**%USERPROFILE%\\AppData\\LocalLow\\Team Cherry\\Starfield\\** (adjust the path based on your actual situation).
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 — Restore and reinstall
 
@@ -132,24 +126,24 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/steam-updates.png)
 3. Click the**Betas** tab and you can select previous versions of the game to install.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/betas.png)
 4. Once the previous version of the game is installed, restore the game saves by copying them back into the game’s save folder.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Nevertheless, corrupted or missing system files lead to bad gaming experiences and unstable computer usage as well. If you want to do a thorough check and repair, keep reading on.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fixes for corrupted system files
 
@@ -165,16 +159,16 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/2023-10-25_11-11-39.png)
 3. This will begin the scan and wait for it to complete the verification and repair.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Alternatively, if you can want to view details of the SFC process, copy and paste the following command and press Enter. You will find a file named**sfcdetails.txt** on your desktop.  
 ` **findstr /c:"[SR]" %windir%\Logs\CBS\CBS.log >"%userprofile%\Desktop\sfcdetails.txt"** `  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/2023-10-27_11-39-40.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 — Automatic system repair
 
@@ -200,10 +194,10 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 2. Select a version and click**Restore** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win10-pv-restore.png)
@@ -230,15 +224,18 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-transferring-tv-episodes-downloading-youtube-content-ios-style/"><u>[New] 2024 Approved Transferring TV Episodes Downloading YouTube Content iOS-Style</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-captivate-viewers-designing-engaging-youtube-trailers-with-filmora/"><u>[Updated] In 2024, Captivate Viewers Designing Engaging YouTube Trailers with Filmora</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/engaging-storytelling-with-snapchats-gifted-gifs-for-2024/"><u>Engaging Storytelling with Snapchat's Gifted GIFs for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-resident-evil-village-wont-open-error-successfully/"><u>How to Fix 'Resident Evil Village Won't Open' Error Successfully</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-missing-spatial-sound-feature-in-windows-11-and-10/"><u>How to Fix Missing Spatial Sound Feature in Windows 11 & 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimized-strategies-eliminating-significant-frames-per-second-fps-dips/"><u>Optimized Strategies: Eliminating Significant Frames Per Second (FPS) Dips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-players-rejoice-lost-ark-no-longer-crashes-update-notes-explained/"><u>PC Players Rejoice! Lost Ark No Longer Crashes – Update Notes Explained</u></a></li>
-<li><a href="https://fox-that.techidaily.com/restoring-audible-notifications-for-texts-on-your-iphone-in-depth-review-with-multiple-fixes/"><u>Restoring Audible Notifications for Texts on Your iPhone: In-Depth Review with Multiple Fixes</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-nova-y71-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Nova Y71</u></a></li>
-<li><a href="https://article-tips.techidaily.com/top-8-vr-gaming-accessories/"><u>Top 8 VR Gaming Accessories</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-how-to-capture-and-save-your-beloved-hulu-seasons-quickly-and-conveniently/"><u>[New] 2024 Approved How To Capture & Save Your Beloved Hulu Seasons Quickly & Conveniently</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-staying-positive-in-the-face-of-internet-skeptics/"><u>[Updated] 2024 Approved Staying Positive in the Face of Internet Skeptics</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypass-the-blackout-effective-solutions-to-start-your-2024-nba-2k21-gaming-experience/"><u>Bypass the Blackout: Effective Solutions to Start Your 2024 NBA 2K21 Gaming Experience</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/enhanced-window-recording-made-simple-with-spring/"><u>Enhanced Window Recording Made Simple with Spring</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-for-launch-issues-in-ubisofts-deathloop-game/"><u>Expert Advice for Launch Issues in Ubisoft's Deathloop Game</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-dark-void-solving-fortnites-black-screen-issue-on-pc/"><u>Fixing the Dark Void: Solving Fortnite's Black Screen Issue on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-ghostrunner-critical-failure-issue-in-windows-10-a-comprehensive-guide/"><u>Fixing the GhostRunner Critical Failure Issue in Windows 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-launch-problems-in-avatar-pandora-edition-tips-and-solutions/"><u>How To Overcome Launch Problems in Avatar: Pandora Edition – Tips and Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-repair-and-update-your-itunes-for-perfect-audio-performance/"><u>How to Repair and Update Your iTunes for Perfect Audio Performance</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-weekly-must-see-elite-igtv-talents/"><u>In 2024, Weekly Must-See Elite IGTV Talents</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/leading-eight-safe-video-meeting-systems-for-smbs-for-2024/"><u>Leading Eight Safe Video Meeting Systems for SMBs for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723001093717-unraveling-the-mystery-behind-nier-replicant-game-freeze-error-corrected/"><u>Unraveling the Mystery Behind NieR: Replicant Game Freeze Error Corrected</u></a></li>
+<li><a href="https://win-premium.techidaily.com/unveiling-from-microsofts-latest-october-surface-innovations-explore-insights-on-zdnet/"><u>Unveiling From Microsoft's Latest October Surface Innovations - Explore Insights on ZDNet</u></a></li>
 </ul></div>
 

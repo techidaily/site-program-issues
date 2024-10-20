@@ -1,7 +1,7 @@
 ---
 title: Zoom Blackout Blues? Here’s Your Ultimate Guide to Clear the Screen
-date: 2024-10-05T19:34:07.269Z
-updated: 2024-10-08T21:11:44.768Z
+date: 2024-10-17T18:19:50.929Z
+updated: 2024-10-20T18:37:32.407Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
  If you haven’t tried this yet, give it a shot. A simple reboot almost always works when it comes to software glitches.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Turn off automatic GPU switching
@@ -55,22 +55,15 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click**Browse** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/10-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Find**Cpthost.exe** from the Zoom bin directory (located at C:/>Users>YOURUSERNAME>AppData>Roaming>Zoom>bin).
@@ -78,10 +71,10 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  6) Under Select the preferred graphics processor for this program, select**Integrated graphics**
@@ -91,13 +84,6 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
  7) Click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/12-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this didn’t fix Zoom black screen issues for you, try the next fix below.
 
@@ -124,10 +110,10 @@ If you get a black or blank screen when you’re in Zoom call, don’t panic. Th
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-2-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you want, but it’s partly manual.
@@ -153,13 +139,6 @@ If you still have the problem, then try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/zoom-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3)**Uncheck** Enable hardware acceleration to optimize video sharing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/zoom-hardware-acceleration.png)
@@ -178,7 +157,21 @@ If you still have the problem, then try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-full-screen.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If the issue still exists, then move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Reinstall Zoom
 
@@ -189,6 +182,13 @@ If the issue still exists, then move on to the next fix below.
  2) Type**appwiz.cpl** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/unstall-roblox-1-.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Right-click Zoom and click**Uninstall** .
 
@@ -214,18 +214,22 @@ If the issue still exists, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-uncovering-budget-friendly-video-conferencing-tools-for-all-systems/"><u>[New] 2024 Approved Uncovering Budget-Friendly Video Conferencing Tools for All Systems</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-boost-engagement-using-obs-for-youtube-and-twitch-audiences/"><u>[New] In 2024, Boost Engagement Using OBS for YouTube & Twitch Audiences</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-comprehensive-shoppers-guide-for-top-360cams/"><u>[New] The Comprehensive Shopper’s Guide for Top 360Cams</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-methodical-guide-to-unmute-your-social-network-videos/"><u>[Updated] Methodical Guide to Unmute Your Social Network Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-pitch-perfect-techniques-for-integrating-tunes-into-vimeo-videos/"><u>2024 Approved Pitch Perfect Techniques for Integrating Tunes Into Vimeo Videos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhance-your-playthrough-of-valheim-on-computer-by-fixing-freeze-stutter-glitches/"><u>Enhance Your Playthrough of Valheim on Computer by Fixing Freeze-Stutter Glitches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancing-performance-ultimate-guide-to-resolving-frame-drops-and-improving-fps-in-valorant/"><u>Enhancing Performance: Ultimate Guide to Resolving Frame Drops & Improving FPS in Valorant</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723010189071-gta-5-stability-improvements-no-more-game-crashes/"><u>GTA 5 Stability Improvements - No More Game Crashes!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-nubia-red-magic-8s-proplus-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Nubia Red Magic 8S Pro+ Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ise-approach-affordable-creation-of-engaging-youtube-intros-for-2024/"><u>Stepwise Approach Affordable Creation of Engaging YouTube Intros for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723001330982-team-fortress-2-launch-problems-resolved-and-ready-for-action/"><u>Team Fortress 2 Launch Problems – Resolved and Ready for Action!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-realme-11-proplus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Realme 11 Pro+ without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-5-tricks-to-stop-paladins-from-crashing/"><u>Top 5 Tricks to Stop Paladins From Crashing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-branding-excellence-youtube-naming-masterclass/"><u>[Updated] 2024 Approved Branding Excellence YouTube Naming Masterclass</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-top-platform-trio-which-one-triumphs-vimeo-youtube-dailymotion/"><u>[Updated] The Top Platform Trio Which One Triumphs – Vimeo, YouTube, Dailymotion?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-showcasing-iconic-ae-templates-for-social-media/"><u>2024 Approved Showcasing Iconic AE Templates for Social Media</u></a></li>
+<li><a href="https://program-issues.techidaily.com/6-quick-ways-to-fix-roblox-crashing-on-pc-2024/"><u>6 Quick Ways to Fix Roblox Crashing on PC - 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/crafting-a-cinematic-short-blending-images-and-melodies/"><u>Crafting a Cinematic Short Blending Images and Melodies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dead-by-daylight-error-code-8014-explained-steps-to-get-back-in-the-game/"><u>Dead By Daylight Error Code 8014 Explained: Steps to Get Back in the Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/definitive-guide-to-resolving-nier-repliecate-game-stalling-issues/"><u>Definitive Guide to Resolving NieR: Repliecate Game Stalling Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-the-windows-11-error-code-0xc19001e1/"><u>How to Overcome the Windows 11 Error Code 0xC19001E1</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-whats-going-wrong-sideways-videos-on-instagram/"><u>In 2024, What's Going Wrong Sideways Videos on Instagram</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/les-top-5-techniques-pour-ameliorer-la-qualite-dimages-en-2024/"><u>Les Top 5 Techniques Pour Améliorer La Qualité D’Images en 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-virtual-realms-the-finest-vr-technology/"><u>Navigating Virtual Realms The Finest VR Technology</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-performance-preventing-euro-truck-simulator-2-from-crashing-on-windows-systems/"><u>Optimizing Performance: Preventing Euro Truck Simulator 2 From Crashing on Windows Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/play-days-gone-on-pc-enjoy-the-action-packed-adventure/"><u>Play Days Gone on PC: Enjoy the Action-Packed Adventure!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reinvigorating-faulty-troubleshooters-in-windows-os/"><u>Reinvigorating Faulty Troubleshooters in Windows OS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-war-thunder-from-crashing-expert-hacks-and-advice-players/"><u>Stop War Thunder From Crashing - Expert Hacks and Advice Players</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/supercharge-mac-performance-meet-stellar-speedup/"><u>Supercharge Mac Performance - Meet Stellar Speedup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/valheim-initialization-issue-troubleshooting-steps-to-get-the-game-running/"><u>Valheim Initialization Issue : Troubleshooting Steps to Get the Game Running</u></a></li>
 </ul></div>
 

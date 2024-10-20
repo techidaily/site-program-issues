@@ -1,7 +1,7 @@
 ---
 title: No More Lag - Stable Playthrough of Assassin's Creed Odyssey on Windows!
-date: 2024-10-04T18:16:32.466Z
-updated: 2024-10-08T20:21:35.825Z
+date: 2024-10-15T17:37:41.250Z
+updated: 2024-10-20T18:02:15.501Z
 tags:
   - win11
   - win10
@@ -32,10 +32,10 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 **Note** : Some Ubisoft games feature Denuvo DRM (digital rights management) which is an anti-tamper technology. In this case, it requires some kind of CPU feature to run the game. If your game doesn’t have DRM removed, you may not be able to launch the game. And you should head to Ubisoft for suggestions.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Install the latest patch
@@ -69,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/2077f1c448ea137a042adda99cddc314210e83104
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-70.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged devices to automatically download the driver (you can do that with the**FREE** version), then install it on your computer.
 
  Or click**Update All** to automatically download and install all the correct drivers for problem devices (you can do this with the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , and you’ll be prompted to upgrade when you click**Update All** ).
@@ -100,6 +93,19 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-73.png)
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In**Window Mode** , click and change to another mode.
 
  If you’re using**Fullscreen** mode, change it to**Borderless** mode.  
@@ -107,16 +113,16 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-74.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Turn off**VSync** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-75.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Click the**Graphics** tab, try lowing these settings:
 
@@ -129,23 +135,42 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-76.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-77.png)
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6) Restart your computer.
 
 Open Assassin’s Creed Odyssey and see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Verify Integrity of Game Files
@@ -161,13 +186,6 @@ Open Assassin’s Creed Odyssey and see if it works.
  3) Right-click on**Assassin’s Creed Odyssey** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-79.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
@@ -204,18 +222,24 @@ Open Assassin’s Creed Odyssey and see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-discovering-the-finest-8-open-source-video-calls-for-companies/"><u>[Updated] Discovering the Finest 8 Open-Source Video Calls for Companies</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-leading-mac-snipper-programs-analyzed-for-2024/"><u>[Updated] Leading Mac Snipper Programs Analyzed for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-pc-building-simulator-complimentary-access-on-epic-games-store/"><u>Download the PC Building Simulator: Complimentary Access on Epic Games Store</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-your-games-sound-issue-tips-for-getting-fortnite-audio-back-on-track/"><u>Fix Your Game’s Sound Issue: Tips for Getting Fortnite Audio Back on Track</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-persistent-issues-with-ghostwire-tokyos-stability-on-pc/"><u>Fixing Persistent Issues with Ghostwire: Tokyo's Stability on PC</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-apple-iphone-7-by-drfone-ios/"><u>How To Create an Apple Developer Account On Apple iPhone 7</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-valheims-inability-to-boot-during-startup-q1-2024/"><u>How to Resolve Valheim's Inability to Boot During Startup, Q1 2024</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/lost-and-found-unveiling-macs-top-free-and-paid-data-rescue-software/"><u>Lost and Found: Unveiling Mac's Top Free & Paid Data Rescue Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-issue-why-frontier-keeps-freezing-in-windows-a-comprehensive-guide/"><u>Resolving the Issue: Why 'Frontier' Keeps Freezing in Windows - A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-davinci-resolve-startup-errors-on-your-pc-tips-and-tricks-for-smooth-operation/"><u>Solving DaVinci Resolve Startup Errors on Your PC – Tips & Tricks for Smooth Operation</u></a></li>
-<li><a href="https://win-blog.techidaily.com/star-wars-battlefront-2-mishap-solved-overcoming-error-code-327-successfully/"><u>Star Wars Battlefront 2 Mishap Solved: Overcoming Error Code #327 Successfully</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-techniques-for-enhancing-fps-in-gaming-insider-tips-and-tricks/"><u>Top Techniques for Enhancing FPS in Gaming - Insider Tips & Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-installation-problems-of-minecraft-on-windows-11-computers/"><u>Troubleshooting Guide: Installation Problems of Minecraft on Windows 11 Computers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-step-by-step-process-of-adding-subtitles-to-your-youtube-content/"><u>[New] 2024 Approved Step by Step Process of Adding Subtitles to Your YouTube Content</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-naming-success-strategies-for-engaging-titles/"><u>[New] Naming Success Strategies for Engaging Titles</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapping-sharing-how-to-send-images-with-a-single-touch/"><u>[New] Snapping, Sharing How To Send Images With a Single Touch</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-microsoft-unveils-hololens-the-augmented-reality-evolution/"><u>[Updated] In 2024, Microsoft Unveils HoloLens The Augmented Reality Evolution</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-chromebook-voice-alteration-guide-essential-online-reverb-and-pitch-tools/"><u>2024 Approved Chromebook Voice Alteration Guide Essential Online Reverb & Pitch Tools</u></a></li>
+<li><a href="https://win-hot.techidaily.com/budget-friendly-solutions-best-5-no-cost-backup-tools-for-windows-11-users/"><u>Budget-Friendly Solutions: Best 5 No-Cost Backup Tools for Windows 11 Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-resolving-no-signal-from-nvidia-graphics-card-quickly-and-easily/"><u>Expert Advice: Resolving 'No Signal From NVIDIA Graphics Card' Quickly and Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-to-overcoming-discord-live-stream-buffering-problems-now-solved/"><u>Expert Guide to Overcoming Discord Live Stream Buffering Problems – Now Solved</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-guide-overcoming-compatibility-problems-with-rainbow-six-extraction-drivers-and-hardware/"><u>Fix Guide: Overcoming Compatibility Problems with Rainbow Six Extraction Drivers and Hardware</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-error-free-machine-learning-tips-to-resolve-the-last-epoch-problem-on-your-computer-2024-edition/"><u>Master Error-Free Machine Learning: Tips to Resolve the Last Epoch Problem on Your Computer, 2024 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-digital-world-through-toms-computer-and-hardware-analysis/"><u>Navigating the Digital World Through Tom's Computer & Hardware Analysis</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-interruptions-fixed-issues-causing-new-frontier-to-fail-on-desktops/"><u>No More Interruptions: Fixed Issues Causing 'New Frontier' To Fail on Desktops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-minecraft-loading-problems-effective-fixes-for-gamers-everywhere/"><u>Overcome Minecraft Loading Problems: Effective Fixes for Gamers Everywhere</u></a></li>
+<li><a href="https://win11.techidaily.com/renewal-guide-for-reinstating-apps-from-the-microsoft-store/"><u>Renewal Guide for Reinstating Apps From the Microsoft Store</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-rocket-league-failed-to-start-a-step-by-step-guide-for-gamers/"><u>Resolving 'Rocket League Failed to Start': A Step-by-Step Guide for Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/seamless-gaming-experience-expert-fixes-for-maplestory-glitches-in-windows-10-tips/"><u>Seamless Gaming Experience: Expert Fixes for MapleStory Glitches in Windows 10 (Tips )</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/outuber-enigma-decoded-exciting-questionnaires-leading-to-your-ideal-creator-profile/"><u>The YouTuber Enigma Decoded Exciting Questionnaires Leading to Your Ideal Creator Profile</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-pick-family-films-streaming-on-amazon-prime-video-this-july-2024/"><u>Top Pick Family Films Streaming on Amazon Prime Video This July 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-repair-steam-connection-failures-in-local-client-operations/"><u>Troubleshooting Guide: How to Repair Steam Connection Failures in Local Client Operations</u></a></li>
 </ul></div>
 

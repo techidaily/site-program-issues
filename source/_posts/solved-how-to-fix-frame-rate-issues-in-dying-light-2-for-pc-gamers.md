@@ -1,7 +1,7 @@
 ---
 title: "Solved: How to Fix Frame Rate Issues in Dying Light 2 for PC Gamers"
-date: 2024-10-05T19:41:02.846Z
-updated: 2024-10-08T16:33:11.113Z
+date: 2024-10-13T18:03:28.097Z
+updated: 2024-10-20T16:30:55.678Z
 tags:
   - win11
   - win10
@@ -28,10 +28,10 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 5. **[Reinstall Origin and Madden 20](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Update your device drivers
@@ -53,6 +53,13 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -90,13 +97,6 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
@@ -114,10 +114,10 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Repair Madden 20
@@ -156,16 +156,16 @@ Here are the steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In the program list, locate **Origin** , then right-click on it and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Locate **Madden 20** and uninstall it too.
 
@@ -198,14 +198,18 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unlock-video-quality-with-apple-music-addition/"><u>[New] Unlock Video Quality with Apple Music Addition</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-a-step-by-step-guide-to-scheduling-and-recording-on-demand-slack-meetings/"><u>[Updated] A Step-by-Step Guide to Scheduling & Recording On-Demand Slack Meetings</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-securing-your-games-in-motion-top-5-for-windows-10/"><u>[Updated] Securing Your Games in Motion Top 5 for Windows 10</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Poco X5 Pro | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722987437454-ark-survival-ascended-keeps-crashing-on-pc-9-fixes/"><u>ARK: Survival Ascended Keeps Crashing on PC – 9 Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diablo-immortal-continuous-crash-fix-for-players-your-ultimate-resource-guide/"><u>Diablo Immortal Continuous Crash Fix for Players - Your Ultimate Resource Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fast-solutions-unstuck-from-shader-tuning-in-star-wars-battlefront-ii/"><u>Fast Solutions: Unstuck From Shader Tuning in Star Wars Battlefront II</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-motorola-moto-g84-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Motorola Moto G84 5G Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlock-access-to-fortnite-swift-solutions-for-common-sign-in-failures/"><u>Unlock Access to Fortnite: Swift Solutions for Common Sign-In Failures</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-easy-entree-straightforward-screen-capture-methods-dell/"><u>[New] 2024 Approved Easy Entrée Straightforward Screen Capture Methods (Dell)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/outriders-game-performance-boosted-your-complete-guide-to-overcoming-lags/"><u>[Outriders] Game Performance Boosted - Your Complete Guide to Overcoming Lags</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-from-raw-footage-to-final-cut-chroma-mastery/"><u>[Updated] In 2024, From Raw Footage to Final Cut Chroma Mastery</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-unlocking-the-full-capabilities-of-zoom-on-windows-10-pcs/"><u>[Updated] Unlocking The Full Capabilities of Zoom on Windows 10 PCs</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-realme-v30t-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/hue-harmony-simplified-steps-for-professional-color-adjustment/"><u>Hue Harmony Simplified Steps for Professional Color Adjustment</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-productivity-why-blackberry-excels-in-the-business-realm/"><u>Optimizing Productivity: Why BlackBerry Excels in the Business Realm</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-no-rest-for-the-wicked-game-crashes-in-windows-a-comprehensive-guide/"><u>Solving 'No Rest for the Wicked' Game Crashes in Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-to-enable-and-use-microsofts-on-screen-keyboard-in-various-windows-versions/"><u>Step-by-Step Tutorial to Enable and Use Microsoft's On-Screen Keyboard in Various Windows Versions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transforming-iphone-images-into-artful-collages/"><u>Transforming iPhone Images Into Artful Collages</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-common-issues-fixes-for-ghostwire-tokyo-pc-game-freezes/"><u>Troubleshooting Common Issues: Fixes for Ghostwire: Tokyo PC Game Freezes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-addressing-destiny-2s-pc-performance-crashes-in-beyond-light/"><u>Troubleshooting Guide: Addressing Destiny 2'S PC Performance Crashes in Beyond Light</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-cutting-edge-audio-solutions-top-online-sites-for-professional-grade-mp3-modification/"><u>Updated 2024 Approved Cutting Edge Audio Solutions Top Online Sites for Professional-Grade MP3 Modification</u></a></li>
 </ul></div>
 

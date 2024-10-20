@@ -1,7 +1,7 @@
 ---
 title: Ultimate Troubleshooting Tips for Fixing Mordhau's Crash Errors
-date: 2024-10-11T22:05:33.260Z
-updated: 2024-10-15T05:16:23.807Z
+date: 2024-10-16T18:01:47.566Z
+updated: 2024-10-20T16:25:07.173Z
 tags:
   - win11
   - win10
@@ -34,10 +34,10 @@ Released on March 26, 2021,**It Takes Two** is currently topping the Steam chart
 6. **[Update or reinstall DirectX files](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 1: Verify the game files
@@ -49,6 +49,13 @@ Released on March 26, 2021,**It Takes Two** is currently topping the Steam chart
 2. Click the**Installed Files** tab, then click**Verify integrity of game files** . Wait for the verification to be completed.  
 
 ![Steam - how to verify integrity of game files](https://www.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch It Takes Two to see if it crashes or not. If the game still crashes, try the next fix, below.
 
@@ -78,13 +85,6 @@ There are mainly two ways you can update your graphics drivers:
 
 **Or**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 2: Automatically (Recommended)
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -105,18 +105,24 @@ There are mainly two ways you can update your graphics drivers:
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You need to restart your PC after you finish updating your graphics driver.
 
  Launch the game to see if it crashes or not. Normally, after you update the graphics driver, the game crashing issue will disappear.
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -125,13 +131,6 @@ There are mainly two ways you can update your graphics drivers:
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch It Takes Two to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Add the game as an exception to your 3rd party antivirus software
 
@@ -143,13 +142,6 @@ There are mainly two ways you can update your graphics drivers:
 
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 5: Stop overclocking / turbo boosting
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -157,6 +149,13 @@ There are mainly two ways you can update your graphics drivers:
  To reduce the frequency of game crashing issues, you should reset the CPU or the graphics card to the manufacturer’s specifications.
 
  If this issue persists after you stop overclocking, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Update or reinstall DirectX files
 
@@ -166,6 +165,13 @@ There are mainly two ways you can update your graphics drivers:
 2. Click the Download button to start the download.  
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  See if the game crashing issue reappears. If not, congratulations, you’ve fixed this issue!
 
@@ -194,24 +200,24 @@ There are mainly two ways you can update your graphics drivers:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-fix-missing-fb-watch-icon-quick-guide/"><u>[New] Fix Missing FB Watch Icon - Quick Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-ultimate-resource-for-mac-users-unlocking-preview-capabilities/"><u>[Updated] 2024 Approved The Ultimate Resource for Mac Users Unlocking Preview Capabilities</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-creating-engaging-gaming-broadcasts-using-ai-faces-for-2024/"><u>[Updated] Creating Engaging Gaming Broadcasts Using AI Faces for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>3 Things You Must Know about Fake Snapchat Location On Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-motorola-g54-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Motorola G54 5G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/defeat-the-distracting-display-solutions-for-continuous-monitor-flutter/"><u>Defeat the Distracting Display - Solutions for Continuous Monitor Flutter</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/disable-non-specific-youtube-video-alerts/"><u>Disable Non-Specific YouTube Video Alerts</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/easy-recording-tips-for-your-hp-laptops-camera-for-2024/"><u>Easy Recording Tips for Your HP Laptop's Camera for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fortnite-season-8-exploring-the-changes-in-frame-rate-and-performance/"><u>Fortnite Season 8: Exploring the Changes in Frame Rate and Performance</u></a></li>
-<li><a href="https://program-issues.techidaily.com/get-your-discord-overlays-back-with-simple-steps-a-step-by-step-guide/"><u>Get Your Discord Overlays Back with Simple Steps - A Step-by-Step Guide!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-continuous-nox-player-collapses-on-your-windowsmac-computer/"><u>How to Fix Continuous Nox Player Collapses on Your Windows/Mac Computer</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-phone-number-from-your-apple-id-on-your-iphone-6-by-drfone-ios/"><u>How To Remove Phone Number From Your Apple ID on Your iPhone 6?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-15-video-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone 15 Video to Computer? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-stability-effective-ways-to-prevent-war-thunder-from-crashing/"><u>Mastering Stability: Effective Ways to Prevent War Thunder From Crashing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-technical-glitches-in-far-cry-6-on-pc-expert-tips-and-solutions-applied/"><u>Overcome Technical Glitches in Far Cry 6 on PC - Expert Tips and Solutions Applied</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-issues-overcome-lego-star-wars-pc-crash-for-skywalker-saga/"><u>Resolved Issues: Overcome Lego Star Wars PC Crash for Skywalker Saga</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-nstep-approach-to-lower-high-processor-load-in-your-new-os-environment/"><u>Step-by-nStep Approach to Lower High Processor Load in Your New OS Environment</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-podcast-style-unboxing/"><u>The Ultimate Guide to Podcast-Style Unboxing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlocking-the-secrets-to-get-your-evil-genius-game-running-smoothly/"><u>Unlocking the Secrets to Get Your Evil Genius Game Running Smoothly</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-boosting-your-youtube-views-a-strategy-guide-for-2024/"><u>[New] Boosting Your YouTube Views A Strategy Guide for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-restore-windows-photo-viewer-in-windows-10/"><u>[New] How to Restore Windows Photo Viewer in Windows 10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-macos-11-big-sur-system-and-hardware-requirements/"><u>[New] MacOS 11 Big Sur System and Hardware Requirements</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-news-endings-as-a-narrative-tool/"><u>[New] News Endings as a Narrative Tool</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-navigating-the-download-of-fb-storied-videos/"><u>[Updated] 2024 Approved Navigating the Download of FB Storied Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-designing-powerful-youtube-screens-a-step-by-step-guide/"><u>[Updated] In 2024, Designing Powerful YouTube Screens A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dayz-shooter-downloader-fast-and-simple-installation-guide/"><u>DayZ Shooter Downloader: Fast and Simple Installation Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-fixes-for-when-your-logitech-mouses-scroll-wheel-stops-working/"><u>Effective Fixes for When Your Logitech Mouse's Scroll Wheel Stops Working</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-rogue-company-game-crash-issues-on-windows-computers/"><u>Fixing the Rogue Company Game Crash Issues on Windows Computers</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-infinix-note-30-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Infinix Note 30 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-over-youtube-top-proven-steps-for-prominence-for-2024/"><u>Reigning Over YouTube Top Proven Steps for Prominence for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-get-your-iphone-detected-by-itunes-in-windows-11/"><u>Resolved: How to Get Your iPhone Detected by iTunes in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-reduced-frame-rates-in-farming-simulator-22-on-pc/"><u>Resolved: Reduced Frame Rates in Farming Simulator 22 on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-continuous-freezing-and-crashing-problems-with-the-world-of-tanks-blitz-app/"><u>Resolving Continuous Freezing and Crashing Problems with the World of Tanks Blitz App</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-must-close-due-to-an-error-in-geforce-experience-for-smooth-gaming/"><u>Resolving the 'Must Close Due to an Error' In GeForce Experience for Smooth Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-mysterious-black-display-problems-with-zoom-on-your-computer-the-2024-how-to-manual/"><u>Resolving the Mysterious Black Display Problems with Zoom on Your Computer - The 2024 How-To Manual</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-geforce-setup-issues-fixing-closure-errors-effectively/"><u>Troubleshooting GeForce Setup Issues - Fixing Closure Errors Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/warzone-fix-boosting-your-pc-gameplay-and-avoiding-crashes-in-2eryears-tech-guide/"><u>Warzone Fix: Boosting Your PC Gameplay & Avoiding Crashes in 2erYear's Tech Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-vivo-y100i-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Vivo Y100i? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Solving Kodi Network Errors: Failed Directory Access"
-date: 2024-09-21T22:42:58.507Z
-updated: 2024-09-28T05:08:22.781Z
+date: 2024-10-13T19:05:32.659Z
+updated: 2024-10-20T18:19:54.885Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 2. **[Update your network adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Adjust your proxy settings
 
  In most cases, Error 130 happens when your browser fails to connect to the internet because of improper proxy configuration. To fix it, follow the instructions below:
@@ -39,9 +46,23 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-358.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**Connections tab** , then**LAN settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-360.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** If any items on this window are checked, uncheck them. Then, click**OK** .
 
@@ -83,40 +104,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-364.png)
 
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall Steam
 
@@ -125,6 +119,13 @@ OR
 **1)** Right-click the Steam icon and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
@@ -138,23 +139,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
@@ -165,10 +152,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **8)[Download](https://store.steampowered.com/about/)**  Steam.
@@ -178,6 +165,13 @@ OR
 **10)** Right-click the **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
@@ -209,21 +203,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-enlightenment-streams-foremost-ed-resources-online/"><u>[New] 2024 Approved Enlightenment Streams Foremost Ed Resources Online</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-essential-insights-on-recording-google-video-conferences/"><u>[New] Essential Insights on Recording Google Video Conferences</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-dissecting-youtubes-selection-of-trending-video-responses/"><u>2024 Approved Dissecting YouTube's Selection of Trending Video Responses</u></a></li>
-<li><a href="https://program-issues.techidaily.com/call-of-duty-vanguard-freezing-quick-tips-to-smooth-your-gaming-experience/"><u>Call of Duty: Vanguard Freezing - Quick Tips to Smooth Your Gaming Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cod-modern-warfare-troubleshooting-addressing-constant-game-crashes/"><u>Cod: Modern Warfare Troubleshooting - Addressing Constant Game Crashes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/direct-paths-to-watching-spider-man-no-way-home-legal-streaming-options/"><u>Direct Paths to Watching 'Spider-Man: No Way Home': Legal Streaming Options</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-honor-90-lite-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Honor 90 Lite.</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Vivo Y100i? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-capturing-the-essence-cinematic-techniques-at-their-best/"><u>In 2024, Capturing the Essence Cinematic Techniques at Their Best</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-top-6-best-capture-cards-for-nintendo-switch-you-can-find/"><u>In 2024, Top 6 Best Capture Cards for Nintendo Switch You Can Find</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-freezes-the-solution-to-cyberpunk-nk-2077-stuttering-is-here/"><u>No More Freezes - The Solution to Cyberpunk Nk 2077 Stuttering Is Here</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-troubles-heres-how-to-fix-subnautica-below-zero-constant-crashes/"><u>PC Troubles? Here's How to Fix Subnautica: Below Zero Constant Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolve-steams-continuous-crashes-with-these-simple-remedies/"><u>Resolve Steam's Continuous Crashes with These Simple Remedies!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-pc-lag-issues-in-outriders-ultimate-guide/"><u>Solving PC Lag Issues in Outriders: Ultimate Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-the-notorious-cyberpunk-2077-freezing-problems/"><u>Troubleshooting Guide: Fixing the Notorious Cyberpunk 2077 Freezing Problems</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unlocking-the-ultimate-gaming-experience-an-in-depth-look-at-ibuypower-pcs-for-enthusiasts/"><u>Unlocking the Ultimate Gaming Experience: An In-Depth Look at IBUYpower PCs for Enthusiasts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-noise-free-videography-utilizing-free-tools-or-purchasing/"><u>[New] In 2024, Noise-Free Videography Utilizing Free Tools or Purchasing</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-exporting-mp3-files-from-watched-facebook-vids/"><u>[Updated] Exporting MP3 Files From Watched Facebook Vids</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-full-spectrum-assessment-dji-phantom-4-unveiled/"><u>[Updated] Full Spectrum Assessment DJI Phantom 4 Unveiled</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-streamline-your-360-videos-for-youtube-with-easy-upload-tricks/"><u>[Updated] Streamline Your 360 Videos for YouTube with Easy Upload Tricks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-essential-manual-to-creating-youtube-playlists/"><u>[Updated] The Essential Manual to Creating YouTube Playlists</u></a></li>
+<li><a href="https://program-issues.techidaily.com/black-ops-cold-war-game-patch-for-ui-problem-27711-correction/"><u>Black Ops: Cold War Game Patch for UI Problem 27711 Correction</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-game-crashes-a-step-by-step-guide-for-rainbow-six-extraction-players/"><u>Diagnosing & Repairing Game Crashes: A Step-by-Step Guide for Rainbow Six Extraction Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dive-into-free-rainbow-six-siege-action-the-ultimate-game-for-enthusiasts/"><u>Dive Into Free Rainbow Six Siege Action - The Ultimate Game for Enthusiasts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-launch-hurdle-in-monster-hunter-stories-2-wings-of-ruin-a-step-by-step-guide-to-successful-game-setup/"><u>Fixing the Launch Hurdle in Monster Hunter Stories 2: Wings of Ruin - A Step-by-Step Guide to Successful Game Setup</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-xiaomi-14-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Xiaomi 14 Phone Network-Ready</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-challenges-of-biomutant-on-your-pc-expert-solutions-and-tips-freshly-updated-in-202n4/"><u>Mastering the Challenges of Biomutant on Your PC - Expert Solutions & Tips (Freshly Updated in 202N4)</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/premier-android-vocal-mixer-app-for-2024/"><u>Premier Android Vocal Mixer App for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/thrilling-overwatch-analysis-engaging-multiplayer-action/"><u>Thrilling Overwatch Analysis: Engaging Multiplayer Action</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-fixing-dark-souls-3-unexpected-shutdowns/"><u>Troubleshooting and Fixing Dark Souls 3 Unexpected Shutdowns</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-limiting-your-network-is-a-smart-security-move/"><u>Why Limiting Your Network Is a Smart Security Move</u></a></li>
 </ul></div>
 

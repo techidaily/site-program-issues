@@ -1,7 +1,7 @@
 ---
 title: How to Repair a Non-Functional Intel System Assist Application
-date: 2024-10-07T17:38:23.967Z
-updated: 2024-10-08T16:16:43.186Z
+date: 2024-10-18T16:16:03.799Z
+updated: 2024-10-20T16:01:14.557Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/e2b01a1128735e3ec5310f2cbee0a0035159bd501
 10. **[Run Program Compatibility Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 11. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics drivers
 
  Graphics card manufacturers like Nvidia, AMD and Intel constantly release new graphics drivers to fix bugs and improve the gaming performance and experience. If the graphics driver on your PC is outdated or corrupted, you may not be able to enjoy the optimal gaming experience, and sometimes you may run into the Control crash issue.
@@ -50,12 +57,26 @@ thumbnail: https://thmb.techidaily.com/e2b01a1128735e3ec5310f2cbee0a0035159bd501
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. You’ll need the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) to do this and you’ll be prompted to upgrade.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
  (Alternatively, if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Stop overclocking
 
@@ -64,10 +85,10 @@ thumbnail: https://thmb.techidaily.com/e2b01a1128735e3ec5310f2cbee0a0035159bd501
  Some players reported that Control may crash when they’re using MSI Afterburner or Zotac Firestorm. So if you’ve enabled MSI Afterburner or Zotac Firestorm, try disabling them to see if this issue persists. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Use a reduced settings profile for graphics-related features
@@ -88,6 +109,13 @@ Here are the system requirements for Control:
 
  Restart the game to see if this fix works, if not, try the next fix below to modify your graphics card settings.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Modify your graphics card settings
 
  If this error message reappears after you lower the in-game graphics settings, try modifying your graphics card settings to see if you can fix this issue. Here is how to do it:
@@ -104,6 +132,13 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View the Control Panel by **Large icons** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
@@ -117,15 +152,15 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
@@ -139,41 +174,14 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select Intel Graphics Settings to open it.  
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click 3D to open the 3D settings.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click Scan to add the game to the application list.  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
@@ -192,6 +200,13 @@ Here are the system requirements for Control:
 4. Launch Control again.
 
  See if the game will crash or not. Normally this issue should be resolved. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Perform a Windows Update
 
@@ -214,13 +229,6 @@ Here are the system requirements for Control:
 
  After installing Microsoft Visual C++ 2013 and Microsoft .NET Framework, you need to restart Windows. Then launch Control to see if this issue persists. If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Install the latest Control patch
 
  Remedy Entertainment (the developer of Control) releases regular game patches to fix bugs and improve gaming performance. It’s possible that an older patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -239,13 +247,6 @@ Here are the system requirements for Control:
 
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 9: Add Control as an exception to your 3rd party antivirus software
 
  This issue may also be caused by your third-party antivirus application. Since the third-party antivirus application hooks very deep into your system, it may interfere with Control.
@@ -263,13 +264,6 @@ Here are the system requirements for Control:
 2. In the Properties Window, navigate to**the Compatibility tab** , check the box next to**Run this program in compatibility mode for:** and select**Windows 7** from the drop-down list. Check the box next to**Run as an administrator** and then click**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_14-25-41.png)
 3. Double-click the shortcut of Control on your desktop to launch it. This time Control will run in the compatibility mode you set in step 2.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 See if this fix works for you. If not, try the next fix, below.
 
@@ -299,20 +293,22 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-ultimate-list-top-10-subtitle-editors-web/"><u>[New] In 2024, Ultimate List Top 10 Subtitle Editors Web</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unlock-insta-reels-potential-with-proven-tiktok-methods/"><u>2024 Approved Unlock Insta Reels' Potential with Proven TikTok Methods</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-your-youtube-vision-to-life-with-free-banner-resources/"><u>Bring Your YouTube Vision to Life with FREE Banner Resources</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-eliminating-latency-problems-in-fortnite/"><u>Effective Solutions: Eliminating Latency Problems in Fortnite</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-how-to-resolve-lack-of-audio-during-twitch-live-broadcasts/"><u>Fix: How to Resolve Lack of Audio During Twitch Live Broadcasts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/football-manager-2022-ultimate-fix-guide-for-pc-crashes-and-stability/"><u>Football Manager 2022 - Ultimate Fix Guide for PC Crashes and Stability</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/gamers-guide-to-perfect-ps4-camera-angles-and-positions/"><u>Gamer's Guide to Perfect PS4 Camera Angles and Positions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-eliminate-screen-retention-problems-for-any-display-device/"><u>How to Eliminate Screen Retention Problems for Any Display Device</u></a></li>
-<li><a href="https://program-issues.techidaily.com/real-time-update-on-xbox-live-is-there-a-downtime-issue/"><u>Real-Time Update on Xbox Live - Is There a Downtime Issue?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/resolving-limited-usb-controller-space-on-pcs/"><u>Resolving Limited USB Controller Space on PCs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-dilemma-tips-for-troubleshooting-superheroes-in-your-game-pc-edition/"><u>Solving the Dilemma: Tips for Troubleshooting Superheroes in Your Game - PC Edition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stability-enhancement-tips-preventing-repeated-crashes-in-mystic-sphere-vii-when-playing-on-pc/"><u>Stability Enhancement Tips: Preventing Repeated Crashes in 'Mystic Sphere VII' When Playing on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-playing-avatar-frontiers-of-pandora/"><u>Troubleshooting Steps for Playing Avatar - Frontiers of Pandora</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-iphone-14-pro-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From iPhone 14 Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unveiling-superior-viewing-with-a-closer-examination-of-p2715q-for-2024/"><u>Unveiling Superior Viewing with a Closer Examination of P2715Q for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-adding-value-to-visuals-implementing-watermarks-in-instagram-for-2024/"><u>[New] Adding Value to Visuals Implementing Watermarks in Instagram for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-how-to-fix-minecraft-not-loading/"><u>[Solved] How to Fix Minecraft Not Loading</u></a></li>
+<li><a href="https://program-issues.techidaily.com/a-step-by-step-guide-resolving-gtfo-related-errors/"><u>A Step-by-Step Guide: Resolving GTFO Related Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dying-light-lag-problems-here-are-the-fixes-to-optimize-your-gaming-experience/"><u>Dying Light Lag Problems? Here Are the Fixes to Optimize Your Gaming Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expert-guide-to-converting-xmlssattml-into-srt/"><u>Expert Guide to Converting XML/SSA/TTML Into SRT</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-high-disk-and-cpu-load-from-wsappx-a-step-by-step-guide/"><u>Fixing High Disk & CPU Load From WSAPPX: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/grab-your-favorite-facebook-videos-today/"><u>Grab Your Favorite Facebook Videos Today</u></a></li>
+<li><a href="https://driver-install.techidaily.com/harmonizing-hp-and-win11-the-latest-driver-release/"><u>Harmonizing HP and Win11: The Latest Driver Release</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-y78-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Vivo Y78 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-tecno-phantom-v-flip-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Tecno Phantom V Flip Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-black-desert-online-from-crashing-on-windows-1087-solved/"><u>How To Stop Black Desert Online From Crashing On Windows 10/8/7 (Solved)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-interruptions-master-the-art-of-preventing-crashes-in-diablo-immortal-pc/"><u>Say Goodbye to Interruptions: Master the Art of Preventing Crashes in Diablo Immortal (PC)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/seamlessly-stream-and-save-youtube-lives-from-every-device-for-2024/"><u>Seamlessly Stream and Save YouTube Lives From Every Device for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-honor-90-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/transform-your-instagram-experience-with-obs-livestreaming-techniques-for-2024/"><u>Transform Your Instagram Experience with OBS Livestreaming Techniques for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-frame-rate-drops-in-call-of-duty-modern-warfare-3-202-a-comprehensive-guide/"><u>Troubleshooting Frame Rate Drops in Call of Duty: Modern Warfare 3 (202^) - A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-the-postponement-unraveling-death-stranding-launch-issues/"><u>Understanding the Postponement: Unraveling Death Stranding Launch Issues</u></a></li>
 </ul></div>
 

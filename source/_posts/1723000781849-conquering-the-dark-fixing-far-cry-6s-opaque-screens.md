@@ -1,7 +1,7 @@
 ---
 title: "Conquering the Dark: Fixing Far Cry 6'S Opaque Screens"
-date: 2024-08-28T06:38:57.217Z
-updated: 2024-08-29T06:38:57.217Z
+date: 2024-10-13T18:06:49.909Z
+updated: 2024-10-20T16:05:41.067Z
 tags:
   - win11
   - win10
@@ -44,8 +44,12 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 | **Video Card**   | NVIDIA GeForce GTX 1070 or AMD RX Vega 56 (or better)                   |
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  There’re 6 fixes that have helped many gamers solve their problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -64,22 +68,28 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 1. Right-click on the Uplay icon and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uplay-1.jpg)
 2. Choose the**Compatibility** tab.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 3. Click**Change settings for all users** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uplay1.jpg)
 4. Under Settings, check**Run this program as an administrator** . Click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2019/09/uplay2.jpg)
-5. Click**OK** then run Uplay and the game to check.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/uplay2.jpg)
+5. Click**OK** then run Uplay and the game to check.
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Verify game files
 
@@ -89,34 +99,19 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 2. Click**Games** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/u.jpg)
 3. Right-click Far Cry 5 or click the little arrow button and click**Verify files** .  
+
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/verify.jpg)
 4. Wait for Uplay to verify game files. Run Far Cry 5 to check.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Install the latest patch
 
  To fix some bugs and improve the game experience, Ubisoft (the developer of Far Cry 5) keeps releasing patches. So you should check if there is any update in Far Cry 5\. If yes, you can install the latest patch to **keep your game up to date** .
@@ -125,9 +120,6 @@ Key features:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your driver
 
  It is very important to update your graphics card drivers. Windows 10 doesn’t always give you the latest version. But with outdated or wrong drivers, the game may not run smoothly and stuck on the loading scree. So it’s really important to keep your drivers updating to get better gaming experience.
@@ -156,9 +148,14 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will solve the problem.
@@ -177,18 +174,31 @@ OR
 2. Click **Video** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4069c1c77c8.jpg)
 3. Click the **Monitor** tab, and set **Window Mode to Windowed Mode** , and adjust the **Display Resolution** to the display resolution of your computer display, or lower than that.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4069fca7979.jpg)
 4. Click the **Quality** tab, and adjust the available settings to **Low** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b406d6fb59e8.jpg)
 5. Click the **Advanced** **Settings** tab, and **turn off V-Sync** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b406db724ad4.jpg)
 6. Save the changes, restart your computer and open Far Cry 5 again to see if it fixes your issue.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Stop overclocking
 
  If you’re overclocking your CPU or GPU, you need to stop doing this for a shot. Overclocking means setting your CPU and memory to run at speeds higher than their official speed grade. Almost all processors ship with a speed rating. However, this may cause your games stuck on loading or crashing, so you should **set your CPU clock speed rate back to default** to see if this could help.
@@ -205,8 +215,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -214,4 +222,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/2024-dvd8/"><u>2024年の最強! DVD暗号化を自由にして楽しむためのフリーソフトベスト8</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beyond-light-crashing-issues-resolved-improved-game-stability-on-pc/"><u>Beyond Light Crashing Issues Resolved - Improved Game Stability on PC</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/budget-umbrella-lights-review-studiokit-ez/"><u>Budget Umbrella Lights Review: StudioKit EZ</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-flawless-subtitles-with-precision-and-tips-for-2024/"><u>Crafting Flawless Subtitles with Precision and Tips for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/efficiently-transmit-via-obs-on-fb-live/"><u>Efficiently Transmit via OBS on FB Live</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-sony-xperia-5-stylish-slimmer-and-costly-features-unveiled/"><u>Evaluating the Sony Xperia 5: Stylish, Slimmer, and Costly Features Unveiled</u></a></li>
+<li><a href="https://program-issues.techidaily.com/four-simple-solutions-for-overcoming-the-warzone-directx-error/"><u>Four Simple Solutions for Overcoming the 'Warzone DirectX Error'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-wolcen-lords-of-mayhem-game-crashing-on-windows-pcs/"><u>How to Fix 'Wolcen: Lords of Mayhem' Game Crashing on Windows PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improving-performance-faster-ubisoft-connect-download-solutions/"><u>Improving Performance: Faster Ubisoft Connect Download Solutions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-morse-input-for-laptops-precise-closure-techniques-needed-to-prevent-screen-or-hinge-damage-no-party-favors-included/"><u>Innovative Morse Input for Laptops: Precise Closure Techniques Needed to Prevent Screen or Hinge Damage - No Party Favors Included!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-hurdle-of-a-non-existent-start-button-in-fortnite/"><u>Overcoming the Hurdle of a Non-Existent Start Button in Fortnite</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/picture-perfect-with-soundtracked-clips-for-2024/"><u>Picture Perfect with Soundtracked Clips for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-a59-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo A59 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/street-fighter-6-performance-tweaks-eliminate-lag-and-reduce-ping-on-pc/"><u>Street Fighter 6 Performance Tweaks: Eliminate Lag and Reduce Ping on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-solution-for-pc-users-facing-recurrent-crashes-in-the-thunder-tier-one-game/"><u>The Ultimate Solution for PC Users Facing Recurrent Crashes in the Thunder Tier One Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-stabilizing-your-blender-program-on-desktop/"><u>Troubleshooting Guide: Stabilizing Your Blender Program on Desktop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-fix-the-assassins-creed-odyssey-keeps-crashing-issue-on-pc/"><u>Troubleshooting Steps: Fix the 'Assassin's Creed Odyssey Keeps Crashing' Issue on PC</u></a></li>
+<li><a href="https://fox-info.techidaily.com/uncovering-quantum-hdrs-core-principles-for-2024/"><u>Uncovering Quantum HDR's Core Principles for 2024</u></a></li>
+</ul></div>
 

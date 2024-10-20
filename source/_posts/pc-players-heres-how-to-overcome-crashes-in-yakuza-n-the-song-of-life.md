@@ -1,7 +1,7 @@
 ---
 title: "PC Players! Here's How to Overcome Crashes in Yakuza N: The Song of Life"
-date: 2024-08-28T06:39:38.104Z
-updated: 2024-08-29T06:39:38.104Z
+date: 2024-10-19T16:59:05.456Z
+updated: 2024-10-20T17:35:05.687Z
 tags:
   - win11
   - win10
@@ -55,8 +55,23 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 2. Right-click on the Sea of Thieves icon and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/properties.jpg)
 3. Under the **Compatibility** tab, tick **Run this program as an administrator** . Then click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/ad.jpg)
 4. Run the game to check whether the problem is solved or not.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Do an App reset
 
@@ -70,9 +85,14 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 5. Press the**Windows key + I** together and click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/app.jpg)
 6. Find and click **Sea of Thieves** on the list.
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 7. Click **Advanced Options** and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/reset.jpg)
 8. Run Sea of Thieves to check.
@@ -87,16 +107,35 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 2. Open the**Set time automatically** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/time.jpg)
 3. Check your time zone and date.
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Click **Region** and check your region is corrected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/region-1.jpg)
 5. Reboot your PC
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Run Sea of Thieves to check.
 
 **Note** : If your language and region is set to **English (United States)** already please change it to **English (United Kingdom)** instead.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Run Powershell
 
  Besides these basic fixes, you can use Powershell to enforce the application to launch.
@@ -105,15 +144,17 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 2. Type “powershell” and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/powershell.jpg)
 3. Copy and paste the following into the Powershell window and press Enter.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  **Get-AppXPackage | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($\_.InstallLocation)\\AppXManifest.xml”}**
 4. Run Sea of Thieves to check.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Fix 5: Update your drivers and programs
 
  The outdated or wrong drivers for your graphics card, network card, sound card, etc. may cause problems. Updating your drivers is a good option to fix errors. What else, this method can also provide you better gaming experience.
@@ -142,14 +183,8 @@ OR
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your PC and run Sea of Thieves to check.
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 
 ### Fix 6: Disable incompatible apps
 
@@ -157,9 +192,6 @@ OR
 
 **IMPORTANT** : Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ### Fix 7: Reinstall your game
 
  If the above fixes don’t work, reinstall your game may be the only choice. The clean uninstall can delete every file, then redownload and install it from Microsoft store. This can make sure there’s no corruption or wrongly installed files which should make the game work again.
@@ -176,8 +208,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +215,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-apex-level-clarity-convert-high-res-videos/"><u>[New] 2024 Approved Apex-Level Clarity Convert High-Res Videos</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-amplify-your-channels-evading-synthetic-watchers/"><u>[New] Amplify Your Channels Evading Synthetic Watchers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-seamless-conversion-from-iphonepc-explore-the-8-best-apps/"><u>2024 Approved Seamless Conversion From iPhone/PC Explore the #8 Best Apps</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/boost-your-pcs-launch-velocity-solving-the-sluggish-startup-dilemma-in-windows-11/"><u>Boost Your PC's Launch Velocity: Solving the Sluggish Startup Dilemma in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-vanguard-pc-game-crash-fixes-top-solutions/"><u>CoD Vanguard PC Game Crash Fixes : Top Solutions</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-guide-updating-and-downloading-the-latest-amd-gpu-drivers/"><u>Effortless Guide: Updating and Downloading the Latest AMD GPU Drivers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/illuminating-solutions-how-to-get-unstuck-from-nba-2k21s-persistent-black-screen-issue/"><u>Illuminating Solutions: How to Get Unstuck From NBA 2K21’s Persistent Black Screen Issue</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/mastering-screen-recordings-the-recmeister-way/"><u>Mastering Screen Recordings The Recmeister Way</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-ultimate-troubleshooting-guide-resolving-the-frontier-game-crashes-on-pc/"><u>Solved: Ultimate Troubleshooting Guide - Resolving the 'Frontier' Game Crashes on PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-selecting-the-right-smartwatch-a-pre-purchase-checklist/"><u>The Ultimate Guide to Selecting the Right Smartwatch: A Pre-Purchase Checklist</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-resolved-lost-connection-with-battlenet-gaming-servers/"><u>Troubleshooting: Resolved - Lost Connection with Battle.net Gaming Servers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008025051-windows-11-users-rejoice-civ-6-launch-issues-resolved/"><u>Windows 11 Users Rejoice: Civ 6 Launch Issues Resolved!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/yakuza-3-pc-version-how-to-stop-unexpected-exits-and-keep-gaming-smoothly/"><u>Yakuza 3 PC Version: How to Stop Unexpected Exits and Keep Gaming Smoothly</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Fixing PC Issues for 'Star Wars Jedi: Fallen Order'"
-date: 2024-10-07T19:23:33.169Z
-updated: 2024-10-08T21:43:46.452Z
+date: 2024-10-14T16:58:58.869Z
+updated: 2024-10-20T18:58:48.490Z
 tags:
   - win11
   - win10
@@ -39,23 +39,23 @@ In some cases, the culprit is NVIDA Streamer service, especially when it’s off
 In some cases, GeForce Experience install programs that are not graphics driver on your PC. So you should reinstall NVIDIA display driver all over again. You can go to NVIDIA support website to search for and download the latest version of display driver available. Or you can update your video card driver via Device Manager or Windows Update. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee): 1)[**Download**](https://tools.techidaily.com/drivereasy/download/)and install Driver Easy. 2) Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9a8fa563d.png)3) Click the**Update**button next to the flagged NVIDIA device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9b0348294.jpg)4) Restart your PC for the change to take effect. See if Shadowplay works well.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3: Upgrade GeForce Experience
@@ -64,18 +64,18 @@ Beta version of GeForce Experience could get you faulty driver or other faulty N
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c23613857ca.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2) Right-click NVIDIA GeForce Experience and click**Uninstall**. Follow the on-screen instructions to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c236ca3feba.jpg)
 
 3) Go to NVIDIA support to download the latest version of GeForce Experience and install as instructed. 4) See if your Shadowplay not recording problem is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4: Enable desktop capture
 
@@ -84,10 +84,10 @@ If desktop capture is disabled, Shadowplay won’t detect if you play the game f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c238e4810b3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) See if your Shadowplay can record now.
@@ -109,18 +109,20 @@ If desktop capture is disabled, Shadowplay won’t detect if you play the game f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-elevate-your-online-presence-making-videos-on-mobile/"><u>[Updated] Elevate Your Online Presence Making Videos on Mobile</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dayz-first-person-shooter-instant-and-simple-fixes-for-game-crashes/"><u>DayZ First-Person Shooter: Instant and Simple Fixes for Game Crashes</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-xiaomi-redmi-a2plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-problem-of-davinci-resolve-not-starting-on-a-windows-pc/"><u>Fixing the Problem of DaVinci Resolve Not Starting on a Windows PC</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-cult-of-the-lamb-from-crashing-your-gaming-session-on-pc/"><u>How to Stop Cult of the Lamb From Crashing Your Gaming Session on PC</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-video-editing-mastery-using-lut-filters-in-obs-studio/"><u>In 2024, Unlock Video Editing Mastery Using LUT Filters in OBS Studio</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/master-the-view-ranking-and-review-of-top-11-bridge-cameras-for-2024/"><u>Master the View Ranking & Review of Top 11 Bridge Cameras for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/navigating-and-repairing-the-stubborn-issue-of-exam-launches-not-working-insights-users/"><u>Navigating and Repairing the Stubborn Issue of Exam Launches Not Working - Insights Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/revive-your-steam-vr-experience-with-these-6-detection-fixes/"><u>Revive Your Steam VR Experience with These 6 Detection Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-guidelines-for-red-dead-redemption-2s-errgfxstate-graphic-issue/"><u>Solution Guidelines for Red Dead Redemption 2'S ERR_GFX_STATE Graphic Issue</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlined-screen-interaction-proficient-use-of-windows-narrator-shortcuts/"><u>Streamlined Screen Interaction: Proficient Use of Windows Narrator Shortcuts</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-ultimate-guide-to-unlocking-your-apple-iphone-7-on-metropcs-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Your Apple iPhone 7 on MetroPCS</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-a-compreenasional-approach-to-earning-through-vimeos-revenue-systems/"><u>[New] 2024 Approved A Compreenasional Approach to Earning Through Vimeo's Revenue Systems</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-begin-webcam-footage-recording-with-vlc-for-2024/"><u>[New] Begin Webcam Footage Recording with VLC for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-a-step-by-step-guide-to-dominating-the-youtube-viewership-game/"><u>[Updated] In 2024, A Step-by-Step Guide to Dominating the YouTube Viewership Game</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-from-bland-to-breathtaking-craft-captivating-content-on-tiktok-quickly/"><u>2024 Approved From Bland to Breathtaking Craft Captivating Content on TikTok Quickly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-cuppidate-addressing-heavy-cpu-demands-for-better-performance/"><u>Cyberpunk Cuppidate: Addressing Heavy CPU Demands for Better Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-preventing-and-resolving-crashes-in-battlefield-5-on-windows-systems/"><u>Expert Advice: Preventing and Resolving Crashes in Battlefield 5 on Windows Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-mysterious-leaf-glitch-in-apex-legends-ultimate-solutions-for-2n-22-players/"><u>Fixing the Mysterious 'Leaf' Glitch in Apex Legends: Ultimate Solutions for 2N-22 Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-solve-gtfo-crashing/"><u>How to Solve GTFO Crashing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pro-audios-essential-guide-to-top-10-free-luts/"><u>In 2024, Pro Audio's Essential Guide to Top 10 Free LUTs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-streaming-successfully-resolving-obs-screen-capture-problems/"><u>Mastering Streaming Successfully: Resolving OBS Screen Capture Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-common-update-failure-code-0xc004f050/"><u>Overcoming Common Update Failure Code 0xC004F050</u></a></li>
+<li><a href="https://win-bits.techidaily.com/planen-sie-ihre-datenwiederherstellung-mit-einem-einfachen-tutorial-zur-sicherung-von-benutzerdaten-auf-windows-1087/"><u>Planen Sie Ihre Datenwiederherstellung Mit Einem Einfachen Tutorial Zur Sicherung Von Benutzerdaten Auf Windows 10/8/7</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-corrective-measures-enable-successful-maplestory-game-boot-up/"><u>Resolved: Corrective Measures Enable Successful MapleStory Game Boot-Up</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-6-fixes-for-a-non-functioning-game-capture-microphone/"><u>Top 6 Fixes for a Non-Functioning Game Capture Microphone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-to-expect-from-apples-new-foldable-phone-insider-rumors-on-release-timeline-and-pricing/"><u>What to Expect From Apple's New Foldable Phone – Insider Rumors on Release Timeline & Pricing</u></a></li>
 </ul></div>
 

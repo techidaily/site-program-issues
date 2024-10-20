@@ -1,7 +1,7 @@
 ---
 title: Dealing with Red Dead Redemption 2 Not Starting? Here Are Some Proven Tips
-date: 2024-09-01T10:25:28.758Z
-updated: 2024-09-02T10:25:28.758Z
+date: 2024-10-19T18:28:04.460Z
+updated: 2024-10-20T16:46:59.032Z
 tags:
   - win11
   - win10
@@ -37,20 +37,35 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 1. Go to the installation folder of Battlefield 5, which is usually located in_C:/Program Files (x86)/Origin Games/Battlefield V_ . Then, right-click the**bfv.exe file** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/10-2.jpg)
 2. Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-10.jpg)
 3. Right-click your Origin client and select**Properties** .
 4. Navigate to the**Compatibility** tab. Then, check**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Relaunch BFV to check if the not launching problem goes away. If not, take a look at more fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2 – Switch to DirectX 11
 
  Many players report Battlefield 5 won’t launch when DX12 is enabled. To see if that’s the case, you can run the game on DirectX 11 via the following steps.
@@ -59,24 +74,30 @@ No advertising on the website.
 2. Click**Documents** on the left pane. Then, double-click the**Battlefield V** folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-4.jpg)
 3. Open the**settings** folder.
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Right-click the**PROSAVE\_profile** file and click**Open with** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-7.jpg)
 5. Select**Notepad** or other similar editing tools.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 6. Press**Ctrl** and**F** on your keyboard to open the search box. Then, type**Dx12Enabled** and press**Enter** .
 7. Once you’ve located Dx12Enabled, change the value from**1** to**0** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Is the game working normally now? Or is it still unplayable? If the latter, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3 – Update your graphics driver
 
  The Battlefield 5 not launching issue may occur if you’re using a faulty graphics driver or it’s out-of-date. We’d recommend you check for the driver update regularly, which can not only prevent gaming problems but also help you enjoy a smooth playful experience.
@@ -97,9 +118,6 @@ To update your graphics driver, here are two safe ways for you:
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -113,19 +131,17 @@ To update your graphics driver, here are two safe ways for you:
 2. Click**Origin** on the top pane and click**Application Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-2.jpg)
 3. Navigate to the**Origin In-Game** tab, and toggle off**Enable Origin In-Game** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Relaunch the game to test this method. If it doesn’t help, continue to the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5 – Disable cloud storage
 
  If your save file is corrupted, Battlefield 5 won’t launch neither. And a simple workaround towards this is to disable the cloud storage in Origin.
@@ -150,6 +166,19 @@ To update your graphics driver, here are two safe ways for you:
 3. Right-click the**Battlefield 5** tile from the list, and click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After the process finishes, you can reinstall the game from Origin again, and it should be working the right way as expected.
 
 ---
@@ -166,8 +195,6 @@ To update your graphics driver, here are two safe ways for you:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +202,22 @@ To update your graphics driver, here are two safe ways for you:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-art-of-youtube-shorts-filming-and-editing-made-simple-for-2024/"><u>[Updated] The Art of YouTube Shorts Filming and Editing Made Simple for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-core-of-m1-apples-innovation/"><u>2024 Approved Exploring the Core of M1 Apple's Innovation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fix-and-update-secure-your-wi-fi-with-the-latest-wireless-driver-software/"><u>Fix & Update: Secure Your Wi-Fi with the Latest Wireless Driver Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-pc-players-overcoming-launch-problems-with-hitman-3/"><u>Fixes for PC Players: Overcoming Launch Problems with Hitman 3</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-nokia-c300-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Nokia C300</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-nokia-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Nokia Phones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/iphone-legacy-celebrate-a-decade-with-the-macxdvd-poll-and-claim-your-free-itunes-reward/"><u>IPhone Legacy: Celebrate a Decade with the MacXDVD Poll and Claim Your Free iTunes Reward!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/league-of-legends-connectivity-bug-solved-in-new-patch-release-get-the-details/"><u>League of Legends Connectivity Bug Solved in New Patch Release – Get the Details!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gaming-saved-solutions-to-avoid-final-fantasy-xv-pc-malfunctions-and-closes-unexpectedly/"><u>PC Gaming Saved: Solutions to Avoid Final Fantasy XV PC Malfunctions and Closes Unexpectedly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013219914-pc-version-of-arcadegeddon-no-more-frequent-crashes/"><u>PC Version of Arcadegeddon - No More Frequent Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-for-unfreezing-issues-in-path-of-exile/"><u>Quick Solutions for Unfreezing Issues in Path of Exile</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/real-time-streaming-on-facebook-simplified-2023/"><u>Real-Time Streaming on Facebook, Simplified 2023</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-solutions-for-when-your-bluetooth-keyboard-fails-in-windows/"><u>Step-by-Step Solutions for When Your Bluetooth Keyboard Fails in Windows</u></a></li>
+<li><a href="https://solve-news.techidaily.com/transforme-gratuitement-h265-hevc-vers-h264-sur-pc-and-mac-guides-complets-pour-windows-1011/"><u>Transformé Gratuitement H.265 HEVC Vers H.264 Sur PC & MAC : Guides Complets Pour Windows 10/11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlock-the-secrets-eliminate-vrchat-loading-difficulties-with-these-easy-steps/"><u>Unlock the Secrets: Eliminate VRChat Loading Difficulties with These Easy Steps</u></a></li>
+</ul></div>
 

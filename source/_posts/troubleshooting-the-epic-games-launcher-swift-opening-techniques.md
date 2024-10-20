@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the Epic Games Launcher - Swift Opening Techniques
-date: 2024-10-10T01:28:17.509Z
-updated: 2024-10-14T16:39:20.111Z
+date: 2024-10-18T17:34:25.097Z
+updated: 2024-10-20T16:43:37.145Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: End the Epic Games Launcher process in Task Manager
 
  Make sure the Epic Games launcher is not running in the background. If it is, when you double-click its shortcut on your desktop, it won’t launch. So you need to end the processes related to Epic Games Launcher in Task Manager first. Here’s how to do it:
@@ -45,16 +52,15 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/keyboard.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In Task Manager, select**EpicGamesLauncher** and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1047-1024x543.png)
+
+3) Run Epic Games Launcher to see if you’ve resolved this issue.
+
+ If Epic Games Launcher still won’t launcher, try the next fix, below.
+
+---
 
 <!-- affiliate ads begin -->
 <a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
@@ -62,12 +68,6 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 </a>
 <img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-3) Run Epic Games Launcher to see if you’ve resolved this issue.
-
- If Epic Games Launcher still won’t launcher, try the next fix, below.
-
----
 
 ### Fix 2: Launch Epic Games Launcher from Start Menu
 
@@ -80,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
  See if you can launch the program. If so, you should delete its shortcut on your desktop and create a new one. If it still won’t launch, don’t worry. Try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Adjust your display settings
 
@@ -111,6 +118,13 @@ thumbnail: https://thmb.techidaily.com/576f1d2eb928b7a827d1ec734c216aef4f0582c10
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1071.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
 
  You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade. Don’t worry; **it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund** , no questions asked.
@@ -132,6 +146,13 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-496.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Under the**Shortcut** tab, locate the**Target:** field. Add_\-OpenGL_ to the end of the path filed. The contents of the Target field should look like the following:
 
 "C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe" -OpenGL
@@ -140,25 +161,11 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-497.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Run Epic Games Launcher again to see if this fix works.
 
  If it won’t open, try the next fix to disable your antivirus software temporarily.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Add Epic Games Launcher as an exception to your third-party antivirus application
 
@@ -172,13 +179,6 @@ _You can do it for free if you like, but it’s partly manual._
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Repair Epic Games Launcher
 
  Try repairing the Epic Games Launcher in the Control Panel to see if this fix works for you. Here’s how to do it:
@@ -190,13 +190,6 @@ _You can do it for free if you like, but it’s partly manual._
  2)**Right-click** on**Epic Games Launcher** and select**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1069.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Launch Epic Games Launcher again when Windows completes the repair process.
 
@@ -213,15 +206,22 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2)**Right-click** on**Epic Games Launcher** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1070.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Restart your computer.
 
@@ -251,24 +251,16 @@ Normally, after you reinstall Epic Games Launcher, it should open.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-voices-on-the-page-techniques-for-effective-scriptwriting-for-2024/"><u>[New] Voices on the Page Techniques for Effective Scriptwriting for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/2024-ultimate-guide-resolving-grounded-game-crashes-on-pc/"><u>2024 Ultimate Guide: Resolving 'Grounded' Game Crashes on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/connectivity-problems-in-minecraft-effective-ways-to-fix-them/"><u>Connectivity Problems in Minecraft - Effective Ways to Fix Them</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-non-launchable-steam-titles-on-windows-10-pcs/"><u>Diagnosing and Repairing Non-Launchable Steam Titles on Windows 10 PCs</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-huawei-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Huawei Phones with/without a PC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-redmi-a2plus-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi Redmi A2+ by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-xr-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone XR without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-12-pro-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 12 Pro Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Pro Max?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/innovative-techniques-improve-your-hp-laptop-screen-recordings/"><u>Innovative Techniques Improve Your HP Laptop Screen Recordings</u></a></li>
-<li><a href="https://program-issues.techidaily.com/logitech-g403-keyboard-and-gamepad-driver-setup-guide-windows/"><u>Logitech G403 Keyboard & Gamepad Driver Setup Guide (Windows)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/note-any-notable-differences-or-similarities-between-them/"><u>Note Any Notable Differences or Similarities Between Them.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-step-by-step-guide-on-updating-your-minecraft-graphics-drivers/"><u>Resolved: Step-by-Step Guide on Updating Your Minecraft Graphics Drivers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/rocket-league-freezing-issues-solve-them-with-these-expert-tips/"><u>Rocket League Freezing Issues? Solve Them with These Expert Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-playtime-ahead-solving-the-cod-modern-warfare-keeps-crashing-dilemma/"><u>Smooth Playtime Ahead! Solving the 'Cod: Modern Warfare Keeps Crashing' Dilemma</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-halo-infinite-audio-glitch-no-more-stutters/"><u>Solving the Halo Infinite Audio Glitch: No More Stutters</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-resolving-undetected-gpu-problems-with-msi-afterburner-on-new-windows-versions/"><u>Step-by-Step Fixes: Resolving Undetected GPU Problems with MSI Afterburner on New Windows Versions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-the-potential-of-messenger-independently-from-your-facebook-profile/"><u>Unlocking the Potential of Messenger Independently From Your Facebook Profile</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/windows-10-video-compression-made-easy-top-10-free-solutions-for-2024/"><u>Windows 10 Video Compression Made Easy Top 10 Free Solutions for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-stepwise-guide-to-leveraging-picture-in-picture-feature-on-microsoft-edge/"><u>[New] 2024 Approved Stepwise Guide to Leveraging Picture-in-Picture Feature on Microsoft Edge</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-apple-vs-android-the-face-id-and-galaxy-recognition-race/"><u>[Updated] Apple Vs. Android The Face ID and Galaxy Recognition Race</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-seamless-audio-switch-from-srt-to-xmlssa-guide/"><u>[Updated] Seamless Audio Switch From SRT to XML/SSA Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/correct-the-absent-or-lost-d3dx9n34dll-file-fix-it-right-now/"><u>Correct the Absent or Lost d3dx9_n34.dll File - Fix It Right Now</u></a></li>
+<li><a href="https://win-docs.techidaily.com/how-to-create-a-restore-point-on-windows-server-2012-r2/"><u>How to Create a Restore Point on Windows Server 2012 (R2)</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/leading-wd-data-duplication-applications-a-comprehensive-tutorial-for-successful-wd-ssd-imaging/"><u>Leading WD Data Duplication Applications: A Comprehensive Tutorial for Successful WD SSD Imaging</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-vivo-t2x-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Vivo T2x 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-fix-elite-dangerous-crashing-issues-on-your-computer/"><u>Troubleshooting Steps to Fix Elite Dangerous Crashing Issues on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-resolve-terraria-game-crashes-top-techniques-for-a-smooth-play-in-2/"><u>Ultimate Guide to Resolve Terraria Game Crashes - Top Techniques for a Smooth Play in 2#</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-10-tips-to-eliminate-latency-in-battlefield-5/"><u>Ultimate Guide: 10 Tips to Eliminate Latency in Battlefield 5</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unraveling-the-mystery-of-arises-unbreakable-engine-errors-in-ue4/"><u>Unraveling the Mystery of Arise’s Unbreakable Engine Errors in UE4</u></a></li>
 </ul></div>
 

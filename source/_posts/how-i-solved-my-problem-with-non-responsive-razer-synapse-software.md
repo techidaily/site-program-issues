@@ -1,7 +1,7 @@
 ---
 title: How I Solved My Problem with Non-Responsive Razer Synapse Software
-date: 2024-09-30T00:44:15.440Z
-updated: 2024-10-03T01:50:09.478Z
+date: 2024-10-13T16:32:05.614Z
+updated: 2024-10-20T18:32:01.911Z
 tags:
   - win11
   - win10
@@ -33,6 +33,19 @@ thumbnail: https://thmb.techidaily.com/cd3d45b359655445d3a3fddc84f4f42edd47a1ec8
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check if you enabled in-game overlay in Discord
 
  Before trying other fixes, open**Discord** to check if you enabled in-game overlay. Here is how to do it:
@@ -55,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/cd3d45b359655445d3a3fddc84f4f42edd47a1ec8
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
@@ -73,10 +79,10 @@ thumbnail: https://thmb.techidaily.com/cd3d45b359655445d3a3fddc84f4f42edd47a1ec8
 See if this issue reappears. If not, you have fixed this issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
@@ -85,18 +91,24 @@ See if this issue reappears. If not, you have fixed this issue.
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Check for software interruption
 
  Maybe the**Discord overlay** not working issue is also triggered by the interruption from other applications running on your PC. Try**temporarily disabling them** to see if your**Discord overlay** works or not. If you’re running**the programs that have the overlay features** , or you’re running**the programs that can access your microphone** , they may interfere with your**Discord overlay** .
 
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable hardware acceleration in Discord
 
@@ -108,30 +120,24 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run your game again to see if this issue persists. If not, you have resolved this problem!
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Discord
@@ -180,16 +186,16 @@ See if this issue reappears. If not, you have fixed this issue!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Normally, after configuring the VPN, the voice connection issues should be fixed.
 
@@ -213,19 +219,22 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-tackling-live-video-interruptions-on-social-media-fb/"><u>[New] 2024 Approved Tackling Live Video Interruptions on Social Media (FB)</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-how-to-fix-youtube-shorts-thumbnail-not-showing-problem/"><u>[New] In 2024, How to Fix YouTube Shorts Thumbnail Not Showing Problem</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-vivo-y36i-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Vivo Y36i?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elevate-your-valorant-experience-by-eliminating-stutters-and-maximizing-frame-rates/"><u>Elevate Your Valorant Experience by Eliminating Stutters and Maximizing Frame Rates</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722992772403-fast-fix-resolve-your-apps-origin-crash-problem-with-simple-steps/"><u>Fast Fix: Resolve Your App's 'Origin Crash Problem' With Simple Steps!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-honor-x7b-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Honor X7b Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-honor-90-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-how-inauthentic-affection-impacts-your-feeds-credibility/"><u>In 2024, How Inauthentic Affection Impacts Your Feed's Credibility</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-pc-performance-issues-with-detroit-become-human/"><u>Mastering PC Performance Issues with Detroit: Become Human</u></a></li>
-<li><a href="https://program-issues.techidaily.com/navigating-obstacles-in-advancing-collective-human-endeavors/"><u>Navigating Obstacles in Advancing Collective Human Endeavors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/nba-2k24-troubleshooting-guide-solving-error-code-727e66ac/"><u>NBA 2K24 Troubleshooting Guide: Solving Error Code 727E66AC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pathfinder-launch-woes-heres-how-to-get-your-wrath-of-the-righteous-game-up-and-running/"><u>Pathfinder Launch Woes? Here's How to Get Your 'Wrath of the Righteous' Game Up and Running</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/quick-money-tally-for-video-marketers-for-2024/"><u>Quick Money Tally for Video Marketers for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/seamless-system-controls-learn-how-to-use-4-techniques-for-disk-editor-on-win11/"><u>Seamless System Controls: Learn How to Use 4 Techniques for Disk Editor on Win11</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-crafting-success-in-youtubes-creator-hub/"><u>[New] 2024 Approved Crafting Success in YouTube's Creator Hub</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-fast-revenues-forecasting-toolkit-for-vids/"><u>[New] 2024 Approved Fast Revenues Forecasting Toolkit for Vids</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-online-media-crafter/"><u>[New] In 2024, Online Media Crafter</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/he-essential-guide-for-game-channels-banner-integration-for-2024/"><u>[New] The Essential Guide for Game Channels Banner Integration for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-nubia-z50s-pro-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Nubia Z50S Pro Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004229142-cant-get-utorrent-to-work-try-out-these-7-reliable-repairs/"><u>Can't Get Utorrent to Work? Try Out These 7 Reliable Repairs!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-the-call-of-duty-ww2-error-code-4128-problems/"><u>Effective Solutions for the 'Call of Duty: WW2' Error Code 4128 Problems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-overwatch-from-continuously-crashing-solutions-proven-effective/"><u>How to Stop Overwatch From Continuously Crashing – Solutions Proven Effective</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-lava-yuva-2-pro-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Lava Yuva 2 Pro Phone Pattern Lock</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maplestory-game-launch-fixed-enjoy-uninterrupted-playtime/"><u>MapleStory Game Launch Fixed - Enjoy Uninterrupted Playtime</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-diablo-iv-performance-top-7-tactics-to-fix-game-crashing-problems/"><u>Mastering Diablo IV Performance: Top 7 Tactics to Fix Game-Crashing Problems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/setting-up-your-vpn-on-windows-11-a-step-by-step-guide/"><u>Setting Up Your VPN on Windows 11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-tutorial-effortless-deletion-of-geforce-experience-software/"><u>Step-by-Step Tutorial: Effortless Deletion of GeForce Experience Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-your-consoles-audio-issues-the-ultimate-mic-fix-guide-for-2nd4/"><u>Troubleshooting Your Console's Audio Issues - The Ultimate Mic Fix Guide for 2nD4</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlocking-full-gpu-power-for-call-of-duty-warzone-on-your-pc/"><u>Unlocking Full GPU Power for Call of Duty: Warzone on Your PC</u></a></li>
+<li><a href="https://win-latest.techidaily.com/windows-tempexcelword/"><u>Windows Tempフォルダから元のExcelやWordファイルを復元する方法【データ保護チュートリアル】</u></a></li>
 </ul></div>
 

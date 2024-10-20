@@ -1,7 +1,7 @@
 ---
 title: Ultimate Troubleshooting Guide to Eliminate League of Legends' Black Screen - Tips
-date: 2024-10-12T03:49:56.578Z
-updated: 2024-10-14T23:22:54.102Z
+date: 2024-10-13T19:15:21.254Z
+updated: 2024-10-20T18:44:38.631Z
 tags:
   - win11
   - win10
@@ -42,10 +42,10 @@ thumbnail: https://thmb.techidaily.com/caa6cead2c370efcf0282829aeb71cf5fae19a07f
 8. **[Do a clean install](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Run the game as administrator
@@ -62,10 +62,10 @@ Check if you can get past the checking for updates screen.
 If the issue remains, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Scan and repair your game files
@@ -80,10 +80,10 @@ If the issue remains, try the next fix.
 3. Select the **Local files** tab then click the **Verify integrity of game files…** button.![](https://www.drivereasy.com/wp-content/uploads/2021/09/Microsoft-Flight-Simulator-Verify-integrity-of-game-files.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Steam will scan the installation and download missing files or remove outdated or corrupted files. This process may take several minutes.
@@ -97,21 +97,16 @@ If the issue remains, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/mfs-app-settings.jpg)
 3. On the page that opens, select**Repair** .  
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/repair-mfs.jpg)
 4. Windows will begin to scan and repair your game files.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. After the process is completed, relaunch the game and test if you can get past the checking for updates screen.
 
 If this method doesn’t work for you, go ahead with the next fix.
@@ -125,6 +120,19 @@ If this method doesn’t work for you, go ahead with the next fix.
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you’ve installed all the updates, restart your computer and Microsoft Flight Simulator to test if the game loads normally.
 
@@ -147,13 +155,6 @@ If this method doesn’t work for you, go ahead with the next fix.
  Once you’ve updated your network driver, restart your PC and Microsoft Flight Simulator to see if you can get past the checking for updates screen.
 
  If updating your network driver doesn’t do the trick, continue to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Move the community folder
 
@@ -191,10 +192,10 @@ on Windows 10:
 3. In the left panel, select**Windows Security** , then click**Virus & threat protection** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/virus-threat-protection.jpg)
@@ -204,6 +205,13 @@ on Windows 10:
 5. Under Exclusions, select**Add or remove exclusions** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-remove-exclusions.jpg)
 6. Click**Add an exclusion** , and then select**Microsoft Flight Simulator** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-an-exclusion.jpg)
 
@@ -217,26 +225,25 @@ on Windows 11:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Virus-and-threat-protection.jpg)
 4. Under**Virus & threat protection settings** , click**Manage settings** .  
 
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-virus-and-threat-protection-settings-manage-settings.jpg)
 5. Under**Exclusions** , click**Add or remove exclusions** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-add-or-remove-exclusions.jpg)
 6. Click**Add an exclusion** , and then select your game’s installation folder to exclude your game from Microsoft Defender Antivirus scans.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Add-an-exclusion.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Other antivirus programs
 
@@ -325,22 +332,17 @@ If this method doesn’t solve your problem, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-transform-your-images-on-android-our-picks-for-the-5-best-editors/"><u>[New] Transform Your Images on Android Our Picks for the 5 Best Editors</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-master-the-art-of-youtube-visibility-two-steps/"><u>[Updated] 2024 Approved Master the Art of YouTube Visibility (Two Steps)</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-bokeh-beauty-tips-for-engaging-instagram-stories/"><u>2024 Approved Bokeh Beauty Tips for Engaging Instagram Stories</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/7-top-budget-friendly-digital-camera-editing-tools/"><u>7 Top Budget-Friendly Digital Camera Editing Tools</u></a></li>
-<li><a href="https://program-issues.techidaily.com/alan-wake-sequel-delayed-heres-your-step-by-step-fix-guide/"><u>Alan Wake Sequel Delayed? Here's Your Step-by-Step Fix Guide!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722997393249-comprehensive-steps-to-stop-risk-of-rain-2-from-freezing-or-crashing-on-your-pc-and-console/"><u>Comprehensive Steps To Stop Risk of Rain 2 From Freezing or Crashing on Your PC & Console</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminate-pubg-gameplay-interruptions-with-these-simple-fixes/"><u>Eliminate PUBG Gameplay Interruptions with These Simple Fixes</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719581141446-experience-hindi-like-never-before-8-fantastic-mondly-reasons/"><u>Experience Hindi Like Never Before: 8 Fantastic Mondly Reasons</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-star-wars-jedi-fallen-order-installation-problems-expert-tips-and-solutions/"><u>Fix Your Star Wars Jedi: Fallen Order Installation Problems - Expert Tips and Solutions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/free-download-newest-sapphire-graphics-driver-version-compatible-with-windows-os/"><u>Free Download: Newest Sapphire Graphics Driver Version Compatible with Windows OS</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-install-updated-drivers-for-your-nvidia-gtx-1660-super-gpu-step-by-step-guide/"><u>How to Install Updated Drivers for Your Nvidia GTX 1660 Super GPU: Step-by-Step Guide</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/manipulate-your-search-and-highlight-settings-in-windows-11/"><u>Manipulate Your Search & Highlight Settings in Windows 11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/quick-guide-how-to-effortlessly-copy-your-dvds-without-losing-picture-or-sound-quality-ready-in-just-5-minutes/"><u>Quick Guide: How to Effortlessly Copy Your DVDs Without Losing Picture or Sound Quality – Ready in Just 5 Minutes!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-nwstoreexe-program-malfunction-a-comprehensive-guide/"><u>Resolving the nw_store.exe Program Malfunction: A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-for-unresponsive-gameplay-no-more-freezes-in-warframe/"><u>Solution for Unresponsive Gameplay - No More Freezes in Warframe</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-roblox-windows-errors-swift-fixes-to-get-you-back-in-the-game-updated/"><u>Troubleshooting Roblox Windows Errors: Swift Fixes to Get You Back in the Game - Updated</u></a></li>
-<li><a href="https://program-issues.techidaily.com/why-dragon-age-inquisition-wont-start-diagnosis-and-fixes/"><u>Why Dragon Age Inquisition Won't Start: Diagnosis & Fixes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-best-free-youtube-comment-finder-you-should-try-for-2024/"><u>[Updated] Best Free YouTube Comment Finder You Should Try for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-cut-the-clutter-in-your-tiktok-archive-learn-to-edit-wisely/"><u>[Updated] In 2024, Cut the Clutter in Your TikTok Archive Learn to Edit Wisely</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-foundational-framework-engaging-in-instagram-video-talk/"><u>2024 Approved Foundational Framework Engaging in Instagram Video Talk</u></a></li>
+<li><a href="https://extra-information.techidaily.com/analyzing-peak-engagement-for-podcast-drops/"><u>Analyzing Peak Engagement for Podcast Drops</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/conversion-gratuite-de-fichiers-wma-en-formats-vob-en-ligne-utiliser-movavi/"><u>Conversion Gratuite De Fichiers WMA en Formats VOB en Ligne - Utiliser Movavi</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-amd-radeon-rx-580-graphics-card-drivers-simple-steps/"><u>Download and Update AMD Radeon RX 580 Graphics Card Drivers: Simple Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dying-lights-mysterious-audio-bug-expert-tips-and-fixes-revealed/"><u>Dying Light's Mysterious Audio Bug: Expert Tips and Fixes Revealed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-startup-glitches-in-hogwarts-legacy-with-these-8-methods/"><u>Eliminating Startup Glitches in Hogwarts Legacy with These 8 Methods</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-itel-a60s-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Itel A60s Through Google Earth?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-avoid-red-dead-online-game-freezes-and-crashes-on-pc/"><u>Mastering Stability: Avoid Red Dead Online Game Freezes and Crashes on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-repairing-issues-with-call-of-duty-modern-warfare-3-mw3-fixes-for-non-startup-problems/"><u>Troubleshooting and Repairing Issues with Call of Duty: Modern Warfare 3 (MW3) - Fixes for Non-Startup Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-the-persistent-black-screen-in-epic-games-launcher/"><u>Troubleshooting Tips for the Persistent Black Screen in Epic Games Launcher</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy-to-Follow Tips for Rectifying JavaScript Errors in Discord App Development
-date: 2024-10-07T20:29:58.416Z
-updated: 2024-10-14T17:10:41.695Z
+date: 2024-10-17T18:51:44.694Z
+updated: 2024-10-20T19:04:15.673Z
 tags:
   - win11
   - win10
@@ -40,6 +40,13 @@ GTFO
 
  Run GTFO and see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Update your graphics driver
 
  If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, because the outdated or faulty graphics driver may trigger GTFO FPS dropping issue.
@@ -62,26 +69,26 @@ There are mainly two methods for you to update the graphics driver:
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Set the power plan of your PC for high performance
 
@@ -95,16 +102,23 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
+
  Run GTFO and check if you get a better PFS. If the GTFO FPS drops again, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Modify graphics card settings
 
@@ -133,13 +147,6 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch GTFO and see if the in-game FPS improves. If not, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Disable overlays
 
  Overlays are handy, but according to many PC gamers, they sometimes may interfere with GTFO and even introduces performance issues and compatibility issues. If the fixes above didn’t give you a obvious FPS boost, then try disabling overlays before playing the game.
@@ -149,6 +156,13 @@ There are mainly two methods for you to update the graphics driver:
 1. Launch **Steam** and go to your **LIBRARY** , then right click on GTFO game title and click **Properties…** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
@@ -166,22 +180,8 @@ There are mainly two methods for you to update the graphics driver:
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
@@ -210,24 +210,19 @@ Launch GTFO to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-detailed-guide-to-free-screen-recorders/"><u>[New] 2024 Approved Detailed Guide to Free Screen Recorders</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-the-ultimate-recording-playbook-your-roblox-adventures-transformed/"><u>[New] 2024 Approved The Ultimate Recording Playbook Your Roblox Adventures, Transformed</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-how-to-amplify-facebook-stories-with-music-elements/"><u>[New] In 2024, How to Amplify Facebook Stories with Music Elements</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-amp-up-your-sessions-with-essential-tips-from-zooms-changer-suite/"><u>[Updated] 2024 Approved Amp Up Your Sessions with Essential Tips From Zoom's Changer Suite</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-ultimate-playlist-of-timeless-anime-themes/"><u>[Updated] 2024 Approved The Ultimate Playlist of Timeless Anime Themes</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-ultimate-checklist-for-compelling-audio-intros/"><u>[Updated] The Ultimate Checklist for Compelling Audio Intros</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-comprehensive-android-lightroom-assessment/"><u>2024 Approved Comprehensive Android Lightroom Assessment</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-best-kept-secrets-ios-10-best-no-cost-collages-and-edits/"><u>2024 Approved Explore the Best-Kept Secrets IOS' 10 Best, No-Cost Collages & Edits</u></a></li>
-<li><a href="https://program-issues.techidaily.com/easy-troubleshooting-steps-to-resolve-chrome-freezing-issues-on-windows-10-machines/"><u>Easy Troubleshooting Steps to Resolve Chrome Freezing Issues on Windows 10 Machines</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/examining-the-efficacy-of-dji-mavic-mini-fpv-technology-for-2024/"><u>Examining the Efficacy of DJi Mavic Mini FPV Technology for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-for-preventing-frequent-valorant-clashes-and-freezes-on-desktops/"><u>Expert Tips for Preventing Frequent Valorant Clashes and Freezes on Desktops</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-and-fix-gta-v-from-unexpectedly-crashing-a-comprehensive-guide/"><u>How To Prevent And Fix GTA V From Unexpectedly Crashing: A Comprehensive Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-infinix-note-30i-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Infinix Note 30i</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722997439572-instant-fixes-for-when-fortnite-wont-load-easy-strategies-inside/"><u>Instant Fixes for When Fortnite Won’t Load - Easy Strategies Inside</u></a></li>
-<li><a href="https://program-issues.techidaily.com/revive-cult-of-the-lamb-steps-to-resolve-pc-game-crashes/"><u>Revive Cult of the Lamb: Steps to Resolve PC Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/say-goodbye-to-game-interruptions-top-9-fixes-for-ark-survival-ascendeds-stability-issues-on-pc/"><u>Say Goodbye to Game Interruptions: Top 9 Fixes for ARK: Survival Ascended's Stability Issues on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-issues-with-non-responsive-input-on-wrath-of-the-righteous/"><u>Solving Issues with Non-Responsive Input on 'Wrath of the Righteous'</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-to-launch-helldivers-2-on-your-steam-platform/"><u>Step-by-Step Fixes to Launch Helldivers 2 on Your Steam Platform</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-fixing-modern-warfare-game-crashes-and-lag-issues-on-windows/"><u>Troubleshooting: Fixing 'Modern Warfare' Game Crashes & Lag Issues on Windows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-amplify-your-influence-the-ultimate-list-of-instagram-apps/"><u>[New] Amplify Your Influence The Ultimate List of Instagram Apps</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-use-periscope-the-complete-guide/"><u>[Updated] How to Use Periscope The Complete Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/comprehensive-fixes-for-when-your-windows-10-mouse-ignores-the-right-click/"><u>Comprehensive Fixes for When Your Windows 10 Mouse Ignores the Right Click</u></a></li>
+<li><a href="https://program-issues.techidaily.com/discord-streaming-woes-getting-your-screen-share-audio-back-on-track/"><u>Discord Streaming Woes: Getting Your Screen Share Audio Back On Track</u></a></li>
+<li><a href="https://article-helps.techidaily.com/expertise-unleashed-best-practices-for-ios-audio-broadcasting-for-2024/"><u>Expertise Unleashed Best Practices for iOS Audio Broadcasting for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-google-meet-troubleshooting-solutions-for-a-non-functional-webcam/"><u>Fixing Google Meet: Troubleshooting Solutions for a Non-Functional Webcam</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-sound-malfunctions-in-the-thrilling-world-of-dying-light/"><u>How to Fix Sound Malfunctions in the Thrilling World of Dying Light</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-last-epoch-crash-problem-a-comprehensive-guide-for-windows-users/"><u>Solving the 'Last Epoch Crash' Problem: A Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-escaping-the-windows-10-autorepair-recurring-cycle/"><u>Step-by-Step Solution: Escaping the Windows 10 AutoRepair Recurring Cycle</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-your-game-of-remnant-from-the-ashes-from-keep-on-crashing-expert-advice/"><u>Stop Your Game of Remnant: From the Ashes From Keep on Crashing - Expert Advice</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-realme-c53-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Realme C53 ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/tackling-windows-steam-compatibility-hiccups/"><u>Tackling Windows Steam Compatibility Hiccups</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/transforming-your-instagram-films-with-border-magic-for-2024/"><u>Transforming Your Instagram Films with Border Magic for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-battlefront-ii-pc-gaming-stability-issues/"><u>Troubleshooting Steps: Battlefront II PC Gaming Stability Issues</u></a></li>
 </ul></div>
 

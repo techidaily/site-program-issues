@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Fixing Your PS4 When It Won't Stop Freezing"
-date: 2024-10-01T22:18:38.411Z
-updated: 2024-10-08T17:24:48.670Z
+date: 2024-10-13T18:09:33.602Z
+updated: 2024-10-20T16:36:24.180Z
 tags:
   - win11
   - win10
@@ -40,17 +40,17 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-10.jpg)
 3. Right-click your Origin client and select**Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Navigate to the**Compatibility** tab. Then, check**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3-4.jpg)
 
  Relaunch BFV to check if the not launching problem goes away. If not, take a look at more fixes below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2 – Switch to DirectX 11
 
@@ -60,22 +60,30 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 2. Click**Documents** on the left pane. Then, double-click the**Battlefield V** folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-4.jpg)
 3. Open the**settings** folder.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Right-click the**PROSAVE\_profile** file and click**Open with** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-7.jpg)
 5. Select**Notepad** or other similar editing tools.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6. Press**Ctrl** and**F** on your keyboard to open the search box. Then, type**Dx12Enabled** and press**Enter** .
 7. Once you’ve located Dx12Enabled, change the value from**1** to**0** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-3.jpg)
 
  Is the game working normally now? Or is it still unplayable? If the latter, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -93,6 +101,13 @@ To update your graphics driver, here are two safe ways for you:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-7.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-8.jpg)
@@ -115,13 +130,6 @@ To update your graphics driver, here are two safe ways for you:
 
  Relaunch the game to test this method. If it doesn’t help, continue to the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5 – Disable cloud storage
 
  If your save file is corrupted, Battlefield 5 won’t launch neither. And a simple workaround towards this is to disable the cloud storage in Origin.
@@ -132,10 +140,10 @@ To update your graphics driver, here are two safe ways for you:
 3. Navigate to the**Installs & Saves** tab, and then toggle off**Saves** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-3.jpg)
@@ -144,13 +152,6 @@ To update your graphics driver, here are two safe ways for you:
 5. Rename your**Battlefield V** folder to Battlefield V backup or anything else.
 
  Check whether you can get into Battlefield 5 or not. If this method is of no avail, restore the folder’s name and try the last fix.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6 – Perform a reinstallation
 
@@ -162,19 +163,25 @@ To update your graphics driver, here are two safe ways for you:
 3. Right-click the**Battlefield 5** tile from the list, and click**Uninstall** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After the process finishes, you can reinstall the game from Origin again, and it should be working the right way as expected.
@@ -202,16 +209,22 @@ To update your graphics driver, here are two safe ways for you:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-enhance-instagram-content-with-background-tracks/"><u>[New] In 2024, Enhance Instagram Content with Background Tracks</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-making-a-buzz-aesthetic-strategies-for-podcast-brands-for-2024/"><u>[Updated] Making a Buzz Aesthetic Strategies for Podcast Brands for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cyberpunk-nk2077-black-screen-dilemma-a-comprehensive-solution-guide/"><u>Cyberpunk Nk2077 Black Screen Dilemma: A Comprehensive Solution Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/find-your-perfect-viewing-companion-with-these-6-leading-e-commerce-retailers-for-tvs/"><u>Find Your Perfect Viewing Companion with These 6 Leading E-Commerce Retailers for TVs</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-a78-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Oppo A78 Phone without Any Data Loss</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-trending-upward-selective-use-for-your-insta-posts/"><u>In 2024, Trending Upward Selective Use for Your Insta Posts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-connectivity-hurdles-getting-your-astro-a50-recognized-by-the-astro-command-hub/"><u>Overcoming Connectivity Hurdles: Getting Your Astro A50 Recognized by the Astro Command Hub</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-continuous-freezes-solve-premiere-pro-issues-on-windows-11-and-10/"><u>Troubleshooting Continuous Freezes: Solve Premiere Pro Issues on Windows 11 & 10</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-not-found-mingwm10dll-error-effectively/"><u>Troubleshooting the 'Not Found' Mingwm10.dll Error Effectively</u></a></li>
-<li><a href="https://program-issues.techidaily.com/understanding-and-overcoming-sudden-dip-in-frames-per-second-fps/"><u>Understanding and Overcoming Sudden Dip in Frames Per Second (FPS)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722988854928-xbox-live-downtime-alerts-check-now-for-active-problem-reports-and-solutions/"><u>Xbox Live Downtime Alerts - Check Now for Active Problem Reports and Solutions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-a-comprehensive-look-at-youtuber-snippets-for-2024/"><u>[New] A Comprehensive Look at Youtuber Snippets for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-best-ios-resources-for-playing-retro-psp-games-1-5/"><u>[New] In 2024, The Best iOS Resources for Playing Retro PSP Games #1-5</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-incredible-live-stream-options-a-compilation/"><u>[New] Incredible Live Stream Options - A Compilation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-seamless-zoom-integration-joining-and-scheduling-made-simple/"><u>[New] Seamless Zoom Integration Joining & Scheduling Made Simple</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-how-superficial-shares-spell-social-deterioration/"><u>[Updated] 2024 Approved How Superficial Shares Spell Social Deterioration</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-speed-up-video-on-instagram-mobileonlinedesktop-solutions/"><u>[Updated] In 2024, How to Speed Up Video on Instagram [Mobile/Online/Desktop Solutions]</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-navigating-the-best-free-srt-translation-options-a-comprehensive-guide-for-2024/"><u>[Updated] Navigating the Best Free SRT Translation Options A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/googol/"><u>如何找回並修復Googol雲端硬碟失去的檔案 - 最新五大方法解決計劃</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-pc-malfunctions-heres-how-to-resolve-them/"><u>Cyberpunk 2077 PC Malfunctions? Here's How to Resolve Them</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-cod-wwii-issue-understanding-and-overcoming-error-code-4128/"><u>Fixing the COD WWII Issue - Understanding and Overcoming Error Code ^4128</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-days-gone-when-it-wont-start-on-your-pc-solution/"><u>How to Fix 'Days Gone' When It Won't Start on Your PC – SOLUTION!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-meme-makers-playbook-for-widespread-impact/"><u>In 2024, Meme Makers' Playbook for Widespread Impact</u></a></li>
+<li><a href="https://program-issues.techidaily.com/naraka-bladepoint-speed-optimization-a-step-by-step-guide/"><u>Naraka Bladepoint Speed Optimization: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-network-hiccups-a-step-by-step-guide-to-eliminate-lag-in-chivalry-2-new-insights/"><u>Overcome Network Hiccups: A Step-by-Step Guide to Eliminate Lag in Chivalry 2 (New Insights )</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-launch-problems-with-the-nier-replicant-remaster/"><u>Overcoming Launch Problems with the NieR Replicant Remaster</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revive-your-valorant-experience-fixes-for-pc-startup-problems-updated-guide/"><u>Revive Your Valorant Experience: Fixes for PC Startup Problems - Updated Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fix-preventing-recurring-pc-game-errors-in-hell-let-loose/"><u>Ultimate Fix: Preventing Recurring PC Game Errors In 'Hell Let Loose'</u></a></li>
 </ul></div>
 

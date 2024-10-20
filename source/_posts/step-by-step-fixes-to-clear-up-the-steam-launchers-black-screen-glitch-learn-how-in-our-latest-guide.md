@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fixes to Clear Up the Steam Launcher's Black Screen Glitch – Learn How in Our Latest Guide
-date: 2024-10-04T17:17:10.694Z
-updated: 2024-10-08T17:54:14.125Z
+date: 2024-10-17T18:35:14.524Z
+updated: 2024-10-20T16:28:59.153Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ thumbnail: https://thmb.techidaily.com/798da70479f84a42f596309bd983075c08c6ee00e
 6. [**Switch to DX9**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Repair the system files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Allow your game through Windows Firewall
 
  If Lost Ark fails to access the Internet on your PC, it won’t launch properly. To make sure the game works without interruption, you should manually allow it to bypass the firewall. Here are the steps:
@@ -48,22 +41,8 @@ thumbnail: https://thmb.techidaily.com/798da70479f84a42f596309bd983075c08c6ee00e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-defender-firewall-2.jpg)
 3. Click**Change settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-defender-firewall-3.jpg)
 4. Scroll down to locate Lost Ark. Then**check the boxes under the Domain, Private and Public tabs** , and click**OK** to save the settings.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/windows-denfender-firewall-lost-ark.jpg)
 5. If you can’t find the game on the list, click**Allow another app** .  
@@ -74,6 +53,13 @@ thumbnail: https://thmb.techidaily.com/798da70479f84a42f596309bd983075c08c6ee00e
 
 Now see if you could start the game. If not, try the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2 – Verify integrity of game files
 
  Missing or corrupted game file is a common reason that a game stops working smoothly. To see if that’s the case with Lost Ark, try to verify the integrity of the game files.
@@ -82,25 +68,25 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. From the game list, right-click**Lost Ark** and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Click the**Local Files** tab, and click**Verify integrity of game files** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/verify-game-files.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It may take a couple of minutes for the process to complete. Once done, restart the game to test the issue. If the problem persists, move on to more fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
@@ -116,8 +102,22 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also get the drivers you need for free, but you’ll need to download them one at a time and manually install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -133,13 +133,6 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/run-as-administrator-lost-ark-2.jpg)
 3. Select the**Compatibility** tab. Tick**Disable full-screen optimizations** and**Run this program as an administrator** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/run-as-administrator-lost-ark-1.jpg)
 4. Click**OK** .
 
@@ -153,16 +146,22 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/taks-manager-1.jpg)
 2. Select the program and click**End task** until you close all the unneeded applications.  
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/taks-manager-2.jpg)
 
  Restart and check the game. If it still can’t get past the loading screen, continue to Fix 6.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6 – Switch to DX9
 
@@ -175,14 +174,14 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Under Launch Options, type**\-force-d3d9** and close the window.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/swtich-to-dx9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now relaunch Steam and Lost Ark. Is it able to work correctly in the DX9 version? If not, try the next fix below.
 
@@ -199,6 +198,13 @@ Now see if you could start the game. If not, try the next method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -226,22 +232,20 @@ Restart your game and check if Lost Ark goes back to the normal state.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-non-retweeting-video-tweets-from-your-phone/"><u>[New] 2024 Approved Non-Retweeting Video Tweets From Your Phone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-mastering-quieter-recordings-basic-or-advanced-techniques-for-2024/"><u>[New] Mastering Quieter Recordings - Basic or Advanced Techniques for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/cost-effective-speed-unpacking-the-features-of-the-tp-link-archer-c50/"><u>Cost-Effective Speed: Unpacking the Features of the TP-Link Archer C50</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ds4-controllers-on-windows-overcoming-driver-install-failed-errors-effectively/"><u>DS4 Controllers on Windows – Overcoming 'Driver Install Failed' Errors Effectively</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-boost-your-gaming-experience-solving-division-2s-lag-issues-for-a-smoother-play/"><u>How To Boost Your Gaming Experience: Solving Division 2'S Lag Issues for a Smoother Play</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-your-gas-station-simulator-from-keeping-the-computer-down/"><u>How to Stop Your Gas Station Simulator From Keeping the Computer Down!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-vivo-g2-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Vivo G2</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/is-aurora-hdr-setting-photography-trends-for-2024/"><u>Is Aurora HDR Setting Photography Trends for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-animate-like-a-pro-top-8-software-options-for-mac-and-windows/"><u>New In 2024, Animate Like a Pro Top 8 Software Options for Mac and Windows</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-top-online-video-teaser-creators/"><u>New Top Online Video Teaser Creators</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-steps-when-rainbow-six-siege-doesnt-start/"><u>Resolved: Troubleshooting Steps When Rainbow Six Siege Doesn't Start</u></a></li>
-<li><a href="https://program-issues.techidaily.com/reviving-your-obs-mic-the-experts-ranking-of-best-solutions/"><u>Reviving Your OBS Mic : The Expert's Ranking of Best Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-fortnite-gameplay-achieved-top-methods-for-dealing-with-lags/"><u>Smooth Fortnite Gameplay Achieved: Top Methods for Dealing with Lags</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/sony-ps-players-voice-modification-techniques/"><u>Sony PS Players' Voice Modification Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-rdo-from-freezing-or-crashing-ultimate-fix-guide-for-gamers/"><u>Stop RDO From Freezing or Crashing - Ultimate Fix Guide for Gamers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-your-video-games-persistent-crash-problems/"><u>Ultimate Guide: Resolving Your Video Games' Persistent Crash Problems</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-mirthful-missions-delving-into-the-goofy-movie-vhs/"><u>[Updated] 2024 Approved 'Mirthful Missions' - Delving Into The Goofy Movie VHS</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-transform-videos-into-stories-discover-the-top-10-reactions/"><u>[Updated] 2024 Approved Transform Videos Into Stories Discover the Top 10 Reactions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-cutting-edge-techniques-to-elevate-your-screen-recordings-in-adobe-captive/"><u>[Updated] Cutting-Edge Techniques to Elevate Your Screen Recordings in Adobe Captive</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-virtual-trips-unveiled-top-10-iphoneandroid-apps/"><u>2024 Approved Virtual Trips Unveiled Top 10 iPhone/Android Apps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-to-fixing-lego-star-wars-series-on-your-pc-skywalker-saga-edition/"><u>Expert Guide to Fixing Lego Star Wars Series on Your PC – Skywalker Saga Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-your-football-manager-2022-running-smoothly-again-pc-compatibility-fixes/"><u>Get Your Football Manager 2022 Running Smoothly Again – PC Compatibility Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-your-minecraft-game-from-stuttering-and-locking-up-expert-advice/"><u>How to Stop Your Minecraft Game From Stuttering and Locking Up - Expert Advice</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-google-pixel-7a-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Google Pixel 7a To Phone | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-battlefield-5-experience-overcome-lag-using-this-essential-checklist/"><u>Master the Battlefield 5 Experience - Overcome Lag Using This Essential Checklist</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-game-crashes-in-mordhau-effective-techniques-revealed/"><u>Overcome Game Crashes in Mordhau - Effective Techniques Revealed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pro-gopro-filming-tips-for-flawless-results/"><u>Pro Gopro Filming Tips for Flawless Results</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-gameplay-hiccups-now-expert-tips-for-boosting-fps-on-recent-titles/"><u>Stop Gameplay Hiccups Now! Expert Tips for Boosting FPS on Recent Titles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/warzone-matchmaking-woes-a-comprehensive-fix-guide-for-pc-players/"><u>Warzone Matchmaking Woes? A Comprehensive Fix Guide for PC Players</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/why-the-latest-mac-studio-advantage-stops-me-from-upgrading-to-a-new-m4-mac-mini-this-autumn-insights-and-analysis/"><u>Why the Latest Mac Studio Advantage Stops Me From Upgrading to a New M4 Mac Mini This Autumn - Insights & Analysis</u></a></li>
 </ul></div>
 

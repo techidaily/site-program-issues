@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Phasmophobia: Tackling High Processor Usage"
-date: 2024-09-30T05:45:50.614Z
-updated: 2024-10-03T07:35:01.435Z
+date: 2024-10-18T18:47:56.499Z
+updated: 2024-10-20T17:53:33.966Z
 tags:
   - win11
   - win10
@@ -48,26 +48,13 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If it’s not working, move to next fix.
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Disable overclocking
 
@@ -110,17 +97,37 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Disable firewall/ antivirus software
@@ -133,13 +140,6 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
@@ -167,24 +167,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-choose-folder-for-stored-mac-screenshots-for-2024/"><u>[New] Choose Folder for Stored Mac Screenshots for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-fb-sensation-strategies-for-marketers-and-influencers/"><u>[New] Fb Sensation Strategies for Marketers and Influencers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-twit-tumble-sharing-videos-seamlessly/"><u>[New] Twit-Tumble Sharing Videos Seamlessly</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-focus-and-frame-essential-iphone-tools-for-cropping-photos/"><u>[Updated] 2024 Approved Focus & Frame Essential iPhone Tools for Cropping Photos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-from-stir-to-screen-masterful-cooking-videos/"><u>[Updated] From Stir to Screen Masterful Cooking Videos</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-propel-your-productivity-mastering-marketing-in-the-telegram-world-for-2024/"><u>[Updated] Propel Your Productivity Mastering Marketing in the Telegram World for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/decrypting-diablo-2s-hiccups-effective-ways-to-stop-your-game-from-crashing/"><u>Decrypting Diablo 2'S Hiccups: Effective Ways to Stop Your Game From Crashing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723002262657-how-to-fix-the-problem-when-fifa-21-wont-open-solutions-worked/"><u>How to Fix the Problem When FIFA 21 Won't Open - Solutions Worked!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-when-your-pcs-framerate-drops-by-two-frames-per-second/"><u>How to Fix When Your PC's Framerate Drops by Two Frames per Second</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-motorola-moto-g13-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Motorola Moto G13 to New Phone | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-v29-pro-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo V29 Pro</u></a></li>
-<li><a href="https://program-issues.techidaily.com/now-smooth-sailing-with-subnautica-below-zero-on-your-windows-pc/"><u>Now Smooth Sailing with Subnautica: Below Zero on Your Windows PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/outlook-wont-connect-fix-it-now-with-these-expert-tips/"><u>Outlook Won't Connect? Fix It Now with These Expert Tips!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-common-causes-of-overwatch-2-collapses-during-playtime-on-pcs/"><u>Overcoming Common Causes of Overwatch 2 Collapses During Playtime on PCs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-installation-hurdles-how-to-enjoy-tiny-tinas-wonderlands-flawlessly-on-pc/"><u>Overcoming Installation Hurdles - How to Enjoy Tiny Tina's Wonderlands Flawlessly on PC</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/precision-in-visuals-learning-to-soften-specific-areas-for-2024/"><u>Precision in Visuals Learning to Soften Specific Areas for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/revolutionizing-home-cinema-latest-on-samsungs-ubd-k850u-for-2024/"><u>Revolutionizing Home Cinema Latest on Samsung’s UBD-K850U for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-fixes-for-common-issues-preventing-battlefield-4-from-starting-on-desktop/"><u>Solved: Fixes for Common Issues Preventing Battlefield 4 From Starting on Desktop</u></a></li>
-<li><a href="https://program-issues.techidaily.com/wallpaper-engine-stability-solutions-for-users-of-windows-11-and-10/"><u>Wallpaper Engine Stability Solutions for Users of Windows 11 and 10</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-leading-phones-best-gopro-videos-editing-tools/"><u>2024 Approved Leading Phones' Best GoPro Videos Editing Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battling-endless-restarts-heres-a-fix-for-constant-crashes-in-god-of-war-on-windowsmac/"><u>Battling Endless Restarts? Here's a Fix for Constant Crashes in God of War on Windows/Mac</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-the-error-successful-launch-of-forza-horizon-4-up-to-date-solutions/"><u>Bypassing the Error: Successful Launch of Forza Horizon 4 - Up-to-Date Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/discord-enhancement-glitches-settled-your-chat-app-is-up-to-date-again/"><u>Discord Enhancement Glitches Settled: Your Chat App Is Up-to-Date Again!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-your-football-manager-2022-fix-addressing-release-troubles-and-solutions/"><u>Get Your Football Manager 2022 Fix - Addressing Release Troubles & Solutions</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-iphone-12-drfone-by-drfone-ios/"><u>How To Unlock A Found iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-editors-for-diy-dji-film-production-at-home/"><u>In 2024, Best Editors for DIY DJi Film Production at Home</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-apple-iphone-6s-plus-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from Apple iPhone 6s Plus or iPad?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-nokia-g42-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Nokia G42 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-samsung-galaxy-a54-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Samsung Galaxy A54 5G Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-unleash-creative-potential-with-top-tips-for-gopro-timelapses/"><u>In 2024, Unleash Creative Potential with Top Tips for GoPro Timelapses</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-users-struggle-resolved-dealing-with-continuous-new-world-game-crashes/"><u>PC Users Struggle: Resolved - Dealing with Continuous 'New World' Game Crashes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-selection-of-premium-ceiling-audio-solutions/"><u>The Ultimate Selection of Premium Ceiling Audio Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-nvidias-geforce-experience-steps-to-get-it-running-smoothly/"><u>Troubleshooting Nvidia's GeForce Experience: Steps to Get It Running Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/utorrent-speed-issue-fixed-learn-the-reasons-behind-it/"><u>UTorrent Speed Issue Fixed? Learn the Reasons Behind It!</u></a></li>
 </ul></div>
 
