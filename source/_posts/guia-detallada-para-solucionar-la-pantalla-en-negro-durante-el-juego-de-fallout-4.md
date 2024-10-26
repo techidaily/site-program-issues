@@ -1,7 +1,7 @@
 ---
 title: Guía Detallada Para Solucionar La Pantalla en Negro Durante El Juego De Fallout 4
-date: 2024-08-28T06:35:01.428Z
-updated: 2024-08-29T06:35:01.428Z
+date: 2024-10-24T18:58:35.452Z
+updated: 2024-10-26T10:26:57.795Z
 tags:
   - win11
   - win10
@@ -49,11 +49,31 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 
  After you successfully launched the game, it may re-enable the DirectX 12 mode automatically or it won’t. If it won’t, you can manually re-enable it.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Re-enable DirectX 12 mode
 
  1) Go to the game’s main menu and head across to the**OPTIONS** screen. Then select**VIDEO** .  
   
 ![re-enable DirectX 12 mode in STAR WARS Battfront II](https://images.drivereasy.com/wp-content/uploads/2021/01/reenable-DirectX-12-mode-1.png)
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Under the GRAPHICS SETTINGS section, locate**ENABLE DIRECTX 12** . If it’s**OFF** , click**ON** . If it’s already ON, take the steps below to enable it in the bootup file.
 
@@ -63,11 +83,22 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
   
 ![re-enable DirectX 12 mode in the bootup file STAR WARS Battlefront II](https://images.drivereasy.com/wp-content/uploads/2021/01/re-enable-DirectX-12-mode.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click**File > Save** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Why disabling DirectX 12 works
 
  It’s possible that DirectX 12 could offer some enhancements for your machine, using DirectX 11 should allow the software to run much more reliably and stably. Basically, while the game is running in DirectX 12 mode, it’s able to pre-cache certain shaders so that you can get much better performance in-game. But chances are, the game might not be launching as expected.
@@ -80,8 +111,6 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,4 +118,18 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-video-masterclass-crafting-youtube-trailers-using-filmora/"><u>[Updated] Video Masterclass Crafting YouTube Trailers Using Filmora</u></a></li>
+<li><a href="https://program-issues.techidaily.com/download-and-install-the-latest-logitech-g403-mouse-drivers-on-your-windows-computer/"><u>Download & Install the Latest Logitech G403 Mouse Drivers on Your Windows Computer</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Samsung Galaxy S23? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-smooth-gaming-experiences-fix-stuttering-and-low-fps-in-latest-titles/"><u>Mastering Smooth Gaming Experiences: Fix Stuttering and Low FPS in Latest Titles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-warzones-dev-error-5573-essential-tips-and-fixes-for-console-and-pc-gamers/"><u>Overcome Warzone's Dev Error #5573: Essential Tips & Fixes for Console & PC Gamers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tag-friends-listen-to-this-podcast-story/"><u>Tag Friends Listen to This Podcast Story</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-solution-why-is-call-of-duty-warzone-still-crashing-tips-and-tricks-to-fix-it-now/"><u>The Ultimate Solution: Why Is Call of Duty Warzone Still Crashing ? Tips & Tricks to Fix It Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-unsticking-the-loading-screen-in-among-us/"><u>Troubleshooting Steps for Unsticking the Loading Screen in Among Us</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-your-iphones-wi-fi-hotspot-quick-solutions-and-tips/"><u>Troubleshooting Your iPhone's Wi-Fi Hotspot: Quick Solutions and Tips</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-getting-filmora-for-free-no-hidden-fees-for-2024/"><u>Updated The Ultimate Guide to Getting Filmora for Free No Hidden Fees for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/vuurproffen-movavi-video-editor-bestel-duitslands-bijna-gewaardeid-zeer-veilig-kaufeexperte/"><u>Vuurproffen Movavi Video Editor Bestel: Duitsland's Bijna Gewaardeid Zeer Veilig Kaufeexperte</u></a></li>
+</ul></div>
 

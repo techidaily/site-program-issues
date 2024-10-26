@@ -1,7 +1,7 @@
 ---
 title: "2024 Ultimate Guide: Solving the 'League of Legends Not Launching' Dilemma"
-date: 2024-10-17T17:17:08.238Z
-updated: 2024-10-20T16:42:22.775Z
+date: 2024-10-24T16:14:13.892Z
+updated: 2024-10-26T07:26:36.374Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -87,13 +94,6 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -113,28 +113,28 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -146,20 +146,27 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
@@ -174,19 +181,6 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
@@ -214,24 +208,18 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-unblock-mystery-solved-detecting-snapchat-shutout/"><u>[New] In 2024, Unblock Mystery Solved Detecting Snapchat Shutout</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-step-by-step-to-social-glory-enhance-your-feed-with-gifs-insta-style/"><u>[Updated] 2024 Approved Step-By-Step to Social Glory Enhance Your Feed with GIFs (Insta Style)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-apex-level-clarity-convert-high-res-videos/"><u>2024 Approved Apex-Level Clarity Convert High-Res Videos</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-capture-clarity-ideal-phone-tripod-pairs/"><u>2024 Approved Capture Clarity Ideal Phone-Tripod Pairs</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-on-apple-iphone-11-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock On Apple iPhone 11 - 4 Easy Ways</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-microsoft-edge-browser-crashes-on-windows-10-a-step-by-step-guide/"><u>Fixing Microsoft Edge Browser Crashes on Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-long-wait-semaphore-failure-overcome-expired-timers-error-0x80070079/"><u>Fixing the Long-Wait Semaphore Failure, Overcome Expired Timers Error (0X80070079)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-get-itunes-to-acknowledge-your-iphone-on-the-newest-windows-11-platform/"><u>How to Get iTunes to Acknowledge Your iPhone on the Newest Windows 11 Platform</u></a></li>
-<li><a href="https://program-issues.techidaily.com/navigating-the-2024-amendment-in-civ-law-a-guide-to-fixing-exception-handling-and-access-violations/"><u>Navigating the 2024 Amendment in CIV Law - A Guide to Fixing Exception Handling and Access Violations</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/proven-fix-it-steps-to-eradicate-win10-blue-screen/"><u>Proven Fix-It Steps to Eradicate Win10 Blue Screen</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-strategies-for-overcoming-discord-network-disruption-issues/"><u>Resolved: Strategies for Overcoming Discord Network Disruption Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-pc-accessibility-issues-with-rockstar-games-servers/"><u>Resolving PC Accessibility Issues with Rockstar Games' Servers</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-a20-assessment-affordable-and-functional-smartphone-experience/"><u>Samsung Galaxy A20 Assessment: Affordable and Functional Smartphone Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-fixing-the-battlefield-v-launch-problem/"><u>Step-by-Step Guide to Fixing the Battlefield V Launch Problem</u></a></li>
-<li><a href="https://program-issues.techidaily.com/thawing-the-digital-impasse-expert-advice-for-loading-failures-during-cold-war-missions-on-gaming-platforms/"><u>Thawing the Digital Impasse: Expert Advice for Loading Failures During Cold War Missions on Gaming Platforms</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-the-definitive-guide-to-computer-components/"><u>Tom's Tech Review: The Definitive Guide to Computer Components</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-and-resolving-hp-display-malfunctions-successfully/"><u>Troubleshooting and Resolving HP Display Malfunctions Successfully</u></a></li>
-<li><a href="https://os-tips.techidaily.com/unlock-immediate-savings-exclusive-deals-on-every-apple-airpods-model/"><u>Unlock Immediate Savings: Exclusive Deals on Every Apple AirPods Model</u></a></li>
-<li><a href="https://program-issues.techidaily.com/what-to-do-if-you-encounter-an-unresponsive-minecraft-window-on-desktop/"><u>What To Do If You Encounter an Unresponsive Minecraft Window on Desktop</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-video-upload-insights-aspect-ratio-for-twitters-platform/"><u>[New] 2024 Approved Video Upload Insights Aspect Ratio for Twitter's Platform</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-ultimate-free-video-meeting-checklist-with-desktop-views/"><u>[New] In 2024, Ultimate Free Video Meeting Checklist - With Desktop Views</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-livestreaming-titan-face-off-for-2024/"><u>[New] LiveStreaming Titan Face-Off for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-focus-on-you-iphone-and-android-photo-trimmers/"><u>[Updated] 2024 Approved Focus On You IPhone & Android Photo Trimmers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-uncover-5-windows-11-tools-for-professional-audio-recording/"><u>[Updated] Uncover 5 Windows 11 Tools for Professional Audio Recording</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-nubia-red-magic-9-proplus-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Nubia Red Magic 9 Pro+</u></a></li>
+<li><a href="https://program-issues.techidaily.com/death-stranding-on-pc-crash-problem-why-it-happens-and-how-to-fix-it/"><u>Death Stranding on PC Crash Problem – Why It Happens & How to Fix It</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/efficiently-unshare-content-on-tiktok-mastering-the-undo-feature/"><u>Efficiently Unshare Content on TikTok: Mastering the Undo Feature</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-continuous-crashes-in-god-of-war-for-windows-users-expert-advice/"><u>Fixing Continuous Crashes in God of War for Windows Users: Expert Advice</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-common-errors-ensuring-smooth-running-of-warning-alerts-on-desktops/"><u>Overcoming Common Errors - Ensuring Smooth Running of Warning Alerts on Desktops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-steam-disruptions-swift-and-simple-repair-tactics-revealed/"><u>Stop Steam Disruptions: Swift and Simple Repair Tactics Revealed!</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/unleash-the-power-of-reverse-how-to-edit-tiktok-videos-like-a-pro-for-2024/"><u>Unleash the Power of Reverse How to Edit TikTok Videos Like a Pro for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-pc-with-realteks-official-rtl8188cu-driver-for-enhanced-wi-fi-on-windows-11-7/"><u>Update Your PC with Realtek's Official RTL8188CU Driver for Enhanced Wi-Fi on Windows 11, 7</u></a></li>
 </ul></div>
 

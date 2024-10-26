@@ -1,7 +1,7 @@
 ---
 title: Mass Effect Legendary Edition Won't Start? Here's How You Can Fix It!
-date: 2024-08-28T06:36:30.070Z
-updated: 2024-08-29T06:36:30.070Z
+date: 2024-10-24T22:12:39.227Z
+updated: 2024-10-25T16:03:20.924Z
 tags:
   - win11
   - win10
@@ -41,9 +41,6 @@ Trying to launch your Rainbow Six Seige but getting server connection errors? Do
 
  Corrupted game files can cause many connection issues, especially after a game update. This may not happen very often, but be sure to do this basic troubleshooting and run the game and your game launcher as an administrator before you head on to other fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Verify game integrity in Steam
 
 1. Go to the**Library** , right-click **Rainbow Six Siege,** and select**Properties** from the menu.
@@ -51,12 +48,12 @@ Trying to launch your Rainbow Six Seige but getting server connection errors? Do
 3. Steam will verify the game’s files – this process may take several minutes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Verify game integrity in Uplay
 
 1. In Uplay, click on the**Games**  tab at the top of the window.
@@ -75,6 +72,13 @@ No advertising on the website.
 
  We recommend using a cabled connection whenever possible. Although Wi-Fi is convenient, it’s not the most stable connection type.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Allow your game through Windows Firewall
 
  The server connection error in Rain Six Seige might be associated with your Windows Firewall. To see if the firewall is blocking your game, please follow these steps:
@@ -83,9 +87,20 @@ No advertising on the website.
 2. Type **firewall** and select **Windows Defender Firewall** .  
 ![Windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/Windows-firewall.jpg)
 3. On the left pane, click **Allow an app or feature through Windows Defender Firewall** .  
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-app.jpg)
 4. Make sure your Rainbow Six Seige is on the list, and also make sure it’s ticked for **Private** .
 5. If you don’t find Rainbow Six Seige, click **Change settings** .  
@@ -96,6 +111,13 @@ No advertising on the website.
 8. Launch your game again and see if the error has been resolved by now.
 
  Some antivirus software may block some features in Rainbow Six Seige, so you can disable your third-party antivirus software to check if it’s interfering with your game, or uninstall it temporarily if disabling doesn’t work.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
 
@@ -113,22 +135,13 @@ There are two ways for you to update the driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to a flagged network adapter driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-network-adapter-driver.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you get full support and a 30-day money back guarantee).
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 4. Restart your computer for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Flush DNS and renew your IP
 
  Another possible cause of your Rainbow Six Seige server connection errors is the stored DNS cache on your PC. Some players managed to fix the connection issue by flushing the DNS cache:
@@ -136,11 +149,16 @@ There are two ways for you to update the driver:
 1. Right-click the**Start** menu (the Windows logo) in the lower-left corner, and select**Windows PowerShell (Admin)** . If you’re on Windows 11, it will be**Terminal (Admin)** .  
 ![windows powershell](https://images.drivereasy.com/wp-content/uploads/2021/01/admin.jpg)
 2. Type the command line **`ipconfig /flushdns`**  and press **Enter**  on your keyboard.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![flush dns cache](https://images.drivereasy.com/wp-content/uploads/2021/01/flush-dns.jpg)
 3. To renew your IP, please type the following two command lines separately and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 
  Command-line 1: ipconfig /release  
  Command-line 2:**`ipconfig /renew`**  
@@ -148,9 +166,6 @@ There are two ways for you to update the driver:
 ![renew IP](https://images.drivereasy.com/wp-content/uploads/2021/01/renew-ip.jpg)
 4. Now launch your game and see if your Rainbow Six Seige can communicate with the web servers correctly.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6:**Change the DNS server**
 
  The chances are that you’re using the default DNS servers assigned by your ISP. For the most time, this won’t cause any problems, but it might be the cause of your server connection issues. Try changing the DNS server to the Goggle Public DNS addresses to see if this helps:
@@ -161,11 +176,24 @@ There are two ways for you to update the driver:
 3. Right-click your current network and click **Properties** .  
 ![properties](https://images.drivereasy.com/wp-content/uploads/2021/01/network-properties.jpg)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)**  to view its properties.  
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Internet Protocol Version 4(TCP/IPv4](https://images.drivereasy.com/wp-content/uploads/2021/01/double-click.jpg)
 5. Make sure you check the option**Obtain an IP address automatically** (the default setting).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Select**Use the following DNS server addresses** , and enter the following addresses:  
 
  Preferred DNS server:**8.8.8.8**  
@@ -173,9 +201,6 @@ There are two ways for you to update the driver:
 
 ![Use the following DNS server addresses](https://images.drivereasy.com/wp-content/uploads/2021/01/addresses.jpg)  
  (You can press the Spacebar to move to the next number, and press Tab to move to the next line.)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Click**OK** to apply the changes.
 8. Launch your game to see if this issue has been resolved.
 
@@ -197,14 +222,16 @@ There are two ways for you to update the driver:
 2. Type**cmd** in the field and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-3.jpg)
 3. Type in**ipconfig** and press**Enter** . Select the**Default Gateway** address and press**Ctrl** +**C** to copy (10.10.0.201 in my case). Also, don’t close the window, since you will need the IPv4 Address later.  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/default-gateway.jpg)
 4. Login to your router via the default gateway address (paste the address in the browser URL search bar).
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Enter your router credentials into the login page.  
 
  _This requires you to sign in with the**default settings** (check the bottom of your router or its manual for a default username and password) or the**custom username and password** you previously set up. You can check the most common credentials below:_  
@@ -225,9 +252,6 @@ _**Note:** Some routers cannot be accessed via a browser but require a dedicated
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/IPV4.jpg)
 9. After adding all of your desired ports, you can**Save** or**Apply** the changes that you have made.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## Fix 9: Perform a clean boot
 
  A clean boot allows you to start Windows without running non-Microsoft services. It would help you troubleshoot and determine what application or program is interfering with your Rainbow Six Seige.
@@ -251,8 +275,6 @@ _**Note:** Some routers cannot be accessed via a browser but require a dedicated
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -260,4 +282,26 @@ _**Note:** Some routers cannot be accessed via a browser but require a dedicated
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-best-practices-for-screen-recording-phones/"><u>[New] In 2024, Best Practices for Screen Recording Phones</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-optimum-locations-magnifying-youtube-videos/"><u>[New] Optimum Locations Magnifying YouTube Videos</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-epicurean-education-recipe-film-making/"><u>[Updated] Epicurean Education Recipe Film-Making</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-evolution-and-alternatives-to-googles-ar-stickers/"><u>[Updated] The Evolution and Alternatives to Google's AR Stickers</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/decode-error-224003-successful-techniques-to-restore-video-functionality/"><u>Decode Error 224003: Successful Techniques to Restore Video Functionality</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-fixes-for-unstable-playback-in-bloodhunt-on-your-computer/"><u>Easy Fixes for Unstable Playback in 'Bloodhunt' On Your Computer</u></a></li>
+<li><a href="https://win-docs.techidaily.com/effiziente-methoden-zur-wiederherstellung-verlorener-daten-auf-raw-datentragern-expertenrat-zum-schutz-ihrer-wichtigen-informationen/"><u>Effiziente Methoden Zur Wiederherstellung Verlorener Daten Auf RAW-Datenträgern - Expertenrat Zum Schutz Ihrer Wichtigen Informationen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guilty-gear-strives-release-unveiling-the-delay-mysteries/"><u>Guilty Gear Strive's Release: Unveiling the Delay Mysteries</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/1715701164575-high-quality-video-calling-solutions-top-10-best-apps-ranked/"><u>High-Quality Video Calling Solutions Top 10 Best Apps Ranked!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-change-your-voice-in-a-song-lyric-video-tips-for-perfect-audio-effects-with-voice-modulation-software/"><u>How To Change Your Voice In A Song Lyric Video: Tips for Perfect Audio Effects with Voice Modulation Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-ensure-smooth-gameplay-avoiding-thaumaturge-interruptions-on-desktop-systems/"><u>How to Ensure Smooth Gameplay: Avoiding Thaumaturge Interruptions on Desktop Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-razer-synapse-wont-launch-issue/"><u>How to Fix: Razer Synapse Won't Launch Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-the-stuck-updates-problem-on-microsoft-flight-simulator-2020-solution-found/"><u>How to Overcome the Stuck Updates Problem on Microsoft Flight Simulator 2020 - Solution Found</u></a></li>
+<li><a href="https://program-issues.techidaily.com/immortals-fenyx-rising-how-to-fix-persistent-game-crashes/"><u>Immortals: Fenyx Rising - How to Fix Persistent Game Crashes</u></a></li>
+<li><a href="https://win-trending.techidaily.com/limited-genetic-diversity/"><u>Limited Genetic Diversity</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-palworlds-session-functionality-tips-and-solutions/"><u>Mastering Palworld's Session Functionality: Tips and Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-technical-glitches-in-cod-warzone-pacific-downfalls/"><u>Overcoming Technical Glitches in COD: Warzone Pacific Downfalls</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-making-the-rockstar-games-launcher-work-again/"><u>Step-by-Step Troubleshooting: Making the Rockstar Games Launcher Work Again</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-tips-and-tricks-for-throwing-an-unforgettable-labor-day-bash-insights-from-zdnet/"><u>Ultimate Guide: Tips and Tricks for Throwing an Unforgettable Labor Day Bash - Insights From ZDNET</u></a></li>
+</ul></div>
 

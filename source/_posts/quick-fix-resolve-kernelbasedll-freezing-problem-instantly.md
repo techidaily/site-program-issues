@@ -1,7 +1,7 @@
 ---
 title: "Quick Fix: Resolve KernelBase.dll Freezing Problem Instantly"
-date: 2024-10-18T19:08:25.849Z
-updated: 2024-10-20T18:24:52.780Z
+date: 2024-10-20T05:26:04.902Z
+updated: 2024-10-26T05:17:31.155Z
 tags:
   - win11
   - win10
@@ -42,13 +42,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-8.jpg)
 3. Click the**Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
 
@@ -66,23 +59,23 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
 
@@ -113,6 +106,13 @@ If this method doesn’t help, go ahead with the next fix below.
 
 So does the crash go away now? If not, there is the last fix to try.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5 – Set launch options
 
  If you receive a specific DXGI\_ERROR\_DEVICE error message or an application error, the Football Manager 2021 crashing issue is related to your graphics card. That’s especially true if you’re using Intel GPUs. And you can launch the game with lower graphics settings and see how it works.
@@ -121,24 +121,24 @@ So does the crash go away now? If not, there is the last fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
@@ -170,18 +170,14 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-quick-guide-seamless-audio-transitions/"><u>[New] Quick Guide Seamless Audio Transitions</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-swipe-right-on-virality-blend-tiktok-trends-into-insta-reels/"><u>[Updated] 2024 Approved Swipe Right on Virality Blend TikTok Trends Into Insta Reels</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-dji-airborne-collection-basic-kit-elite-series-4k-masterclass/"><u>[Updated] In 2024, DJI Airborne Collection Basic Kit, Elite Series, 4K Masterclass</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-ways-to-resolve-frequent-minecraft-dungeon-game-crashes-on-your-computer/"><u>Effective Ways to Resolve Frequent Minecraft Dungeon Game Crashes on Your Computer</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/hps-visionary-color-display-dissecting-the-z32x-monitor-for-2024/"><u>HP’s Visionary Color Display Dissecting the Z32X Monitor for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/installing-and-updating-your-logitech-g602-mini-gamepad-driver-on-windows-pcs-a-comprehensive-guide/"><u>Installing & Updating Your Logitech G602 Mini Gamepad Driver on Windows PCs: A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-gamers-tutorial-overcoming-super-persona-disruptions-for-smooth-playthroughs/"><u>PC Gamers' Tutorial: Overcoming Super Persona Disruptions for Smooth Playthroughs</u></a></li>
-<li><a href="https://media-tips.techidaily.com/quick-and-effortless-guide-to-converting-videos-for-your-blackberry-device-2024-edition/"><u>Quick and Effortless Guide to Converting Videos for Your BlackBerry Device - 2024 Edition</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-guide-updating-your-gtx-660-graphics-card-drivers/"><u>Quick Guide: Updating Your GTX 660 Graphics Card Drivers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-vanguard-initiation-errors-for-a-smooth-gameplay-experience-in-valorant/"><u>Resolving Vanguard Initiation Errors for a Smooth Gameplay Experience in Valorant</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-eliminate-rainbow-six-sieges-black-screen-on-your-computer/"><u>Step-by-Step Guide to Eliminate Rainbow Six Siege's Black Screen on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-street-fighter-6-from-crashing-the-top-6-tips-to-optimize-your-pc/"><u>Stop Street Fighter 6 From Crashing: The Top 6 Tips to Optimize Your PC</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-strengths-and-mobility-of-the-pioneer-bdr-xs0ebuilding-review-a-closer-look-at-its-blu-ray-writing-capabilities/"><u>Unveiling the Strengths & Mobility of the Pioneer BDR-XS0ebuilding Review: A Closer Look at Its Blu-Ray Writing Capabilities</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-best-5-chrome-os-clipping-utilities-ranked/"><u>[Updated] 2024 Approved Best 5 Chrome OS Clipping Utilities, Ranked</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-incredible-mobile-photography-and-videography-apps-for-iosandroid/"><u>2024 Approved Incredible Mobile Photography & Videography Apps for iOS/Android</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-protecting-content-avoiding-premature-deletions/"><u>2024 Approved Protecting Content Avoiding Premature Deletions</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/acer-xfa240-assessment-performance-takes-priority-in-design/"><u>Acer XFA240 Assessment: Performance Takes Priority in Design</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effectively-lowering-cpu-consumption-for-a-smoother-god-of-war-experience/"><u>Effectively Lowering CPU Consumption for a Smoother God of War Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-persistent-blender-application-failures-in-windows-10/"><u>How to Fix Persistent Blender Application Failures in Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-biomutant-from-freezing-on-your-computer-expert-fixes-and-tweaks/"><u>How to Stop Biomutant From Freezing on Your Computer: Expert Fixes & Tweaks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004977069-red-dead-online-stability-enhancements-no-more-game-interruptions/"><u>Red Dead Online Stability Enhancements - No More Game Interruptions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/understanding-commercial-code-adherence-in-digiarty-software-products-and-services/"><u>Understanding Commercial Code Adherence in Digiarty Software Products and Services</u></a></li>
 </ul></div>
 
