@@ -1,7 +1,7 @@
 ---
 title: Solve ‘Configuration Server Connection Failure’ Effortlessly Today
-date: 2024-10-20T09:30:41.854Z
-updated: 2024-10-26T05:54:50.527Z
+date: 2024-10-24T21:14:07.255Z
+updated: 2024-10-31T16:55:46.188Z
 tags:
   - win11
   - win10
@@ -44,6 +44,13 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
 
  But if this method doesn’t do the trick, you can try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Check the status of Teredo (Windows 10)
 
  If you’re getting the ‘Unable to connect to the live configuration servers’ error, it may be caused by a Teredo issue. Here’s how:
@@ -53,13 +60,6 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
  2) Select**Settings** \>**Gaming** , and then select**Xbox Networking** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Xbox.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Select**Fix it** . Windows will try to detect and fix known issues with Teredo.
 
@@ -76,10 +76,10 @@ Many Forza Horizon 4 players are reporting that they get the error message ‘**
 ![command prompt admin](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Type **the following command** and press **Enter** .
@@ -92,9 +92,23 @@ netsh interface Teredo set state disable
 
 ![uninstall graphics driver](https://images.drivereasy.com/wp-content/uploads/2021/03/device-manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click **View** \> **Show hidden devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/show-hidden-devices.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Double-click on **Network adapters** .
 
@@ -122,13 +136,6 @@ netsh advfirewall set allprofiles state on
 
  Launch your game again to test the issue, and if this method doesn’t do the trick, check the one below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Enable Xbox Live Networking Service & Xbox Live Auth Manager
 
  To make sure your game runs properly, you’d better check the Xbox Live Networking and Xbox Love Auth Manager services are both running properly. Here’s how:
@@ -137,22 +144,15 @@ netsh advfirewall set allprofiles state on
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/services-run-box.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Scroll down the bottom, and make sure**Xbox Live Auth Manager** and**Xbox Live Networking Service** are running. If not, right-click the service and click**Start** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/services-on.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Close the window and launch your game.
@@ -180,24 +180,24 @@ netsh advfirewall set allprofiles state on
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-improve-instagram-video-loading-times-effectively/"><u>[New] Improve Instagram Video Loading Times Effectively</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-accelerating-sound-on-phones-best-free-apps/"><u>[New] In 2024, Accelerating Sound on Phones Best Free Apps</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-picsart-guide-adding-motion-blur-to-facial-shots-for-dynamic-images/"><u>[New] Picsart Guide Adding Motion Blur to Facial Shots for Dynamic Images</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-cod-modern-warfare-keeps-crashing/"><u>[SOLVED] COD: Modern Warfare Keeps Crashing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/best-solutions-for-cult-of-the-lambs-gameplay-issues-and-pc-crashes/"><u>Best Solutions for Cult of the Lamb's Gameplay Issues and PC Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-fix-for-uninterrupted-fluid-gaming-experience-in-valheim-pc-edition/"><u>Comprehensive Fix for Uninterrupted, Fluid Gaming Experience in Valheim PC Edition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/connecting-to-steam-servers-successfully-tips-and-tricks/"><u>Connecting to Steam Servers Successfully: Tips and Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eight-essential-fixes-for-a-smooth-run-of-guardians-of-the-galaxy-on-pc/"><u>Eight Essential Fixes for a Smooth Run of Guardians of the Galaxy on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-unable-to-connect-on-kodi-and-access-media-library-data/"><u>How To Fix 'Unable To Connect' On Kodi & Access Media Library Data</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-motorola-razr-40-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Motorola Razr 40 Without Password | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-mastering-audio-transformation-complete-morphvox-techniques/"><u>In 2024, Mastering Audio Transformation Complete MorphVOX Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-fixes-for-battlenet-access-problems-the-definitive-2024-edition/"><u>Mastering the Fixes for Battle.net Access Problems: The Definitive 2024 Edition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-the-finals-not-launching-problem/"><u>Step-by-Step Solutions for the 'Finals Not Launching' Problem</u></a></li>
-<li><a href="https://program-issues.techidaily.com/success-how-to-fix-and-play-modern-warfare-on-your-pc-this-year/"><u>Success! How to Fix and Play Modern Warfare on Your PC This Year</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-big-four-in-social-media-a-look-at-facebook-twitter-instagram-and-youtube/"><u>The Big Four in Social Media: A Look at Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/transform-your-tongue-with-mondlys-techniques/"><u>Transform Your Tongue with Mondly's Techniques</u></a></li>
-<li><a href="https://article-files.techidaily.com/unveiling-the-power-of-grading-insights-from-dr-john-doe-for-2024/"><u>Unveiling the Power of Grading Insights From Dr. John Doe for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-fcpx-not-working-try-resetting-a-simple-solution-to-common-issues/"><u>Updated 2024 Approved FCPX Not Working? Try Resetting A Simple Solution to Common Issues</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ffective-youtube-card-usage-guide-for-2024/"><u>[New] Effective YouTube Card Usage Guide for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-rhythmripper-screen-recordings-review-for-2024/"><u>[New] RhythmRipper Screen Recordings Review for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-guide-to-sierras-cloud-documentation-and-drive-integration/"><u>[Updated] Expert Guide to Sierra's Cloud Documentation & Drive Integration</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-overcoming-youtube-buffering-a-step-by-step-guide/"><u>[Updated] Overcoming YouTube Buffering A Step-by-Step Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-snap-spectacularly-with-top-10-sticker-enhancing-phone-apps-for-2024/"><u>[Updated] Snap Spectacularly with Top 10 Sticker-Enhancing Phone Apps for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-convert-your-srt-files-for-free-with-top-websites/"><u>2024 Approved Convert Your SRT Files for FREE with Top Websites</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-resolving-issues-when-baldurs-gate-iii-refuses-to-load/"><u>Expert Advice: Resolving Issues When Baldur's Gate III Refuses to Load</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-tips-to-correct-code-10-errors-in-your-computers-device-manager/"><u>Expert Tips to Correct Code 10 Errors in Your Computer’s Device Manager</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-cod-modern-warfare-2s-troublesome-directx-compatibility-problems/"><u>Fixing COD Modern Warfare 2'S Troublesome DirectX Compatibility Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-slowdown-how-to-resolve-your-league-of-legends-latency-problems/"><u>Fixing the Slowdown: How to Resolve Your League of Legends Latency Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013817590-football-manager-2020-bug-resolved-now-running-smoothly/"><u>Football Manager 2020 Bug Resolved: Now Running Smoothly!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/hell-let-loose-pc-stability-issues-resolved-fixed-game-crashes/"><u>Hell Let Loose PC Stability Issues Resolved: Fixed Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-issues-when-vrchat-wont-load-correctly/"><u>How to Resolve Issues When VRChat Won't Load Correctly</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-nokia-c12-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Nokia C12 Pro Phone? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-tf2-launch-common-issues-and-fixes-applied/"><u>Mastering TF2 Launch: Common Issues and Fixes Applied</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205380435-nba-2k21-green-hack-cracked-ultimate-solution-uncovered/"><u>NBA 2K21 Green Hack Cracked: Ultimate Solution Uncovered!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-freezing-solving-nox-player-stability-issues-on-your-computer/"><u>No More Freezing: Solving Nox Player Stability Issues on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gamers-rejoice-hitman-3-finally-booting-up-without-a-glitch-in-sight/"><u>PC Gamers Rejoice! Hitman 3 Finally Booting Up Without a Glitch in Sight</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-guide-resolving-granblue-fantasy-relinking-issues-on-your-pc/"><u>Ultimate Troubleshooting Guide: Resolving Granblue Fantasy Relinking Issues on Your PC</u></a></li>
 </ul></div>
 

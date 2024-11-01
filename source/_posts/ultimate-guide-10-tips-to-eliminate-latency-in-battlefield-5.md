@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: 10 Tips to Eliminate Latency in Battlefield 5"
-date: 2024-08-28T06:29:37.583Z
-updated: 2024-08-29T06:29:37.583Z
+date: 2024-10-27T22:58:30.590Z
+updated: 2024-10-31T17:13:39.670Z
 tags:
   - win11
   - win10
@@ -44,8 +44,12 @@ Fall Guys: Ultimate Knockout is finally out, but more and more players start com
  If you’re sure your computer is powerful enough for the game, simply move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Disable full screen optimization
 
  Recent Windows 10 builds include a new feature named**Full Screen Optimization** , which improves performance of games or apps when they’re running in full screen mode. But there’re also reports that this feature might bring about side effects. So it’s possible that you can fix the lag issues by disabling this feature.
@@ -61,9 +65,6 @@ Now you can open Fall Guys and check if the problem has gone.
 
 If the issue is still there, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  The Fall Guys lag issue can be caused by**a faulty or outdated graphics driver** . If you’re not sure whether you’re using the latest graphics driver, you should definitely have a check. Driver updates are basically a zero-cost benefit, so it’s always a smart move to keep your drivers up to date.
@@ -78,11 +79,25 @@ If the issue is still there, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/rtx-2060-de-install.jpg)
 4. Restart your computer for the changes to take full effect.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve completed these steps, open Fall Guys and test your gameplay.
 
  If updating the graphics driver doesn’t solve your problem, check out the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -93,14 +108,19 @@ Here’re the steps:
 1. On your keyboard, press **the Windows logo key** and **I**  at the same time to invoke **Windows Settings app** . Select **Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click **Check for updates** . It’ll try to download and install available updates. It might take a while depending on your network speed.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Wait until all the updates are installed. After that, restart your computer.
 
  You can now open Fall Guys and see if the problem remains. If yes, there’re still some fixes for you to try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### Fix 5: Change your power plan
 
  Power plans are simply a set of predefined settings to manage how your computer consumes or preserves power. By default, your computer is running at the “Balanced” power plan, which makes your computer less power-hungry. But this might affect your gaming experience as it puts a limit on some of the functions.
@@ -112,25 +132,30 @@ Here’re the steps:
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to invoke the **Run** dialog. Type **control** and click **OK**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-box-dialog-control.jpg)
 2. **View** the Control Panel **by Category** . Select**Hardware and Sound** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-control-panel.jpg)
 3. Click**Power Options** .  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-power-options.jpg)
 4. Select**Ultimate Performance** . If you don’t see this option, continue to the following steps to unhide this power plan.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 5. On your keyboard, press the**Windows logo key** and type **cmd** . Select **Run as administrator** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 6. In the pop-up window, type (or copy and paste) the following command and hit**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this,**go back to step 3** to enable the Ultimate Performance power plan.![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
@@ -138,17 +163,17 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 If it doesn’t do the trick, check out the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Close unnecessary programs
 
  One possible cause of lag might be the background tasks that are eating your resources secretly. To ensure a smooth and undisturbed gameplay, Fall Guys should be the only large program running on your computer. So before you start the game, make sure you’ve closed Chrome, Skype, Discord and any other programs that might be resource-hungry.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 7: Adjust in-game settings
 
  The Fall Guys lag issue might be triggered by improper graphics settings. For example, if you choose a setting that’s too demanding for your rig, you might not get the corresponding experience you desired. To check if the lag issue is related to game settings, lower the in-game graphics settings and see if it reduces the lag.
@@ -171,9 +196,6 @@ If it doesn’t do the trick, check out the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/fall-guys-low-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ---
 
  Hopefully, these methods help you fix the Fall Guys lag issue. If you have any questions or suggestions, please feel free to drop a comment down below.
@@ -184,8 +206,6 @@ If it doesn’t do the trick, check out the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +213,19 @@ If it doesn’t do the trick, check out the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-from-live-to-digital-preserving-your-skype-talks/"><u>[New] 2024 Approved From Live to Digital Preserving Your Skype Talks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-real-time-vr-hardware-analysis/"><u>[New] In 2024, Real-Time VR Hardware Analysis</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-maximizing-your-social-media-impact-group-photosvideos-on-ig-for-2024/"><u>[New] Maximizing Your Social Media Impact Group Photos/Videos on IG for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/swfflvmovavi/"><u>自由免費的線上SWF與FLV媒體間適配工具，以Movavi為主打</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/flashcapture-quick-image-hold-manual/"><u>FlashCapture Quick Image Hold Manual</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-honor-x50imirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Honor X50iMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/meet-the-unrivaled-champion-why-you-need-perplexity-ai-for-exceptional-results-on-your-google-searches-today/"><u>Meet the Unrivaled Champion: Why You Need Perplexity AI for Exceptional Results on Your Google Searches Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solution-to-overcome-nvidia-geforce-0x0003-error-code-challenge/"><u>Step-by-Step Solution to Overcome NVIDIA Geforce 0X0003 Error Code Challenge</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-sekiro-from-closing-unexpectedly-quick-solutions-inside/"><u>Stop Sekiro From Closing Unexpectedly - Quick Solutions Inside!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/targus-displaylink-driver-upgrade-for-windows-step-by-step-guide/"><u>Targus DisplayLink Driver Upgrade for Windows: Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-solution-for-players-struggling-with-memory-error-12707-on-call-of-duty-modern-warfare-3/"><u>The Ultimate Solution for Players Struggling with Memory Error 12707 on Call of Duty: Modern Warfare 3</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-warframe-is-freezing-issue-quick-solutions-for-smoother-gaming/"><u>Troubleshooting the 'Warframe Is Freezing' Issue - Quick Solutions for Smoother Gaming</u></a></li>
+</ul></div>
 
