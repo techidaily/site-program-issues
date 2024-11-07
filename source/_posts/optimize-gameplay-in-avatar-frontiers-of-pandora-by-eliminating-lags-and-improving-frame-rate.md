@@ -1,7 +1,7 @@
 ---
 title: "Optimize Gameplay in Avatar: Frontiers of Pandora by Eliminating Lags and Improving Frame Rate"
-date: 2024-10-27T07:31:03.010Z
-updated: 2024-11-01T04:05:08.177Z
+date: 2024-11-01T21:28:45.141Z
+updated: 2024-11-06T18:18:50.152Z
 tags:
   - win11
   - win10
@@ -40,13 +40,6 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Splitgate and select **End task** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
 
  Also, too many startup apps can be a drag on your computer’s performance. Therefore, you should prevent these apps from automatically starting when you sign into Windows:
@@ -55,14 +48,14 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 
 ![disable apps from running automatically at startup](https://images.drivereasy.com/wp-content/uploads/2021/04/startup-disable.png)
 
- After you’ve done these, play Splitgate. If your problems persist, proceed to the next fix.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ After you’ve done these, play Splitgate. If your problems persist, proceed to the next fix.
 
 ## 2\. Delete temp files
 
@@ -75,45 +68,52 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-temp-files-1.jpg)
 4. Press**Ctrl + A** at the same time to select all the files inside the folder. Then right-click and select**Delete** .  
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
 5. If the following prompt appears, simply check**Do this for all current items** and click**Skip** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![delete temporary files](https://images.drivereasy.com/wp-content/uploads/2021/08/skip-for-all-current-items.png)
 6. After the files are deleted, go to your desktop and right-click on the **Recycling Bin**  and select **Empty Recycle Bin** .  
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)  
 
  Now you should be able to play your game smoothly. But if it doesn’t work for you, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Stop overclocking
 
  Some players might use overclocking applications such as MSI Afterburner to hopefully get a performance increase. But the truth is that these applications can cause crashes, stutters and other performance issues for some titles. If you suffer from sudden frame rate drops and stutters during Splitgate gameplay, you should stop overclocking.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Update your graphics driver
@@ -148,35 +148,22 @@ Here’s how to update drivers with Driver Easy:
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down. Find **Graphics settings** and click on it.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/grahics-settings-1.png)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/change-default-graphics-settings.jpg)
 4. Turn on**Hardware-accelerated GPU scheduling** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-hardware-accelerated-GPU-scheduling.png)
 
  After applying the changes, restart your PC and you should be able to gain a certain amount of FPS boost. However, if this doesn’t do the trick, try the next fix below.
-
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Optimize in-game settings
 
@@ -192,6 +179,13 @@ Here’s how to update drivers with Driver Easy:
 **VSYNC:** turn it off  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/fullscreen-and-disable-vsync.png)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then apply the changes and test your gameplay.
 
@@ -214,24 +208,18 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-sifting-through-the-elements-of-instagram-stories/"><u>[New] In 2024, Sifting Through the Elements of Instagram Stories</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-final-goodbye-to-youtubes-minis-a-step-by-step-process/"><u>[Updated] Final Goodbye to YouTube's Minis A Step-by-Step Process</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-navigating-instagrams-self-verification-maze/"><u>2024 Approved Navigating Instagram's Self-Verification Maze</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722990944267-banish-kurtzpel-downfall-errors-once-and-for-all-effective-troubleshooting-steps-unveiled/"><u>Banish KurtzPel Downfall Errors Once and For All - Effective Troubleshooting Steps Unveiled!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boosting-performance-in-rainbow-six-extraction-tackling-low-fps-problems/"><u>Boosting Performance in Rainbow Six Extraction - Tackling Low FPS Problems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-api-mastery-innovative-techniques-for-seamless-bot-interaction/"><u>ChatGPT API Mastery: Innovative Techniques for Seamless Bot Interaction</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723007345281-dirt-5-playing-woes-learn-how-to-prevent-crashes-and-boost-your-racing-performance-on-computer/"><u>Dirt 5 Playing Woes? Learn How to Prevent Crashes and Boost Your Racing Performance on Computer!</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-12-pro-max-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elite-choices-for-portable-power-in-pc-gaming-expertly-compact-systems/"><u>Elite Choices for Portable Power in PC Gaming: Expertly Compact Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/explore-our-curated-list-of-top-culinary-adventures-from-your-kitchen-screen-the-10-best-showcased-on-netflix/"><u>Explore Our Curated List of Top Culinary Adventures From Your Kitchen Screen: The 10 Best Showcased on Netflix</u></a></li>
-<li><a href="https://program-issues.techidaily.com/grand-theft-auto-v-troubleshooting-fixing-errgfxd3dinit-graphics-issue/"><u>Grand Theft Auto V Troubleshooting: Fixing ERR_GFX_D3D_INIT Graphics Issue</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-pc-boot-failures-when-playing-outriders-recent-solutions-222/"><u>How to Resolve PC Boot Failures When Playing Outriders - Recent Solutions (2#22)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-poco-x6-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Poco X6 Pro Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-best-5-book-video-promotions-ever-made/"><u>In 2024, The Best 5 Book Video Promotions Ever Made</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/sense-of-savings-with-activbuds-hearing-aids/"><u>Sense of Savings with ActivBuds Hearing Aids</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-overcoming-launch-problems-with-saints-row-on-your-windows-pc-a-step-by-step-fix/"><u>Solved: Overcoming Launch Problems with Saints Row on Your Windows PC – A Step-by-Step Fix</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-superpeople-dx9-issue-a-step-by-step-guide/"><u>Solving the 'Superpeople DX9 Issue' - A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-remedy-for-fixing-the-life-threatening-gaming-glitch-in-ghost-runner-for-windows-10-users/"><u>Step-by-Step Remedy for Fixing the Life-Threatening Gaming Glitch in Ghost Runner for WINDOWS 10 Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-resolving-cannot-start-csgo-problems/"><u>Troubleshooting Steps for Resolving 'Cannot Start CS:GO' Problems</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-zero-shaking-zones-how-to-fix-unstable-gopro-videos/"><u>[New] In 2024, Zero Shaking Zones How to Fix Unstable GoPro Videos</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-zooms-auditory-masterclass-fine-tuning-for-impeccable-audio/"><u>[New] In 2024, Zoom's Auditory Masterclass Fine-Tuning for Impeccable Audio</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-xcom-2-crash-on-windows/"><u>[SOLVED] XCOM 2 Crash on Windows</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-step-by-step-guide-to-switch-game-recording/"><u>[Updated] 2024 Approved Step-by-Step Guide to Switch Game Recording</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725286706047-winx-dvd-ripper-platinum/"><u>『公式』WinX DVD Ripper Platinumにおけるディスク選択不可解消 - 最新対策ガイド</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-private-data-from-iphone-6s-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-lava-agni-2-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Lava Agni 2 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-stream-wars-unveiled-which-wins-obs-or-twitch/"><u>In 2024, Stream Wars Unveiled Which Wins, OBS or Twitch?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-launch-obstacles-in-your-playthrough-of-witcher-n3-wild-hunt/"><u>Overcoming Launch Obstacles in Your Playthrough of Witcher N3: Wild Hunt</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-8-solutions-how-to-resolve-marvels-guardians-of-the-galaxy-pc-crashes/"><u>Top 8 Solutions: How to Resolve Marvel's Guardians of the Galaxy PC Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-continuous-restarts-of-pacific-drive-in-windows-environments/"><u>Troubleshooting Continuous Restarts of Pacific Drive in Windows Environments</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-samsung-galaxy-m14-4g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Samsung Galaxy M14 4G Screen | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-digital-communication-our-picks-for-the-10-best-free-email-options/"><u>Unlocking Digital Communication: Our Picks for the 10 Best Free Email Options</u></a></li>
 </ul></div>
 

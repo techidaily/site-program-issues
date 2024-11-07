@@ -1,7 +1,7 @@
 ---
 title: Update on Elden Ring - Why the Hold-Up in Its Launch?
-date: 2024-08-23T17:32:56.774Z
-updated: 2024-08-24T17:32:56.774Z
+date: 2024-11-04T19:21:47.169Z
+updated: 2024-11-07T02:06:15.854Z
 tags:
   - win11
   - win10
@@ -61,6 +61,14 @@ To check the specs of your PC:
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
 
@@ -68,7 +76,21 @@ To check the specs of your PC:
 
  If your PC specs have been up to the mark but Days Gone still fails to launch, please move on to **Fix 2** , below to begin troubleshooting.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to fix Days Gone Not Launching on PC
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1 – Install the latest game patch
 
@@ -76,9 +98,6 @@ To check the specs of your PC:
 
  If you’ve installed the latest patch but the issue persists, please try**Fix 2** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2 – Update your graphics driver
 
  A graphics driver, acting as a translator between your operating system, programs and your graphics hardware, is essential to the proper functioning of the whole system. If the driver is wrong, outdated or corrupt, it may cause instabilities, crashing and game launching problems. So you should update your graphics driver to see if it solves the issue. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -93,9 +112,6 @@ To check the specs of your PC:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-3.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart your computer for the changes to take effect.
 5. Open the game in your launcher and see if it launches smoothly. If yes, you’ve fixed the problem. If it’s still failing, just head on to**Fix 3** , below.
 
@@ -121,14 +137,7 @@ To check the specs of your PC:
 3. Click the **DISPLAY**  tab, then in**WINDOW MODE** , choose**Windowed mode** . Click**Apply** and exit.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-4.png)
 4. Open Days Gone and see if the launching issue is fixed. If yes, then congrats. If it’s still no joy, please continue with**Fix 4** , below.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4 – Disable all overlays
 
  Overlay in Steam gives you access to features and apps without having to leave the game. However, some Steam players report that the feature has interfered with their gameplay and triggered the launching issues for them. If you have the feature on Steam, GeForce Experience and/or Discord, it’s recommended that you turn them off altogther and see if it helps with the situation.
@@ -139,14 +148,8 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. Locate Days Gone and right-click on**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/properties-1.png)
 3. Uncheck the box for**Enable the Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/uncheck.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Disable GeForce Experience Overlay
 
 1. Open GeForce Experience.
@@ -175,16 +178,18 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. Locate Days Gone and right-click on**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/properties-1.png)
 3. Click**LOCAL FILES** \>**Verify integrity of game files…** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/05/local.png)
-4. Wait a bit until the process finishes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/05/1of2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/local.png)
+4. Wait a bit until the process finishes.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/1of2.png)
+
  After that, re-launch the game and see if it opens without fail. If it’s still not launching, please continue with**Fix 6** , below.
 
 ##### On Epic Games Launcher
@@ -193,23 +198,42 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 2. Locate Days Gone, then click **the three dots icon next to the game** and click **VERIFY** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify.png)
 3. Wait a bit until the process finishes. After that, re-launch the game and see if it opens without fail. If it’s still not launching, please continue with**Fix 6** , below.
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6 – Rename the Movies Folder
 
  According to some players’ feedback, renaming the Movies folder has helped in recovering the game to normal. It may sound not too intuitive, but it’s worth a shot. To do so, simply find your game’s directory, locate the**Movies** folder, then rename the folder (e.g. Movies\_2).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/rename.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once finished, head back to your game launcher to fire the game up. If this cuts it, then great. If it’s yielding no result, just try**Fix 7** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 7 – Close unnecessary apps
 
  Having too many apps running in the background may make your game fail to restart, since they compete for CPU and memory. So it makes sense that while you’re playing the game, you close these resources hungry applications and services.
@@ -232,8 +256,6 @@ Here’s how to close background apps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -241,4 +263,26 @@ Here’s how to close background apps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-innovative-approaches-to-modify-user-numbers-in-tiktok/"><u>[Updated] 2024 Approved Innovative Approaches to Modify User Numbers in TikTok</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-essential-windows-11-camcorders-and-webcams-guide-for-2024/"><u>[Updated] Essential Windows 11 Camcorders & Webcams Guide for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-finding-your-voice-on-youtube-a-guide-to-selective-audiences/"><u>2024 Approved Finding Your Voice on YouTube A Guide to Selective Audiences</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/m4a-swf-movavi/"><u>免費移動 M4A 到 SWF - 使用 Movavi 影片轉換器在線上</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-strategies-for-speeding-up-origin-downloads/"><u>Effective Strategies for Speeding Up Origin Downloads</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/expert-advice-successfully-installing-the-most-recent-ftdi-drivers-under-windows-environment/"><u>Expert Advice: Successfully Installing the Most Recent FTDI Drivers Under Windows Environment</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-best-practices-in-on-screen-moment-preservation/"><u>In 2024, Best Practices in On-Screen Moment Preservation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-top-video-enhancements-in-obs-studio-edits/"><u>In 2024, Top Video Enhancements in OBS Studio Edits</u></a></li>
+<li><a href="https://program-issues.techidaily.com/launch-issues-resolved-enjoy-robocops-latest-installment-rogue-city-on-pc/"><u>Launch Issues Resolved: Enjoy RoboCop's Latest Installment, Rogue City on PC</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/melodic-matchmaking-music-that-matters-on-social-media-for-2024/"><u>Melodic Matchmaking Music That Matters on Social Media for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-hurdle-of-unresponsive-gamepads-with-steam-in-windows/"><u>Overcoming the Hurdle of Unresponsive Gamepads with Steam in Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-issues-with-sifu-games-frame-rate-and-smoothness-on-pc-systems/"><u>Resolved: Issues with Sifu Game's Frame Rate and Smoothness on PC Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-problem-how-to-fix-and-prevent-fortnite-version-ls-0013-initialization-failures/"><u>Solved Problem: How to Fix and Prevent Fortnite Version LS-0013 Initialization Failures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-surge-2s-endless-crash-loop-woes/"><u>Solving The Surge 2'S Endless Crash Loop Woes</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-infinix-hot-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/tower-of-fantasy-on-pc-ultimate-fix-guide-to-stop-the-constant-crashing/"><u>Tower of Fantasy on PC - Ultimate Fix Guide to Stop the Constant Crashing!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tormented-souls-how-to-prevent-frequent-desktop-interruptions/"><u>Troubleshooting 'Tormented Souls': How to Prevent Frequent Desktop Interruptions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-issues-with-msi-mystic-light-compatibility-on-windows/"><u>Troubleshooting Guide: Fixing Issues with MSI Mystic Light Compatibility on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-the-unable-to-join-a-party-issue-in-fortnite-with-error-code-critical-fixes/"><u>Troubleshooting the 'Unable to Join a Party' Issue in Fortnite with Error Code Critical Fixes</u></a></li>
+</ul></div>
 

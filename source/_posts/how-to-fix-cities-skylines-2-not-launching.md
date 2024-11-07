@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Cities: Skylines 2 Not Launching"
-date: 2024-08-23T17:36:06.315Z
-updated: 2024-08-24T17:36:06.315Z
+date: 2024-10-31T19:34:37.285Z
+updated: 2024-11-06T18:46:55.388Z
 tags:
   - win11
   - win10
@@ -30,6 +30,19 @@ thumbnail: https://thmb.techidaily.com/f946d84f254099655a6b886de29d65e5f587fa0ec
 | **Video Card**   | NVIDIA GeForce GTX 460 or AMD Radeon HD 5870 (DirectX-11 compliant with 1GB of VRAM) |
 | **Hard Drive**   | 30 GB                                                                                |
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Recommended**system requirement**
 
 | **Supported OS** | Windows 7 SP1, Windows 8.1, Windows 10 (64bit versions required)                                                |
@@ -39,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/f946d84f254099655a6b886de29d65e5f587fa0ec
 | **Video Card**   | NVIDIA GeForce GTX 670 (or GTX 760 / GTX 960) or AMD Radeon HD 7970 (or R9 280x \[2GB VRAM\] / R9 380 / Fury X) |
 | **Hard Drive**   | 47 GB                                                                                                           |
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  There’re 5 fixes that have helped many gamers solve their problems. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -54,8 +64,12 @@ thumbnail: https://thmb.techidaily.com/f946d84f254099655a6b886de29d65e5f587fa0ec
 6. **[Reinstall Uplay](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1: Disable your Antivirus software
 
  It has been proved by many users that some antivirus software like Bitdefender is the reason for the Rainbow Six Siege won’t launch issue. Antivirus software forbidden the game and cause the problem.  
@@ -79,14 +93,8 @@ If the game is still crashing, try the next fix.
 3. Click the**Compatibility** tab and check**Run as Administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/ad.jpg)
 4. Click**Apply > OK** .
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Run the game and check the issue is solved or not.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics card driver
 
  It is very important to update your graphics card drivers. Windows 10 doesn’t always give you the latest version. But with outdated or wrong drivers, you may encounter Rainbow Six Siege won’t launch issue. So it’s really important to keep your drivers updating to get a better gaming experience.
@@ -115,9 +123,14 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it launch properly.
@@ -140,9 +153,6 @@ OR
 **Note** : If it doesn’t work, you may restart Steam before doing step 4.  
  If it’s still not working, you can move to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Reinstall Microsoft Visual C++ Redistributable Package
 
  If your Siege and Uplay (including the BattleEye) were successfully installed but Rainbow Six Siege won’t launch, you may need to check the supported software.
@@ -150,18 +160,35 @@ OR
 1. Type “control panel” in the search bar and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/control.jpg)
 2. Set**View in Large icons** and click**Program and Features** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/program.jpg)
 3. Find the newest Microsoft Visual C++ Redistributable. Right-click on it and click**Change** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/change.jpg)
 4. Click Repair. Then follow the on-screen instructions.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : You probably have several of them installed so try and do that Repair for all of them if needed and reboot your computer when asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/repair.jpg)
 5. Launch Rainbow Six Siege to check.
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note: If your computer don’t have Microsoft Visual C++ 201X Redistributable software, you can go to[Microsoft official website](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) to download the latest version.
@@ -177,9 +204,14 @@ OR
 3. Right-click on**Uplay** and click**Uninstall/Change** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uplay.jpg)
 4. After uninstalling uPlay. Go to the[Uplay official website](https://uplay.ubisoft.com/en-GB) to download the latest version.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Install Uplay.
 6. Log in Uplay, run Rainbow Six Siege to check.
 
@@ -195,8 +227,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,4 +234,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-essential-7-apps-for-high-quality-youtube-live-streaming-on-iphones-and-android/"><u>[Updated] In 2024, Essential 7 Apps for High-Quality YouTube Live Streaming on iPhones & Android</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-essential-guide-to-8-premium-free-software-apps-windowsmac/"><u>2024 Approved Essential Guide to 8 Premium Free Software Apps (Windows/Mac)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-expert-analysis-the-best-webcam-videotaping-tools/"><u>2024 Approved Expert Analysis The Best WebCam Videotaping Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-how-to-use-dslr-for-facebook-live-on-you-pc-or-mac/"><u>2024 Approved How to Use DSLR for Facebook Live on You PC or Mac?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cult-of-the-lamb-stability-hacks-no-more-pc-disruptions/"><u>Cult of the Lamb Stability Hacks - No More PC Disruptions</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dark-displays-post-driver-implementation/"><u>Dark Displays Post-Driver Implementation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005599902-facing-continuous-game-crashes-in-the-ascent-on-your-desktop-we-can-help/"><u>Facing Continuous Game Crashes in The Ascent on Your Desktop? We Can Help</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-constant-crashing-in-remnant-from-the-ashes/"><u>How to Fix Constant Crashing in 'Remnant: From the Ashes'?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improvements-in-the-elder-scrolls-online-resolving-issues-with-blackwood-latency/"><u>Improvements in The Elder Scrolls Online - Resolving Issues with Blackwood Latency</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/leading-apps-for-editing-dji-drone-film-content/"><u>Leading Apps for Editing DJi Drone Film Content</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-facing-a-black-screen-in-star-wars-battlefront-ii-troubleshooting-guide/"><u>Resolved: Facing a Black Screen in Star Wars Battlefront II - Troubleshooting Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/restore-auditory-bliss-in-fallout-4-pc-version-with-these-easy-hacks/"><u>Restore Auditory Bliss in Fallout 4 PC Version with These Easy Hacks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revive-your-stuck-rust-programs-2024-strategies/"><u>Revive Your Stuck Rust Programs: 2024 Strategies</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solutions-to-resolve-the-libeay32dll-file-not-found-mistake/"><u>Solutions to Resolve the 'libeay32.dll' File Not Found Mistake</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-success-rainbow-six-siege-starts-without-problem/"><u>Troubleshooting Success! Rainbow Six Siege Starts Without Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-youtube-buffering-issues-solved/"><u>Ultimate Guide: Resolving YouTube Buffering Issues - Solved!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-employment-consequences-the-possibility-of-firing-for-using-chatgpt-across-different-situations/"><u>Understanding Employment Consequences: The Possibility of Firing for Using ChatGPT Across Different Situations</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unsticking-the-power-button-on-your-iphone-proven-strategies-for-action/"><u>Unsticking the Power Button on Your iPhone: Proven Strategies for Action</u></a></li>
+</ul></div>
 

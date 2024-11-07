@@ -1,7 +1,7 @@
 ---
 title: How to Stop Far Cry 6 From Malfunctioning on Windows - Solutions Explored
-date: 2024-08-23T17:32:05.255Z
-updated: 2024-08-24T17:32:05.255Z
+date: 2024-10-30T17:12:01.762Z
+updated: 2024-11-06T17:10:34.522Z
 tags:
   - win11
   - win10
@@ -58,7 +58,28 @@ There are mainly two ways to update your drivers:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click the**Update** button to update certain driver you want.  
+
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -72,16 +93,25 @@ There are mainly two ways to update your drivers:
 1. Go to the Madden 22 installation folder. Then click the executable file and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-14.jpg)
 2. Select the**Compatibility** tab. Tick**Run this program as an administrator** and click**OK** to save the changes.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
+
 See if the issue persists. If yes, continue to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4 – Repair the game files
 
  Missing or faulty game files will also prevent Madden 22 from working properly. To see if that’s the case, you could perform a quick scan and repair of the game files. Below we’ll show you how to do this on **[Steam](https://tools.techidaily.com/drivereasy/download/)**  and[**Epic Games Launcher**](https://tools.techidaily.com/drivereasy/download/) .
@@ -91,19 +121,10 @@ See if the issue persists. If yes, continue to the next solution.
 1. Launch your Steam client and select the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click Madden 22 from the list and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Navigate to the**Local Files** tab and click**Verify integrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It may take a few minutes for the process to complete. Upon completion, check whether you can play the game normally. If not, proceed to **[Fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
 
 #### On Epic Games Launcher
@@ -111,10 +132,14 @@ See if the issue persists. If yes, continue to the next solution.
 1. Open Epic Games launcher and select the**Library** tab in the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-3-1.jpg)
 2. Locate the Madden NFL 22 title and click the icon with three dots next to it. Then click**Verify** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After the process finishes, restart Madden 22 to test the issue. If it’s still not working, try the next fix below.
 
@@ -147,8 +172,6 @@ See if the issue persists. If yes, continue to the next solution.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +179,24 @@ See if the issue persists. If yes, continue to the next solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-crafting-compelling-documentary-narratives-for-2024/"><u>[New] Crafting Compelling Documentary Narratives for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-how-to-download-vimeo-videos-withwithout-software-100-useful/"><u>[Updated] 2024 Approved How to Download Vimeo Videos With/Without Software [100% Useful]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/2024-ultimate-solution-overcoming-path-of-exiles-instance-connection-problems/"><u>2024 Ultimate Solution: Overcoming Path of Exile's Instance Connection Problems</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/decoding-the-meaning-behind-fbs-blue-status-indicator-for-2024/"><u>Decoding the Meaning Behind FB's Blue Status Indicator for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/easy-steps-for-successfully-resizing-your-ssd-and-cloning-it-to-bigger-storage-in-windows-11/"><u>Easy Steps for Successfully Resizing Your SSD and Cloning It to Bigger Storage in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ensuring-stability-for-microsoft-flight-simulator-2020-overcoming-pc-compatibility-and-crash-problems/"><u>Ensuring Stability for Microsoft Flight Simulator 2020 - Overcoming PC Compatibility and Crash Problems</u></a></li>
+<li><a href="https://facebook.techidaily.com/hacked-ratings-facebooks-app-store-scores-tank-under-activist-pressure/"><u>Hacked Ratings: Facebook's App Store Scores Tank Under Activist Pressure</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723011242190-how-to-fix-assassins-creed-mirage-crashing-2024-tips/"><u>How to Fix Assassin's Creed Mirage Crashing - 2024 Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-successfully-install-minecraft-on-your-windows-11-system/"><u>How to Successfully Install Minecraft on Your Windows 11 System</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-10-best-image-to-video-makers-online-free-and-paid/"><u>In 2024, 10 Best Image to Video Makers Online Free & Paid</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-smirk-studio-memomaker/"><u>In 2024, Smirk Studio MemoMaker</u></a></li>
+<li><a href="https://program-issues.techidaily.com/la-noire-on-steam-now-available-overcoming-the-pending-pc-release-issues/"><u>L.A. Noire on Steam Now Available – Overcoming the Pending PC Release Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/new-and-improved-yakuza-3-gaming-experience-on-pc-no-more-crashing-issues/"><u>New & Improved Yakuza 3 Gaming Experience on PC: No More Crashing Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-voice-chat-setbacks-in-among-us-on-desktop-pcs/"><u>Overcoming Voice Chat Setbacks in Among Us on Desktop PCs</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/peeking-into-instagram-stories-what-viewers-dont-know-for-2024/"><u>Peeking Into Instagram Stories What Viewers Don’t Know for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-optimizing-your-pc-for-flawless-cs2-performance/"><u>Ultimate Guide: Optimizing Your PC for Flawless CS2 Performance</u></a></li>
+</ul></div>
 

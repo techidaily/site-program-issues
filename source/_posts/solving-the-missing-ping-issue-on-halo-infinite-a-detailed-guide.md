@@ -1,7 +1,7 @@
 ---
 title: Solving the Missing Ping Issue on Halo Infinite - A Detailed Guide
-date: 2024-08-23T17:34:28.959Z
-updated: 2024-08-24T17:34:28.959Z
+date: 2024-11-02T18:59:07.520Z
+updated: 2024-11-06T17:58:47.099Z
 tags:
   - win11
   - win10
@@ -54,9 +54,6 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 
  If your rig is powerful enough for the game, check out the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Verify the integrity of game files
 
  The constant crashes could indicate**an integrity issue with your game files** . In that case, you can run some checking to repair the corrupt or missing files.
@@ -67,21 +64,26 @@ Here’s how:
 2. Under the**Installed** section, click the picture of Immortals Fenyx Rising.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-1.jpg)
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
 
 If this method doesn’t help, you can take a look at the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  One of the most common causes of game crashes is that you’re using a**faulty or outdated graphics driver** .[According to some gamers](https://www.reddit.com/r/ubisoft/comments/k60g25/immortals%5Ffenyx%5Frising%5Fis%5Fvery%5Fpoorly%5Foptimized/) , updating the graphics driver can greatly improve the performance and stability of Immortals Fenyx Rising. So you should definitely**try updating your drivers** before attempting anything more complicated.
@@ -105,6 +107,14 @@ If this method doesn’t help, you can take a look at the next one.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -114,10 +124,6 @@ If this method doesn’t help, you can take a look at the next one.
 
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 4: Install all Windows updates
 
  Microsoft releases software updates and security patches periodically to fix operating system issues. We always recommend**keeping your system up to date** , as doing so would help you avoid tons of strange errors.
@@ -127,11 +133,16 @@ And here’s how you can make sure your system is the latest:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Immortals Fenyx Rising.
@@ -146,8 +157,6 @@ And here’s how you can make sure your system is the latest:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +164,24 @@ And here’s how you can make sure your system is the latest:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-the-comprehensive-users-manual-on-using-ez-grabber-for-2024/"><u>[New] The Comprehensive User's Manual on Using EZ Grabber for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-tech-insight-pulling-and-keeping-twitters-vids-in-phone/"><u>[Updated] 2024 Approved Tech Insight Pulling and Keeping Twitters Vids in Phone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-disconnected-sounds-to-cohesive-scenes-with-audacity/"><u>[Updated] From Disconnected Sounds to Cohesive Scenes with Audacity</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-preventing-sickness-while-engaging-with-vr/"><u>[Updated] Preventing Sickness While Engaging with VR</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pioneering-haptic-interface-an-in-depth-guide/"><u>2024 Approved Pioneering Haptic Interface An In-Depth Guide</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-essential-how-to-guide-for-filming-anywhere-anytime/"><u>2024 Approved The Essential How-To Guide for Filming Anywhere, Anytime</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-preventing-crashes-in-football-manager-2021-while-playing-on-a-desktop-computer/"><u>Expert Tips for Preventing Crashes in Football Manager 2021 While Playing on a Desktop Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-persistent-issues-with-ghostwire-tokyos-stability-on-pc/"><u>Fixing Persistent Issues with Ghostwire: Tokyo's Stability on PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-honor-magic-6-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Honor Magic 6 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/premier-alternatives-exceeding-the-limits-of-twitter/"><u>Premier Alternatives Exceeding the Limits of Twitter</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resident-evil-village-re8-for-pc-unstoppable-performance-fixes-to-end-game-crashing/"><u>Resident Evil Village (RE8) for PC: Unstoppable Performance Fixes to End Game Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-and-restart-troubleshooting-a-non-responsive-google-chrome-browser/"><u>Resolve and Restart: Troubleshooting a Non-Responsive Google Chrome Browser</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-issue-why-frontier-keeps-freezing-in-windows-a-comprehensive-guide/"><u>Resolving the Issue: Why 'Frontier' Keeps Freezing in Windows - A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/secure-and-convenient-content-with-funimate-tools-for-2024/"><u>Secure and Convenient Content with Funimate Tools for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-davinci-resolve-startup-errors-on-your-pc-tips-and-tricks-for-smooth-operation/"><u>Solving DaVinci Resolve Startup Errors on Your PC – Tips & Tricks for Smooth Operation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-installation-problems-of-minecraft-on-windows-11-computers/"><u>Troubleshooting Guide: Installation Problems of Minecraft on Windows 11 Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/world-of-warcraft-optimization-overcoming-low-fps-challenges/"><u>World of Warcraft Optimization: Overcoming LOW FPS Challenges</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix Tarkov Error Code 103003
-date: 2024-08-23T17:39:14.877Z
-updated: 2024-08-24T17:39:14.877Z
+date: 2024-11-02T22:41:52.615Z
+updated: 2024-11-07T03:46:31.521Z
 tags:
   - win11
   - win10
@@ -48,9 +48,23 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![game properties](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Select the**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES…**
 
 ![verify game files in Steam](https://images.drivereasy.com/wp-content/uploads/2021/09/verify.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Wait for Steam to verify the game files. This process may take up to several minutes.
 
@@ -58,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
  Try starting the game and check if the ‘Pathfinder: Wrath of the Righteous not launching’ issue persists. If this method doesn’t do the trick, you can move on to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your device drivers
 
  To boost gaming performance, it’s always recommended to keep your drivers up to date, especially your graphics driver (sometimes your audio drivers, too). If your driver is outdated or faulty, you may experience game crashing / not launching issues quite often (newly-released games especially).
@@ -76,21 +87,29 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 ![scan now](https://images.drivereasy.com/wp-content/uploads/2021/09/scannow.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged graphics / audio driver to automatically download and install the correct driver (You can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install all the latest correct drivers that are missing or outdated (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will be prompted to upgrade when you click Update All).
 
 ![update drivers to fix game issues](https://images.drivereasy.com/wp-content/uploads/2021/09/update-all.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Restart your computer and check whether your problem is solved.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable NVIDIA/GoG Overlays
 
@@ -100,9 +119,6 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![GoG settings](https://images.drivereasy.com/wp-content/uploads/2021/09/46e9a5f8532993ddb8e9c46043a41a5e0e77_740xt.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  2) Go to**Game Features** and uncheck**Overlay** .
 
 ![turn off gog overlay](https://images.drivereasy.com/wp-content/uploads/2021/09/gog.png)
@@ -121,14 +137,18 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  How to disable the GeForce Experience Share in-game overlay
 
  4) Under the**GENERAL** tab, scroll down and toggle**IN-GAME OVERLAY** to **Off** .
 
 ![turn off NVIDIA overlay](https://images.drivereasy.com/wp-content/uploads/2021/09/nvidia-1200x366.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Close the GeForce Experience window and try starting your game again to test the issue. If your Pathfinder: Wrath of the Righteous is not launching, don’t worry since we have a few fixes for you to try.
 
@@ -146,6 +166,13 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
  4) Restart your game. Wait for the game to load and don’t alt-tab out.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Perform a clean boot
 
  Some applications can interfere with your Pathfinder: Wrath of the Righteous, especially your antivirus software. To check if this is the cause of ‘Pathfinder: Wrath of the Righteous not launching’, you can temporarily uninstall your antivirus software because simply disabling it might not work.
@@ -160,16 +187,10 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
 
 ![nvidia control panel](https://images.drivereasy.com/wp-content/uploads/2021/09/control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Select**Manage 3D Settings** under**3D Settings** .
 
 ![manage 3d settings](https://images.drivereasy.com/wp-content/uploads/2020/05/manage-3D-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click on the Program Settings tab and select**Pathfinder: Wrath of the Righteous** from the drop-down list.
 
  4) Below you will see ‘**Select the preferred graphics processor for this program** ‘. Expand the list and select the dedicated graphics card e.g.**High-performance Nvidia processor** .
@@ -188,8 +209,6 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,4 +216,23 @@ thumbnail: https://thmb.techidaily.com/a2bbe601a6230f438336ef26b3bc082f65d8d50e1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-laughlounge-beginner-friendly-content-creation/"><u>[New] In 2024, LaughLounge Beginner-Friendly Content Creation</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-launching-virtual-meetups-in-whatsapp-web-directly-from-your-notebook/"><u>[New] In 2024, Launching Virtual Meetups in WhatsApp Web, Directly From Your Notebook</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-tailor-fb-videos-for-maximum-full-screen-effect/"><u>[New] Tailor FB Videos for Maximum Full-Screen Effect</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-conquering-instagram-reels-like-an-elite-creator/"><u>[Updated] 2024 Approved Conquering Instagram Reels Like an Elite Creator</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-engaging-stories-through-customized-instagram-quests/"><u>[Updated] Engaging Stories Through Customized Instagram Quests</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-innovation-in-action-top-video-editing-strategies-for-2024/"><u>[Updated] Innovation in Action Top Video Editing Strategies for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-infuse-motion-blur-into-image-sequence/"><u>2024 Approved Infuse Motion Blur Into Image Sequence</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quick-visual-enhancements-using-portable-lut-tools/"><u>2024 Approved Quick Visual Enhancements Using Portable LUT Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/century-age-of-ashes-for-pc-fixed-enjoy-seamless-gameplay-with-no-more-crashes/"><u>Century: Age of Ashes for PC Fixed! Enjoy Seamless Gameplay with No More Crashes.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-ensure-smooth-play-in-armored-core-6-on-your-personal-computer/"><u>Expert Tips to Ensure Smooth Play in Armored Core 6 on Your Personal Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-beat-saber-solving-frequent-game-interruptions-and-crashes/"><u>Fix Your Beat Saber: Solving Frequent Game Interruptions and Crashes</u></a></li>
+<li><a href="https://fox-info.techidaily.com/no-cost-screenshot-masters-the-best-on-windows-1-5-guide/"><u>No-Cost Screenshot Masters – The Best on Windows #1-5 Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-game-delays-proven-fixes-and-tips-for-a-smooth-pc-experience-in/"><u>Overcoming Game Delays: Proven Fixes and Tips for a Smooth PC Experience In</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-fm-2019-crashes-tips-and-solutions-for-stable-gameplay/"><u>Troubleshooting FM 2019 Crashes - Tips & Solutions for Stable Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-how-to-prevent-spellbreak-from-freezing-on-your-desktop/"><u>Troubleshooting Tips: How to Prevent Spellbreak From Freezing on Your Desktop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-is-my-helldivers-2-not-launching-expert-tips-to-get-it-running-on-steam-again/"><u>Why Is My Helldivers 2 Not Launching? Expert Tips to Get It Running on Steam Again</u></a></li>
+</ul></div>
 

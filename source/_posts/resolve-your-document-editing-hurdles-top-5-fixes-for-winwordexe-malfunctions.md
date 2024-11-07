@@ -1,7 +1,7 @@
 ---
 title: "Resolve Your Document Editing Hurdles: Top 5 Fixes for winword.exe Malfunctions"
-date: 2024-10-28T02:27:58.955Z
-updated: 2024-11-01T07:49:26.323Z
+date: 2024-11-01T03:15:17.693Z
+updated: 2024-11-06T22:41:04.182Z
 tags:
   - win11
   - win10
@@ -50,6 +50,13 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. You’ll need the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) to do this and you’ll be prompted to upgrade.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
@@ -57,25 +64,11 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Stop overclocking
 
  Many players would like to overclock the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking usually crashes the game. To prevent game crashes, you should reset the CPU or the graphics card to the manufacturer specifications.
 
  Some players reported that Control may crash when they’re using MSI Afterburner or Zotac Firestorm. So if you’ve enabled MSI Afterburner or Zotac Firestorm, try disabling them to see if this issue persists. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Use a reduced settings profile for graphics-related features
 
@@ -84,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/e6d973791325054ad0d7f0fcd99fd3ff0a56a4431
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-setting-1024x592.png)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Here are the system requirements for Control:
 
@@ -96,10 +96,10 @@ Here are the system requirements for Control:
  Restart the game to see if this fix works, if not, try the next fix below to modify your graphics card settings.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Modify your graphics card settings
@@ -117,6 +117,14 @@ Here are the system requirements for Control:
 1. On your keyboard, press **the Windows logo key** and R at the same time to open the Run dialog. Then type control and press Enter to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View the Control Panel by **Large icons** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
@@ -131,38 +139,11 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Modify Intel graphics card
 
@@ -175,32 +156,32 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click 3D to open the 3D settings.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click Scan to add the game to the application list.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
  Launch Control again in reduced settings to see if it crashes or not. If the game still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Delete the “render.ini” file
 
@@ -212,6 +193,13 @@ Here are the system requirements for Control:
 4. Launch Control again.
 
  See if the game will crash or not. Normally this issue should be resolved. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Perform a Windows Update
 
@@ -247,6 +235,13 @@ Here are the system requirements for Control:
 1. In Epic Game Launcher, navigate to your **Library** . Click **the cog icon** on the lower-right corner of **Control** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-49-47.png)
 2. Click **Verify** to start verifying the game files.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 
@@ -298,22 +293,17 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-claim-the-crown-strategies-for-staff-picked-videos-at-vimeo/"><u>[New] 2024 Approved Claim the Crown Strategies for Staff-Picked Videos at Vimeo</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-vimeos-easy-to-use-editing-tools-no-cost/"><u>2024 Approved Vimeo's Easy-to-Use Editing Tools, No Cost</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/configuring-the-heart-of-your-system-pc-manager-for-w11/"><u>Configuring the Heart of Your System: PC Manager for W11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/discover-why-discord-keeps-crashing-and-how-to-fix-it-permanently/"><u>Discover Why Discord Keeps Crashing & How To Fix It Permanently</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dota-2-crash-solutions-diagnosing-and-correcting-common-technical-glitches-in-the-game/"><u>Dota 2 Crash Solutions: Diagnosing & Correcting Common Technical Glitches in the Game</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancing-smooth-gaming-overwatch-fps-drop-solutions/"><u>Enhancing Smooth Gaming: Overwatch FPS Drop Solutions</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-motorola-g24-power-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-best-camera-lenses-for-youtube/"><u>In 2024, Best Camera Lenses for YouTube</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-hot-40i-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Hot 40i to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://win-help.techidaily.com/maximizing-engagement-top-techniques-for-crafting-successful-fb-videos/"><u>Maximizing Engagement: Top Techniques for Crafting Successful FB Videos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-gaming-issue-resolved-fluctuating-fps-now-stabilized/"><u>PC Gaming Issue Resolved: Fluctuating FPS Now Stabilized</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-ways-to-fix-crash-when-trying-to-load-palworld/"><u>Quick Ways to Fix Crash When Trying to Load Palworld</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-how-to-fix-connectivity-problems-in-lol-a-comprehensive-guide/"><u>Solved: How to Fix Connectivity Problems in LoL - A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/tame-your-pc-innovative-fixes-to-combat-baldurs-gate-3s-high-cpu-usage-expert-tips/"><u>Tame Your PC: Innovative Fixes to Combat Baldur’s Gate 3’S High Cpu Usage - Expert Tips</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-issues-with-your-razer-blackshark-v2-microphone/"><u>Troubleshooting Guide: Resolving Issues with Your Razer Blackshark V2 Microphone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-server-disconnects-solutions-for-stability-in-escape-from-tarkov/"><u>Troubleshooting Server Disconnects: Solutions for Stability in Escape From Tarkov</u></a></li>
-<li><a href="https://facebook.techidaily.com/unlocking-your-phone-without-fbs-app-browser/"><u>Unlocking Your Phone Without FB's App Browser</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-visual-storytelling-on-instagram/"><u>[New] 2024 Approved Mastering Visual Storytelling on Instagram</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-no-video-paths-in-modern-education-systems/"><u>[Updated] No-Video Paths in Modern Education Systems</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-brief-tips-on-easy-audiovideo-recording-in-gotomeeting/"><u>2024 Approved Brief Tips on Easy Audio/Video Recording in GoToMeeting</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/breaking-down-the-mechanics-of-meme-dominance-for-2024/"><u>Breaking Down the Mechanics of Meme Dominance for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/exclusive-list-of-top-5-iphone-podcast-platforms-for-2024/"><u>Exclusive List of Top 5 iPhone Podcast Platforms for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/latest-solutions-for-resolving-lost-ark-not-starting-problem/"><u>Latest Solutions for Resolving Lost Ark Not Starting Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-performance-optimization-overcoming-frame-rate-issues-and-hitches-in-call-of-duty-modern-warfare-3/"><u>Mastering Performance Optimization: Overcoming Frame Rate Issues and Hitches in Call of Duty: Modern Warfare 3</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-issues-and-crash-fixes-in-naraka-edge-of-night-gameplay/"><u>Resolved Issues and Crash Fixes in Naraka: Edge of Night Gameplay</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-to-updating-sata-device-drivers-on-windows-free-download-and-tips/"><u>Step-by-Step Guide to Updating SATA Device Drivers on Windows - Free Download & Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-serious-sam-4-gameplay-glitches-solving-pc-lag-crashes-and-hitches/"><u>Troubleshoot Serious Sam 4 Gameplay Glitches: Solving PC Lag, Crashes, and Hitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-stable-instances-of-slime-rancher-2-crashes/"><u>Troubleshooting Tips: Resolving Stable Instances of Slime Rancher 2 Crashes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/virtual-customer-care-hub-for-winx-dvd-ripper-platinum-software/"><u>Virtual Customer Care Hub for WinX DVD Ripper Platinum Software</u></a></li>
 </ul></div>
 

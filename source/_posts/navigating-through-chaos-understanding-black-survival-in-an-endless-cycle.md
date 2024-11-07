@@ -1,7 +1,7 @@
 ---
 title: "Navigating Through Chaos: Understanding 'Black Survival' In an Endless Cycle"
-date: 2024-10-29T07:19:45.491Z
-updated: 2024-10-31T16:29:01.693Z
+date: 2024-11-06T03:37:14.669Z
+updated: 2024-11-06T19:34:22.537Z
 tags:
   - win11
   - win10
@@ -118,6 +118,13 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-00-54.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-02-08.jpg)
@@ -174,13 +181,6 @@ If your issue continues to occur, go to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_16-20-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_16-20-22.jpg)
@@ -188,6 +188,13 @@ If your issue continues to occur, go to the next fix.
 **6)** Click your **C drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_16-20-25.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **7)** Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
@@ -198,6 +205,13 @@ If your issue continues to occur, go to the next fix.
 **8)** Click **Set** , and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_16-20-34.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **9)** Restart your computer and your game.
 
@@ -215,14 +229,14 @@ If your issues still exist, read on and check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-31-06.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Restart your computer after the update is complete, then relaunch your game. If the issue persists, try the fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall your game
 
@@ -241,13 +255,6 @@ If your issues still exist, read on and check the fix below.
 **5)**  Relaunch Steam to download and reinstall STAR WARS Jedi: Fallen Order. Then, try launching the game again.
 
  So there you have it-8 simple solutions to fix the launching issue on Star Wars Jedi: Fallen Order. Let me know if this worked for you or if you have a better idea of how to fix this issue. I would love your thoughts!
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to fix the STAR WARS Jedi: Fallen Order launching issue on Xbox One?
 
@@ -271,13 +278,6 @@ If your issues still exist, read on and check the fix below.
 **3)** Restart your**Xbox One** and your game to test your issue.
 
  If the game still won’t launch after the reboot, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your console
 
@@ -321,6 +321,13 @@ If your issues still exist, read on and check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_15-52-27.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)**  Select **Reset console** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_15-52-30.jpg)
@@ -330,6 +337,13 @@ If your issues still exist, read on and check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_15-52-35.jpg)
 
  Restart your game to see if this worked for you. If it didn’t, check the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall your game
 
@@ -350,13 +364,6 @@ If your issues still exist, read on and check the fix below.
 **4)** Highlight your game, then press the **☰ button** on your controller.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_15-54-59.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)**  Select **Uninstall** .
 
@@ -391,13 +398,6 @@ If your issues still exist, read on and check the fix below.
 
  If your game still won’t launch, don’t worry! There are still 3 more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your PS4 system software
 
  Outdated system software could also cause _**STAR WARS Jedi**_ to fail. To see if that’s the problem for you, try updating your PlayStation 4 system software. Here is how to do it:
@@ -417,13 +417,6 @@ If your issues still exist, read on and check the fix below.
 **4)**  Restart your game to see if this resolves your issues.
 
 If your problem persists, move on to the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Reinstall your game
 
@@ -445,6 +438,13 @@ If your problem persists, move on to the fix below.
 
 If your issue still exists, try the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Restore your PS4 settings to default
 
  If your issue is caused by improper game settings, restoring your device to its default factory settings should be able to fix it. Follow the instructions below to see how to restore your PS4 to its default settings:
@@ -459,16 +459,16 @@ If your issue still exists, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_16-39-57.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)**  Press the **PS button** on your controller.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_16-40-01.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Select **Restore to Default Settings** .
 
@@ -502,17 +502,24 @@ If your issue still exists, try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-unlocking-your-potential-with-these-top-10-affordable-web-conferencing-services/"><u>[New] 2024 Approved Unlocking Your Potential with These Top 10 Affordable Web Conferencing Services</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-uncomplicated-podcast-live-master-the-art-of-livestreaming-for-2024/"><u>[New] Uncomplicated Podcast Live Master the Art of Livestreaming for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-ultimate-tactics-to-record-lol-clashes/"><u>[Updated] Ultimate Tactics to Record LOL Clashes</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-consistency-in-action-inserting-logoswatermarks-into-videos-for-2024/"><u>Brand Consistency in Action Inserting Logos/Watermarks Into Videos for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/destiny-2-broccoli-bug-solved-with-patch-update/"><u>Destiny 2: Broccoli Bug Solved with Patch Update</u></a></li>
-<li><a href="https://program-issues.techidaily.com/genshin-impact-mishap-heres-how-to-fix-error-code-4201-instantly/"><u>Genshin Impact Mishap? Here's How to Fix Error Code 4201 Instantly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-low-fps-in-dying-light-a-comprehensive-guide/"><u>How To Fix Low FPS in Dying Light: A Comprehensive Guide 🎮</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/propel-your-presence-on-tiktok-strategic-application-of-template-videos/"><u>Propel Your Presence on TikTok Strategic Application of Template Videos</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/simplifying-your-inbox-a-comprehvew-on-how-to-categorize-messages-using-gmail-labels/"><u>Simplifying Your Inbox: A Comprehvew on How to Categorize Messages Using Gmail Labels</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-oneplus-ace-2v-frp-bypass-by-drfone-android/"><u>Ultimate Guide on OnePlus Ace 2V FRP Bypass</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-the-best-of-the-best-top-10-2d-animation-software-free-and-paid/"><u>Updated 2024 Approved The Best of the Best Top 10 2D Animation Software (Free & Paid)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/winning-against-latency-top-fixes-to-reduce-high-ping-while-playing-valheim-on-windows-pc/"><u>Winning Against Latency: Top Fixes to Reduce High Ping While Playing Valheim on Windows PC</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-12-essential-metaverse-prototypes-demystifying-vr/"><u>[Updated] In 2024, 12 Essential Metaverse Prototypes Demystifying VR</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-simplify-screen-capture-the-6-key-steps-to-successfully-streaming-netflix-on-macos/"><u>[Updated] In 2024, Simplify Screen Capture The 6 Key Steps to Successfully Streaming Netflix on macOS</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-songwriting-in-action-a-guide-to-creating-content-with-musicians-for-2024/"><u>[Updated] Songwriting in Action A Guide to Creating Content with Musicians for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/5-solutions-for-itel-unlock-without-password-by-drfone-android/"><u>5 Solutions For Itel Unlock Without Password</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-making-your-steam-games-work-seamlessly-in-windows-11/"><u>Comprehensive Guide: Making Your Steam Games Work Seamlessly in Windows 11</u></a></li>
+<li><a href="https://discover-community.techidaily.com/effizientes-festplattenduplikation-mit-windows-systemen-windows-111087/"><u>Effizientes Festplattenduplikation Mit Windows-Systemen (Windows 11/10/8/7)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722976494754-effortless-installation-of-linksys-ea3000-drivers-start-now/"><u>Effortless Installation of Linksys EA3000 Drivers - Start Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-your-borderlands-3-gameplay-effective-solutions-to-fix-low-fps-on-pc/"><u>Enhance Your Borderlands 3 Gameplay: Effective Solutions to Fix Low FPS on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723010179905-gpu-not-detected-by-cyberpunk-2077-heres-the-solution-for-windows-10-users/"><u>GPU Not Detected by Cyberpunk 2077? Here's the Solution for Windows 10 Users!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/handling-common-browser-errors-when-ie-wont-show-the-webpage-anymore/"><u>Handling Common Browser Errors: When IE Won't Show the Webpage Anymore</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-successfully-repair-failed-connections-in-microsoft-outlook/"><u>How To Successfully Repair Failed Connections in Microsoft Outlook</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Nokia G310? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/pro-sniping-on-a-budget-try-these-affordable-pc-tools/"><u>Pro Sniping on a Budget? Try These Affordable PC Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-pc-issues-when-playing-no-rest-for-the-wicked-tips-and-tricks-to-optimize-your-experience/"><u>Solving PC Issues When Playing 'No Rest for the Wicked': Tips and Tricks to Optimize Your Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-mystery-a-step-by-step-guide-to-resolve-dev-error-6034-on-pc-and-xbox/"><u>Solving the Mystery: A Step-by-Step Guide to Resolve Dev Error 6034 on PC and Xbox</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-problem-cant-launch-battlefield-4-on-windows-heres-how/"><u>Solving the Problem - Can’t Launch Battlefield 4 on Windows? Here’s How</u></a></li>
+<li><a href="https://program-issues.techidaily.com/speedy-repairs-enhancing-performance-and-reducing-lags-in-assassins-creed-valhalla/"><u>Speedy Repairs: Enhancing Performance & Reducing Lags in Assassins Creed: Valhalla</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/stream-like-a-pro-3-key-strategies-for-lol-gamers-for-2024/"><u>Stream Like a Pro 3 Key Strategies for LOL Gamers for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-iphone-8-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On iPhone 8</u></a></li>
 </ul></div>
 

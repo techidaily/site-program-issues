@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Solving City Skylines Game Crashes
-date: 2024-10-30T01:17:33.480Z
-updated: 2024-10-31T16:40:02.566Z
+date: 2024-11-02T03:53:07.931Z
+updated: 2024-11-06T20:01:31.806Z
 tags:
   - win11
   - win10
@@ -108,13 +108,6 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ### Fix 4: Verify your game files
@@ -126,13 +119,6 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
  1) In Uplay, navigate to**the Games tab** and move your mouse cursor to the game tile of The Division 2\. Then click**the downward triangle** on the lower-right corner of the game tile.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-129.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Select**Verify files** .
 
@@ -148,6 +134,13 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Epic Game Launcher
 
  1) In Epic Game Launcher, navigate to your**Library** .
@@ -156,18 +149,25 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-119.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Verify** to start verifying the game files.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-123.png)
 
- Launch the game after verifying the game file to see if this fix works. If not, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Launch the game after verifying the game file to see if this fix works. If not, try the next fix, below.
 
 ### Fix 5: Run Windows Compatibility Troubleshooter
 
@@ -183,22 +183,22 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-124.png)
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Go to**the Compatibility tab** and click**Change high DPI settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-126.png)
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3)**Check the box** next to**Override high DPI scaling behavior** and select**Scaling performed by: Application** . Then click**OK** to save the changes.
 
@@ -207,6 +207,13 @@ thumbnail: https://thmb.techidaily.com/a7b1079661cd8a131ebfc4e02675a90ed3f73ee62
  4)**Tick the box** next to**Disable fullscreen optimizations** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-128.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
@@ -228,22 +235,16 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-150.png)
 
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Settings** … in the**Performance** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-151.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Under**the Advanced tab** , click**Change…** in the**Virtual memory** section.
 
@@ -257,6 +258,13 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
  Launch The Division 2 to see if this issue gets fixed or not. If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Lower in-game graphics settings
 
  You can also try lowing in-game graphics settings to see if you can resolve the game crash issue. Here is how to do it:
@@ -269,22 +277,15 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-155-1024x744.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3)**Turn off Contact Shadows** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-156-1024x776.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Set**Particle Detail** to**High** .
@@ -310,19 +311,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
  9) Set the value of**Object Detail** to**50** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-162-1024x759.png)
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  10) Set**Terrain Quality** to**Medium** . Then save all the changes.
 
@@ -351,22 +339,19 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-become-a-pro-at-documenting-your-twitch-sessions-for-2024/"><u>[New] Become a Pro at Documenting Your Twitch Sessions for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-x-recorder-your-companion-for-high-quality-pc-recording-for-2024/"><u>[Updated] X-Recorder Your Companion for High-Quality PC Recording for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-effortless-tips-for-storing-vimeo-videos/"><u>2024 Approved Effortless Tips for Storing Vimeo Videos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/black-screen-fix-guide-for-cyberpunk-2077-players-success-stories-inside/"><u>Black Screen Fix Guide for Cyberpunk 2077 Players - Success Stories Inside!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boost-your-gaming-experience-with-these-painless-fixes-for-dying-light-fps-problems/"><u>Boost Your Gaming Experience with These Painless Fixes for Dying Light FPS Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ensuring-smooth-gameplay-star-citizens-crash-fix-for-windows-users/"><u>Ensuring Smooth Gameplay: Star Citizen's Crash Fix for Windows Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-helldiver-2-resolving-the-issue-of-a-black-screen-at-boot/"><u>Fixing Helldiver 2: Resolving the Issue of a Black Screen at Boot</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-ancestral-creations-public-domain-masterpieces/"><u>In 2024, Ancestral Creations Public Domain Masterpieces</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-inventory-of-videography-items-for-exploration/"><u>In 2024, Inventory of Videography Items for Exploration</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-11-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 11 Data From iOS iTunes | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-high-latency-problems-in-warzone-20-with-these-proven-strategies-updated-tips-players/"><u>Solve High Latency Problems in Warzone 2.0 with These Proven Strategies - Updated Tips Players</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transforming-the-future-the-leading-5-hardware-advancements-in-ai-sector/"><u>Transforming the Future: The Leading 5 Hardware Advancements in AI Sector</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fix-the-continuous-crashes-in-the-king-of-fighters-xv-on-pc/"><u>Troubleshooting Guide: Fix the Continuous Crashes in 'The King of Fighters XV' On PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-stop-diablo-immortal-from-crashing-on-your-pc/"><u>Troubleshooting Steps: Stop Diablo Immortal From Crashing on Your PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ubisoft-services-down-heres-how-to-get-your-connection-up/"><u>Ubisoft Services Down? Here's How to Get Your Connection Up</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-the-secrets-of-youtube-to-mp4mpeg-mastery-for-2024/"><u>Unveiling the Secrets of YouTube to MP4/MPEG Mastery for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-reel-your-best-footage-from-instagram-with-these-aids/"><u>[Updated] Reel Your Best Footage From Instagram With These Aids</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/apples-recent-move-in-game-emulation-more-than-meets-the-eye/"><u>Apple's Recent Move in Game Emulation: More than Meets the Eye</u></a></li>
+<li><a href="https://article-posts.techidaily.com/dive-deep-into-windows-11-the-ultimate-guide-to-video-cutting-for-2024/"><u>Dive Deep Into Window's 11 The Ultimate Guide to Video Cutting for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-asus-rog-phone-8-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Asus ROG Phone 8 Pro Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-vivo-y78-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Vivo Y78 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-lava-blaze-2-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Lava Blaze 2 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/public-perceptions-unveiling-vllo-realities/"><u>Public Perceptions Unveiling VLLO Realities</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-persistent-crashing-issues-on-dead-by-daylight-latest-tips/"><u>Resolving Persistent Crashing Issues on Dead By Daylight (Latest Tips )</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-fixes-for-initial-startup-problems-in-stardew-valley/"><u>Solution Found! Fixes for Initial Startup Problems in Stardew Valley</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-pc-issues-unfreeze-and-revive-your-pubg-game/"><u>Solving PC Issues: Unfreeze and Revive Your PUBG Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-problem-of-immortals-fenyx-rising-sudden-disruptions-during-play/"><u>Solving the Problem of Immortals: Fenyx Rising Sudden Disruptions During Play</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-pick-mirari-childrens-alarm-clock-ok-to-wake-in-depth-product-assessment/"><u>Top Pick: Mirari Children's Alarm Clock 'Ok to Wake!' In-Depth Product Assessment</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005837283-troubleshooting-tips-for-narakabladepoint-performance-issues-resolved/"><u>Troubleshooting Tips for Naraka:Bladepoint Performance Issues Resolved!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-advanced-features-with-9-superior-chatgpt-pluses/"><u>Unlock Advanced Features with 9 Superior ChatGPT Pluses</u></a></li>
 </ul></div>
 

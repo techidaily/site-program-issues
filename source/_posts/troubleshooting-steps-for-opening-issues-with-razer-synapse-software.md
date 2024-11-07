@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Opening Issues with Razer Synapse Software
-date: 2024-10-30T18:02:26.392Z
-updated: 2024-10-31T19:34:07.693Z
+date: 2024-11-02T16:29:36.641Z
+updated: 2024-11-06T21:32:05.323Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 4. [Turn off background apps](https://tools.techidaily.com/drivereasy/download/)
 5. [Change NVIDIA resolution](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check the minimum system requirement
 
  Before trying any complicated fixes, make sure your PC meets the minimum system requirement of Halo Infinite. You’ll meet Halo Infinite stuttering issue or other problems if your hardware is not powerful enough to support the game.
@@ -46,6 +53,13 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 
 You can fix it by uninstalling the multiplayer HD texture packs.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your graphic driver
 
  Halo Infinite stuttering or lagging problem is usually related to the graphic driver. Make sure your GPU is fully up to date, the older GPU drivers can lead to poor performance and micro stutter.
@@ -60,6 +74,13 @@ There are mainly two ways you can update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
@@ -80,31 +101,11 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
 
  4) Set**MINIMUM FRAME RATE** &**MAXIMUM FRAM RATE** . Enable**VSYNC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
@@ -114,16 +115,16 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-34.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7) Run the game to check.
 
 If it’s not working, move to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Turn off background apps
 
@@ -134,13 +135,6 @@ If it’s not working, move to the next fix.
  2) In the**Process** tab, click the app and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
 
@@ -169,24 +163,20 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/fixed-mlb-the-show-21-server-issue/"><u>[Fixed] MLB The Show 21 Server Issue</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-boosting-youtube-interaction-with-emojis/"><u>[New] 2024 Approved Boosting YouTube Interaction with Emojis</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-far-cry-6-not-launching-on-pc/"><u>[SOLVED] ‘Far Cry 6 Not Launching’ on PC</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-precision-in-capturing-movie-moments-for-2024/"><u>[Updated] Precision in Capturing Movie Moments for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-unlocking-drone-knowledge-must-know-before-making-a-deal/"><u>[Updated] Unlocking Drone Knowledge Must-Know Before Making a Deal</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-enhancing-youtube-playbacks-with-timestamps/"><u>2024 Approved Enhancing YouTube Playbacks with Timestamps</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-vivo-y100-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-s18e-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/demystifying-and-rectifying-windowss-c0000005-complication/"><u>Demystifying and Rectifying Windows's C0000005 Complication</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminating-game-interruptions-how-to-prevent-frequent-overwatch-pc-software-failures/"><u>Eliminating Game Interruptions: How to Prevent Frequent Overwatch ² PC Software Failures</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-for-cold-war-game-freezing-issue-tips-for-both-pc-and-console-users/"><u>Fixes for 'Cold War' Game Freezing Issue: Tips for Both PC and Console Users</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/foster-community-with-unique-insta-story-questions/"><u>Foster Community with Unique Insta Story Questions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/optimizar-tus-archivos-de-forma-segura-y-gratuita-convertir-gb-a-tb-facilmente-con-la-herramienta-en-linea-de-movavi/"><u>Optimizar Tus Archivos De Forma Segura Y Gratuita: Convertir GB a TB Fácilmente Con La Herramienta en Línea De Movavi</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-gaming-made-easy-effective-solutions-for-common-fifa-19-stability-problems/"><u>PC Gaming Made Easy: Effective Solutions for Common FIFA 19 Stability Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-frame-rate-drops-and-hiccups-in-modern-warfare-2-pc-gaming/"><u>Resolved: Fixes for Frame Rate Drops & Hiccups in Modern Warfare 2 - PC Gaming</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723002444835-smooth-sailing-in-los-santos-overcome-gta-5-stalling-and-crashing-problems/"><u>Smooth Sailing in Los Santos – Overcome GTA 5 Stalling & Crashing Problems!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-dilemma-of-undetected-gpus-by-msi-afterburner-in-windows-10-and-windows-11-environments/"><u>Solving the Dilemma of Undetected GPUs by MSI Afterburner in Windows 10 and Windows 11 Environments</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/top-5-web-video-recorders/"><u>Top 5 Web Video Recorders</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-house-flipper-2-pc-crashes/"><u>Troubleshooting Tips: Resolving House Flipper 2 PC Crashes</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-obs-live-broadcasting-on-instagram/"><u>[New] In 2024, OBS Live Broadcasting on Instagram</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-best-script-writing-website/"><u>[Updated] Best Script Writing Website</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-from-the-field-expertly-chosen-5-gamer-friendly-webcams/"><u>[Updated] In 2024, From the Field Expertly Chosen 5 Gamer-Friendly Webcams</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-capturecast-unveiling-2023s-best-recording-software/"><u>2024 Approved CaptureCast Unveiling 2023'S Best Recording Software</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-outlining-operational-offshoots/"><u>2024 Approved Outlining Operational Offshoots</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-ways-to-fix-an-unresponsive-epic-games-launcher-on-any-device/"><u>Easy Ways to Fix an Unresponsive Epic Games Launcher on Any Device</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-why-red-dead-online-keeps-freezing-or-crashing-on-your-pc/"><u>Fixing the Issue: Why Red Dead Online Keeps Freezing or Crashing on Your PC</u></a></li>
+<li><a href="https://fox-info.techidaily.com/go-incognito-with-instagram-live-a-comprehensive-guide-to-anonymity/"><u>Go Incognito with Instagram Live A Comprehensive Guide to Anonymity</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-motorola-razr-40-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Motorola Razr 40 Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-defend-against-the-dangers-of-fraudgpt-and-secure-your-digital-safety/"><u>How to Defend Against the Dangers of FraudGPT and Secure Your Digital Safety</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-path-of-exiles-inability-to-connect-with-the-game-server/"><u>How to Fix Path of Exile's Inability to Connect with the Game Server</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-high-fps-on-dying-light-expert-hacks-and-solutions-to-optimize-your-gameplay/"><u>Mastering High FPS on Dying Light: Expert Hacks and Solutions to Optimize Your Gameplay 💥</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-resolution-of-directx-errors-for-a-smooth-run-of-battlefield-2042/"><u>Mastering the Resolution of DirectX Errors for a Smooth Run of Battlefield 2042</u></a></li>
+<li><a href="https://program-issues.techidaily.com/microsoft-flight-simulator-2020-strategies-to-bypass-and-complete-updates-quickly/"><u>Microsoft Flight Simulator 2020 - Strategies to Bypass and Complete Updates Quickly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/reviving-your-cortana-guided-steps-for-smooth-operation/"><u>Reviving Your Cortana: Guided Steps for Smooth Operation</u></a></li>
 </ul></div>
 

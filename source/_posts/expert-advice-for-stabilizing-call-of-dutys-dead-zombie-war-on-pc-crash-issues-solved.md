@@ -1,7 +1,7 @@
 ---
 title: Expert Advice for Stabilizing Call of Duty's Dead Zombie War on PC – Crash Issues Solved
-date: 2024-10-28T06:07:09.508Z
-updated: 2024-11-01T01:43:14.420Z
+date: 2024-11-02T20:11:29.335Z
+updated: 2024-11-06T17:43:34.958Z
 tags:
   - win11
   - win10
@@ -40,13 +40,6 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
 
  Launch the game and see if this issue persists after you stopped overclocking. if the game still crashes, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Update your graphics drivers
 
  A corrupted or outdated driver can also be the main culprit behind the game’s crashing issues. If you haven’t updated your graphics driver for a long time, you should update the graphics driver to see if it solves the crashing issue. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -57,14 +50,15 @@ thumbnail: https://thmb.techidaily.com/770723973e178e7a8930f29e3f500f2a61aa4b3cc
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
 
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
@@ -85,23 +79,9 @@ If the issue persists, try the next fix below.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** \> **Verify integrity of game files…** . Wait a few minutes for Steam to validate the files of the game.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Restart Metro Exodus PC Enhanced Edition to check if this fix stops the crashes. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Install the latest game patch
 
@@ -123,18 +103,25 @@ If the issue persists, try the next fix below.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  See if Metro Exodus PC Enhanced Edition crashes after you disabled all the in-game overlays. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Perform a clean boot
 
@@ -150,14 +137,21 @@ To perform a clean boot, just follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services,** and then click **Disable all** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
@@ -165,6 +159,19 @@ To perform a clean boot, just follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
@@ -197,24 +204,22 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-essential-windows-camera-software-guide-10-picks/"><u>[New] Essential Windows Camera Software Guide - 10 Picks</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-how-to-spot-and-discard-phony-instagram-acquaintances/"><u>[Updated] How To Spot and Discard Phony Instagram Acquaintances</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-guide-on-stopping-youtubes-automatic-previews/"><u>2024 Approved Step-By-Step Guide on Stopping YouTube's Automatic Previews</u></a></li>
-<li><a href="https://program-issues.techidaily.com/complete-fixes-for-persistent-black-screen-problems-in-zoom-on-pc/"><u>Complete Fixes for Persistent Black Screen Problems in Zoom on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-a-non-functional-paradox-launcher-a-step-by-step-approach/"><u>Diagnosing & Repairing a Non-Functional Paradox Launcher: A Step-by-Step Approach</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-v27-pro-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo V27 Pro Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/earnings-expertise-in-streams-a-comparative-study-for-2024/"><u>Earnings Expertise in Streams A Comparative Study for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhance-playability-in-counter-strike-2-proven-methods-to-address-fps-drops-and-stuttering-on-pc/"><u>Enhance Playability in Counter-Strike 2: Proven Methods to Address FPS Drops and Stuttering on PC</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-import-music-to-inshot-app/"><u>How to Import Music to Inshot App?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-set-up-safe-domain-connections-within-the-macos-mail-program/"><u>How to Set Up Safe Domain Connections Within the macOS Mail Program</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your OnePlus Nord N30 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-the-colorists-companion-top-11-tools-for-hue-harmony/"><u>In 2024, The Colorist's Companion Top 11 Tools for Hue Harmony</u></a></li>
-<li><a href="https://program-issues.techidaily.com/outriders-bug-squashed-how-to-stop-ue4-madness-and-prevent-unreal-process-crashes/"><u>Outriders Bug Squashed: How to Stop 'UE4-Madness' And Prevent Unreal Process Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-gaming-evolves-as-god-of-wars-thrilling-fps-edition-debuts-online/"><u>PC Gaming Evolves as God of War's Thrilling FPS Edition Debuts Online</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-palworld-eos-login-errors-with-these-6-proven-solutions/"><u>Resolving Palworld EOS Login Errors with These 6 Proven Solutions</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723007587059-serious-sam-npc-version-crashes-heres-how-to-enhance-stability-and-frame-rate/"><u>Serious Sam nPC Version Crashes? Here's How to Enhance Stability and Frame Rate!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/simple-steps-to-tackle-kernelbasedll-crashes-effectively/"><u>Simple Steps to Tackle KernelBase.dll Crashes Effectively</u></a></li>
-<li><a href="https://program-issues.techidaily.com/smooth-driving-awaits-fix-guide-to-get-your-forza-horizon-4-running/"><u>Smooth Driving Awaits: Fix Guide to Get Your Forza Horizon 4 Running</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-latest-expansion-scoop-on-rainbow-six-siege-new-features-ahead/"><u>The Latest Expansion Scoop on Rainbow Six Siege - New Features Ahead!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixed-age-of-empires-iv-not-downloadinginstalling-on-microsoft-store/"><u>[Fixed] Age of Empires IV Not Downloading/Installing on Microsoft Store</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/est-3d-entrance-makers-for-youtube-creators/"><u>[New] Best 3D Entrance Makers for YouTube Creators</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-master-the-art-of-fighting-top-5-martial-arts-gaming-experience/"><u>[New] Master the Art of Fighting Top 5 Martial Arts Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-origin-crash-issue-quickly-and-easily/"><u>[Solved] Origin Crash Issue | Quickly & Easily!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-highest-rated-20-public-domain-pubg-combos/"><u>[Updated] In 2024, Highest-Rated 20 Public Domain PUBG Combos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-a-closer-look-at-sonys-s6700-enhancements/"><u>2024 Approved A Closer Look at Sony's S6700 Enhancements</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/detailed-overview-of-our-product-line-all-you-need-to-know/"><u>Detailed Overview of Our Product Line - All You Need to Know</u></a></li>
+<li><a href="https://program-issues.techidaily.com/grounded-gaming-woes-master-the-art-of-troubleshooting-and-enjoy-a-seamless-pc-playtime/"><u>Grounded Gaming Woes? Master the Art of Troubleshooting and Enjoy a Seamless PC Playtime</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-forge-mode-obstacles-and-find-your-way-into-fortnite-battles/"><u>How to Overcome Forge Mode Obstacles & Find Your Way Into Fortnite Battles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-repair-a-non-responsive-rockstar-games-launcher-for-players/"><u>How to Repair a Non-Responsive Rockstar Games Launcher for Players</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-vivo-y27s-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Vivo Y27s FRP</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/introducing-our-latest-innovations-digital-cookbook-solutions-and-image-transformation-explore-the-abbyy-universe/"><u>Introducing Our Latest Innovations: Digital Cookbook Solutions & Image Transformation - Explore the ABBYY Universe</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-ios-6-strategies-for-perfect-autocorrection-and-enhanced-spelling-skills/"><u>Mastering iOS: 6 Strategies for Perfect Autocorrection and Enhanced Spelling Skills</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-interruptions-a-pro-guide-on-fixing-gears-of-war-5-frequent-crashes/"><u>No More Interruptions - A Pro Guide on Fixing 'Gears of War 5' Frequent Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-for-non-responsive-minecraft-games-on-computer-systems/"><u>Quick Fixes for Non-Responsive Minecraft Games on Computer Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-solution-restoring-soundscape-in-minecraft-when-your-pc-falls-silent/"><u>The Ultimate Solution: Restoring Soundscape in Minecraft When Your PC Falls Silent</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-performance-of-asus-rt-ac88u-for-gamers-a-full-review/"><u>Unveiling Performance of Asus RT-AC88U for Gamers: A Full Review</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discord Enhancement Glitches Settled: Your Chat App Is Up-to-Date Again!"
-date: 2024-10-30T17:44:51.213Z
-updated: 2024-11-01T09:20:38.935Z
+date: 2024-11-04T23:16:57.672Z
+updated: 2024-11-07T00:03:24.072Z
 tags:
   - win11
   - win10
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 2. **[Temporarily disable your antivirus](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Completely reinstall Discord](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Run Discord as administrator
 
  This is the first thing you should try when your Discord update has failed. To run discord as administrator, simply right click the Discord icon, then select**Run as administrator** .
@@ -43,6 +36,13 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-802.png)
 
  Now check to see if this fixed your Discord update issue. Hopefully it did, but if not there are still other fixes you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Temporarily disable your antivirus
 
@@ -69,40 +69,34 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-808.png)
 7. **Delete** the**Discord** folder there. (Right click the folder and select**Delete** .)  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-810.png)
 8. Type “%localappdata%” and press**Enter** on your keyboard.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-809.png)
 9. **Delete** the**Discord** folder there. (Right click the folder and select**Delete** .)  
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-810.png)
 10. Go to the **[Discord website](https://discordapp.com/)**  , then download the latest version of Discord.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 11. Run the downloaded file, then follow the on-screen instructions to install Discord.
@@ -128,22 +122,14 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/fixed-lost-ark-fps-drop-and-performance-issue/"><u>[FIXED] Lost Ark FPS Drop & Performance Issue</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-mastering-hashtags-to-hit-6k-youtube-growth-for-2024/"><u>[Updated] Mastering Hashtags to Hit $6K YouTube Growth for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-self-designed-instagram-ringtone-creation-steps/"><u>[Updated] Self-Designed Instagram Ringtone Creation Steps</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-apple-iphone-12-pro-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On Apple iPhone 12 Pro? Find the Best Solution Here</u></a></li>
-<li><a href="https://techtrends.techidaily.com/axiowin-dvd-ripper-pro-freeware-effortless-dvd-conversion-for-mobile-devices-in-mp4-and-avi/"><u>AxioWin DVD Ripper Pro (Freeware): Effortless DVD Conversion for Mobile Devices in MP4 and AVI</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-correcting-civ-6s-access-denial-issue-court-proceedings/"><u>Comprehensive Guide to Correcting CIV 6'S Access Denial Issue Court Proceedings</u></a></li>
-<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Xiaomi Civi 3 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-steps-sharing-your-samsung-pictures-with-anyone-anywhere/"><u>Easy Steps: Sharing Your Samsung Pictures with Anyone, Anywhere</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-remedies-when-your-minecraft-game-gets-stuck-at-startup-screen/"><u>Effective Remedies When Your Minecraft Game Gets Stuck at Startup Screen</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723004815833-fixing-battlefield-5s-startup-woes-an-easy-fix-guide-updated-for-224/"><u>Fixing Battlefield 5’S Startup Woes: An Easy Fix Guide Updated for 2#24!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-issues-with-logitech-options-on-windows-a-comprehensive-guide/"><u>Fixing Issues with Logitech Options on Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-4-ways-to-mirror-apple-iphone-se-2020-to-laptop-via-usb-or-wi-fi-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Mirror Apple iPhone SE (2020) to Laptop via USB or Wi-Fi | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-nokia-c12-pro-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Nokia C12 Pro FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://program-issues.techidaily.com/instant-remedies-to-stop-your-division-2-crashes-in-their-tracks/"><u>Instant Remedies to Stop Your Division 2 Crashes in Their Tracks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-to-tackle-high-latency-in-your-chivalry-2-gaming-experience-new-techniques-unveiled/"><u>Step-by-Step Solutions to Tackle High Latency in Your Chivalry 2 Gaming Experience (New Techniques Unveiled)</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211066228-9789359043333-the-omega-file/"><u>The Omega File | Free Book</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-fixing-pc-issues-in-star-wars-jedi-fallen-order/"><u>Troubleshooting Steps for Fixing PC Issues in Star Wars Jedi: Fallen Order</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-alluring-headline-manufacturer/"><u>[Updated] In 2024, Alluring Headline Manufacturer</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-into-vlogging-fundamental-gear-and-applications/"><u>2024 Approved Step Into Vlogging Fundamental Gear and Applications</u></a></li>
+<li><a href="https://program-issues.techidaily.com/black-screen-error-cleared-in-epic-games-launcher-solutions-inside/"><u>Black Screen Error Cleared in Epic Games Launcher - Solutions Inside</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cant-upgrade-ios-discover-9-effective-solutions-for-iphone-and-ipad-software-issues/"><u>Can't Upgrade iOS? Discover 9 Effective Solutions for iPhone and iPad Software Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-techniques-to-lower-god-of-wars-system-resource-demands/"><u>Effective Techniques to Lower God of War's System Resource Demands</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/enhanced-video-calls-innovative-approaches-4/"><u>Enhanced Video Calls Innovative Approaches #4</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-repairing-malfunctioning-amd-radeon-software-solutions-for-users/"><u>Guide to Repairing Malfunctioning AMD Radeon Software - Solutions for Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-solutions-for-stability-issues-on-call-of-duty-warzone-avoiding-crashes-on-the-pacific-map/"><u>Ultimate Solutions for Stability Issues on Call of Duty Warzone - Avoiding Crashes on the Pacific Map</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-x100-pro-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo X100 Pro Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
 

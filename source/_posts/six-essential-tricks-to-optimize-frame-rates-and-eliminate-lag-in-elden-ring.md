@@ -1,7 +1,7 @@
 ---
 title: Six Essential Tricks to Optimize Frame Rates and Eliminate Lag in Elden Ring
-date: 2024-10-26T20:07:49.266Z
-updated: 2024-10-31T23:13:16.482Z
+date: 2024-10-30T23:21:55.914Z
+updated: 2024-11-07T02:46:59.447Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check the system requirements
 
  If the frame rate hasn’t been good for you when gaming, one of the first things you should do is to make sure that your computer specs are**above** the minimum system requirements for the games. If your machine is below or just at the requirements, you may need to upgrade your hardware for some games to run smoothly, especially newer games that were released in recent years, as they usually require more advanced computer hardware devices.
@@ -43,6 +50,13 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Make sure your computer is not overheating
 
  If the ventilation for your computer is rather poor, your machine may run hot, thus with the FPS dropping problems in games, among many other PC performance issues.
@@ -52,6 +66,13 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
  Here is a detailed post for your reference if your computer is overheating: [**How to Know Your CPU Overheating and How to Fix It**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Close CPU- and bandwidth-intensive services and applications
 
@@ -70,13 +91,6 @@ To do so:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Modify your network settings
 
  There are some quick tweaks that you can do with your router to improve your network connectivity situation, and thus help to improve the FPS in games. Check the following to see if you’ve done them all:
@@ -93,6 +107,13 @@ To do so:
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4.1 Flush your DNS
 
  By flushing your DNS, your DNS cache will be cleared. When your PC needs to access a website, it’ll need to obtain the address from the DNS server again. This may fix the FPS dropping issue if the DNS cache data was invalid or corrupt. Here’s how:
@@ -107,13 +128,6 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4.2 Switch to a public DNS server
 
  Then please use a public DNS server to see if helps to improve the FPS in games. Here we’ll use the Google DNS server as an example since it’s fast and secure:
@@ -122,57 +136,30 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
-<!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run your game again to see if the frame rate per second still drops. If the problem still persists, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Update graphics card and network card drivers
 
@@ -211,10 +198,10 @@ and your network card manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -235,16 +222,30 @@ To change the power mode:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
+
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 3. Then run your game to see if the frame rate per second is higher. If the problem remains still, please move on to the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Consider hardware upgrade
@@ -274,20 +275,24 @@ To change the power mode:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-creating-a-viral-traction-with-6-strategic-steps-in-youtube-marketing/"><u>[New] 2024 Approved Creating a Viral Traction with 6 Strategic Steps in YouTube Marketing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-covert-story-consumption-5-must-try-apps/"><u>[New] Covert Story Consumption 5 Must-Try Apps</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-essential-strategies-for-lowering-audible-levels-on-lumafusion/"><u>2024 Approved Essential Strategies for Lowering Audible Levels on Lumafusion</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancing-pc-gaming-experience-addressing-the-dip-in-frames-per-second-for-forza-horizon-amoons/"><u>Enhancing PC Gaming Experience: Addressing the Dip in Frames per Second for Forza Horizon Amoons</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-to-resolve-your-oculus-link-screen-problem-fast/"><u>Expert Tips to Resolve Your Oculus Link Screen Problem Fast!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-repair-and-stop-the-football-manager-2020-from-freezing-or-crashing/"><u>How to Repair and Stop the Football Manager 2020 From Freezing or Crashing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-80-pro-straight-screen-edition-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor 80 Pro Straight Screen Edition to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-xiaomi-13-ultra-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Xiaomi 13 Ultra to Roku | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-arc-electrify-powerful-media-player-replacement/"><u>In 2024, Arc Electrify Powerful Media Player Replacement</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-pc-issues-with-elite-dangerous-tips-to-stop-the-game-from-crashing/"><u>Overcoming PC Issues with Elite Dangerous - Tips to Stop the Game From Crashing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-resolving-thx-spatial-audio-problems-in-windows-11-and-10/"><u>Step-by-Step Guide: Resolving THX Spatial Audio Problems in Windows 11 and 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-doom-eternal-solutions-if-it-wont-start/"><u>Troubleshooting DOOM Eternal: Solutions if It Won’t Start</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723011787866-twitch-audio-not-working-heres-how-to-fix-streaming-silence/"><u>Twitch Audio Not Working? Here's How to Fix Streaming Silence</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/wie-konnen-sie-auf-der-nintendo-wiiwii-u-spielfilme-mit-dem-titel-kann-man-ansehen-moderne-losungen-fur-das-jahr-2023-enthullt/"><u>Wie Können Sie Auf Der Nintendo Wii/Wii U Spielfilme Mit Dem Titel 'Kann Man' Ansehen? Moderne Lösungen Für Das Jahr 2023 Enthüllt</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/s-is-the-distance-skidded-29-meters/"><u> (S ) Is the Distance Skidded (29 Meters)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-notable-examples-of-book-trailers/"><u>[New] Notable Examples of Book Trailers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-capturing-magic-in-microphones-iphoneipad-tactics-for-superior-recordings/"><u>[Updated] 2024 Approved Capturing Magic in Microphones IPhone/iPad Tactics for Superior Recordings</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-streamlined-process-for-avi-transformations-into-web-friendly-gif-using-filmora/"><u>[Updated] In 2024, Streamlined Process for AVI Transformations Into Web-Friendly GIF Using Filmora</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-revitalizing-mobile-cinematic-vision-4-strategies-for-hdr-enhancement-in-premiere/"><u>2024 Approved Revitalizing Mobile Cinematic Vision 4 Strategies for HDR Enhancement in Premiere</u></a></li>
+<li><a href="https://program-issues.techidaily.com/2024s-top-tips-and-tricks-becoming-a-pro-at-roller-champions-pc-crossplay/"><u>2024'S Top Tips and Tricks: Becoming a Pro at Roller Champions PC Crossplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/accelerate-ubisoft-connect-downloads-proven-strategies-and-solutions/"><u>Accelerate Ubisoft Connect Downloads: Proven Strategies and Solutions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-tranquility-techniques-managing-in-system-sounds/"><u>In 2024, Tranquility Techniques Managing In-System Sounds</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rainbow-six-siege-on-pc-effective-fixes-for-when-youre-staring-at-a-blank-screen/"><u>Rainbow Six Siege on PC - Effective Fixes for When You're Staring at a Blank Screen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-your-dying-light-auditory-glitch-easily-with-our-troubleshooting-steps/"><u>Resolve Your Dying Light Auditory Glitch Easily with Our Troubleshooting Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-overcoming-compiling-shaders-issue-in-call-of-duty-black-ops-cold-war/"><u>Resolved: Overcoming 'Compiling Shaders' Issue in Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/resolving-the-mailbox-is-full-issue-in-outlook-even-after-deletion/"><u>Resolving the 'Mailbox Is Full' Issue in Outlook Even After Deletion</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-warzone-directx-error-in-just-four-simple-steps/"><u>Resolving Warzone DirectX Error in Just Four Simple Steps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rockstar-games-launcher-troubleshooting-guide-fixing-issues/"><u>Rockstar Games Launcher Troubleshooting Guide: Fixing Issues</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/scheduling-effective-zoom-conversations-on-android-platforms/"><u>Scheduling Effective Zoom Conversations on Android Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stabilize-your-gaming-experience-expert-tips-for-resolving-state-of-decay-2-glitches/"><u>Stabilize Your Gaming Experience: Expert Tips for Resolving State of Decay 2 Glitches</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-fixing-when-stereo-sound-isnt-working/"><u>Step-by-Step Solutions: Fixing When Stereo Sound Isn't Working</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/tecnicas-eficaces-para-realizar-copias-de-seguridad-de-archivos-utiles-en-windows-11-un-enfoque-paso-a-paso/"><u>Técnicas Eficaces Para Realizar Copias De Seguridad De Archivos Útiles en Windows 11: Un Enfoque Paso a Paso</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-improve-valheims-stuttering-and-freezing-on-pc/"><u>Troubleshooting Steps to Improve Valheim's Stuttering & Freezing on PC</u></a></li>
 </ul></div>
 

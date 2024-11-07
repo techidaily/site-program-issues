@@ -1,7 +1,7 @@
 ---
 title: "Solved: Life Is Strange: True Colors - Troubleshooting the Infamous Game Crash"
-date: 2024-10-25T05:49:20.190Z
-updated: 2024-10-31T20:42:33.877Z
+date: 2024-10-31T21:48:50.555Z
+updated: 2024-11-06T19:08:24.291Z
 tags:
   - win11
   - win10
@@ -48,19 +48,6 @@ Recently we have seen a lot of Gears 5 players reporting that**Gears Of War cras
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -74,10 +61,10 @@ Recently we have seen a lot of Gears 5 players reporting that**Gears Of War cras
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: **Disable gaming overlay**
@@ -90,6 +77,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-132.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) In **Game bar** , toggle **off** the switch for **Record game clips, screenshots,broadcast using Game bar** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-136.png)
@@ -99,15 +93,28 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-138.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click Broadcasting, then toggle **off** the switch for **Record audio when I broadcast** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-139.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Exit the window.
 
@@ -116,13 +123,6 @@ Here is how to do it:
 **If you have other game overlaying programs on** , such as Nvidia Shadowplay, Xbox game bar, please make sure you have turned them off as well.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3:   **Reset the Microsoft Store cache**
 
@@ -134,13 +134,6 @@ Here is how to reset the Microsoft Store cache:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-127.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2) Wait until the whole Windows store cache reset process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-128.png)
@@ -149,18 +142,18 @@ Here is how to reset the Microsoft Store cache:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-129-1024x796.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if the Gears of War 4 crashes issues have been fixed. If yes, then great! If it still persists, please try **Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: **Check for Windows Updates**
 
@@ -173,10 +166,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-141.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In Windows Update, click **Check for updates** .
@@ -201,6 +194,13 @@ Here is how to do it:
  Still not resolved? Please try **Fix 6** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall the game
 
@@ -235,21 +235,15 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-swiftly-upgrade-your-videos-with-top-tips-for-adding-youtube-closed-captions/"><u>[New] 2024 Approved Swiftly Upgrade Your Videos with Top Tips for Adding YouTube Closed Captions</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/nippet-stardom-top-hashtags-for-elevating-your-viral-youtube-content/"><u>[New] Snippet Stardom Top Hashtags for Elevating Your Viral YouTube Content</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-elite-software-selection-top-editors-for-webcams/"><u>[Updated] In 2024, Elite Software Selection Top Editors for Webcams</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-fix-for-cod-warzones-dev-error-6634-updated-tips-and-tricks/"><u>Comprehensive Fix for COD Warzone's Dev Error 6634 - Updated Tips & Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-for-stabilizing-samurai-warriors-5-gameplay-on-your-computer-system/"><u>Effective Solutions for Stabilizing Samurai Warriors 5 Gameplay on Your Computer System</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-features-and-purpose-of-google-hangouts/"><u>Exploring the Features and Purpose of Google Hangouts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-f1-2021-solving-pc-performance-issues-and-frame-rate-dips/"><u>Fixing F1 2021: Solving PC Performance Issues and Frame Rate Dips</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-apple-iphone-11-pro-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>In 2024, Best Apple iPhone 11 Pro & iPad Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro Max With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-magic-5-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor Magic 5 Device</u></a></li>
-<li><a href="https://program-issues.techidaily.com/navigating-through-the-delay-a-deep-dive-into-why-guilty-gear-strive-is-postponed/"><u>Navigating Through the Delay: A Deep Dive Into Why 'Guilty Gear Strive' Is Postponed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-bg-woes-top-6-solutions-to-baldurs-gate-lag-and-hitches/"><u>Resolving BG Woes: Top 6 Solutions to Baldur's Gate Lag and Hitches</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-repairing-lg-usb-driver-functionality-across-various-windows-platforms/"><u>Step-by-Step Guide: Repairing LG USB Driver Functionality Across Various Windows Platforms</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-tutorial-on-efficiently-recording-your-websites-content-into-video/"><u>Step-by-Step Tutorial on Efficiently Recording Your Website's Content Into Video</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-fast-track-to-faster-download-speeds-on-steams-origin-platform-2024-insights/"><u>The Fast Track to Faster Download Speeds on Steam's Origin Platform - 2024 Insights</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-darkest-dungeon-2s-frequent-game-crashes-on-windows-pc/"><u>Troubleshooting Guide: Resolving Darkest Dungeon 2'S Frequent Game Crashes on Windows PC</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ll-you-need-to-know-understanding-video-aspect-ratios-on-youtube-for-2024/"><u>[New] All You Need to Know Understanding Video ASPECT RATIOS on YOUTUBE for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ecoding-the-economic-incentives-behind-youtubes-shorts-programme-for-2024/"><u>[New] Decoding the Economic Incentives Behind YouTube's Shorts Programme for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-looking-beneath-surface-understanding-vr-drawbacks/"><u>2024 Approved Looking Beneath Surface Understanding VR Drawbacks</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/astro-a10-headset-mic-problems-heres-how-to-repair-them/"><u>Astro A10 Headset Mic Problems? Here's How to Repair Them!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1584983-9781466847323-mindfulness-in-the-modern-world/"><u>Mindfulness in the Modern World | Free Book</u></a></li>
+<li><a href="https://program-issues.techidaily.com/outpost-infinaturd-siege-stability-tips-avoid-game-crashing-on-pc-systems/"><u>Outpost: Infinaturd Siege Stability Tips - Avoid Game Crashing on PC Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-far-cry-6-sudden-shutdowns-on-windows/"><u>Resolved: Fixes for Far Cry 6 Sudden Shutdowns on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-for-correcting-error-code-103003-in-arma-3-operation-husar/"><u>Solutions for Correcting Error Code 103003 in Arma 3: Operation Husar</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-identifying-reasons-behind-your-windows-10-pcs-unplanned-startup-activities/"><u>Solved! Identifying Reasons Behind Your Windows 10 PC's Unplanned Startup Activities</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-troubleshoot-helldivers-2-pc-issues/"><u>Ultimate Guide to Troubleshoot Helldivers 2 PC Issues</u></a></li>
 </ul></div>
 

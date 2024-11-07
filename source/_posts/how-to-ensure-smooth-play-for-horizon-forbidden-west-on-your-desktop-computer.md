@@ -1,7 +1,7 @@
 ---
 title: How to Ensure Smooth Play for 'Horizon Forbidden West' On Your Desktop Computer
-date: 2024-08-23T17:35:19.506Z
-updated: 2024-08-24T17:35:19.506Z
+date: 2024-10-31T17:27:03.625Z
+updated: 2024-11-06T16:32:48.161Z
 tags:
   - win11
   - win10
@@ -64,14 +64,8 @@ Follow these steps:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating all your drivers, restart your PC for the changes to apply. Then check the gameplay in Rogue Company.
@@ -79,8 +73,12 @@ Follow these steps:
  If the latest GPU driver doesn’t stop the game crash, you can check out the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Install all Windows updates
 
  Windows 10 receives continuous support in the form of updates. These patches and feature updates address major compatibility issues and could be a potential fix to your crashing issue. Usually Windows will schedule updates for you, but you can make it happen manually:
@@ -88,14 +86,23 @@ Follow these steps:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
 Once completed, restart your PC and check if Rogue Company crashes again.
@@ -103,8 +110,12 @@ Once completed, restart your PC and check if Rogue Company crashes again.
  If updating your system doesn’t help, you can check out the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Disable in-game overlays
 
  Overlay allows you to chat, place orders and interact with friends on another platform during game. This feature is included in apps like**Steam, Discord and NVIDIA GeForce Experience** and is usually turned on by default.
@@ -121,8 +132,6 @@ Once completed, restart your PC and check if Rogue Company crashes again.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +139,22 @@ Once completed, restart your PC and check if Rogue Company crashes again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-the-art-of-internet-laughter-10-ultimate-memes/"><u>[New] In 2024, The Art of Internet Laughter - 10 Ultimate Memes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-your-game-library-the-finest-pc-based-gba-emulation-tools-for-2024/"><u>[New] Mastering Your Game Library The Finest PC-Based GBA Emulation Tools for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-advice-for-saving-and-archiving-periscope-footage/"><u>2024 Approved Expert Advice for Saving and Archiving Periscope Footage</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-issues-with-sea-of-thieves-launch-and-solutions/"><u>Common Issues with Sea of Thieves Launch and Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-persona-3-rewrite-stalling-and-freezing-on-desktops/"><u>Effective Fixes for 'Persona 3 Rewrite' Stalling and Freezing on Desktops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-fixing-fifa-22-gameplay-interruptions-and-crashes-on-desktops/"><u>Effective Solutions for Fixing FIFA 22 Gameplay Interruptions and Crashes on Desktops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-solutions-for-preventing-gameloop-malfunctions-on-modern-windows-systems/"><u>Expert Solutions for Preventing GameLoop Malfunctions on Modern Windows Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-how-to-stop-metro-exodus-from-crashing-on-your-windows-machine/"><u>Fixing the Issue: How to Stop Metro Exodus From Crashing on Your Windows Machine</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-leading-virtual-reality-enhancements-for-gamers/"><u>In 2024, Leading Virtual Reality Enhancements for Gamers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/july-2024s-prime-iphone-offers-and-savings-explore-the-latest-deals-on-zdnet/"><u>July 2024'S Prime iPhone Offers & Savings – Explore the Latest Deals on ZDNET!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/key-methods-to-customize-song-speed-on-spotify-for-2024/"><u>Key Methods to Customize Song Speed on Spotify for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-guide-correcting-the-notorious-memory-error-12707-glitch-in-modern-warfare-3/"><u>Solution Guide: Correcting the Notorious Memory Error 12707 Glitch in Modern Warfare 3</u></a></li>
+<li><a href="https://techidaily.com/top-ways-to-unlock-iphone-12-pro-max-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Top ways to unlock iPhone 12 Pro Max screen lock</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-smooth-play-in-halo-infinite-no-more-stutters/"><u>Troubleshooting Tips for Smooth Play in Halo Infinite - No More Stutters!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unravel-the-loop-of-data-restoration-on-your-iphone-expert-advice-for-resolution/"><u>Unravel the Loop of ‘Data Restoration’ on Your iPhone: Expert Advice for Resolution</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolving the ERR_GFX_STATE Issue in Red Dead Redemption 2: A Comprehensive Guide"
-date: 2024-10-28T23:37:36.363Z
-updated: 2024-11-01T02:13:19.996Z
+date: 2024-11-02T22:27:41.371Z
+updated: 2024-11-06T17:45:16.331Z
 tags:
   - win11
   - win10
@@ -38,13 +38,6 @@ Sifu
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Install the latest game patch
 
  The French studio Sloclap releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -52,6 +45,13 @@ Sifu
  If a patch is available, it will be detected by the Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch Sifu and check if the in-game FPS is back to normal. If the FPS still drops, or if there are no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -71,33 +71,19 @@ There are mainly two methods for you to update the graphics driver:
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -126,6 +112,13 @@ There are mainly two methods for you to update the graphics driver:
 * **Hide HUD** : No
 
  Launch Sifu after you modified the in-game graphics settings and see if its FPS still drops, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Modify graphics card settings
 
@@ -160,7 +153,21 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch Sifu to check if you gain a better PFS. If this doesn’t work on your powerful PC, then try seting the Windows power plan to**Ultimate Performance** , a power plan that is not widely known, which is designed to make the most out of high end setups.
 
@@ -171,13 +178,6 @@ There are mainly two methods for you to update the graphics driver:
 **`powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`**
 3. If you see a prompt similar to this, go back to the Power Options winow in Control Panel to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lauch the game to see if Sifu’s in-game FPS improves after changing the power plan. If you didn’t see much in-game FPS boosts, read on and try the next fix, below.
 
@@ -195,15 +195,15 @@ There are mainly two methods for you to update the graphics driver:
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
@@ -232,17 +232,18 @@ Launch Sifu to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-internet-companion-fb-story-backup-tool/"><u>[Updated] 2024 Approved Internet Companion FB Story Backup Tool</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-unleash-the-full-potential-of-your-images-with-snapchat/"><u>2024 Approved Unleash the Full Potential of Your Images with Snapchat</u></a></li>
-<li><a href="https://program-issues.techidaily.com/chrome-stuck-heres-how-you-can-resolve-non-loading-webpages/"><u>Chrome Stuck? Here's How You Can Resolve Non-Loading Webpages</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cod-modern-warfare-3-update-fixed-app-no-longer-crashes/"><u>COD Modern Warfare 3 Update Fixed - App No Longer Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-fixes-for-when-your-discord-camera-stops-responding/"><u>Effective Fixes for When Your Discord Camera Stops Responding</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/expert-recommendations-free-and-paid-hd-playback-for-pcmacos-for-2024/"><u>Expert Recommendations Free & Paid HD Playback for PC/macOS for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-nvidia-geforce-rtx-2080-super-driver-software-for-windows-10-and-11-free-download/"><u>Get the Latest NVIDIA GeForce RTX 2080 Super Driver Software for Windows 10 and 11 – Free Download!</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-record-audio-on-windows-11/"><u>How to Record Audio on Windows 11</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-samsung-galaxy-m14-4g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Samsung Galaxy M14 4G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-infinix-smart-8-plus-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Infinix Smart 8 Plus</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-get-your-origin-app-working-again-in-modern-windows-environments/"><u>Step-by-Step Guide to Get Your Origin App Working Again in Modern Windows Environments</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-7-solutions-to-resolve-twitch-stream-load-failures/"><u>Top 7 Solutions to Resolve Twitch Stream Load Failures</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-advanced-tips-for-ps4-screen-capture/"><u>[New] Advanced Tips for PS4 Screen Capture</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-from-raw-to-ready-a-comprehensive-instruction-manual-for-picture-posting-on-youtube-for-2024/"><u>[New] From Raw to Ready A Comprehensive Instruction Manual for Picture Posting on YouTube for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-fortnite-not-loading-issues-quickly-and-easily/"><u>[Solved] Fortnite Not Loading Issues | Quickly & Easily</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ending-game-crashes-in-dauntless-for-pc-users-a-step-by-step-guide/"><u>Ending Game Crashes in Dauntless for PC Users - A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-getting-call-of-dutys-modern-warfare-3-mw3-up-and-running-without-glitches-or-delays/"><u>Expert Tips: Getting Call of Duty's Modern Warfare 3 MW3 Up and Running Without Glitches or Delays</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-oppo-reno-11-pro-5g-frp-by-drfone-android/"><u>How Can We Bypass Oppo Reno 11 Pro 5G FRP?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/identifying-excellent-video-production-experts/"><u>Identifying Excellent Video Production Experts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722987923938-monster-hunter-rise-stuck-on-loading-screen-heres-the-solution/"><u>Monster Hunter Rise Stuck on Loading Screen? Here's the Solution</u></a></li>
+<li><a href="https://fox-info.techidaily.com/revolutionizing-image-capture-with-ios-11-updates-for-2024/"><u>Revolutionizing Image Capture with iOS 11 Updates for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/solucion-efectiva-para-restaurar-datos-extraviados-en-iphone-tecnicas-avanzadas-del-ano-2023/"><u>Solución Efectiva Para Restaurar Datos Extraviados en iPhone - Técnicas Avanzadas Del Año 2023</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-mystery-effective-ways-to-eliminate-packet-loss-in-discord/"><u>Solving the Mystery: Effective Ways to Eliminate Packet Loss in Discord</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95811630-9781616409128-the-master-key-system/"><u>The Master Key System | Free Book</u></a></li>
 </ul></div>
 

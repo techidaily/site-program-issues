@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Troubleshooting and Fixing Error Code 130 on Steam
-date: 2024-08-23T17:32:31.947Z
-updated: 2024-08-24T17:32:31.947Z
+date: 2024-11-02T03:50:06.883Z
+updated: 2024-11-07T02:22:54.630Z
 tags:
   - win11
   - win10
@@ -42,18 +42,24 @@ Does**Grand Theft Auto** (**GTA** ) **5 stutter**  whenever you’re in the midd
 3. Reduce it to the lowest cause the higher it would cost more video memory.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/close.jpg)
 4. Click**Graphics** and find**Refresh Rate** . Keep it around 60Hz or smaller to limit your FPS.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2019/10/refresh.jpg)
-5. Relaunch the game to check.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/refresh.jpg)
+5. Relaunch the game to check.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Disable full-screen optimisations
 
  The full-screen mode could be the reason for the GTA stuttering issue. By disabling the full-screen mode may help you fix the issue.
@@ -66,8 +72,12 @@ Does**Grand Theft Auto** (**GTA** ) **5 stutter**  whenever you’re in the midd
 5. Relaunch the game and check.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Update graphics card driver
 
  The GTA stuttering issue could relate to graphics quality. To improve the game graphics quality, update the graphics card driver is a good option. Because with outdated or wrong drivers, you may encounter the GTA 5 stuttering issue or other problems.
@@ -96,12 +106,16 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will stutter or not.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -116,9 +130,6 @@ To do so:
 2. Click **Graphics** and scroll down. Find **VSync** and turn it **OFF** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/off.jpg)  
  If it’s already **OFF** , try turning it**ON** , then restart your game and **turn VSync** **OFF** again.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 3. Restart your PC and GTA 5 again to see if it works.
 
  Hopefully, the above methods can help. If you have any questions, ideas or suggestions, please feel free to leave your comments.
@@ -131,8 +142,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +149,24 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ltimate-leaderboard-locator-youtubes-most-pop-videos/"><u>[New] Ultimate Leaderboard Locator YouTube's Most Pop Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-video-sharing-warriors-which-fights-better-obs-or-twitch-studio/"><u>2024 Approved Video Sharing Warriors Which Fights Better - OBS or Twitch Studio?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722998936232-battlefield-2042-performance-optimized-say-goodbye-to-framerate-drops-and-glitchy-gameplay/"><u>Battlefield #2042 Performance Optimized - Say Goodbye to Framerate Drops and Glitchy Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-the-black-screen-glitch-in-pcs-hitman-trilogy-part-3/"><u>Diagnosing & Repairing the Black Screen Glitch in PC's Hitman Trilogy: Part 3</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-fixing-warzone-not-launching-common-issues-covered/"><u>Expert Tips for Fixing 'Warzone Not Launching': Common Issues Covered</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-fortnite-login-issues-fast-and-easy-step-by-step-guide/"><u>Fix Your Fortnite Login Issues Fast and Easy – Step-by-Step Guide!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722986824907-ghostrunner-crashes-on-windows-11-heres-how-to-fix-it/"><u>Ghostrunner Crashes on Windows 11? Here's How to Fix It</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-unloaded-textures-in-fortnite-warzone-gameplay/"><u>How to Resolve Unloaded Textures in Fortnite Warzone Gameplay</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-y27s-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo Y27s? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-how-to-submit-your-podcast-to-apple-podcasts/"><u>In 2024, How To Submit Your Podcast to Apple Podcasts</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-ultimate-blueprint-for-cutting-edge-xbox-recording/"><u>In 2024, The Ultimate Blueprint for Cutting-Edge Xbox Recording</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-huawei-nova-y71-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Huawei Nova Y71 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-itel-p55-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Itel P55 5GFRP Lock</u></a></li>
+<li><a href="https://program-issues.techidaily.com/modern-warfare-3-error-solved-eliminating-the-notorious-memory-fault-error-12707/"><u>Modern Warfare 3 Error Solved: Eliminating the Notorious Memory Fault (Error 12707)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-guide-updating-your-usb-sound-card-drivers-in-windows-11107/"><u>Step-by-Step Guide: Updating Your USB Sound Card Drivers in Windows 11/10/7</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722996553880-the-end-of-the-line-for-the-call-of-duty-warzone-pacific-glitch-now-solved/"><u>The End of the Line for the Call of Duty: Warzone Pacific Glitch - Now Solved!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-choosing-a-smart-sprinkler-controller-for-2e24-features-of-rachio-rainmachine-vs-wyze-by-experts-at-zdnet/"><u>The Ultimate Guide to Choosing a Smart Sprinkler Controller for 2E24: Features of Rachio, Rainmachine Vs. Wyze by Experts at ZDNET</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Overcoming 'House Flipper 2' Stalling Episodes on Personal Computers"
-date: 2024-10-27T19:30:16.389Z
-updated: 2024-10-31T21:57:23.243Z
+date: 2024-11-03T20:26:56.260Z
+updated: 2024-11-07T02:53:38.872Z
 tags:
   - win11
   - win10
@@ -34,19 +34,6 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 10. **[Run Program Compatibility Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 11. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your graphics drivers
 
  Graphics card manufacturers like Nvidia, AMD and Intel constantly release new graphics drivers to fix bugs and improve the gaming performance and experience. If the graphics driver on your PC is outdated or corrupted, you may not be able to enjoy the optimal gaming experience, and sometimes you may run into the Control crash issue.
@@ -63,21 +50,15 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. You’ll need the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) to do this and you’ll be prompted to upgrade.  
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  (Alternatively, if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
@@ -89,44 +70,50 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 
  Some players reported that Control may crash when they’re using MSI Afterburner or Zotac Firestorm. So if you’ve enabled MSI Afterburner or Zotac Firestorm, try disabling them to see if this issue persists. If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Use a reduced settings profile for graphics-related features
 
  If your PC fails to meet the recommended system requirements for Control, you should use a reduced settings profile for graphics-related features, because higher settings will increase the workload for your PC, which may even lead to the game crash issue. You can follow the screenshots below to lower the in-game graphics settings:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-setting-1024x592.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-system-requirements.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  _The system requirements information is captured from Epic Games Launcher_
 
  If you’re currently running Control with DirectX 12, it’s recommended that you run Control**with DirectX 11** to avoid the game crash issues.
 
  Restart the game to see if this fix works, if not, try the next fix below to modify your graphics card settings.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Modify your graphics card settings
 
@@ -145,27 +132,14 @@ Here are the system requirements for Control:
 2. View the Control Panel by **Large icons** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
@@ -206,6 +180,13 @@ Here are the system requirements for Control:
 
  Launch Control again in reduced settings to see if it crashes or not. If the game still crashes, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Delete the “render.ini” file
 
  If the screen goes black and you’re seeing the error message ” game\_rmdwin7\_f.exe is not responding ” when you try to play Control, you can follow the steps below to fix this issue:
@@ -216,6 +197,13 @@ Here are the system requirements for Control:
 4. Launch Control again.
 
  See if the game will crash or not. Normally this issue should be resolved. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Perform a Windows Update
 
@@ -272,17 +260,17 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_12-24-18.png)
 2. In the Properties Window, navigate to**the Compatibility tab** , check the box next to**Run this program in compatibility mode for:** and select**Windows 7** from the drop-down list. Check the box next to**Run as an administrator** and then click**OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_14-25-41.png)
 3. Double-click the shortcut of Control on your desktop to launch it. This time Control will run in the compatibility mode you set in step 2.
 
 See if this fix works for you. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 11: Reinstall the game
 
@@ -310,21 +298,24 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-immortalize-your-playthrough-xbox-one-screen-capture-tips/"><u>[Updated] 2024 Approved Immortalize Your Playthrough Xbox One Screen Capture Tips</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-boosting-engagement-joint-video-strategies-for-growth/"><u>[Updated] In 2024, Boosting Engagement Joint Video Strategies for Growth</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-youtube-editing-essentials-the-ultimate-guide-post-upload-refinements/"><u>[Updated] YouTube Editing Essentials The Ultimate Guide Post-Upload Refinements</u></a></li>
-<li><a href="https://extra-information.techidaily.com/gopro-hero-10-secrets-for-perfect-slow-motion-shots/"><u>GoPro Hero 10 Secrets for Perfect Slow Motion Shots</u></a></li>
-<li><a href="https://program-issues.techidaily.com/gta-v-stability-hacks-how-to-stop-unexpected-game-exits/"><u>GTA V Stability Hacks: How to Stop Unexpected Game Exits</u></a></li>
-<li><a href="https://program-issues.techidaily.com/helldivers-eboot-failure-heres-how-to-fix-the-startup-black-screen-glitch/"><u>Helldivers Eboot Failure? Here's How to Fix the Startup Black Screen Glitch!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-constant-stutter-in-deathloop-a-guide-for-xbox-series-xs-ps5-and-pc-players/"><u>How to Overcome Constant Stutter in Deathloop: A Guide for Xbox Series X|S, PS5, and PC Players</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-content-crusaders-route-to-rapid-instagram-fame/"><u>In 2024, Content Crusader’s Route to Rapid Instagram Fame</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/july-2024-netgear-login-credentials-exposed-comprehensive-guide/"><u>July 2024 NETGEAR Login Credentials Exposed: Comprehensive Guide</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/overcoming-phone-connection-challenges-on-the-samsung-galaxy-watch-effective-fixes-and-tips/"><u>Overcoming Phone Connection Challenges on the Samsung Galaxy Watch – Effective Fixes and Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/persistently-unresponsive-heres-how-to-fix-the-latest-freezing-issues-in-new-world/"><u>Persistently Unresponsive? Here's How to Fix the Latest Freezing Issues in New World!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/say-goodbye-to-glitches-mastering-smooth-gameplay-for-assassins-creed-valhalla-on-pc/"><u>Say Goodbye to Glitches: Mastering Smooth Gameplay for Assassin's Creed Valhalla on PC</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/strategic-dual-streaming-tactics-for-a-wider-viewership-for-2024/"><u>Strategic Dual Streaming Tactics for a Wider Viewership for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-2024-fortnite-pc-stalling-issues/"><u>Ultimate Guide: Resolving 2024 Fortnite PC Stalling Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-guide-to-stop-firefox-from-freezing-updated-techniques/"><u>Ultimate Troubleshooting Guide to Stop Firefox From Freezing - Updated Techniques</u></a></li>
-<li><a href="https://facebook.techidaily.com/unfollow-unfriend-actions-prior-to-facebook-deletion/"><u>Unfollow, Unfriend: Actions Prior to Facebook Deletion</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-blitz-games-leading-lightning-fast-titles-for-laptopsphones/"><u>[New] 2024 Approved Blitz Games Leading Lightning-Fast Titles for Laptops/Phones</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-full-potential-of-video-creation-with-vida/"><u>[New] Unlocking the Full Potential of Video Creation with Vida</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-understanding-igtv-shutdown/"><u>[Updated] 2024 Approved Understanding IGTV Shutdown</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/windows-11-right-click-menu/"><u>修復された! Windows 11 Right-Click Menuを以前の状態にリセットする方法</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-who-can-access-your-youtube-videos/"><u>Altering Who Can Access Your YouTube Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/assessment-parrot-ar-drone-20-enhanced-edition/"><u>Assessment Parrot AR Drone 2.0 Enhanced Edition</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211350567--at-the-borders-of-the-wondrous-and-magical/"><u>At the Borders of the Wondrous and Magical | Free Book</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beating-the-blues-with-your-console-a-detailed-fixing-guide-for-frequent-ps4-freezing-issues/"><u>Beating the Blues with Your Console: A Detailed Fixing Guide for Frequent PS4 Freezing Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-your-helldivers-ii-gaming-experience-on-pc-with-these-proven-resolutions/"><u>Enhance Your Helldivers II Gaming Experience on PC with These Proven Resolutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/forza-horizon-5-crash-dilemma-top-techniques-for-ensuring-smooth-gaming-on-pcs/"><u>Forza Horizon 5 Crash Dilemma? Top Techniques for Ensuring Smooth Gaming on PCs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-infinix-hot-40-pro-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Infinix Hot 40 Pro PIN</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-frequent-freezing-of-arcadegeddon-on-personal-computers-expert-advice/"><u>How to Stop Frequent Freezing of Arcadegeddon on Personal Computers: Expert Advice</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mordhau-continuous-crashes-solved-tips-and-tricks-for-smooth-gaming/"><u>Mordhau Continuous Crashes Solved - Tips and Tricks for Smooth Gaming</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/navigating-ppt-presentations-successfully-in-google-meet-for-2024/"><u>Navigating PPT Presentations Successfully in Google Meet for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-launch-errors-in-football-manager-2023-expert-tips/"><u>Overcome Launch Errors in Football Manager 2023 - Expert Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-overcoming-the-challenge-of-fixes-applied-modern-warfare-2-wont-start/"><u>Resolved: Overcoming the Challenge of [Fixes Applied] Modern Warfare 2 Won't Start</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-starfield-game-stability-issues-no-more-pc-crashes/"><u>Resolved: Starfield Game Stability Issues - No More PC Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-fixes-for-audio-malfunctions-in-fallout-4-pc-edition/"><u>Step-by-Step Fixes for Audio Malfunctions in Fallout 4 PC Edition</u></a></li>
 </ul></div>
 

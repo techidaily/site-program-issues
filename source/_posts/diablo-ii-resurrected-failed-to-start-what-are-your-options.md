@@ -1,7 +1,7 @@
 ---
 title: Diablo II Resurrected Failed to Start – What Are Your Options?
-date: 2024-10-28T21:13:39.650Z
-updated: 2024-10-31T22:08:02.693Z
+date: 2024-10-31T00:30:34.245Z
+updated: 2024-11-06T21:51:44.349Z
 tags:
   - win11
   - win10
@@ -77,13 +77,6 @@ If you don’t know how to find your PC specs, take the steps below.
 * **[Update the Xbox and Gaming Services apps](https://tools.techidaily.com/drivereasy/download/)**
 * **[Uninstall and reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Update graphics drivers
 
 **Graphics drivers** act as a bridge that allows your operating system and applications, such as Starfield, to interact effectively with your graphics hardware.
@@ -109,10 +102,10 @@ If you have no idea what kind of graphics card your PC is packing,
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-identify-your-graphics-card.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2: Automatically update graphics drivers (recommended)
@@ -137,18 +130,24 @@ After driver updates, it’s a good practice to reboot your device.
 
  After the reboot, relaunch Starfield. If it still fails to start, proceed to the next fix.
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Update Windows
 
  To ensure Starfield opens without interruptions, it’s crucial to keep your Windows updated. Windows updates often include bug fixes, make sure your system is compatible with application requirements, and enhance system stability, reducing conflicts that can hinder game launches.
 
 To download and install the latest Windows updates, take these steps:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### On Windows 11
 
@@ -157,17 +156,10 @@ To download and install the latest Windows updates, take these steps:
 ![Windows 11 check for Windows updates](https://images.drivereasy.com/wp-content/uploads/2022/04/win11-Windows-Update-Check-for-updates.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### On Windows 10
@@ -193,19 +185,26 @@ To temporarily disable the Windows Firewall:
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-windows-features-on-or-off.png)
 4. Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network, and Public network. Then click **OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-firewall.png)
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To temporarily turn off your antivirus software:
@@ -229,10 +228,10 @@ To temporarily turn off your antivirus software:
 5. Steam will verify the game’s files – this process may take several minutes. When the process is complete, try to launch Starfield and see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Update the Xbox and Gaming Services apps
@@ -247,11 +246,25 @@ Follow the steps below to do this.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/Starfield-on-the-game-launcher-1200x675.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For Xbox users, you should also check if the services are up and running. Sometimes the issue is not on your end.
 
  To do this, simply[go to this page](https://support.xbox.com/en-US/xbox-live-status) . If it says**Limited** or**Major outage** , maybe you need to patiently wait for the repair.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/Xbox-status.png)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Uninstall and reinstall the game
 
@@ -276,13 +289,6 @@ Follow the steps below to do this.
  When you see a message that says “Verification 100% complete”, type**exit** and press Enter.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/use-System-File-Checker-to-repair-corrupted-files.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  However, this tool may not help you with a 100% guarantee. Sometimes it fails to fix an underlying problem. If that’s your case, you can try **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  , a powerful tool that specializes in Windows repair.
 
@@ -315,18 +321,16 @@ Below is how you can benefit from the use of Fortect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-professionals-insight-into-morphvox-techniques-for-precise-audio-alteration/"><u>[New] Professional's Insight Into MorphVOX Techniques for Precise Audio Alteration</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flawless-free-download-of-youtube-video-covers-no-hurdles/"><u>[Updated] In 2024, Flawless Free Download of YouTube Video Covers - No Hurdles</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-visionary-leap-to-4k-the-eizo-coloredge-monitor-review-for-2024/"><u>A Visionary Leap to 4K The EIZO ColorEdge Monitor Review for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-for-preventing-discord-network-disruptions/"><u>Effective Solutions for Preventing Discord Network Disruptions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-problem-prevent-risk-of-rain-2-from-unexpectedly-shutting-down/"><u>Fixing the Problem: Prevent Risk of Rain 2 From Unexpectedly Shutting Down</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-motorola-edge-2023-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Motorola Edge 2023 Quickly? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-nokia-c110-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Nokia C110 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/revive-your-deleted-or-lost-iphone-memories-instantly-with-stellar-data-rescue-buy-today/"><u>Revive Your Deleted or Lost iPhone Memories Instantly with Stellar Data Rescue - Buy Today</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-8-solutions-how-to-stop-your-pc-from-crashing-in-vrchat/"><u>Top 8 Solutions: How to Stop Your PC From Crashing in VRChat</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-strategies-for-eliminating-dota-2-lag-issues-as-of-2024-proven-fixes-inside/"><u>Top Strategies for Eliminating Dota 2 Lag Issues as of 2024 - Proven Fixes Inside!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005266523-troubleshooting-tips-solve-your-gta-v-crashing-issues-now/"><u>Troubleshooting Tips - Solve Your GTA V Crashing Issues Now!</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/ultimate-users-companion-for-durecorder/"><u>Ultimate User’s Companion for DuRecorder</u></a></li>
-<li><a href="https://program-issues.techidaily.com/why-your-nox-emulator-isnt-working-and-how-you-can-stabilize-it-on-windowsmac-systems/"><u>Why Your Nox Emulator Isn't Working and How You Can Stabilize It on Windows/Mac Systems</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-maximize-visibility-a-guide-to-constructing-youtube-backlinks/"><u>[New] 2024 Approved Maximize Visibility A Guide to Constructing YouTube Backlinks</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-plain-story-formulation/"><u>[New] Plain Story Formulation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-how-to-perfectly-capture-audio-remotely/"><u>[Updated] 2024 Approved How to Perfectly Capture Audio Remotely</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-spinning-media-a-quick-guide-to-rotating-videos-in-vlc/"><u>2024 Approved Spinning Media A Quick Guide to Rotating Videos in VLC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-to-follow-steps-to-begin-your-virtual-reality-journey-with-oculus-quest/"><u>Easy-to-Follow Steps to Begin Your Virtual Reality Journey with Oculus Quest</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-frozen-steam-with-these-essential-solutions/"><u>Fix Your Frozen Steam with These Essential Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-persistent-problem-of-lunar-client-crashing-on-windowspcs/"><u>Fixing the Persistent Problem of Lunar Client Crashing on Windows/PCs</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/online-broadcasting-basics-a-streamers-guide-to-capture/"><u>Online Broadcasting Basics A Streamer’s Guide to Capture</u></a></li>
+<li><a href="https://games-able.techidaily.com/supers-battle-zone-evaluating-4070-4070-ti-and-rtx-4080-performance/"><u>Supers Battle Zone: Evaluating 4070, 4070 Ti & RTX 4080 Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/valorant-optimization-guide-beating-pc-input-lag-issues-gaming/"><u>Valorant Optimization Guide - Beating PC Input Lag Issues Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009090242-xcom-2-windows-compatibility-optimization-no-more-game-crashes/"><u>XCOM 2 Windows Compatibility Optimization - No More Game Crashes</u></a></li>
 </ul></div>
 

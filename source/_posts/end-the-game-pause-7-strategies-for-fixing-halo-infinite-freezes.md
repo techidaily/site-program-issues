@@ -1,7 +1,7 @@
 ---
 title: "End the Game Pause: 7 Strategies for Fixing Halo Infinite Freezes"
-date: 2024-08-23T17:35:48.616Z
-updated: 2024-08-24T17:35:48.616Z
+date: 2024-11-01T03:33:51.800Z
+updated: 2024-11-06T20:58:44.018Z
 tags:
   - win11
   - win10
@@ -36,14 +36,32 @@ thumbnail: https://thmb.techidaily.com/acfd39cea130b7076ba0e472a472a7627f6c0d070
 1. Go to your Steam library. Right click **The Ascent** and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-beta-1.jpg)
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** . If there’re any new game files, Steam will download them for you.  
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/steam-verify-2.jpg)
 3. Wait for the checking to complete. Then start The Ascent and check if it lags again.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this doesn’t fix the stuttering issue, take a look at the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  Stuttering or FPS drops might indicate that you’re using**a buggy or outdated graphics driver** . This is actually pretty common—games are getting more and more demanding, and the generic driver that comes with Windows no longer suffices. To get the best in-game performance, always check if you have the latest GPU driver.
@@ -57,8 +75,12 @@ thumbnail: https://thmb.techidaily.com/acfd39cea130b7076ba0e472a472a7627f6c0d070
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC and start a game in The Ascent.
@@ -79,8 +101,12 @@ thumbnail: https://thmb.techidaily.com/acfd39cea130b7076ba0e472a472a7627f6c0d070
  If this doesn’t give you any improvements, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Run The Ascent on DirectX 11
 
  Some players reported different results on DirectX 11 and 12, so you can switch between these two and see which works the best. By default you’ll be running The Ascent on DirectX 12.
@@ -91,9 +117,6 @@ If you don’t know how to switch, follow these steps:
 2. In the pop-up window, scroll down until you see**LAUNCH OPTIONS** . Click the input area and type**\-dx11** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-dx11.jpg)
 3. Now you can start The Ascent and test the gameplay.
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If changing the DirectX version doesn’t do the trick, you can check out the next solution.
 
@@ -104,21 +127,28 @@ If you don’t know how to switch, follow these steps:
 1. On your keyboard, press**the Windows logo key** and type**exploit** . Select**Exploit protection** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-1.jpg)
 2. Navigate to the Program settings tab.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-2.jpg)
 3. Click**Add program to customize** and select**Add by program name** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-3.jpg)
 4. In the pop-up window, type**TheAscent-Win64-Shipping.exe** if you’re on Steam. For Xbox Game Pass it’ll be**TheAscent-WinGDK-Shipping.exe** . Next, click**Add** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-4.jpg)
 5. Under the**Control flow guard (CFG)** section, select**Override system settings** . Then toggle it to**Off** and click**Apply** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-5.jpg)
 6. Now you can check if there’re any improvements in The Ascent. (You might also need to go to**Steam > Settings > Cloud** and disable Steam Cloud synchronization.)
 
@@ -132,8 +162,6 @@ If you don’t know how to switch, follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +169,26 @@ If you don’t know how to switch, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-from-idea-to-execution-creating-must-watch-fb-reels/"><u>[New] In 2024, From Idea to Execution Creating Must-Watch FB Reels</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-memetic-innovations-ideas-that-delight-any-audience/"><u>[New] Memetic Innovations Ideas That Delight Any Audience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-obs-not-recording-screen/"><u>[SOLVED] OBS Not Recording Screen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/sovled-necromunda-hired-gun-keeps-crashing-on-pc/"><u>[SOVLED] Necromunda: Hired Gun Keeps Crashing on PC</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-tinder-bio-hacks-steal-these-examples-and-get-swiped-right/"><u>[Updated] In 2024, Tinder Bio Hacks Steal These Examples & Get Swiped Right</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tips-to-amplify-your-character-with-easy-pubg-alterations/"><u>[Updated] Tips to Amplify Your Character with Easy PUBG Alterations</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-top-10-places-for-accessible-photography-loot/"><u>2024 Approved Top 10 Places for Accessible Photography Loot</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-90-lite-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from 90 Lite.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/busting-through-nwstoreexe-errors-comprehensive-fix-techniques-revealed/"><u>Busting Through nw_store.exe Errors: Comprehensive Fix Techniques Revealed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722991971535-complete-guide-no-more-cyberpunk-2077-download-troubles-on-steam/"><u>Complete Guide: No More Cyberpunk 2077 Download Troubles on Steam</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-a-non-launching-city-skylines-2-expert-tips-and-tricks/"><u>Fixing a Non-Launching City Skylines 2 - Expert Tips and Tricks</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo X100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-7-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server From iPhone 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-voice-chat-problems-in-pubg-top-5-remedies-revealed/"><u>Overcoming Voice Chat Problems in PUBG - Top 5 Remedies Revealed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-mlb-the-show-21s-troubled-connection-fixed/"><u>Solution Found! MLB The Show 21'S Troubled Connection Fixed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-intel-device-drivers-fixes-when-the-assistant-fails/"><u>Troubleshooting Intel Device Drivers: Fixes When the Assistant Fails</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-zombie-army-s-game-crashes-for-pc-players/"><u>Troubleshooting Zombie Army S Game Crashes for PC Players</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/windows-11-video-production-from-start-to-finish/"><u>Windows 11 Video Production From Start to Finish</u></a></li>
+<li><a href="https://program-issues.techidaily.com/world-of-warcraft-halted-by-error-132-heres-how-to-get-you-back-in-game/"><u>World of Warcraft Halted by Error 132? Here's How to Get You Back In-Game</u></a></li>
+</ul></div>
 

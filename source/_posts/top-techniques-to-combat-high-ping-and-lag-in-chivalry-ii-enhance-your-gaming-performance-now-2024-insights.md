@@ -1,7 +1,7 @@
 ---
 title: Top Techniques to Combat High Ping & Lag in Chivalry II - Enhance Your Gaming Performance Now (2024 Insights)
-date: 2024-10-28T00:00:35.701Z
-updated: 2024-11-01T06:48:01.103Z
+date: 2024-11-03T22:23:10.670Z
+updated: 2024-11-07T03:43:41.326Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ As one of the most awaited games in 2022, Elden Ring is finally here. However ma
 5. [**Disable Microsoft Device Association Root Enumerator**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Adjust the NVIDIA settings](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Update your graphics driver
 
  A broken or outdated graphics driver can trigger a variety of gaming issues such as constant stuttering or massive FPS drops. If you’re playing AAA titles like Elden Ring with high system requirements, you should definitely update your graphics driver to gain the best in-game experience.
@@ -53,16 +46,29 @@ To keep your graphics driver up-to-date, here are two options for you:
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After the driver update, relaunch the game to see how it works. If the problem persists, there are more fixes to try.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2 – Optimize graphics settings
@@ -81,20 +87,19 @@ To keep your graphics driver up-to-date, here are two options for you:
 5. Select**High performance** and click**Save** .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this method doesn’t work, try the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Verify integrity of game files
 
@@ -104,33 +109,19 @@ If this method doesn’t work, try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Elden Ring** from the game list and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Select**LOCAL FILES** and click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  It may take a while for Steam to scan and repair the game files, which will replace the wrong files with those from the official server. Now check if you get smoother gameplay. If not, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Disable Steam overlay
 
@@ -140,10 +131,43 @@ If this method doesn’t work, try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. From the game list, right-click Elden Ring and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Untick**Enable the Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/steam-overlay.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Restart the game and test. Still no luck? Continue to the next fix.
 
@@ -165,13 +189,6 @@ Restart the game and test. Still no luck? Continue to the next fix.
 
  Test if you has an instant FPS boost. If so, you can enable the device again while you’re not playing the game. If the issue reoccurs, turn the device on and then take a look at the last fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6 – Adjust the NVIDIA settings
 
  If all the methods above don’t help and you’re using an NVIDIA graphics card, adjusting specific graphical settings may increase your FPS in Elden Ring.
@@ -184,6 +201,13 @@ Restart the game and test. Still no luck? Continue to the next fix.
 3. Under the**Global Settings** tab, scroll through the list to find**Shader Cache Size** and set it to**Unlimited** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/nvidia-setting.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Apply the changes and see if you’re able to play the game as expected.
 
@@ -209,21 +233,15 @@ Restart the game and test. Still no luck? Continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-calculating-total-vids-for-high-capacity-hardware-64128gb-for-2024/"><u>[Updated] Calculating Total Vids for High-Capacity Hardware (64/128GB) for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-from-watcher-to-writer-how-to-set-up-a-sports-channel-on-macos/"><u>[Updated] In 2024, From Watcher to Writer How to Set Up a Sports Channel on macOS</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/advanced-5-internet-viewing-units/"><u>Advanced 5 Internet Viewing Units</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1031985-9781780999418-advanced-psychic-development/"><u>Advanced Psychic Development | Free Book</u></a></li>
-<li><a href="https://program-issues.techidaily.com/defeating-latency-in-apex-legends-connection-fixes-that-worked-for-me/"><u>Defeating Latency in Apex Legends: Connection Fixes That Worked for Me</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/highlights-of-short-track-speed-skating-olympics-2022/"><u>Highlights of Short Track Speed Skating Olympics 2022</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-boost-your-utorrent-speed-and-get-faster-downloads-expert-tips/"><u>How to Boost Your uTorrent Speed & Get Faster Downloads: Expert Tips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-create-distortion-effects-in-photoshop/"><u>How to Create Distortion Effects in Photoshop</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-valorant-graphics-driver-crash-errors-swiftly-and-efficiently/"><u>How to Resolve Valorant Graphics Driver Crash Errors Swiftly and Efficiently</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-record-speech-review-content/"><u>In 2024, Record Speech, Review Content</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723007869963-pc-troubles-heres-how-you-can-stop-praey-from-crashing/"><u>PC Troubles? Here's How You Can Stop Praey From Crashing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-steps-to-troubleshoot-saints-row-unable-to-start-on-desktop/"><u>Resolved: Steps to Troubleshoot Saints Row Unable to Start on Desktop</u></a></li>
-<li><a href="https://program-issues.techidaily.com/reviving-your-gameplay-quick-fixes-for-multiversus-failure-to-load-on-pc/"><u>Reviving Your Gameplay: Quick Fixes for MultiVersus Failure to Load on PC</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/revolutionize-your-videography-workflow-recordingediting-on-adobe-connect/"><u>Revolutionize Your Videography Workflow Recording/Editing on Adobe Connect</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-solving-horizon-forbidden-west-full-game-crashes-on-windows/"><u>Troubleshooting Steps: Solving 'Horizon Forbidden West' Full Game Crashes on Windows</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/xmedia-recode-ultimate-guide-video-transcoding-and-editing-mastery/"><u>XMedia Recode Ultimate Guide | Video Transcoding & Editing Mastery</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-smart-strategies-for-entrepreneurial-video-marketing/"><u>[New] 2024 Approved SMART Strategies for Entrepreneurial Video Marketing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-maximize-your-results-with-these-10-free-jpeg-to-gif-tools/"><u>[Updated] Maximize Your Results with These 10 Free JPEG-to-GIF Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unveiling-2023s-most-efficient-tools-for-fb-lite-videos-download/"><u>[Updated] Unveiling 2023'S Most Efficient Tools for FB Lite Videos Download</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-tutorial-on-utilizing-the-driver-easy-for-smartphones/"><u>Comprehensive Tutorial on Utilizing the Driver Easy for Smartphones</u></a></li>
+<li><a href="https://win-popular.techidaily.com/optimieren-sie-ihr-backup-mit-wbadmin-und-schutzen-sie-den-zustand-ihres-systems-effektiv/"><u>Optimieren Sie Ihr Backup Mit WBAdmin Und Schützen Sie Den Zustand Ihres Systems Effektiv!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-gaming-performance-eliminating-lag-and-jitter-on-cutting-edge-titles/"><u>Optimizing Gaming Performance: Eliminating Lag and Jitter on Cutting-Edge Titles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-fixing-your-steam-account-access-problems/"><u>Solution: Fixing Your Steam Account Access Problems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solutions-for-resolving-d3dx940dll-file-not-detected-issues/"><u>Solutions for Resolving d3dx9_40.dll File Not Detected Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-speeding-up-origin-downloads/"><u>Ultimate Guide: Speeding Up Origin Downloads</u></a></li>
 </ul></div>
 

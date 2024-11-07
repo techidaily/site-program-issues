@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Solving Dragon Age: Origins Freezes on Windows 11"
-date: 2024-10-29T17:45:03.523Z
-updated: 2024-10-31T20:26:14.868Z
+date: 2024-11-02T00:39:56.261Z
+updated: 2024-11-06T17:28:25.473Z
 tags:
   - win11
   - win10
@@ -43,10 +43,16 @@ thumbnail: https://thmb.techidaily.com/c556692b0a1b46bbb66857f1dcf736ab986ca8922
 ![How to disable GPU acceleration in After Effects 1](https://images.drivereasy.com/wp-content/uploads/2021/03/How-to-disable-GPU-acceleration-in-After-Effects-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you have two graphics cards and After Effects crashed when you’re using your dedicated graphics card for fast previews, you can also try switching your dedicated graphics card (GPU) to integrated graphics card (CPU) for fast previews. Here is how to do it:
@@ -74,6 +80,13 @@ thumbnail: https://thmb.techidaily.com/c556692b0a1b46bbb66857f1dcf736ab986ca8922
 
 There’re mainly two ways you can update your graphics drivers:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -89,13 +102,6 @@ There’re mainly two ways you can update your graphics drivers:
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 **Or**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -114,8 +120,22 @@ There’re mainly two ways you can update your graphics drivers:
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -132,13 +152,6 @@ There’re mainly two ways you can update your graphics drivers:
 1. Launch After Effects and go to**Edit** \>**Purge** \>**All Memory** &**Disk Cache…** .  
 ![Purge all memory and disk cache](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache.jpg)
 2. Click**OK** to delete all files from your disk cache.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Purge all memory and disk cache 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache-1.jpg)
 3. Launch After Effects again to see if it crashes or not. If it still crashes, try the next fix below.
@@ -159,13 +172,6 @@ There’re mainly two ways you can update your graphics drivers:
 
 If After Effects still crashes, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 5: Reinstall codecs and plugins
 
  Codecs are used to encode and decode your video files in After Effects. When codecs are corrupted or installed incorrectly, it may trigger the After Effects crashing issue. To fix crashing caused by codecs, you should try reinstall or update them.
@@ -173,10 +179,10 @@ If After Effects still crashes, try the next fix, below.
  Some incompatible plugins would also crash After Effects. Before installing a 3rd party plugin, you need ensure it is 100% compatible with both your version of After Effects and other plugins. If you’ve installed a new plugin recently, try deactivating it to see if it is the crashing culprit. If it doesn’t help, you may need to reinstall After Effects.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6: Update / reinstall After Effects
@@ -184,10 +190,10 @@ If After Effects still crashes, try the next fix, below.
  If none of the fixes above helped you resolve the crashing issue, try updating / reinstalling After Effects. Normally, after updating After Effects to the latest version, or reinstalling it, you’ll fix the crashing issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -218,24 +224,17 @@ If After Effects still crashes, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-15-techniques-to-ensure-facebook-videos-are-spotlighted/"><u>[New] 15 Techniques to Ensure Facebook Videos Are Spotlighted</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-maximize-engagement-auto-resized-videos-from-mac-for-instagram/"><u>[New] 2024 Approved Maximize Engagement Auto-Resized Videos From Mac for Instagram</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-ultimate-guide-to-hash-trackers-fb-twt-and-ig-networks/"><u>[New] In 2024, The Ultimate Guide to Hash Trackers FB, Twt & IG Networks</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-optimize-your-videos-for-instagram-mac-resizing-guide/"><u>[Updated] 2024 Approved Optimize Your Videos for Instagram Mac Resizing Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-scaling-up-on-igtv-through-powerful-hash-tagging-for-2024/"><u>[Updated] Scaling Up on IGTV Through Powerful Hash Tagging for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-efficiently-saving-your-screen-the-dell-approach/"><u>2024 Approved Efficiently Saving Your Screen The Dell Approach</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/audio-editing-in-fcp-tips-tricks-and-best-practices/"><u>Audio Editing in FCP Tips, Tricks, and Best Practices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/call-of-duty-black-ops-cold-war-how-to-stop-pc-crashes-and-play-smoothly/"><u>Call of Duty Black Ops Cold War - How to Stop PC Crashes and Play Smoothly</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/cinematic-perfection-mastering-the-top-5-techniques/"><u>Cinematic Perfection Mastering the Top 5 Techniques</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dealing-with-red-dead-redemption-2-not-starting-here-are-some-proven-tips/"><u>Dealing with Red Dead Redemption 2 Not Starting? Here Are Some Proven Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-gaming-lag-master-high-fps-solutions/"><u>Fix Your Gaming Lag: Master High FPS Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722999787338-fix-your-halo-infinite-pc-crashes-expert-solutions/"><u>Fix Your Halo Infinite PC Crashes: Expert Solutions!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/hands-on-review-of-apples-newest-studio-display-is-its-impressive-27-retina-xdr-worth-the-price-tag-for-mac-enthusiasts/"><u>Hands-On Review of Apple's Newest Studio Display: Is Its Impressive 27 Retina XDR Worth the Price Tag for Mac Enthusiasts?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-use-anthropics-new-claude-3-ai-prompt-store/"><u>How to Use Anthropic's New Claude 3 AI Prompt Store</u></a></li>
-<li><a href="https://program-issues.techidaily.com/masterclass-on-repairing-common-issues-with-phasmophobia-vr-game/"><u>Masterclass on Repairing Common Issues with Phasmophobia VR Game</u></a></li>
-<li><a href="https://program-issues.techidaily.com/monster-hunter-rise-not-initializing-here-are-the-solutions/"><u>Monster Hunter Rise Not Initializing? Here Are the Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723012441795-overcoming-minecraft-disconnection-woes-effective-strategies-now-available/"><u>Overcoming Minecraft Disconnection Woes: Effective Strategies Now Available.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-issue-troubleshooting-netflix-connectivity-problems-on-xbox-one/"><u>Resolved Issue: Troubleshooting Netflix Connectivity Problems on Xbox One</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722988282669-troubleshooting-obs-screen-recording-issue-resolved-now/"><u>Troubleshooting OBS - Screen Recording Issue Resolved Now!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-lgs-visual-masterpiece-comprehensive-monitor-analysis/"><u>[Updated] 2024 Approved LG’s Visual Masterpiece Comprehensive Monitor Analysis</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-composing-cinematic-cues-trailer-soundscapes-guide/"><u>[Updated] Composing Cinematic Cues Trailer Soundscapes Guide</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-navigating-the-world-of-tiktok-audio-and-visuals/"><u>2024 Approved Navigating the World of TikTok Audio and Visuals</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-the-new-age-smartphone-a-review-of-huawei-p10s-innovations/"><u>2024 Approved The New Age Smartphone? A Review of Huawei P10's Innovations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-vanguard-pc-version-now-running-smoothly-solutions-to-previous-crashes/"><u>Call of Duty Vanguard PC Version Now Running Smoothly - Solutions to Previous Crashes</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/come-ripristinare-le-email-eliminate-per-sempre-da-icloud-guida-passo-passo/"><u>Come Ripristinare Le Email Eliminate per Sempre Da iCloud: Guida Passo-Passo</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-and-prevent-star-wars-battlefront-ii-from-freezing-or-crashing-on-windows/"><u>Fix and Prevent Star Wars: Battlefront II From Freezing or Crashing on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/methods-to-reinforce-your-nvidia-coding-system/"><u>Methods to Reinforce Your Nvidia Coding System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-connectivity-hiccups-in-naraka-bladesword-for-a-smooth-gaming-experience/"><u>Overcoming Connectivity Hiccups in Naraka Bladesword for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-dolby-atmos-playback-issues-in-windows-1110-a-comprehensive-guide/"><u>Overcoming Dolby Atmos Playback Issues in Windows 11/10 - A Comprehensive Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-infinix-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Infinix .</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/visual-symphony-the-best-in-the-field-of-photo-and-video-makers-with-beats/"><u>Visual Symphony The Best in the Field of Photo & Video Makers with Beats</u></a></li>
 </ul></div>
 

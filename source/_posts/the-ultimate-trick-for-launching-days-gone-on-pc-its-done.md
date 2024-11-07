@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Trick for Launching Days Gone on PC - It's Done
-date: 2024-08-23T17:31:29.192Z
-updated: 2024-08-24T17:31:29.192Z
+date: 2024-10-31T20:42:51.338Z
+updated: 2024-11-07T03:06:36.927Z
 tags:
   - win11
   - win10
@@ -68,14 +68,8 @@ To check the specs of your PC:
 
  If your PC specs have been up to the mark but Days Gone still fails to launch, please move on to **Fix 2** , below to begin troubleshooting.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to fix Days Gone Not Launching on PC
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Fix 1 – Install the latest game patch
 
  The developer team of Days Gone released a note of known bugs in the game. It is possible that the launching failure is also one of the bugs and that a patch is required to fix it. So you should keep a watchful eye on the latest patch. As long as it’s released, you should close the game, then restart Steam client or Epic Games Launcher for the updates to take effect.
@@ -94,15 +88,19 @@ To check the specs of your PC:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-3.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
 5. Open the game in your launcher and see if it launches smoothly. If yes, you’ve fixed the problem. If it’s still failing, just head on to**Fix 3** , below.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Launch Days Gone in Windowed Mode
 
@@ -115,9 +113,6 @@ To check the specs of your PC:
 3. In**GENERAL** , scroll down to**LAUNCH OPTIONS** , then add**\-windowed -noborder** to the text bar.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/steam1.png)
 4. Click**Close** to exit the window.
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Fire up Days Gone and see if it opens properly this time. If yes, congrats! If it doesn’t do the trick, please try**Fix 4** .
 
 ##### In Epic Games Launcher
@@ -127,8 +122,19 @@ To check the specs of your PC:
 3. Click the **DISPLAY**  tab, then in**WINDOW MODE** , choose**Windowed mode** . Click**Apply** and exit.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-4.png)
 4. Open Days Gone and see if the launching issue is fixed. If yes, then congrats. If it’s still no joy, please continue with**Fix 4** , below.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4 – Disable all overlays
@@ -141,20 +147,34 @@ To check the specs of your PC:
 2. Locate Days Gone and right-click on**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/properties-1.png)
 3. Uncheck the box for**Enable the Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/uncheck.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ##### Disable GeForce Experience Overlay
 
 1. Open GeForce Experience.
 2. In the top right corner of the screen, click**Settings**  button.
 3. From the **GENERAL** panel, toggle the **SHARE** setting to off.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/ge.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Disable Discord Overlay
 
@@ -165,11 +185,15 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/overlaydiscord.png)
 4. Click**Esc** to exit the window.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you have disabled these overlays, run Days Gone and see if the launching problem is fixed. If not, move ahead to**Fix 5** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ### Fix 5 – Verify game integrity
 
  Days Gone may not launch if the game files are missing or corrupt. Luckily, both Steam client and Epic Game Launcher have built-in repair features, allowing you to verify the integrity of the game files and fix it (if anything wrong is found).
@@ -182,10 +206,14 @@ To check the specs of your PC:
 3. Click**LOCAL FILES** \>**Verify integrity of game files…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/local.png)
 4. Wait a bit until the process finishes.  
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/1of2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After that, re-launch the game and see if it opens without fail. If it’s still not launching, please continue with**Fix 6** , below.
 
@@ -201,11 +229,15 @@ To check the specs of your PC:
  According to some players’ feedback, renaming the Movies folder has helped in recovering the game to normal. It may sound not too intuitive, but it’s worth a shot. To do so, simply find your game’s directory, locate the**Movies** folder, then rename the folder (e.g. Movies\_2).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/rename.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once finished, head back to your game launcher to fire the game up. If this cuts it, then great. If it’s yielding no result, just try**Fix 7** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7 – Close unnecessary apps
 
  Having too many apps running in the background may make your game fail to restart, since they compete for CPU and memory. So it makes sense that while you’re playing the game, you close these resources hungry applications and services.
@@ -216,9 +248,6 @@ Here’s how to close background apps:
 2. Select the**Startup** tab, then right-click on each item and click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123.png)
 3. Restart your computer.
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Run Days Gone and hopefully the launching error is now resolved.
 
 ---
@@ -231,8 +260,6 @@ Here’s how to close background apps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -240,4 +267,24 @@ Here’s how to close background apps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-flip-to-fun-converting-youtube-videos-to-playful-download-free-gifs/"><u>[New] 2024 Approved Flip to Fun Converting YouTube Videos to Playful, Download-Free GIFs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-transforming-google-meet-screens-on-devices/"><u>[New] Transforming Google Meet Screens on Devices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-trimming-footage-for-insta-on-macos/"><u>[Updated] 2024 Approved Trimming Footage for Insta on macOS</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-sounds-ownership-policy-for-2024/"><u>[Updated] Instagram Sounds Ownership Policy for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-accelerate-thumbnail-designs-for-professional-valorant-portraits/"><u>2024 Approved Accelerate Thumbnail Designs for Professional Valorant Portraits</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722995145159-conquer-call-of-duty-warzone-glitches-mastering-error-6328-hacks-for-players/"><u>Conquer Call of Duty Warzone Glitches: Mastering Error 6328 Hacks for Players!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-huawei-nova-y71-support-mov-videos-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Huawei Nova Y71 support MOV videos ?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-methods-to-enable-hyper-v-on-your-windows/"><u>Easy Methods to Enable Hyper-V on Your Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-gaming-experience-by-fixing-high-network-delay-in-back-4-bloods/"><u>Enhance Gaming Experience by Fixing High Network Delay in Back 4 Bloods</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-s18-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo S18 FRP Bypass</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-win11s-top-5-cost-free-applications-for-recording-screens/"><u>In 2024, Win11's Top 5 Cost-Free Applications for Recording Screens</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-fix-overcoming-launch-errors-in-days-gone-for-pc-users/"><u>Master The Fix: Overcoming Launch Errors In Days Gone For PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/national-pesticide-information-center-2016-glyphosate-retrieved-from-httpsnpicorsteduhazardspestfactsgpshtml/"><u>National Pesticide Information Center (2016). Glyphosate. Retrieved From https://npic.orst.edu/hazards/pestfacts/gps.html</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-freezes-mastering-the-fixes-for-stable-total-war-warhammer-iii-gameplay/"><u>No More Freezes! Mastering the Fixes for Stable Total War: Warhammer III Gameplay</u></a></li>
+<li><a href="https://windows11.techidaily.com/preventing-discord-from-starting-with-windows-boot/"><u>Preventing Discord From Starting with Windows Boot</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-addressing-fortnites-out-of-memory-situation/"><u>Troubleshooting Tips: Addressing Fortnite’s Out-of-Memory Situation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/uninterrupted-gaming-bliss-how-to-prevent-among-us-from-crashing/"><u>Uninterrupted Gaming Bliss: How to Prevent 'Among Us' From Crashing</u></a></li>
+</ul></div>
 

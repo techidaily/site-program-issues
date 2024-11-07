@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Complete: No More FIFA 20 Crashes for Windows Users"
-date: 2024-10-31T03:39:32.378Z
-updated: 2024-11-01T03:28:52.040Z
+date: 2024-10-31T19:30:28.013Z
+updated: 2024-11-06T20:47:47.434Z
 tags:
   - win11
   - win10
@@ -31,6 +31,19 @@ If you’re getting this error message ‘**An Unreal process has crashed: UE4-M
  Many players find it helps when they stop using MSI Afterburner. On your keyboard, press the**Ctrl + Shift + Esc** , and then end the related process in**Task Manager** .
 
  Now you can try launching your Outriders again to see if the problem has gone. But if the Unreal Engine crashing persists, you may want to try the following fixes.
+
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Update your graphics driver
 
@@ -63,6 +76,13 @@ There are mainly two methods for you to update the graphics driver:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Verify the game integrity
 
  Another possible cause of ‘**Unreal process has crashed: UE4-Madness error** ‘ in Outriders is corrupted or missing game files. To check if this is causing the Unreal Engine to crash, you can try this simple troubleshooting:
@@ -73,28 +93,15 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Go to the LOCAL FILES tab, and click**Verify Integrity of game files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Wait for the process to complete. It may take a few seconds to verify the integrity of your game files.
@@ -111,14 +118,14 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-in-dx-11.jpg)
 
- Now when you click the Play button, the game is always run in DX11\. If this method doesn’t do the trick, you can change the launch option back to**\-force -dx12** .
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Now when you click the Play button, the game is always run in DX11\. If this method doesn’t do the trick, you can change the launch option back to**\-force -dx12** .
 
 ### 5\. Launch the game in your game folder
 
@@ -133,10 +140,10 @@ There are mainly two methods for you to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties-game-exe.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Go to the**Compatibility** tab, and check**Run this program as an administrator** .
@@ -156,10 +163,16 @@ There are mainly two methods for you to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) On the left pane, click**Allow an app or feature through Windows Defender Firewall** .
@@ -169,13 +182,6 @@ There are mainly two methods for you to update the graphics driver:
  4) Now you can click**Change settings** and scroll down to Outriders to make sure the**Private** and**Public** boxes are both checked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/allowed.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) If Outriders is not on the list, you can select**Allow another app..** . and then add your Outriders.
 
@@ -203,16 +209,17 @@ There are mainly two methods for you to update the graphics driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-video-quality-edge-mirrorless-versus-dslr-cameras/"><u>[New] 2024 Approved Video Quality Edge Mirrorless Versus DSLR Cameras</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-librecam-x-live-streaming-experience-analyzed/"><u>[New] LibreCam X Live Streaming Experience Analyzed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cod-vanguard-pc-game-crash-fixes-top-solutions/"><u>CoD Vanguard PC Game Crash Fixes : Top Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-helldivers-ii-resolving-the-black-screen-at-launch/"><u>Fixing Helldivers II - Resolving the Black Screen at Launch</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-redmi-a2-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi Redmi A2</u></a></li>
-<li><a href="https://techtrends.techidaily.com/iphone-15-pro-max-long-term-review-is-it-still-a-great-buy-after-six-months/"><u>IPhone 15 Pro Max Long-Term Review: Is It Still a Great Buy After Six Months?</u></a></li>
-<li><a href="https://discover-data.techidaily.com/rapid-file-transfer-from-pc-to-external-hard-drive-in-windows-11-10-8-und-7/"><u>Rapid File Transfer From PC to External Hard Drive in Windows 11, 10, 8 Und 7</u></a></li>
-<li><a href="https://fox-within.techidaily.com/simple-steps-to-transform-your-avi-videos-into-compatible-formats-for-ipad/"><u>Simple Steps to Transform Your AVI Videos Into Compatible Formats for iPad</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723008025051-windows-11-users-rejoice-civ-6-launch-issues-resolved/"><u>Windows 11 Users Rejoice: Civ 6 Launch Issues Resolved!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/yakuza-3-pc-version-how-to-stop-unexpected-exits-and-keep-gaming-smoothly/"><u>Yakuza 3 PC Version: How to Stop Unexpected Exits and Keep Gaming Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008600524-detective-in-la-uncovering-clues-now-playable-on-your-computer/"><u>'Detective in LA: Uncovering Clues' Now Playable on Your Computer!</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-comparing-igs-new-features-reels-vs-stories/"><u>[New] 2024 Approved Comparing IG's New Features Reels Vs Stories</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-captivate-audiences-with-effective-and-appealing-video-previews/"><u>[New] In 2024, Captivate Audiences with Effective and Appealing Video Previews</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-inclusive-iptv-service-distribution/"><u>[New] In 2024, Inclusive IPTV Service Distribution</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-beginners-choices-superior-gopro-accessories/"><u>[Updated] Beginner’s Choices Superior GoPro Accessories</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-fixes-to-stop-euro-truck-simulator-2-from-crashing-on-your-windows-computer/"><u>Common Fixes to Stop Euro Truck Simulator 2 From Crashing on Your Windows Computer</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/guide-de-sauvegarde-reussie-sur-wd-my-passport-decouvrez-ces-trois-strategies-pour-reprendre-le-controle-de-vos-partitions/"><u>Guide De Sauvegarde Réussie Sur WD My Passport : Découvrez Ces Trois Stratégies Pour Reprendre Le Contrôle De Vos Partitions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-stuck-loading-screen-in-dota-2-for-a-smooth-gameplay-experience/"><u>How to Fix Stuck Loading Screen in Dota 2 for a Smooth Gameplay Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/interpreting-storage-identities-c-drive-and-d-drive-tale/"><u>Interpreting Storage Identities: C Drive & D Drive Tale</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-darkness-a-step-by-step-solution-to-black-screens-in-destiny-2/"><u>Overcoming Darkness: A Step-by-Step Solution to Black Screens in Destiny 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-fixing-recurring-wwe-2k22-crash-problems-on-pc/"><u>Ultimate Guide to Fixing Recurring WWE 2K22 Crash Problems on PC</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-video-editing-on-the-go-top-powerdirector-alternatives-for-android-and-ios/"><u>Updated Video Editing on the Go Top PowerDirector Alternatives for Android and iOS</u></a></li>
 </ul></div>
 

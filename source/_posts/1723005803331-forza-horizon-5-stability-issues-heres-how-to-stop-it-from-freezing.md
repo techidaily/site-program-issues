@@ -1,7 +1,7 @@
 ---
 title: Forza Horizon 5 Stability Issues? Here's How to Stop It From Freezing
-date: 2024-08-23T17:38:38.721Z
-updated: 2024-08-24T17:38:38.721Z
+date: 2024-11-02T23:03:57.445Z
+updated: 2024-11-06T23:56:32.544Z
 tags:
   - win11
   - win10
@@ -48,8 +48,12 @@ thumbnail: https://thmb.techidaily.com/3e5a90ab0e3c6dfd7aa65fe381ec71d12d0b563a6
 If this doesn’t solve your problem, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics driver
 
  Forza Horizon 5 keeps crashing could indicate a driver issue. If your graphics driver is outdated or faulty, it could affect game performance and trigger crashes. You may want to make sure your driver is up-to-date and working properly.
@@ -62,24 +66,22 @@ If this doesn’t solve your problem, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 If updating the graphics driver doesn’t help, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## Fix 3: Check your antivirus software
 
  Aggressive antivirus software could cause interference and cause Forza Horizon 5 to crash. If you’re using any antivirus software, there are a few things you can try:
@@ -93,8 +95,12 @@ If updating the graphics driver doesn’t help, try the next fix.
  If you’ve configured your antivirus software but Forza Horizon 5 still crashes on your PC, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 4: Shut down background programs
 
  Programs that are running in the background may interfere with game performance. Or, they could take up the resources required for Forza Horizon 5 to run smoothly, thus causing the crashing issue. Here’s how to kill the programs running in the background:
@@ -102,9 +108,6 @@ If updating the graphics driver doesn’t help, try the next fix.
 1. Right-click your taskbar, then click**Task Manager** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-taskbar-task-manager.jpg)
 2. In the**Processes** section, click on the process(es) that you want to shut down, and click**End task** .  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/10/task-manager-end-task.jpg)
 
  Players have reported a few programs that are known to cause the crashing issue, including audio applications Sonic and Nahimic. You can also refer to[the list of programs that may affect Steam game performance](https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748) and identify the root cause of your crashing issue.
@@ -112,8 +115,12 @@ If updating the graphics driver doesn’t help, try the next fix.
  If you’ve closed the unnecessary background programs but still encounter crashes, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 5: Refresh your network
 
  Some players have also been able to solve the crashing issue by resetting their network, so it’s definitely worth a try. The quickest way is to restart your network adapter, and this works for both wireless and wired connections. Here’s how:
@@ -128,8 +135,12 @@ If updating the graphics driver doesn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-11_14-51-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  In addition to resetting the network adapter, you can also try some basic troubleshooting steps.
 
 **If you’re using Wi-Fi** :
@@ -157,11 +168,21 @@ If updating the graphics driver doesn’t help, try the next fix.
 4. Switch to the**Startup** tab, and click**Open Task Manager** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-msconfig-startup.jpg)
 5. Under the**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-task-manager-startup-disable.jpg)
 6. Restart your PC.
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If Forza Horizon 5 doesn’t crash anymore, this means at least one of the programs you disabled was causing the problem.  
   
@@ -200,16 +221,25 @@ If updating the graphics driver doesn’t help, try the next fix.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ---
 
  Hopefully this article helps! Please feel free to leave a comment down below if you have any questions or suggestions!
@@ -220,8 +250,6 @@ If updating the graphics driver doesn’t help, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -229,4 +257,20 @@ If updating the graphics driver doesn’t help, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/fixed-world-of-warcraft-wow-crashing-issues-easilly/"><u>[Fixed] World of Warcraft (WOW) Crashing Issues. Easilly</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-best-practices-in-adobe-captivate-for-videos/"><u>[New] 2024 Approved Best Practices in Adobe Captivate for Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-charting-the-course-visual-content-in-educational-endeavors/"><u>[New] Charting the Course Visual Content in Educational Endeavors</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-revolutionary-subtitle-software-choose-the-leading-10-web-apps/"><u>[New] In 2024, Revolutionary Subtitle Software - Choose the Leading 10 Web Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-a-stepwise-strategy-to-make-mark-with-memes-at-9gag/"><u>2024 Approved A Stepwise Strategy to Make Mark with Memes at 9GAG</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-inflatable-microphones-for-diverse-scenarios/"><u>2024 Approved Inflatable Microphones for Diverse Scenarios</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-how-to-ensure-fortnites-warzone-uses-gpu-in-windows-11/"><u>Fix: How to Ensure Fortnite's Warzone Uses GPU in Windows 11</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-your-emotional-well-being-at-risk-with-virtual-psychologists/"><u>Is Your Emotional Well-Being at Risk with Virtual Psychologists?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-performance-to-tackle-fps-fluctuations-in-call-of-duty-modern-warfare-2-for-windows-players/"><u>Optimizing Performance to Tackle FPS Fluctuations in Call of Duty: Modern Warfare 2 for Windows Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-call-of-duty-warzone-crashing-issues-on-pc-a-complete-guide/"><u>Overcoming Call of Duty: Warzone Crashing Issues on PC – A Complete Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-recurrent-game-errors-mastering-stability-throughout-the-finals-on-windows-or-mac/"><u>Overcoming Recurrent Game Errors: Mastering Stability Throughout The Finals on Windows or Mac</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-for-smoothing-out-v-ray-stutters-during-pc-rendering-process/"><u>Step-by-Step Troubleshooting for Smoothing Out V-Ray Stutters During PC Rendering Process</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-the-world-of-computers-insights-from-toms-hardware-hub/"><u>Unraveling the World of Computers: Insights From Tom's Hardware Hub</u></a></li>
+</ul></div>
 

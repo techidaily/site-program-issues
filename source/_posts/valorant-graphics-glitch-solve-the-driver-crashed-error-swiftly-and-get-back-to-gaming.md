@@ -1,7 +1,7 @@
 ---
 title: Valorant Graphics Glitch? Solve the 'Driver Crashed' Error Swiftly and Get Back to Gaming
-date: 2024-08-23T17:31:45.519Z
-updated: 2024-08-24T17:31:45.519Z
+date: 2024-10-31T19:10:57.085Z
+updated: 2024-11-06T21:51:24.079Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 
  There are two ways you can get the right drivers for your sound card:[manually](https://tools.techidaily.com/drivereasy/download/) or[automatically](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1 – Manually
 
  Since Windows Update and Device Manager won’t always deliver the latest graphics driver ([learn why?](https://tools.techidaily.com/drivereasy/download/) ), you can download the latest**game ready driver** from the manufacturer’s website (be sure to choose only drivers that are compatible with your variant of Windows 10), and update the driver manually.
@@ -59,14 +66,15 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Update-all-drivers.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
  If updating to the latest driver didn’t do the trick, you can also perform a Windows Update since the latest graphics driver is designed for the latest Windows version.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 2: Roll back the graphics driver
 
  If the error**Graphics driver crashed** happens and your Volorant keeps crashing after a graphics driver update, you should roll back to its previous version.
@@ -90,18 +98,29 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/dxdiag.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Check DirectX Version on lower right corner in the first page in first page (the**System** tab).
 
  To upgrade your DirectX version, you’ll need to upgrade to the highest level of Windows version. So make sure you’ve performed a full Windows Update.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Reset your graphics card software
 
  NVIDIA comes with the NVIDIA Control Panel and AMD comes with the Catalyst Control Center. Both of these programs allow users to set up graphics profiles that can override application settings and sometimes interfere with VALORANT as a result.
 
 To fix this, you can try resetting the software to default:
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### NVIDIA Control Panel
 
@@ -110,8 +129,12 @@ To fix this, you can try resetting the software to default:
 * Click on **Restore Defaults** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### CATALYST Control Center
 
 * Right-click on your **Desktop** and select **Catalyst Control Center** (also called **VISION** center).
@@ -119,8 +142,12 @@ To fix this, you can try resetting the software to default:
 * Click on **Restore Factory Defaults** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 5: Play Valorant in windowed mode
 
  If the**Valorant graphics driver crashed** error persists or the game keeps crashing after you have tried the two methods above, the culprit might be on their end. But still, you can reduce the crashes by playing the game in windowed mode:
@@ -141,9 +168,6 @@ To fix this, you can try resetting the software to default:
 
  Since the third-party antivirus application hooks very deep into your system, so disabling it may not always work.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 8: Turn VSync off
 
  Some players find that disabling VSync perfectly fixes their Valorant crashing issue. Enabling VSync will force your game to run maximum at your monitor’s refresh rate (usually 60 Hz). In this case, you can try turning off VSync to unlock your FPS.
@@ -164,10 +188,6 @@ To fix this, you can try resetting the software to default:
 * Distortion: Off
 * First Person Shadows: Off
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Fix 9: Reinstall Riot Vanguard
 
  The game crashing might be caused by Vanguard. In that case, you can clean reinstall it, which has been proved helpful to many players.
@@ -196,8 +216,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +223,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-capturing-your-craft-minecraft-gameplay-on-a-mac/"><u>[New] Capturing Your Craft Minecraft Gameplay on a Mac</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-rapid-capture-technique-timelapse-toptech/"><u>[New] Rapid Capture Technique Timelapse #TopTech</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000577684-ace-the-game-again-easy-ways-to-get-apex-legends-loading-smoothly/"><u>Ace the Game Again: Easy Ways to Get Apex Legends Loading Smoothly!</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/hide-location-on-apple-iphone-14-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>Hide location on Apple iPhone 14 and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-xiaomi-redmi-k70e-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Xiaomi Redmi K70E?</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-fast-tracking-music-in-spotify-efficiency-and-security-in-harmony/"><u>In 2024, Fast-Tracking Music in Spotify Efficiency & Security in Harmony</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Oppo Find N3? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/latest-phasmophobia-game-updates-patch-notes-and-solutions/"><u>Latest Phasmophobia Game Updates: Patch Notes and Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tips-to-cut-down-on-god-of-wars-demand-on-your-computers-processor/"><u>Tips to Cut Down on God of War's Demand on Your Computer's Processor</u></a></li>
+<li><a href="https://program-issues.techidaily.com/trouble-with-hogwarts-legacy-top-strategies-to-overcome-startup-failures/"><u>Trouble with Hogwarts Legacy? Top Strategies to Overcome Startup Failures</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-tips-and-tricks-for-seamless-music-video-and-photo-transfers-with-winx-mediatrans/"><u>Ultimate Tips & Tricks for Seamless Music, Video & Photo Transfers with WinX MediaTrans</u></a></li>
+</ul></div>
 

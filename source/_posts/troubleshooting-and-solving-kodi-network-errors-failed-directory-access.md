@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Solving Kodi Network Errors: Failed Directory Access"
-date: 2024-10-29T20:19:16.436Z
-updated: 2024-11-01T03:35:29.496Z
+date: 2024-11-06T04:08:55.160Z
+updated: 2024-11-06T19:01:05.756Z
 tags:
   - win11
   - win10
@@ -36,30 +36,37 @@ thumbnail: https://thmb.techidaily.com/54be1671a1e6779406d2b281070c88b1f34d651b0
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-373.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Type**inetcpl.cpl** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-358.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the**Connections tab** , then**LAN settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-360.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** If any items on this window are checked, uncheck them. Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-363.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Restart your computer and Steam to test your issue.
 
@@ -97,6 +104,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-364.png)
@@ -121,38 +135,30 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
@@ -171,10 +177,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **12)**  Relaunch your Steam to test your issue.
@@ -203,14 +209,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/1722993760887-solved-red-dead-redemption-2-wont-launch/"><u>[SOLVED] Red Dead Redemption 2 Won’t Launch</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-achieve-perfect-screen-captures-on-the-mi-11-lite/"><u>2024 Approved Achieve Perfect Screen Captures on the Mi 11 Lite</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-oppo-reno-10-proplus-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Oppo Reno 10 Pro+ 5G Devices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/in-depth-strategies-to-repair-software-collapse-a-full-guide/"><u>In-Depth Strategies to Repair Software Collapse - A Full Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/journey-to-intelligent-systems-with-auto-gpt-installation/"><u>Journey to Intelligent Systems with Auto-GPT Installation</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-xiaomi-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Xiaomi</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-clearing-up-the-fuzzy-graphics-in-outriders/"><u>Resolved: Clearing Up the Fuzzy Graphics in Outriders</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-the-m3-macbook-air-with-apple-silicon-the-new-standard-for-everyday-use-unveiled/"><u>The Ultimate Guide to the M3 MacBook Air with Apple Silicon - The New Standard for Everyday Use Unveiled !</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-resolving-warzone-cant-locate-games-issue-on-windows/"><u>Troubleshooting Steps: Resolving 'Warzone Can't Locate Games' Issue on Windows</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-from-canvas-to-cryptos-select-7-nft-creating-powerhouses/"><u>[Updated] 2024 Approved From Canvas to Cryptos Select 7 NFT-Creating Powerhouses</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-make-your-mark-stand-out-with-youtube-studio-editing/"><u>[Updated] 2024 Approved Make Your Mark Stand Out with YouTube Studio Editing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-choosing-between-vlc-and-mpc-for-free-video-viewing-for-2024/"><u>[Updated] Choosing Between VLC and MPC for Free Video Viewing for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-how-to-smoothly-add-apods-episodes-on-devices/"><u>[Updated] How to Smoothly Add APods Episodes on Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fast-solutions-for-eliminating-lags-in-assassins-creed-valhalla/"><u>Fast Solutions for Eliminating Lags in Assassin's Creed: Valhalla</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-enhancing-photos-and-videos-with-instagrams-creative-features/"><u>In 2024, Enhancing Photos and Videos with Instagram's Creative Features</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-v2-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic V2 Phone with Broken Screen</u></a></li>
+<li><a href="https://driver-download.techidaily.com/intel-iris-xe-graphics-g7-driver-update-fast-and-simple-installation-guide/"><u>Intel Iris Xe Graphics G7 Driver Update - Fast and Simple Installation Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/memetic-mastery-the-finest-text-based-jesters/"><u>Memetic Mastery The Finest Text-Based Jesters</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-game-crashes-heres-how-to-get-multiversus-running-smoothly/"><u>PC Game Crashes? Here's How to Get Multiversus Running Smoothly!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-runtime-issues-stabilizing-psychonauts-2-performance-on-your-pc/"><u>Solving Runtime Issues: Stabilizing Psychonauts 2 Performance on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-resolving-problems-with-amd-radeon-software-failure-to-start/"><u>Troubleshooting Tips: Resolving Problems with AMD Radeon Software Failure to Start</u></a></li>
 </ul></div>
 

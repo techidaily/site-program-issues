@@ -1,7 +1,7 @@
 ---
 title: "Eliminate Game Lags in BL3: Expert Advice to Tackle and Resolve Performance Hitches"
-date: 2024-08-23T17:33:16.462Z
-updated: 2024-08-24T17:33:16.462Z
+date: 2024-11-05T01:24:55.381Z
+updated: 2024-11-06T18:03:39.627Z
 tags:
   - win11
   - win10
@@ -41,11 +41,23 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 1. On your Steam client, click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73f73008c0a.jpg)
 2. Click**In-Game** , and make sure to check the box next to**Enable the Steam Overlay while in-game** , then click**OK** to save your changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73f7865d266.jpg)
  If you’ve enabled overlay before, try to disable it and then re-enable it.  Restart CS:GO again and see if it works better.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update graphics card driver
 
@@ -60,8 +72,12 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
  This should help reduce the stuttering or lag issues in your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Adjust game settings
 
  Sometimes the improper settings in your CS:GO can make your game stutters, so you can check these following settings:
@@ -74,13 +90,6 @@ thumbnail: https://thmb.techidaily.com/5f19d12263b1224bd46b49560f2a184a0c0f8c0d5
 2. Right click on your**CS:GO executable file .exe** , and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73f9219dc8e.jpg)
 3. Click the**Compatibility** tab, and check the box next to**Disable fullscreen optimizations** . Then click**Apply** and**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73f9819c11e.jpg)
 4. Click the .exe file to launch CS:GO in your computer.
 
@@ -93,8 +102,12 @@ You can lower the video settings in your CS:GO to reduce the lags and stuttering
 3. In the advanced video options section, set these settings to**Low** :**Global Shadow Quality** ,**Model / Texture Detail** ,**Effect Detail** ,**Shader Detail** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73f9a6977cf.jpg)
 4. Save the changes and restart CS:GO to see if it works better.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Adjust settings in your computer
@@ -109,9 +122,6 @@ You can lower the video settings in your CS:GO to reduce the lags and stuttering
 3. In**Preferred** **plans** , select**High performance.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73fa58e44c7.jpg)
 4. Restart your computer and open CS:GO.
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  This can help improve your system performance when playing games.
 
 #### 2\. Adjust settings in System Properties
@@ -119,15 +129,25 @@ You can lower the video settings in your CS:GO to reduce the lags and stuttering
 1. Type**This PC** in the Search box at the**Start** button, right click on**This PC** , and select**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afbe2c8e7fc9.jpg)
 2. Click**Advanced** **system** **settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afbe330dfe6e.png)
 3. In the**Advanced** tab, click**Settings…** in the**Performance** section.![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afbe3880f602.png)
-4. Click the**Advanced** tab, make sure to select**Adjust for best performance of Programs** , and click**Apply** .![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afbe3f36fc31.png)
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+4. Click the**Advanced** tab, make sure to select**Adjust for best performance of Programs** , and click**Apply** .![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afbe3f36fc31.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click the**Data Execution Prevention** tab, make sure to select **Turn on DEP for essential Windows programs and services only** . Then click**Apply** and**OK** to save.![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afbe47c154fc.png)
  After configuring the settings, restart your computer and try your CS:GO (or other programs) to see if it works better now.
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 
 #### 3\. Disable CPU Core 0 for CS:GO
 
@@ -135,18 +155,24 @@ You can lower the video settings in your CS:GO to reduce the lags and stuttering
 2. Click the**Details** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73fae7b90d9.jpg)
 3. Right click on**CS:GO.exe** , and select**Set affinity** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73fb15e3139.png)
 4. Uncheck the box next to**CPU 0** , and click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73fb5b0ad61.png)
 5. Restart CS:GO again.
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Restrict background applications and downloads
@@ -166,8 +192,6 @@ You can lower the video settings in your CS:GO to reduce the lags and stuttering
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +199,22 @@ You can lower the video settings in your CS:GO to reduce the lags and stuttering
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-video-selfie-verification-on-instagram-helpful-or-hype/"><u>[Updated] 2024 Approved Video Selfie Verification on Instagram - Helpful or Hype?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-understanding-livestream-technology-explained/"><u>[Updated] Understanding Livestream Technology Explained</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-infinix-gt-10-pro-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Infinix GT 10 Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-keyboard-malfunctions-in-pathfinder-wrath-of-the-righteve/"><u>Diagnosing and Repairing Keyboard Malfunctions in Pathfinder - Wrath of the Righteve</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-eliminating-game-instability-and-crashes-in-pcs-halo-infinite/"><u>Expert Advice: Eliminating Game Instability and Crashes in PC's Halo Infinite</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008580675-fix-sword-and-faery-legend-vii-pc-crashes-solutions-inside/"><u>Fix Sword & Faery Legend VII PC Crashes - Solutions Inside!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-persistent-crashes-in-remnant-from-the-ashes-game/"><u>Fixing Persistent Crashes in 'Remnant: From the Ashes' Game</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-infinix-note-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722981802051-god-of-war-fps-the-ultimate-action-experience-now-drops-for-your-pc/"><u>God of War FPS: The Ultimate Action Experience Now Drops for Your PC!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-plus-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Plus to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-latest-tech-insights-on-sonys-s3700-blu-ray/"><u>In 2024, Latest Tech Insights on Sony's S3700 Blu-Ray</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-the-causes-of-frame-rate-drops-in-forza-horizon-5/"><u>Resolved: Fixing the Causes of Frame Rate Drops in Forza Horizon 5</u></a></li>
+<li><a href="https://extra-information.techidaily.com/sj4000-owners-guide-to-stylish-and-practical-gear/"><u>SJ4000 Owners' Guide to Stylish & Practical Gear</u></a></li>
+<li><a href="https://program-issues.techidaily.com/starfield-wont-start-fix-it-essential-tips-for-steamxbox-users/"><u>Starfield Won't Start? Fix It! Essential Tips for Steam/Xbox Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-connections-how-to-clear-dns-in-steam-settings/"><u>Streamline Connections: How to Clear DNS in Steam Settings</u></a></li>
+</ul></div>
 

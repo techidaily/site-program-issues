@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue: What to Do If Paradox Launcher Won't Open"
-date: 2024-10-29T17:15:33.137Z
-updated: 2024-10-31T18:43:15.735Z
+date: 2024-11-02T23:39:59.635Z
+updated: 2024-11-06T18:03:08.629Z
 tags:
   - win11
   - win10
@@ -39,10 +39,10 @@ thumbnail: https://thmb.techidaily.com/730a9c7a00f1a79a6d3634630cd288f1352fb7a32
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 modem
@@ -69,13 +69,6 @@ wireless router
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -90,24 +83,30 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.jpg)
 3. Click the**Game Settings** tab. Then tick**Additional command line arguments** and enter**\-D3D11** in the text field.  
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.jpg)
 4. Click**Done** to confirm.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Increase virtual memory
 
@@ -116,8 +115,23 @@ wireless router
 1. Click the**Start** button and type**advanced system settings** in the Windows search bar. Then click**View advanced system settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.jpg)
 2. Click**Settings** under the Performance section.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
@@ -125,37 +139,24 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5 – Delete the game cache files
@@ -202,22 +203,18 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-instant-verbal-to-written-conversion-for-nothing/"><u>[New] Instant Verbal to Written Conversion for Nothing</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-maximizing-roi-adopting-the-power-of-triple-strategies-in-copywriting-for-facebook-advertising-for-2024/"><u>[New] Maximizing ROI Adopting the Power of Triple Strategies in Copywriting for Facebook Advertising for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/a-step-by-step-approach-to-downloading-memorable-moments-from-social-media-for-2024/"><u>A Step-By-Step Approach to Downloading Memorable Moments From Social Media for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-on-resolving-utorrents-not-responding-situation-with-7-key-solutions/"><u>Expert Advice on Resolving UTorrent's Not Responding Situation with 7 Key Solutions</u></a></li>
-<li><a href="https://network-issues.techidaily.com/expert-guide-to-counteracting-wow-bug-519/"><u>Expert Guide to Counteracting WoW Bug #519</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722998736180-fixing-the-dark-screen-glitch-in-call-of-duty-wwii-for-pc-users-solved/"><u>Fixing the Dark Screen Glitch in Call of Duty WWII for PC Users - Solved!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-use-the-portable-version-of-driver-easy/"><u>How to Use the Portable Version of Driver Easy</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-streamlining-your-youtube-editing-with-imovie-tools/"><u>In 2024, Streamlining Your YouTube Editing with iMovie Tools</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-logitechs-elite-g600-driver-on-your-window-based-computer/"><u>Install Logitech's Elite G600 Driver on Your Window-Based Computer</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/premier-presentation-planner-prodigy/"><u>Premier Presentation Planner Prodigy</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-issue-crusader-kings-iii-no-longer-crashing-on-windows-computers/"><u>Resolved Issue: Crusader Kings III No Longer Crashing on Windows Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-steps-for-fixing-wwe-2k22-pc-game-crashes/"><u>Resolved: Troubleshooting Steps for Fixing WWE 2K22 PC Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/revised-solution-to-prevent-software-name-from-collapsing-on-your-computer/"><u>Revised Solution to Prevent [Software Name] From Collapsing on Your Computer</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-poco-x6-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Poco X6 to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-persistent-stalling-and-crashes-in-watch-dogs-legion-on-pcs/"><u>Troubleshooting Steps for Persistent Stalling and Crashes in Watch Dogs: Legion on PCs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-overcoming-the-persistent-loading-hurdle-in-among-us-gameplay/"><u>Troubleshooting Tips: Overcoming the Persistent Loading Hurdle in Among Us Gameplay</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-get-steady-the-best-free-video-stabilization-websites-for-2024/"><u>Updated Get Steady The Best Free Video Stabilization Websites for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-inside-the-revolutionary-tech-of-sj7s-4k-star-action-camera-review/"><u>[Updated] In 2024, Inside the Revolutionary Tech of SJ7's 4K Star Action Camera Review</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-latest-lg-360-camera-features-and-review/"><u>2024 Approved Latest LG 360 Camera Features and Review</u></a></li>
+<li><a href="https://program-issues.techidaily.com/age-of-empires-iv-installation-woes-heres-how-to-securely-download-from-microsoft-marketplace/"><u>Age of Empires IV Installation Woes? Here's How to Securely Download From Microsoft Marketplace</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-solutions-fixing-your-google-chrome-crashes-instantly/"><u>Effortless Solutions: Fixing Your Google Chrome Crashes Instantly</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-download-hp-officejet-pro-8715-printer-software-for-windows-11-10-or-8-systems-free/"><u>Find & Download HP OfficeJet Pro 8715 Printer Software for Windows 11, 10 or 8 Systems [Free]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-silent-minecraft-world-troubleshooting-audio-issues-on-your-pc/"><u>How to Fix Silent Minecraft World: Troubleshooting Audio Issues on Your PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-repair-unresponsive-mpow-microphone-for-optimal-audio-performance-on-pc/"><u>How to Repair Unresponsive MPOW Microphone for Optimal Audio Performance on PC</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/important-points-to-contemplate-when-selecting-a-dash-camera/"><u>Important Points to Contemplate When Selecting a Dash Camera</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-best-practices-for-youtube-thumbnail-dimensions/"><u>In 2024, Best Practices for YouTube Thumbnail Dimensions</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-plus-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 Plus Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-top-flight-tech-best-drone-gimbals/"><u>In 2024, Top Flight Tech Best Drone Gimbals</u></a></li>
+<li><a href="https://program-issues.techidaily.com/instantly-fix-your-recurring-control-crashes-a-simple-guide/"><u>Instantly Fix Your Recurring Control Crashes: A Simple Guide!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-fixing-the-slowdown-of-spotifys-online-player/"><u>Ultimate Guide: Fixing the Slowdown of Spotify's Online Player</u></a></li>
 </ul></div>
 

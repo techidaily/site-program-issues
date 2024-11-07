@@ -1,7 +1,7 @@
 ---
 title: Internet Explorer Display Problem Solutions for Website Accessibility
-date: 2024-08-23T17:34:52.378Z
-updated: 2024-08-24T17:34:52.378Z
+date: 2024-11-03T18:55:58.114Z
+updated: 2024-11-06T17:35:05.410Z
 tags:
   - win11
   - win10
@@ -48,9 +48,12 @@ thumbnail: https://thmb.techidaily.com/865ed323eb71130c7276babe580275f4674927ba1
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Run Discord as administrator
 
  If you didn’t run**Discord** as administrator, you may encounter the**Discord overlay** not working issue. Try running your**Discord** as**administrator** to see if this problem persists. Here is how to do it:
@@ -58,6 +61,13 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  1) On your desktop,**right-click** the shortcut of **Discord** and then select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
@@ -70,8 +80,12 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 See if this issue reappears. If not, you have fixed this issue.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
 
  If you’re using a third-party antivirus application on your PC, you may encounter the**Discord overlay** not working issue. Your third-party antivirus application may interfere with**Discord** , so your **Discord overlay** may not run as expected. You can try   **adding your Discord to the whitelist of your third-party antivirus application** .
@@ -100,9 +114,6 @@ See if this issue reappears. If not, you have fixed this issue.
 
  Run your game again to see if this issue persists. If not, you have resolved this problem!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Reinstall Discord
 
  If you’ve tried all the fixes above but this issue persists, try**reinstalling Discord** . Here is how to do it:
@@ -113,24 +124,21 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  iii.**Double-click** **Discord** to uninstall it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 iv. Restart your PC.
 
  2) Download**Discord** from its **[official website](https://discordapp.com/)**  and then install it on your PC.
@@ -159,13 +167,24 @@ See if this issue reappears. If not, you have fixed this issue!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Normally, after configuring the VPN, the voice connection issues should be fixed.
 
  Hopefully, one of the fixes above can help you resolve this issue. Please leave your comment below if you have any questions.
@@ -179,8 +198,6 @@ See if this issue reappears. If not, you have fixed this issue!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +205,23 @@ See if this issue reappears. If not, you have fixed this issue!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-step-by-step-validating-your-online-identity-on-youtube/"><u>[New] Step by Step Validating Your Online Identity on YouTube</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-psychonauts-2-keeps-crashing-on-pc/"><u>[SOLVED] Psychonauts 2 Keeps Crashing on PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-dividing-footage-top-splitcams-worth-in-review/"><u>[Updated] 2024 Approved Dividing Footage Top SplitCam's Worth in Review?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-laugh-out-loud-crafting-humorous-video-ideas-for-short-films/"><u>[Updated] 2024 Approved Laugh Out Loud Crafting Humorous Video Ideas for Short Films</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-navigating-to-sonic-treasures-downloading-app-based-audio-content/"><u>[Updated] Navigating to Sonic Treasures Downloading App-Based Audio Content</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-uniting-choreography-with-crafted-audio-in-instagram-for-2024/"><u>[Updated] Uniting Choreography with Crafted Audio in Instagram for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/2022s-leading-iam-solutions-reviewed-expert-picks-by-zdnet/"><u>2022'S Leading IAM Solutions Reviewed: Expert Picks by ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-obstacles-for-smooth-final-exam-release-tips-and-tricks/"><u>Bypassing Obstacles for Smooth Final Exam Release - Tips & Tricks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/comprehensive-guide-to-websites-for-text-alteration/"><u>Comprehensive Guide to Websites for Text Alteration</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-discord-video-chat-screen-share-audio-not-working-correctly/"><u>Fix Your Discord Video Chat - Screen Share Audio Not Working Correctly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-how-to-troubleshoot-discords-non-functional-screen-sharing-sound-issue/"><u>Fix: How to Troubleshoot Discord's Non-Functional Screen Sharing Sound Issue</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-lava-blaze-2-pro-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Lava Blaze 2 Pro?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-troubleshoot-a-non-detecting-steam-virtual-reality-setup/"><u>How to Troubleshoot a Non-Detecting Steam Virtual Reality Setup</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-apple-iphone-xr-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your Apple iPhone XR Apple ID on MacBook</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximizing-gameplay-fluidity-solutions-to-resolve-low-fps-in-valorant-updated-guide/"><u>Maximizing Gameplay Fluidity: Solutions to Resolve Low FPS in Valorant (Updated Guide )</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-game-interruptions-a-complete-guide-to-solving-total-war-warhammer-ii-crashes/"><u>Overcoming Game Interruptions - A Complete Guide to Solving Total War: Warhammer II Crashes</u></a></li>
+</ul></div>
 

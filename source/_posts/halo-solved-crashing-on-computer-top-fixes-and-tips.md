@@ -1,7 +1,7 @@
 ---
 title: Halo ([Solved] Crashing on Computer - Top Fixes and Tips
-date: 2024-10-31T07:02:38.121Z
-updated: 2024-11-01T01:50:41.824Z
+date: 2024-11-03T02:37:03.310Z
+updated: 2024-11-06T19:58:22.554Z
 tags:
   - win11
   - win10
@@ -56,13 +56,6 @@ _Halo 3 Minimum System Requirements_
  1) On the left end of the taskbar, click the**Start** ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Start-icon.jpg) icon and then click**Settings** .  
   
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![open settings](https://images.drivereasy.com/wp-content/uploads/2020/08/start-settings.jpg)
 
  2) Click**Privacy** .  
@@ -90,13 +83,6 @@ _Halo 3 Minimum System Requirements_
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Temporarily disable antivirus software
 
  There will be conflicts between antivirus scans and your enjoying your games. To avoid this, you’re supposed to try temporarily disabling your antivirus software.
@@ -110,13 +96,6 @@ _Halo 3 Minimum System Requirements_
 [Norton](https://support.norton.com/sp/en/uk/home/current/solutions/v3672136)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Update your video card drivers
 
@@ -134,24 +113,31 @@ Here’s how to update your drivers with Driver Easy:
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and launch Halo3 to check if the issue is fixed. If not, try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Perform a clean boot
 
@@ -164,13 +150,6 @@ To do so:
  2) Type**msconfig** and click**OK** .
 
 ![msconfig open task manager](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Select the**Services** tab.  
  Then click**Hide all Microsoft services** and click**Disable all** .
@@ -189,7 +168,21 @@ To do so:
   
 ![perform a clean boot](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7) Restart your computer and it’ll be in a clean boot environment.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Run Halo 3 as an administrator
 
@@ -221,10 +214,16 @@ To do so:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6: Install the latest game patch
@@ -246,22 +245,29 @@ To do so:
 ![verify integrity of game files on Steam; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/verify-integrity-of-game-files.jpg)
   
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click**Halo 3** and select**Properties** .  
   
 ![verify integrity of game files; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/verify-integrity-of-game-files-properties.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Under the**LOCAL FILES** tab, click**VERIFY INTEGRITY OF GAME CACHE…** .  
   
 ![verify integrity of game files; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/integrity-of-cache.png)
   
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Files verification may take several minutes. Once the process is completed, the window will automatically exit. Till then, relaunch your game.  
   
@@ -289,24 +295,21 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-mastering-live-broadcasts-obs-on-youtube-and-twitch/"><u>[New] 2024 Approved Mastering Live Broadcasts OBS on YouTube and Twitch</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-mastering-the-art-of-deleting-discord-servers/"><u>[New] 2024 Approved Mastering the Art of Deleting Discord Servers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-pushing-boundaries-with-high-speed-cinematography-for-2024/"><u>[New] Pushing Boundaries with High-Speed Cinematography for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-navigating-the-world-of-srts-a-complete-tutorial-and-advice/"><u>[Updated] In 2024, Navigating the World of SRTs A Complete Tutorial and Advice</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-speaking-stories-writing-lyrical-film-scripts/"><u>[Updated] Speaking Stories Writing Lyrical Film Scripts</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-video-animation-tools-and-techniques-for-efficient-gif-making/"><u>[Updated] YouTube Video Animation Tools and Techniques for Efficient Gif Making</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-elevate-persuasion-through-30-powerful-video-themes/"><u>2024 Approved Elevate Persuasion Through 30 Powerful Video Themes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/defeating-the-daunting-battlenet-not-opening-error-a-user-friendly-guide/"><u>Defeating the Daunting Battle.net Not Opening Error : A User-Friendly Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/destiny-2-on-pc-say-goodbye-to-crashes-with-latest-fixes/"><u>Destiny 2 on PC: Say Goodbye to Crashes with Latest Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diy-easy-steps-to-tackle-and-repair-directx-problems-in-fifa-19-gaming/"><u>DIY: Easy Steps to Tackle and Repair DirectX Problems in FIFA 19 Gaming</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixed-understanding-and-preventing-persistent-crashes-in-rust-programs/"><u>Fixed! Understanding and Preventing Persistent Crashes in Rust Programs</u></a></li>
-<li><a href="https://driver-error.techidaily.com/graphics-device-blocked-in-windows-10-os/"><u>Graphics Device Blocked in Windows 10 OS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improving-your-gaming-experience-farming-simulator-aturinator-22-optimized-for-pc/"><u>Improving Your Gaming Experience: Farming Simulator Aturinator 22 Optimized for PC</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-step-by-step-nine-methods-for-logging-pc-acoustics/"><u>In 2024, Step-by-Step Nine Methods for Logging PC Acoustics</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/is-vonage-holding-strong-as-a-leading-choice-in-the-world-of-voip-services/"><u>Is Vonage Holding Strong as a Leading Choice in the World of VoIP Services?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-freezing-how-to-repair-phoenix-point-game-crashes-easily/"><u>No More Freezing - How to Repair Phoenix Point Game Crashes Easily</u></a></li>
-<li><a href="https://program-issues.techidaily.com/origin-app-wont-load-heres-how-to-fix-it/"><u>Origin App Won't Load? Here's How to Fix It!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-issue-overcoming-failed-to-create-opengl-context-error-with-qsurfaceformat/"><u>Solving the Issue: Overcoming 'Failed to Create OpenGL Context' Error with QSurfaceFormat</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723000497427-trouble-with-oculus-link-here-are-6-swift-ways-to-resolve-black-screen-errors/"><u>Trouble with Oculus Link? Here Are 6 Swift Ways to Resolve Black Screen Errors!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/dit-your-way-to-success-iosandroid-apps-for-youtube-shorts/"><u>[New] Edit Your Way to Success IOS/Android Apps for YouTube Shorts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-laughter-loops-scouring-the-best-chuckles-in-youtube-worlds/"><u>[Updated] Laughter Loops Scouring the Best Chuckles in YouTube Worlds</u></a></li>
+<li><a href="https://program-issues.techidaily.com/a-comprehensive-fix-it-workshop-addressing-total-war-saga-troy-pc-game-crashes/"><u>A Comprehensive Fix-It Workshop: Addressing Total War Saga: Troy PC Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000478166-black-screen-fix-guide-for-cyberpunk-2077-players-success-stories-inside/"><u>Black Screen Fix Guide for Cyberpunk 2077 Players - Success Stories Inside</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-guide-recovering-missing-or-hidden-windows-on-your-pc/"><u>Easy Guide: Recovering Missing or Hidden Windows on Your PC</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/engaging-audiences-perfecting-the-art-of-igtv-titles-and-summaries-for-2024/"><u>Engaging Audiences Perfecting the Art of IGTV Titles & Summaries for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-available-resolving-horizon-zero-dawn-pc-game-crash-issues/"><u>Fixes Available: Resolving Horizon Zero Dawn PC Game Crash Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-correct-distorted-or-silent-phone-calls-on-your-iphone-device/"><u>How to Correct Distorted or Silent Phone Calls on Your iPhone Device</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-starting-problems-with-rainbow-six-siege-game/"><u>How to Overcome Starting Problems with Rainbow Six Siege Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-restore-sync-on-your-steam-account-after-a-cloud-error/"><u>How to Restore Sync on Your Steam Account After a Cloud Error</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Nokia G42 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/1728467641928-macrium-reflect/"><u>Macrium Reflect 系統儲存體轉移 - 無需煩惱的硬碟更新方法</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-art-of-preventing-counter-strike-2-pc-problems-comprehensive-troubleshooting-techniques/"><u>Master the Art of Preventing Counter-Strike 2 PC Problems - Comprehensive Troubleshooting Techniques</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-infinix-note-30i-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Infinix Note 30i to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-reviving-your-firestick-remote-from-complete-disarray/"><u>Step-by-Step Guide: Reviving Your Firestick Remote From Complete Disarray</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-fixes-for-black-screens-while-playing-resident-evil-village-on-pc/"><u>Troubleshooting and Fixes for Black Screens While Playing Resident Evil Village on PC</u></a></li>
 </ul></div>
 

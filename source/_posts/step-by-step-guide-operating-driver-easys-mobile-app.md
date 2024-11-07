@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Operating Driver Easy's Mobile App"
-date: 2024-10-25T03:29:01.309Z
-updated: 2024-11-01T06:33:07.462Z
+date: 2024-10-31T00:30:03.349Z
+updated: 2024-11-06T23:13:14.533Z
 tags:
   - win11
   - win10
@@ -28,19 +28,6 @@ If you love playing the PS4 games, you must encounter the**PS4 freezing problem*
 5. [**Update the firmware to fix the PS4 freezing**](https://tools.techidaily.com/drivereasy/download/)
 6. [**Initialize the PS4 to fix the PS4 freezing**](https://tools.techidaily.com/drivereasy/download/)
 7. [**Call the support from Sony to fix the PS4 freezing**](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is the PS4 freezing and why is the PS4 frozen?
 
@@ -71,6 +58,13 @@ If you love playing the PS4 games, you must encounter the**PS4 freezing problem*
 
 5) Try to use your PS4 or play games to see if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Update the game/application
 
  If restarting the game doesn’t solve the problem, you can try to update the application and install the latest version on your PS4.
@@ -93,13 +87,6 @@ If you love playing the PS4 games, you must encounter the**PS4 freezing problem*
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a62b2f68f21e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) You’ll see the data stored in your system, you can select the type of data you want to delete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a62b31cd1077.jpg)
@@ -107,6 +94,13 @@ If you love playing the PS4 games, you must encounter the**PS4 freezing problem*
  3) Press the**Options** **button** on your controller and select**Delete** .
 
  Then you can**have more space** in your system and have better control over your PS4 operations. If you think for sure that it’s the data issue, you can also try to[**rebuild the database**](https://tools.techidaily.com/drivereasy/download/) to have a try.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 2: Troubleshoot the hardware issue to fix the P4 freezing**
 
@@ -117,6 +111,13 @@ If you love playing the PS4 games, you must encounter the**PS4 freezing problem*
  The PS4 freezing issue can possibly because of an**overheating problem** . If the PS4 doesn’t have enough space for the air to cool download the fan, it may be overheated and stuck in.
 
  If that’s the case, you can try to**put your PS4 in an open space** to have more gas around it, so your PS4 is allowed to have**better air circulation** . Additionally, you may need to regularly**clean the dust** on your PS4 to have it under maintenance.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Check all the cables and ports to be plugged correctly
 
@@ -154,6 +155,13 @@ If you love playing the PS4 games, you must encounter the**PS4 freezing problem*
 
 5) Try to use your PS4 again to see if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Method 4: Check the Internet connection to fix the PS4 freezing**
 
  As we know, the slow Internet connection can largely lead to the lags in your PS4\. Whenever you play PS4 games, you may want to have a good Internet connection to ensure the best gaming experience. So you may check your Internet to see if it can be a problem.
@@ -171,13 +179,6 @@ a. Connect your PS4 with the LAN cable.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548b80f137d.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  c. Select **Use a LAN Cable.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548ba2959d7.jpg)
@@ -186,13 +187,6 @@ a. Connect your PS4 with the LAN cable.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548bcb007ed.jpg)
   
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  e. Select **Do Not Use**  as for **Proxy Server.**
 
@@ -208,18 +202,24 @@ a. Connect your PS4 with the LAN cable.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a548ca181e7d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  b. Open your browser on PC or mobile phone, then type the**IP address in your browser,** and press**Enter** .
 
  c. Type your**Username** and**Password** , then**log in** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e42f8c2f134.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  d. Go to the**forward ports section** (or ports forwarding, Virtual Server, Applications according to different routers).
 
@@ -246,10 +246,10 @@ g. Try to use your PS4 to see if it works now.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571a6b18875.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Select **Update** if there are available updates. (You won’t see this message if your PS4 system is the latest version, so you can skip this method.)
@@ -261,10 +261,10 @@ g. Try to use your PS4 to see if it works now.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571ceab4acf.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6) Try to open the game and see if it works now.
@@ -281,6 +281,13 @@ g. Try to use your PS4 to see if it works now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571f9eebce2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Select **Full** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/01/img_5a571fc9dcd29.jpg)
@@ -290,13 +297,6 @@ g. Try to use your PS4 to see if it works now.
 4) After finishing, restore all your backup data, and reinstall the games and applications.
 
 5) Try the games to see if it works now.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Method 7: Call the support from Sony to fix the PS4 freezing**
 
@@ -324,17 +324,19 @@ g. Try to use your PS4 to see if it works now.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-stroke-of-genius-best-10-creative-sketch-software-for-mac-free/"><u>[Updated] Stroke of Genius Best 10 Creative Sketch Software for Mac (Free)</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-complete-guide-to-creating-memorable-youtube-outros-for-2024/"><u>[Updated] The Complete Guide to Creating Memorable YouTube Outros for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-unleash-zodiac-potential-in-personal-bios-on-messaging-apps-for-2024/"><u>[Updated] Unleash Zodiac Potential in Personal Bios on Messaging Apps for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/10-leading-applications-eclipsing-gpts-functionality-on-devices/"><u>10 Leading Applications Eclipsing GPT's Functionality on Devices</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/amds-new-zen-5-chip-architecture-achieves-impressive-density-milestone-8315b-transistors-on-a-single-die-surpassing-previous-generation-by-28/"><u>AMD's New Zen 5 Chip Architecture Achieves Impressive Density Milestone: 8.315B Transistors on a Single Die, Surpassing Previous Generation by 28%</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-for-microsoft-flight-simulator-2020-update-issues/"><u>Fixes for Microsoft Flight Simulator 2020 Update Issues</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Realme GT Neo 5? | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-should-you-buy-videopad-video-editor-a-honest-review-and-analysis/"><u>New In 2024, Should You Buy Videopad Video Editor? A Honest Review and Analysis</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-found-eliminating-frequent-disruptions-in-beat-saber-gameplay/"><u>Solution Found: Eliminating Frequent Disruptions in Beat Saber Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-techniques-resolving-game-crashes-in-windows-computers/"><u>Troubleshooting Techniques: Resolving Game Crashes in Windows Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-successful-solutions-for-ring-of-elysium-game-crashes/"><u>Troubleshooting Tips: Successful Solutions for Ring of Elysium Game Crashes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unveiling-the-secrets-of-using-live-photos-features-with-ios-16s-new-functionality/"><u>Unveiling the Secrets of Using Live Photos Features with iOS 16'S New Functionality</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-personal-vlogs-that-resonate-deeply-with-viewers/"><u>[New] 2024 Approved Personal Vlogs That Resonate Deeply With Viewers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-mastering-photo-frames-leading-software-reviews-for-2024/"><u>[New] Mastering Photo Frames Leading Software Reviews for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-secure-mobile-video-calls-best-10-safe-and-free-applications-for-phones/"><u>[New] Secure Mobile Video Calls Best 10 Safe and Free Applications for Phones</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-sensational-jokes-ranking-the-viral-ones/"><u>[Updated] In 2024, Sensational Jokes Ranking the Viral Ones</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-directdraw-errors-solutions-for-smooth-performance/"><u>Bypassing DirectDraw Errors: Solutions for Smooth Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/clearing-up-monster-mishaps-solutions-for-the-resident-evil-village-black-screen-problem-on-computers/"><u>Clearing Up Monster Mishaps: Solutions for the Resident Evil Village Black Screen Problem on Computers</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/comment-debloquer-facilement-le-chiffrement-de-disque-bitlocker-sur-windows-11-8-solutions-pratiques/"><u>Comment Débloquer Facilement Le Chiffrement De Disque BitLocker Sur Windows 11 : 8 Solutions Pratiques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-the-kernelbasedll-file-not-loading-problem-instantly/"><u>Fix the KernelBase.dll File Not Loading Problem Instantly!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/itel-a70-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Itel A70 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-7-ultimate-series-substitutes-stream-legally-without-cost/"><u>Top 7 Ultimate Series Substitutes: Stream Legally Without Cost</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-overcoming-geforce-experience-shutdown-issues-successfully/"><u>Troubleshooting and Overcoming GeForce Experience Shutdown Issues Successfully</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-lost-arks-frame-rate-challenges-and-performance-drops/"><u>Troubleshooting Lost Ark's Frame Rate Challenges and Performance Drops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unveiling-the-truth-assassins-creed-valhalla-release-update-sorted-out/"><u>Unveiling the Truth: Assassin's Creed Valhalla Release Update Sorted Out</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Restore Auditory Bliss in Fallout 4 PC Version with These Easy Hacks
-date: 2024-10-27T20:19:00.652Z
-updated: 2024-11-01T00:05:53.758Z
+date: 2024-11-01T18:20:52.995Z
+updated: 2024-11-07T02:09:08.360Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 5. **[Close unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Uninstall and reinstall Minecraft](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Run Minecraft in compatibility mode
 
  Some older games might run poorly in the most recent version of Windows 10\. To see if that’s the case for Minecraft, try running the game in compatibility mode. Here’s how:
@@ -45,13 +52,6 @@ thumbnail: https://thmb.techidaily.com/4c1fc861d688eb17793358701272fcb990bfc9516
 3. Select**Windows 8** from the drop-down menu, then click**Apply** and**OK** to save changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-apply-ok.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once done, relaunch Minecraft to see if the black screen issue still occurs.
 
@@ -82,16 +82,10 @@ If the issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -99,13 +93,6 @@ If the issue remains, move on to the next fix.
  After updating your graphics driver, restart your computer and launch Minecraft to see if the issue is resolved.
 
  If updating the graphics driver doesn’t solve your problem, go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Set the anti-aliasing to default
 
@@ -118,14 +105,21 @@ If the issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/file-explorer.jpg)
 4. Open the**options.txt** file, then find the line with the following entry, and change the number to 4, like so:**gfx\_msaa:4** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gfx_msaa-4.jpg)
 5. **Save** the options.txt file.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Relaunch Minecraft to see if the problem is solved.
@@ -133,6 +127,13 @@ If the issue remains, move on to the next fix.
  Alternatively, you can delete the options.txt file, and then relaunch Minecraft, and a new one will be generated with default settings for all options.
 
 If this method doesn’t do the trick, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Close unnecessary programs
 
@@ -160,10 +161,10 @@ If not, try the next fix.
 3. After saving your game data, delete everything inside the**.minecraft** folder.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**appwiz.cpl** and click**OK** .  
@@ -172,13 +173,6 @@ If not, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
 6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the installation is completed, launch Minecraft to check if the game works properly.
 
@@ -204,24 +198,24 @@ If not, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-avoid-distraction-with-firm-footage-capture/"><u>[New] In 2024, Avoid Distraction with Firm Footage Capture</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-seo-innovation-pivotal-tech-to-elevate-your-vids/"><u>[New] SEO Innovation Pivotal Tech to Elevate Your Vids</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-flavorful-footage-kitchen-film-making-101/"><u>[Updated] In 2024, Flavorful Footage Kitchen Film-Making 101</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-performances-in-snowboard-cross-world-cup-22/"><u>[Updated] Top Performances in Snowboard Cross World Cup '22</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-20-minutes-to-master-vrecorder-instalment/"><u>2024 Approved 20 Minutes To Master VRecorder Instalment</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-fixes-how-to-resolve-when-borderlands-not-launches-correctly/"><u>Effective Fixes: How to Resolve When Borderlands nOt Launches Correctly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-minecraft-stutter-and-lag-issues-top-solutions/"><u>Fixing Minecraft Stutter & Lag Issues : Top Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-and-prevent-your-ark-software-from-crashing-effectively/"><u>How to Fix and Prevent Your Ark Software From Crashing Effectively</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-vivo-x90s-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Vivo X90S Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-12-proplus-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme 12 Pro+ 5G to Outlook | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/lego-star-wars-the-skywalker-saga-resolved-pc-launch-issues-and-updated-tips-release/"><u>Lego Star Wars The Skywalker Saga - Resolved PC Launch Issues & Updated Tips Release</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-windows-compatibility-issues-with-davinci-resolve-software/"><u>Resolving Windows Compatibility Issues with DaVinci Resolve Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solutions-for-non-functional-steelseries-gg-software-on-pc-with-windows-os/"><u>Solutions for Non-Functional SteelSeries GG Software on PC with Windows OS</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-samsung-galaxy-s23-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Samsung Galaxy S23 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/taming-the-beast-a-step-by-step-guide-to-resolving-titanfall-2-issues/"><u>Taming the Beast: A Step-by-Step Guide to Resolving Titanfall 2 Issues</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-to-rectify-unresponsive-windows-key/"><u>Techniques to Rectify Unresponsive Windows Key</u></a></li>
-<li><a href="https://article-tips.techidaily.com/toms-tech-review-in-depth-insights-on-hardware/"><u>Tom's Tech Review - In-Depth Insights on Hardware</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-helldivers-2-crashes-on-pc-with-these-reliable-methods/"><u>Troubleshoot Helldivers 2 Crashes on PC with These Reliable Methods</u></a></li>
-<li><a href="https://program-issues.techidaily.com/why-immortals-fenyx-risings-release-date-went-awry-now-clarified/"><u>Why Immortals Fenyx Rising's Release Date Went Awry [Now Clarified]</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-quick-tips-for-ios-screen-record/"><u>[New] 2024 Approved Quick Tips for iOS Screen Record</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-basics-to-expertise-the-quantum-hdr-journey/"><u>[New] From Basics to Expertise The Quantum HDR Journey</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-unveiling-the-secret-sauce-for-astonishing-gifs-from-vimeo-videos-for-2024/"><u>[New] Unveiling the Secret Sauce for Astonishing GIFs From Vimeo Videos for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevating-your-youtube-presence-with-customized-subtitles/"><u>[Updated] In 2024, Elevating Your YouTube Presence with Customized Subtitles</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-logitechs-premium-4k-webcam-full-review-and-usability-insights/"><u>2024 Approved Logitech's Premium 4K Webcam - Full Review & Usability Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/acer-not-holding-a-charge-diagnosing-and-repairing-the-problem/"><u>Acer Not Holding a Charge – Diagnosing and Repairing the Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-warzone-pacific-down-heres-how-to-prevent-sudden-game-shutdowns/"><u>COD: Warzone Pacific Down? Here's How to Prevent Sudden Game Shutdowns</u></a></li>
+<li><a href="https://article-files.techidaily.com/elevating-your-show-with-expert-rss-feed-craftsmanship-for-2024/"><u>Elevating Your Show with Expert RSS Feed Craftsmanship for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-issues-troubleshooting-your-nonfunctional-logitech-c920-camera/"><u>Fixing Issues: Troubleshooting Your Nonfunctional Logitech C920 Camera</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-unresponsive-sound-feature-in-windows-7-a-step-by-step-guide/"><u>Fixing the Unresponsive Sound Feature in Windows 7: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-back-into-the-game-solve-your-borderlands-3-failed-to-start-woes-with-this-guide/"><u>Get Back Into the Game: Solve Your 'Borderlands 3 Failed to Start' Woes with This Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-battlefield-2042s-lagging-problems-and-improve-pc-performance/"><u>How to Overcome Battlefield 2042'S Lagging Problems & Improve PC Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-and-resolve-crashes-in-mount-and-blade-ii-bannerlord/"><u>How to Prevent and Resolve Crashes in Mount & Blade II: Bannerlord</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcoming-sim-not-provisioned-mmi-errors-on-your-device-easily/"><u>Overcoming 'SIM Not Provisioned MMI' Errors on Your Device Easily</u></a></li>
+<li><a href="https://win-superb.techidaily.com/pcmoverwindows/"><u>PCmoverよりも安全で簡単なWindowsパソコンのシステム移行ソフトを見つける</u></a></li>
+<li><a href="https://program-issues.techidaily.com/seamless-gaming-with-tiny-tinas-wonderlands-on-your-computer-common-issues-resolved/"><u>Seamless Gaming with Tiny Tina’s Wonderlands on Your Computer: Common Issues Resolved</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-fixes-for-sudden-ark-system-crashes/"><u>Troubleshooting and Fixes for Sudden ARK System Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-microsoft-edges-stability-issues-in-windows-11/"><u>Troubleshooting Microsoft Edge's Stability Issues in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/uncover-solutions-for-undetected-steam-headset-issues-in-6-simple-steps/"><u>Uncover Solutions for Undetected Steam Headset Issues in 6 Simple Steps</u></a></li>
 </ul></div>
 

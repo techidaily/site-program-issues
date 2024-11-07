@@ -1,7 +1,7 @@
 ---
 title: What To Do If You Encounter an Unresponsive Minecraft Window on Desktop
-date: 2024-08-23T17:37:15.700Z
-updated: 2024-08-24T17:37:15.700Z
+date: 2024-11-02T01:24:42.367Z
+updated: 2024-11-06T23:55:05.478Z
 tags:
   - win11
   - win10
@@ -30,6 +30,19 @@ thumbnail: https://thmb.techidaily.com/9ed4d2a342c503dc1182b48b6f97e1914eb836100
 5. **[Close CPU / memory hogging applications](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Verify integrity of game files
 
  Corrupted game files may cause SnowRunner to crash. If you’re not sure if the game crashing issue is triggered by the faulty game files, just verify integrity of game files. By doing that, you can repair the game.
@@ -39,6 +52,14 @@ thumbnail: https://thmb.techidaily.com/9ed4d2a342c503dc1182b48b6f97e1914eb836100
 1. Launch **Steam** and go to your **LIBRARY** . **Right-click** on **SnowRunner** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 **If you play** **SnowRunner** in Epic Games Launcher, you can follow the instructions below to verify the game files:
@@ -65,18 +86,20 @@ thumbnail: https://thmb.techidaily.com/9ed4d2a342c503dc1182b48b6f97e1914eb836100
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Launch SnowRunner and see if the latest graphics driver stops the crash. If this fix doesn’t work for you, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest game patch
 
  The developer of SnowRunner releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -84,6 +107,19 @@ thumbnail: https://thmb.techidaily.com/9ed4d2a342c503dc1182b48b6f97e1914eb836100
  If a patch is available, it will be detected by Steam or Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch SnowRunner again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Enable VSync
 
@@ -95,9 +131,6 @@ thumbnail: https://thmb.techidaily.com/9ed4d2a342c503dc1182b48b6f97e1914eb836100
 
  Launch the game and see if this fix works. If the game still crashes, just try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Close CPU / memory hogging applications
 
  Another common cause of SnowRunner crashes is insufficient memory. If there’re lots of applications running in the background at the same time, your computer may run out of RAM and the game may crash.
@@ -108,9 +141,6 @@ thumbnail: https://thmb.techidaily.com/9ed4d2a342c503dc1182b48b6f97e1914eb836100
 2. Select any other applications and programs that take up a large amount of **CPU** or **memory** , then click **End task** to close it.  
 ![Close CPU / memory hogging applications](https://images.drivereasy.com/wp-content/uploads/2021/05/Close-CPU-memory-hogging-applications.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If SnowRunner works well after you closed those CPU / memory hogging applications, congratulations!
 
  To prevent SnowRunner from crashing due to insufficient memory in the future, you may need to consider upgrading the memory (RAM) on your computer.
@@ -122,24 +152,30 @@ thumbnail: https://thmb.techidaily.com/9ed4d2a342c503dc1182b48b6f97e1914eb836100
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Restart** your PC and run SnowRunner to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
 
@@ -164,8 +200,6 @@ thumbnail: https://thmb.techidaily.com/9ed4d2a342c503dc1182b48b6f97e1914eb836100
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +207,24 @@ thumbnail: https://thmb.techidaily.com/9ed4d2a342c503dc1182b48b6f97e1914eb836100
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-framing-the-future-expert-tips-for-picture-perfection/"><u>[New] Framing the Future Expert Tips for Picture Perfection</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-essential-ipad-recording-tools-3-edition-for-2024/"><u>[Updated] Essential iPad Recording Tools #3 Edition for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-cutting-edge-or-outdated-full-review-and-guide-to-vitas-editor/"><u>[Updated] In 2024, Cutting Edge or Outdated? Full Review & Guide to Vita's Editor</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-faceoff-can-llama-3-outshine-gpt-4-explore-the-debate/"><u>AI Faceoff: Can Llama 3 Outshine GPT-4? Explore the Debate</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeating-black-screen-glitches-in-far-cry-6-a-step-by-step-solution/"><u>Defeating Black Screen Glitches in Far Cry 6 – A Step-by-Step Solution</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-lenovo-ideapad-100-drivers-complete-guide-for-windows-11-users/"><u>Download & Update Lenovo IdeaPad 100 Drivers: Complete Guide for Windows 11 Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-steam-cannot-update-cloud-library-comprehensive-solutions/"><u>Fixing 'Steam Cannot Update Cloud Library': Comprehensive Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-infinix-note-30-vip-racing-edition-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Infinix Note 30 VIP Racing Edition Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-ace-gaming-the-top-4k-tvs-on-market/"><u>In 2024, Ace Gaming The Top 4K TVs on Market</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-connectivity-hurdles-with-steams-servers-a-fix-guide/"><u>Overcoming Connectivity Hurdles with Steam's Servers: A Fix Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-persistent-crashes-in-necromunda-hired-gun-for-pc-gamers-solutions-explored/"><u>Overcoming Persistent Crashes in Necromunda: Hired Gun for PC Gamers - Solutions Explored</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-frequent-freezes-in-overwatch-gameplay/"><u>Resolved: Fixes for Frequent Freezes in Overwatch Gameplay</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/rumored-details-emerging-for-samsung-galaxy-z-flip-7-price-estimates-availability-date-and-tech-features/"><u>Rumored Details Emerging for Samsung Galaxy Z Flip 7 – Price Estimates, Availability Date & Tech Features</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-overcome-ntdlldll-file-malfunctioning-on-windows-platforms/"><u>Step-by-Step Guide to Overcome ntdll.dll File Malfunctioning on Windows Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-process-to-fetch-and-install-updated-drivers-for-the-logitech-g403-on-pc/"><u>Step-by-Step Process to Fetch and Install Updated Drivers for the Logitech G403 on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-pc-lag-with-these-swift-fixes-to-roblox-issues-edition/"><u>Stop PC Lag with These Swift Fixes to Roblox Issues Edition</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-iphone-14-plus-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and iPhone 14 Plus</u></a></li>
+</ul></div>
 

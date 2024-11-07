@@ -1,7 +1,7 @@
 ---
 title: "Call of Duty's Black Ops Cold War - UI Problem #27711: Fixed & Enhanced for Players"
-date: 2024-10-31T02:39:58.355Z
-updated: 2024-11-01T03:07:19.883Z
+date: 2024-11-01T02:01:45.177Z
+updated: 2024-11-07T03:23:40.836Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ It’s very frustrating when Call of Duty Black Ops Cold War keeps freezing on y
 
  If Call of Duty Cold War just freezes without any overheating symptoms, take a look at other workable fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2 – Update your graphics card driver
 
  If you’re using a faulty graphics driver or it’s out-of-date, you may encounter various issues when playing Black Ops Cold War such as freezing, crashing or low FPS. GPU manufacturers have released new drivers optimized for this game, so you can update the graphics card driver to see if that fixes your issue.
@@ -55,10 +62,10 @@ There are two ways for you to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/amd-5700-de-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -67,10 +74,10 @@ There are two ways for you to do this:
  Does the driver update mitigate the freezes and boost your game’s performance? If the problem reoccurs, please continue to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3 – Disable fullscreen optimizations
@@ -83,13 +90,6 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-13.jpg)
 2. Navigate to the**Compatibility** tab. Then, tick**Disable fullscreen optimizations** .  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/11.jpg)
 3. Click**Change high DPI settings** .  
 
@@ -97,23 +97,29 @@ Here are the steps:
 4. Tick**Override** **High DPI** **scaling behavior** and select**Application** from the drop-down menu below. Then, click**OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/0-3.jpg)
 5. Click**OK** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/13.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/13.jpg)
 
  Launch your game to see if the freezing problem goes away. If not, try the next fix below.
 
@@ -126,16 +132,16 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/10.jpg)
 3. Click**Options** and click**Scan and Repair** .  
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/14.jpg)
 
  After the process completes, relaunch the game to test the issue. If this fix doesn’t help, check out the last one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Lower the in-game graphics settings
 
@@ -172,24 +178,16 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-understanding-vlcs-screen-recording-features/"><u>[New] 2024 Approved Understanding VLC's Screen Recording Features</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723003105731-solved-how-to-fix-minecraft-drivers-outdated-message/"><u>[SOLVED] How to Fix Minecraft “Drivers Outdated” Message</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-exploring-the-spectrum-projectors-and-televisions-in-a-4k-world/"><u>[Updated] 2024 Approved Exploring the Spectrum Projectors & Televisions in a 4K World</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-7-best-budget-friendly-dvd-players-for-computers/"><u>[Updated] In 2024, 7 Best Budget-Friendly DVD Players for Computers</u></a></li>
-<li><a href="https://fox-http.techidaily.com/auditory-interpretation-accessible-at-no-expense/"><u>Auditory Interpretation Accessible at No Expense</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypassed-obstacles-how-gamers-can-enjoy-fix-driven-play-of-fnaf-amid-pc-compatibility-concerns-post-security-breach-patches/"><u>Bypassed Obstacles! How Gamers Can Enjoy Fix-Driven Play of FNAF Amid PC Compatibility Concerns Post-Security Breach Patches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/defeat-disconnection-the-six-key-techniques-to-restore-terraria-connectivity/"><u>Defeat Disconnection: The Six Key Techniques to Restore Terraria Connectivity</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/exploring-vidmas-screen-recording-functionality-for-2024/"><u>Exploring Vidma’s Screen Recording Functionality for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-game-stability-addressing-warzone-20-pc-crash-problems/"><u>Fixing Game Stability: Addressing Warzone 2.0 PC Crash Problems</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2016-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel 2016 document online</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-how-to-make-a-imovie-photo-slideshow-with-music/"><u>New 2024 Approved How to Make a iMovie Photo Slideshow with Music?</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-assessing-whether-magix-samplitude-truly-dominates-music-production-tools/"><u>New Assessing Whether MAGIX Samplitude Truly Dominates Music Production Tools</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723005134870-no-more-crashes-in-terraria-top-fixes-for-players-to-try-now/"><u>No More Crashes in Terraria – Top Fixes for Players to Try Now</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-among-us-stuck-at-boot-screens-tips-and-tricks-to-get-back-into-the-game/"><u>Overcome Among Us Stuck at Boot Screens - Tips and Tricks to Get Back Into the Game</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-error-getting-netflix-up-and-running-again-on-xbox-gaming-system/"><u>Overcome Error: Getting Netflix Up and Running Again on Xbox Gaming System</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-startup-difficulties-with-valheim-expert-tips-and-tricks/"><u>Overcoming Startup Difficulties with Valheim : Expert Tips & Tricks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/participate-actively-in-continuous-learning-activities-including-webinars-workshops-training-sessions-to-improve-product-knowledge-and-stay-up-to-date-on-in402/"><u>Participate Actively in Continuous Learning Activities, Including Webinars, Workshops, Training Sessions to Improve Product Knowledge and Stay Up-to-Date on Industry Trends Relevant to Customer Support Best Practices</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-use-face-id-to-pay-for-itunes-and-app-store-purchases-on-iphone-6s-plus-by-drfone-ios-unlock-ios-unlock/"><u>The way to Use Face ID to Pay for iTunes & App Store Purchases on iPhone 6s Plus</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-ultimate-directory-where-to-download-youtube-ringtones/"><u>[New] Ultimate Directory Where to Download YouTube Ringtones?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-ultimate-guide-recording-your-youtube-livestreams/"><u>[Updated] In 2024, Ultimate Guide Recording Your YouTube Livestreams</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/best-screen-capture-alternatives-for-the-cost-conscious-user/"><u>Best Screen Capture Alternatives for the Cost-Conscious User</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhance-your-gaming-experience-fixing-latency-and-elevating-frame-rates-in-watch-dogs-legion/"><u>Enhance Your Gaming Experience: Fixing Latency and Elevating Frame Rates in Watch Dogs: Legion</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ensure-optimal-performance-with-the-latest-intel-integrated-graphics-drivers-for-windows-11-download-and-installation-tutorial/"><u>Ensure Optimal Performance with the Latest Intel Integrated Graphics Drivers for Windows 11 - Download & Installation Tutorial</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-art-of-reducing-discord-cpu-drain-expert-strategies/"><u>Master the Art of Reducing Discord CPU Drain - Expert Strategies</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-crashes-rogue-companys-stability-improved-for-pc-users/"><u>Say Goodbye to Crashes: Rogue Company's Stability Improved for PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-guide-to-overcome-video-card-glitches-in-the-sims-4/"><u>The Ultimate Guide to Overcome 'Video Card Glitches in The Sims 4'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-game-freezes-for-cod-black-ops-cold-war-players/"><u>Troubleshooting Game Freezes for COD: Black Ops Cold War Players</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-wi-fi-issues-top-8-solutions-for-iphoneipad-connection-woes/"><u>Troubleshooting Wi-Fi Issues: Top 8 Solutions for iPhone/iPad Connection Woes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726030065311-pc/"><u>ソフトウェア不必要でPCインスタストーリーを継承する方法</u></a></li>
 </ul></div>
 

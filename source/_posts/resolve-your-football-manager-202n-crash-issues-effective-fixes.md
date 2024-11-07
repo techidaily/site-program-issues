@@ -1,7 +1,7 @@
 ---
 title: "Resolve Your Football Manager 202N Crash Issues: Effective Fixes"
-date: 2024-08-23T17:39:23.005Z
-updated: 2024-08-24T17:39:23.005Z
+date: 2024-11-04T22:31:20.900Z
+updated: 2024-11-06T21:33:49.579Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ thumbnail: https://thmb.techidaily.com/40dacce0cb547ba8c0e5ef7c77101f1f8b7f316b2
 | **Storage**   | 7GB available space                                                                      |
 | **DirectX**   | Version 11                                                                               |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Verify the game files
 
  The first fix you can try is to verify the game files via the game launcher. If the crashing issue was caused by any missing or corrupted game files, the verification process will make sure those files are added or replaced to solve the problem.
@@ -63,10 +70,20 @@ thumbnail: https://thmb.techidaily.com/40dacce0cb547ba8c0e5ef7c77101f1f8b7f316b2
 1. Find Football Manager 2022 in your Steam library. Right-click the game then click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/steam-rightclick-properties.jpeg)
 2. Under the **LOCAL FILES** tab, click **Verify integrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/steam-verify-game-files%E5%89%AF%E6%9C%AC.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Epic Games
 
@@ -95,9 +112,6 @@ thumbnail: https://thmb.techidaily.com/40dacce0cb547ba8c0e5ef7c77101f1f8b7f316b2
 
  Restart your PC and run FM22 to see if the game still crashes. If updating the graphics driver doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## Fix 3: Remove custom mods
 
  Any custom add-ons like mods, graphics, or skins, may interfere and cause the game to crash. If you installed the add-ons from the Steam workshop, you can easily unsubscribe from them and test the issue. Here’s how:
@@ -105,13 +119,17 @@ thumbnail: https://thmb.techidaily.com/40dacce0cb547ba8c0e5ef7c77101f1f8b7f316b2
 1. Go to your Steam profile page, and click**Workshop items** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-29_10-51-25.png)
 2. Click**(your username)’s Favorite** \>>**Select a game** \>>**Football Manager 2022** .  
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-29_10-52-33.png)
 3. You can**unsubscribe** from the mods one at a time to test which item was causing the problem.
 
 If this doesn’t help, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Delete cache/preferences folders
 
@@ -137,14 +155,23 @@ If this fix doesn’t solve your problem, try the next fix.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 ## Fix 6: Close unnecessary programs
@@ -154,16 +181,25 @@ If this fix doesn’t solve your problem, try the next fix.
 1. Right-click your taskbar, then click **Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the **Processes** tab, right-click at the process(es) that you want to shut down, and click **End task** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_11-34-04.jpg)
 
  If you’ve closed the unnecessary background programs but still encounter crashes, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 7: Check your antivirus software
 
  Aggressive antivirus software is a common cause of game crashes. If you’re using any antivirus software, you can try to:
@@ -177,9 +213,6 @@ If this fix doesn’t solve your problem, try the next fix.
 
  In addition to antivirus software, you can also check out [the list of programs that may affect Steam game performance](https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 8: Make sure your system is up-to-date
 
  Windows regularly rolls out updates to fix known bugs and compatibility issues with programs on your PC. Here’s how to check for Windows updates and install the available ones:
@@ -187,19 +220,18 @@ If this fix doesn’t solve your problem, try the next fix.
 1. In the search bar next to your Start button, type **update** , then click C**heck for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will scan for available system updates. If there are _no_  available updates, you’ll get a **You’re up to date** sign. You could also click **View all optional updates** and install them if needed.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. You will be prompted to restart your PC. Make sure you save important files in advance.
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ## Fix 9: Change the game folder location
 
@@ -213,9 +245,6 @@ If this fix doesn’t solve your problem, try the next fix.
 
 If this doesn’t help, there’s one more fix you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 10: Reinstall Football Manager 2022
 
  Some players were able to solve the crashing issue after they reinstalled FM22, and it’s definitely worth a try. This is most likely to work when the previous game download or installation was interrupted and thus triggered the crashes.
@@ -234,8 +263,6 @@ If this doesn’t help, there’s one more fix you can try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -243,4 +270,19 @@ If this doesn’t help, there’s one more fix you can try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-visual-upgrade-engine-windows-mac-and-online-edition/"><u>[New] Visual Upgrade Engine – Windows, Mac & Online Edition</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-affordable-choices-best-laptops-for-gamers-on-a-dime/"><u>[Updated] In 2024, Affordable Choices Best Laptops for Gamers on a Dime</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-understanding-permissions-the-key-to-saving-google-meets/"><u>[Updated] Understanding Permissions The Key to Saving Google Meets</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-streaming-made-simple-free-downloader-to-mp3s-now/"><u>2024 Approved Streaming Made Simple Free Downloader to MP3s Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bug-free-victory-overcoming-total-war-three-kingdoms-stability-issues/"><u>Bug-Free Victory: Overcoming Total War: Three Kingdoms Stability Issues</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-audiovisual-standards-for-success-on-youtube-top-format-choices/"><u>In 2024, Audiovisual Standards for Success on YouTube – Top Format Choices</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-note-50-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Realme Note 50 Phone without PIN</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-reactivate-lost-chatter-in-social-media-clips/"><u>In 2024, Reactivate Lost Chatter in Social Media Clips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/netflix-now-working-seamlessly-on-your-xbox-one-heres-how-we-fixed-it/"><u>Netflix Now Working Seamlessly on Your Xbox One – Here's How We Fixed It</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-2024-approved-enhancing-pc-sound-quality-with-audacity-modern-techniques-and-setup/"><u>New 2024 Approved Enhancing PC Sound Quality with Audacity Modern Techniques and Setup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-issues-why-fall-guys-wont-load-or-keeps-crashing/"><u>Resolving Issues: Why Fall Guys Won't Load or Keeps Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-pc-playback-problems-with-our-ultimate-bloodhunt-fixes/"><u>Troubleshoot PC Playback Problems with Our Ultimate Bloodhunt Fixes</u></a></li>
+</ul></div>
 

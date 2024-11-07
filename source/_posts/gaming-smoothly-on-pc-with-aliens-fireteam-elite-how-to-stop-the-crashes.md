@@ -1,7 +1,7 @@
 ---
 title: "Gaming Smoothly on PC with Aliens: Fireteam Elite - How to Stop the Crashes"
-date: 2024-10-28T16:57:46.183Z
-updated: 2024-11-01T05:02:53.978Z
+date: 2024-10-31T22:28:20.075Z
+updated: 2024-11-06T19:39:38.189Z
 tags:
   - win11
   - win10
@@ -44,13 +44,6 @@ Just follow the steps below to verify integrity of game files:
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Depending on the size of the game files, it may take some time to verify all your game files.
@@ -67,6 +60,13 @@ Just follow the steps below to verify integrity of game files:
 
 There’re mainly two ways you can update your graphics drivers:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -82,6 +82,13 @@ There’re mainly two ways you can update your graphics drivers:
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 Or
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -103,13 +110,6 @@ Or
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  You need to restart your PC after you finished updating your graphics driver.
@@ -118,6 +118,13 @@ Or
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 3: Install the latest game patch
 
  The game developers release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -125,6 +132,13 @@ Or
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch WWE 2K22 and see if the game crashing issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Install the latest DirectX files
 
@@ -140,13 +154,6 @@ Or
 
  See if WWE 2K22 crashes again after you installed the latest DirectX file. If this fix didn’t work for you, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 5: Stop overclocking
 
  Overclocking the CPU or turbo boost the graphics card may gain a better FPS. However, it often crashes the game. To reduce the frequency of game crashing issues, it’s suggested that you reset the CPU or the graphics card to the manufacturer specifications.
@@ -154,13 +161,6 @@ Or
  If you’re using the software like MSI Afterburner, AMD Overdrive, GIGABYTE Easy Tune, etc., you may need to disable them first.
 
  See this issue persists after you stopped overclocking. If this fix didn’t help, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Disable Steam Overlay
 
@@ -172,25 +172,31 @@ Or
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’re using other apps with overlay features (e.g. Discord, Nvidia GeForce Experience, Twitch, etc.), ensure you’ve disabled the in-game overlay in those apps feature.
 
  Launch WWE 2K22 and see if the it crashes again. If this fix doesn’t work, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 7: Disable third-party antivirus software
 
@@ -223,22 +229,20 @@ Or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-crafting-quality-captures-the-ultimate-guide-to-recording-roblox-on-a-macbook/"><u>[New] 2024 Approved Crafting Quality Captures The Ultimate Guide to Recording Roblox on a MacBook</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-ignite-interest-a-list-of-30-video-themes/"><u>[New] 2024 Approved Ignite Interest A List of 30 Video Themes</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-for-free-how-to-convert-twitter-videos-to-gifs-in-2024/"><u>[Updated] For Free! How to Convert Twitter Videos to GIFS, In 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-hd-action-recorder-brands-under-100/"><u>Best HD Action Recorder Brands Under $100</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-to-correct-error-6-when-playing-dive-missions-in-cod-moden-warfare-pc-edition/"><u>Expert Tips to Correct Error #6 When Playing Dive Missions in CoD: Moden Warfare - PC Edition</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-game-crashes-solutions-for-when-modern-warfare-2-wont-open/"><u>Fix Your Game Crashes - Solutions for When 'Modern Warfare 2' Won't Open</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-common-steam-issue-cant-link-with-local-steam-software/"><u>Fixing the Common Steam Issue: Can't Link With Local Steam Software?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-the-no-matches-available-problem-in-fortnites-warzone-when-playing-from-a-computer/"><u>How to Fix the No Matches Available Problem in Fortnite's Warzone When Playing From a Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-stuttering-and-latency-problems-while-playing-forza-horizon-5-solutions-unveiled/"><u>How to Overcome Stuttering & Latency Problems While Playing Forza Horizon 5 - Solutions Unveiled!</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-apple-iphone-x-to-ipod-touch-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Music from Apple iPhone X to iPod touch | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/introduction-to-wet-scrubbers-and-their-use-in-removing-gaseous-pollutants-from-exhaust-streams-using-a-liquid-medium/"><u>Introduction to Wet Scrubbers and Their Use in Removing Gaseous Pollutants From Exhaust Streams Using a Liquid Medium.</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-the-science-of-verbal-recording/"><u>Mastering the Science of Verbal Recording</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigate-the-world-of-computing-trustworthy-advice-from-tom/"><u>Navigate the World of Computing: Trustworthy Advice From Tom</u></a></li>
-<li><a href="https://program-issues.techidaily.com/scavengers-on-pc-overcoming-technical-glitches-and-ensuring-smooth-playtime/"><u>Scavengers On PC: Overcoming Technical Glitches and Ensuring Smooth Playtime</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/simplicity-in-capturing-your-lenovo-pics/"><u>Simplicity in Capturing Your Lenovo Pics</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-high-latency-in-bless-unleashed-steps-to-reduce-lag-and-improve-pc-performance/"><u>Solving High Latency in Bless Unleashed: Steps to Reduce Lag and Improve PC Performance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/what-determines-the-length-of-texts-from-chatgpt-ai/"><u>What Determines the Length of Texts From ChatGPT AI?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-virtual-set-masterclass-learning-filmmaking-online/"><u>[Updated] 2024 Approved The Virtual Set Masterclass Learning Filmmaking Online</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-immaculatepixels-prograde-background-elimination-for-2024/"><u>[Updated] ImmaculatePixels Prograde Background Elimination for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-selecting-perfect-unboxing-tunes-a-guide/"><u>2024 Approved Selecting Perfect Unboxing Tunes A Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-crash-bug-in-modern-warfare-3-effective-remedies-for-a-seamless-gameplay/"><u>Beat the Crash Bug in Modern Warfare 3 - Effective Remedies for a Seamless Gameplay</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-dutilisation-comment-acceder-et-lire-les-ebooks-de-kindle-sur-ipad/"><u>Guide D'Utilisation: Comment Accéder Et Lire Les eBooks De Kindle Sur iPad</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722902918775-high-quality-tech-products-at-unbeatable-prices-for-the-discerning-shopper/"><u>High-Quality Tech Products at Unbeatable Prices for the Discerning Shopper</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-poco-m6-5g-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Poco M6 5G Activity | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sculpting-the-digital-experience-through-zooming/"><u>In 2024, Sculpting the Digital Experience Through Zooming</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/navigating-through-youtubes-top-favorite-shorters/"><u>Navigating Through YouTube’s Top Favorite Shorters</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-fifa-21-crashes-on-windows-in-depth-solutions-and-prevention-techniques/"><u>Overcome FIFA 21 Crashes on Windows - In-Depth Solutions and Prevention Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-league-of-legends-black-screen-issue-top-tips-and-tricks/"><u>Solving the League of Legends Black Screen Issue: Top Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/steam-client-connection-problem-solved-overcoming-the-local-process-failure/"><u>Steam Client Connection Problem Solved – Overcoming the ‘Local Process Failure’</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-fix-the-black-screen-problem-during-discord-screenshare/"><u>Troubleshooting Guide: How to Fix the 'Black Screen' Problem During Discord Screenshare</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-solving-directx-drawing-issues/"><u>Troubleshooting Guide: Solving DirectX Drawing Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/winning-tactics-for-reducing-game-latency-and-improving-response-time-s-popular-titles/"><u>Winning Tactics for Reducing Game Latency & Improving Response Time 'S Popular Titles</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fast Solutions for Sluggish Performance in Assassin's Creed: Valhalla"
-date: 2024-08-23T17:35:39.092Z
-updated: 2024-08-24T17:35:39.092Z
+date: 2024-11-02T00:37:03.787Z
+updated: 2024-11-06T23:26:52.902Z
 tags:
   - win11
   - win10
@@ -69,17 +69,18 @@ There are two ways for you to update the device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full suppor** t and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -97,16 +98,10 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/graphics.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Toggle off the button under**Variable refresh rate** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/graohics.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
  Note: If you’re using a gaming console, you can turn off VRR by going to**Settings** \>**Display & sound** \>**Video output** \>**Video modes** \> uncheck the**Allow** **Variable Refresh Rates** box.
 
  4) Open the**NVIDIA control panel** .
@@ -120,17 +115,18 @@ There are two ways for you to update the device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Apply.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  8) Click**Apply** .
 
 **Note:** If you’re using an AMD graphics card, open**AMD** **Radeon Settings** \>**Display** \> turn off**AMD FreeSync** .
 
  Now you should have no problems playing Assassin’s Creed Valhalla. If this method didn’t reduce Assassin’s Creed Valhalla lagging, you can try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5 – Change your DNS settings
 
  If you still find the game laggy, you can improve your network condition by switching to the Google Public DNS address. Here’s how:
@@ -143,26 +139,30 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/status.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) On the left pane, click**Change adapter settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/change-adapter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Right-click on your network adapter and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Properties.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Double-click Internet Protocol Version 4 (TCP/IPv4) to view its properties.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/IPV4.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  6) Select**Use the following DNS server addresses** .
 
@@ -170,9 +170,23 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Version-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) Now you need to flush the DNS cache to let the changes take effect. Type cmd in the**Search** box, and run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/CMD.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then click Yes if you’re prompted for permission.
 
@@ -182,7 +196,27 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/flush.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now play your Assassin’s Creed Valhalla again to see if the lagging issue still persists.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6 – Clean all your temp files
 
@@ -192,20 +226,21 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/image-305.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Press **Ctrl + A** to select all the files, then hit the **Delete** button on your keyboard to remove them. (This won’t delete your personal files.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/delete.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Tick**Do this for all current items** and click**Continue** if you’re presented with a warning that says “You’ll need to provide administrator permission to delete this folder”, and**Skip** if you see “the folder or a file in it is open in another program.”
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/continue.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Once complete, press the **Windows logo key** and **R** at the same time to invoke the Run dialog box again. Type in **prefetch** and hit **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/image-306.png)
@@ -232,8 +267,6 @@ There are two ways for you to update the device drivers:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -241,4 +274,21 @@ There are two ways for you to update the device drivers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-instagrams-updated-strategy-and-its-effects-for-2024/"><u>[New] Instagram’s Updated Strategy and Its Effects for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-yearly-insights-the-most-impactful-social-graphs/"><u>[New] Yearly Insights - The Most Impactful Social Graphs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/1716183822584-updated-2024-approved-how-to-get-more-instagram-video-views/"><u>[Updated] 2024 Approved How to Get More Instagram Video Views?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-yielding-income-a-streamers-guide-to-earning/"><u>2024 Approved Yielding Income A Streamer's Guide to Earning</u></a></li>
+<li><a href="https://win-answers.techidaily.com/addressing-the-challenge-of-valorants-failed-launch-on-pc-systems-proven-techniques/"><u>Addressing the Challenge of Valorant's Failed Launch on PC Systems : Proven Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-prevent-microsoft-flight-simulator-2020-from-killing-your-gaming-experience-on-windows-machines/"><u>Expert Tips to Prevent Microsoft Flight Simulator 2020 From Killing Your Gaming Experience on Windows Machines</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-startup-issues-with-hogwarts-legacy-in-just-8-simple-steps/"><u>Fix Startup Issues with Hogwarts Legacy in Just 8 Simple Steps!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-problem-elder-scrolls-online-loading-errors-explained/"><u>Fixing the Problem: Elder Scrolls Online Loading Errors Explained</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-to-make-your-facebook-profile-cover-video-more-attractive/"><u>How to Make Your Facebook Profile Cover Video More Attractive</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-profitable-content-creation-on-youtube-through-smart-adsense-use/"><u>In 2024, Profitable Content Creation on YouTube Through Smart AdSense Use</u></a></li>
+<li><a href="https://program-issues.techidaily.com/in-depth-guide-getting-robocop-rogue-city-running-smoothly-on-your-desktop-computer/"><u>In-Depth Guide: Getting 'RoboCop: Rogue City' Running Smoothly on Your Desktop Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-forest-sons-game-crashes-on-your-pc-comprehensive-guide/"><u>Resolving 'Forest Sons' Game Crashes on Your PC - Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/singapore-airlines-enhances-inflight-experience-with-complimentary-limitless-internet-access-for-all-passengers/"><u>Singapore Airlines Enhances Inflight Experience with Complimentary Limitless Internet Access for All Passengers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-solution-how-to-fix-a-blank-interface-in-epic-games-launcher-application/"><u>The Solution: How to Fix a Blank Interface in Epic Games Launcher Application</u></a></li>
+</ul></div>
 

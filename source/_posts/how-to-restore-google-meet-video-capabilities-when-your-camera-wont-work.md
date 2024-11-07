@@ -1,7 +1,7 @@
 ---
 title: How to Restore Google Meet Video Capabilities When Your Camera Won't Work
-date: 2024-10-26T01:35:13.315Z
-updated: 2024-11-01T06:23:32.816Z
+date: 2024-10-31T02:39:06.376Z
+updated: 2024-11-06T21:14:58.733Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 
  Corrupted game files may be caused by sudden shutdowns, incomplete downloads or updates, game bugs and glitches. Below are 3 methods you can try to tackle it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 — Verify game files integrity
 
  Luckily, most PC clients allow you to verify the integrity of files through the library. Just select your gaming platform and follow the instructions below.
@@ -54,10 +47,10 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 3. Steam will verify the game’s files – this process may take several minutes
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Wait for the process to complete. Once done, exit Steam and open it again.
@@ -70,19 +63,6 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/skywalker-saga-crash-4.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for the process bar to reach 100%. Then exit Origin and open it again.
 
 #### If you play on Epic Games Launcher
@@ -91,13 +71,6 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/2022-06-09_17-00-18.jpg)
 2. Click on the **three dots (…)** under the game to invoke a menu. Then click **Verify** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/skywalker-saga-crash-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### If you play on Xbox
 
@@ -109,20 +82,13 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/Xbox.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Exit the app and relaunch it. However, if the programs find no corrupted files or this fix doesn’t work for you, continue to try the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2 — Remove broken files
 
@@ -149,11 +115,31 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/betas.png)
 4. Once the previous version of the game is installed, restore the game saves by copying them back into the game’s save folder.
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Nevertheless, corrupted or missing system files lead to bad gaming experiences and unstable computer usage as well. If you want to do a thorough check and repair, keep reading on.
 
 ## Fixes for corrupted system files
 
  Factors resulting in corrupted system files involves power outage, system crash, hard disk problem and others. Check the following fixes to grapple with this issue.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1 — Command line repair
 
@@ -163,14 +149,21 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/2023-10-27_11-27-54.png)
 2. Copy and paste`**sfc /scannow**` and press**Enter** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/2023-10-25_11-11-39.png)
 3. This will begin the scan and wait for it to complete the verification and repair.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Alternatively, if you can want to view details of the SFC process, copy and paste the following command and press Enter. You will find a file named**sfcdetails.txt** on your desktop.  
@@ -188,13 +181,6 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 3. At the end of the scan, a summary of the issues detected will show up. Click**Star Repair** to fix them (and you’ll need to pay for the full version which comes with a**60-day money-back** guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  After the repairs, restart your computer and the game to check for improvement.
@@ -207,7 +193,21 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/restore-win-11-version.jpg)
 2. Select a version and click**Restore** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win10-pv-restore.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -231,22 +231,24 @@ thumbnail: https://thmb.techidaily.com/6f8414097089a9fbc68b8b5aaac7c01bdc6e5c33b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-evaluating-the-top-video-streaming-apps-for-phones/"><u>[New] 2024 Approved Evaluating the Top Video Streaming Apps for Phones</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-transforming-your-vlog-video-structure-with-jump-cuts/"><u>[New] 2024 Approved Transforming Your Vlog Video Structure with Jump Cuts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-video-segmenting-scout-splitcam-analysis-for-2024/"><u>[New] Video Segmenting Scout SplitCam Analysis for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-live-chat-with-woocommerce-your-gateway-to-successful-live-selling/"><u>2024 Approved Live Chat With WooCommerce Your Gateway to Successful Live Selling</u></a></li>
-<li><a href="https://win11.techidaily.com/bridging-technology-divide-with-winpc-galaxy-flow-link/"><u>Bridging Technology Divide with WinPC-Galaxy Flow Link</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-newest-geforce-rtx-70-drivers-for-windows-1110-free-download-available/"><u>Get the Newest GeForce RTX 지오70 Drivers for Windows 11/10 – Free Download Available!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mov-files-on-sony-by-aiseesoft-video-converter-play-mov-on-android/"><u>How do you play .mov files on Sony ?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-realme-11x-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Realme 11X 5G to New Android? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/navigate-the-challenges-of-alan-wake-2s-latest-crash-problems/"><u>Navigate the Challenges of Alan Wake 2'S Latest Crash Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-issues-when-attempting-to-play-avatar-frontiers-of-pandora/"><u>Overcoming Issues When Attempting to Play Avatar: Frontiers of Pandora</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-and-easy-access-to-your-free-qualcomm-atheros-ar938x-drivers-get-them-today/"><u>Quick and Easy Access to Your Free Qualcomm Atheros AR938X Drivers - Get Them Today</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fixes-for-when-your-steam-games-just-wont-run-smoothly/"><u>Quick Fixes for When Your Steam Games Just Won't Run Smoothly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-why-insurgency-sandstorm-frequently-experiences-game-crashes/"><u>Resolved: Why 'Insurgency: Sandstorm' Frequently Experiences Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-complete-guide-to-fixing-stutter-and-lag-in-minecraft-optimizing-performance-for-a-seamless-gameplay-updated-with-latest-strategies-2023/"><u>The Complete Guide to Fixing Stutter and Lag in Minecraft: Optimizing Performance for a Seamless Gameplay (Updated with Latest Strategies, 2023)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-resolving-voice-communication-issues-in-among-us-for-windows-users/"><u>Troubleshooting Steps: Resolving Voice Communication Issues in Among Us for Windows Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-fortnite-warzone-lag-issues/"><u>Ultimate Guide: Resolving Fortnite Warzone Lag Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unstick-your-game-solutions-for-continuous-loading-in-far-cry-5/"><u>Unstick Your Game: Solutions for Continuous Loading in 'Far Cry 5'</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-no-hassle-just-happiness-effortless-video-edits-on-windows-10/"><u>[Updated] 2024 Approved No Hassle, Just Happiness Effortless Video Edits on Windows 10</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-essential-youtube-beauty-influencers-10-creators-to-watch-for-2024/"><u>[Updated] Essential YouTube Beauty Influencers 10 Creators to Watch for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mystery-of-missing-movies-a6400s-quandary/"><u>[Updated] Mystery of Missing Movies A6400's Quandary</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-a-beginners-guide-to-elevating-auditory-experiences-on-youtube/"><u>2024 Approved A Beginner's Guide to Elevating Auditory Experiences on YouTube</u></a></li>
+<li><a href="https://games-able.techidaily.com/becoming-a-pro-at-game-enhancement-using-steam-workshop/"><u>Becoming a Pro at Game Enhancement Using Steam Workshop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/closing-the-gap-effective-solutions-for-pc-players-struggling-with-cod-black-ops-cold-war-startup-failures/"><u>Closing the Gap: Effective Solutions for PC Players Struggling with Cod: Black Ops Cold War Startup Failures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-modern-warfare-troubleshooting-game-crashes/"><u>Cod: Modern Warfare - Troubleshooting Game Crashes</u></a></li>
+<li><a href="https://discover-data.techidaily.com/come-risolvere-gli-errori-di-backup-non-riusciti-nel-sistema-operativo-windows-10/"><u>Come Risolvere Gli Errori Di Backup Non Riusciti Nel Sistema Operativo Windows 10</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-se-2020-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-a-frozen-startup-screen-in-fortnite-and-get-back-into-action/"><u>How to Overcome a Frozen Startup Screen in Fortnite and Get Back Into Action!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-cod-black-ops-cold-war-glitch-error-code-887a0005/"><u>How To Overcome COD Black Ops Cold War Glitch 'Error Code: 887A0005'</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ideal-mkv-player-apps-windows-pc/"><u>Ideal MKV Player Apps Windows PC</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/interlingual-exploration-turkey-and-korea/"><u>Interlingual Exploration: Turkey & Korea</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/maximize-your-iphones-potential-with-these-5-steps-to-empty-a-full-icloud-account/"><u>Maximize Your iPhone's Potential with These 5 Steps to Empty a Full iCloud Account</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-installation-errors-how-to-successfully-run-disco-elysium-on-windows/"><u>Overcoming Installation Errors: How to Successfully Run Disco Elysium on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-pc-freezes-in-dread-hunger-a-guide-for-uninterrupted-gaming-experience/"><u>Overcoming PC Freezes in 'Dread Hunger': A Guide for Uninterrupted Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resident-evil-village-performance-issues-addressing-pc-frame-rate-dips/"><u>Resident Evil Village Performance Issues: Addressing PC Frame Rate Dips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-guide-for-apex-legends-error-message-code-23/"><u>Resolved: Troubleshooting Guide for Apex Legends Error Message - Code 23</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fixes-and-solutions-for-the-life-is-strange-game-crashing-issue/"><u>Ultimate Fixes and Solutions for the Life Is Strange Game-Crashing Issue</u></a></li>
 </ul></div>
 

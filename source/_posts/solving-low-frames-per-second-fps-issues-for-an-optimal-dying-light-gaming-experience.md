@@ -1,7 +1,7 @@
 ---
 title: Solving Low Frames Per Second (FPS) Issues for an Optimal Dying Light Gaming Experience
-date: 2024-10-28T04:18:25.482Z
-updated: 2024-10-31T18:36:55.560Z
+date: 2024-11-01T02:04:40.914Z
+updated: 2024-11-07T02:05:47.305Z
 tags:
   - win11
   - win10
@@ -26,15 +26,22 @@ It’s annoying to face crashes during the game. Don’t worry, the SEGA team ha
 * [Fix 1: Lower your graphics settings](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 2: Edit Settings](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Official Fix
 
 Follow the steps below to fix the crashing issue.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 1: Check the requirements
@@ -48,6 +55,13 @@ Follow the steps below to fix the crashing issue.
 | **Graphics**  | Nvidia GeForce GTX 660, 2 GB \| AMD Radeon HD 7870, 2 GB |
 | **DirectX**   | Version 11                                               |
 | **Storage**   | 40 GB available space                                    |
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 2: Update your drivers
 
@@ -79,38 +93,18 @@ Restart your computer for the changes to take effect.
 2. Go to the**BETAS** tab and enter the beta access code**yakuza6patch** .  
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-18-16.jpg)
 3. From the drop-down menu, select “**patch\_beta** ”.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Relaunch the game, you’ll be in the beta.
 
  That’s it, the beta patch should solve your crashing issue. But if the game is still crashing, you can try the below fixes or contact the SEGA team for help.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 1: Lower your graphics settings
 
@@ -123,13 +117,6 @@ Restart your computer for the changes to take effect.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-31-35.jpg)
 4. Click**Disable fullscreen optimizations** &**Run this program as an administrator** .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-32-29.jpg)
 5. Save the changes and relaunch the game.
@@ -145,16 +132,23 @@ Restart your computer for the changes to take effect.
 2. In the left panel, scroll down and click**About** . Find and click**Advanced system settings** on the right panel.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-00.jpg)
 3. In the**Advanced** tab, click**Settings…** under Performance.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-10-23.jpg)
 4. Go to the**Advanced** tab and make sure Programs is checked. Then click**Change…**  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-40.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** . Select the drive that Yakuza 6: The Song of Life is installed.
@@ -169,10 +163,10 @@ Restart your computer for the changes to take effect.
 8. Restart your PC and your problem should be fixed.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -194,24 +188,18 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-the-ultimate-guide-to-personalized-phone-tones-for-android-users/"><u>[New] 2024 Approved The Ultimate Guide to Personalized Phone Tones for Android Users</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2023s-leading-youtube-engagement-tools-for-2024/"><u>[Updated] 2023'S Leading YouTube Engagement Tools for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-download-premium-quality-designs-at-no-cost-for-youtube-creators-for-2024/"><u>[Updated] Download Premium-Quality Designs at No Cost – For YouTube Creators for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-parrots-drone-redesign-advanced-edition-review/"><u>2024 Approved Parrot's Drone Redesign - Advanced Edition Review</u></a></li>
-<li><a href="https://program-issues.techidaily.com/breaking-news-all-your-questions-about-mafia-definitive-edition-answered-now-available/"><u>Breaking News: All Your Questions About Mafia: Definitive Edition Answered - Now Available</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723013157988-cyberpunk-2077-overcoming-freeze-up-solutions-and-fixes/"><u>Cyberpunk 2077 Overcoming Freeze-Up: Solutions & Fixes!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/exceptional-upgrades-for-gopro-captures/"><u>Exceptional Upgrades for GoPro Captures</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-back-4-blood-gobi-glitch-on-unreal-engine-4/"><u>Fixing Back 4 Blood Gobi Glitch on Unreal Engine 4</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723013692194-fortnite-login-woes-discover-fast-and-simple-fixes-now/"><u>Fortnite Login Woes? Discover Fast and Simple Fixes Now!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-apple-iphone-14-pro-max-to-chromecast-drfone-by-drfone-ios/"><u>In 2024, How to Cast Apple iPhone 14 Pro Max to Chromecast? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-chrome-loading-errors-a-step-by-step-guide/"><u>Overcoming Chrome Loading Errors: A Step-by-Step Guide</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723205841172-overcoming-voice-communication-problems-in-overwatch-simple-solutions/"><u>Overcoming Voice Communication Problems in Overwatch - Simple Solutions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/roblox-error-fixing-on-desktop-pcs-busting-the-mystery-of-error-277/"><u>Roblox Error Fixing on Desktop PCs: Busting the Mystery of Error 277</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-lag-issues-a-comprehensive-guide-to-enhancing-gaming-performance-and-fixing-low-fps/"><u>Solving Lag Issues: A Comprehensive Guide to Enhancing Gaming Performance and Fixing Low FPS</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-resolving-lag-problems-with-avatar-game-on-pandoras-frontier-adventure/"><u>Ultimate Guide: Resolving Lag Problems with Avatar Game on Pandora’s Frontier Adventure</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/ultimate-tutorial-streaming-mkv-videos-flawlessly-with-windows-media-player/"><u>Ultimate Tutorial: Streaming MKV Videos Flawlessly with Windows Media Player</u></a></li>
-<li><a href="https://program-issues.techidaily.com/update-the-new-world-continues-to-experience-cold-spells/"><u>Update: The 'New World' Continues To Experience Cold Spells</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-itel-s23-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/3gp-mp4-movavi/"><u>오늘날의 가장 빠르고 강력한 인터넷으로 3GP 파일을 MP4로 전환하는 방법 - Movavi</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-exploring-hololens-by-microsoft-a-3d-dream-come-true/"><u>[Updated] 2024 Approved Exploring HoloLens by Microsoft A 3D Dream Come True</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-streamline-video-shoot-excellent-camera-tripods-reviewed/"><u>[Updated] 2024 Approved Streamline Video Shoot Excellent Camera Tripods Reviewed</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-nubia-red-magic-8s-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Nubia Red Magic 8S Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diy-fixes-for-players-facing-problems-with-starting-gta-5-gameplay/"><u>DIY Fixes for Players Facing Problems with Starting GTA 5 Gameplay</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-vivo-y27s-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Vivo Y27s</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-found-how-to-resolve-detroit-become-human-game-crashes-on-windows/"><u>Fixes Found! How to Resolve Detroit: Become Human Game Crashes on Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-illusions-decoded-fact-or-fantasy/"><u>Gaming Illusions Decoded: Fact or Fantasy?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-capacity-card-for-a7s-professional-use-for-2024/"><u>High-Capacity Card for A7S Professional Use for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/no-fluff-just-facts-the-verdict-on-recordcast-for-2024/"><u>No Fluff, Just Facts The Verdict on RecordCast for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-freezing-glitches-on-steam-solutions-and-tips/"><u>Overcoming Freezing Glitches on Steam - Solutions & Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-fixes-when-monster-hunter-rise-wont-start-up-correctly/"><u>Troubleshooting Fixes When Monster Hunter Rise Won't Start Up Correctly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/upgrade-cpu-power-why-you-need-enough-processing-strength-for-vanguard-utility/"><u>Upgrade CPU Power: Why You Need Enough Processing Strength for Vanguard Utility</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/windows-10-storage-guide-how-to-save-and-organize-mov-for-2024/"><u>Windows 10 Storage Guide How to Save and Organize .mov for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Overcome Lost Ark Server Connection Failures: A Comprehensive Guide"
-date: 2024-10-28T17:00:05.549Z
-updated: 2024-10-31T23:55:12.487Z
+date: 2024-11-01T19:44:37.667Z
+updated: 2024-11-06T23:39:46.137Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ Connection issues can happen in every online game and bother many players. The L
 6. [Disable your proxy & VPN](https://tools.techidaily.com/drivereasy/download/)
 7. [Change your DNS server](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Restart your router & modem
 
  You should restart your modem and router especially if they haven’t been switched off for a long time. Just give them some time to cool off and clear up the cache. Here’s how to do it:
@@ -50,13 +43,6 @@ Connection issues can happen in every online game and bother many players. The L
 1. Unplug both your router and modem.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/device.jpg)
 2. Wait at least 30 seconds to let the two machines cool down a bit.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Plug the modem back in and wait until the indicator lights are back to their normal state.
 4. Plug the router back in this time. Likewise, wait until the indicator lights are back to their normal state.
@@ -69,6 +55,13 @@ Connection issues can happen in every online game and bother many players. The L
  Admittedly, a wireless network is not as stable as a wired one. To solve this problem, you could swap Wi-Fi to an Ethernet connection but this is not practical for everyone.  
  Or, you can buy a **[powerline Ethernet adapter](https://www.amazon.com/NETGEAR-Powerline-Adapter-Ethernet-Passthrough/dp/B0778Y6K6N/ref=sr%5F1%5F4?keywords=powerline+ethernet+adapter&qid=1568199231&s=gateway&sr=8-4&tag=drivereasycom-20)**  which extends the reach of your home network to places with poor wireless coverage. Once your network problem is solved, your connection issue in LOL can also be fixed once and for all.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 3: Check for Windows Firewall
 
  If LOL is not allowed in the Firewall, it’s not surprising to see the connection issue. So check the Firewall settings and ensure the LOL executable file is allowed in the Firewall.
@@ -77,31 +70,31 @@ Connection issues can happen in every online game and bother many players. The L
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/control-panel.jpg)
 2. Set Control Panel view by **Large icons** then click **Windows Defender Firewall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c2.jpg)
 3. Click **Allow an app or feature through Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg)
 4. Make sure the LOL is checked. If not, click the Change settings button then check the LOL. If you see more than one LOL entries, check all of them. Ensure the Private box and the Publick box are checked too.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Run LOL to check the issue is resolved or not.
 
  If the LOL is already checked and this method doesn’t work for you, you can move on to try another method.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Disable antivirus software
 
@@ -110,19 +103,6 @@ Connection issues can happen in every online game and bother many players. The L
 **IMPORTANT** : Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Update your device drivers
 
@@ -142,13 +122,6 @@ Connection issues can happen in every online game and bother many players. The L
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-715.png)
 4. Run League of Legends to check the connection issue is resolved or not.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note** : If you have any problems using Driver Easy to update your drivers, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
 ---
@@ -163,6 +136,13 @@ Connection issues can happen in every online game and bother many players. The L
 1. On your keyboard, press **the Windows logo key** + **I** at the same time to invoke the **Settings** window. Then click **Network & Internet** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network.jpg)
 2. Click**Proxy** on the left pane. Turn off the toggles under**Automatically detect settings**  and **Use setup script** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network1.jpg)
 3. Also, don’t forget to **disconnect your VPN** if you’re using it.
@@ -182,8 +162,28 @@ Connection issues can happen in every online game and bother many players. The L
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel1-1.jpg)
 3. Set Control Panel view by **Category** then click **View network status and tasks** .  
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network2.jpg)
 4. Click **Change adapter settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network3.jpg)
 5. Right-click on your network and select **Properties** .  
@@ -194,16 +194,16 @@ Connection issues can happen in every online game and bother many players. The L
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-630.png)
 7. In the pop-up window, select these two options: **Obtain an IP address automatically** and **Use the following DNS server addresses** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  For the Preferred DNS server, enter 8.8.8.8 to replace the primary IP address; for the **Alternate DNS server** , enter **8.8.4.4** . Then click **OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-633.png)  
 **Note** : If you want to restore your DNS server addresses, simply change **Use the following DNS server addresses** to **Obtain DNS server address automatically** and then restart your network adapter.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 8. Reboot your PC and launch LOL. Check the connection issue is resolved or not.
 
@@ -228,18 +228,14 @@ Connection issues can happen in every online game and bother many players. The L
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-maximizing-efficiency-with-azures-audio-transcription/"><u>[New] 2024 Approved Maximizing Efficiency with Azure's Audio Transcription</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-does-artificial-engagement-damage-youtube-reputation/"><u>[New] In 2024, Does Artificial Engagement Damage YouTube Reputation?</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-iconic-acting-peek-vimeo/"><u>[Updated] Iconic Acting Peek - Vimeo</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/anker-powerdrive-speeds-up-electric-vehicle-charging-for-affordable-prices/"><u>Anker PowerDrive Speeds Up Electric Vehicle Charging for Affordable Prices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/exploring-common-causes-and-solutions-to-grand-theft-auto-v-game-crashing-issues/"><u>Exploring Common Causes and Solutions to Grand Theft Auto V Game Crashing Issues</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/getting-to-know-the-premium-p2715q-a-high-definition-marvel-for-2024/"><u>Getting to Know the Premium P2715Q A High-Definition Marvel for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-secure-free-fcp-software-for-2024/"><u>How to Secure Free FCP Software for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-streamline-your-content-strategy-with-youtube-movie-maker/"><u>In 2024, Streamline Your Content Strategy with YouTube Movie Maker</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-y100-5g-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Y100 5G has been deleted</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixes-now-available-for-far-cry-6-initial-pc-startup-issues/"><u>Resolved: Fixes Now Available for Far Cry 6 Initial PC Startup Issues</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/review-of-govee-rgbif-floormodifier-luminary-elevate-your-space-with-vibrant-colors-and-relaxing-tunes/"><u>Review of Govee RGBiF Floormodifier Luminary: Elevate Your Space with Vibrant Colors & Relaxing Tunes!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-strategy-a-comprehensive-2024-guide-to-roller-champions-multiplayer-tactics/"><u>Step-by-Step Strategy: A Comprehensive 2024 Guide to Roller Champions Multiplayer Tactics</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlocking-early-football-manager-2022-access-tackling-and-solving-launch-delays/"><u>Unlocking Early Football Manager 2022 Access: Tackling and Solving Launch Delays</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-expert-advice-capturing-and-storing-twitter-vids-on-phones/"><u>[New] 2024 Approved Expert Advice Capturing and Storing Twitter Vids on Phones</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-crafting-videos-with-precision-leveraging-storyremix-in-windows-11/"><u>[Updated] Crafting Videos with Precision Leveraging StoryRemix in Windows 11</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-innovative-approach-wearable-unlocks-your-mac-for-2024/"><u>[Updated] Innovative Approach Wearable Unlocks Your Mac for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-solutions-stop-wwe-2k20-from-crashing-on-your-pc-step-by-step-guide/"><u>Easy Solutions: Stop WWE 2K20 From Crashing on Your PC - Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-essential-guide-top-10-online-video-to-mp3-apps/"><u>In 2024, Essential Guide Top 10 Online Video to MP3 Apps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-compatibility-keep-your-dragon-age-origins-game-smooth-on-windows-11-without-any-crashes/"><u>Mastering Compatibility: Keep Your Dragon Age: Origins Game Smooth on Windows 11 Without Any Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixes-implemented-for-warzone-game-failure-to-start/"><u>Resolved: Fixes Implemented for Warzone Game Failure to Start</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-discord-glitches-for-a-smooth-streaming-experience-a-step-by-step-guide/"><u>Resolving Discord Glitches for a Smooth Streaming Experience: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/reviewing-the-dell-inspiron-3671-assessment-of-a-budget-friendly-standard-pc-unit/"><u>Reviewing the Dell Inspiron 3671: Assessment of a Budget-Friendly, Standard PC Unit</u></a></li>
 </ul></div>
 

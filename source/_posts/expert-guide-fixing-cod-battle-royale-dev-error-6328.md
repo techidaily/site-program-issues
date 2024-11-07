@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Fixing Cod Battle Royale Dev Error 6328"
-date: 2024-08-23T17:33:14.374Z
-updated: 2024-08-24T17:33:14.374Z
+date: 2024-11-04T03:56:02.949Z
+updated: 2024-11-06T22:53:19.535Z
 tags:
   - win11
   - win10
@@ -36,9 +36,6 @@ Jump ahead to the section that best suits your needs:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### **I’m having network problems**
 
  Alright, now you know it’s your network that causes the lag issues in Borderlands 3\. Go on to check out the following fixes:
@@ -77,6 +74,13 @@ To renew your IP address, you should perform the following procedure:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-137.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Click **Yes** if you’re prompted about permission.
 
 2) In your command prompt window, enter the following command:
@@ -113,17 +117,28 @@ ipconfig /flushdns
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-626.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Expand **View by:** and select **Category** . Then, click **View network status and tasks** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-627.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) In the next window, click **Change adapter settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-628.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  4) Right-click on your network and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-629.png)
@@ -132,14 +147,18 @@ ipconfig /flushdns
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-483.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
  6) In the pop-up window, select these two options: **Obtain an IP address automatically** and **Use the following DNS server addresses** .
 
  For the **Preferred DNS server** , enter **8.8.8.8**  to replace the primary IP address; for the **Alternate DNS server** , enter **8.8.4.4** . Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-484.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you want to restore your DNS server addresses, simply change **Use the following DNS server addresses** to **Obtain DNS server address automatically** and then restart your network adapter.
 
@@ -154,22 +173,33 @@ ipconfig /flushdns
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-613.png)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) In the **Resource Monitor** window, on the **Network** tab, take note of the **Total (B/sec)** column. In this way, you’ll get an intuitive view of what process is now taking up the most of your network resources.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-482.png)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) **Right-click** on the process that you want to disable and select **End Process** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-621.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) If prompted for permission, click **End process** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-508.png)
@@ -209,6 +239,13 @@ If this fix didn’t work, take a stab at the next one.
  Hopefully the 6 fixes above helped you resolve the lag issues with Borderlands 3\. Now it’s time for the next part – how to tackle “lag” issues related to low FPS.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **I’m having frame rate problems**
 
@@ -256,9 +293,6 @@ Now I’ll list three of the fixes included:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-521.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  2) Then **VISUALS** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-523.png)
@@ -267,9 +301,6 @@ Now I’ll list three of the fixes included:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-542.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) On the **ADVANCED** tab, make the following tweaks:
 
 * Graphics API: **DirectX 11**
@@ -284,9 +315,6 @@ Now I’ll list three of the fixes included:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-558.png)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5) Next up:
 
 * Shadows: **Medium/Low**
@@ -316,20 +344,21 @@ Now I’ll list three of the fixes included:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-414.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In the Borderlands 3 Properties window, on the **Compatibility** tab, select the **Disable fullscreen optimizations** check box. Then, click **Change high DPI settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-419.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  4) Check the **Override high DPI scaling behavior** box. Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-417.png)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-421.png)
@@ -346,8 +375,6 @@ Now I’ll list three of the fixes included:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -355,4 +382,19 @@ Now I’ll list three of the fixes included:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-tale-constructing-the-basic-blueprint/"><u>[New] In 2024, Tale Constructing The Basic Blueprint</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-shooting-for-beginners-best-cams-reviewed-2024-edition/"><u>[New] Shooting for Beginners Best Cams Reviewed 2024 Edition</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-key-strategies-utilizing-hashtags-in-youtube-gaming-content/"><u>[Updated] 2024 Approved Key Strategies Utilizing Hashtags in YouTube Gaming Content</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-resolving-rainbow-six-extraction-driverhardware-incompatibility-issues-easily/"><u>Guide to Resolving Rainbow Six Extraction Driver/Hardware Incompatibility Issues Easily</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-ensure-optimal-performance-downloading-new-drivers-for-your-toshiba-on-windows/"><u>How to Ensure Optimal Performance: Downloading New Drivers for Your Toshiba on Windows</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-nokia-c22-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Nokia C22 Pattern Lock Screen</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/nightscape-notables-tips-for-capturing-starlit-portraits-for-2024/"><u>Nightscape Notables Tips for Capturing Starlit Portraits for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-troubles-decoded-the-tale-of-consecutive-system-failures/"><u>PC Troubles Decoded: The Tale of Consecutive System Failures</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/subtlety-in-volume-the-ableton-way/"><u>Subtlety in Volume The Ableton Way</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-fixing-call-of-duty-warzone-pc-stability-for-a-flawless-gaming-experience-202n/"><u>Troubleshooting and Fixing Call of Duty Warzone PC Stability for a Flawless Gaming Experience (202N)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-internet-explorer-not-responding-errors/"><u>Troubleshooting Guide: Resolving 'Internet Explorer Not Responding' Errors</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-finding-the-best-synthetic-textures-to-replicate-a-paintbrushs-swipe-for-2024/"><u>Updated Finding the Best Synthetic Textures to Replicate a Paintbrushs Swipe for 2024</u></a></li>
+</ul></div>
 

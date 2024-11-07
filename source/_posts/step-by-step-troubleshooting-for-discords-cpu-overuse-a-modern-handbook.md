@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Troubleshooting for Discord's CPU Overuse - A Modern Handbook
-date: 2024-08-23T17:39:00.130Z
-updated: 2024-08-24T17:39:00.130Z
+date: 2024-10-30T22:31:40.160Z
+updated: 2024-11-06T17:58:52.888Z
 tags:
   - win11
   - win10
@@ -43,6 +43,13 @@ It’s frustrating when you experience the launching problem when playing Age of
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-25-23-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  \*If you’re playing the game on Steam, also run Steam as an administrator.
 
 **4)** Right-click**Steam icon** and select**Properties** .
@@ -61,9 +68,6 @@ It’s frustrating when you experience the launching problem when playing Age of
 
 If AoE still won’t launch, move on and try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  Often times when a game fails, the main culprit behind this is your graphics card driver. You may be using a faulty graphics driver or it’s outdated, which causes the game to crash.
@@ -87,11 +91,22 @@ If AoE still won’t launch, move on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_11-14-00-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 **4)** Restart your game to see if updating your graphics driver fixed the issue for you. If no, then go ahead with the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify the integrity of your game files
 
@@ -103,12 +118,16 @@ If AoE still won’t launch, move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-42-26.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Right-click **Age of Empires II** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-46-15.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -116,16 +135,10 @@ If AoE still won’t launch, move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-46-50.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **5)** Relaunch _AoE2_ to test your issue.
 
  If your game still won’t run correctly, then go ahead with the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Reinstall your game
 
  This issue might happen if your game isn’t properly installed on your PC. Try reinstalling it to see if that’s the issue for you. Follow the instructions below:
@@ -141,13 +154,17 @@ If AoE still won’t launch, move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-19-32.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-14-21.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Restart **your computer** .
 
 **5)** Reinstall the game on your PC, then restart the game.
@@ -160,9 +177,6 @@ If the issue continues to occur, go to the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-51-27.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Click**Age of Empires** , then**Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/01-18_10-54-08-2.jpg)
@@ -170,6 +184,13 @@ If the issue continues to occur, go to the next solution.
 **3)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-05-16-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Go back to**App& features** , select**Age of Empires** and click**Uninstall** .
 
@@ -182,8 +203,12 @@ If the issue continues to occur, go to the next solution.
 If your game still won’t load, then move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Check for Windows updates
 
  If your game won’t launch at all, it’s not likely that out-of-date Windows components are the core issue, but you should rule out the possibility. Follow the instructions below:
@@ -195,6 +220,13 @@ If your game still won’t load, then move on to the next fix below.
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-44.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Restart your computer and your game.
 
@@ -212,8 +244,6 @@ If your game still won’t load, then move on to the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -221,4 +251,23 @@ If your game still won’t load, then move on to the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-activating-or-deactivating-user-feedback-on-videos/"><u>[New] 2024 Approved Activating or Deactivating User Feedback on Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-unleash-creativity-top-8-sites-offering-free-green-screen-footage-and-backgrounds/"><u>[New] 2024 Approved Unleash Creativity Top 8 Sites Offering Free Green Screen Footage & Backgrounds</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-peek-through-the-curtain-viewers-disguised-commentaries/"><u>[Updated] Peek Through the Curtain Viewers' Disguised Commentaries</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-probing-into-verified-selfies-significance-in-modern-social-media-for-2024/"><u>[Updated] Probing Into Verified Selfies' Significance in Modern Social Media for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/affordable-security-discovering-the-remobell-reviews-and-features-for-less-than-100/"><u>Affordable Security: Discovering the RemoBell Reviews and Features for Less Than $100</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/elden-ring-release-update-why-the-long-wait/"><u>Elden Ring Release Update: Why the Long Wait?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fortnite-update-glitches-heres-how-to-tackle-the-disappearing-entry-point-dilemma/"><u>Fortnite Update Glitches? Here's How to Tackle the Disappearing Entry Point Dilemma</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-do-you-repair-the-sudden-crash-in-ring-of-elysium-solutions-explained/"><u>How Do You Repair the Sudden Crash in Ring of Elysium? Solutions Explained!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-get-elden-rings-multiplayer-mode-back-up-and-running-a-comprehensive-fix/"><u>How to Get Elden Ring's Multiplayer Mode Back Up and Running: A Comprehensive Fix</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-round-up-premium-vr-tools/"><u>In 2024, Exclusive Round-Up Premium VR Tools</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/mettre-en-forme-votre-fichier-audio-aiff-en-format-video-mp4-gratuitement-via-le-site-web-de-movavi/"><u>Mettre en Forme Votre Fichier Audio AIFF en Format Vidéo MP4 Gratuitement via Le Site Web De Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723000268251-no-sound-in-lost-ark-here-are-the-solutions-you-need/"><u>No Sound in Lost Ark? Here Are the Solutions You Need!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-call-of-duty-warzone-performance-by-activating-the-gpu-on-your-windows-11-machine/"><u>Optimizing Call of Duty: Warzone Performance by Activating the GPU on Your Windows 11 Machine</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009181263-revive-the-villainy-fix-noise-failures-in-evil-genius-2-easily/"><u>Revive the Villainy – Fix Noise Failures in 'Evil Genius 2' Easily!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723001093717-unraveling-the-mystery-behind-nier-replicant-game-freeze-error-corrected/"><u>Unraveling the Mystery Behind NieR: Replicant Game Freeze Error Corrected</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-realme-v30-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Realme V30 Auto Does Not Work | Dr.fone</u></a></li>
+</ul></div>
 

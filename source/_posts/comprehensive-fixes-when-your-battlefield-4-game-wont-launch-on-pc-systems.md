@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Fixes: When Your Battlefield 4 Game Won't Launch on PC Systems"
-date: 2024-10-30T04:13:27.302Z
-updated: 2024-10-31T18:10:58.181Z
+date: 2024-11-01T18:52:01.432Z
+updated: 2024-11-07T02:53:17.764Z
 tags:
   - win11
   - win10
@@ -62,14 +62,14 @@ thumbnail: https://thmb.techidaily.com/227cc128988b516c7d6426572fbbb71529867ec9f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/close-bandwidth-hogging-program.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re still getting a high ping and game seems laggy, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Update network driver
 
@@ -94,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/227cc128988b516c7d6426572fbbb71529867ec9f
 
  Restart your PC for the new drivers to take effect. Launch Back 4 Blood to see if the problem persists. If your ping is still high and experiences lags in game, no worries, there’s one more fix you can try.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5: Check your DNS settings
 
  Crowded or broken DNS cache could cause random connection issues. To solve the high ping problem and fix the lag spikes in Back 4 Blood, there are two things you can do:
@@ -101,6 +108,13 @@ thumbnail: https://thmb.techidaily.com/227cc128988b516c7d6426572fbbb71529867ec9f
 [1: Flush your DNS](https://tools.techidaily.com/drivereasy/download/)
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1: Flush your DNS
 
@@ -114,13 +128,6 @@ thumbnail: https://thmb.techidaily.com/227cc128988b516c7d6426572fbbb71529867ec9f
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns???.png)
 4. Your DNS cache is successfully cleared.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 ### 2: Switch to a public DNS server
@@ -131,35 +138,28 @@ thumbnail: https://thmb.techidaily.com/227cc128988b516c7d6426572fbbb71529867ec9f
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-11_15-44-44.png)
 2. Click **Change adapter options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click **the network you’re using** , then click **Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select **Internet Protocol Version 4 (TCP/IPv4)** , then click **Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -167,17 +167,17 @@ thumbnail: https://thmb.techidaily.com/227cc128988b516c7d6426572fbbb71529867ec9f
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus tip: try with a VPN
@@ -212,24 +212,21 @@ thumbnail: https://thmb.techidaily.com/227cc128988b516c7d6426572fbbb71529867ec9f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-taking-control-the-hidden-tips-and-tricks-for-power-users-of-window-11/"><u>[New] Taking Control The Hidden Tips and Tricks for Power Users of WINDOW 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-chrome-being-slow-quickly-and-easily/"><u>[SOLVED] Chrome Being Slow | Quickly & Easily!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-constant-crashing-in-age-of-empires-4-for-windows-users/"><u>How to Prevent Constant Crashing in Age of Empires 4 for Windows Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-persistent-crashing-in-the-full-edition-of-nioh-2/"><u>How to Resolve Persistent Crashing in the Full Edition of Nioh 2</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-social-syncopation-the-rhythm-of-sharing-media-on-facebook/"><u>In 2024, Social Syncopation The Rhythm of Sharing Media on Facebook</u></a></li>
-<li><a href="https://win-online.techidaily.com/mantan-tumpat-data-di-windows-11-memperbaiki-partisi-logik-dengan-bebas-penggusuran/"><u>Mantan Tumpat Data Di Windows 11: Memperbaiki Partisi Logik Dengan Bebas Penggusuran</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-the-art-of-discovering-excellent-insta-soundtracks-and-creating-stellar-call-alerts/"><u>Mastering the Art of Discovering Excellent Insta Soundtracks & Creating Stellar Call Alerts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-fix-for-granblue-fantasys-launch-errors-the-relink-solution/"><u>Mastering the Fix for Granblue Fantasy's Launch Errors: The ReLink Solution</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maximize-your-play-fixing-lag-and-smoothness-problems-in-splitgate/"><u>Maximize Your Play: Fixing Lag and Smoothness Problems in Splitgate</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-game-crashes-in-death-stranding-optimized-settings-for-a-perfect-gaming-session/"><u>Overcome Game Crashes in Death Stranding: Optimized Settings for a Perfect Gaming Session</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-the-non-responsive-ctrl-issue-in-windows-11/"><u>Overcoming the Non-Responsive Ctrl Issue in Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-puzzle-detailed-guide-to-open-davinci-resolve-when-windows-gives-you-trouble/"><u>Solving the Puzzle: Detailed Guide to Open DaVinci Resolve When Windows Gives You Trouble</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/speeding-up-hr-operations-with-gpt-prompts/"><u>Speeding Up HR Operations with GPT Prompts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-beginners-guide-to-changing-dall-e-3-visuals-into-common-jpeg-and-png-files/"><u>The Beginner's Guide to Changing DALL-E 3 Visuals Into Common JPEG and PNG Files</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-10-tips-for-eliminating-lag-in-call-of-duty-black-ops-cold-war/"><u>Top 10 Tips for Eliminating Lag in Call of Duty: Black Ops Cold War</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-gpus-for-4k-edit-and-render/"><u>Top GPUs for 4K Edit & Render</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-repairing-a-nonworking-laptop-mic-completed/"><u>Troubleshooting and Repairing a Nonworking Laptop Mic [COMPLETED]</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-overcoming-the-application-couldnt-start-correctly-hurdle-in-adobe-software/"><u>Troubleshooting Tips: Overcoming the 'Application Couldn't Start Correctly' Hurdle in Adobe Software</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-top-rated-green-screen-software-for-android-and-ios-free-download/"><u>Updated Top-Rated Green Screen Software for Android and iOS (Free Download)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/a-comprehensive-guide-to-resolving-minecraft-black-screen-issues-2024-update/"><u>A Comprehensive Guide to Resolving Minecraft Black Screen Issues: 2024 Update</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-saber-freezing-woes-heres-how-to-keep-your-game-running-smoothly/"><u>Beat Saber Freezing Woes? Here's How to Keep Your Game Running Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-launch-errors-in-hogwarts-legacy-expert-tips-to-get-the-game-running-smoothly/"><u>Common Launch Errors in Hogwarts Legacy: Expert Tips to Get the Game Running Smoothly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-now-batman-arkham-knights-sudden-system-shutdowns-and-serious-bugs/"><u>Fix Now! Batman Arkham Knight's Sudden System Shutdowns and Serious Bugs</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fortnite-gameplay-blocked-how-to-fix-the-you-lack-authorization-mistake/"><u>Fortnite Gameplay Blocked? How to Fix the 'You Lack Authorization' Mistake</u></a></li>
+<li><a href="https://windows11.techidaily.com/guide-to-mute-chrome-prompts-on-windows/"><u>Guide to Mute Chrome Prompts on Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Poco X5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-rapid-assembly-of-google-image-mosaics/"><u>In 2024, Rapid Assembly of Google Image Mosaics</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-turning-product-analysis-into-income-via-video-platforms/"><u>In 2024, Turning Product Analysis Into Income via Video Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-genshin-impact-launch-errors-with-these-simple-fixes/"><u>Overcome Genshin Impact Launch Errors with These Simple Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-terraria-connections-errors-with-these-proven-techniques/"><u>Overcoming Terraria Connections Errors with These Proven Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-steps-to-prevent-your-game-of-phoenix-point-from-crashing/"><u>Resolved! Steps To Prevent Your Game of Phoenix Point From Crashing</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-overcoming-the-windows-11-update-issue-with-error-code-0xc1900208-fixed/"><u>Step-by-Step Tutorial: Overcoming the Windows 11 Update Issue with Error Code 0xC1900208 [FIXED]</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209873242-9780692143872-the-seres-agenda/"><u>The Seres Agenda | Free Book</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-twitch-streaming-tips-unraveling-the-mysteries-of-chat-for-beginners/"><u>Top Twitch Streaming Tips: Unraveling the Mysteries of Chat for Beginners</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-best-video-translator-app-for-pc-cannot-miss/"><u>Updated Best Video Translator App for PC Cannot Miss</u></a></li>
 </ul></div>
 

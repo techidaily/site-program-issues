@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Your Oculus Link's Black Screen with These 6 Tips
-date: 2024-08-23T17:31:38.521Z
-updated: 2024-08-24T17:31:38.521Z
+date: 2024-11-05T19:32:57.596Z
+updated: 2024-11-07T02:17:23.640Z
 tags:
   - win11
   - win10
@@ -40,17 +40,27 @@ If you encounter Oculus Link black screen / not working when you’re launching 
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After the repair completes, test if Oculus Link is back on track. If not, move on to the second fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ### Fix 2 – Update your device drivers
 
  The Oculus Link black screen or not working issue can also be driver-related, especially if your graphics driver and USB driver are incompatible, faulty or outdated. Your Oculus devices also require specific drivers. So, to keep your Oculus device in tip-top condition and boost the performance of your VR games, you should update the drivers regularly.
@@ -65,11 +75,22 @@ There are mainly two ways you can update the driver:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-driver-de-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -90,9 +111,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  Check whether Oculus Link works properly with your VR rig or not. If not, proceed to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### Fix 4 – Disable in-game overlay
 
  More often than not, disabling the in-game overlay feature can make your games or programs run more smoothly. So you could also give it a shot. Below we’ll show you how to do this specifically on GeForce Experience.
@@ -101,14 +119,18 @@ DbSchema database designer for all databases, schema design in the team, schema 
 2. Click the**cogwheel icon** at the upper right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/7-1-1-1.jpg)
 3. Turn off**In-game overlay** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/0-00-1.jpg)
 
  Restart Oculus Link and your VR devices to see if the problem goes away. Still no luck? Don’t worry; there are two more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### Fix 5 – Opt out of Public Test Channel
 
  According to[Oculus official support](https://support.oculus.com/200468603765391/) , Oculus Link may not work as intended if you enroll in Public Test Channel. That means you will be testing a beta version of the Oculus software which is possibly unreliable and more likely to run into the black screen issue.
@@ -121,7 +143,21 @@ It’s suggested you opt out of the Beta mode and here’s how:
 3. **Toggle off** the button next to Public Test Channel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/beta-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Test if Oculus Link returns to the normal state. If not, continue to the next troubleshooting tips.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6 – Use the dedicated graphics card
 
@@ -130,19 +166,10 @@ It’s suggested you opt out of the Beta mode and here’s how:
 1. Right-click any empty space on your desktop and select**NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-3-1.jpg)
 2. On the left pane, select**3D settings** \>**Manage 3D settings** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-4.jpg)
 3. Go to the**Program Settings** tab. Then, select your Oculus app from the drop-down list and choose**High-performance NVIDIA processor** below.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  For users who have an AMD dedicated graphics card, here is a guide on[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017) .
 
 Restart Oculus Link and see how it works.
@@ -160,8 +187,6 @@ Restart Oculus Link and see how it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +194,20 @@ Restart Oculus Link and see how it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ballot-box-battles-prime-voting-challenge-platforms/"><u>[New] 2024 Approved Ballot Box Battles Prime Voting Challenge Platforms</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-clickbait-crafting-secrets-to-facebooks-favorites/"><u>[New] 2024 Approved Clickbait Crafting Secrets to Facebook's Favorites</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-tap-into-the-latest-gaming-and-app-splash-of-win11/"><u>[New] 2024 Approved Tap Into the Latest Gaming and App Splash of Win11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unleash-creative-fb-ad-videos-access-free-video-tools-now/"><u>[New] Unleash Creative FB Ad Videos - Access FREE Video Tools Now</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-virtual-battlegrounds-a-million-moments-in-gaming/"><u>[New] Virtual Battlegrounds A Million Moments in Gaming</u></a></li>
+<li><a href="https://driver-download.techidaily.com/achieve-next-level-gaming-on-gtx-1660-ti-by-updating-drivers-for-peak-performance/"><u>Achieve Next-Level Gaming on GTX ^1660 Ti by Updating Drivers for Peak Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-your-dota-2-gameplay-by-resolving-fps-drop-problems-on-windows-11-and-10/"><u>Boost Your Dota 2 Gameplay by Resolving FPS Drop Problems on Windows 11 and 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723011631123-hell-let-loose-continuous-crashes-on-desktop-heres-the-solution/"><u>Hell Let Loose Continuous Crashes on Desktop? Here's the Solution!</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-samsung-galaxy-s23-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Samsung Galaxy S23 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-art-of-like-a-dragon-ultimate-guide-to-infinite-riches-in-pc-edition/"><u>Mastering the Art of 'Like A Dragon': Ultimate Guide to Infinite Riches in PC Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-exposure-sharing-your-chatgpt-dialogue-results-on-the-web/"><u>Maximizing Exposure: Sharing Your ChatGPT Dialogue Results on the Web</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/prime-video-drops-feature-why-you-cant-host-or-join-watch-parties-now/"><u>Prime Video Drops Feature: Why You Can't Host or Join Watch Parties Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-the-tw-three-kingdoms-game-crash-problem/"><u>Resolved: Troubleshooting the TW: Three Kingdoms Game Crash Problem</u></a></li>
+</ul></div>
 

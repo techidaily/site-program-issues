@@ -1,7 +1,7 @@
 ---
 title: "'KOF XV on PC': How to Enjoy Seamless Gameplay After Fixing the Notorious Bugs"
-date: 2024-10-28T16:48:21.240Z
-updated: 2024-10-31T19:38:12.175Z
+date: 2024-11-01T22:27:41.042Z
+updated: 2024-11-07T04:05:48.910Z
 tags:
   - win11
   - win10
@@ -38,13 +38,6 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 ![Verify the game files in Epic Games launcher](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 3. Launch the game after the verifying process completed to see if it would crash again. If the game still crashes, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Update graphics driver
 
  The broken or outdated graphics driver may also be the main culprit behind the game crashing issues.
@@ -56,10 +49,10 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 There’re mainly two ways you can update your graphics drivers:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 1: Manually
@@ -78,19 +71,6 @@ There’re mainly two ways you can update your graphics drivers:
 
 Or
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 2: Automatically (Recommended)
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -108,6 +88,13 @@ Or
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
@@ -119,13 +106,6 @@ Or
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Install the latest game patch
 
  The game developers release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -133,6 +113,13 @@ Or
  If a patch is available, it will be detected by Epic Games launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch A Total War Saga: Troy to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Install the latest DirectX files
 
@@ -142,13 +129,6 @@ Or
 2. Click the Download button to start the download.  
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your computer and launch the game.
 
@@ -173,9 +153,30 @@ Or
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to invoke the Run dialog. Type**appwiz.cpl** and press**Enter** to open the Programs and Features window in Control Panel.  
 ![Open Programs and Features window in Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/03/Open-Programs-and-Features-window-in-Control-Panel.jpg)
 2. **Right-click** on**Epics Games launcher** and select**Repair** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![how to repair Epics Games launcher](https://images.drivereasy.com/wp-content/uploads/2021/03/how-to-repair-Epics-Games-launcher.jpg)
 
  After Windows repaired Epics Games launcher, launch A Total War Saga: Troy to see if it will crash. If it still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 7: Add A Total War Saga: Troy to the exceptions list of your 3rd party antivirus software
 
@@ -210,22 +211,18 @@ Or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-google-docs-transcription-your-complete-manual/"><u>[New] Unlocking Google Docs Transcription Your Complete Manual</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-io-screen-recorder-user-manual-overview/"><u>[Updated] IO Screen Recorder User Manual Overview</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-perfect-your-story-a-roundup-of-best-editing-apps/"><u>2024 Approved Perfect Your Story A Roundup of Best Editing Apps</u></a></li>
-<li><a href="https://driver-install.techidaily.com/efficient-canon-4770n-print-driver-on-windows/"><u>Efficient Canon 4770N Print Driver on Windows</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ensuring-uninterrupted-fun-with-the-mass-effect-trilogy-expert-fixes-to-prevent-game-crash-on-pc-and-xbox-devices/"><u>Ensuring Uninterrupted Fun with the Mass Effect Trilogy: Expert Fixes to Prevent Game Crash on PC & Xbox Devices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fast-track-your-wow-playtime-banish-lagging-for-good/"><u>Fast Track Your WoW Playtime - Banish Lagging for Good!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-xbox-and-pc-issues-resolving-call-of-duty-warzone-memory-error-code-0-1766/"><u>Fix Xbox and PC Issues: Resolving Call of Duty Warzone Memory Error Code 0-1766</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/from-memory-to-moments-share-images-seamlessly-today/"><u>From Memory to Moments Share Images Seamlessly Today</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/full-explainer-leveraging-google-docs-for-audio-to-text-conversion-for-2024/"><u>Full Explainer Leveraging Google Docs for Audio to Text Conversion for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/-screen-capture-device-for-effective-video-sharing-for-2024/"><u>Ideal Screen Capture Device for Effective Video Sharing for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722993746834-join-deacon-st-john-for-an-unforgettable-post-apocalyptic-journey-days-gone-arrives-on-pc/"><u>Join Deacon St. John for an Unforgettable Post-Apocalyptic Journey - 'Days Gone' Arrives on PC</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-free-wmv-video-stitching-software-our-top-5-recommendations/"><u>New Free WMV Video Stitching Software Our Top 5 Recommendations</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-performance-in-bless-unleashed-strategies-for-overcoming-high-ping-on-pc-setups/"><u>Optimizing Performance in Bless Unleashed: Strategies for Overcoming High Ping on PC Setups</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pathfinder-wrath-of-the-righteous-how-to-stop-game-crashes-for-good/"><u>Pathfinder: Wrath of the Righteous - How to Stop Game Crashes for Good</u></a></li>
-<li><a href="https://win11.techidaily.com/remedying-java-installer-problems-on-a-windows-pc/"><u>Remedying Java Installer Problems on a Windows PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-steps-when-discord-fails-to-launch/"><u>Resolved: Troubleshooting Steps When Discord Fails to Launch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-connectivity-issues-in-kodi-restoring-directory-access-guide/"><u>Troubleshooting Steps for Connectivity Issues in Kodi - Restoring Directory Access [Guide]</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-perfect-meeting-aesthetics-how-to-blur-video-backgrounds-for-2024/"><u>[Updated] Perfect Meeting Aesthetics How to Blur Video Backgrounds for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/accelerated-approaches-to-transferring-iphone-files-to-computer/"><u>Accelerated Approaches to Transferring iPhone Files to Computer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/best-free-software-top-3-downloads-of-dvd-ripper-apps-for-windows-10-and-11-no-cost/"><u>Best Free Software: Top 3 Downloads of DVD Ripper Apps for Windows 10 & 11 (No Cost)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeat-game-lag-expert-solutions-to-cure-your-alan-wake-ii-crashes/"><u>Defeat Game Lag - Expert Solutions to Cure Your Alan Wake II Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/elevate-performance-top-strategies-for-improving-fallout-76-fps-scores-this-year/"><u>Elevate Performance: Top Strategies for Improving Fallout 76 FPS Scores This Year</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723010893129-fixing-not-responding-errors-in-madden-22-simple-steps-to-success/"><u>Fixing 'Not Responding' Errors in Madden 22 – Simple Steps to Success!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-troubleshooting-your-google-meet-webcam/"><u>Fixing the Issue: Troubleshooting Your Google Meet Webcam</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-realme-gt-3-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Realme GT 3 PC | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-compatibility-challenges-installing-minecraft-on-windows-11-explained/"><u>Overcoming Compatibility Challenges: Installing Minecraft on Windows 11 Explained</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-game-crashes-heres-your-ultimate-troubleshooting-guide/"><u>PC Game Crashes ? Here's Your Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-for-installing-a-racing-steering-wheel-into-your-computer-setup/"><u>Step-by-Step Instructions for Installing a Racing Steering Wheel Into Your Computer Setup</u></a></li>
+<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-vivo-v30-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/top-10-sites-for-vector-graphics-collection-for-2024/"><u>Top 10 Sites for Vector Graphics Collection for 2024</u></a></li>
 </ul></div>
 

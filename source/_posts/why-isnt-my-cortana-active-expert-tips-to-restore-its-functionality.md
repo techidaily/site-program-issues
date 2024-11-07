@@ -1,7 +1,7 @@
 ---
 title: Why Isn't My Cortana Active? Expert Tips to Restore Its Functionality
-date: 2024-10-24T22:34:16.839Z
-updated: 2024-10-31T18:18:18.005Z
+date: 2024-11-01T23:40:27.537Z
+updated: 2024-11-06T21:45:33.973Z
 tags:
   - win11
   - win10
@@ -29,16 +29,16 @@ thumbnail: https://thmb.techidaily.com/2e9cfa327b9759eb425968540a827a94cde4fe4ea
 4. [Update your Microphone driver and audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 1: Reboot your Windows 10 PC
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 2: Check your region and language settings
 
@@ -52,6 +52,13 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Region & language.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
@@ -61,13 +68,6 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
 5) Try Cortana again to see if it works.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Make sure your Windows 10 system is up-to-date
 
@@ -86,10 +86,10 @@ Check your region and language settings on your computer:
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
@@ -113,10 +113,10 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
@@ -124,13 +124,6 @@ Check your region and language settings on your computer:
 Or click  **Update All** to automatically download and install the correct version of  _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Reboot your Windows 10 and try Cortana again to see if it works.
 
@@ -142,20 +135,33 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Try Cortana again to see if it works.
 
@@ -177,20 +183,17 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-disseminate-vimeo-videos-widely/"><u>[Updated] Disseminate Vimeo Videos Widely</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-guide-to-scrolling-through-youtube-comment-threads/"><u>[Updated] Guide to Scrolling Through YouTube Comment Threads</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-watchnetflix-screenshare-master-screenrecording-on-macos/"><u>[Updated] In 2024, WatchNetflix, Screenshare Master ScreenRecording on MacOS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/5-key-techniques-to-leverage-chatgpt-as-your-dream-rpg-game-master/"><u>5 Key Techniques to Leverage ChatGPT as Your Dream RPG Game Master</u></a></li>
-<li><a href="https://fox-links.techidaily.com/action-camera-face-off-comparing-pro-3-models-on-market/"><u>Action Camera Face-Off Comparing Pro 3 Models on Market</u></a></li>
-<li><a href="https://win-latest.techidaily.com/como-duplicar-el-almacenamiento-de-tu-portatil-dell-clonacion-del-disco-duro-sin-perder-su-sistema-operativo-actual/"><u>Cómo Duplicar El Almacenamiento De Tu Portátil Dell: Clonación Del Disco Duro Sin Perder Su Sistema Operativo Actual</u></a></li>
-<li><a href="https://program-issues.techidaily.com/destiny-2s-ultimate-broccoli-crash-patch-of-2024-a-detailed-analysis/"><u>Destiny 2'S Ultimate Broccoli Crash Patch of 2024: A Detailed Analysis</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-ensuring-smooth-performance-for-full-version-of-horizon-forbidden-west/"><u>Expert Advice: Ensuring Smooth Performance for Full Version of 'Horizon Forbidden West'</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-for-repairing-non-functional-voice-chat-due-to-content-warnings/"><u>Expert Tips for Repairing Non-Functional Voice Chat Due to Content Warnings</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-gmail-password-on-motorola-razr-40-ultra-devices-by-drfone-android/"><u>How to Reset Gmail Password on Motorola Razr 40 Ultra Devices</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-xiaomi-redmi-note-12-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Xiaomi Redmi Note 12 5G to iPad | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimize-and-streamline-fixing-rainbow-six-sieges-performance-hiccups/"><u>Optimize and Streamline: Fixing Rainbow Six Siege's Performance Hiccups</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-performance-for-smoother-play-solutions-for-fps-issues-and-stuttering-in-valorant/"><u>Optimizing Performance for Smoother Play - Solutions for FPS Issues & Stuttering in Valorant</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722994543080-scavenger-race-victory-guide-master-your-match-on-pc/"><u>Scavenger Race Victory Guide - Master Your Match on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlocking-the-secrets-of-like-a-dragon-achieve-unlimited-prosperity-on-your-pc/"><u>Unlocking the Secrets of 'Like A Dragon': Achieve Unlimited Prosperity on Your PC</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-fixing-failed-video-uploads-on-facebook-live-features/"><u>[New] Fixing Failed Video Uploads on Facebook Live Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-techniques-for-fascinating-vlog-dialogue-structure/"><u>[New] Techniques for Fascinating Vlog Dialogue Structure</u></a></li>
+<li><a href="https://program-issues.techidaily.com/compression-utilize-elastic-bandages-or-compression-wraps-to-apply-gentle-pressure-around-the-injured-area-this-can-help-control-swelling-and-provide-suppor440/"><u>Compression: Utilize Elastic Bandages or Compression Wraps to Apply Gentle Pressure Around the Injured Area. This Can Help Control Swelling and Provide Support</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-stutter-issues-in-fallout-4-a-complete-guide/"><u>Fixing Stutter Issues in Fallout 4 - A Complete Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-amd-radeon-drivers-on-your-windows-machine-free-download/"><u>How to Install AMD Radeon Drivers on Your Windows Machine: Free Download</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-finding-the-perfect-countdown-timer-for-your-wedding-ceremony/"><u>In 2024, Finding the Perfect Countdown Timer for Your Wedding Ceremony</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-t2x-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo T2x 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/nailing-down-the-solution-your-definitive-guide-to-fixing-steam-error-code-130/"><u>Nailing Down the Solution: Your Definitive Guide to Fixing Steam Error Code 130</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-struggles-a-guide-to-fixing-red-dead-redemption-2s-initial-launch-problems/"><u>No More Struggles: A Guide to Fixing Red Dead Redemption 2'S Initial Launch Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-tutorial-on-bulk-transformation-of-m2p-footage-to-high-quality-mp4-files/"><u>Step-by-Step Tutorial on Bulk Transformation of M2P Footage to High-Quality MP4 Files</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-j5-tactical-pro-flashlight-v1-reviewed-unmatched-resilience-in-a-compact-package/"><u>The J5 Tactical Pro Flashlight (V1) Reviewed: Unmatched Resilience in a Compact Package</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-oculus-links-dark-dilemma-in-just-six-steps/"><u>Troubleshoot Oculus Link's Dark Dilemma in Just Six Steps</u></a></li>
 </ul></div>
 

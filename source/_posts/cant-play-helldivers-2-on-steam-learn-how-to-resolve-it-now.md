@@ -1,7 +1,7 @@
 ---
 title: Can't Play Helldivers 2 on Steam? Learn How to Resolve It Now
-date: 2024-10-24T23:28:15.798Z
-updated: 2024-11-01T01:14:44.841Z
+date: 2024-10-31T02:03:45.916Z
+updated: 2024-11-06T20:25:28.342Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 2. **[Update your network adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Adjust your proxy settings
 
  In most cases, Error 130 happens when your browser fails to connect to the internet because of improper proxy configuration. To fix it, follow the instructions below:
@@ -47,16 +54,16 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-363.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Restart your computer and Steam to test your issue.
 
  If none of the boxes is checked, or if you still get the error code 130, then go ahead with the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your network adapter driver
 
@@ -90,6 +97,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-113.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-364.png)
@@ -107,10 +121,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
@@ -129,13 +143,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
@@ -143,6 +150,14 @@ OR
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
+
+ **8)[Download](https://store.steampowered.com/about/)**  Steam.
+
+**9)** Open the downloaded file and install Steam.
+
+**10)** Right-click the **Steam icon**  and select **Open file location** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
 
 <!-- affiliate ads begin -->
 <span id="1160850">
@@ -157,30 +172,15 @@ OR
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
- **8)[Download](https://store.steampowered.com/about/)**  Steam.
-
-**9)** Open the downloaded file and install Steam.
-
-**10)** Right-click the **Steam icon**  and select **Open file location** .
-
-![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **12)**  Relaunch your Steam to test your issue.
@@ -209,22 +209,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-rapid-reactivities-leading-fast-paced-titles-on-pc-and-tablet/"><u>2024 Approved Rapid Reactivities Leading Fast-Paced Titles on PC & Tablet</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/a-mini-computer-revolution-in-your-hands-discovering-the-raspberry-pi-400/"><u>A Mini Computer Revolution in Your Hands - Discovering the Raspberry Pi 400</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boost-your-battles-in-league-of-legends-fix-that-frustrating-fps-slowdown-now/"><u>Boost Your Battles in League of Legends - Fix That Frustrating FPS Slowdown Now</u></a></li>
-<li><a href="https://program-issues.techidaily.com/darkest-dungeon-2-pc-stability-issues-solutions-to-stop-the-game-from-crashing/"><u>Darkest Dungeon 2 PC Stability Issues - Solutions to Stop the Game From Crashing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-0x80004005-deciphered-ultimate-troubleshooting-steps-and-solutions/"><u>Error 0X80004005 Deciphered: Ultimate Troubleshooting Steps and Solutions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-find-and-install-the-best-sound-card-drivers-on-your-windows-machine/"><u>How to Find and Install the Best Sound Card Drivers on Your Windows Machine</u></a></li>
-<li><a href="https://program-issues.techidaily.com/improving-call-of-dutys-modern-warfare-3-performance-fixes-for-fps-stuttering/"><u>Improving Call of Duty's Modern Warfare 3 Performance - Fixes for FPS Stuttering</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-bridging-the-gap-between-youtube-and-instagram-stories-effectively/"><u>In 2024, Bridging the Gap Between YouTube & Instagram Stories Effectively</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722997721730-phoenix-point-crash-problems-heres-how-you-can-resolve-them-successfully/"><u>Phoenix Point Crash Problems? Here's How You Can Resolve Them Successfully</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-how-to-stop-recurring-freezes-during-your-overwatch-matches/"><u>Solved: How To Stop Recurring Freezes During Your Overwatch Matches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-lost-ark-server-connection-issues-effective-strategies-inside/"><u>Solving 'Lost Ark' Server Connection Issues - Effective Strategies Inside!</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210595639-9780645178050-the-path/"><u>The Path | Free Book</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723002352605-try-simple-recipes-that-require-minimal-preparation-especially-on-busy-days-from-work/"><u>Try Simple Recipes that Require Minimal Preparation, Especially on Busy Days From Work</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-endless-fun-top-10-free-online-video-loop-generators/"><u>Updated 2024 Approved Endless Fun Top 10 Free Online Video Loop Generators</u></a></li>
-<li><a href="https://program-issues.techidaily.com/windows-pc-gamers-guide-lowering-valheim-lag-and-improving-connection/"><u>Windows PC Gamers' Guide: Lowering Valheim Lag and Improving Connection</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-how-to-share-a-youtube-playlist/"><u>[New] 2024 Approved How To Share A YouTube Playlist</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-from-flat-to-fantastic-animated-text-transformations/"><u>[New] In 2024, From Flat to Fantastic Animated Text Transformations</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-max-360-or-hero-11-a-comparative-look-at-gopro-cameras-footage-for-2024/"><u>[New] Max 360 or Hero 11? A Comparative Look at GoPro Cameras' Footage for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-plex-vs-studio-prodigies/"><u>[New] Plex vs Studio Prodigies</u></a></li>
+<li><a href="https://win-web.techidaily.com/4-teknik-terbaik-untuk-menghentikan-dan-menghapus-data-permanen-dalam-windows-10/"><u>4 Teknik Terbaik Untuk Menghentikan Dan Menghapus Data Permanen Dalam Windows 10</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/antenna-showcase-how-the-antop-at-127-delivers-free-television-in-a-stylish-package/"><u>Antenna Showcase - How the Antop AT-127 Delivers FREE Television in a Stylish Package</u></a></li>
+<li><a href="https://program-issues.techidaily.com/avoiding-frustration-in-wwe-2k20-play-effective-fixes-for-preventing-pc-game-crashes/"><u>Avoiding Frustration in WWE 2K20 Play: Effective Fixes for Preventing PC Game Crashes</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/brief-overview-of-the-quickest-chroma-key-tricks/"><u>Brief Overview of the Quickest Chroma Key Tricks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-fixing-obscured-content-on-youtube-platform/"><u>In 2024, Fixing Obscured Content on YouTube Platform</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-motorola-moto-g-5g-2023-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Motorola Moto G 5G (2023) To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/instantaneous-guide-effortless-shader-tuning-for-star-wars-battlefront-ii/"><u>Instantaneous Guide: Effortless Shader Tuning for Star Wars Battlefront II</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-play-how-to-enhance-avatar-frontiers-of-pandora-load-times/"><u>Optimizing Play: How to Enhance Avatar: Frontiers of Pandora Load Times</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-effective-solutions-to-lower-lag-time-in-back-4-blood/"><u>Resolved: Effective Solutions to Lower Lag Time in 'Back 4 Blood'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-found-fixing-the-persistent-screen-shimmer-problem/"><u>Solution Found: Fixing the Persistent Screen Shimmer Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-resolving-house-flipper-2-pc-freezing-issues/"><u>Troubleshooting Steps: Resolving 'House Flipper 2' PC Freezing Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-solve-stuttering-and-boost-frame-rate-in-naraka-bladepoint/"><u>Ultimate Guide to Solve Stuttering & Boost Frame Rate in Naraka: Bladepoint</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-create-a-standout-video-resume-4-best-tools-with-free-templates/"><u>Updated Create a Standout Video Resume 4 Best Tools with Free Templates</u></a></li>
+<li><a href="https://program-issues.techidaily.com/what-to-do-when-your-game-of-the-year-football-manager-2023-doesnt-start-up/"><u>What to Do When Your Game of the Year, Football Manager 2023, Doesn’t Start Up</u></a></li>
+<li><a href="https://program-issues.techidaily.com/witcher-3-startup-issues-comprehensive-tips-for-a-successful-game-launch/"><u>Witcher 3 Startup Issues? Comprehensive Tips for a Successful Game Launch</u></a></li>
 </ul></div>
 

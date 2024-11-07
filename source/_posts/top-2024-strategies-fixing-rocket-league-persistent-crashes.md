@@ -1,7 +1,7 @@
 ---
 title: "Top 2024 Strategies: Fixing 'Rocket League' Persistent Crashes"
-date: 2024-10-26T07:56:27.779Z
-updated: 2024-11-01T04:28:05.296Z
+date: 2024-11-05T03:53:06.425Z
+updated: 2024-11-07T02:52:10.402Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Check your Internet connection
 
  The first thing you can do is to make sure your Internet connection is valid and able to connect to Apex Legends servers. A few things you can look for to check your Internet connection go as below:
@@ -50,6 +43,13 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 * If you have low-speed Internet, it could lead to an unstable Internet connection. You can google “Internet speed test” and pick a tool to**test your Internet speed** . However, when your Internet connection is unreasonably slow, consider contacting your Internet provider for help.
 
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Install all the game updates
 
@@ -67,25 +67,18 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
@@ -94,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
@@ -118,18 +104,18 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
 
@@ -141,8 +127,22 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/exit-game.png)
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -167,20 +167,14 @@ thumbnail: https://thmb.techidaily.com/83c5660b04b63555c35a3b29a7e2fd7ac8060798e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-feast-your-eyes-on-9-whole-film-winter-wonders-no-charge/"><u>[Updated] 2024 Approved Feast Your Eyes on 9 Whole-Film Winter Wonders No Charge</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-best-text-effects-of-psd/"><u>[Updated] Best Text Effects of PSD</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-command-the-stage-of-youtube-with-studio-skills/"><u>[Updated] In 2024, Command the Stage of YouTube with Studio Skills</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-code-vein-pc-crashes-ultimate-guide/"><u>Fixing 'Code Vein' PC Crashes: Ultimate Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-repair-the-infamous-goose-and-duck-bug-on-your-computer-gaming-experience/"><u>How to Repair the Infamous 'Goose and Duck' Bug on Your Computer Gaming Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/identifying-and-correcting-issues-preventing-the-launch-of-your-farming-simulator-2022/"><u>Identifying & Correcting Issues Preventing the Launch of Your Farming Simulator 2022</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-seamless-video-and-photo-upload-from-pc-to-iphone/"><u>In 2024, Seamless Video & Photo Upload From PC to iPhone</u></a></li>
-<li><a href="https://facebook.techidaily.com/is-facebook-down-how-to-find-out-and-see-when-its-back-up/"><u>Is Facebook Down? How to Find Out and See When It's Back Up</u></a></li>
-<li><a href="https://program-issues.techidaily.com/rainbow-six-siege-2024-a-sneak-peek-at-the-exciting-new-features-and-balance-changes/"><u>Rainbow Six Siege 2024 - A Sneak Peek at the Exciting New Features and Balance Changes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/reviving-your-hp-displays-effective-solutions-for-when-they-stop-working/"><u>Reviving Your HP Displays: Effective Solutions for When They Stop Working</u></a></li>
-<li><a href="https://games-able.techidaily.com/sleekgear-monitor-bargain-gaming-led/"><u>SleekGear Monitor - Bargain Gaming LED</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-troubleshooting-lag-and-stutter-in-half-life-alyx-pc-fixes/"><u>Solved: Troubleshooting Lag & Stutter in Half-Life: Alyx - PC Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-fixed-how-to-prevent-persistent-crashing-in-insurgency-sandstorm/"><u>Troubleshooting Fixed: How to Prevent Persistent Crashing in Insurgency: Sandstorm</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-ultimate-chromebook-video-editors-guide-using-windows-and-mac-apps/"><u>Updated 2024 Approved The Ultimate Chromebook Video Editors Guide Using Windows and Mac Apps</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-and-nvidia-geforce-in-harmony-found/"><u>Windows & NVidia GeForce in Harmony Found</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-unlock-virtual-worlds-top-10-pc-games-for-ultimate-vr-experience/"><u>[New] 2024 Approved Unlock Virtual Worlds Top 10 PC Games for Ultimate VR Experience</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-top-ranked-spots-for-boosting-youtube-videos-for-2024/"><u>[New] Top-Ranked Spots for Boosting YouTube Videos for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/battle-of-timepieces-how-the-new-pixel-watch-compares-to-samsungs-galaxy-watch-5-pro-engadget/"><u>Battle of Timepieces: How the New Pixel Watch Compares to Samsung's Galaxy Watch 5 Pro | Engadget</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-crash-blues-masterful-tips-to-prevent-subnautica-below-zero-breaks-on-desktop-computers/"><u>Beat the Crash Blues: Masterful Tips to Prevent Subnautica: Below Zero Breaks on Desktop Computers</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Plus?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-facetune-guide-elevating-your-image-quality/"><u>In 2024, Ultimate Facetune Guide Elevating Your Image Quality</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-call-of-duty-warzone-memory-error-0-1766-on-xbox-and-pc-efficiently/"><u>Resolve Call of Duty: Warzone 'Memory Error 0-1766' On Xbox and PC Efficiently</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-error-887a0005-in-call-of-duty-black-ops-cold-war/"><u>Resolving the 'Error: 887A0005' In Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://program-issues.techidaily.com/winning-against-launch-glitches-in-pathfinder-wrath-of-the-righteeous-expert-tips-and-tricks/"><u>Winning Against Launch Glitches in Pathfinder: Wrath of the Righteeous - Expert Tips and Tricks</u></a></li>
 </ul></div>
 

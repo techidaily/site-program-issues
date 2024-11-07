@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Microsoft Edge .NET Framework Fault: Your Complete Guide"
-date: 2024-10-28T01:30:49.199Z
-updated: 2024-10-31T18:31:55.832Z
+date: 2024-11-06T02:27:59.263Z
+updated: 2024-11-06T18:04:56.783Z
 tags:
   - win11
   - win10
@@ -59,30 +59,70 @@ _Image source: battle.net_
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-2.jpg)
 4. Scroll down and check if Battle.net is on the list. If it isn’t, proceed to add it to the exception list.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Click on the**Change settings** button.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-3.jpg)
 6. Click**Allow another app…** .  
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-4.jpg)
 7. Click**Browse…** and go to the installation folder.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-5.jpg)  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you have no idea of where the installation folder is, simply right-click on the shortcut and select**Open file location** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-find-out-where-Battle.net-is-installed.jpg)
 8. Find**Battle.net.exe** and click on it. Then click**Open** .  
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-6.jpg)
 9. When it’s located, click**Add** .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-7.jpg)
 10. Now make sure Battle.net is added to the list and tick**Domain** ,**Private** , and**Public** . Once you’re done, click**OK** .  
@@ -90,13 +130,6 @@ _Image source: battle.net_
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-8.jpg)
 
 Now open Battle.net. If it isn’t opening, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Close conflicting programs running in the background
 
@@ -125,13 +158,6 @@ Now open Battle.net. If it isn’t opening, try the next fix below.
 
  After you’ve finished the process, restart your PC and try to launch the agent. If it still fails to open properly, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Update your drivers
 
  Each piece of hardware on your system, be it your video card, sound card or others, has its own specific driver, which ensures that different hardware components can work smoothly on your system. However, these hardware drivers are susceptible to corruption. When that happens, your PC performance would suffer and some programs may fail to work properly as expected. In this situation, you should attempt to update your drivers.
@@ -148,21 +174,7 @@ You can update your drivers via the Device Manager:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/how-to-open-the-Device-Manager-Run-Command）.png)
 3. Click on the**arrow >** to expand the section. Then right-click on the device that you’re going to update the driver for and select**Update driver** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-update-drivers-via-the-Device-Manager.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Then follow the on-screen instructions to get the updates.
 
@@ -175,13 +187,6 @@ Then follow the on-screen instructions to get the updates.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This requires the Pro version which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
@@ -200,6 +205,19 @@ Then follow the on-screen instructions to get the updates.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-open-the-Command-Prompt-as-an-administrator.jpg)
 2. Click**Yes** when you receive a prompt.
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Now copy and paste the following command, and then press**Enter** .  
 
 `DISM.exe /Online /Cleanup-image /Restorehealth`
@@ -209,22 +227,15 @@ Then follow the on-screen instructions to get the updates.
 5. Now type**sfc /scannow** and press Enter. Then it’ll start scanning the integrity of all protected operating system files and replace incorrect, corrupted, changed, or damaged versions with the correct versions.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you see a message that says “Verification 100% complete”, type**exit** and press Enter.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/use-System-File-Checker-to-repair-corrupted-files.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  However, if that fails to fix an underlying problem, you’ll need a more advanced tool to help you with that. **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  is such a tool that specializes in Windows repair. It’ll help replace damaged or missing Windows files with healthy ones and restore your PC back to its greatness. And it’s more than that. Fortect can protect and remove malware from your PC, as well as detect threatening apps before it’s too late!
 
@@ -245,6 +256,13 @@ Then follow the on-screen instructions to get the updates.
 
 ![how to uninstall an app](https://images.drivereasy.com/wp-content/uploads/2021/06/control-appwiz.cpl_.png)
 3. Locate**Battle.net** . Right-click it and click**Uninstall/Change** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/reinstall-Battle.net_.jpg)
 
@@ -269,20 +287,18 @@ Then follow the on-screen instructions to get the updates.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-discover-why-av1-is-a-game-changer-for-youtube-viewers/"><u>[New] In 2024, Discover Why AV1 Is a Game Changer for YouTube Viewers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-success-how-to-make-your-videos-captivate-audiences/"><u>[Updated] 2024 Approved Instagram Success How to Make Your Videos Captivate Audiences</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-driven-job-market-the-evolving-scenario/"><u>AI-Driven Job Market: The Evolving Scenario</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-gionee-f3-pro-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Gionee F3 Pro</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-techniques-to-minimize-zooms-impact-on-your-computers-processor/"><u>Effective Techniques to Minimize Zoom's Impact on Your Computer’s Processor</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortless-fixes-to-overcome-wwe-2k20s-pc-crashing-problems/"><u>Effortless Fixes to Overcome WWE 2K20's PC Crashing Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhancing-gaming-experience-by-fixing-freezing-glitches-in-code-veam/"><u>Enhancing Gaming Experience by Fixing Freezing Glitches in Code Veam</u></a></li>
-<li><a href="https://article-files.techidaily.com/free-meme-makers-dream-toolkit-for-2024/"><u>FREE Meme Makers' Dream Toolkit for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/gratuit-online-om-wav-files-naar-aac-te-veranderen-movavi/"><u>Gratuit Online Om Wav-Files Naar Aac Te Veranderen - Movavi</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-7-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 7 Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-discord-from-crashing-while-live-streaming-expert-tips-and-tricks/"><u>How to Stop Discord From Crashing While Live-Streaming: Expert Tips & Tricks</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-photography-refinement-removing-backgrounds-and-blurring-effectively/"><u>In 2024, Photography Refinement Removing Backgrounds & Blurring Effectively</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/lost-and-found-30-free-speech-to-text-mac-hits/"><u>Lost and Found 30 Free Speech-to-Text Mac Hits</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimize-your-experience-fixing-frame-drops-and-stutter-in-ac-valhalla-pc/"><u>Optimize Your Experience: Fixing Frame Drops and Stutter in AC Valhalla (PC)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-windows-spotlight-fails-in-windows-11/"><u>Troubleshooting Steps When Windows Spotlight Fails in Windows 11</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-autofocus-on-iphone-cameras-efficiently/"><u>[New] Mastering Autofocus on iPhone Cameras Efficiently</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-optimal-low-cost-video-conferencing-software-options-for-2024/"><u>[New] Optimal Low-Cost Video Conferencing Software Options for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-crafting-easy-youtube-animation-subscribe-bars-in-filmora/"><u>[Updated] Crafting Easy YouTube Animation Subscribe Bars in Filmora</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-picture-perfect-software-and-websites-to-amp-up-your-photos/"><u>2024 Approved Picture Perfect Software and Websites to Amp Up Your Photos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-performance-lags-and-stuttering-in-playstation-4-gameplay-for-ac-valhalla/"><u>Addressing Performance Lags & Stuttering in PlayStation 4 Gameplay for AC Valhalla</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-editing-gopro-videos-on-pc-quik-alternatives-and-more/"><u>In 2024, Editing GoPro Videos on PC Quik, Alternatives, and More</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-realme-11x-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Realme 11X 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-fortnites-video-memory-issues-a-complete-guide/"><u>Resolving Fortnite's Video Memory Issues: A Complete Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rogue-game-crash-dilemma-discover-solutions-for-uninterrupted-gaming-experience-on-your-computer/"><u>Rogue Game Crash Dilemma? Discover Solutions for Uninterrupted Gaming Experience on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-lag-issues-in-avatar-optimizing-performance-on-pandora/"><u>Solving Lag Issues in Avatar: Optimizing Performance on Pandora</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-tutorial-resolve-fifa-21-stalling-problems-on-desktop-pcs-expert-guide/"><u>Step-by-Step Tutorial: Resolve FIFA 21 Stalling Problems on Desktop PCs - Expert Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723009244783-terraria-troubles-2024-crash-solutions-that-actually-work/"><u>Terraria Troubles? 2024 Crash Solutions That Actually Work</u></a></li>
 </ul></div>
 

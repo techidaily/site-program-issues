@@ -1,7 +1,7 @@
 ---
 title: Boosting Horizon Zero Dawn's Graphics and Frame Rate for a Smoother Adventure
-date: 2024-08-23T17:31:46.670Z
-updated: 2024-08-24T17:31:46.670Z
+date: 2024-10-30T23:25:45.783Z
+updated: 2024-11-06T17:40:54.098Z
 tags:
   - win11
   - win10
@@ -42,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/59c3843adcf6e65abddadc6ccd38abd83d01c0755
 
  After confirming your PC is good enough for Psychonauts 2, you can move on to the advanced troubleshooting below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  The graphics driver, also called a video card driver, is essential to the functioning of video games. If you’re using a faulty or outdated graphics driver, you’re likely to encounter the crashing issue in Psychonauts 2\. To fix the potential problem and get the best performance out of your hardware, you should make sure your computer’s graphics driver is up to date.
@@ -62,8 +59,18 @@ thumbnail: https://thmb.techidaily.com/59c3843adcf6e65abddadc6ccd38abd83d01c0755
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your graphics driver, restart your computer and launch Psychonauts 2 to see if the game crashes again.
@@ -78,15 +85,27 @@ If the issue persists, go ahead with the next fix.
 2. Right-click Psychonauts 2, select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/psychonauts2-properties.jpg)
 3. Select the LOCAL FILES tab and click**Verify integrity of game files…** .  
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
 
 Once done, relaunch Psychonauts 2 to see if the problem is resolved.
 
 If the crashing issue remains, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Launch the game in DX11 mode
 
@@ -99,8 +118,12 @@ If the crashing issue remains, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-launch-options-dx11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  This will force the game to run in DX11\. Then you can launch Psychonauts 2 again to see if the error still occurs.
 
 If this fix doesn’t do the trick, try the next fix.
@@ -114,33 +137,36 @@ Allow Psychonauts 2 through Windows Firewall:
 1. On your keyboard, press the**Windows logo key** , and type**firewall** in the search box. Then click**Firewall & network protection** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/firewall-network-protection.jpg)
 2. Click**Allow an app through firewall** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-an-app-through-firewall.jpg)
 3. In the new window, click**Change settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/change-settings.jpg)
 4. Click**Allow another app…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-another-app-1.jpg)
 5. In the pop-up window, click**Browse** to find Psychonauts 2, then click**Add** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/add-an-app.jpg)
-6. Click**OK** to save changes.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/ok.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/add-an-app.jpg)
+6. Click**OK** to save changes.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/ok.jpg)
+
  The way to add Psychonauts 2 as an exception to your antivirus software will vary depending on the antivirus software you’re using.
 
  See if the game crashes after you allow the game through the firewall and add it as an exception to your antivirus software. If it persists, check out the last fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Reinstall Psychonauts 2
 
  If none of the fixes above help you in resolving the crashing issue in Psychonauts 2, you can try reinstalling the game as a last resort. Some gamers have reported that reinstalling the game alleviates this issue. So you can give it a shot.
@@ -157,8 +183,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +190,24 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-unlocking-google-docs-transcription-your-complete-manual/"><u>[New] Unlocking Google Docs Transcription Your Complete Manual</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-dayz-fps-drops-quickly-and-easily/"><u>[SOLVED] DayZ FPS Drops | Quickly & Easily</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-interconnecting-your-music-collection-across-services/"><u>[Updated] Interconnecting Your Music Collection Across Services</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722890375170-all-you-need-to-know-about-the-upcoming-oxygenos-nothing-phone-3-price-release-and-features/"><u>All You Need to Know About the Upcoming OxygenOS Nothing Phone 3 - Price, Release & Features</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-realme-11-proplus-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Realme 11 Pro+ Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-spotlight-on-gems-hidden-in-independent-games/"><u>Exclusive Spotlight on Gems Hidden in Independent Games</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722989852031-fallout-3-and-windows-11-compatibility-overcoming-unexpected-freezes-together/"><u>Fallout 3 & Windows 11 Compatibility – Overcoming Unexpected Freezes Together</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-i-fixed-the-stuttering-glitch-in-total-war-three-kingdoms/"><u>How I Fixed the Stuttering Glitch in Total War: Three Kingdoms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/instant-remedies-for-resolving-game-latency-in-assassins-creed-valhalla/"><u>Instant Remedies for Resolving Game Latency in Assassin's Creed: Valhalla</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-roblox-error-277-troubleshooting-techniques-on-pc-expert-advice/"><u>Mastering Roblox Error 277 Troubleshooting Techniques on PC – Expert Advice</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-initial-launch-glitches-in-monster-hunter-rise-a-users-manual/"><u>Overcoming Initial Launch Glitches in Monster Hunter Rise: A User’s Manual</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-dreaded-dev-error-5573-ultimate-guide-for-call-of-duty-warzone-on-pc-and-console/"><u>Solving the Dreaded Dev Error 5573: Ultimate Guide for Call of Duty: Warzone on PC and Console</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209848261-9781911425830-the-little-book-of-big-leverage/"><u>The Little Book of Big Leverage | Free Book</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-poco-c51-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Poco C51 Location | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-the-host-for-32-bit-print-driver-error-message/"><u>Troubleshooting Guide: Fixing the 'Host for 32-Bit Print Driver' Error Message</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-stable-warcraft-amo3-reforged-launch-on-pc/"><u>Troubleshooting Steps for Stable Warcraft Amo3 Reforged Launch on PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Vivo V27? | Dr.fone</u></a></li>
+</ul></div>
 

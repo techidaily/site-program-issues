@@ -1,7 +1,7 @@
 ---
 title: "Victory over Overwatch Errors: Tackling the Graphics Driver Problem Once and For All"
-date: 2024-10-29T05:28:27.106Z
-updated: 2024-10-31T19:54:02.669Z
+date: 2024-11-04T03:34:25.078Z
+updated: 2024-11-07T02:11:42.644Z
 tags:
   - win11
   - win10
@@ -52,13 +52,6 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 
  Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1\. Allow your game to run through Windows Firewall
 
  Check for any firewall and antivirus restrictions that may hinder your connection. As reported by some gamers, turning off firewall restrictions and uninstalling antivirus software worked for them immediately.
@@ -71,6 +64,13 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 2. Type in**firewall.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
 3. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
@@ -113,10 +113,10 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 3. Right-click your current network connection, and select **Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
@@ -126,10 +126,10 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Preferred DNS server: 8.8.8.8**  
@@ -139,17 +139,10 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 6. Click **OK** to apply.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4\. Update your device drivers
@@ -168,16 +161,23 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed.jpg)
 3. Click the **Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-network-driver-2.jpg)
 4. Once your drivers are up to date, restart your computer for the changes to take full effect.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5\. Use a VPN
@@ -218,24 +218,19 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/fixed-borderlands-3-lag-issues/"><u>[FIXED] Borderlands 3 Lag Issues</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-tap-into-endless-visual-archives-from-top-4-video-platforms/"><u>[Updated] 2024 Approved Tap Into Endless Visual Archives From Top 4 Video Platforms</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-unpacking-video-editing-excellence-is-inshot-at-the-top/"><u>[Updated] 2024 Approved Unpacking Video Editing Excellence Is InShot at the Top?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-cinematic-excellence-discover-the-best-15-gopro-action-cam-luts/"><u>[Updated] Cinematic Excellence Discover the Best 15 GOPRO Action Cam LUTs</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-downloading-and-archiving-facebook-gifs-a-unified-approach/"><u>[Updated] In 2024, Downloading and Archiving Facebook GIFs A Unified Approach</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-overcoming-the-surprising-see-myself-issue-on-social-media/"><u>[Updated] In 2024, Overcoming the Surprising See Myself Issue on Social Media</u></a></li>
-<li><a href="https://win-able.techidaily.com/beating-the-clock-techniques-to-decrease-delay-and-improve-reaction-time-in-pcs-bless-unleashed/"><u>Beating the Clock: Techniques to Decrease Delay and Improve Reaction Time in PC's Bless Unleashed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/call-of-duty-vanguard-stops-working-on-pc-solve-your-2024-gaming-nightmares-with-these-fixes/"><u>Call of Duty Vanguard Stops Working on PC? Solve Your 2024 Gaming Nightmares with These Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722987118135-diablo-3-stability-improved-no-more-unexpected-shutdowns/"><u>Diablo 3 Stability Improved: No More Unexpected Shutdowns</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-overcoming-steams-persistent-lag/"><u>Fixes & Solutions: Overcoming Steam's Persistent Lag</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722998053798-fixing-the-issue-fallout-3-crashes-on-windows-11-solutions-inside/"><u>Fixing the Issue: Fallout 3 Crashes on Windows 11 – Solutions Inside!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/free-download-photo-repair-software-to-fix-corrupted-photos/"><u>Free Download Photo Repair Software to Fix Corrupted Photos</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-free-photos-for-every-project-an-exclusive-list-of-top-12-online-sources/"><u>In 2024, Free Photos for Every Project - An Exclusive List of Top 12 Online Sources</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-unified-global-audience-through-simultaneous-youtube-plus-twitch-live/"><u>In 2024, Unified Global Audience Through Simultaneous Youtube + Twitch Live</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-game-launch-fixes-steam-and-windows-11-compatibility-solutions-unveiled/"><u>Mastering Game Launch Fixes: Steam and Windows 11 Compatibility Solutions Unveiled</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-acrocefexeexe-crash-step-by-step-troubleshooting-guide/"><u>Resolving the acrocefexe.exe Crash: Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/revolutionize-your-livestreams-with-manycam-top-tier-virtual-webcam-and-editing-suite-for-real-time-engagement/"><u>Revolutionize Your Livestreams with ManyCam: Top-Tier Virtual Webcam and Editing Suite for Real-Time Engagement</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-issue-of-itunes-ignoring-your-iphone-on-windows-10-systems/"><u>Solving the Issue of iTunes Ignoring Your iPhone on Windows 10 Systems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722994132990-the-need-for-careful-design-considerations-to-optimize-esp-performance-while-avoiding-problems-like-back-corona-discharge-or-dust-re-entrainment/"><u>The Need for Careful Design Considerations to Optimize ESP Performance While Avoiding Problems Like Back Corona Discharge or Dust Re-Entrainment.</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-charting-social-media-trends-with-data-graphics/"><u>[New] In 2024, Charting Social Media Trends with Data Graphics</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-path-to-popularity-unveiling-tubebuddy-secrets/"><u>[New] The Path to Popularity Unveiling TubeBuddy Secrets</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-top-conversion-suite-for-mp4fb-sharing/"><u>[New] Top Conversion Suite for MP4/FB Sharing</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-uncover-the-best-free-ultimate-3d-videos-playing-solutions-for-2024/"><u>[New] Uncover the Best Free, Ultimate 3D Videos Playing Solutions for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-demystifying-youtube-premium-membership-benefits/"><u>[Updated] Demystifying YouTube Premium Membership Benefits</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-essential-virtual-worlds-worth-playing/"><u>2024 Approved Essential Virtual Worlds Worth Playing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-strategies-to-resolve-a-non-launching-business-a-comprehensive-guide/"><u>Effective Strategies to Resolve a Non-Launching Business : A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-solve-incorrect-setup-for-the-amd-ryzen-performance-monitor/"><u>How to Solve Incorrect Setup for the AMD Ryzen Performance Monitor</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovative-photo-edits-partially-blurring-content/"><u>Innovative Photo Edits Partially Blurring Content</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-itunes-recognition-errors-iphone-unseen-by-windows-11/"><u>Overcoming iTunes Recognition Errors: IPhone Unseen by Windows 11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/oxford-3000-reimagined-for-word-mastery/"><u>Oxford 3000 Reimagined for Word Mastery</u></a></li>
+<li><a href="https://program-issues.techidaily.com/practices-like-crop-rotation-intercropping-organic-amendments-and-biological-pest-control-decrease-reliance-on-chemical-fertilizers-and-pesticides-while-pro391/"><u>Practices Like Crop Rotation, Intercropping, Organic Amendments, and Biological Pest Control Decrease Reliance on Chemical Fertilizers and Pesticides While Promoting Natural Soil Fertility and Plant Health.</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-mute-the-movie-guide-to-erasing-auditory-elements-from-various-video-formats/"><u>Updated 2024 Approved Mute the Movie Guide to Erasing Auditory Elements From Various Video Formats</u></a></li>
+<li><a href="https://program-issues.techidaily.com/user-friendly-guide-stop-frequent-outriders-game-crashes/"><u>User-Friendly Guide: Stop Frequent Outriders Game Crashes</u></a></li>
 </ul></div>
 

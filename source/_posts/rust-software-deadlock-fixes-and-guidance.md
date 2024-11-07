@@ -1,7 +1,7 @@
 ---
 title: Rust Software Deadlock? Fixes & Guidance
-date: 2024-08-23T17:39:25.324Z
-updated: 2024-08-24T17:39:25.324Z
+date: 2024-11-03T16:14:44.962Z
+updated: 2024-11-06T21:28:10.972Z
 tags:
   - win11
   - win10
@@ -61,8 +61,12 @@ thumbnail: https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882c
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -86,8 +90,12 @@ thumbnail: https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882c
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -107,8 +115,12 @@ thumbnail: https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882c
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
@@ -119,9 +131,6 @@ thumbnail: https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882c
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -131,6 +140,13 @@ thumbnail: https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882c
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**Initiate Full Repair** .
 
@@ -155,15 +171,16 @@ thumbnail: https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Run League of Legends to see if you resolved this issue.
 
  Hopefully, you find this post helpful! As always, if you have any other solutions to fix League of Legends crashes, or if you have any questions or suggestions on this issue, you’re more than welcome to leave us a comment below.
@@ -177,8 +194,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +201,20 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/implicity-in-video-creation-a-guide-to-10-easy-to-make-youtube-videos/"><u>[New] Simplicity in Video Creation A Guide to 10 Easy-to-Make YouTube Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-the-ultimate-guide-to-earning-cash-online-with-no-skills-needed/"><u>[Updated] In 2024, The Ultimate Guide to Earning Cash Online with No Skills Needed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unveiling-the-secrets-to-smm-mastery-a-comprehensive-guide-in-10-stages/"><u>[Updated] Unveiling the Secrets to SMM Mastery A Comprehensive Guide in 10 Stages</u></a></li>
+<li><a href="https://win-bits.techidaily.com/ai-chatbot-face-off-analyzing-the-strength-of-chatgpt-vs-microsoft-copilot-vs-gemini-tech-comparison-by-zdnet/"><u>AI Chatbot Face-Off: Analyzing the Strength of ChatGPT Vs. Microsoft Copilot Vs. Gemini | Tech Comparison by ZDNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/asrocks-mini-pc-revolution-elevate-your-workstation-using-a-full-sized-gpu-only-available-to-chinese-consumers-for-1200/"><u>ASRock's Mini PC Revolution: Elevate Your Workstation Using a Full-Sized GPU - Only Available to Chinese Consumers for ¥1200</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-digital-background-switchers-shutterfix-excellence-for-2024/"><u>Leading Digital Background Switchers ShutterFix Excellence for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-gadget-knowledge-toms-authoritative-hardware-guides/"><u>Mastering Gadget Knowledge: Tom's Authoritative Hardware Guides</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-performance-overcoming-reduced-frames-per-second-in-forza-horizon-5-for-pc-gamers/"><u>Optimizing Performance: Overcoming Reduced Frames Per Second in Forza Horizon 5 for PC Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-ark-survival-evolved-crashes-on-windows-computers-apply-these-9-fixes-now/"><u>Overcome ARK: Survival Evolved Crashes on Windows Computers – Apply These 9 Fixes Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-technical-hurdles-stabilizing-minecraft-dungeons-gameplay-on-desktop-computers/"><u>Overcoming Technical Hurdles: Stabilizing Minecraft Dungeons Gameplay on Desktop Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-remedies-for-when-discord-opaque-features-fail/"><u>Quick Remedies for When Discord Opaque Features Fail</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/step-by-step-guide-mirroring-your-iphone-screen-onto-a-panasonic-television/"><u>Step-by-Step Guide: Mirroring Your iPhone Screen Onto a Panasonic Television</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-poco-c51-by-drfone-android/"><u>Top 10 Password Cracking Tools For Poco C51</u></a></li>
+</ul></div>
 

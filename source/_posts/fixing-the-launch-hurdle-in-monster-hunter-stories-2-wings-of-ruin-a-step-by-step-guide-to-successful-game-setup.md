@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Launch Hurdle in Monster Hunter Stories 2: Wings of Ruin - A Step-by-Step Guide to Successful Game Setup"
-date: 2024-10-26T05:59:17.938Z
-updated: 2024-11-01T02:43:06.761Z
+date: 2024-10-31T23:21:23.107Z
+updated: 2024-11-06T16:16:17.396Z
 tags:
   - win11
   - win10
@@ -79,19 +79,6 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8 fixes for FIFA 20 crashing
 
  Here are 8 fixes that have proved helpful to solve the FIFA 20 crashing issues. You may not need to try them all; just work your way down the list until you find the one that does the trick.
@@ -114,6 +101,13 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1:**Update your device drivers**
 
  Your crashing issue in FIFA 20 may be caused by outdated or corrupt device drivers (especially graphics card drivers). If you’re not sure whether all your device drivers are up-to-date, you should check.
@@ -133,10 +127,10 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -151,13 +145,6 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 2: Roll back your graphics card driver**
 
  If updating drivers didn’t resolve your problem, then maybe you should roll it back to a previous version that appears more stable. Here’s how:
@@ -170,9 +157,23 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-933.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Roll Back Driver** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-938.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the **Roll Back Driver** option is grayed out, that means there’s no driver to roll back to. In this case you’ll have to try other fixes.
 
@@ -204,6 +205,13 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Change DirectX settings
 
  When your FIFA 20 crashes with an error message mentioning “DirectX,” you’re most likely having a DirectX issue that requires you to change related settings of the game.
@@ -219,6 +227,13 @@ In case you don’t know how, here’s the guidance:
  Type**DIRECTX\_SELECT = 1** and click**Find Next** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-847.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) After “DIRECTX\_SELECT = 1” is located, change it to**DIRECTX\_SELECT = 0** .
 
@@ -238,24 +253,18 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-903.png)
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the NVIDIA Control Panel window, click**Manage 3D settings** in the left pane. On the right panel, go to the**Program Settings** tab and click**Add** to select FIFA 20 (navigate to your game file and double-click it). Then, you can customize settings for FIFA 20 based on your liking. For example, you can set**Vertical sync** to**On** .
 
  On completion, click**Apply** to save the changes you’ve made.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-913.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Exit NVIDIA Control Panel, restart your computer, then launch FIFA 20.
 
@@ -282,13 +291,6 @@ If you continue to face the crashing problem, please move on to Fix 6.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-63.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) In the Command Prompt, type the following command (**note** that there’s a space between sfc and /):
 
 sfc /scannow
@@ -296,13 +298,6 @@ sfc /scannow
  After you finish entering the command, hit **Enter** on your keyboard. Then the sfc tool will begin to scan all system files and repair the corrupted or missing ones.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-183.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Wait until the verification process completes. Then **restart** your computer for the changes to take effect.
 
@@ -326,13 +321,6 @@ dism.exe /online /cleanup-image /restorehealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-165.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for the process to complete. Then, reboot your computer, launch FIFA 20, and wait to see if it keeps crashing. If it does, try out Fix 7.
 
 ---
@@ -348,10 +336,10 @@ dism.exe /online /cleanup-image /restorehealth
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 8: Wait for more game updates
@@ -380,19 +368,22 @@ dism.exe /online /cleanup-image /restorehealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-poco-m6-pro-5g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Poco M6 Pro 5G Activity | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-avoid-every-interruption-the-ultimate-guide-to-7-adblocking-tools/"><u>2024 Approved Avoid Every Interruption The Ultimate Guide to 7 AdBlocking Tools</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-malfunctioning-function-fn-buttons-on-your-dell-notebook-a-comprehensive-guide/"><u>Fixing Malfunctioning Function (Fn) Buttons on Your Dell Notebook - A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-blunder-how-to-prevent-your-hearthstone-game-from-crashing/"><u>Fixing the Blunder: How to Prevent Your Hearthstone Game From Crashing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-unexpected-severance-from-the-game-servers-of-escape-from-tarkov/"><u>Fixing Unexpected Severance From the Game Servers of Escape From Tarkov</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-spellbreak-stability-problems-on-desktop-systems/"><u>How to Resolve 'Spellbreak' Stability Problems on Desktop Systems</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-asus-rog-phone-8-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Asus ROG Phone 8 Pro to New Phone | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-becoming-a-master-of-instagrams-video-dialogue-dynamics/"><u>In 2024, Becoming a Master of Instagram's Video Dialogue Dynamics</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Samsung Galaxy F04? | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-out-loud-essential-comedy-channels-for-endless-fun/"><u>Laugh Out Loud Essential Comedy Channels for Endless Fun</u></a></li>
-<li><a href="https://program-issues.techidaily.com/silent-dragonlords-how-to-restore-sound-in-your-adventure-through-skyrim/"><u>Silent Dragonlords: How to Restore Sound in Your Adventure Through Skyrim</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-playback-hiccups-smoothing-out-stutters-in-valorant-for-pc-gaming/"><u>Solve Playback Hiccups: Smoothing Out Stutters in Valorant for PC Gaming</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-repair-tips-for-fixing-a-nonfunctional-pathfinder-game-keyboard/"><u>Step-by-Step Repair Tips for Fixing a Nonfunctional Pathfinder Game Keyboard</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unlocking-disk-space-on-win10/"><u>Unlocking Disk Space on Win10</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-how-to-record-google-voice-calls/"><u>[Updated] How To Record Google Voice Calls</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726222804436-wma-mkv-movavi/"><u>安価なオンラインWMA MKVコンバータアプリケーション：詳細解説 – Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/acesse-key-do-movavi-video-converter-download-gratuito-agora/"><u>Acesse Key Do Movavi Video Converter - Download Gratuito Agora!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-gopro-tools-for-deep-sea-cinematography/"><u>Best Gopro Tools for Deep-Sea Cinematography</u></a></li>
+<li><a href="https://program-issues.techidaily.com/deal-with-persistent-fortnight-crashes-on-desktop-latest-solutions-players/"><u>Deal with Persistent Fortnight Crashes on Desktop - Latest Solutions Players</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/discovering-the-best-10-websites-where-you-can-access-premium-montage-music/"><u>Discovering the Best 10 Websites Where You Can Access Premium Montage Music</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/effective-ways-to-save-a-temporary-image-from-your-word-documents/"><u>Effective Ways to Save a Temporary Image From Your Word Documents</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fatal-issues-resolved-optimizing-gameplay-and-stability-for-tales-of-arise-in-unreal-engine-user-ive-overcome-the-major-issues-with-tales-of-arise-running-o469/"><u>Fatal Issues Resolved: Optimizing Gameplay and Stability for Tales of Arise in Unreal Engine # User: I've Overcome the Major Issues with 'Tales of Arise' Running on Unreal Engine 4!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-xiaomi-redmi-note-12-pro-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Xiaomi Redmi Note 12 Pro 5G Quickly? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-xr-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone XR without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-in-chivalry-2-addressing-and-correcting-crashes/"><u>Mastering Stability in Chivalry 2: Addressing and Correcting Crashes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-gionee-f3-pro-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Gionee F3 Pro and Browser | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quickly-resolve-bluestacks-software-issues-5-simple-fixes/"><u>Quickly Resolve BlueStacks Software Issues: 5 Simple Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-rust-is-unresponsive-issue-top-strategies-for-developers/"><u>Resolving the 'Rust Is Unresponsive' Issue: Top Strategies for Developers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-issue-free-from-the-fog-unsticking-sea-of-thieves-load-screen-woes/"><u>Resolving the Issue: Free From the Fog - Unsticking 'Sea of Thieves' Load Screen Woes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005288838-the-abcs-airway-breathing-circulation-are-the-first-priority-in-managing-any-patient-with-suspected-poisoning/"><u>The ABCs (Airway, Breathing, Circulation) Are the First Priority in Managing Any Patient with Suspected Poisoning.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-overcoming-lag-in-dying-light-video-game/"><u>Troubleshooting Tips: Overcoming Lag in Dying Light Video Game</u></a></li>
 </ul></div>
 

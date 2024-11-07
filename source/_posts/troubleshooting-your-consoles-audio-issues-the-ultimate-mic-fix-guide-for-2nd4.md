@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Your Console's Audio Issues - The Ultimate Mic Fix Guide for 2nD4
-date: 2024-10-31T02:17:16.419Z
-updated: 2024-11-01T09:07:43.607Z
+date: 2024-11-02T22:32:34.783Z
+updated: 2024-11-06T21:19:17.879Z
 tags:
   - win11
   - win10
@@ -51,24 +51,10 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working1.jpg)
 2. Scroll down and click**Microphone** . Click the**Change** button, then make sure the**Microphone for this device** is toggled**On** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working7.jpg)
 3. Check if**Allow apps to access your microphone** is**On** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Try to use the microphone on OBS again to see if it works. If not, move on to have another try.
 
@@ -87,10 +73,10 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working22.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Set the target audio device as default & Increase microphone volume
@@ -98,13 +84,6 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 1. Right-click the**speaker icon** in the bottom-right corner of your taskbar. And click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working17.jpg)
 2. Select**Recording** . Right-click on any empty place inside the window and tick**Show Disabled Devices** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working14.jpg)
 3. Then right-click your microphone device and click**Enable** .  
@@ -114,41 +93,27 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working15.jpg)
 5. Right-click it again and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working16.jpg)
 6. Select the**Levels** tab, then drag the volume slider towards the largest value. Click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working24.jpg)
 7. Click**OK** again.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working25.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Check if mic Exclusive Mode is on
 
@@ -194,6 +159,14 @@ OBS (Open Broadcaster Software) is a free and open source software for video rec
 1. Click**Settings** on the bottom-right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working20.jpg)
 2. Click**Audio** on the left tab. Locate and uncheck**Enable Push-to-talk** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working21.jpg)
 3. Click**Hotkeys** on the left tab. Scroll down to locate Push-to-talk. If it’s displaying a key,**delete** it.  
 
@@ -219,6 +192,13 @@ Use your microphone to check whether the problem is solved.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 6 Upload log files to OBS support team
 
  If none of the above methods work for you, you may consider getting assistance from the OBS support team.
@@ -229,10 +209,37 @@ Use your microphone to check whether the problem is solved.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working5.jpg)
 2. Then you’ll be prompted to a pop-up window. Click**Copy URL** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working4.png)
 3. Visit[**OBS Analyzer web page**](https://obsproject.com/tools/analyzer) . Paste the URL and click**Analyze** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/obs-mic-not-working10-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Follow the instructions of OBS technical support and they’ll spare no effort to help you grapple with this microphone matter.
 
@@ -258,17 +265,22 @@ Use your microphone to check whether the problem is solved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-cost-assessment-for-producing-track-driven-videos/"><u>2024 Approved Cost Assessment for Producing Track-Driven Videos</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-screen-streaming-showdown-face-off-between-obs-and-shadowtoolkit/"><u>2024 Approved Screen Streaming Showdown Face Off Between OBS & ShadowToolKit</u></a></li>
-<li><a href="https://program-issues.techidaily.com/code-vein-optimization-tips-how-to-overcome-in-game-lag-and-freezing-episodes/"><u>Code Vein Optimization Tips: How to Overcome In-Game Lag and Freezing Episodes</u></a></li>
-<li><a href="https://facebook.techidaily.com/disabling-friends-who-remain-unseen-on-fb/"><u>Disabling Friends Who Remain Unseen on FB</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-the-msvcr110dll-error-for-helldivers-2-essential-solutions-to-try/"><u>Fix the 'MSVCR110.dll' Error for Helldivers 2: Essential Solutions to Try</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-how-to-make-your-iphone-detectable-by-itunes-on-a-windows-10-pc/"><u>Fix: How to Make Your iPhone Detectable by iTunes on a Windows 10 PC</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-magic5-ultimate-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic5 Ultimate without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-fix-synaptic-touchpad-driver-issues-in-windows-10-a-complete-guide/"><u>How to Fix Synaptic Touchpad Driver Issues in Windows 10: A Complete Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-realme-narzo-n55-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Realme Narzo N55 Data? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-captivating-creativity-with-advanced-tiktok-filters/"><u>In 2024, Captivating Creativity with Advanced TikTok Filters</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-5-best-online-stop-motion-makers-on-2023-freeandpaid-for-2024/"><u>New 5 Best Online Stop Motion Makers on 2023 Free&Paid for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-starfield-playability-fixes-for-pc-faulty-performance-freezes-and-crashes/"><u>Optimizing Starfield Playability: Fixes for PC Faulty Performance, Freezes, and Crashes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-group-gallery-video-extractor/"><u>[New] 2024 Approved Group Gallery Video Extractor</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-universal-approach-to-smartphone-mac-and-pc-video-filming-for-2024/"><u>[New] Universal Approach to Smartphone, Mac, and PC Video Filming for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-the-art-of-filter-selection-on-instagram/"><u>[Updated] 2024 Approved Mastering the Art of Filter Selection on Instagram</u></a></li>
+<li><a href="https://program-issues.techidaily.com/6-key-solutions-for-when-steam-ignores-your-virtual-reality-gear/"><u>6 Key Solutions for When Steam Ignores Your Virtual Reality Gear</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boosting-performance-essential-tips-to-increase-fps-and-minimize-lag-in-fall-guys/"><u>Boosting Performance: Essential Tips to Increase FPS & Minimize Lag in Fall Guys</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-the-lenovo-ideapad-features-of-an-excellently-built-budget-laptop/"><u>Comprehensive Guide to the Lenovo Ideapad: Features of an Excellently Built Budget Laptop</u></a></li>
+<li><a href="https://article-posts.techidaily.com/cutting-edge-online-resources-for-glittering-3d-typography-for-2024/"><u>Cutting-Edge Online Resources for Glittering 3D Typography for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005641917-fix-completed-unstick-your-frozen-discord-game-stream-now/"><u>Fix Completed: Unstick Your Frozen Discord Game Stream Now</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-xiaomi-redmi-k70e-frp-by-drfone-android/"><u>Full Guide to Bypass Xiaomi Redmi K70E FRP</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-dragging-loaders-in-fallout-4-quickly/"><u>How to Fix Dragging Loaders in Fallout 4 Quickly</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-iphone-12-pro-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your iPhone 12 Pro</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-dead-by-daylight-from-freezing-expert-troubleshooting-guide/"><u>How to Stop Dead by Daylight From Freezing : Expert Troubleshooting Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-innovative-editing-methods-for-yt-videos-with-windows-movie-maker/"><u>In 2024, Innovative Editing Methods for YT Videos with Windows Movie Maker</u></a></li>
+<li><a href="https://article-helps.techidaily.com/making-sense-of-typical-podcaster-profits/"><u>Making Sense of Typical Podcaster Profits</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-experience-techniques-to-increase-fps-and-fix-glitches-in-the-ascent/"><u>Optimizing Your Experience: Techniques to Increase FPS and Fix Glitches in The Ascent</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-chromes-page-loading-challenges-a-step-by-step-fix/"><u>Overcoming Chrome's Page Loading Challenges: A Step-by-Step Fix</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-medium-and-pc-compatibility-woes-understanding-the-frequent-crashes/"><u>The Medium and PC Compatibility Woes: Understanding the Frequent Crashes</u></a></li>
 </ul></div>
 

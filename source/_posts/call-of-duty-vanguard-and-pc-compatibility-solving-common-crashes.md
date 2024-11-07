@@ -1,7 +1,7 @@
 ---
 title: "Call of Duty Vanguard and PC Compatibility: Solving Common Crashes"
-date: 2024-10-26T16:06:53.612Z
-updated: 2024-11-01T06:23:05.471Z
+date: 2024-11-01T02:26:57.694Z
+updated: 2024-11-06T23:00:22.635Z
 tags:
   - win11
   - win10
@@ -45,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 
  When the verifying process completed, launch Arcadegeddon and see if this fix works. If the game still crashes, don’t worry. Read on and try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Update your graphics driver
 
  Graphics driver is essential to the functioning of video games. If Arcadegeddon keeps crashing on your PC, it’s likely that you have the corrupted or outdated graphics driver on your PC. So you should update your drivers to see if it fixes the game crashing issues.
@@ -67,11 +60,33 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -80,6 +95,13 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
  If a patch is available, it will be detected by Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch Arcadegeddon again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Close CPU / memory hogging applications
 
@@ -95,13 +117,6 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 
  To prevent Arcadegeddon from crashing due to insufficient memory in the future, you may need to consider[upgrading the memory (RAM) on your computer](https://www.amazon.com/s?k=RAM&tag=drivereasycom-20) .
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 5: Perform a clean boot
 
  Arcadegeddon would also crash if there is a certain application conlicting with it. To find out the problematic application that crashes the game, you need to perform a clean boot. Here’s how to do it:
@@ -110,22 +125,8 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
@@ -139,16 +140,16 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Restart** your PC and run Arcadegeddon to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
@@ -183,20 +184,24 @@ thumbnail: https://thmb.techidaily.com/ac7b7d7eb1b61e878d4715837135fe97081096b41
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-start-editing-with-ease-implementing-movie-maker-in-windows-11/"><u>[New] 2024 Approved Start Editing with Ease Implementing Movie Maker in Windows 11</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-expert-blueprint-fashioning-timer-functionality-with-video-editors/"><u>[New] In 2024, Expert Blueprint Fashioning Timer Functionality with Video Editors</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-conquering-hdr-photography-with-ease/"><u>2024 Approved Conquering HDR Photography with Ease</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-from-apple-iphone-15-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock from Apple iPhone 15</u></a></li>
-<li><a href="https://program-issues.techidaily.com/escalating-your-gaming-experience-7-easy-tweaks-to-prevent-freezing-in-halo-infinite/"><u>Escalating Your Gaming Experience: 7 Easy Tweaks to Prevent Freezing in Halo Infinite</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211247468-9781501164088-evolution-of-goddess/"><u>Evolution of Goddess | Free Book</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-and-repair-risk-of-rain-2-game-crash-issues-for-a-smooth-play-experience/"><u>How to Prevent and Repair Risk of Rain 2 Game Crash Issues for a Smooth Play Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-initialization-hurdles-in-baldurs-gate-iii-launched/"><u>Overcoming Initialization Hurdles in Baldur's Gate III Launched!</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/preventing-total-loss-of-image-in-streaming-videos-on-youtube-for-2024/"><u>Preventing Total Loss of Image in Streaming Videos on YouTube for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fixes-how-to-successfully-overcome-common-discord-setup-issues/"><u>Quick Fixes: How to Successfully Overcome Common Discord Setup Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-stuck-during-update-process-issue-in-msfs-2020-a-step-by-step-guide/"><u>Resolving the 'Stuck During Update Process' Issue in MSFS 2020: A Step-by-Step Guide</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/securing-your-scene-minimize-camera-jostle-for-2024/"><u>Securing Your Scene Minimize Camera Jostle for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-rainbow-six-error-code-3-0x0001000b-a-comprehensive-guide/"><u>Solving Rainbow Six Error Code 3-0X0001000B - A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-ultimate-tips-for-seamless-gaming-on-the-ascent-overcoming-stutter-and-skyrocketing-fps/"><u>The Ultimate Tips for Seamless Gaming on 'The Ascent': Overcoming Stutter & Skyrocketing FPS</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-find-x6-pro-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo Find X6 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-behind-the-scenes-of-360-degree-media/"><u>[New] Behind the Scenes of 360-Degree Media</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-from-free-to-funded-monetization-mastery-for-fb-pages/"><u>[New] In 2024, From Free to Funded Monetization Mastery for FB Pages</u></a></li>
+<li><a href="https://win-net.techidaily.com/comment-mettre-en-place-une-tache-planifiee-pour-backup-automatise-sous-windows-881-astuces-utiles/"><u>Comment Mettre en Place Une Tâche Planifiée Pour Backup Automatisé Sous Windows 8/8.1 - Astuces Utiles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/complete-walkthrough-to-enable-and-use-hyper-v-in-windows-10/"><u>Complete Walkthrough to Enable and Use Hyper-V in Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dark-souls-iii-stability-enhanced-no-more-unexpected-shuts-down/"><u>Dark Souls III Stability Enhanced: No More Unexpected Shuts Down</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-techniques-to-expose-obscured-apps-on-apple-devices/"><u>Discover the Techniques to Expose Obscured Apps on Apple Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-black-screens-in-fallout-4-a-step-by-step-guide-for-uninterrupted-gaming/"><u>Eliminate Black Screens in Fallout 4 – A Step-by-Step Guide for Uninterrupted Gaming</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-making-your-microsoft-teams-microphone-work-properly-on-latest-windows-versions/"><u>Expert Advice: Making Your Microsoft Teams Microphone Work Properly on Latest Windows Versions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-new-pixel-buds-pro-2-by-google-top-3-exciting-features-revealed-tech-insights-at-zdnet/"><u>Exploring the New Pixel Buds Pro 2 by Google - Top 3 Exciting Features Revealed | Tech Insights at ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-iphone-15-plus-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From iPhone 15 Plus? Heres the Best Fixes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-live-streaming-war-confronting-the-titans-wirecast-and-obs/"><u>In 2024, Live Streaming War Confronting the Titans, Wirecast & OBS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mememasters-suite-download/"><u>In 2024, MemeMasters Suite Download</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gaming-made-easy-assassins-creed-valhalla-crash-troubleshooted-and-solved/"><u>PC Gaming Made Easy: Assassin’s Creed Valhalla Crash Troubleshooted and Solved!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-frame-rate-issues-a-guide-to-eliminating-lag-in-the-latest-game/"><u>Solving Frame Rate Issues: A Guide to Eliminating Lag in the Latest Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-issue-steps-when-humans-cannot-launch-happens/"><u>Solving the Issue: Steps When 'Humans Cannot Launch' Happens</u></a></li>
+<li><a href="https://program-issues.techidaily.com/speedy-solutions-overcome-shader-troubles-in-star-wars-battlefront-ii-effortlessly/"><u>Speedy Solutions: Overcome Shader Troubles in Star Wars Battlefront II Effortlessly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-restoring-voice-chat-functionality-in-among-us-on-desktop-systems/"><u>Step-by-Step Solutions: Restoring Voice Chat Functionality in Among Us on Desktop Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-scavengers-game-crashes-on-personal-computers-solutions-inside/"><u>Troubleshooting Scavengers Game Crashes on Personal Computers - Solutions Inside</u></a></li>
 </ul></div>
 

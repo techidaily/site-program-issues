@@ -1,7 +1,7 @@
 ---
 title: "Stay Underwater Longer: Effective Solutions to Stop Subnautica on PC From Crashing"
-date: 2024-10-31T02:26:20.185Z
-updated: 2024-11-01T01:03:43.466Z
+date: 2024-10-30T16:03:13.218Z
+updated: 2024-11-06T18:19:51.576Z
 tags:
   - win11
   - win10
@@ -49,27 +49,20 @@ thumbnail: https://thmb.techidaily.com/5d77ad3cc3ffb76dec378c0365a6d9c3d6e615b3b
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 2: Close CPU / memory-hogging applications
@@ -82,9 +75,23 @@ thumbnail: https://thmb.techidaily.com/5d77ad3cc3ffb76dec378c0365a6d9c3d6e615b3b
 2. Select any other applications and programs that take up a large amount of **CPU** or **memory** , then click **End task** to close it.  
 ![Close CPU / memory hogging applications](https://images.drivereasy.com/wp-content/uploads/2021/05/Close-CPU-memory-hogging-applications.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If Blender works well after you close those CPU / memory-hogging applications, congratulations!
 
  To prevent Blender from crashing due to insufficient memory in the future, you may need to consider upgrading the memory (RAM) on your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest Windows update
 
@@ -95,13 +102,6 @@ To install the latest Windows update:
 1. On your keyboard, press **the Windows logo key** and the **I key** at the same time to open **Windows Settings** . Then click **Update & Security** .  
 ![Windows 10 settings Update & Security](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap635.png)
 2. Click **Check for updates** to download and install the updates available for your PC.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Check for updates Windows 10](https://images.drivereasy.com/wp-content/uploads/2021/05/Check-for-updates-Windows-10.jpg)
 
@@ -139,24 +139,22 @@ If this issue persists, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-highest-quality-action-capturing-methods/"><u>[New] Highest Quality Action Capturing Methods</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-obs-crashing-on-windows-1110-2024/"><u>[SOLVED] OBS Crashing on Windows 11/10 – 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-premiere-pro-crashing-on-windows-11-and-10/"><u>[SOLVED] Premiere Pro Crashing on Windows 11 & 10</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-11-best-bridge-cameras-ultimate-review-for-2024/"><u>[Updated] 11 Best Bridge Cameras [Ultimate Review] for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-go-global-with-music-transform-your-spotify-lists-into-youtube-videos-for-2024/"><u>[Updated] Go Global with Music Transform Your Spotify Lists Into YouTube Videos for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-master-the-making-of-spectacular-slideshows-for-your-social-circle/"><u>[Updated] In 2024, Master the Making of Spectacular Slideshows for Your Social Circle</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-depth-analysis-the-finesse-of-obs-recording/"><u>[Updated] In-Depth Analysis The Finesse of OBS Recording</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/charting-a-course-for-influential-insights-within-your-niche-for-2024/"><u>Charting a Course for Influential Insights Within Your Niche for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722870442249-find-out-what-we-consider-the-most-fantastic-current-ipad-bargains/"><u>Find Out What We Consider the Most Fantastic Current iPad Bargains!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-wealth-route-in-periscope-streaming/"><u>In 2024, Unveiling the Wealth Route in Periscope Streaming</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722998188514-internet-explorer-page-loading-issues-now-fixed/"><u>Internet Explorer Page Loading Issues: Now Fixed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-your-ghost-hunt-top-solutions-for-phasmophobia-glitches-this-year/"><u>Master Your Ghost Hunt: Top Solutions for Phasmophobia Glitches This Year</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/revamped-century-age-of-ashes-game-now-stable-and-smooth-for-pc-users/"><u>Revamped 'Century: Age of Ashes' Game Now Stable and Smooth for PC Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-for-persistent-microsoft-edge-malfunctions-in-windows-10-environments/"><u>Solution for Persistent Microsoft Edge Malfunctions in Windows 10 Environments</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-kodis-directory-access-issue-steps-for-restoring-connections/"><u>Solving Kodi's Directory Access Issue: Steps for Restoring Connections</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-preserving-elegance-while-transforming-azw4-books-into-pdf-format/"><u>Step-by-Step Guide: Preserving Elegance While Transforming AZW4 Books Into PDF Format</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-when-monster-hunter-rise-wont-start/"><u>Troubleshooting Steps For When Monster Hunter Rise Won't Start</u></a></li>
-<li><a href="https://program-issues.techidaily.com/wolcen-pc-game-stability-improved-no-more-unexpected-crashes/"><u>Wolcen PC Game Stability Improved - No More Unexpected Crashes</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-prevent-unwanted-video-captures-in-qt-player/"><u>[New] In 2024, Prevent Unwanted Video Captures in QT Player</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-craft-memorable-content-explore-youtubes-top-10-creative-responses/"><u>[Updated] In 2024, Craft Memorable Content Explore YouTube's Top 10 Creative Responses</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-explore-our-updated-top-10-best-fb-video-extractors-for-android-users/"><u>[Updated] In 2024, Explore Our Updated Top 10 Best FB Video Extractors for Android Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastery-of-video-sharing-a-guide-to-utilizing-zoom-on-the-youtube-platform/"><u>[Updated] Mastery of Video Sharing A Guide to Utilizing Zoom on the YouTube Platform</u></a></li>
+<li><a href="https://program-issues.techidaily.com/5-straightforward-remedies-for-common-winwordexe-errors/"><u>5 Straightforward Remedies for Common WINWORD.EXE Errors</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-apple-iphone-12-mini-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and Apple iPhone 12 mini The Right Way</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723003795758-how-to-fix-resident-evil-village-pc-game-crashes-solved/"><u>How to Fix Resident Evil Village PC Game Crashes - Solved!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-age-of-wonders-planetfall-from-continuously-crashing-on-windows-1011/"><u>How to Stop Age of Wonders: Planetfall From Continuously Crashing on Windows 10/11</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Motorola Moto G 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-samsung-galaxy-f14-5g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Samsung Galaxy F14 5G online without jailbreak</u></a></li>
+<li><a href="https://program-issues.techidaily.com/loading-woes-be-gone-expert-tips-for-a-smooth-among-us-experience/"><u>Loading Woes Be Gone! Expert Tips for a Smooth Among Us Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-hardware-with-toms-expert-insights-and-guides/"><u>Navigating the World of Hardware with Tom's Expert Insights and Guides</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-your-minecraft-game-crashes-a-step-by-step-guide/"><u>Resolving Your Minecraft Game Crashes: A Step-by-Step Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722990245296-skyrim-muted-heres-how-to-bring-back-game-sounds/"><u>Skyrim Muted? Here's How to Bring Back Game Sounds!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-pc-issues-resolving-pubg-not-responding-and-freezing-problems/"><u>Troubleshooting PC Issues: Resolving 'PUBG Not Responding' And Freezing Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-resolving-constant-game-crashes-in-darkest-dungeon-nxt/"><u>Troubleshooting Tips for Resolving Constant Game Crashes in Darkest Dungeon Nxt</u></a></li>
+<li><a href="https://extra-information.techidaily.com/voice-memories-on-the-go-2024iphone-edition/"><u>Voice Memories on the Go - 2024iPhone Edition</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot and Correct Error 327 in Star Wars Battlefront 2 for Smooth Gameplay
-date: 2024-08-23T17:32:29.503Z
-updated: 2024-08-24T17:32:29.503Z
+date: 2024-11-03T19:37:37.746Z
+updated: 2024-11-06T21:55:26.239Z
 tags:
   - win11
   - win10
@@ -41,9 +41,6 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 
 You can fix it by uninstalling the multiplayer HD texture packs.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Update your graphic driver
 
  Halo Infinite stuttering or lagging problem is usually related to the graphic driver. Make sure your GPU is fully up to date, the older GPU drivers can lead to poor performance and micro stutter.
@@ -58,10 +55,6 @@ There are mainly two ways you can update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
@@ -72,9 +65,6 @@ There are mainly two ways you can update the graphics driver:
 
  If updating the graphics driver doesn’t work, you can move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3: Change in-game settings
 
  Some gamers found when they turn on VSYN with setting frames rate to 144 or 90, the stuttering issue has gone. You can have a try. It’s a simple and common fix that has helped a lot of gamers. You can give it a try.
@@ -84,6 +74,13 @@ There are mainly two ways you can update the graphics driver:
 2) Click**SETTINGS** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
 
@@ -95,20 +92,28 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-34.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 7) Run the game to check.
 
 If it’s not working, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 4: Turn off background apps
 
  The background apps could be the culprit for the Halo Infinite stuttering issue. Especially the background recording apps that can cause performance issues when enabled. You can turn off these apps to improve performance.
@@ -119,10 +124,14 @@ If it’s not working, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Change NVIDIA resolution
 
@@ -140,8 +149,6 @@ If it’s not working, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +156,26 @@ If it’s not working, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-top-12-no-cost-high-end-video-apps-for-seamless-viewing-experience-pc-and-tabletsmartphone/"><u>[New] Top 12 No-Cost High-End Video Apps for Seamless Viewing Experience (PC & Tablet/Smartphone)</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-gamers-screen-recordings-with-win10/"><u>[Updated] 2024 Approved The Ultimate Guide to Gamers' Screen Recordings with Win10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-commercial-sky-storage-provider/"><u>2024 Approved Ultimate Commercial Sky-Storage Provider</u></a></li>
+<li><a href="https://program-issues.techidaily.com/biomutant-troubleshooting-top-strategies-to-resolve-pc-issues/"><u>Biomutant Troubleshooting: Top Strategies to Resolve PC Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/crash-free-gaming-expert-tips-to-resolve-ghost-recon-breakpoint-issues-instantly/"><u>Crash-Free Gaming: Expert Tips to Resolve Ghost Recon Breakpoint Issues Instantly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/halo-infinite-performance-tweaks-eliminating-frame-drops-and-stutters-for-fluid-action/"><u>Halo Infinite Performance Tweaks: Eliminating Frame Drops and Stutters for Fluid Action</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2020-without-passcode-4-easy-methods-by-drfone-ios/"><u>How To Unlock Apple iPhone SE (2020) Without Passcode? 4 Easy Methods</u></a></li>
+<li><a href="https://program-issues.techidaily.com/immediate-steps-to-overcome-league-of-legends-game-connectivity-hurdles/"><u>Immediate Steps to Overcome League of Legends Game Connectivity Hurdles</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/improve-instagram-and-twitter-posts-with-chatgpts-ai-powered-assistance/"><u>Improve Instagram and Twitter Posts with ChatGPT's AI-Powered Assistance</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-art-of-starting-fallout-3-proven-fixes-and-guides/"><u>Mastering the Art of Starting Fallout 3: Proven Fixes and Guides</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/mp4-editing-made-easy-on-os-x-mavericks-for-2024/"><u>MP4 Editing Made Easy on OS X Mavericks for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-compatibility-barrier-win10-and-nvidia/"><u>Overcoming Compatibility Barrier: Win10 & Nvidia</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/problemlosung-fur-keine-verwendbaren-laufwerke-gefunden-bei-windows-10-systemwiederherstellung/"><u>Problemlösung Für Keine Verwendbaren Laufwerke Gefunden Bei Windows 10 Systemwiederherstellung</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pubg-crash-fixes-resolve-blackscreen-and-hanging-issues-easily/"><u>PUBG Crash Fixes: Resolve Blackscreen & Hanging Issues Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-v-rising-crash-issue-a-step-by-step-guide-for-windows-pc-users/"><u>Solving the V-Rising Crash Issue: A Step-by-Step Guide for Windows PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-for-directx-errors-on-cod-mw2/"><u>Step-by-Step Troubleshooting for DirectX Errors on CoD MW2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/success-fix-guide-to-play-days-gone-on-windows-systems/"><u>Success! Fix Guide to Play Days Gone on Windows Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-get-hitman-n-3-running-on-windows/"><u>Troubleshooting Guide: How To Get Hitman N 3 Running on Windows</u></a></li>
+</ul></div>
 

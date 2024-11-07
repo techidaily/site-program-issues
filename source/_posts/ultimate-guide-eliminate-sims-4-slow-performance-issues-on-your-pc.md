@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Eliminate Sims 4 Slow Performance Issues on Your PC"
-date: 2024-08-23T17:38:25.409Z
-updated: 2024-08-24T17:38:25.409Z
+date: 2024-10-30T19:06:02.107Z
+updated: 2024-11-07T03:38:34.759Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 
 If this fix doesn’t work, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Run as administrator
 
  Lack of administrative rights can also be the reason for Nier Replicant crashing issue.
@@ -53,13 +60,30 @@ If this fix doesn’t work, move to the next fix.
 1. Right-click on Nier Replicant’s exe and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 2. In the**Compatibility** tab, check**Run this program as administrator** and hit**OK > Apply** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch the game to check.
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this doesn’t work for you, then try to verify game files in Steam.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify game files
 
@@ -71,16 +95,9 @@ If this fix doesn’t work, move to the next fix.
 3. In the left pane, select**LOCAL FILES** , then click**Verify integrity of game files….**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-2.jpg)
 4. When the process is completed, relaunch NieR Replicant.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
 If this fix doesn’t bring luck, take a look at the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your drivers
 
  One of the most common causes of games crashing is you’re using outdated or corrupted drivers. You need to make sure your drivers are fully up-to-date so that you’re able to enjoy one of the best AAA titles in 2021.
@@ -95,12 +112,16 @@ There are mainly two ways you can update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -109,9 +130,6 @@ There are mainly two ways you can update the graphics driver:
 
  If the latest drivers doesn’t solve the issue, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Disable your antivirus software
 
  It’s possible that your anti-virus/Windows Security is interfering with NieR Replicant. When they block part of game files, there’ll be crashes. Therefore, disable real-time protection temporarily or make an exception for the game in the antivirus software would fix the issue.
@@ -121,18 +139,27 @@ Here’s how to disable Windows Security temporarily.
 1. Press the**Windows logo key and I** together on your keyboard to open Windows Settings. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Select**Windows Security** in the left pane, and click**Virus & threat protection** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
 3. Click**Manage settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Turn off Real-time protection.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Relaunch NieR Replicant and check if it’s running properly.
 
  If this method doesn’t work for you, enable your antivirus software or Windows Security as soon as possible.
@@ -147,8 +174,6 @@ Relaunch NieR Replicant and check if it’s running properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +181,24 @@ Relaunch NieR Replicant and check if it’s running properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-deciding-the-top-iphone-video-editor-cameo-or-filmorago/"><u>[New] Deciding the Top iPhone Video Editor Cameo or FilmoraGo?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-endless-viewing-loop-your-iphone-videos-today/"><u>[Updated] In 2024, Endless Viewing Loop Your iPhone Videos Today</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-alternatives-to-windows-traditional-video-editing/"><u>2024 Approved Alternatives to WIndows' Traditional Video Editing</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-y36i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo Y36i | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/advanced-zoom-practices-for-chromebook-users/"><u>Advanced Zoom Practices for Chromebook Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013180582-common-fixes-for-crusader-kings-ii-launch-failures-get-gaming-now/"><u>Common Fixes for Crusader Kings II Launch Failures - Get Gaming Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/defeat-twitch-hiccups-7-strategies-for-resolving-playback-glitches/"><u>Defeat Twitch Hiccups: 7 Strategies for Resolving Playback Glitches</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-strategies-for-lowering-cpu-load-in-cyberpunk-2077/"><u>Effective Strategies for Lowering CPU Load in Cyberpunk 2077</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/get-into-advanced-dialogue-the-next-gen-ai-partner/"><u>Get Into Advanced Dialogue: The Next-Gen AI Partner</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-leading-free-software-for-quality-desktop-recording/"><u>In 2024, The Leading Free Software for Quality Desktop Recording</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-the-new-beats-pill-how-apple-is-revolutionizing-the-bluetooth-speaker-arena-again/"><u>Introducing The New Beats Pill: How Apple Is Revolutionizing the Bluetooth Speaker Arena Again</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004036022-samurai-warriors-5-pc-stability-issues-heres-what-you-need-to-know/"><u>Samurai Warriors 5 PC Stability Issues? Here's What You Need to Know!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-6-speedy-fixes-to-resolve-roblox-issues-on-your-pc/"><u>Top 6 Speedy Fixes to Resolve Roblox Issues on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-techniques-to-smooth-out-minecraft-play-on-your-computer/"><u>Top Techniques to Smooth Out Minecraft Play on Your Computer</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-ensuring-smooth-gameplay-on-your-computer-with-spellbreak/"><u>Troubleshooting Guide: Ensuring Smooth Gameplay on Your Computer with Spellbreak</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fixes-to-eliminate-v-rising-frame-drops-and-freeze-ups-on-pc/"><u>Ultimate Fixes to Eliminate 'V Rising' Frame Drops and Freeze-Ups on PC</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/ultimate-guide-converting-dvds-to-high-quality-h265-mp4-format/"><u>Ultimate Guide: Converting DVDs to High-Quality H.265 MP4 Format</u></a></li>
+</ul></div>
 

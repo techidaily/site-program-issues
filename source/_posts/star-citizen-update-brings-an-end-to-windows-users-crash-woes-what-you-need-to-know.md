@@ -1,7 +1,7 @@
 ---
 title: Star Citizen Update Brings an End to Windows Users' Crash Woes - What You Need To Know!
-date: 2024-10-26T23:43:49.402Z
-updated: 2024-11-01T08:22:30.350Z
+date: 2024-11-04T02:56:35.357Z
+updated: 2024-11-06T19:55:36.364Z
 tags:
   - win11
   - win10
@@ -31,18 +31,18 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 6. **[Lower your graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Run the game in Windowed mode](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1 – Ran the game as administrator
 
  Your PC may not give**Elite Dangerous or the game launcher** the necessary permissions they need to work correctly. You might run into game issues like game crashing in this case.
 
  Try running the game and the game launcher as administrator to see if it helps. If not, try the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2 – Verify the integrity of game files
 
@@ -54,22 +54,15 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Right-click **Elite Dangerous**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
@@ -97,6 +90,19 @@ This could take several minutes. Wait for the process to be complete.
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -128,13 +134,6 @@ This could take several minutes. Wait for the process to be complete.
 
 Your game still won’t work correctly? Read on and try Fix 5.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 6 – Lower your graphics settings
 
  If you’re playing Elite Dangerous on higher graphics settings than your PC can handle, you may run into crashing issues. To see if that’s the core issue, try lowering your graphics settings.
@@ -148,10 +147,10 @@ Your game still won’t work correctly? Read on and try Fix 5.
 If the crashing still happens, continue with the next solution below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 7 – Run the game in Windowed mode
@@ -161,6 +160,13 @@ If the crashing still happens, continue with the next solution below.
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-03-22.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Copy **%localappdata%Frontier DevelopmentsElite DangerousOptionsGraphics** and paste it into the text box, then press**Enter** .
 
@@ -193,24 +199,24 @@ If the crashing still happens, continue with the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-digital-footprint-how-to-share-your-short-videos-on-computers-and-phones/"><u>[New] 2024 Approved Digital Footprint How to Share Your Short Videos on Computers & Phones</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/nstantly-professional-masterful-thumbnails-created-fast-for-2024/"><u>[New] Instantly Professional Masterful Thumbnails Created Fast for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-maximize-visibility-a-guide-to-constructing-youtube-backlinks/"><u>[Updated] Maximize Visibility A Guide to Constructing YouTube Backlinks</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/come-ripristinare-i-tuoi-file-cancellati-con-testdisk-in-sistemi-operativi-windows/"><u>Come Ripristinare I Tuoi File Cancellati Con TestDisk in Sistemi Operativi Windows</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/converting-3gp-videos-into-webm-format-for-enhanced-online-viewing/"><u>Converting 3GP Videos Into WebM Format for Enhanced Online Viewing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-bug-resolved-game-now-running-smoothly/"><u>Cyberpunk 2077 Bug Resolved: Game Now Running Smoothly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-solving-the-mystery-of-dark-visuals-in-discord-screen-sharing/"><u>Diagnosing and Solving the Mystery of Dark Visuals in Discord Screen Sharing</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/engaging-audiences-full-rotational-cinematography/"><u>Engaging Audiences Full Rotational Cinematography</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-optimize-chromes-memory-usage-for-better-performance/"><u>How to Optimize Chrome's Memory Usage for Better Performance</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-unexpected-black-screens-a-comprehensive-guide/"><u>How to Overcome Unexpected Black Screens - A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-stuttering-in-assassins-creed-valhalla-a-comprehensive-guide-for-windows-players/"><u>How to Stop Stuttering in Assassin's Creed Valhalla – A Comprehensive Guide for Windows Players</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS without Passcode or Face ID</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-sony-bdp-s3700-review/"><u>In 2024, Sony BDP- S3700 Review</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-top-10-igtv-channels-you-should-start-following/"><u>In 2024, Top 10 IGTV Channels You Should Start Following</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-skype-message-delivery-failures-effective-strategies-for-seamless-communication/"><u>Overcoming Skype Message Delivery Failures: Effective Strategies for Seamless Communication</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-for-restoring-steam-connectivity-issues/"><u>Step-by-Step Solution for Restoring Steam Connectivity Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-pc-players-when-your-among-us-voice-chat-fails/"><u>Troubleshooting Steps for PC Players: When Your Among Us Voice Chat Fails</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-supercharge-frame-rates-and-dominate-on-tainted-grail-conquest/"><u>Ultimate Guide: Supercharge Frame Rates and Dominate on Tainted Grail: Conquest</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/videoya-music-library-integration-download-and-sync-across-android-ios-and-desktop/"><u>Videoya Music Library Integration - Download & Sync Across Android, iOS, and Desktop</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-generating-wealth-with-makeup-channels-for-2024/"><u>[New] Generating Wealth with Makeup Channels for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-roadmap-to-thriving-in-twitter-live-broadcasts/"><u>[New] The Roadmap to Thriving in Twitter Live Broadcasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-no-fuss-guide-for-exploring-loved-and-trending-youtube-comments/"><u>2024 Approved The No-Fuss Guide for Exploring Loved and Trending YouTube Comments</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726227320515-movavi/"><u>提升工作效率的多媒體編解碼器 - Movavi, 無敵安全保護</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-solutions-to-prevent-discord-from-frequently-crashing-down/"><u>Comprehensive Solutions to Prevent Discord From Frequently Crashing Down</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dealing-with-sons-of-the-forest-crashes-on-pc-a-comprehensive-guide-for-players/"><u>Dealing with 'Sons of the Forest' Crashes on PC - A Comprehensive Guide for Players</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/gimp-multimedia-editor-free-edition-evaluated-across-various-platforms/"><u>GIMP Multimedia Editor Free Edition Evaluated Across Various Platforms</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-honor-90-gtwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Honor 90 GTwith/without a PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-redmi-note-13-5g-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Redmi Note 13 5G?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-minecraft-lagging-proven-pc-performance-hacks/"><u>How To Stop Minecraft Lagging – Proven PC Performance Hacks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-xiaomi-14-ultra-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Xiaomi 14 Ultra Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/nier-shadow-complexes-crash-issues-resolved/"><u>NieR: Shadow Complexes Crash Issues Resolved</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-iphone-12-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your iPhone 12 Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-obs-streaming-interruptions-and-slow-recordings-a-complete-guide/"><u>Solving OBS Streaming Interruptions & Slow Recordings - A Complete Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-for-battlefield-2042-directx-troubleshooting/"><u>Step-by-Step Solutions for Battlefield 2042 DirectX Troubleshooting</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-10-websites-for-easier-apartment-hunting/"><u>Top 10 Websites for Easier Apartment Hunting</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-overcoming-hitman-3s-persistent-connection-problems/"><u>Troubleshooting Tips for Overcoming Hitman 3'S Persistent Connection Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-the-2024-steam-game-freezing-and-black-screen-issues/"><u>Ultimate Guide: Solving the 2024 Steam Game Freezing & Black Screen Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-solutions-for-battlefront-ii-pc-version-crashes-get-back-to-gaming-now/"><u>Ultimate Solutions for Battlefront II PC Version Crashes – Get Back to Gaming Now</u></a></li>
 </ul></div>
 

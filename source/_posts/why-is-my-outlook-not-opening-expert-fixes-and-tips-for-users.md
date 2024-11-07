@@ -1,7 +1,7 @@
 ---
 title: Why Is My Outlook Not Opening? Expert Fixes & Tips for Users
-date: 2024-10-28T21:03:55.973Z
-updated: 2024-11-01T04:10:09.982Z
+date: 2024-11-01T03:32:54.619Z
+updated: 2024-11-07T01:11:50.818Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 5. [Update your system](https://tools.techidaily.com/drivereasy/download/)
 6. [Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check the privacy settings
 
  Make sure your camera was allowed to the Discord. Many people didn’t open the toggle and cause the camera not working issue.
@@ -35,13 +42,6 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 1. Press the**Windows logo key + I** and click**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_9-57-31.jpg)
 2. Click**Camera** in the left panel.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Make sure the toggle under**Allow apps to access your camera** is on.
 4. Click the**Change** button, check the**Camera access for this device** is on.  
@@ -109,10 +109,10 @@ OR
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Update your system
@@ -123,15 +123,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-1.jpg)
 2. Click **Check for updates** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![click Check for updates to see if your computer is up-to-date or if there are any updates available](https://images.drivereasy.com/wp-content/uploads/2020/10/click-check-for-updates-check-for-Windows-Updates.jpg)
 3. Update the system if there’s an available version.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Follow the on-screen information to finish the process. Reboot your computer and check the camera.
 
@@ -147,45 +147,45 @@ If your camera is still not working on Discord, move to the next fix.
 3. Find Discord and click to expand it. Click the**Uninstall** button.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-40-47.jpg)
 4. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5. Press the**Windows logo key + R** to open the Run box and type**%appdata%** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-42-04.jpg)
 6. Find the Discord folder and delete it.  
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-01.jpg)
 7. Open the Run box and type**%LocalAppData%** .  
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-33.jpg)
 8. Find the Discord folder and delete it.  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-45-16.jpg)
 9. Restart your computer.
@@ -214,16 +214,20 @@ If your camera is still not working on Discord, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-a-guide-to-effective-hashtag-integration-on-facebook-platforms/"><u>[New] In 2024, A Guide to Effective Hashtag Integration on Facebook Platforms</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-mastering-mobile-shots-ios-11s-camera-innovations/"><u>[New] Mastering Mobile Shots IOS 11'S Camera Innovations</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-top-5-essential-gameplay-cams-for-live-streamers/"><u>2024 Approved Top 5 Essential Gameplay Cams for Live Streamers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-visionary-vittles-steps-to-craft-food-films/"><u>2024 Approved Visionary Vittles Steps to Craft Food Films</u></a></li>
-<li><a href="https://program-issues.techidaily.com/dragon-age-origins-windows-11-crashes-now-fixed-enjoy-seamless-gaming-experience/"><u>Dragon Age: Origins - Windows 11 Crashes Now Fixed, Enjoy Seamless Gaming Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-it-how-to-successfully-install-and-play-payday-2-on-your-computer/"><u>Fix It! How to Successfully Install and Play Payday 2 on Your Computer</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-from-stills-to-movies-a-pixiz-tutorial-for-photo-animators/"><u>In 2024, From Stills to Movies A Pixiz Tutorial for Photo Animators</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-issues-final-fantasy-xv-pc-game-crashes-solutions-inside/"><u>Resolving Issues: Final Fantasy XV PC Game Crashes - Solutions Inside</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tracing-the-lifeline-chatgpts-present-state/"><u>Tracing the Lifeline: ChatGPT’s Present State</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-resident-evil-villages-pc-black-screen-problem/"><u>Troubleshooting Resident Evil Village's PC Black Screen Problem</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-the-final-epoch-bug-in-windows-computers/"><u>Ultimate Guide: Solving the Final Epoch Bug in Windows Computers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-enhance-your-presence-how-to-change-voice-effectively-on-ig/"><u>[Updated] Enhance Your Presence How to Change Voice Effectively on IG</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-exploring-the-world-of-visual-identity-in-discord-profiles/"><u>[Updated] Exploring the World of Visual Identity in Discord Profiles</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/2023s-most-secure-authentication-devices-a-comprehensive-review/"><u>2023'S Most Secure Authentication Devices: A Comprehensive Review</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/delving-into-the-features-that-make-ios-17-noteworthy/"><u>Delving Into the Features that Make iOS 17 Noteworthy</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/efficiently-change-your-facebook-videos-into-mp3-songs-for-2024/"><u>Efficiently Change Your Facebook Videos Into MP3 Songs for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/freeze-time-on-mi-11-with-impeccable-screen-recording-features/"><u>Freeze Time on Mi 11 with Impeccable Screen Recording Features</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-when-your-pcs-framerate-drops-by-two-frames-per-second/"><u>How to Fix When Your PC's Framerate Drops by Two Frames per Second</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-webcam-driver-updates-available-optimize-your-windows-camera-experience/"><u>Latest Webcam Driver Updates Available – Optimize Your Windows Camera Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/now-smooth-sailing-with-subnautica-below-zero-on-your-windows-pc/"><u>Now Smooth Sailing with Subnautica: Below Zero on Your Windows PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/outlook-wont-connect-fix-it-now-with-these-expert-tips/"><u>Outlook Won't Connect? Fix It Now with These Expert Tips!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-common-causes-of-overwatch-2-collapses-during-playtime-on-pcs/"><u>Overcoming Common Causes of Overwatch 2 Collapses During Playtime on PCs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-installation-hurdles-how-to-enjoy-tiny-tinas-wonderlands-flawlessly-on-pc/"><u>Overcoming Installation Hurdles - How to Enjoy Tiny Tina's Wonderlands Flawlessly on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-fixes-for-common-issues-preventing-battlefield-4-from-starting-on-desktop/"><u>Solved: Fixes for Common Issues Preventing Battlefield 4 From Starting on Desktop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/wallpaper-engine-stability-solutions-for-users-of-windows-11-and-10/"><u>Wallpaper Engine Stability Solutions for Users of Windows 11 and 10</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolving Playback Problems in RoboCop: Rogue City – How to Get It Running Smoothly on Your Computer"
-date: 2024-10-30T02:58:16.022Z
-updated: 2024-10-31T23:19:17.193Z
+date: 2024-11-04T22:59:08.619Z
+updated: 2024-11-06T18:33:20.773Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 
  The screenshots below come from Windows 10, but the fixes also apply to Windows 7, 8 and 11.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Verify the integrity of your game files
 
  Missing or damaged game files is a common cause of most gaming issues. So if your Destiny 2 Beyond Light keeps crashing, it’s a good idea to validate the game files first.
@@ -51,18 +44,25 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-22-2.jpg)
 3. Select the**Local Files** tab, and click**Verify Integrity of Game Files** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  It will take a few minutes for Steam to detect and repair any corrupted files. Upon completion, you can relaunch Beyond Light to see if it crashes again. If yes, proceed to more fixes below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -91,13 +91,20 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). You can also click**Update** to do it for free, but it’s partly manual.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -105,13 +112,6 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
  Test how Destiny 2 Beyond Light works after the driver update. If the crashes persist, move on to the next fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Set high priority
 
@@ -121,8 +121,22 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-1-4.jpg)
 2. Select the**Details** tab.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-1-5.jpg)
 3. Right-click the**Destiny 2: Beyond Light.exe file** . Then, mouse over**Set priority** and select**Above normal** or**High** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-2-3.jpg)
 4. Click**Change priority** to confirm.
@@ -142,32 +156,12 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4-3.jpg)
 3. Under the Global Settings section, scroll down and**turn off Shader Cache** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-2.jpg)
 4. Go to**C:\\ProgramData\\NVIDIA Corporation\\NV\_Cache** and**delete the content of that folder** . (You can also copy them and store them elsewhere.)
 
  Launch Beyond Light again and the crashing problem should no longer occur. If not, go to Fix 5 below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Reinstall Destiny 2: Beyond Light
 
@@ -177,18 +171,18 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-0.jpg)
 2. Right-click**Destiny 2 Beyond Light** and click**Manage** \>**Uninstall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-2.jpg)
 3. On your keyboard, press the**Windows logo key** and**E** at the same time to open File Explorer.
 
 4. Go to this path:**C:\\Program Files (x86)\\Steam\\steamapps\\common** . Then, delete the**Destiny 2 Beyond Light** folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now that the game is clean removed from your PC, download it again on Steam and check if it works without problems.
 
@@ -215,18 +209,22 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-haven.techidaily.com/adding-watermarks-with-windows/"><u>Adding Watermarks with Windows</u></a></li>
-<li><a href="https://article-tips.techidaily.com/1723262393318-asus-unveils-revolutionary-rog-nuc-with-advanced-core-ultra-9-processors-and-impressive-rtx-nvidia-graphics-starting-at-just-1629/"><u>Asus Unveils Revolutionary ROG NUC with Advanced Core Ultra 9 Processors and Impressive RTX nVidia Graphics Starting at Just $1,629</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/enhance-your-system-performance-targus-displaylink-driver-updates-for-win-1187-download/"><u>Enhance Your System Performance: Targus DisplayLink Driver Updates for Win 11/8/7 - Download</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-for-a-smooth-hell-let-loose-gaming-experience-crash-no-more/"><u>Expert Advice for a Smooth Hell Let Loose Gaming Experience: Crash No More</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-sims-4-graphics-issue-with-your-video-card/"><u>Fixing The Sims #4 Graphics Issue with Your Video Card</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-samsung-galaxy-f04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/madden-nfl-2e-troubleshooting-pc-issues-and-preventing-crashes/"><u>Madden NFL 2E - Troubleshooting PC Issues and Preventing Crashes</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/master-the-hunt-without-hiccups-troubleshooting-and-fixing-pc-bugs-in-the-witcher-3/"><u>Master the Hunt without Hiccups: Troubleshooting and Fixing PC Bugs in The Witcher 3</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/resolve-your-gaming-experience-with-no-more-input-lag-tackling-the-issue-of-a-sluggish-second-monitor-in-win-1011/"><u>Resolve Your Gaming Experience with No More Input Lag: Tackling the Issue of a Sluggish Second Monitor in Win 10/11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolved-troubleshooting-guide-for-fixing-windows-11-sound-issues/"><u>Resolved: Troubleshooting Guide for Fixing Windows 11 Sound Issues</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ultimate-list-of-no-cost-sniping-apps-discover-the-top-picks-for-effortless-screenshots/"><u>Ultimate List of No-Cost Sniping Apps: Discover the Top Picks for Effortless Screenshots</u></a></li>
-<li><a href="https://program-issues.techidaily.com/vrchat-wont-launch-expert-advice-for-resolving-your-virtual-world-problems/"><u>VRChat Won't Launch? Expert Advice for Resolving Your Virtual World Problems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-step-by-step-guide-using-nvidia-recorder/"><u>[Updated] In 2024, Step-by-Step Guide Using NVIDIA Recorder</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-list-7-indispensable-devices-in-the-metaverse/"><u>2024 Approved The Ultimate List 7 Indispensable Devices in the Metaverse</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-fixing-and-preventing-nwstoreexe-application-failures/"><u>Comprehensive Guide: Fixing and Preventing NW_Store.exe Application Failures</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/deep-dive-into-theta-s-a-full-camera-examination/"><u>Deep Dive Into Theta S A Full Camera Examination</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-starcraft-ii-game-crashing-issues-on-desktop-computers/"><u>Fixes for Starcraft II Game Crashing Issues on Desktop Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-game-lag-ultimate-tips-to-overcome-code-veins-freezing-problem/"><u>Fixing Game Lag: Ultimate Tips to Overcome Code Vein's Freezing Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-pc-crashes-in-wolcen-lords-of-mayhem-now-running-smoothly/"><u>Fixing PC Crashes in Wolcen: Lords of Mayhem, Now Running Smoothly</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/gratuit-online-konverteren-van-mkv-naar-gif-professioneel-programma-movavi/"><u>Gratuit Online Konverteren Van Mkv Naar Gif - Professioneel Programma Movavi</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leading-edge-vr-game-development-technology-2023-edition-for-2024/"><u>Leading Edge VR Game Development Technology, 2023 Edition for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-server-latency-and-link-up-challenges-in-new-worlds-current-build/"><u>Overcoming Server Latency & Link-Up Challenges in New World's Current Build</u></a></li>
+<li><a href="https://program-issues.techidaily.com/palworld-launch-failures-heres-how-to-get-it-up-and-running-easily/"><u>Palworld Launch Failures? Here's How to Get It Up and Running Easily</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-vivo-s18-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Vivo S18 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-post-launch-woes-steps-to-prevent-outpost-beyond-from-crashing-on-your-pc/"><u>Solving Post-Launch Woes: Steps to Prevent 'Outpost: Beyond' From Crashing on Your PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-portable-audio-systems-expert-reviews-by-zdnet/"><u>Top-Rated Portable Audio Systems - Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-handbrake-solutions-for-windows-10-and-11-compatibility-issues/"><u>Troubleshooting Handbrake: Solutions for Windows 10 & 11 Compatibility Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-simultaneous-fps-drops-for-a-smoother-gaming-experience/"><u>Troubleshooting Simultaneous FPS Drops for a Smoother Gaming Experience</u></a></li>
 </ul></div>
 

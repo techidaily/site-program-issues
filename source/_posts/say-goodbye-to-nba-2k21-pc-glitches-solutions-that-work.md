@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to NBA 2K21 PC Glitches - Solutions That Work
-date: 2024-08-23T17:39:50.321Z
-updated: 2024-08-24T17:39:50.321Z
+date: 2024-11-03T21:56:17.028Z
+updated: 2024-11-07T01:41:28.740Z
 tags:
   - win11
   - win10
@@ -57,6 +57,13 @@ thumbnail: https://thmb.techidaily.com/b39a417d51f84d42969e276c8326049152a3ecf4c
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nba-2k21-verify-gamefiles-02.jpg)
 3. Launch NBA 2K21 and check if it crashes again.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this method doesn’t give you any luck, take a look at the next one.
 
 ### Fix 2: Install all Windows updates
@@ -68,6 +75,14 @@ You can follow these steps to install all Windows updates:
 1. On your keyboard, press the**Windows logo key** and**I** at the same time. This will open the Windows Settings app. Select**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . It’s going to take a while for Windows to search and install available updates. Once completed, restart your computer.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To make sure you’ve installed _all_  system updates, repeat these steps until it prompts “You’re up to date” when you click **Check for updates** .
@@ -76,9 +91,6 @@ After updating your system, you can open NBA 2K21 and test your gameplay.
 
 If 2K21 crashes again, simply move on to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  One of the most common causes of crashing is**a corrupted or outdated graphics driver** . So you should definitely try updating your graphics drivers before testing anything more complicated.
@@ -91,17 +103,36 @@ If 2K21 crashes again, simply move on to the next method.
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-04_17-40-32-2.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-rtx-2080-pro-update-all.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your computer and check if the crash with 2K21 has been fixed.
 
  If this fix doesn’t solve your problem, you can try the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Close in-game overlay
 
@@ -112,17 +143,18 @@ For example, you can use these steps to disable Steam overlay:
 1. Open your Steam client. On the top left corner, click**Steam** and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/steam-settings.jpg)
 2. Select**In-Game** from the left menu. Under the**Steam Overlay** section,**uncheck** these three boxes and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 3. Launch NBA 2K21 and see if the issue persists.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If turning off in-game overlay doesn’t do the trick for you, simply move on to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Turn off VSync
 
  In simpler terms, VSync, or Vertical Sync, refers to a graphics technology that synchronizes the game FPS to the refresh rate of your monitor. Though this feature fixes the screen tearing issue, there’re also reports that VSync might cause instability in games. You can therefore try**disabling VSync** as it might be the culprit of the crash.
@@ -130,16 +162,10 @@ For example, you can use these steps to disable Steam overlay:
 1. First you need to turn off VSync in your **graphics control panel** . To do so, right-click a blank area on desktop, then select**NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-control-panel-vsync.jpg)
 2. From the menu on the left, select **Manage 3D settings** . Make sure you’re at the **Global Settings** tab, then click the text to the right of **Vertical sync** and select **off** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-vsync-nvidia-control-panel.jpg)
 3. Second, you need to disable VSync in NBA 2K21\. Launch 2K21 and go to FEATURES > VIDEO SETTINGS. Then set**Vertical Sync** to**off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nba-2k21-vsync-off.jpg)
 4. Restart NBA 2K21 and check if your problem has gone.
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -151,8 +177,6 @@ For example, you can use these steps to disable Steam overlay:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +184,24 @@ For example, you can use these steps to disable Steam overlay:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-the-roadmap-to-a-top-ranked-facebook-profile/"><u>[New] In 2024, The Roadmap to a Top-Ranked Facebook Profile</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-top-tier-strategies-mastering-screens-with-adobe-captivate/"><u>[New] In 2024, Top-Tier Strategies Mastering Screens with Adobe Captivate</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-league-of-legends-lag-issue/"><u>[SOLVED] League of Legends Lag Issue</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016396465-csgo-audio-trouble-heres-how-to-resolve-mic-problems/"><u>CS:GO Audio Trouble? Here's How to Resolve Mic Problems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exclusive-selection-optimal-drones-available/"><u>Exclusive Selection Optimal Drones Available</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-perform-a-refresh-or-reset-from-a-hard-reboot-in-windows-10/"><u>How to Perform a Refresh or Reset From a Hard Reboot in Windows 10</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-remove-apple-iphone-15-plus-sim-lock-by-drfone-ios/"><u>How to Remove Apple iPhone 15 Plus SIM Lock?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-wireless-methods-to-mirrorapple-iphone-15-pro-max-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>In 2024, Wireless Methods to MirrorApple iPhone 15 Pro Max & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/invest-in-memories-at-a-cost-you-love-the-akaso-ek7000/"><u>Invest in Memories at a Cost You Love - The AKASO EK7000</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-first-time-load-problems-fixing-the-black-screen-on-launch-for-helldivers-ii/"><u>Overcoming First-Time Load Problems: Fixing the Black Screen on Launch for Helldivers II</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-heart-of-iron-iv-common-errors-a-comprehensive-guide/"><u>Resolving Heart of Iron IV Common Errors: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-new-world-game-ultimate-guide-to-lowering-excessive-cpu-usage/"><u>Solving 'New World' Game: Ultimate Guide to Lowering Excessive CPU Usage</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-overcoming-razer-synapse-cannot-open/"><u>Troubleshooting Tips: Overcoming 'Razer Synapse Cannot Open'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-stop-the-hiccups-in-age-of-empires-4-gameplay/"><u>Troubleshooting Tips: Stop the Hiccups in Age of Empires 4 Gameplay</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fix-for-scavengers-keeping-you-from-gaming-on-your-computer/"><u>Ultimate Fix for Scavengers Keeping You From Gaming On Your Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unusual-sideway-photos-in-instagram-storytelling-for-2024/"><u>Unusual Sideway Photos in Instagram Storytelling for 2024</u></a></li>
+</ul></div>
 

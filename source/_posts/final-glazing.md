@@ -1,7 +1,7 @@
 ---
 title: Final Glazing
-date: 2024-10-29T09:01:13.632Z
-updated: 2024-10-31T19:22:55.686Z
+date: 2024-11-05T17:23:23.750Z
+updated: 2024-11-06T18:20:04.463Z
 tags:
   - win11
   - win10
@@ -50,13 +50,6 @@ FIFA 20 DirectX Error
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -69,6 +62,19 @@ FIFA 20 DirectX Error
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Unplug ccontrollers
 
  According to users’ report, unplugging controllers is also helpful in resolving the DirectX error in FIFA 20.
@@ -76,13 +82,6 @@ FIFA 20 DirectX Error
  So if you have any controllers plugged into your computer, you can remove them. Then launch FIFA 20 again to see if the error is solved. If yes, then congrats! If the issue persists, please try**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3:**Modify fifasetup.ini**
 
@@ -92,19 +91,26 @@ Here is how to do it:
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and**R** at the same time, then type_**C: \\ Users \\% Username% \\ Documents \\ FIFA 20 Demo**_ and press**Enter** .
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-129.png)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Double-click on the**fifasetup.ini** file.
@@ -120,13 +126,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Update DirectX
 
  DirectX is a suite of components in Windows that allows heavy multimedia apps such as games to interact with your video and audio cards. If you’re running an old version of DirectX, it’s possible that it won’t be able to handle the graphics rendering and processing task, which might cause the DirectX error. So you should update DirectX to the latest version to see if it fixes the issue.
@@ -138,6 +137,13 @@ Here is how to do it:
  Still no joy? please move on to **Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Check if your PC meets the system requirements for FIFA 20
 
@@ -200,15 +206,24 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-enhancing-viewer-attention-igtv-cover-tips/"><u>[New] Enhancing Viewer Attention IGTV Cover Tips</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-next-gen-ai-picture-perfection-software-for-2024/"><u>[New] Next-Gen AI Picture Perfection Software for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-becoming-a-bull-or-bear-best-stock-vids-on-youtube-for-2024/"><u>[Updated] Becoming a Bull or Bear Best Stock Vids on YouTube for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-fresh-sounds-for-your-ig-story/"><u>[Updated] Fresh Sounds for Your IG Story</u></a></li>
-<li><a href="https://program-issues.techidaily.com/escaping-the-deadlock-expert-tips-to-get-out-of-minecrafts-loading-loop/"><u>Escaping the Deadlock: Expert Tips to Get Out of Minecraft's Loading Loop</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/free-vob-player-for-pc-and-mac-for-2024/"><u>Free VOB Player for PC and Mac for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-msi-afterburner-failure-to-recognize-gpu-in-windows-11/"><u>How to Fix MSI Afterburner Failure to Recognize GPU in Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722995789012-organophosphates-inhibit-acetylcholinesterase-leading-to-an-accumulation-of-acetylcholine-causing-muscarinic-symptoms-but-not-primarily-cardiotoxicity/"><u>Organophosphates Inhibit Acetylcholinesterase Leading to an Accumulation of Acetylcholine, Causing Muscarinic Symptoms but Not Primarily Cardiotoxicity</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-avatar-frontiers-of-pandora-performance-issues-boost-your-fps-and-smooth-out-the-motion/"><u>Solving 'Avatar: Frontiers of Pandora' Performance Issues – Boost Your FPS & Smooth Out the Motion</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-free-tools-roundup-leading-online-video-capture-tech-for-2024/"><u>[New] Free Tools Roundup Leading Online Video Capture Tech for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-stand-out-on-youtube-with-these-20-top-font-choices/"><u>[New] In 2024, Stand Out on YouTube with These 20 Top Font Choices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-achieving-youtube-mastery-with-effective-use-of-creator-studio-tools/"><u>[Updated] In 2024, Achieving YouTube Mastery with Effective Use of Creator Studio Tools</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-creative-backgrounds-for-engaging-thumbnails/"><u>2024 Approved Creative Backgrounds for Engaging Thumbnails</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-step-into-the-full-screen-era-for-fb-video-viewing/"><u>2024 Approved Step Into the Full-Screen Era for FB Video Viewing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-solution-guide-turning-xml-and-ttml-into-srt-for-2024/"><u>Comprehensive Solution Guide Turning XML & TTML Into SRT for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-resolving-acrocefexe-program-malfunction/"><u>Effective Solutions for Resolving AcroCEF.exe Program Malfunction</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-dull-to-dynamic-top-11-techniques-for-improved-colors/"><u>From Dull to Dynamic Top 11 Techniques for Improved Colors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-resolving-camera-connectivity-problems-on-your-device-running-snap-apps/"><u>Guide: Resolving Camera Connectivity Problems on Your Device Running Snap Apps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-strategizing-with-snapshots-a-guide-to-instagram-video-marketing/"><u>In 2024, Strategizing with Snapshots A Guide to Instagram Video Marketing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maintain-a-consistently-professional-demeanor-when-dealing-with-difficult-or-dissatisfied-customers-demonstrating-empathy-while-providing-solutions-in-line-505/"><u>Maintain a Consistently Professional Demeanor when Dealing with Difficult or Dissatisfied Customers, Demonstrating Empathy While Providing Solutions in Line with Our Company Policies and Procedures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-gameplay-disruptions-no-more-frozen-frames-in-warframe/"><u>Overcoming Gameplay Disruptions: No More Frozen Frames in Warframe</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-pc-malfunction-in-elite-dangerous-tips-for-smooth-gaming-experience/"><u>Overcoming the PC Malfunction in Elite Dangerous - Tips for Smooth Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-itunes-connection-issues-with-iphone-on-microsofts-latest-os-windows-11/"><u>Resolving iTunes Connection Issues with iPhone on Microsoft's Latest OS, Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722988454128-the-elusive-rust-visual-flaw-is-finally-gone-find-out-how/"><u>The Elusive Rust Visual Flaw Is Finally Gone! Find Out How</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-realme-c51-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Realme C51 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723002065939-trouble-launching-call-of-duty-modern-warfare-2-here-are-solutions/"><u>Trouble Launching Call of Duty: Modern Warfare 2? Here Are Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-directx-issues-in-battlefield-2042-a-step-by-step-guide/"><u>Troubleshooting DirectX Issues in Battlefield 2042 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-eradicating-permanent-image-issues-from-your-display/"><u>Ultimate Guide: Eradicating Permanent Image Issues From Your Display</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Fatal Launch Stalls - Expert Tips for a Smooth Company Debut
-date: 2024-10-29T09:09:56.383Z
-updated: 2024-11-01T00:14:28.583Z
+date: 2024-11-01T20:37:30.005Z
+updated: 2024-11-06T17:19:14.761Z
 tags:
   - win11
   - win10
@@ -37,6 +37,19 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 
  Relaunch Immortals Fenyx Rising and it should be working properly. If this method doesn’t help, there are more fixes to try.
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2 – Run the game as an administrator
 
  To grant Immortals Fenyx Rising necessary permissions to work as intended, you should run it in the administrator mode.
@@ -46,29 +59,9 @@ Immortals Fenyx Rising, the latest action-adventure game released by Ubisoft, is
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-14.jpg)
 3. Click the**Compatibility** tab. Then, check the box next to**Run this program as an administrator** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/im-2.jpg)
 
  Run the game again to check if your problem gets fixed. If not, continue to the third method.
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -87,6 +80,13 @@ There are mainly two ways you can do this:
 
 ![amd 6800 xt driver download](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800xt.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You should expect a smooth gameplay after all the device drivers are updated. But if the game still won’t launch, check out the fixes below.
 
 ### Fix 4 – Verify the integrity of game files
@@ -100,6 +100,13 @@ There are mainly two ways you can do this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait until the scan and repair process completes, and restart your game to test. If the not launching problem persists, keep reading the last fix.
 
 ### Fix 5 – Use dedicated graphics card
@@ -111,41 +118,27 @@ There are mainly two ways you can do this:
 2. Select**Manage 3D settings** from the left pane.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-1.jpg)
 3. Click the**Program Settings** tab and then click**Add** to include the Immortals Fenyx Rising.exe file.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-3-1.jpg)
 4. Select**High-performance NVIDIA processor** from the drop-down menu. Then, click**Apply** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4-1.jpg)  
  Note: If you have an AMD graphics card, you could refer to this guide: **[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017)**  .
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. Type**graphics** in the Windows search bar, and click**Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-5.jpg)
@@ -156,6 +149,13 @@ There are mainly two ways you can do this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-8.jpg)
 8. On the pop-up menu, click**High performance** and click**Save** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now check if Immortals Fenyx Rising is able to launch. If all the methods above fail to get your game working, try contacting **[Ubisoft support](https://support.ubisoft.com/en-US)**  for further assistance.
 
@@ -180,20 +180,24 @@ There are mainly two ways you can do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-podcasting-prowess-crafting-a-trendsetting-showcase/"><u>[New] In 2024, Podcasting Prowess Crafting a Trendsetting Showcase</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-maximizing-impact-partnering-with-influencers-on-youtube/"><u>[New] Maximizing Impact Partnering with Influencers on YouTube</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-photography-at-the-tip-of-your-fingers-top-10-apps/"><u>[New] Photography at the Tip of Your Fingers – Top 10 Apps</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-a-detailed-analysis-djis-raptor-4-vr-goggle-features-for-2024/"><u>[Updated] A Detailed Analysis DJi's Raptor 4 VR Goggle Features for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-mastering-the-art-of-closeup-essential-filmmaking-tips-for-2024/"><u>[Updated] Mastering the Art of Closeup Essential Filmmaking Tips for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-features-that-make-ion-air-pro-3-stand-out/"><u>2024 Approved Exploring the Features that Make ION Air Pro 3 Stand Out</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/examining-the-new-evolution-of-sonys-s6500-player/"><u>Examining the New Evolution of Sony's S6500 Player</u></a></li>
-<li><a href="https://program-issues.techidaily.com/experiencing-issues-with-cortana-heres-how-you-can-resolve-them/"><u>Experiencing Issues With Cortana? Here's How You Can Resolve Them</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-pc-gaming-woes-overcome-grounded-crashes/"><u>Fix Your PC Gaming Woes: Overcome 'Grounded' Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723014066369-fixes-in-place-for-seamless-play-grand-theft-auto-vs-gta-nv-stuttering-problem-solved/"><u>Fixes in Place for Seamless Play: Grand Theft Auto V's (GTA Nv) Stuttering Problem Solved.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-your-mount-and-blade-2-bannerlord-crash-problems-with-ease/"><u>Fixing Your Mount & Blade 2: Bannerlord Crash Problems with Ease</u></a></li>
-<li><a href="https://program-issues.techidaily.com/hp-monitor-wont-turn-on-discover-the-solutions-fixed/"><u>HP Monitor Won't Turn On? Discover the Solutions (FIXED)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-issues-with-the-release-of-urban-planners-challenge-skycrapes-unbound/"><u>Resolving Issues with the Release of Urban Planner's Challenge: Skycrapes Unbound</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-tecno-spark-10-4g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Tecno Spark 10 4G for Parents | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-video-snapshots-made-easy-10-best-converters-for-turning-videos-into-photos/"><u>Updated 2024 Approved Video Snapshots Made Easy 10 Best Converters for Turning Videos Into Photos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-unleash-windows-11-potential-latest-apps-and-games/"><u>[Updated] In 2024, Unleash Windows 11 Potential Latest Apps & Games</u></a></li>
+<li><a href="https://windows11.techidaily.com/adding-comprehensive-firewall-tools-to-windows-11s-menu-bar/"><u>Adding Comprehensive Firewall Tools to Windows 11’S Menu Bar</u></a></li>
+<li><a href="https://fox-access.techidaily.com/beginners-backstage-pass-to-photo-tricks-for-2024/"><u>Beginner's Backstage Pass to Photo Tricks for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bot-safety-checklist-understanding-3-privacy-compromises/"><u>Bot Safety Checklist: Understanding 3 Privacy Compromises</u></a></li>
+<li><a href="https://program-issues.techidaily.com/football-manager-201nix-glitches-solved-comprehensive-troubleshooting-guide/"><u>Football Manager 201Nix Glitches Solved: Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/from-blackout-to-bright-lights-expert-fixes-for-the-star-wars-battlefront-2-visual-conundrum/"><u>From Blackout to Bright Lights: Expert Fixes for the Star Wars Battlefront 2 Visual Conundrum</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-install-easyanticheat-and-fix-not-installed-error-in-game-launcher-eac/"><u>How To Install EasyAntiCheat and Fix 'Not Installed' Error in Game Launcher (EAC)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-customize-your-video-to-fit-seamlessly-in-instagram/"><u>In 2024, Customize Your Video to Fit Seamlessly in Instagram</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-infinix-hot-40-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Infinix Hot 40 Pro – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/narrative-nexus-cutting-edge-storytelling-channels-of-the-year-for-2024/"><u>Narrative Nexus Cutting-Edge Storytelling Channels of the Year for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-10plus-free-online-audio-to-text-converters-for-2024/"><u>New 10+ Free Online Audio to Text Converters for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722988353316-nvidia-overlay-malfunction-heres-how-you-can-get-it-running-again/"><u>Nvidia Overlay Malfunction? Here's How You Can Get It Running Again!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-freezing-glitch-in-call-of-duty-black-ops-cold-war-step-by-step-guide/"><u>Resolving the 'Freezing' Glitch in Call of Duty: Black Ops Cold War - Step-by-Step Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/tips-to-develop-captivating-vlogs-a-scriptwriting-approach-for-2024/"><u>Tips to Develop Captivating Vlogs A Scriptwriting Approach for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-5-solutions-for-resolving-zoom-cannot-start-video-issues/"><u>Top 5 Solutions for Resolving 'Zoom Cannot Start Video' Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-common-problems-in-setting-up-ryzen-master-driver/"><u>Troubleshooting Common Problems in Setting Up Ryzen Master Driver</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-how-to-stop-hearthstone-from-crashing-on-your-pc/"><u>Troubleshooting Guide: How to Stop Hearthstone From Crashing on Your PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-fix-for-continuous-minecraft-game-crashes-follow-these-6-tips/"><u>Ultimate Fix for Continuous Minecraft Game Crashes - Follow These 6 Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlocking-black-friday-2022-dates-and-hunt-down-top-bargains-insights-from-zdnet/"><u>Unlocking Black Friday 2022 Dates & Hunt Down Top Bargains – Insights From ZDNet!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Phasmophobia: Tackling High Processor Usage"
-date: 2024-10-25T07:37:22.448Z
-updated: 2024-11-01T09:29:41.978Z
+date: 2024-11-06T00:08:40.829Z
+updated: 2024-11-06T17:23:10.624Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 3. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Run as administrator
 
  If restarting the game and your PC doesn’t fix the issue, try running the game with admin rights. This will allow the game to use more system resources that might fix the issue. It’s a useful cliché method for most gamers.
@@ -48,10 +55,10 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If it’s not working, move to next fix.
@@ -69,10 +76,10 @@ If it’s not working, move to next fix.
 No luck with this one? Move to the next.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your drivers
@@ -108,10 +115,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -127,19 +134,6 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
@@ -167,22 +161,22 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-a-straightforward-path-learn-how-to-use-ez-grabber-effectively/"><u>[New] In 2024, A Straightforward Path Learn How To Use EZ Grabber Effectively</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-ultimate-guide-to-stellar-tiktok-content-through-template-utilization-for-2024/"><u>[Updated] The Ultimate Guide to Stellar TikTok Content Through Template Utilization for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/armored-core-6-stability-fixes-overcoming-pc-game-crashing-problems/"><u>Armored Core 6 Stability Fixes - Overcoming PC Game Crashing Problems</u></a></li>
-<li><a href="https://win-forum.techidaily.com/diagnosing-and-fixing-maximum-disk-load-issues-in-windows-11-best-practices/"><u>Diagnosing and Fixing Maximum Disk Load Issues in Windows 11 – Best Practices</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/enhance-your-online-presence-with-manycam-top-tier-virtual-webcam-and-recording-app/"><u>Enhance Your Online Presence with ManyCam: Top-Tier Virtual Webcam & Recording App</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-for-fixing-crashes-in-cult-of-the-lamb-on-your-personal-computer/"><u>Expert Tips for Fixing Crashes in Cult of the Lamb on Your Personal Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-youtubes-common-glitch-audiovisual-desynchronization-tips-for-chrome-and-firefox-browsers/"><u>Fixing YouTube's Common Glitch: Audiovisual Desynchronization - Tips for Chrome and Firefox Browsers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/getting-the-sword-of-ages-running-smoothly-again-fixes-for-teso-launch-failures/"><u>Getting the Sword of Ages Running Smoothly Again - Fixes for TESO Launch Failures</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-dauntless-pc-crash-issues-a-comprehensive-guide/"><u>How to Resolve Dauntless PC Crash Issues - A Comprehensive Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6s-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6s To Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Motorola Moto G23 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-startup-hurdles-civilization-vi-running-smoothly-on-windows-11/"><u>Overcoming Startup Hurdles: Civilization VI Running Smoothly on Windows 11</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/paramount-considerations-in-utilizing-artificial-intelligence-for-emotional-support-via-chatgpt/"><u>Paramount Considerations in Utilizing Artificial Intelligence for Emotional Support via ChatGPT</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixing-playback-issues-for-modern-warfare-pc-game/"><u>Resolved: Fixing Playback Issues for Modern Warfare PC Game</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-7-solutions-why-your-twitch-stream-wont-load-and-how-to-resolve-it/"><u>Top 7 Solutions: Why Your Twitch Stream Won't Load & How to Resolve It</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-looking-for-a-sony-vegas-replacement-on-windows-try-these-options-for-2024/"><u>Updated Looking for a Sony Vegas Replacement on Windows? Try These Options for 2024</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/1728496793569-windows-11/"><u>Windows 11 恢复环境迅速设置：五个直接指南</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-successfully-embed-youtube-playlists-via-web-scripts/"><u>[New] In 2024, How to Successfully Embed YouTube Playlists via Web Scripts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-personalize-your-mobile-experience-with-inshot/"><u>[New] Personalize Your Mobile Experience with InShot</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-merge-ppt-deck-with-cinematic-capabilities-for-2024/"><u>[Updated] Merge PPT Deck with Cinematic Capabilities for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-select-your-perfect-outro-soundtrack-online-for-free/"><u>2024 Approved Select Your Perfect Outro Soundtrack Online For Free</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquering-stutter-and-lag-in-the-latest-games-advanced-optimization-techniques/"><u>Conquering Stutter and Lag in the Latest Games - Advanced Optimization Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/curated-collection-of-top-tamil-ringtone-downloads-platforms/"><u>Curated Collection of Top Tamil Ringtone Downloads Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-to-restoring-missing-game-noises-in-minecraft-for-desktop-users/"><u>Expert Guide to Restoring Missing Game Noises in Minecraft for Desktop Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/experts-reveal-how-to-fix-recurring-game-crashes-in-valorant-on-windows/"><u>Experts Reveal How to Fix Recurring Game Crashes in Valorant on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-cult-of-the-lamb-stability-issues-for-a-smooth-gaming-experience-on-windows/"><u>Fixing Cult of the Lamb Stability Issues for a Smooth Gaming Experience on Windows</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-logitech-g35-usb-headphones-drivers-latest-version-for-win-7-810-supported/"><u>Free Logitech G35 USB Headphones Drivers - Latest Version for Win 7, 8/10 Supported</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-web-tool-seamlessly-integrate-your-videos-online-in-just-minutes/"><u>Free Web Tool: Seamlessly Integrate Your Videos Online in Just Minutes!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-stealthiest-instagram-story-viewers-for-2024/"><u>The Stealthiest Instagram Story Viewers for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-discord-java-script-glitches-with-these-tips/"><u>Troubleshoot Discord Java Script Glitches with These Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-resolving-window-bluescreen-glitches-in-call-of-duty-wwii-fixed/"><u>Troubleshooting and Resolving Window Bluescreen Glitches in Call of Duty: WWII [FIXED]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-success-eliminating-stuttering-in-the-starfield-audio-experience/"><u>Troubleshooting Success: Eliminating Stuttering in the Starfield Audio Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/wrc-10-pc-installation-issues-fixed-fifas-official-game-now-stable/"><u>WRC 10 PC Installation Issues Fixed - FIFA's Official Game Now Stable</u></a></li>
 </ul></div>
 

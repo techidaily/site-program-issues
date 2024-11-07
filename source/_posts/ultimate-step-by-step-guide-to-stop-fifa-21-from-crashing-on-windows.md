@@ -1,7 +1,7 @@
 ---
 title: Ultimate Step-by-Step Guide to Stop FIFA 21 From Crashing on Windows
-date: 2024-10-28T21:54:31.593Z
-updated: 2024-11-01T06:34:15.841Z
+date: 2024-11-04T20:39:38.831Z
+updated: 2024-11-06T20:03:46.549Z
 tags:
   - win11
   - win10
@@ -82,22 +82,29 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -106,13 +113,6 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
  1) On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
@@ -124,13 +124,6 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -141,22 +134,29 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -170,16 +170,16 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -203,24 +203,21 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-tutorial-from-webp-to-jpeg/"><u>[New] Ultimate Tutorial From WebP to JPEG</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-r-type-final-2-keeps-crashing-on-pc/"><u>[SOLVED] R-Type Final 2 Keeps Crashing on PC</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-affordable-video-capture-maximum-potential-via-obs/"><u>[Updated] 2024 Approved Affordable Video Capture - Maximum Potential via OBS</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-top-fifa-film-analysis-on-youtube-infographics/"><u>[Updated] Top FIFA Film Analysis on YouTube Infographics</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-high-def-showdown-top-8k-tvs-rated-and-reviewed/"><u>2024 Approved High-Def Showdown Top 8K TVs Rated and Reviewed</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-5-best-value-camcorders-for-sports-and-stunts/"><u>2024 Approved Top 5 Best Value Camcorders for Sports and Stunts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enjoy-uninterrupted-playtime-with-the-updated-stable-age-of-ashes-for-windows-and-mac/"><u>Enjoy Uninterrupted Playtime with the Updated, Stable 'Age of Ashes' For Windows and Mac</u></a></li>
-<li><a href="https://program-issues.techidaily.com/herbs-portuguese-cuisine-is-characterized-by-the-use-of-aromatic-herbs-like-coriander-parsley-basil-rosemary-thyme-and-bay-leaves-that-add-depth-to-stews-an453/"><u>Herbs: Portuguese Cuisine Is Characterized by the Use of Aromatic Herbs Like Coriander, Parsley, Basil, Rosemary, Thyme and Bay Leaves that Add Depth to Stews and Sauces, Infuse Olive Oil or Are Used as Garnishes for Fish Dishes.</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-oppo-a59-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Oppo A59 5G Phone When You Forget the Password</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-vivo-y200e-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Vivo Y200e 5G Phone Screen?</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/making-a-mark-jujutsu-kaisen-on-the-tiktok-scene/"><u>Making a Mark Jujutsu Kaisen on the TikTok Scene</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-discord-resource-management-cutting-down-on-cpu-drain-pro-guide/"><u>Mastering Discord Resource Management: Cutting Down on CPU Drain - Pro Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-how-to-get-your-iphone-detected-by-itunes-in-windows-11/"><u>Resolved: How to Get Your iPhone Detected by iTunes in Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-must-close-due-to-an-error-in-geforce-experience-for-smooth-gaming/"><u>Resolving the 'Must Close Due to an Error' In GeForce Experience for Smooth Gaming</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-turning-off-windows-108s-smartscreen-protection/"><u>Step-by-Step Guide: Turning Off Windows 10/8'S SmartScreen Protection</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-walkthrough-fixing-windows-update-error-0xc19001e1-on-windows-10-devices/"><u>Step-by-Step Walkthrough: Fixing Windows Update Error 0Xc19001e1 on Windows 10 Devices</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719579996797-ten-minute-tidbits-learn-bengali-fast/"><u>Ten-Minute Tidbits: Learn Bengali Fast!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-continuous-madden-nfl-21-game-crashes-on-windows-computers/"><u>Troubleshooting Guide: Resolving Continuous Madden NFL 21 Game Crashes on Windows Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/warzone-fix-boosting-your-pc-gameplay-and-avoiding-crashes-in-2eryears-tech-guide/"><u>Warzone Fix: Boosting Your PC Gameplay & Avoiding Crashes in 2erYear's Tech Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-mobile-screening-guide-gogooglemeetrecorder-tips/"><u>[New] In 2024, Mobile Screening Guide GoGoogleMeetRecorder Tips</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-best-offer-top-business-cloud-solutions/"><u>[Updated] In 2024, Best Offer Top Business Cloud Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-swift-transformation-androids-best-vid-upgrades/"><u>[Updated] Swift Transformation Android's Best Vid Upgrades</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-mastering-color-grading-with-ease-a-compreranble-guide-for-pscc-users/"><u>2024 Approved Mastering Color Grading with Ease A Compreranble Guide for PSCC Users</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/capturing-a-full-view-iphone-filming-secrets-for-social-feeds-for-2024/"><u>Capturing a Full View IPhone Filming Secrets for Social Feeds for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-repairing-acrocefexe-application-failures/"><u>Comprehensive Guide to Repairing 'acrocef.exe' Application Failures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-fluidity-in-age-of-empires-iv-tips-to-stop-the-lagging-and-freezing/"><u>Enhancing Fluidity in Age of Empires IV: Tips to Stop the Lagging and Freezing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-fixing-not-initialized-errors-for-vanguard-abilities-in-valorant/"><u>Expert Tips for Fixing 'Not Initialized' Errors for Vanguard Abilities in Valorant</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-black-screen-at-launch-issue-in-elden-ring-a-comprehensive-guide/"><u>Fixing the 'Black Screen at Launch' Issue in Elden Ring: A Comprehensive Guide</u></a></li>
+<li><a href="https://os-tips.techidaily.com/how-to-resolve-iphones-wi-fi-connection-woes-effective-strategies-and-tips/"><u>How to Resolve iPhone's Wi-Fi Connection Woes - Effective Strategies and Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-infinix-note-30-vip-phone-by-drfone-android/"><u>How to Unlock a Network Locked Infinix Note 30 VIP Phone?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-pushing-boundaries-with-dells-revolutionary-p2715q-monitor-review/"><u>In 2024, Pushing Boundaries with Dell's Revolutionary P2715Q Monitor Review</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-ultimate-guide-to-10-premium-vector-websites/"><u>In 2024, Ultimate Guide to 10 Premium Vector Websites</u></a></li>
+<li><a href="https://program-issues.techidaily.com/level-up-your-gameplay-combat-sudden-fps-dips-irregular-hiccups-and-sporadic-lags-in-real-time-gaming-environments/"><u>Level Up Your Gameplay: Combat Sudden FPS Dips, Irregular Hiccups & Sporadic Lags in Real-Time Gaming Environments</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-stuck-on-loading-errors-in-football-manager-2021-game/"><u>Resolving 'Stuck on Loading' Errors in Football Manager 2021 Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-stop-doom-eternal-from-crashing/"><u>Troubleshooting Steps to Stop DOOM Eternal From Crashing</u></a></li>
 </ul></div>
 

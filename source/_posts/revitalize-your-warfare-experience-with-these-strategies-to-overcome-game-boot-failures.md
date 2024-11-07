@@ -1,7 +1,7 @@
 ---
 title: Revitalize Your Warfare Experience with These Strategies to Overcome Game Boot Failures
-date: 2024-10-28T05:24:33.780Z
-updated: 2024-10-31T18:29:43.993Z
+date: 2024-11-04T21:19:31.373Z
+updated: 2024-11-06T17:32:25.909Z
 tags:
   - win11
   - win10
@@ -68,14 +68,20 @@ You can do it with only 2 steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/modern-warfare-set-to-fullscreen.jpg)
 3. Join a game and see if your FPS gets better.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If changing Display Mode doesn’t give you any luck, you can check out the next solution.
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -97,6 +103,13 @@ You can do it with only 2 steps:
 
  If updating the driver doesn’t do the trick for you, take a look at the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Check for Windows updates
 
  If the last time you check for windows updates feel like ages ago, you need to do it right now. Every once in a while, aside from regular security patches, Windows updates install some edgy features on your computer, which might be a potential fix to your Modern Warfare FPS issue.
@@ -107,6 +120,13 @@ And it’s quite easy to update too:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Windows will then check and install updates automatically. This might take a while depending on your Internet speed.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed the updates, restart the computer.
 
@@ -116,31 +136,11 @@ And it’s quite easy to update too:
 
  If this method doesn’t help your case, please move on to the next one.
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5:**Clean up resource-hungry processes**
 
  Sometimes your game becomes laggy when you have some background tasks eating up your RAM or CPU resources. Before opening a game in Modern Warfare, first make sure you’ve exited programs like**Chrome** ,**Discord** ,**Skype** or**Windows Update** that might exhaust your computer resources.
 
  If you’re sure you’ve left enough resources for Modern Warfare and the FPS issue is still there, check out the next fix to change your power plan.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Change your power plan to Ultimate Performance
 
@@ -152,25 +152,25 @@ Here’s how to enable this power plan:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select**Ultimate Performance** . If you don’t see this power plan, please continue to the next step to unhide it.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the**Windows logo key** and type**cmd** . Select**Run as Administrator** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this,**return to step 2** to enable the Ultimate Performance power plan.  
@@ -197,24 +197,18 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/error-overcome-implementing-easy-anti-cheat-to-solve-eac-problems/"><u>'Error Overcome: Implementing Easy Anti-Cheat to Solve EAC Problems</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-original-cinematic-footage-assessment-and-substitutes/"><u>[New] In 2024, Original Cinematic Footage Assessment & Substitutes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/all-set-for-action-the-long-awaited-debut-of-it-takes-two/"><u>All Set for Action: The Long-Awaited Debut of 'It Takes Two'</u></a></li>
-<li><a href="https://facebook.techidaily.com/banish-fb-push-notifications-and-messages-easily/"><u>Banish FB Push Notifications and Messages Easily</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effortless-solution-to-fix-battlefield-5-wont-open-comprehensive-steps/"><u>Effortless Solution to Fix Battlefield 5 Won't Open - Comprehensive Steps</u></a></li>
-<li><a href="https://tools.techidaily.com/epubor/ecore/"><u>Epubor eCore</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-on-preventing-your-game-of-frostpunk-from-crashing/"><u>Expert Advice on Preventing Your Game of Frostpunk From Crashing</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixes-for-assassins-creed-valhalla-freezing-issues-in-pc-gaming/"><u>Fixes for Assassin's Creed Valhalla Freezing Issues in PC Gaming</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-enhancing-visibility-popularize-your-youtube-short-videos/"><u>In 2024, Enhancing Visibility Popularize Your YouTube Short Videos</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11?</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-unified-tint-harmonizer/"><u>In 2024, Unified Tint Harmonizer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/league-of-legends-on-your-pc-defeating-the-black-screen-glitch/"><u>League of Legends on Your PC: Defeating the Black Screen Glitch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/modern-warfare-2024-pc-launch-problem-solved-start-gaming-today/"><u>Modern Warfare 2024 PC Launch Problem Solved: Start Gaming Today!</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-learning-unique-ways-to-slow-down-time-lapse-on-iphone/"><u>New 2024 Approved Learning Unique Ways to Slow Down Time Lapse on iPhone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-your-gameplay-issues-eliminating-life-is-strange-true-colors-freezing-problems/"><u>Solve Your Gameplay Issues: Eliminating 'Life Is Strange: True Colors' Freezing Problems</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/synchronisierung-von-desktop-und-laptop-unter-windows-10-and-11-losungen-fur-zwei-gangige-probleme/"><u>Synchronisierung Von Desktop Und Laptop Unter Windows 10 & 11 - Lösungen Für Zwei Gängige Probleme</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-best-for-broadcasting-duel-of-live-tools-for-2024/"><u>The Best for Broadcasting? Duel of Live Tools for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-and-rectify-common-discord-js-errors-quickly/"><u>Troubleshoot and Rectify Common Discord JS Errors Quickly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-and-solving-the-ue4-gobi-crash-issue-for-back-4-blood-enthusiasts/"><u>Troubleshooting and Solving the 'UE4 - Gobi' Crash Issue for Back 4 Blood Enthusiasts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-procedure-of-ending-linkedin-services-and-deletion-process/"><u>[New] In 2024, Procedure of Ending LinkedIn Services and Deletion Process</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-iphone-x-photography-leveraging-latest-features/"><u>[Updated] IPhone X Photography Leveraging Latest Features</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unlocking-the-full-potential-of-mac-audio-with-audacitys-features/"><u>[Updated] Unlocking the Full Potential of Mac Audio with Audacity's Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-laggard-to-lightning-pick-8-apps-now/"><u>2024 Approved From Laggard to Lightning Pick 8 Apps Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-black-screen-nightmare-effective-fixes-for-destiny-2-players/"><u>Beat the BLACK SCREEN Nightmare: Effective Fixes for Destiny 2 Players</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/chromecast-meets-google-tv-an-in-depth-analysis-for-cord-cutters/"><u>Chromecast Meets Google TV: An In-Depth Analysis for Cord Cutters</u></a></li>
+<li><a href="https://program-issues.techidaily.com/forza-horizon-navigate-2024-launch-hurdles-with-these-essential-tips-and-tricks/"><u>Forza Horizon Navigate 2024 Launch Hurdles with These Essential Tips & Tricks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-psd-style-boosting/"><u>In 2024, Ultimate PSD Style Boosting</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-gaming-speeds-resolve-lag-and-stuttering-issues-in-the-latest-game-releases/"><u>Master Gaming Speeds: Resolve Lag and Stuttering Issues in the Latest Game Releases</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-your-workflow-with-the-powerful-samsung-galaxy-tab-s4-tablet/"><u>Mastering Your Workflow with the Powerful Samsung Galaxy Tab S4 Tablet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-gaming-experience-tackling-reduced-frames-per-second-in-farming-simulator-22-pc/"><u>Optimizing Gaming Experience: Tackling Reduced Frames per Second in Farming Simulator 22 (PC)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-frame-rate-issues-in-cs2-a-guide-to-boost-your-pcs-performance/"><u>Solving Frame Rate Issues in CS2: A Guide to Boost Your PC's Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-why-is-my-game-sifu-experiencing-fps-drops-and-stuttering-on-a-pc/"><u>Troubleshooting: Why Is My Game 'Sifu' Experiencing FPS Drops and Stuttering on a PC?</u></a></li>
 </ul></div>
 

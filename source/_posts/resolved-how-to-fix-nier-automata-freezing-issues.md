@@ -1,7 +1,7 @@
 ---
 title: "Resolved: How to Fix NieR: Automata Freezing Issues"
-date: 2024-10-25T22:45:55.468Z
-updated: 2024-10-31T20:56:37.084Z
+date: 2024-11-03T23:06:11.785Z
+updated: 2024-11-06T22:32:59.674Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 | Graphics  | AMD Radeon R9 270X or NVIDIA GeForce GTX 960 |
 | Storage   | 42 GB available space                        |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -46,16 +39,10 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 5. [Disable your antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Edit username
@@ -79,6 +66,13 @@ If this fix doesn’t work, move to the next fix.
 
  If this doesn’t work for you, then try to verify game files in Steam.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Verify game files
 
  When the game files are missing or corrupted, the game would crash. Verify the integrity of game files can simply solve the issue.
@@ -88,17 +82,24 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-1.jpg)
 3. In the left pane, select**LOCAL FILES** , then click**Verify integrity of game files….**  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-2.jpg)
 4. When the process is completed, relaunch NieR Replicant.
 
-If this fix doesn’t bring luck, take a look at the next one below.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+If this fix doesn’t bring luck, take a look at the next one below.
 
 ### Fix 4: Update your drivers
 
@@ -115,22 +116,8 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -152,17 +139,24 @@ Here’s how to disable Windows Security temporarily.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
 3. Click**Manage settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Turn off Real-time protection.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
 
 Relaunch NieR Replicant and check if it’s running properly.
 
@@ -187,21 +181,24 @@ Relaunch NieR Replicant and check if it’s running properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-showcasing-creativity-an-assortment-of-top-5-book-vtts/"><u>[New] In 2024, Showcasing Creativity An Assortment of Top 5 Book VTTs</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-oppo-reno-11-pro-5g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Oppo Reno 11 Pro 5G to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://win-data.techidaily.com/1728493732442-windows-111087/"><u>無効化方法: Windows 11/10/8/7のリカバリオプションはじめから理解</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/automated-marketing-solutions-optimized-with-cookiebot-technology/"><u>Automated Marketing Solutions: Optimized with Cookiebot Technology</u></a></li>
-<li><a href="https://program-issues.techidaily.com/beat-the-blues-top-5-remedies-to-prevent-world-of-warships-from-crashing-on-your-desktop/"><u>Beat the Blues: Top 5 Remedies to Prevent World of Warships From Crashing on Your Desktop</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fortnite-load-error-no-more-solve-your-loading-screen-problem-today/"><u>Fortnite Load Error No More - Solve Your Loading Screen Problem Today</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-entry-into-the-world-of-advanced-ai-your-guide-to-using-gpt-4-for-free-with-these-5-tactics/"><u>Free Entry Into the World of Advanced AI: Your Guide to Using GPT-4 for Free with These 5 Tactics</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-f15-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy F15 5G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/hitman-3-wont-start-fix-your-problems-and-play-as-the-worlds-deadliest-agent/"><u>Hitman 3 Won't Start? Fix Your Problems and Play as the World's Deadliest Agent</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-maplestory-from-crashing-on-your-windows-11-machine-expert-tips/"><u>How to Stop MapleStory From Crashing on Your Windows 11 Machine: Expert Tips</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-expert-approved-video-editing-software/"><u>New In 2024, Expert-Approved Video Editing Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-eliminating-stutters-in-counter-strike-global-offensive/"><u>Step-by-Step Guide to Eliminating Stutters in Counter-Strike: Global Offensive</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-minecrafts-persistent-black-screen-top-fixes-of-2ndryce-2024-edition/"><u>Troubleshoot Minecraft's Persistent Black Screen - Top Fixes of 2nDryce, 2024 Edition</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-resolving-wi-fi-connection-issues-on-your-vizio-television/"><u>Troubleshooting Steps: Resolving Wi-Fi Connection Issues on Your Vizio Television</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-printer-software-hp-officejet-5740-drivers-for-win-11108-downloaded-here/"><u>Update Your Printer Software: HP OfficeJet 5740 Drivers for Win 11/10/8 Downloaded Here!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723011982169-urgent-fix-for-fortnite-when-it-just-wont-load-effective-solutions-await/"><u>Urgent Fix for [Fortnite] When It Just Won't Load: Effective Solutions Await</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-an-intuitive-approach-to-easily-observing-loved-youtube-feedback-for-2024/"><u>[New] An Intuitive Approach to Easily Observing Loved YouTube Feedback for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-efficient-methods-to-block-facebook-adverts-for-2024/"><u>[Updated] Efficient Methods to Block Facebook Adverts for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-dominate-search-results-essential-tips-for-optimizing-youtube-videos/"><u>[Updated] In 2024, Dominate Search Results Essential Tips for Optimizing YouTube Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-bio-link-addition-on-tiktok/"><u>2024 Approved Mastering Bio Link Addition on TikTok</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/elevate-your-fitness-with-these-leading-yoga-vids/"><u>Elevate Your Fitness with These Leading Yoga Vids</u></a></li>
+<li><a href="https://program-issues.techidaily.com/exploring-the-reasons-behind-valheims-unsuccessful-launch-attempts-and-fixes/"><u>Exploring the Reasons Behind Valheim's Unsuccessful Launch Attempts & Fixes</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/heaviest-inflight-lifters-unveiled-top-10-list/"><u>Heaviest Inflight Lifters Unveiled - Top 10 List</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-master-rainbow-six-siege-and-keep-it-free-throughout-2n4/"><u>How to Master Rainbow Six Siege and Keep It Free Throughout 2N4</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-cod-black-ops-cold-war-issue-with-code-80070057/"><u>How to Resolve the Cod: Black Ops Cold War Issue with Code 80070057</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-a-complete-guide-to-aspect-ratios-about-youtube-videosshortsads/"><u>In 2024, A Complete Guide to Aspect Ratios About YouTube Videos/Shorts/Ads</u></a></li>
+<li><a href="https://program-issues.techidaily.com/instant-solutions-for-common-league-of-legends-game-crash-problems/"><u>Instant Solutions for Common League of Legends Game Crash Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/nba-2k23-wont-launch-here-are-seven-expert-fixes-to-get-you-back-in-game-on-your-computer/"><u>NBA 2K23 Won't Launch? Here Are Seven Expert Fixes to Get You Back in Game on Your Computer</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-head-to-head-sony-vegas-pro-vs-adobe-premiere-pro-which-one-reigns-supreme-in-2024/"><u>New Head-to-Head Sony Vegas Pro vs Adobe Premiere Pro - Which One Reigns Supreme, In 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-your-experience-with-halo-infinite-by-correcting-motion-lag-and-stutter/"><u>Optimize Your Experience with Halo Infinite by Correcting Motion Lag and Stutter</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-skyrim-forge-edition-launching-error-issues-easily/"><u>Resolving Skyrim Forge Edition Launching Error Issues Easily</u></a></li>
+<li><a href="https://blog-min.techidaily.com/scambia-il-tuo-video-wmv-con-formato-m4v-per-dispositivi-mobili-gratis-guida-completa-al-convertitore-online-di-movavi/"><u>Scambia Il Tuo Video WMV Con Formato M4V per Dispositivi Mobili Gratis - Guida Completa Al Convertitore Online Di Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-hogwarts-legacys-launch-issues-8-essential-tips/"><u>Solving Hogwarts Legacy's Launch Issues: 8 Essential Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stardew-valley-error-resolved-now-running-smoothly/"><u>Stardew Valley Error Resolved: Now Running Smoothly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streamlining-your-photos-the-ultimate-guide-to-merging-jpegs-into-one-pdf-file/"><u>Streamlining Your Photos: The Ultimate Guide to Merging JPEGs Into One PDF File</u></a></li>
 </ul></div>
 

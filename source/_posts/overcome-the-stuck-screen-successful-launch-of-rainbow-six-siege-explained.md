@@ -1,7 +1,7 @@
 ---
 title: "Overcome the Stuck Screen: Successful Launch of Rainbow Six Siege Explained"
-date: 2024-10-30T23:21:49.493Z
-updated: 2024-11-01T01:15:54.070Z
+date: 2024-11-02T19:17:41.345Z
+updated: 2024-11-07T03:56:30.854Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 
  The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check the game’s system requirements
 
  Games may not launch if your device is just at or below the game’s system requirements. So you should first check the system requirements for Age of Empires IV and ensure that your device is powerful enough to run the game. The system requirements for Age of Empires IV are as follows:
@@ -57,13 +64,6 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 
  After confirming that your PC is good enough to run the game, go ahead with the following fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Verify the integrity of game files
 
  The game not launching issue can be caused by corruption in your extracted game files. To see if that’s the case, you can scan and repair game files through Steam. Here’s how:
@@ -72,6 +72,14 @@ thumbnail: https://thmb.techidaily.com/dbba79d9b364c588cde9451de7a26400a0837a604
 2. Right-click**Age of Empires IV** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/AOE4-steam-properties.jpg)
 3. Navigate to the**LOCAL FILES** tab and select**Verify integrity of game files…** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/AOE4-steam-verify-game-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
 
@@ -101,19 +109,6 @@ If the issue persists, move on to the next fix.
 
  If you’re still having trouble launching the game, check out the next fix.
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Install all Windows updates
 
  If you’re not running DirectX 12 on your device, you’re likely to encounter the Age of Empires IV not launching issue. To fix it, you need to install all pending Windows updates. Here’s how:
@@ -127,13 +122,6 @@ If the issue persists, move on to the next fix.
  Once you’ve installed all the updates, restart your computer and try to launch the game.
 
 If the problem remains, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Update Visual C++ Redistributables
 
@@ -161,14 +149,27 @@ If this fix doesn’t work for you, proceed to the next one.
 2. In the pop-up window, click**Allow an app or feature through Windows Firewall** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
 3. Locate**RelicCardinal.exe** from the list of apps. If not listed, click**Change settings** \>**Allow another app…** , then locate**RelicCardinal.exe** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
 4. Checkmark both**Private** and**Public** settings.
@@ -191,14 +192,21 @@ If this fix doesn’t work for you, proceed to the next one.
 2. Select**Allow an app through Controlled folder access** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/allow-an-app-through-controlled-folder-access.jpg)
 3. Click**Add an allowed app** \>**Recently blocked apps** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/add-an-allowed-app.jpg)
 4. Select**RelicCardinal.exe** .
@@ -210,13 +218,6 @@ If this fix doesn’t work for you, proceed to the next one.
  If the game is on the allow-list for your antivirus programs, check to see if temporarily disabling the program allows the game to launch.
 
 If it doesn’t, try the last fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Perform a clean boot
 
@@ -233,24 +234,24 @@ If it doesn’t, try the last fix below.
 4. On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open**Task Manager** , then navigate to the **Startup** tab.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering and click **Disable** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. Restart your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Try launching the game again. If the game launches normally, you can try to enable services one by one until you find the problematic software.
 
@@ -279,20 +280,22 @@ Restart your PC to apply the changes after enabling each service.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-optimize-tv-viewership-via-facebook-live-streaming/"><u>[Updated] Optimize TV Viewership via Facebook Live Streaming</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exclusive-list-the-top-10-websites-buying-mystery-boxes-cheaply/"><u>2024 Approved Exclusive List The Top 10 Websites Buying Mystery Boxes Cheaply</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhanced-performance-and-stability-fixes-for-total-war-warhammer-iii-on-your-computer/"><u>Enhanced Performance & Stability Fixes for Total War: Warhammer III on Your Computer</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exploring-palm-2-next-gen-big-data-language-processing-by-google/"><u>Exploring PaLM 2: Next-Gen Big Data Language Processing by Google</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-not-enough-space-error-in-god-of-war-for-smoother-gaming-experience/"><u>Fix ‘Not Enough Space’ Error in God of War for Smoother Gaming Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fortnite-trouble-fix-load-failures-fast-with-these-simple-solutions/"><u>Fortnite Trouble? Fix Load Failures Fast with These Simple Solutions!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, Spoofing Life360 How to Do it on Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-past-fatal-js-error-in-discord-on-modern-windows-11/"><u>Navigating Past Fatal JS Error in Discord on Modern Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-utorrent-download-and-peer-connectivity-hiccups/"><u>Overcoming uTorrent Download and Peer Connectivity Hiccups</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-how-to-fix-a-stalled-discord-live-broadcast/"><u>Solution: How to Fix a Stalled Discord Live Broadcast</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-itel-a60s-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Itel A60s without backup.</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-prevent-adobe-premiere-pro-from-crashing-on-latest-windows-versions/"><u>Troubleshooting Guide: Prevent Adobe Premiere Pro From Crashing on Latest Windows Versions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-persona-4-golden-technical-glitches/"><u>Troubleshooting Guide: Resolving Persona 4 Golden Technical Glitches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-unfreezing-call-of-duty-vanguard-gameplay-smoothly/"><u>Troubleshooting Tips for Unfreezing Call of Duty: Vanguard Gameplay Smoothly</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719578792326-unlock-fluency-discover-the-best-3-multilingual-resources/"><u>Unlock Fluency: Discover the Best 3 Multilingual Resources!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-funny-face-of-freedom-top-20-pranks-at-facebooks-barracks/"><u>2024 Approved The Funny Face of Freedom Top 20 Pranks at Facebook's Barracks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/mic-avenue-leading-educators-on-youtube-for-2024/"><u>Academic Avenue Leading Educators on YouTube for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/arcadegeddon-continues-to-experience-persistent-issues-on-windows-platform/"><u>Arcadegeddon Continues to Experience Persistent Issues on Windows Platform</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723006167382-conquer-garrys-mod-resolve-persistent-crashing-with-these-2024-expert-tips-and-tricks/"><u>Conquer Garry's Mod: Resolve Persistent Crashing with These 2024 Expert Tips & Tricks</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-poco-c50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-for-players-unable-to-start-their-warframe-adventure/"><u>Fixes for Players Unable to Start Their Warframe Adventure</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-origin-when-it-wont-launch-steps-for-successful-connection/"><u>Fixing Origin When It Won't Launch: Steps for Successful Connection</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-samsung-galaxy-s23plus-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Samsung Galaxy S23+ to New Phone | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/nurturing-discussions-strategies-to-connect-with-followers/"><u>Nurturing Discussions Strategies to Connect With Followers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gaming-issue-resolved-cod-black-ops-cold-war-not-opening-up/"><u>PC Gaming Issue Resolved: Cod: Black Ops Cold War Not Opening Up</u></a></li>
+<li><a href="https://program-issues.techidaily.com/persona-nigma-unleashed-troubleshooting-tips-for-a-smooth-run-of-p5s-on-windows/"><u>Persona Nigma Unleashed: Troubleshooting Tips for a Smooth Run of P5S on Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/preventing-dragon-age-origins-from-crashing-on-your-windows-10-machine-a-step-by-step-guide/"><u>Preventing Dragon Age: Origins From Crashing on Your Windows 10 Machine: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/solving-the-mystery-of-divided-music-collections-in-itunes-effective-solutions-exposed/"><u>Solving the Mystery of Divided Music Collections in iTunes: Effective Solutions Exposed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/victory-in-troubleshooting-accessing-and-playing-payday-2-on-pc-platforms/"><u>Victory in Troubleshooting: Accessing & Playing PAYDAY 2 On PC Platforms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-cryptocurrencies-are-struggling-at-present/"><u>Why Cryptocurrencies Are Struggling at Present</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-is-baldurs-gate-3-failing-to-load-here-are-the-answers/"><u>Why Is Baldur's Gate 3 Failing to Load? Here Are the Answers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-sharpness-achievement/"><u>Windows Sharpness Achievement</u></a></li>
 </ul></div>
 

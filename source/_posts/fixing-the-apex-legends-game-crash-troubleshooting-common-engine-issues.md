@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Apex Legends Game Crash: Troubleshooting Common Engine Issues"
-date: 2024-10-27T23:43:46.519Z
-updated: 2024-11-01T08:19:54.194Z
+date: 2024-11-03T16:27:39.039Z
+updated: 2024-11-06T23:28:15.429Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0204fe6005.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can also click Update to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -53,6 +60,19 @@ thumbnail: https://thmb.techidaily.com/b9b05a126aedfd2f1ee9a14603409ac5ab4c281dd
 5) Check to see if the Engine Error on Apex Legends has been resolved. If yes, then great! If the issue remains, please move on to**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Run Apex Legends as an administrator
 
@@ -64,16 +84,16 @@ Here is how to grant administrative privileges to Apex Legends:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-564.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In File Explorer, right click on **Apex Legends .exe**  and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-565.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Compatibility**  tab. Then check the box next to **Run this program as an administrator** , and click **Apply** .
 
@@ -92,39 +112,19 @@ Here is how to verify game files:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-439-1024x522.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Right-click on**Apex Legends** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-561.png)
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Wait until the repair process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Once done, run Apex Legends and check if the engine error is fixed. If yes, then great! If the issue persists, please move on to**Fix 4** , below.
 
@@ -154,16 +154,16 @@ Windows Registry Editor Version 5.00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-476.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Save the file name as**fix.reg** and select the type as**All files** . then click Save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-477.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  5) Click**Yes** once you’re prompted about the message.
 
@@ -191,19 +191,21 @@ Windows Registry Editor Version 5.00
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-ultimate-browser-snapshot-guide-for-tech-enthusiasts/"><u>[Updated] In 2024, The Ultimate Browser Snapshot Guide for Tech Enthusiasts</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-your-key-to-creative-advertising-access-all-50-free-youtube-banner-designs-in-2024/"><u>[Updated] Your Key to Creative Advertising Access All 50 FREE YouTube Banner Designs, In 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unprecedented-engagement-reaching-for-a-million-audience/"><u>2024 Approved Unprecedented Engagement Reaching for a Million Audience</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/essential-phone-data-restoration-program-for-iphones-available-to-buy/"><u>Essential Phone Data Restoration Program for iPhones – Available to Buy!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722997877946-fixing-dirt-5-pc-game-freezing-issues-solutions-inside/"><u>Fixing Dirt 5 PC Game Freezing Issues - Solutions Inside!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fortnite-launch-issues-how-to-fix-a-persistent-loading-screen-problem/"><u>Fortnite Launch Issues: How to Fix a Persistent 'Loading' Screen Problem</u></a></li>
-<li><a href="https://program-issues.techidaily.com/getting-past-the-blockade-how-to-resolve-fifa-21-not-loading-issues/"><u>Getting Past the Blockade: How to Resolve FIFA 21 Not Loading Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-do-heterotrophs-contribute-to-soil-health-in-an-agricultural-ecosystem/"><u>How Do Heterotrophs Contribute to Soil Health in an Agricultural Ecosystem?</u></a></li>
-<li><a href="https://windows11.techidaily.com/illuminate-with-joy-magical-holiday-window-decor/"><u>Illuminate with Joy: Magical Holiday Window Decor</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-wait-is-over-filmora-x-unveils-arm-support/"><u>New 2024 Approved The Wait Is Over Filmora X Unveils ARM Support</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/new-horizons-in-gaming-radeon-hd-6950-drivers-on-win10/"><u>New Horizons in Gaming: Radeon HD 6950 Drivers on Win10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solve-spotify-web-player-issues-a-step-by-step-fix-for-slow-performance-and-glitches/"><u>Solve Spotify Web Player Issues : A Step-by-Step Fix for Slow Performance and Glitches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723009084096-solving-slow-chrome-dilemmas-quick-wins-for-browsers/"><u>Solving Slow Chrome Dilemmas – Quick Wins for Browsers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/streamline-your-coding-process-with-chatgpt-in-vs-code/"><u>Streamline Your Coding Process with ChatGPT in VS Code</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-embark-on-your-video-vision-start-your-youtube-channel/"><u>[New] 2024 Approved Embark on Your Video Vision Start Your YouTube Channel</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-dive-into-windows-11-top-apps-and-games-list-for-2024/"><u>[New] Dive Into Windows 11 Top Apps and Games List for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-powerhouse-q500-typhoon/"><u>[New] Unveiling the Powerhouse Q500 Typhoon</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-beat-saber-keeps-crashing/"><u>[Solved] Beat Saber Keeps Crashing</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-flipping-the-script-in-photography-how-angles-can-make-or-break-your-insta-posts/"><u>[Updated] 2024 Approved Flipping the Script in Photography How Angles Can Make or Break Your Insta Posts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-tunes-to-timelapse-crafting-mobile-music-videos/"><u>[Updated] 2024 Approved Tunes to Timelapse Crafting Mobile Music Videos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-mastering-video-thumbnail-personalization-on-youtube/"><u>[Updated] In 2024, Mastering Video Thumbnail Personalization on YouTube</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-simplifying-the-process-of-enabling-virtual-screen-on-meet/"><u>[Updated] In 2024, Simplifying the Process of Enabling Virtual Screen on Meet</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-all-about-youtube-micro-videos/"><u>2024 Approved All About YouTube Micro Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bid-farewell-to-relentless-hunger-crashes-on-windows-pcs-expert-solutions-revealed/"><u>Bid Farewell to Relentless Hunger Crashes on Windows PCs: Expert Solutions Revealed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/city-builders-dilemma-overcoming-the-challenges-of-cities-skylines-2-pc-stability-and-crash-fixes/"><u>City Builders' Dilemma: Overcoming the Challenges of Cities: Skylines 2 PC Stability and Crash Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-for-preventing-cod-modern-warfare-game-crashes/"><u>Effective Solutions for Preventing Cod: Modern Warfare Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ensuring-uninterrupted-gameplay-fixing-crashes-in-forza-horizon-5-for-pc-users/"><u>Ensuring Uninterrupted Gameplay: Fixing Crashes in Forza Horizon 5 for PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/immediate-remedies-for-a-smooth-borderlands-3-gaming-experience/"><u>Immediate Remedies for a Smooth Borderlands 3 Gaming Experience</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-t2-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo T2 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/smooth-gaming-ahead-quick-fixes-to-stop-titanfall-2-from-crashing/"><u>Smooth Gaming Ahead: Quick Fixes to Stop Titanfall 2 From Crashing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting RoboCop: Resolving Issues with Rogue City on PC"
-date: 2024-08-23T17:36:24.285Z
-updated: 2024-08-24T17:36:24.285Z
+date: 2024-10-31T00:18:02.708Z
+updated: 2024-11-06T18:34:39.451Z
 tags:
   - win11
   - win10
@@ -50,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/0fde8be80e602ff65625842ff908df27188b32034
 
  When the verifying process is completed, launch Back 4 Blood and see if this fix works. If the game still crashes, don’t worry. Read on and try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Update your graphics driver
 
  Graphics driver is essential to the functioning of video games. If Back 4 Blood keeps crashing on your PC, it’s likely that you have a corrupted or outdated graphics driver on your PC. So you should update your drivers to see if it fixes the game crashing issues.
@@ -69,16 +66,18 @@ thumbnail: https://thmb.techidaily.com/0fde8be80e602ff65625842ff908df27188b32034
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest game patch
 
  The developer of Back 4 Blood releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -96,23 +95,44 @@ thumbnail: https://thmb.techidaily.com/0fde8be80e602ff65625842ff908df27188b32034
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Restart** your PC and run Back 4 Blood to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each service, you need to restart your PC to apply the changes.
 
@@ -136,8 +156,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +163,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-how-to-use-zoom-video-filters-to-make-a-high-quality-video-call-for-2024/"><u>[New] How to Use Zoom Video Filters to Make a High-Quality Video Call for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-stepwise-steps-to-install-windows-movie-maker-6/"><u>[Updated] In 2024, Stepwise Steps to Install Windows Movie Maker 6</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/accurate-steps-in-upgrading-firmware-of-dell-webcams-a-comprehensive-guide/"><u>Accurate Steps in Upgrading Firmware of Dell Webcams: A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/discover-how-windows-11s-enhanced-notepad-utilizes-ai-technology-for-code-explanation-insights/"><u>Discover How Windows 11'S Enhanced Notepad Utilizes AI Technology for Code Explanation Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-to-successfully-start-persona-n3-reload-when-it-wont-open/"><u>Expert Tips to Successfully Start Persona N3 Reload When It Won't Open</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-error-code-0xc0000022-a-step-by-step-guide-for-resolving-adobes-launch-issues/"><u>Fixing Error Code 0xC0000022: A Step-by-Step Guide for Resolving Adobe's Launch Issues</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/how-to-record-vimeo-for-2024/"><u>How to Record Vimeo for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-narzo-n55-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Realme Narzo N55 Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-sound-sanitization-cleaning-up-your-online-footage/"><u>In 2024, Sound Sanitization Cleaning Up Your Online Footage</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/master-the-art-of-pc-game-memories-with-these-6-steps-for-2024/"><u>Master the Art of PC Game Memories with These 6 Steps for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/may-18th-new-york-times-crosswords-clues-and-answers-puzzle-342/"><u>May 18Th New York Times Crosswords Clues & Answers - Puzzle #342</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-installing-last-epoch-game-on-your-computer-latest-solutions-for-2am-users/"><u>Troubleshooting Tips for Installing 'Last Epoch' Game on Your Computer - Latest Solutions for 2Am Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-fixing-the-issue-of-logitech-g-hub-malfunction-on-windows/"><u>Troubleshooting Tips: Fixing the Issue of Logitech G Hub Malfunction on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-guide-to-eliminate-league-of-legends-black-screen-tips/"><u>Ultimate Troubleshooting Guide to Eliminate League of Legends' Black Screen - Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/wwe-2k20-troubleshooting-fixing-pc-game-crash-issues-quickly-and-effortlessly/"><u>WWE 2K20 Troubleshooting: Fixing PC Game Crash Issues Quickly and Effortlessly</u></a></li>
+</ul></div>
 

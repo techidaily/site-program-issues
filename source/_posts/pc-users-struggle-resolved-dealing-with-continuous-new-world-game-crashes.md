@@ -1,7 +1,7 @@
 ---
 title: "PC Users Struggle: Resolved - Dealing with Continuous 'New World' Game Crashes"
-date: 2024-10-25T20:12:55.774Z
-updated: 2024-10-31T16:31:43.512Z
+date: 2024-11-05T23:28:30.373Z
+updated: 2024-11-06T16:49:13.897Z
 tags:
   - win11
   - win10
@@ -61,6 +61,13 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
@@ -87,25 +94,11 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -125,6 +118,13 @@ If your problem persists, then move on to the next fix below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Verify the integrity of your game files
 
  This issue might happen when one or more outdated or corrupted game files are conflicting with the game. To fix it, follow the instructions below to validate your game files:
@@ -139,27 +139,20 @@ If your problem persists, then move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-84.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)**  Click the **LOCAL FILES**  tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-86.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Relaunch_Remnant_ to see if this has fixed your problem. If not, move on to the fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7:**Disable voice ch** at
 
@@ -176,13 +169,6 @@ If your problem persists, then move on to the next fix below.
 **3)** Right-click**Engine.ini** , select**Open With** , then click**Notepad** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-591.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Copy and paste the following text at the bottom.
 
@@ -227,13 +213,6 @@ If the game is still unplayable, read on and try the fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 9: Reinstall_Remnant_ and/or Steam
 
  If none of the fixes worked for you, reinstalling_Remnant_ and/or Steam is very likely the solution to your issue. To do so, follow the instructions below:
@@ -249,15 +228,22 @@ If the game is still unplayable, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Right-click**Remnant: From the Ashes** and select **Uninstall.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-246.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Click**DELETE** .
@@ -280,6 +266,13 @@ If the game is still unplayable, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
@@ -287,13 +280,6 @@ If the game is still unplayable, read on and try the fix below.
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Select **Uninstall a program** .
 
@@ -303,9 +289,23 @@ If the game is still unplayable, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **8)[](https://store.steampowered.com/about/) [Download](https://store.steampowered.com/about/) [](https://store.steampowered.com/about/)**  and install Steam.
 
@@ -342,22 +342,18 @@ If the game is still unplayable, read on and try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-core-principles-of-internet-storytelling/"><u>[Updated] Core Principles of Internet Storytelling</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-ingenious-stop-motion-cinema-ranking-the-best-15/"><u>[Updated] Ingenious Stop-Motion Cinema - Ranking the Best 15</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-paper-artistry-building-harmonious-collages/"><u>[Updated] Paper Artistry Building Harmonious Collages</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-overcome-instagrams-story-upload-issues/"><u>2024 Approved Overcome Instagram's Story Upload Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/black-ops-cold-war-patch-update-corrects-ui-flaw-error-id-2711/"><u>Black Ops Cold War Patch Update Corrects UI Flaw, Error ID 27^11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boost-your-gaming-experience-overcoming-frames-per-second-drops-in-splitgate/"><u>Boost Your Gaming Experience: Overcoming Frames Per Second Drops in Splitgate</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723013430824-breaking-news-finally-la-noire-releases-for-windows-and-mac-users/"><u>Breaking News: Finally, LA Noire Releases for Windows and Mac Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-solving-elex-ii-constant-freezing-and-crashes-on-pc/"><u>Comprehensive Guide to Solving Elex II Constant Freezing and Crashes on PC</u></a></li>
-<li><a href="https://driver-download.techidaily.com/fast-track-ultra-quick-usb-to-serial-rs232-converter-drivers-download/"><u>Fast Track: Ultra-Quick USB to Serial (RS232) Converter Drivers Download</u></a></li>
-<li><a href="https://program-issues.techidaily.com/garrys-mod-continuous-crashes-top-5-fixes/"><u>Garry's Mod Continuous Crashes: Top 5 Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/getting-age-of-empires-iv-up-and-running-a-guide-to-fix-installation-problems/"><u>Getting Age of Empires IV Up and Running - A Guide to Fix Installation Problems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-freezing-and-shutdowns-in-starfield-while-playing-on-a-personal-laptopdesktop/"><u>How to Fix Freezing and Shutdowns in Starfield While Playing on a Personal Laptop/Desktop</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-android-games-funimate-pro-apk-deep-dive/"><u>In 2024, Unlock Android Games - Funimate Pro APK Deep Dive</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-launch-issues-with-monster-hunter-stories-2-wings-of-ruin-solutions-and-help/"><u>Overcoming Launch Issues with Monster Hunter Stories 2: Wings of Ruin - Solutions & Help</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pugilism-vs-players-battle-for-supremacy/"><u>Pugilism vs Players Battle for Supremacy</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-dblinkw32dll-file-not-found-issue-a-comprehensive-guide/"><u>Solving the dBlinkw32.dll File Not Found Issue - A Comprehensive Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-elevate-your-conversation-game-mastering-the-art-of-sending-gifs-in-snapchat-for-2024/"><u>[Updated] Elevate Your Conversation Game Mastering the Art of Sending GIFs in Snapchat for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1728478918913-usb/"><u>「詳しく見る：USBメモリの「このディレクトリは空です」問題解決法」</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-15-plus-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/chrome-flickering-woes-master-the-fix-with-our-comprehensive-guide-for-windows-users/"><u>Chrome Flickering Woes? Master the Fix with Our Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/crack-the-code-expert-tips-to-solve-steam-error-130-problems/"><u>Crack the Code: Expert Tips to Solve Steam Error 130 Problems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-latest-evga-graphics-card-drivers-on-windows/"><u>Download & Install Latest EVGA Graphics Card Drivers on Windows</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-pros-approach-to-documenting-overwatch-battles/"><u>In 2024, The Pro's Approach to Documenting Overwatch Battles</u></a></li>
+<li><a href="https://os-tips.techidaily.com/in-depth-anker-maggo-dual-charging-platform-revealed-supports-qi-and-usb-c/"><u>In-Depth Anker MagGo Dual Charging Platform Revealed: Supports Qi & USB-C</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-players-rejoice-escape-from-tarkov-stabilization-hacks/"><u>PC Players Rejoice: 'Escape From Tarkov' Stabilization Hacks!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-issue-4201-in-genshin-impact-a-comprehensive-guide/"><u>Resolved: Fixing Issue 4201 in Genshin Impact - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/rog-strix-g16-2024-the-ultimate-gaming-laptop-at-an-unbeatable-price-of-1164-on-amazon/"><u>ROG Strix G16 2024: The Ultimate Gaming Laptop at an Unbeatable Price of $1,164 on Amazon</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/storage-analysis-videography-on-64128gb-hardware-for-2024/"><u>Storage Analysis Videography on 64/128GB Hardware for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/world-of-warships-on-pc-ultimate-guide-to-fixing-sudden-crashes-quick-solutions/"><u>World of Warships on PC: Ultimate Guide to Fixing Sudden Crashes [Quick Solutions]</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolving the 'Stuck During Update Process' Issue in MSFS 2020: A Step-by-Step Guide"
-date: 2024-08-23T17:33:05.099Z
-updated: 2024-08-24T17:33:05.099Z
+date: 2024-11-02T18:10:31.077Z
+updated: 2024-11-06T22:18:58.427Z
 tags:
   - win11
   - win10
@@ -35,15 +35,20 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 2. Navigate to the**LIBRARY** tab. Right-click**Among Us** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-verify-1.jpg)
 3. In the pop-up window, navigate to the**LOCAL FILES** tab. Click**VERIFY INTEGRITY OF GAME FILES** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-verify-2.jpg)
 
  Once the checking is completed, launch Among Us and see if it crashes again.
 
  If this method doesn’t give you any luck, you can check out the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Perform a clean boot
 
  A clean boot means starting your PC with only the necessary utilities and system services. It would very likely fix most of the software conflict, which might fix the crash at the same time.
@@ -53,22 +58,36 @@ And here’s how you can do a clean boot:
 1. On your keyboard, press the**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your video card or sound card manufacturer, such as **Realtek** , **AMD** , **NVIDIA**  and **Intel** . Then click **OK**  to save the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your computer.
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once your PC restarts, only the essential programs and services will start. You can now launch Among Us and check if it crashes again. If not, you can try to root out the culpable program or service. A way to do that is to repeat the steps above, but **disable half of the services and programs** .
@@ -103,8 +122,12 @@ And here’s how you can do a clean boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and test the gameplay in Among Us.
@@ -123,17 +146,18 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’ve installed all the updates, restart your computer to take full effect. Next you can launch Among Us and test the stability.
 
  If this trick doesn’t solve your problem, simply move on to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Run Among Us on another GPU
 
  According to some players, the crashing issue can be bypassed by shifting to another GPU. So if your gaming rig is equipped with dual GPU (e.g. PC/laptops with a built-in CPU graphics plus an additional AMD or NVIDIA graphics card), you can give this trick a shot and see how it goes.
@@ -147,13 +171,18 @@ Here’s how:
 1. At the empty area of your desktop, right-click and select **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Among Us launcher.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click the launcher in the list, then click**Options** . Select**Power saving** and click**Save** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu-2.jpg)
 
 Now you can launch Among Us and see if it crashes again.
@@ -168,8 +197,6 @@ Now you can launch Among Us and see if it crashes again.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +204,24 @@ Now you can launch Among Us and see if it crashes again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/the-eternal-loop-uncovering-the-themes-of-continuity-in-black-survival/"><u>'The Eternal Loop': Uncovering the Themes of Continuity in Black Survival</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixed-wow-screen-flickering-issue/"><u>[FIXED] WOW Screen Flickering Issue</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-tunepiercer-screen-capture-app-review/"><u>[New] 2024 Approved TunePiercer Screen Capture App Review</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-regain-access-how-to-fix-a-2023-facebook-glitch/"><u>[Updated] 2024 Approved Regain Access How to Fix a 2023 Facebook Glitch</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-top-time-lapse-techniques-and-tools-5/"><u>[Updated] Top Time-Lapse Techniques & Tools #5</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-mastering-mobile-media-a-guide-to-the-9-smartest-gadgets-for-filmmakers/"><u>2024 Approved Mastering Mobile Media A Guide to the 9 Smartest Gadgets for Filmmakers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/comprehensive-solutions-to-tackle-microsoft-edge-malfunction-on-your-windows-tenth-gen-pc/"><u>Comprehensive Solutions to Tackle Microsoft Edge Malfunction on Your Windows Tenth-Gen PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722996647700-dayz-first-person-shooter-instant-and-simple-fixes-for-game-crashes/"><u>DayZ First-Person Shooter: Instant and Simple Fixes for Game Crashes!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-cyberpunk-2077-how-to-enable-gpu-usage-on-windows-11/"><u>Fixing CYBERPUNK 2077: How to Enable GPU Usage on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/free-logitech-mk710-mouse-software-latest-driver-installation-guide/"><u>Free Logitech MK710 Mouse Software: Latest Driver Installation Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/how-to-do-transitions-on-inshot-video-editor/"><u>How to Do Transitions on Inshot Video Editor?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-troubles-heres-why-your-the-ascent-game-may-keep-freezing/"><u>PC Troubles? Here's Why Your 'The Ascent' Game May Keep Freezing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-fixes-for-when-utorrent-wont-connect-or-download-files-correctly/"><u>Quick Fixes for When uTorrent Won't Connect or Download Files Correctly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/roblox-sound-problems-solved-fixes-for-players-with-windows-11-or-10/"><u>Roblox Sound Problems Solved - Fixes for Players with Windows 11 or 10</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/the-path-to-success-integrating-past-recordings-in-real-time-on-social-media/"><u>The Path to Success Integrating Past Recordings in Real Time on Social Media</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-motorola-moto-g-stylus-2023-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Motorola Moto G Stylus (2023) Android SIM Unlock APK</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/ultimate-how-to-complete-iphone-14-data-transfer-using-itunes/"><u>Ultimate How-To: Complete iPhone 14 Data Transfer Using iTunes</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Optimize Your Experience - Overcome Common Crashing Challenges in Football Manager 2021 on Windows Computers
-date: 2024-10-29T03:36:17.191Z
-updated: 2024-10-31T23:02:39.857Z
+date: 2024-11-01T01:42:28.309Z
+updated: 2024-11-07T03:37:02.892Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ thumbnail: https://thmb.techidaily.com/2a86960040387567ee8a74265a39e135c9493f594
 4. **[Launch the game in DX11 mode](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Check your firewall and antivirus settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Psychonauts 2](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets the minimum requirements
 
@@ -78,6 +85,13 @@ If the issue persists, go ahead with the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/psychonauts2-properties.jpg)
 3. Select the LOCAL FILES tab and click**Verify integrity of game files…** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
 
@@ -96,16 +110,22 @@ If the crashing issue remains, continue to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-launch-options-dx11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This will force the game to run in DX11\. Then you can launch Psychonauts 2 again to see if the error still occurs.
 
 If this fix doesn’t do the trick, try the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Check your firewall and antivirus settings
 
@@ -117,31 +137,17 @@ Allow Psychonauts 2 through Windows Firewall:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/firewall-network-protection.jpg)
 2. Click**Allow an app through firewall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-an-app-through-firewall.jpg)
 3. In the new window, click**Change settings** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/change-settings.jpg)
 4. Click**Allow another app…** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-another-app-1.jpg)
@@ -150,30 +156,24 @@ Allow Psychonauts 2 through Windows Firewall:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/add-an-app.jpg)
 6. Click**OK** to save changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/ok.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The way to add Psychonauts 2 as an exception to your antivirus software will vary depending on the antivirus software you’re using.
 
  See if the game crashes after you allow the game through the firewall and add it as an exception to your antivirus software. If it persists, check out the last fix.
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Psychonauts 2
@@ -201,22 +201,21 @@ Allow Psychonauts 2 through Windows Firewall:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-ultimate-guide-ten-most-affordable-screen-capture-software/"><u>[New] 2024 Approved Ultimate Guide Ten Most Affordable Screen Capture Software</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-enjoy-whole-audio-on-twitch-addressing-muted-segments-now/"><u>[Updated] In 2024, Enjoy Whole Audio on Twitch Addressing Muted Segments Now</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-unveiling-the-metaverse-and-multimetase-core-disparities-explored/"><u>[Updated] In 2024, Unveiling the Metaverse & MultiMetase Core Disparities Explored</u></a></li>
-<li><a href="https://windows11.techidaily.com/advance-windows-11-task-manager-refresh-speeds/"><u>Advance Windows 11 Task Manager Refresh Speeds</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-solutions-for-fixing-bloodhunts-freezing-problems-on-windows-machines/"><u>Effective Solutions for Fixing Bloodhunt's Freezing Problems on Windows Machines</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elden-ring-on-hold-exploring-factors-that-have-pushed-back-its-release/"><u>Elden Ring on Hold: Exploring Factors That Have Pushed Back Its Release</u></a></li>
-<li><a href="https://program-issues.techidaily.com/essential-fixes-for-a-non-responsive-rust-program-expert-advice/"><u>Essential Fixes for a Non-Responsive Rust Program: Expert Advice</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-common-dying-light-audio-problem/"><u>Fixing the Common 'Dying Light' Audio Problem</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/masterclass-comprehensive-overview-of-dji-phantom-4/"><u>Masterclass Comprehensive Overview of DJI Phantom 4</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-interruptions-permanent-solution-for-the-king-of-fighters-xv-stability-issues-on-pc/"><u>No More Interruptions: Permanent Solution for 'The King of Fighters XV' Stability Issues on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-common-problems-with-the-logitech-c920-digital-webcam/"><u>Overcoming Common Problems with the Logitech C920 Digital Webcam</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-call-of-duty-warzone-screen-issues-a-comprehensive-guide/"><u>Resolving Call of Duty: Warzone Screen Issues : A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-dragon-age-origins-stability-problems-on-windows-1n-modern-os/"><u>Solving Dragon Age: Origins Stability Problems on Windows 1N Modern OS</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-gamers-blueprint-techniques-to-record-virtual-realms-for-2024/"><u>The Gamer's Blueprint Techniques to Record Virtual Realms for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209597936-9781786783059-the-positive-psychology-of-synchronicity/"><u>The Positive Psychology of Synchronicity | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlock-disk-control-explore-4-opening-steps-in-windows-disk-editor/"><u>Unlock Disk Control: Explore 4 Opening Steps in Windows Disk Editor</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-online-tools-to-delete-tiktok-watermarks-for-free/"><u>Updated Online Tools to Delete TikTok Watermarks for Free</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-exploring-huawei-p10s-network-performance-and-coverage/"><u>[New] 2024 Approved Exploring Huawei P10's Network Performance & Coverage</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-deathloop-keeps-stuttering-on-pc/"><u>[SOLVED] Deathloop Keeps Stuttering on PC</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-multimedia-fabrication-zone/"><u>2024 Approved Multimedia Fabrication Zone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722988506423-cyberpunk-2077-overheating-issues-heres-the-solution-for-lowering-cpu-load/"><u>Cyberpunk 2077 Overheating Issues? Here’s the Solution for Lowering CPU Load</u></a></li>
+<li><a href="https://program-issues.techidaily.com/disco-elysium-for-pc-now-running-smoothly-a-guide-through-the-fixed-compatibility-issues/"><u>Disco Elysium for PC Now Running Smoothly: A Guide Through the Fixed Compatibility Issues</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ensure-optimal-display-performance-by-downloading-new-vga-driver-versions/"><u>Ensure Optimal Display Performance by Downloading New VGA Driver Versions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/exploring-present-day-drones-envisioning-their-future-for-2024/"><u>Exploring Present-Day Drones, Envisioning Their Future for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-rights-and-regulations-the-landscape-of-copyright-in-the-world-of-ai-creations/"><u>Exploring Rights and Regulations: The Landscape of Copyright in the World of AI Creations</u></a></li>
+<li><a href="https://games-able.techidaily.com/games-vanish-quickly-is-it-a-concern/"><u>Games Vanish Quickly: Is It a Concern?</u></a></li>
+<li><a href="https://win11.techidaily.com/in-depth-look-at-ais-impact-on-windows-11-performance/"><u>In-Depth Look at AI's Impact on Windows 11 Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-ark-survival-ascended-on-pc-avoid-the-crashes-with-our-9-expert-tips/"><u>Mastering ARK: Survival Ascended on PC - Avoid the Crashes with Our 9 Expert Tips</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/page-missing-404-error-the-link-leads-nowhere-but-heres-help/"><u>Page Missing (404 Error): The Link Leads Nowhere, But Here's Help!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/prevent-lethal-business-setbacks-in-202email-protected-with-proven-fixes/"><u>Prevent Lethal Business Setbacks in 202([Email Protected]) with Proven Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-issues-troubleshooting-oculus-graphics-driver-errors/"><u>Resolving Issues: Troubleshooting Oculus Graphics Driver Errors</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-step-by-step-guide-to-repairing-windows-code-19-issues/"><u>Solving the Mystery: Step-by-Step Guide to Repairing Windows Code 19 Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unveiling-tricks-how-to-get-steam-vr-recognized-on-your-pc-a-step-by-step-guide/"><u>Unveiling Tricks: How To Get Steam VR Recognized on Your PC - A Step-by-Step Guide</u></a></li>
 </ul></div>
 

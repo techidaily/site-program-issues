@@ -1,7 +1,7 @@
 ---
 title: How to Get and Install the Newest Logitech G403 Software on Your Computer
-date: 2024-10-28T03:02:31.445Z
-updated: 2024-10-31T16:15:39.408Z
+date: 2024-11-04T18:33:03.970Z
+updated: 2024-11-06T19:20:23.760Z
 tags:
   - win11
   - win10
@@ -61,25 +61,25 @@ Recommended
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-infinite-steam-properties.jpg)
 3. Navigate to the**LOCAL FILE** S tab and select**Verify integrity of game files…** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-infinite-steam-verify-game-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once the process is completed, try launching the game again to see if you can get past the black screen.
 
 If the issue remains, check out the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -97,18 +97,18 @@ If the issue remains, check out the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your graphics driver, restart your PC and launch Halo Infinite again to see if your problem is resolved.
 
 If the issue persists, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Check for Windows updates
 
@@ -118,6 +118,13 @@ If the issue persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you’ve installed all the updates, restart your computer and launch Halo Infinite again to see if the black screen issue has gone away.
 
@@ -132,33 +139,14 @@ If the issue persists, take a look at the next fix.
 2. In the pop-up window, click**Allow an app or feature through Windows Firewall** .  
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
 3. Locate**HaloInfinite.exe** from the list of apps. If not listed, click**Change settings > Allow another app…** , then locate**HaloInfinite.exe** .  
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
 4. Checkmark both**Private** and**Public** settings.
@@ -177,13 +165,6 @@ If the issue persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
 
@@ -193,21 +174,15 @@ If the issue persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time,**select** any programs you suspect might be interfering and click**Disable** .  
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. Restart your computer and try launching Halo Infinite again.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you won’t see a black screen again, then try enabling services one by one until you find the conflicting software. Be sure to restart your PC after enabling each service.
 
@@ -216,10 +191,10 @@ If the issue persists, take a look at the next fix.
  If the black screen issue still occurs after you disable all unnecessary services, check out the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Halo Infinite
@@ -230,6 +205,13 @@ If the issue persists, take a look at the next fix.
 2. Right-click**Halo Infinite** and select**Manage > Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-infinite-steam-uninstall.jpg)
 3. Follow the on-screen instructions to uninstall the game.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Reinstall Halo Infinite.
 
@@ -257,22 +239,18 @@ Now you should be able to run the game without any problems.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-navigating-the-truth-in-your-photos-an-instagram-selfie-audit/"><u>[New] 2024 Approved Navigating the Truth in Your Photos An Instagram Selfie Audit</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-comprehensive-reference-for-efficient-screenshotting-with-zd-softwares-tools-for-2024/"><u>[New] Comprehensive Reference for Efficient Screenshotting with ZD Software's Tools for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-country-rhythms-for-peaceful-evenings-top-20-tiktok-tracks/"><u>[New] In 2024, Country Rhythms for Peaceful Evenings Top 20 TikTok Tracks</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-prime-traffic-magnet-design/"><u>2024 Approved Prime Traffic Magnet Design</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-honor-90-lite-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Honor 90 Lite is off? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/essential-strategies-to-successfully-start-a-video-on-zoom-without-glitches/"><u>Essential Strategies to Successfully Start a Video on Zoom Without Glitches</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fallout-s76-stuttering-expert-tips-for-a-smoother-gameplay/"><u>Fallout S76 Stuttering: Expert Tips for a Smoother Gameplay</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-tutorial-applying-computer-vhs-filters/"><u>In 2024, Step-by-Step Tutorial Applying Computer VHS Filters</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-the-realm-of-thedas-tackling-baldurs-gate-hiccups-proven-techniques-for-6-critical-fixes/"><u>Master the Realm of Thedas: Tackling Baldur's Gate Hiccups - Proven Techniques for 6 Critical Fixes!</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-s-top-rated-free-flv-video-editing-tools-for-2024/"><u>New S Top-Rated Free FLV Video Editing Tools for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-your-gaming-experience-avoid-crashes-with-house-flipper-amo-on-pc/"><u>Optimizing Your Gaming Experience: Avoid Crashes with House Flipper Amo on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-high-ping-problems-while-playing-street-fighter-6-on-your-pc/"><u>Overcoming High Ping Problems While Playing Street Fighter 6 on Your PC</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-your-iphone-or-ipad-expert-tips-for-overcoming-disabling-issues/"><u>Revive Your iPhone or iPad: Expert Tips for Overcoming Disabling Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/say-goodbye-to-lags-and-glitches-discover-the-best-6-remedies-for-hogwarts-legacy/"><u>Say Goodbye to Lags and Glitches: Discover the Best 6 Remedies for Hogwarts Legacy !</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-issue-when-nier-gestaltreplicant-wont-open/"><u>Solving the Issue When NieR Gestalt/Replicant Won't Open</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-issue-with-armored-core-vi-fires-of-rubicon-failure-to-start/"><u>Solving the Issue with Armored Core VI: Fires of Rubicon Failure to Start</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/visualize-diskspace-on-demand-from-windows-explorer-menu/"><u>Visualize DiskSpace on Demand From Windows Explorer Menu</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-size-matters-crafting-engaging-video-titles/"><u>[New] Size Matters Crafting Engaging Video Titles</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-windows-snapshot-mastery-3-easy-approaches-for-2024/"><u>[Updated] Windows Snapshot Mastery (3 Easy Approaches) for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-tips-for-shooting-and-sharing-videos-on-instagram/"><u>2024 Approved Tips for Shooting & Sharing Videos on Instagram</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-list-of-2023s-best-ergonomic-keyboards-as-featured-on-techradar/"><u>Discover the Ultimate List of 2023'S Best Ergonomic Keyboards as Featured on TechRadar</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-msi-audio-driver-software-for-windows-systems/"><u>Download MSI Audio Driver Software for Windows Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/expand-your-video-editing-experience-no-inshot-required/"><u>Expand Your Video Editing Experience No Inshot Required</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-launch-failed-problems-in-rocket-league-gameplay/"><u>How to Overcome 'Launch Failed' Problems in Rocket League Gameplay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On Apple iPhone 15 Pro Max?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-and-tips-overcoming-launch-errors-in-football-manager-2023/"><u>Solutions and Tips: Overcoming Launch Errors in Football Manager 2023</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-lag-problems-in-naraka-reincarnation-a-comprehensive-guide/"><u>Solving Lag Problems in Naraka: Reincarnation - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/successfully-overcoming-device-driver-hurdles-on-windows-7-8-and-tenth-with-startech/"><u>Successfully Overcoming Device Driver Hurdles on Windows 7, 8 & Tenth with StarTech</u></a></li>
+<li><a href="https://program-issues.techidaily.com/what-happened-to-mafia-definitive-edition-release-date/"><u>What Happened to Mafia: Definitive Edition Release Date?</u></a></li>
 </ul></div>
 

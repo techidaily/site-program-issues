@@ -1,7 +1,7 @@
 ---
 title: How to Quickly Resolve Valorant 'Graphics Driver Crashed' Issue - A Step-by-Step Guide
-date: 2024-10-25T21:33:47.236Z
-updated: 2024-10-31T21:57:03.248Z
+date: 2024-11-05T22:29:01.677Z
+updated: 2024-11-06T18:12:09.000Z
 tags:
   - win11
   - win10
@@ -79,13 +79,6 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8 fixes for FIFA 20 crashing
 
  Here are 8 fixes that have proved helpful to solve the FIFA 20 crashing issues. You may not need to try them all; just work your way down the list until you find the one that does the trick.
@@ -126,17 +119,38 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  If you still have random crashes with FIFA 20, you should give the next fix a try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Fix 2: Roll back your graphics card driver**
 
@@ -145,13 +159,6 @@ In case you don’t know how, here’s the guidance:
  1) On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run dialog box. Then type **devmgmt.msc** into the box and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-212.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) In the Device Manager window, double-click on the **Display adapters** node to expand its drop-down list. Then right-click on your graphics card (the one used to run the game) and select**Properties** .
 
@@ -182,22 +189,15 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-141.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) On the **Windows Update** tab, in the results pane, click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-947.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Wait for the system to search for available updates online. If there’s indeed a pending update, then Windows will automatically download the update and install it. Once the process completes, restart your computer for the changes to be fully implemented.
 
@@ -221,16 +221,16 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-847.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) After “DIRECTX\_SELECT = 1” is located, change it to**DIRECTX\_SELECT = 0** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-866.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If your**fifasetup.ini** file is already set to**0** when you first open it, then try changing it to**1** instead.
 
@@ -251,6 +251,13 @@ In case you don’t know how, here’s the guidance:
  On completion, click**Apply** to save the changes you’ve made.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-913.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3) Exit NVIDIA Control Panel, restart your computer, then launch FIFA 20.
 
@@ -277,6 +284,13 @@ If you continue to face the crashing problem, please move on to Fix 6.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-63.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In the Command Prompt, type the following command (**note** that there’s a space between sfc and /):
 
 sfc /scannow
@@ -284,13 +298,6 @@ sfc /scannow
  After you finish entering the command, hit **Enter** on your keyboard. Then the sfc tool will begin to scan all system files and repair the corrupted or missing ones.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-183.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Wait until the verification process completes. Then **restart** your computer for the changes to take effect.
 
@@ -314,16 +321,16 @@ dism.exe /online /cleanup-image /restorehealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-165.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait for the process to complete. Then, reboot your computer, launch FIFA 20, and wait to see if it keeps crashing. If it does, try out Fix 7.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Close unnecessary programs
 
@@ -334,13 +341,6 @@ dism.exe /online /cleanup-image /restorehealth
  If, after restoring the game files mistakenly deleted by your antivirus the game is still crashing, you should try to download and install it once again. However, make sure you turn off the antivirus temporarily during the reinstall process of FIFA 20.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Wait for more game updates
 
@@ -368,20 +368,19 @@ dism.exe /online /cleanup-image /restorehealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/fixed-skyrim-keeps-crashing-easily/"><u>[Fixed] Skyrim Keeps Crashing [Easily]</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-starting-an-online-platform-for-consumer-goods-reviews/"><u>[New] 2024 Approved Starting an Online Platform for Consumer Goods Reviews</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-strategic-storytelling-essential-language-for-marketers/"><u>[New] Strategic Storytelling Essential Language for Marketers</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-elevate-your-shots-vloggers-guide-to-the-9-finest-camera-gadgets/"><u>[Updated] Elevate Your Shots Vlogger's Guide to the 9 Finest Camera Gadgets</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-elite-4k-televisions-the-ultimate-showdown/"><u>[Updated] In 2024, Elite 4K Televisions – The Ultimate Showdown</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-black-myth-wukong-crashing-on-pc/"><u>Fix Black Myth Wukong Crashing on PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-itel-a60s-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Itel A60s Phones? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-prevent-and-fix-the-wukong-crashes-problem-in-pc-gaming/"><u>How to Prevent and Fix the 'Wukong Crashes' Problem in PC Gaming</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-black-myth-wukongs-video-memory-exceeded-issue-on-your-computer/"><u>How to Resolve Black Myth Wukong's 'Video Memory Exceeded' Issue on Your Computer</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-vertical-or-horizontal-facebook-video-tactic/"><u>In 2024, Vertical or Horizontal Facebook Video Tactic</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/mastering-pc-games-screenshots-top-6-methods/"><u>Mastering PC Games Screenshots Top 6 Methods</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimize-performance-solving-frame-rate-drops-and-delays-in-black-myth-wukong-for-pc-players/"><u>Optimize Performance: Solving Frame Rate Drops and Delays in Black Myth Wukong for PC Players</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixes-for-persistent-skyrim-game-crashes-a-simple-guide/"><u>Resolved: Fixes for Persistent Skyrim Game Crashes – A Simple Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/seamless-startup-instructions-for-setting-up-auto-login-in-microsoft-windows/"><u>Seamless Startup: Instructions for Setting Up Auto Login in Microsoft Windows</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-essential-6-microphone-selections-for-high-quality-livestreams-for-2024/"><u>[New] Essential 6 Microphone Selections for High-Quality Livestreams for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unlocking-fb-video-content-with-1-5-downloaders-for-2024/"><u>[New] Unlocking FB Video Content with #1-5 Downloaders for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-how-to-unlock-mac-with-apple-watch-sierra/"><u>[Updated] In 2024, How to Unlock Mac with Apple Watch [Sierra]</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-your-chromebooks-pitch-and-tone-with-our-top-5-web-tools/"><u>[Updated] Master Your Chromebook's Pitch and Tone with Our Top 5 Web Tools</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-ultimate-guide-vimeo-video-grabs/"><u>[Updated] Ultimate Guide Vimeo Video Grabs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-pitfalls-and-solutions-in-getting-age-of-empires-iv-from-microsofts-marketplace/"><u>Common Pitfalls and Solutions in Getting Age of Empires IV From Microsoft's Marketplace</u></a></li>
+<li><a href="https://program-issues.techidaily.com/crash-free-clashes-in-titanfall-2-top-techniques-for-smooth-and-seamless-playtime/"><u>Crash-Free Clashes in Titanfall 2: Top Techniques for Smooth and Seamless Playtime</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-unable-to-sync-with-steam-cloud-problem-for-smooth-gaming/"><u>Fixing the 'Unable to Sync with Steam Cloud' Problem for Smooth Gaming</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-seamlessly-update-and-download-the-latest-hid-keyboard-driver-software/"><u>How to Seamlessly Update and Download the Latest HID Keyboard Driver Software</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-nocturnal-landscapes-on-your-iphone/"><u>In 2024, Nocturnal Landscapes on Your iPhone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/smooth-sailing-eliminating-minecraft-freezing-glitches-for-a-flawless-pc-gaming-experience/"><u>Smooth Sailing : Eliminating Minecraft Freezing Glitches for a Flawless PC Gaming Experience</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-vivo-s18-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Vivo S18 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-overcoming-error-4201-in-genshin-impact/"><u>Troubleshooting Tips for Overcoming Error #4201 in Genshin Impact</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlock-top-fps-levels-in-ring-of-elysium-secrets-to-optimizing-gameplay-revealed/"><u>Unlock Top FPS Levels in Ring of Elysium - Secrets to Optimizing Gameplay Revealed</u></a></li>
 </ul></div>
 

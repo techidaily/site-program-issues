@@ -1,7 +1,7 @@
 ---
 title: "Solving Game Glitches: The Ultimate Guide to Overcoming Apex Legends Error 23"
-date: 2024-10-28T00:11:47.769Z
-updated: 2024-10-31T23:36:03.568Z
+date: 2024-10-31T16:15:08.343Z
+updated: 2024-11-06T22:00:23.675Z
 tags:
   - win11
   - win10
@@ -69,13 +69,6 @@ After you save the changes, test your gameplay.
 
  Can’t get a noticeable performance increase? Then proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Verify integrity of game files
 
  Any missing or corrupted game files can cause a wide range of issues. And you need to make sure your files are intact by repairing your game on[Origin](https://tools.techidaily.com/drivereasy/download/) or[Steam](https://tools.techidaily.com/drivereasy/download/) :
@@ -96,13 +89,20 @@ After you save the changes, test your gameplay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once the process is finished, play Mass Effect. If your problem persists, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Update your graphics driver
@@ -110,13 +110,6 @@ After you save the changes, test your gameplay.
  Low FPS, lagging gameplay, or poor graphics aren’t always caused by an old graphics card. Sometimes, updating your graphics driver can fix performance bottlenecks and introduce improvements that make your game significantly run smoother. Moreover, updating your graphics can ensure that you always have the newest features. Therefore, if you can’t remember when was the last time you updated your drivers, do it right now as it can make a big difference.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics driver
 
@@ -126,13 +119,6 @@ After you save the changes, test your gameplay.
 [AMD](https://www.amd.com/en/support)
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics driver (recommended)
 
@@ -145,6 +131,13 @@ Here’s how to update drivers with Driver Easy:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
@@ -169,6 +162,19 @@ To run Mass Effect in high priority, follow these steps:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/set-Steams-priority-to-high-in-the-Task-Manager-to-help-with-the-unpacking-speed.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Select the **Details**  tab. Locate **MassEffectLegendaryEdition.exe** . Right-click it and select **Set priority > High** .
 
  5) Click **Change priority** .
@@ -176,6 +182,13 @@ To run Mass Effect in high priority, follow these steps:
  After applying the changes, start playing your game and check if you can notice any difference.
 
 If this didn’t give you any luck, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Enable high-performance power plan
 
@@ -195,13 +208,6 @@ If this didn’t give you any luck, try the next fix below.
   
 ![Mass Effect Legendary Edition enable high performance](https://images.drivereasy.com/wp-content/uploads/2021/05/enable-power-plan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Click**Options** .  
   
 ![enable high performance Mass Effect Legendary Edition](https://images.drivereasy.com/wp-content/uploads/2021/05/enable-high-performance.jpg)
@@ -209,13 +215,6 @@ If this didn’t give you any luck, try the next fix below.
  6) Select **High performance**  and click **Save** .  
   
 ![set high performance power plan Genshin Impact](https://images.drivereasy.com/wp-content/uploads/2021/01/high-performance.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Still can’t fix your issues? No worries! There are other effective methods below.
 
@@ -240,10 +239,10 @@ If this didn’t give you any luck, try the next fix below.
 ![disable hardware acceleration Google Chrome](https://images.drivereasy.com/wp-content/uploads/2020/12/disable-google-hardware-acceleration.png)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### In Discord
@@ -257,19 +256,6 @@ If this didn’t give you any luck, try the next fix below.
 ![disable hardware acceleration Discord](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-disable-hardware-acceleration.png)
 
  If you can’t notice much difference after disabling hardware acceleration, try the next fix below.
-
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Disable Windows 10 gaming features
 
@@ -287,6 +273,13 @@ Here’s how to do this:
   
 ![turn off recording](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-recording.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) From the left pane, select **Captures** . In the **Background recording**  section, toggle off **Record in the background while I’m playing a game** .  
   
 ![turn off record in the background option](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-record-in-the-background-option.jpg)
@@ -294,6 +287,13 @@ Here’s how to do this:
  5) From the left sidebar, select **Game Mode** . Then toggle off **Game Mode** .
 
 ![turn off game mode windows 10](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-game-mode.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now play your game and you should be able to get higher FPS or at least it’s going back to the normal value.
 
@@ -316,20 +316,18 @@ Here’s how to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-delightful-stream-extractor-report/"><u>[New] 2024 Approved Delightful Stream Extractor Report</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-file-download-voice-track-analysis/"><u>2024 Approved File Download Voice Track Analysis</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-full-evaluation-what-makes-theta-s-special/"><u>2024 Approved Full Evaluation What Makes Theta S Special</u></a></li>
-<li><a href="https://program-issues.techidaily.com/decoding-immortals-fenyx-risings-launch-setback-insights-and-updates/"><u>Decoding Immortals Fenyx Rising's Launch Setback – Insights & Updates</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-and-tricks-for-resolving-my-minecraft-lan-wont-connect/"><u>Expert Tips and Tricks for Resolving 'My Minecraft LAN Won't Connect'</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722998327616-fixing-path-of-exile-stutter-and-lag-issues-troubleshooting-steps-inside/"><u>Fixing Path of Exile Stutter and Lag Issues - Troubleshooting Steps Inside!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-steam-file-access-restricted-issue-expert-solutions/"><u>Fixing the 'Steam File Access Restricted' Issue - Expert Solutions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/improving-blog-commentaries-with-ai-wisdom/"><u>Improving Blog Commentaries with AI Wisdom</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/microsoft-abandons-developing-new-android-applications-for-windows-11/"><u>Microsoft Abandons Developing New Android Applications for Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-game-crashing-solutions-for-star-wars-squadrons/"><u>Overcome Game Crashing: Solutions For Star Wars Squadrons</u></a></li>
-<li><a href="https://program-issues.techidaily.com/say-goodbye-to-nba-2k21-pc-glitches-solutions-that-work/"><u>Say Goodbye to NBA 2K21 PC Glitches - Solutions That Work</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-the-twinkle-ultimate-guide-to-repairing-flickering-screens/"><u>Stop the Twinkle: Ultimate Guide to Repairing Flickering Screens</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-essential-thumbnail-strategy-for-top-video-visibility-for-2024/"><u>The Essential Thumbnail Strategy for Top Video Visibility for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-strategies-to-resolve-critical-startup-issues-preparing-for-a-2024-market-entry/"><u>Top Strategies to Resolve Critical Startup Issues: Preparing for a 2024 Market Entry</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-your-personalized-list-of-top-non-networked-android-game-apps/"><u>[New] Your Personalized List of Top Non-Networked Android Game Apps</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-bring-your-videos-to-life-border-magic-on-ig/"><u>[Updated] 2024 Approved Bring Your Videos to Life Border Magic on IG</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-elite-tiktok-editors-for-windows-users-for-2024/"><u>[Updated] Elite TikTok Editors For Windows Users for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-essential-online-spots-for-digitized-artwork/"><u>[Updated] In 2024, Essential Online Spots for Digitized Artwork</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/18-ways-to-record-internet-radio-comprehensive-tutorial/"><u>18 Ways To Record Internet Radio- Comprehensive Tutorial</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diablo-ii-reborn-bug-solved-stop-the-game-from-unexpectedly-closing-now/"><u>Diablo II Reborn Bug Solved: Stop the Game From Unexpectedly Closing Now!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-techniques-to-fix-and-prevent-frozen-frames-in-call-of-duty-black-ops-cold-war/"><u>Effective Techniques to Fix and Prevent Frozen Frames in Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/efficient-color-grading-in-ar-understanding-and-downloading-luts-for-2024/"><u>Efficient Color Grading in AR Understanding and Downloading LUTs for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-achieving-peer-recognition-from-undiscovered-to-popular-on-vimeo/"><u>In 2024, Achieving Peer Recognition From Undiscovered to Popular on Vimeo</u></a></li>
+<li><a href="https://extra-support.techidaily.com/step-up-your-home-cinema-game-with-these-essential-tips-for-2024/"><u>Step Up Your Home Cinema Game with These Essential Tips for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-ghostwire-tokyos-frequent-disruptions-on-pc/"><u>Troubleshooting Guide: Fixing Ghostwire: Tokyo's Frequent Disruptions on PC</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-the-power-of-command-line-a-cross-platform-approach-for-windows-operating-systems/"><u>Unlocking the Power of Command Line: A Cross-Platform Approach for Windows Operating Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723001774207-warped-in-ice-thaw-your-stalled-cyberpunk-2erpunk-2077-experience-now/"><u>Warped in Ice? Thaw Your Stalled Cyberpunk 2Erpunk 2077 Experience Now</u></a></li>
 </ul></div>
 

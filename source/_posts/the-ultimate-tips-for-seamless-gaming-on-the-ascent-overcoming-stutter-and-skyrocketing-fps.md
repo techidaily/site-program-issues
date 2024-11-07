@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Tips for Seamless Gaming on 'The Ascent': Overcoming Stutter & Skyrocketing FPS"
-date: 2024-08-23T17:33:06.293Z
-updated: 2024-08-24T17:33:06.293Z
+date: 2024-11-04T19:45:37.738Z
+updated: 2024-11-07T02:46:25.034Z
 tags:
   - win11
   - win10
@@ -89,6 +89,13 @@ To check your PC hardware specifications, you can follow the steps below.
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/temporarily-disable-firewall.png)
 3. Click **Turn Windows Defender Firewall on or off** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-windows-features-on-or-off.png)
 4. Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network and Public network. Then click **OK** .  
 
@@ -109,9 +116,6 @@ To check your PC hardware specifications, you can follow the steps below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
  Then you can attempt to open your game. If your problem persists, proceed to the next fix.
 
 ## 3\. Run your game as an administrator
@@ -124,6 +128,13 @@ To check your PC hardware specifications, you can follow the steps below.
 
  Till now, launch the game to test if it works. If this method doesn’t give you any luck, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Download & install all Windows updates
 
  Windows updates are released on a regular basis to provide users with bug fixes and new features. So you should make sure they are installed in your system to get all the performance enhancements. If your issue is triggered by the incompatibilities, updating Windows is more likely to help.
@@ -135,15 +146,8 @@ To check your PC hardware specifications, you can follow the steps below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  After the updates are installed, reboot your device and then try to launch your game. If you’re still having the issue, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## 5\. Update your graphics driver
 
  Your graphics card is one of the core components of your computer. And your graphics driver is essential for getting top performance from your GPU. Unfortunately, it’s also susceptible to corruption. When that happens, your PC performance would suffer and your graphics-intensive game may fail to work properly. Therefore, it’s imperative to update your graphics driver. Additionally, when a new title comes out, some graphics card manufacturers would release game-ready drivers, which you should definitely download and install.
@@ -151,9 +155,12 @@ To check your PC hardware specifications, you can follow the steps below.
  There are mainly two ways you can update your drivers: manually and automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 1: Manually update your drivers
 
  If you have the time, patience and computer skills to update drivers on your own, you can visit your graphics card manufacturer’s website:
@@ -164,6 +171,13 @@ To check your PC hardware specifications, you can follow the steps below.
 
  Then find the most up-to-date driver and follow the on-screen instructions to download and install it for your system.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 2: Automatically update your drivers (recommended)
 
  If you’re looking for a hassle-free way to get driver updates, you can use an automatic driver updater like **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Manually updating drivers is a tedious task and Driver Easy helps you do all the busy work. It helps you scan and detect any missing or outdated drivers, then download and install the latest drivers for your system, direct from the device provider.
@@ -173,8 +187,12 @@ To check your PC hardware specifications, you can follow the steps below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you have to do is to download them one at a time and manually install them.  
@@ -182,8 +200,12 @@ To check your PC hardware specifications, you can follow the steps below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your computer. If your game isn’t loading, don’t fret! Below are some other fixes.
@@ -192,9 +214,6 @@ To check your PC hardware specifications, you can follow the steps below.
 
  From time to time, game files can get corrupted and some important ones may even be missing, causing the issue of your game failing to launch as expected. To replace the corrupted files and make sure they are intact, you should try to verify them within the gaming platform.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### On Steam
 
 1. Open your Steam client. Under**LIBRARY** , right-click your game title and select**Properties** .
@@ -203,20 +222,16 @@ To check your PC hardware specifications, you can follow the steps below.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/02/Dead-Space-verify-intergrity-of-game-files-on-Steam.png)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now Steam will start scanning your game files. This process may take a few minutes. If there are file validation failures, you can safely ignore the message that pops up.
 
  When the verification process is finished, close the window and check if it solves your problem. If your game still fails to launch, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### On EA
 
 1. Open the EA desktop app.
@@ -224,9 +239,6 @@ To check your PC hardware specifications, you can follow the steps below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Dead-Space-Remake-repair-game-files-on-the-EA-app.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then all you have to do is wait until the repair process is complete. If this doesn’t do the trick, try the next fix below.
 
 ### On Epic Games
@@ -236,11 +248,15 @@ To check your PC hardware specifications, you can follow the steps below.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/02/Dead-Space-Remake-repair-game-files-on-the-Epic-Games-Launcher.png)
 2. Now click on the**VERIFY** button.  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/02/Dead-Space-Remake-how-to-repair-game-files-on-the-Epic-Games-Launcher-click-on-the-VERIFY-button.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Depending on the size of your game, it may take a few minutes to verify all your files. Once it finishes, try to launch your game to check whether verifying game files works.
 
 ## 7\. Repair corrupted system files
@@ -263,9 +279,6 @@ To check your PC hardware specifications, you can follow the steps below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/use-System-File-Checker-to-repair-corrupted-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  However, this tool may not help you with a 100% guarantee. Sometimes it fails to fix an underlying problem. If that’s your case, a more powerful tool will be needed. **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  is the one that helps. Specializing in Windows repair, Fortect can help replace damaged or missing Windows files with healthy ones and restore your PC back to its greatness. In addition, it detects threatening apps, protects, and removes malware from your PC before it’s too late!
 
  Fixing corrupted system files with Fortect is a breeze. All you have to do is follow the simple step-by-step below.
@@ -286,8 +299,6 @@ To check your PC hardware specifications, you can follow the steps below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -295,4 +306,22 @@ To check your PC hardware specifications, you can follow the steps below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://program-issues.techidaily.com/fixed-dark-souls-3-crashing-issues/"><u>[Fixed] Dark Souls 3 Crashing Issues</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-determining-top-screen-recorder-obs-studio-vs-bandicam-for-2024/"><u>[New] Determining Top Screen Recorder OBS Studio Vs. Bandicam for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-action-in-full-hd-top-7-camcorders-for-thrills/"><u>[New] In 2024, Action in Full HD Top 7 Camcorders for Thrills</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-top-pick-for-new-dronists-a-deep-look-at-syma-x5c/"><u>[New] In 2024, The Top Pick for New Dronists – A Deep Look at Syma X5C</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-streamline-game-saves-mastering-fbx-recording/"><u>[Updated] Streamline Game Saves Mastering FBX Recording</u></a></li>
+<li><a href="https://program-issues.techidaily.com/age-of-empires-iv-fixes-for-troubled-downloads-and-setup-via-microsofts-app-platform/"><u>Age of Empires IV - Fixes for Troubled Downloads and Setup via Microsoft's App Platform</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-gaming-secrets-unveiled-explore-these-6-must-play-titles/"><u>ChatGPT's Gaming Secrets Unveiled – Explore These 6 Must-Play Titles!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-techniques-to-overcome-javascript-challenges-in-your-discord-applications/"><u>Effortless Techniques to Overcome JavaScript Challenges in Your Discord Applications</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-potential-of-chatgpt-in-text-correction-tasks/"><u>Exploring the Potential of ChatGPT in Text Correction Tasks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-crash-and-stutter-issues-of-bloodhunt-on-windows-computers-tips-and-tricks/"><u>Fixing the Crash and Stutter Issues of Bloodhunt on Windows Computers - Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-stutter-solutions-to-overcome-dying-lights-performance-slowdown/"><u>Fixing the Stutter: Solutions to Overcome Dying Light's Performance Slowdown</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-players-struggle-with-necromunda-hired-gun-continuous-crashing-solutions-inside/"><u>PC Players Struggle with Necromunda: Hired Gun Continuous Crashing - Solutions Inside</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-vr-fitness-treadmills/"><u>The Ultimate Guide to VR Fitness Treadmills</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/triple-pillars-of-ai-communication-integrating-chatgpt-with-wolfram-alpha/"><u>Triple Pillars of AI Communication: Integrating ChatGPT with Wolfram Alpha</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-your-zoom-video-problem-with-these-5-expert-tips/"><u>Troubleshoot Your Zoom Video Problem with These 5 Expert Tips</u></a></li>
+</ul></div>
 

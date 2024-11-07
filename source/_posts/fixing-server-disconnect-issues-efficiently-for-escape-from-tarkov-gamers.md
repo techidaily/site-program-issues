@@ -1,7 +1,7 @@
 ---
 title: Fixing Server Disconnect Issues Efficiently for Escape From Tarkov Gamers
-date: 2024-08-23T17:38:46.887Z
-updated: 2024-08-24T17:38:46.887Z
+date: 2024-10-30T17:18:41.351Z
+updated: 2024-11-06T16:47:32.686Z
 tags:
   - win11
   - win10
@@ -48,14 +48,25 @@ thumbnail: https://thmb.techidaily.com/185bd2e3ee5add750b89a3f134c1fcf3132bd9314
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Change mini map shape
 
  If the minimap was flickering and showing multiple times in every game after the restart, choosing a square mini map might fix the issue.
@@ -65,10 +76,6 @@ Restart your computer for the changes to take effect.
 3. Scroll down to**HUD** . Change Mini Map Shape into**Square** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_10-34-49.jpg)
 4. Back to the game and check.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
 If it’s not working, move to the next fix.
 
@@ -80,25 +87,35 @@ If it’s not working, move to the next fix.
 2. In the**Graphics** tab, scroll down and click**Restart Shaders Installation** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-31-21.jpg)
 3. Click**RESTART** .  
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-32-23.jpg)
 4. After the process is finished, restart the game to check. If it’s still flickering, move on to the next step.
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 5. Close all your Blizzard programs completely.
 6. Press**Ctrl + Shift+ Esc** together to open the**Task Manager** .
 7. Click the**Processes** tab. Select Battle.net and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-49-07.jpg)
 8. Press**Windows key + R** to open the Run box.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 9. Type**%programdata%** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-50-43.jpg)
 10. Delete the**Blizzard Entertainment** folder completely.
@@ -106,9 +123,6 @@ If it’s not working, move to the next fix.
 
 No luck with this fix? Try the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Change NVIDIA settings
 
  NVIDIA control panel lets you fine-tune your in-game graphics. When there are visual issues, you can change the NVIDIA control panel settings to fix the problem.
@@ -122,8 +136,12 @@ No luck with this fix? Try the next one.
  If it’s not working, you’d better follow[fix 5](https://tools.techidaily.com/drivereasy/download/) to install the old NVIDIA driver.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Install the old driver
 
  If your PC has the NVIDIA graphics card, this fix may work for you. Many users indicated this is the only working fix for them.
@@ -135,6 +153,14 @@ No luck with this fix? Try the next one.
 4. On the Uninstall confirm dialog box, select the **Delete the driver software for this device** check box, then click **Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8ff4327d4.png)
 5. Go to [NVIDIA’s driver download page](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Enter the information in the field according to your system version and your graphics card model. In my case, my computer is running Windows 10 64-bit, and my graphic card is NVIDIA GeForce GT 640, so I enter the information in the field as follows:![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb916032434.jpg)
 7. Don’t choose the latest driver, select the older one.
 8. Follow the on-screen instructions to download the driver.
@@ -151,8 +177,6 @@ No luck with this fix? Try the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +184,20 @@ No luck with this fix? Try the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-efficient-tools-for-xmlssattml-to-srt-conversion-for-2024/"><u>[New] Efficient Tools for XML/SSA/TTML to SRT Conversion for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-spotlight-techniques-for-android-videography/"><u>[New] Spotlight Techniques for Android Videography</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-anime-soundtracks-setting-the-mood-for-viral-shorts-for-2024/"><u>[Updated] Anime Soundtracks Setting the Mood for Viral Shorts for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317157-9781781806043-angels-whisper-in-my-ear/"><u>Angels Whisper in My Ear | Free Book</u></a></li>
+<li><a href="https://common-error.techidaily.com/connect-your-microsoft-wireless-display-adapter-to-windows-11-without-a-hitch/"><u>Connect Your Microsoft Wireless Display Adapter to Windows 11 Without a Hitch!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/decode-and-fix-destiny-2s-centipede-error-for-a-smooth-gameplay-experience/"><u>Decode and Fix Destiny 2'S Centipede Error for a Smooth Gameplay Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-upgrading-and-repairing-older-version-minecraft-drivers/"><u>Expert Guide: Upgrading and Repairing Older Version Minecraft Drivers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-unloading-textures-in-fortnites-battle-royale-mode/"><u>How to Fix Unloading Textures in Fortnite's Battle Royale Mode?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagram-audio-intellectual-property-for-2024/"><u>Instagram Audio Intellectual Property for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-maze-of-microsoft-outlook-problems-in-windows/"><u>Navigating the Maze of Microsoft Outlook Problems in Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-nstep-guide-reactivating-logitechs-software-features-on-your-windows-machine/"><u>Step-by-nStep Guide: Reactivating Logitech's Software Features on Your Windows Machine</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-reducing-latency-while-playing-dota-nd4-latest-techniques-unveiled/"><u>Ultimate Guide to Reducing Latency While Playing Dota nD4: Latest Techniques Unveiled</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-transforming-shaky-videos-into-cinematic-masterpieces-with-fcpx/"><u>Updated Transforming Shaky Videos Into Cinematic Masterpieces with FCPX</u></a></li>
+</ul></div>
 

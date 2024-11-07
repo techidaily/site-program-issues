@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Screen Shimmering Troubles? Here's How to Stop It Once and For All!"
-date: 2024-08-23T17:35:09.706Z
-updated: 2024-08-24T17:35:09.706Z
+date: 2024-10-31T21:03:29.374Z
+updated: 2024-11-07T01:33:53.836Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/how-to-fix-error-Unable-to-launch-game-please-verify-your-game-data.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Verify your game files
 
  Obviously, when this error message pops up, the first thing you would do is to verify the game files. If you’ve done this for multiple times but it still doesn’t work, move to[fix 2](https://tools.techidaily.com/drivereasy/download/) .
@@ -41,9 +48,35 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 
 ![Rockstar Games Launcher verify game files](https://images.drivereasy.com/wp-content/uploads/2021/12/rockstar-verify.png)
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Upon completion, a message will pop up above the system tray stating that your game is verified and ready to play.
 
  However, if the error message “Unable to launch game, please verify your game data. ” still appears, try the next fix below.
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Download and install all Windows updates
 
@@ -56,11 +89,21 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Upon restart, launch your game and check if this works for you. If the error message still pops up, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 3\. Update your drivers
 
  After you’ve confirmed the integrity of your game files is intact and you have the latest Windows version, it’s time you check if your drivers,**especially your graphics driver** , are up-to-date. Using outdated drivers can cause a wide variety of issues with your programs. Therefore, you should check if there are any driver updates available.
@@ -72,9 +115,6 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
@@ -85,15 +125,6 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 
  After the update is finished, restart your PC. If the error message still occurs, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## 4\. Disable background applications
 
  If you’re experiencing launching problems when using Rockstar Games Launcher, it could be due to a third-party application running in the background. In this situation, you can disable applications running in the background by following the instructions below.
@@ -106,14 +137,8 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  Then relaunch your game. If this doesn’t do the trick, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Run the launcher as administrator
 
  If your game fails to launch properly, it could be due to the lack of administrative rights. To fix it, try to run the Rockstar Games Launcher as an administrator by following the instructions below.
@@ -122,12 +147,15 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 
 ![run Rockstar Games Launcher with compatibility mode with administrator priviledges](https://images.drivereasy.com/wp-content/uploads/2020/12/select-Properties.png)
 2. In the Properties window, select the**Compatibility** tab. Then check the box next to**Run the program as an administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 
 ![rockstar games launcher run as administrator](https://images.drivereasy.com/wp-content/uploads/2021/12/run-as-administrator.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then click**Apply > OK** to save the changes.
 
@@ -139,10 +167,14 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/delete-social-club-folder-rockstar-games-launcher.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/delete-social-club-folder-rockstar-games-launcher-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Then try to run your game from the Rockstar Games Launcher. If the error message still pops up, it’s time to delete the Rockstar Games folder from OneDrive.
 
@@ -160,8 +192,6 @@ Wondering how you can fix the error “Unable to launch game, please verify your
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +199,19 @@ Wondering how you can fix the error “Unable to launch game, please verify your
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-capturing-emotion-ensuring-authenticity-in-your-youtube-videos-for-2024/"><u>[New] Capturing Emotion Ensuring Authenticity in Your YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-eliminating-iphoneandroid-issues-with-fb-message-video-sharing/"><u>[Updated] 2024 Approved Eliminating iPhone/Android Issues with FB Message Video Sharing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-feast-your-eyes-enjoyment-without-cost-watch-9-christmas-films-online/"><u>[Updated] In 2024, Feast Your Eyes, Enjoyment Without Cost Watch 9 Christmas Films Online</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-recommendations-on-high-tech-pet-gadgets-find-your-perfect-match-with-zdnets-best/"><u>Expert Recommendations on High-Tech Pet Gadgets - Find Your Perfect Match with ZDNet's Best!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-error-code-0xc19001e1-when-upgradinginstalling-windows-10/"><u>How to Overcome Error Code 0Xc19001e1 When Upgrading/Installing Windows 10</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-pros-picks-best-microphones-for-asmr-recording/"><u>In 2024, Pros' Picks Best Microphones for ASMR Recording</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/minecraft-freezes-no-more-overcoming-graphics-driver-issues-on-pcs-running-windows-os/"><u>Minecraft Freezes No More: Overcoming Graphics Driver Issues on PCs Running Windows OS</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-guide-for-fixing-wow-not-launching-on-desktop/"><u>Resolved: Troubleshooting Guide for Fixing WoW Not Launching on Desktop</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revamp-your-gameplay-experience-expert-tips-for-war-thunder-lag-fix-and-enhanced-frame-rates/"><u>Revamp Your Gameplay Experience: Expert Tips for War Thunder Lag Fix & Enhanced Frame Rates</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-making-the-rockstar-games-launcher-work-again/"><u>Step-by-Step Troubleshooting: Making the Rockstar Games Launcher Work Again</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-choices-360-video-equipment-for-livestreaming-platforms/"><u>Top Choices 360° Video Equipment for Livestreaming Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-isnt-assassins-creed-valhalla-out-yet-answered/"><u>Why Isn't Assassin's Creed: Valhalla Out Yet? [Answered]</u></a></li>
+</ul></div>
 

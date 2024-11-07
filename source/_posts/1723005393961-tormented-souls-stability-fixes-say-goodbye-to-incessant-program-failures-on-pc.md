@@ -1,7 +1,7 @@
 ---
 title: Tormented Souls Stability Fixes - Say Goodbye to Incessant Program Failures on PC!
-date: 2024-10-30T00:49:13.787Z
-updated: 2024-11-01T01:56:10.463Z
+date: 2024-10-31T16:49:54.702Z
+updated: 2024-11-06T16:31:34.946Z
 tags:
   - win11
   - win10
@@ -58,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 
  If you’re sure that your gaming rig is ready for the game, you can take a look at the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of game files
 
  So let’s start from some easy troubleshooting. The in-game crashes or crashing at clicking “New Game” might indicate**an integrity issue with your game files** . It’s a common issue when you encounter network glitches. You can follow these steps to check and repair any corrupted files:
@@ -67,18 +74,18 @@ thumbnail: https://thmb.techidaily.com/4f90c1408653d67bc404a72c2dca3d3d52e3a2949
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-1.jpg)
 3. Select **Verify files** . Then wait for the checking to complete.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-2.jpg)
 
  Now you can launch Assassin’s Creed Valhalla and check if it crashes again.
 
  If verifying game files didn’t help your case, simply check out the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -92,18 +99,18 @@ You can use these steps to check for Windows updates manually:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In some cases, you might need to check several times to get all the updates. Simply repeat these steps until it prompts**You’re up to date** when you click**Check for updates** .
 
  Once you’ve fully updated your system, restart your PC and check if Assassin’s Creed Valhalla becomes stable.
 
 If the crash happens again, you can take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -135,10 +142,10 @@ If the crash happens again, you can take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -146,13 +153,6 @@ If the crash happens again, you can take a look at the next fix.
  Once you’ve updated your graphics driver, restart your PC and test the gameplay in Assassin’s Creed Valhalla.
 
  If the driver update doesn’t do the trick for you, simply continue to the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Lower in-game graphics settings
 
@@ -173,22 +173,16 @@ If the crash happens again, you can take a look at the next fix.
 
  If disabling peripherals doesn’t work for you, or you’re not using any at the first place, you can take a look at the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Check the launcher log
 
  If you’re a tech-savvy player, one effective way to troubleshoot is to check the**launcher\_log.txt** after crashing. The default location to find your log files is:**C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\logs** . In the file named**launcher\_log.txt** , you should see what happened exactly. Check if the crash involves certain game files. If yes, delete them and run a**Scan and Repair** to re-download the latest files.
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Assassin’s Creed Valhalla
 
@@ -213,17 +207,18 @@ If the crash happens again, you can take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-virtual-horizons-ranking-top-vr-gaming-titles/"><u>[New] In 2024, Virtual Horizons Ranking Top VR Gaming Titles</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transform-your-digital-portfolio-with-onscreen-cropping/"><u>[New] Transform Your Digital Portfolio with Onscreen Cropping</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-understanding-and-managing-video-layouts-in-zoom-for-windows-11-users/"><u>2024 Approved Understanding and Managing Video Layouts in Zoom for Windows 11 Users</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/high-quality-inexpensive-countdown-apps-for-2024/"><u>High-Quality Inexpensive Countdown Apps for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/illuminating-solutions-how-to-get-unstuck-from-nba-2k21s-persistent-black-screen-issue/"><u>Illuminating Solutions: How to Get Unstuck From NBA 2K21’s Persistent Black Screen Issue</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Honor Magic 5? | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/keywords-in-the-world-of-selling-monetized-youtube-channels/"><u>Keywords in the World of Selling Monetized Youtube Channels</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722997706709-marvel-enthusiasts-rejoice-solve-guardians-of-the-galaxy-pc-crash-issues-using-our-top-8-fixes/"><u>Marvel Enthusiasts Rejoice: Solve Guardians of the Galaxy PC Crash Issues Using Our Top 8 Fixes</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-from-start-to-finish-how-to-edit-video-files-on-mac-os-x-yosemite/"><u>New From Start to Finish How to Edit Video Files on Mac OS X Yosemite</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-ultimate-troubleshooting-guide-resolving-the-frontier-game-crashes-on-pc/"><u>Solved: Ultimate Troubleshooting Guide - Resolving the 'Frontier' Game Crashes on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-directx-problems-on-your-xbox-to-enjoy-cod-mw2-again/"><u>Troubleshoot DirectX Problems on Your Xbox to Enjoy COD MW2 Again!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-resolved-lost-connection-with-battlenet-gaming-servers/"><u>Troubleshooting: Resolved - Lost Connection with Battle.net Gaming Servers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixed-cyberpunk-2077-lag-and-stuttering/"><u>[Fixed] Cyberpunk 2077 Lag and Stuttering</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-chuckles-and-characters-a-guide-to-top-meme-generators/"><u>[New] Chuckles & Characters A Guide to Top Meme Generators</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-masterclass-approach-unveiling-the-secrets-of-flawless-mobizen-recordings-for-2024/"><u>[New] Masterclass Approach Unveiling the Secrets of Flawless Mobizen Recordings for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rofessional-videographers-guide-to-efficient-color-keying/"><u>[New] Professional Videographer's Guide to Efficient Color-Keying</u></a></li>
+<li><a href="https://program-issues.techidaily.com/critical-fixes-for-cities-skylines-2-when-it-wont-start-properly/"><u>Critical Fixes for 'Cities: Skylines 2' When It Won't Start Properly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-for-solving-recurring-stardew-valley-game-crashes-on-windows/"><u>Expert Advice for Solving Recurring Stardew Valley Game Crashes on Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-s24-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy S24 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-guide-to-repairing-a-damaged-disk-in-steam-platform/"><u>Quick Guide to Repairing a Damaged Disk in Steam Platform</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210657287-9798986782065-tantric-numerology-3rd-ed/"><u>Tantric Numerology (3rd ed.) | Free Book</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-5-free-video-players-vlc-or-mpc-winner/"><u>Top 5 Free Video Players VLC or MPC Winner?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-realme-narzo-60x-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Realme Narzo 60x 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-oppo-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Oppo on Windows?</u></a></li>
 </ul></div>
 

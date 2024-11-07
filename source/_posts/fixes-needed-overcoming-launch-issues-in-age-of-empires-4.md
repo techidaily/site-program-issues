@@ -1,7 +1,7 @@
 ---
 title: "Fixes Needed: Overcoming Launch Issues in Age of Empires 4"
-date: 2024-10-29T07:41:55.564Z
-updated: 2024-11-01T08:33:24.760Z
+date: 2024-10-30T23:31:25.676Z
+updated: 2024-11-06T22:19:37.750Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ There is nothing more frustrating than buying a video game and not being able to
 6. **[Update Windows components](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Run the game as an administrator
 
 **_BO4_** not launching issue might happen when it’s not able to access certain game files and folders under a standard user account. Although it’s rare that this causes the launching issue, you should rule out the possibility. Follow the instructions below:
@@ -40,10 +47,10 @@ There is nothing more frustrating than buying a video game and not being able to
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-22-28.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
@@ -123,23 +130,9 @@ If your issue persists, don’t fret. Move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-59-55.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)**  Click **Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_15-00-05.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Click **Done** .
 
@@ -158,6 +151,13 @@ If your issue persists, don’t fret. Move on to the next fix below.
 **2)**  On the **Processes** tab, right-click the **Blizzard-related program** (such as **Blizzard battle.net App,** agent.exe and **Blizzard Update Agent** ), then click **End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-701.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo Key and R**  st the same time to open the Run dialog.
 
@@ -198,13 +198,6 @@ Here is how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-24.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Relaunch your game to test your issue.
 
 If your issue continues to occur, try performing a clean boot on your PC.
@@ -231,27 +224,20 @@ If your issue continues to occur, try performing a clean boot on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-53.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Click **Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-34-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-34-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **7)**  Click the **Startup tab.**
 
@@ -289,9 +275,23 @@ If your issue continues to occur, try performing a clean boot on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-32-15-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the button next to **Normal startup,**  and then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-37-21.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)**  Click the **Services tab** .
 
@@ -301,16 +301,16 @@ If your issue continues to occur, try performing a clean boot on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-39-34.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)**  Click **Restart** . (Your computer will start normally after you finish this step.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-40-28.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If your game still won’t launch, move on to the next fix.
 
@@ -326,16 +326,16 @@ If your game still won’t launch, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-31-06.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Restart your computer and the game after the update is complete.
 
 If the issue persists, try the fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall the game
 
@@ -363,21 +363,21 @@ If the issue persists, try the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-leading-20-anime-theme-anthems/"><u>[New] In 2024, Leading 20 Anime Theme Anthems</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-premium-desktop-systems-unveiled-for-2024/"><u>[New] Premium Desktop Systems Unveiled for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-unified-iptv-streaming-framework/"><u>[Updated] Unified IPTV Streaming Framework</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-the-rise-of-a-monetary-maestro-ajeys-youtube-earnings-story/"><u>2024 Approved The Rise of a Monetary Maestro Ajey's YouTube Earnings Story</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/copying-a-dvd-file-directly-onto-a-portable-usb-stick-on-windows-and-macos-comprehensive-tutorial/"><u>Copying A DVD File Directly Onto a Portable USB Stick on Windows and macOS - Comprehensive Tutorial</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminate-fps-drops-in-call-of-duty-modern-warfare-a-complete-guide/"><u>Eliminate FPS Drops in Call of Duty: Modern Warfare - A Complete Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-battlenet-not-responding-error-a-comprehensive-2-growers-guide/"><u>Fixing the Battle.net Not Responding Error: A Comprehensive 2 Grower's Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mobile-audio-speed-the-fastest-app-list/"><u>In 2024, Mobile Audio Speed The Fastest App List</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-compre-written-documentation-and-examples-for-recording-sims-4-games-in-a-way-that-is-clear-concise-and-easy-to-understand-with-each-new-title-c/"><u>In 2024, The Compre Written Documentation and Examples for Recording Sims 4 Games in a Way that Is Clear, Concise, and Easy to Understand, with Each New Title Conveying Similar Meanings While Adhering to the Maximum Character Limit of 156 Characters</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/iphone-screen-recording-guide-the-ultimate-tutorial/"><u>IPhone Screen Recording Guide: The Ultimate Tutorial</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overwatch-has-crashed-in-the-graphics-driver-fixed/"><u>Overwatch Has Crashed in the Graphics Driver [Fixed]</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-troubleshooting-made-simple-solving-hitman-3-game-crashes/"><u>PC Troubleshooting Made Simple: Solving Hitman 3 Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-gobi-fatal-error-in-back-4-blood-ue4-comprehensive-guide/"><u>Solving Gobi Fatal Error in Back 4 Blood (UE4) - Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-solution-to-overcome-rusts-graphical-anomalies/"><u>The Solution to Overcome Rust's Graphical Anomalies</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-addressing-msi-afterburners-inability-to-recognize-gpu-under-windows-11/"><u>Troubleshooting Guide: Addressing MSI Afterburner's Inability to Recognize GPU Under Windows 11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-slick-quick-fades-in-premiere/"><u>[New] 2024 Approved Slick Quick Fades in Premiere</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-the-foremost-9-digital-mic-recorders-for-high-fidelity-capture/"><u>[Updated] 2024 Approved The Foremost 9 Digital Mic Recorders for High-Fidelity Capture</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-art-of-facial-movements-using-blur-effects-in-picsart/"><u>[Updated] In 2024, The Art of Facial Movements Using Blur Effects in Picsart</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-assemble-a-personalized-cost-effective-google-vr-helmet/"><u>2024 Approved Step by Step Assemble a Personalized, Cost-Effective Google VR Helmet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/addressing-frequent-interruptions-a-solution-for-lost-arks-pc-system-failures/"><u>Addressing Frequent Interruptions: A Solution for Lost Ark's PC System Failures</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/expert-tips-for-restoring-deleted-drives-and-fixing-partition-loss-in-windows/"><u>Expert Tips for Restoring Deleted Drives and Fixing Partition Loss in Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-voice-communication-hiccups-addressing-content-warning-in-voice-chats/"><u>Fixing Voice Communication Hiccups: Addressing 'Content Warning' In Voice Chats</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-asus-rog-phone-7-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Asus ROG Phone 7 Phone Screen?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722989065536-how-to-overcome-the-stuck-updates-problem-on-microsoft-flight-simulator-2020-solution-found/"><u>How to Overcome the Stuck Updates Problem on Microsoft Flight Simulator 2020 - Solution Found!</u></a></li>
+<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Vivo V30? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/premier-5-digital-camera-background-swap-tools-iphone-photos-for-2024/"><u>Premier 5 Digital Camera Background Swap Tools IPhone Photos for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-baldurs-gate-iii-startup-issues/"><u>Resolved: Troubleshooting Baldur's Gate III Startup Issues</u></a></li>
+<li><a href="https://howto.techidaily.com/revolutionary-imac-review-how-apples-m1-architecture-transforms-performance-and-design/"><u>Revolutionary iMac Review: How Apple's M1 Architecture Transforms Performance & Design</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-pc-glitches-in-pubg-eliminate-lag-enhance-gaming/"><u>Troubleshooting PC Glitches in PUBG: Eliminate Lag, Enhance Gaming</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unraveling-the-mysteries-resolving-major-errors-in-tales-of-arise-ue4/"><u>Unraveling the Mysteries: Resolving Major Errors in Tales of Arise UE4</u></a></li>
+<li><a href="https://program-issues.techidaily.com/world-of-warcraft-slowdown-solutions-expert-tips-and-tricks-to-skyrocket-your-fps/"><u>World of Warcraft Slowdown Solutions: Expert Tips & Tricks to Skyrocket Your FPS</u></a></li>
 </ul></div>
 

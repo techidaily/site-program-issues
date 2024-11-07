@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Why Is Metro Exodus (PC) Enhanced Edition Experiencing Crashes?"
-date: 2024-10-28T16:29:19.970Z
-updated: 2024-11-01T04:37:15.117Z
+date: 2024-11-02T21:46:34.741Z
+updated: 2024-11-07T03:17:41.422Z
 tags:
   - win11
   - win10
@@ -39,13 +39,6 @@ thumbnail: https://thmb.techidaily.com/42900d3cd2ac79478a2e9a5f62d92e59b26835c36
 
  Before we dive into anything advanced, make sure you check the server status first by checking the[Forza Support Twitter](https://twitter.com/forza%5Fsupport) . If everything seems fine on the server end, you can proceed to the troubleshooting steps on your end.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Shut down bandwidth-hogging programs
 
  The first thing you can do is to make sure you’re not loading videos or running bandwidth-hogging programs in the background. You can check the bandwidth usage via Task Manager, and shut down the programs that seem to hog your network and slow down your game. Here’s how:
@@ -71,13 +64,6 @@ If the lagging issue persists, try the next fix.
 
  If your internet connection is just fine and you still encounter lags while playing Forza Horizon 5, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Update your network driver
 
  In-game lags may indicate a driver issue. If your network adapter driver is outdated or faulty, it could cause random connection issues and thus trigger the lagging issue in Forza Horizon 5\. You may want to make sure your network driver is up-to-date and functioning properly.
@@ -97,16 +83,10 @@ If the lagging issue persists, try the next fix.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -128,27 +108,28 @@ If the lagging issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-09-27.jpg)
 4. Click **Allow an app or feature through Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-10-08.jpg)
 5. Scroll down to see if Forza Horizon 5 is on the exception list. If so, that means the game is allowed through your firewall, and you can [jump to the next fix](https://tools.techidaily.com/drivereasy/download/) . If you can’t find Forza Horizon 5 in the exception list, follow the steps below to unblock the game.
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Add Forza Horizon 5 to the exception list
 
 1. Click**Change settings** , then click**Allow another app** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14.jpg)
 2. Click **Browse** .  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-09-14_13-11-21.jpg)
 3. Navigate to Forza Horizon 5 game folders and add the game executable to the list.
@@ -157,14 +138,14 @@ If the lagging issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14-1.jpg)  
  This will ensure your firewall won’t block Forza Horizon 5 when you’re using a private network, for example, your home Wi-Fi. For safety reasons, we recommend you only select the private network, but you’re welcome to allow the game through all types of networks if needed.
 
-If the lagging issue persists, try the next fix.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+If the lagging issue persists, try the next fix.
 
 ## Fix 5: Set the game process priority to high
 
@@ -173,6 +154,13 @@ If the lagging issue persists, try the next fix.
 1. Press**Ctrl** and**Shift** and**Esc** on the keyboard to open Task Manager.
 2. Go to the**Details** tab. Right-click Forza Horizon 5 and**set the priority to high** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-49-09.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this fix doesn’t help with your problem, try the next fix.
 
@@ -183,6 +171,13 @@ If this fix doesn’t help with your problem, try the next fix.
 [1: Flush your DNS](https://tools.techidaily.com/drivereasy/download/)
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1: Flush your DNS
 
@@ -200,13 +195,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2: Switch to a public DNS server
 
  We also recommend using a public DNS server to test the issue. Here we’ll use the Google DNS server as an example. Below are the steps:
@@ -214,13 +202,6 @@ Here’s how to do it:
 1. On your taskbar, right-click the**network icon** , then click**Open Network & Internet settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
@@ -230,19 +211,26 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
- If this fix doesn’t solve your problem, no worries, there’s one more fix you can try.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ If this fix doesn’t solve your problem, no worries, there’s one more fix you can try.
 
 ## Fix 7: Lower in-game settings
 
@@ -272,19 +260,20 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-expert-tips-for-altering-and-personalizing-iphone-ringtones/"><u>[Updated] Expert Tips for Altering & Personalizing iPhone Ringtones</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-fantasy-realms-awaits-ultimate-list-of-no-cost-rpgs-for-2024/"><u>[Updated] Fantasy Realms Awaits Ultimate List of No-Cost RPGs for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-safeguarding-and-recovering-private-snap-content/"><u>[Updated] In 2024, Safeguarding and Recovering Private Snap Content</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-televising-fb-live-top-methods-explored-for-2024/"><u>[Updated] Televising FB Live Top Methods Explored for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exploring-the-features-of-propella-7s-40-lightweight-quick-economical-option/"><u>Exploring the Features of Propella 7S 4.0: Lightweight, Quick, Economical Option</u></a></li>
-<li><a href="https://fox-access.techidaily.com/heartfelt-gratitude-paidfree-creative-templates-for-2024/"><u>Heartfelt Gratitude Paid/Free Creative Templates for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-fix-unable-to-access-dts-sound-issues-with-external-speakers/"><u>How to Fix 'Unable to Access DTS Sound' Issues with External Speakers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcome-technical-glitches-in-the-enchanted-blade-series-book-seven-playing-smoothly-on-your-computer/"><u>Overcome Technical Glitches in the Enchanted Blade Series: Book Seven Playing Smoothly on Your Computer</u></a></li>
-<li><a href="https://extra-information.techidaily.com/petite-narrative-blueprint/"><u>Petite Narrative Blueprint</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-internet-explorers-page-display-problems-for-a-smooth-browsing-experience/"><u>Resolving Internet Explorer's Page Display Problems for a Smooth Browsing Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-the-issue-adobe-app-error-code-0xc0000022-how-to-fix-it/"><u>Resolving the Issue: Adobe App Error Code 0xC0000022 - How To Fix It?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/supercharge-your-game-a-comprehensive-guide-to-boosting-fps-in-horizon-zero-dawn/"><u>Supercharge Your Game: A Comprehensive Guide to Boosting FPS in Horizon Zero Dawn</u></a></li>
-<li><a href="https://program-issues.techidaily.com/trouble-with-starting-dragons-dogma-2-heres-how-to-fix-it/"><u>Trouble with Starting Dragon's Dogma 2? Here's How to Fix It!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-resolving-corsair-icue-issues-in-windows-11/"><u>Troubleshooting Steps: Resolving Corsair iCUE Issues in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722997769688-fixed-rainbow-six-siege-wont-launch/"><u>[FIXED] Rainbow Six Siege Won't Launch</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-youtube-images-your-complete-thumbnail-handbook/"><u>[Updated] Mastering YouTube Images Your Complete Thumbnail Handbook</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-innovative-igtv-editor-apps-for-creative-vertical-content/"><u>2024 Approved Innovative IGTV Editor Apps for Creative Vertical Content</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/25plus-futuristic-insights-on-ar-enhanced-worlds-for-2024/"><u>25+ Futuristic Insights on AR-Enhanced Worlds for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enhancing-euro-truck-simulator-2-performance-by-eliminating-pc-instability-problems/"><u>Enhancing Euro Truck Simulator 2 Performance by Eliminating PC Instability Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-lag-and-stuttering-issues-on-call-of-duty-black-ops-cold-war-a-guide/"><u>Fixing Lag and Stuttering Issues on Call of Duty: Black Ops Cold War - A Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-modify-windows-installation-service-state/"><u>How to Modify Windows Installation Service State</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-unveiling-secrets-for-converting-instagram-vids-into-high-quality-mp4/"><u>In 2024, Unveiling Secrets for Converting Instagram Vids Into High-Quality MP4</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-and-simple-guide-speeding-up-your-amv-conversion-to-mp4-format/"><u>Quick & Simple Guide: Speeding Up Your AMV Conversion to MP4 Format</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-how-to-fix-steams-inability-to-recognize-controllers-in-windows/"><u>Solved: How to Fix Steam's Inability to Recognize Controllers in Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-mystery-a-guide-to-rectify-tarkov-error-code-103003/"><u>Solving the Mystery: A Guide to Rectify 'Tarkov Error Code 103003'</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-problem-with-avatar-frontiers-of-pandora-failure-to-load/"><u>Solving the Problem with Avatar: Frontiers of Pandora Failure to Load</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-gaming-rig-experience-superior-cooling-and-aesthetics-with-deepcools-latest-tech-and-chic-pixel-silicone-upgrades/"><u>Transform Your Gaming Rig: Experience Superior Cooling and Aesthetics with DeepCool’s Latest Tech and Chic Pixel Silicone Upgrades</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unveiling-the-best-a-compact-guide-to-2024s-top-10-lens-selections/"><u>Unveiling the Best A Compact Guide to 2024'S Top 10 Lens Selections</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-is-my-alienware-command-center-not-responding-common-fixes-explored/"><u>Why Is My Alienware Command Center Not Responding? Common Fixes Explored</u></a></li>
 </ul></div>
 

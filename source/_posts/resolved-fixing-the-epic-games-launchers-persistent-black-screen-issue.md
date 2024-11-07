@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing the Epic Games Launcher's Persistent Black Screen Issue"
-date: 2024-08-23T17:32:07.271Z
-updated: 2024-08-24T17:32:07.271Z
+date: 2024-11-04T01:54:39.085Z
+updated: 2024-11-06T16:47:44.614Z
 tags:
   - win11
   - win10
@@ -25,6 +25,13 @@ The Outriders has released its demo in February but players keep complaining abo
 2. [**Use a wire connection**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update your driver**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Meet the requirements
 
  Outriders is a brand new shooter IP from People Can Fly, which has requirements for computer hardware. Therefore, make sure your PC meets the minimum requirements.
@@ -38,8 +45,12 @@ The Outriders has released its demo in February but players keep complaining abo
 | **Additional Notes** | 720p / 60fps                                  |
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Use a wire connection
 
  It’s recommended to use an ethernet connection instead of WIFI. Although WIFI is convenient to use, it’s less stable than a wire connection, especially for online gaming.
@@ -49,8 +60,12 @@ The Outriders has released its demo in February but players keep complaining abo
  If you’re already using an ethernet connection, please to move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 3: Update your drivers
 
  The game has had graphic driver issues in the past that would show performance worsen. On the other hand, network driver would affect your internet connection. Therefore we recommend to update your graphic driver and network adapter driver.
@@ -63,20 +78,16 @@ The Outriders has released its demo in February but players keep complaining abo
 2. Run Driver Easy, then click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
@@ -89,8 +100,6 @@ The Outriders has released its demo in February but players keep complaining abo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +107,26 @@ The Outriders has released its demo in February but players keep complaining abo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-determining-data-in-gigabytes-for-24-hour-clip/"><u>[New] Determining Data in Gigabytes for 24-Hour Clip</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-inside-look-at-instagrams-subtle-yet-powerful-features/"><u>[Updated] In 2024, Inside Look at Instagram's Subtle Yet Powerful Features</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-enhancing-visual-impact-editing-videos-for-instagram/"><u>2024 Approved Enhancing Visual Impact Editing Videos for Instagram</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/adding-depth-with-customized-facebook-slideshows/"><u>Adding Depth with Customized Facebook Slideshows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-issues-reactivating-a-broken-steelseries-gg-gamepad-engine-for-smooth-performance-on-windows-systems/"><u>Bypassing Issues: Reactivating a Broken SteelSeries GG Gamepad Engine for Smooth Performance on Windows Systems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-content-that-captivates-easy-to-try-videos/"><u>Crafting Content That Captivates Easy-to-Try Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-starfields-sound-disruption-and-stuttering-troubleshooting-guide/"><u>Eliminating Starfield's Sound Disruption & Stuttering Troubleshooting Guide</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-vivo-y100i-power-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo Y100i Power 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/how-to-customize-control-events-within-the-application-settings-window/"><u>How to Customize Control Events Within the Application Settings Window</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722996571952-mastering-the-court-and-your-computer-solve-nba-2k21-pc-glitches-easily/"><u>Mastering the Court and Your Computer: Solve NBA 2K21 PC Glitches Easily</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/movavigif-web/"><u>Movaviで簡単なGIF変換: 無料のWebベースアップグレード</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-launch-difficulties-cod-black-ops-cold-war-active-on-personal-computers/"><u>Overcoming Launch Difficulties: Cod: Black Ops Cold War Active on Personal Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-disruption-quick-remedies-for-constant-game-crashes-on-titanfall-2/"><u>Say Goodbye to Disruption: Quick Remedies for Constant Game Crashes on Titanfall 2</u></a></li>
+<li><a href="https://driver-install.techidaily.com/seamless-manual-update-of-xp-systems-drivers/"><u>Seamless Manual Update of Xp System's Drivers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-error-that-prevents-microsoft-outlook-from-opening/"><u>Solving the Error That Prevents Microsoft Outlook From Opening</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005292320-steam-sign-in-woes-heres-how-you-can-solve-them/"><u>Steam Sign-In Woes? Here's How You Can Solve Them!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-transforming-your-images-from-full-hd-1080p-to-ultra-high-definition-uhd4k/"><u>Step-by-Step Guide: Transforming Your Images From Full HD (1080P) to Ultra High Definition (UHD/4k)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-struggle-in-a-galaxy-far-far-away-resolving-battlefront-iis-pc-freezing-problems/"><u>Stop Struggle in a Galaxy Far, Far Away: Resolving Battlefront II's PC Freezing Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-to-launch-last-epoch-game-in-windows-tips-and-tricks/"><u>Troubleshooting Steps to Launch Last Epoch Game in Windows: Tips & Tricks</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering Stability in Assassin's Creed Valhalla for PC Gamers - Crash No More
-date: 2024-08-23T17:35:55.727Z
-updated: 2024-08-24T17:35:55.727Z
+date: 2024-10-30T23:41:10.221Z
+updated: 2024-11-06T22:22:20.575Z
 tags:
   - win11
   - win10
@@ -58,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93
 
  If you’re sure that your gaming rig is ready for the game, you can take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Verify the integrity of game files
 
  So let’s start from some easy troubleshooting. The in-game crashes or crashing at clicking “New Game” might indicate**an integrity issue with your game files** . It’s a common issue when you encounter network glitches. You can follow these steps to check and repair any corrupted files:
@@ -71,12 +68,16 @@ thumbnail: https://thmb.techidaily.com/63fd599c9be37636882facc86b0d27ee700429a93
 3. Select **Verify files** . Then wait for the checking to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now you can launch Assassin’s Creed Valhalla and check if it crashes again.
 
  If verifying game files didn’t help your case, simply check out the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -87,10 +88,28 @@ You can use these steps to check for Windows updates manually:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click **Check for updates** . Windows will automatically download and install all the available updates. This might take up to an hour depending on your Internet speed.  
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  In some cases, you might need to check several times to get all the updates. Simply repeat these steps until it prompts**You’re up to date** when you click**Check for updates** .
 
@@ -98,9 +117,6 @@ You can use these steps to check for Windows updates manually:
 
 If the crash happens again, you can take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update your graphics driver
 
  In most cases, you’ll expect constant crashes with new titles when you’re using**a faulty or outdated graphics driver** . If you can’t remember the last time you updated your GPU driver, definitely do it now as it could be the fix that saves the day.
@@ -126,18 +142,6 @@ If the crash happens again, you can take a look at the next fix.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -160,6 +164,13 @@ If the crash happens again, you can take a look at the next fix.
 
  If this trick failed to solve your problem, you can move on to the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Disable peripherals
 
  To some pro-gamers, a controller can be a whole lot more comfortable than a mouse and keyboard. While peripherals surely add more fun to games, there have been reports that they can also have compatibility issues with new titles. So if you’re using peripherals (e.g. controllers) in Assassin’s Creed Valhalla, try**returning to the classic mouse and keyboard bundle** and see if it helps.
@@ -167,15 +178,16 @@ If the crash happens again, you can take a look at the next fix.
  If disabling peripherals doesn’t work for you, or you’re not using any at the first place, you can take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 7: Check the launcher log
 
  If you’re a tech-savvy player, one effective way to troubleshoot is to check the**launcher\_log.txt** after crashing. The default location to find your log files is:**C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\logs** . In the file named**launcher\_log.txt** , you should see what happened exactly. Check if the crash involves certain game files. If yes, delete them and run a**Scan and Repair** to re-download the latest files.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### Fix 8: Reinstall Assassin’s Creed Valhalla
 
 [According to some Vikings](https://discussions.ubisoft.com/topic/76984/can-t-get-past-the-ac-valhalla-start-before-the-game-launches/21?lang=en-US) , **doing a clean reinstallation of Assassin’s Creed Valhalla** could be a potential fix to the crash. So if you’ve tried all the fixes above and none works for you, you can try to perform a reinstallation of Assassin’s Creed Valhalla. It allows you to get the latest build of the game, which might include a new patch targeting the crashing issue.
@@ -190,8 +202,6 @@ If the crash happens again, you can take a look at the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +209,26 @@ If the crash happens again, you can take a look at the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-blending-beats-and-visuals-a-tutorial-on-youtube-music-addition/"><u>[New] Blending Beats and Visuals A Tutorial on YouTube Music Addition</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-mastering-media-mobility-in-apples-ecosystem/"><u>[New] In 2024, Mastering Media Mobility in Apple's Ecosystem</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-markets-top-picks-premier-drone-gimbals/"><u>[New] Market's Top Picks Premier Drone Gimbals</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-weaving-narrative-threads-into-trailers/"><u>[Updated] Weaving Narrative Threads Into Trailers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-best-10-free-youtube-subtitle-extractors-and-downloaders/"><u>2024 Approved Best 10 Free YouTube Subtitle Extractors & Downloaders</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-fix-resolving-the-origin-app-crash-problem-swiftly/"><u>Effortless Fix: Resolving the 'Origin' App Crash Problem Swiftly</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/embark-into-the-best-youtube-vr-content-ever-for-2024/"><u>Embark Into the Best YouTube VR Content Ever for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enhanced-engagement-charting-the-10-paths-to-better-gpt/"><u>Enhanced Engagement: Charting the 10 Paths to Better GPT</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-address-and-repair-the-bocw-user-interface-gaffe-error-27711/"><u>How to Address and Repair the BOCW User Interface Gaffe (Error 27711)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-create-captivating-colleagues-on-instagram-in-minutes/"><u>How to Create Captivating Colleagues on Instagram in Minutes</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-players-rejoice-new-world-now-runs-smoothly-without-unexpected-shutdowns/"><u>PC Players Rejoice: 'New World' Now Runs Smoothly without Unexpected Shutdowns</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-destiny-2-graphical-glitches-initialization-error-fix/"><u>Resolving Destiny 2 Graphical Glitches - Initialization Error Fix</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-lags-ultimate-guide-to-unfreeze-your-borderlands-3-game/"><u>Resolving Lags: Ultimate Guide to Unfreeze Your Borderlands 3 Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722995826900-solve-configuration-server-connection-failure-effortlessly-today/"><u>Solve ‘Configuration Server Connection Failure’ Effortlessly Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-the-puzzle-how-to-fix-persistent-gtfo-crashes/"><u>Solving the Puzzle: How to Fix Persistent GTFO Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-your-itunes-warning-fixes-for-audio-setup-concerns-addressed/"><u>Understanding Your iTunes Warning: Fixes for Audio Setup Concerns Addressed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-is-my-pc-not-finding-matches-in-cod-warzone-expert-tips-for-players/"><u>Why Is My PC Not Finding Matches in COD Warzone? Expert Tips for Players</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11s-keyboard-command-center-mastery-of-shortcuts-for-fixed-paste-tasks/"><u>Win11's Keyboard Command Center: Mastery of Shortcuts for Fixed Paste Tasks</u></a></li>
+</ul></div>
 

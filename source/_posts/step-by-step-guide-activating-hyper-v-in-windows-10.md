@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Activating Hyper-V in Windows 10"
-date: 2024-10-28T03:15:29.641Z
-updated: 2024-10-31T20:16:32.871Z
+date: 2024-10-30T22:36:52.271Z
+updated: 2024-11-06T18:22:54.951Z
 tags:
   - win11
   - win10
@@ -44,29 +44,9 @@ Trying to update your PC to 20H2 but Windows failed to install the updates? It�
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your PC and run the Windows Update again. You should be able to finish the feature upgrade to 20H2.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -81,13 +61,6 @@ Trying to update your PC to 20H2 but Windows failed to install the updates? It�
 4. Right-click on Conexant and click**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_15-57-09.jpg)
 5. Follow the on-screen instructions to finish the process.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Reboot your PC and run Windows Update again. You should be able to finish the feature upgrade to 20H2.
 
@@ -115,16 +88,30 @@ If the error persists, move to the next fix.
 3. Click**Windows Update** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/troubleshoot2.jpg)
 4. Once the process is finished, reboot your PC and update Windows again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If the error persists, move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -148,10 +135,31 @@ Here’s how to fix it:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -186,30 +194,10 @@ If you want to reduce the amount of space being used:
 1. Click**Free up space now** .![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3ea56da75b4.jpg)
 2. Wait for the scanning process to be complete.
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Select the_files you want to remove_ , then click**Remove files** .  
  Before you select an option, read carefully its description to learn what you’ll remove if doing so.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3ea79456d1d.jpg)
 4. Wait for the cleaning process to be complete.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This should free up an amount of space for you. But if that isn’t enough for you, then you should check if there are other files or programs you may want to remove:
 
@@ -217,10 +205,10 @@ If you want to reduce the amount of space being used:
 2. Click_the disk you’re going to clean up_ .![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3f021078a01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Check the space usage of_each data type_ . If you want to manage the usage of a type,**click it** to view more details.  
@@ -236,10 +224,16 @@ If you want to reduce the amount of space being used:
  This should free up a lot of space for your Windows 10 computer. Reboot your PC and update your system.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Reset or reinstall Windows
@@ -269,20 +263,24 @@ If you want to reduce the amount of space being used:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/kyline-your-contents-search-trajectory-key-youtube-seo-tips-1-11-for-2024/"><u>[New] Skyline Your Content's Search Trajectory Key YouTube SEO Tips (1-11) for 2024</u></a></li>
-<li><a href="https://win-superb.techidaily.com/1728484390593-chrome/"><u>Chrome ブックマークデータはどこにありますか？</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conversao-de-videos-para-formato-rmvb-online-livre-com-movavi/"><u>Conversão De Vídeos Para Formato RMVB Online Livre Com Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/decoding-oled-how-organic-light-emitting-diodes-operate/"><u>Decoding OLED: How Organic Light-Emitting Diodes Operate</u></a></li>
-<li><a href="https://program-issues.techidaily.com/diagnosing-and-repairing-microsoft-outlook-launch-errors/"><u>Diagnosing and Repairing Microsoft Outlook Launch Errors</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-how-users-distributed-your-facebook-post-simple-methods-revealed/"><u>Discover How Users Distributed Your Facebook Post - Simple Methods Revealed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-guide-resolving-the-issue-of-battlefield-not-launching-on-desktop-computers/"><u>Fix Guide: Resolving the Issue of Battlefield Not Launching on Desktop Computers</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-halo/"><u>How to Stop Halo</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-oppo-a1-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Oppo A1 5G</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-on-iphone-xs-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide on iPhone XS iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722994483211-robocop-rogue-city-pc-launch-problems-heres-how-to-fix-them-quickly/"><u>RoboCop - Rogue City PC Launch Problems? Here's How to Fix Them Quickly!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solution-found-reducing-network-delays-for-a-smoother-gameplay-experience-in-back-4-blood/"><u>Solution Found! Reducing Network Delays for a Smoother Gameplay Experience in 'Back 4 Blood'</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-fix-a-broken-logitech-c920-clear-solutions-await/"><u>Step-by-Step Guide to Fix a Broken Logitech C920 - Clear Solutions Await</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723014078158-step-by-step-guide-to-smoother-play-in-dayz-eliminate-frame-drops-now/"><u>Step-by-Step Guide to Smoother Play in DayZ - Eliminate Frame Drops Now!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-new-era-with-samsung-galaxy-s21-simplified-yet-refined-features-revealed/"><u>The New Era with Samsung Galaxy S21 - Simplified Yet Refined Features Revealed!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-complete-picture-a-close-look-at-the-google-podcasts-app/"><u>[New] Complete Picture A Close Look at the Google Podcasts App</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/akeup-mastery-manual-starting-an-engaging-aesthetic-vlog/"><u>[New] Makeup Mastery Manual Starting an Engaging Aesthetic Vlog</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-beyond-google-other-ar-sticker-solutions-for-2024/"><u>[Updated] Beyond Google Other AR Sticker Solutions for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-how-to-take-screenshots-on-a-chromebook/"><u>[Updated] In 2024, How to Take Screenshots on A Chromebook</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-confirms-on-time-launch-of-ryzen-5000xt-series-expected-arrival-within-the-month/"><u>AMD Confirms On-Time Launch of Ryzen 5000XT Series – Expected Arrival Within the Month</u></a></li>
+<li><a href="https://program-issues.techidaily.com/crashing-no-more-effortless-fixes-for-stable-play-in-titanfall-2/"><u>Crashing No More: Effortless Fixes for Stable Play in Titanfall 2</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-restarting-a-non-responsive-alienware-command-center-interface/"><u>Expert Tips for Restarting a Non-Responsive Alienware Command Center Interface</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-six-techniques-to-resolve-your-apple-watch-pairing-problems/"><u>Expert Tips: Six Techniques to Resolve Your Apple Watch Pairing Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-starfields-pc-compatibility-problem-and-end-the-crashing-woes/"><u>How to Overcome Starfield's PC Compatibility Problem and End the Crashing Woes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-your-game-from-hitting-the-floor-solving-slime-rancher-2-stops-running-issues/"><u>How To Prevent Your Game From Hitting The Floor - Solving Slime Rancher 2 Stops Running Issues</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-screen-snatching-solution/"><u>In 2024, Screen Snatching Solution</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-utorrent-not-working-problems-using-these-7-fixes/"><u>Overcome Utorrent Not Working Problems Using These ☑️7 Fixes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723001832250-overcoming-common-pc-glitches-in-hyperscape-expert-fixes-revealed/"><u>Overcoming Common PC Glitches in HyperScape - Expert Fixes Revealed</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/save-music-files-from-fb/"><u>Save Music Files From Fb</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-freezing-issues-in-assassins-creed-odyssey-on-pc-ultimate-guide-and-updates/"><u>Solve 'Freezing Issues in Assassin's Creed Odyssey' On PC: Ultimate Guide and Updates</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-fix-continuous-crashes-in-halo-infinite-for-pc-players/"><u>Troubleshoot and Fix Continuous Crashes in Halo Infinite for PC Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-lego-star-wars-the-skywalker-sagas-pc-malfunction/"><u>Troubleshooting Guide: Fixing Lego Star Wars: The Skywalker Saga's PC Malfunction</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-shader-errors-overcome-black-ops-cold-war-game-freezes/"><u>Troubleshooting Shader Errors - Overcome Black Ops Cold War Game Freezes</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-discover-the-power-of-vr-converting-videos-made-easy/"><u>Updated Discover the Power of VR Converting Videos Made Easy</u></a></li>
 </ul></div>
 

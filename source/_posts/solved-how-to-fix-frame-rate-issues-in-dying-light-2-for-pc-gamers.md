@@ -1,7 +1,7 @@
 ---
 title: "Solved: How to Fix Frame Rate Issues in Dying Light 2 for PC Gamers"
-date: 2024-10-24T19:07:14.825Z
-updated: 2024-10-31T22:55:14.967Z
+date: 2024-10-31T23:04:17.683Z
+updated: 2024-11-07T03:58:49.651Z
 tags:
   - win11
   - win10
@@ -41,13 +41,6 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -61,10 +54,10 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Make sure your PC meets the system requirements of Madden 20
@@ -101,13 +94,6 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
  4) Close DirectX.
@@ -119,13 +105,6 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
  Hardware components up-to-date but M20 still crashes? Don’t worry – here are a few more fixes for you to try.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Repair Madden 20
 
@@ -145,6 +124,13 @@ Here is how to do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Install the latest game patch
 
  The developers of Madden 20, EA Tiburon, keep releasing game patches to fix bugs. It’s possible that a recent bug has stopped your game from running smoothly, and that a new patch is required for the problem. So it’s recommended that you go to **EA official website**  , check for the latest patch, download and install it. Then check if it fixes the Madden 20 game crash problem.
@@ -152,6 +138,13 @@ Here is how to do it:
  If there is no patches available, or the patch fails to address the problem, then please try**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall Origin and Madden 20
 
@@ -162,6 +155,13 @@ Here are the steps:
  1) On your keyboard, press the **Windows logo key** and **R** at the same time, then type **appwiz.cpl** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) In the program list, locate **Origin** , then right-click on it and click**Uninstall** .
 
@@ -198,20 +198,15 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-harness-the-power-of-animoji-on-your-iphone-x-for-2024/"><u>[New] Harness the Power of Animoji on Your iPhone X for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-mastering-the-art-of-insta-top-gadgets-for-success/"><u>[New] In 2024, Mastering the Art of Insta Top Gadgets for Success</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-google-chrome-crashing-easily/"><u>[Solved] Google Chrome Crashing. Easily</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-historical-explorations-10-must-see-educational-channels-on-yt/"><u>[Updated] 2024 Approved Historical Explorations - 10 Must-See Educational Channels on YT</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-unleashing-humor-kinemaster-for-memes/"><u>[Updated] Unleashing Humor KineMaster for Memes</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-poco-c50-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Poco C50? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-huawei-nova-y91-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-discord-streams-resolving-app-crashes-during-live-broadcasts/"><u>How to Fix Discord Streams: Resolving App Crashes During Live Broadcasts</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/in-2024-top-10-online-tools-to-convert-images-to-videos/"><u>In 2024, Top 10 Online Tools to Convert Images to Videos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quickening-the-pace-resolving-slow-launches-in-fallout-4-gaming-experience/"><u>Quickening the Pace: Resolving Slow Launches in Fallout 4 Gaming Experience</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-how-to-fix-the-black-screen-problem-in-fallout-4/"><u>Resolved: How to Fix the Black Screen Problem in Fallout 4</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-xiaomi-redmi-note-13-pro-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Xiaomi Redmi Note 13 Pro 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/the-ultimate-fix-for-blue-screen-error-in-hell-divers-the-twin-heroes-ii-gameplay/"><u>The Ultimate Fix for 'Blue Screen' Error in Hell Divers: The Twin Heroes II Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-preventing-and-repairing-guilty-gear-strive-pc-instability-issues/"><u>Ultimate Guide: Preventing and Repairing Guilty Gear Strive PC Instability Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/understanding-and-resolving-the-stability-issues-causing-king-of-fighters-xv-to-crash-on-pc-systems/"><u>Understanding and Resolving the Stability Issues Causing 'King of Fighters XV' To Crash on PC Systems</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-showcase-a-dialogue-in-one-instagram-post/"><u>[Updated] 2024 Approved Showcase a Dialogue in One Instagram Post</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2023-how-to-fix-live-video-interrupted-on-facebook-in-2024/"><u>2023 | How to Fix Live Video Interrupted on Facebook, In 2024</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/complete-tutorial-sending-photos-from-apple-iphone-x-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>Complete Tutorial Sending Photos From Apple iPhone X to iPad | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-vivo-s17-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/improving-frame-rates-in-war-thunder-expert-guide-to-boosting-your-fps-in-the-latest-game-patch/"><u>Improving Frame Rates in War Thunder - Expert Guide to Boosting Your FPS in the Latest Game Patch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/path-of-exile-connectivity-woes-heres-your-ultimate-solution-in-depth-analysis-for-the-2024-playthrough/"><u>Path of Exile Connectivity Woes? Here's Your Ultimate Solution - In-Depth Analysis for the 2024 Playthrough</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723013603855-pc-trouble-get-your-praey-for-the-gods-running-smoothly-again/"><u>PC Trouble? Get Your Praey for the Gods Running Smoothly Again!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/cketing-sales-how-ad-revenue-transforms-youtube-videos-for-2024/"><u>Skyrocketing Sales How Ad Revenue Transforms YouTube Videos for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-final-nightmare-aftermath-update-securing-your-pc-from-game-crashes/"><u>The Final Nightmare Aftermath Update: Securing Your PC From Game Crashes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-the-audio-input-for-oculus-quest-ebrary-inc/"><u>Troubleshooting and Repairing the Audio Input for Oculus Quest Ebrary, Inc</u></a></li>
 </ul></div>
 

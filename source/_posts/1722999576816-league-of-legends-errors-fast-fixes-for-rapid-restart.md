@@ -1,7 +1,7 @@
 ---
 title: "League of Legends Errors: Fast Fixes for Rapid Restart!"
-date: 2024-08-23T17:36:12.636Z
-updated: 2024-08-24T17:36:12.636Z
+date: 2024-11-01T02:11:20.351Z
+updated: 2024-11-06T21:09:23.113Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/469ee41193ae0faa3c73a1880a4f615f10f1abb63
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -60,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/469ee41193ae0faa3c73a1880a4f615f10f1abb63
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -85,18 +89,29 @@ thumbnail: https://thmb.techidaily.com/469ee41193ae0faa3c73a1880a4f615f10f1abb63
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -116,9 +131,6 @@ thumbnail: https://thmb.techidaily.com/469ee41193ae0faa3c73a1880a4f615f10f1abb63
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -133,17 +145,18 @@ thumbnail: https://thmb.techidaily.com/469ee41193ae0faa3c73a1880a4f615f10f1abb63
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -157,13 +170,17 @@ thumbnail: https://thmb.techidaily.com/469ee41193ae0faa3c73a1880a4f615f10f1abb63
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 Run League of Legends to see if you resolved this issue.
 
  Hopefully, you find this post helpful! As always, if you have any other solutions to fix League of Legends crashes, or if you have any questions or suggestions on this issue, you’re more than welcome to leave us a comment below.
@@ -177,8 +194,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +201,20 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-best-5-youtube-tag-generators-and-tips-to-tag-videos-properly/"><u>[New] 2024 Approved Best 5 YouTube Tag Generators & Tips to Tag Videos Properly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/bypassing-launch-errors-in-monster-hunter-rise-expert-advice-and-tricks/"><u>Bypassing Launch Errors in Monster Hunter Rise: Expert Advice & Tricks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/empowering-video-content-with-advanced-aiseesoft-tech/"><u>Empowering Video Content with Advanced Aiseesoft Tech</u></a></li>
+<li><a href="https://win-web3.techidaily.com/expert-insights-mastering-the-art-of-print-with-flip-printers-on-flipbuildercom/"><u>Expert Insights: Mastering the Art of Print with Flip Printers on FlipBuilder.com</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723010945850-forza-horizon/"><u>Forza Horizon 지정: 기능 드라이버를 업데이트하여 그래픽을 수정하십시오</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mafia-definitive-edition-delay-clarified-and-solution-found-awaiting-launch/"><u>Mafia: Definitive Edition Delay Clarified and Solution Found – Awaiting Launch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-life-is-strange-true-colors-troubleshooting-the-infamous-game-crash/"><u>Solved: Life Is Strange: True Colors - Troubleshooting the Infamous Game Crash</u></a></li>
+<li><a href="https://program-issues.techidaily.com/successfully-tackling-geforce-errors-a-step-by-step-troubleshooting-guide/"><u>Successfully Tackling GeForce Errors: A Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://article-posts.techidaily.com/top-tips-for-capturing-clear-quality-sound-in-your-windows-11-pc-for-2024/"><u>Top Tips for Capturing Clear, Quality Sound in Your Windows 11 PC for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-iphone-data-rescue-experience-awaits-you-secure-download-option-available/"><u>Ultimate iPhone Data Rescue Experience Awaits You - Secure Download Option Available</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/understanding-film-a-beginners-guide-to-essential-shots/"><u>Understanding Film A Beginner's Guide to Essential Shots</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-cant-i-launch-valheim-common-boot-issues-addressed-for-2nv2024-players/"><u>Why Can't I Launch Valheim? Common Boot Issues Addressed for 2nV2024 Players</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-terminal-tailoring-the-visual-experience/"><u>Windows Terminal: Tailoring the Visual Experience</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Crusader Kings II Not Starting? Here Are The Solutions!
-date: 2024-08-23T17:38:20.745Z
-updated: 2024-08-24T17:38:20.745Z
+date: 2024-11-01T00:01:56.329Z
+updated: 2024-11-07T01:44:39.473Z
 tags:
   - win11
   - win10
@@ -41,35 +41,41 @@ Check your region and language settings on your computer:
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Click **Time** **& language** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click**Region & language.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Make sure the region and language settings is matched with yours.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5) Try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Method 3: Make sure your Windows 10 system is up-to-date
 
  If your Windows 10 system is old, you may not be able to use Cortana either. To check for updates on your Windows 10 PC:
@@ -82,9 +88,23 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Install the available updates.
 
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
 
@@ -123,8 +143,12 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
@@ -133,9 +157,6 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 4) Try Cortana again to see if it works.
 
 * [Cortana](https://tools.techidaily.com/drivereasy/download/)
@@ -147,8 +168,6 @@ Or click  **Update All** to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +175,26 @@ Or click  **Update All** to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-freedom-in-editing-the-top-free-fx-websites/"><u>[New] 2024 Approved Freedom in Editing The Top Free FX Websites</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-investigating-screenshots-best-tools-fraps-vs-obs-studio/"><u>[Updated] Investigating Screenshots’ Best Tools Fraps Vs OBS Studio</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-skys-boundaries-broken-by-endurance-drones-top-10-for-2024/"><u>[Updated] Sky's Boundaries Broken by Endurance Drones (Top 10) for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/common-solutions-for-starfield-crashes-and-stutters-during-playtime/"><u>Common Solutions for Starfield Crashes and Stutters During Playtime</u></a></li>
+<li><a href="https://program-issues.techidaily.com/football-manager-2021-fixing-the-unresponsive-load-screen-issue/"><u>Football Manager 2021: Fixing the Unresponsive Load Screen Issue</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-honor-x50iplus-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Honor X50i+ FRP Locks</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-xiaomi-redmi-13c-to-mac-drfone-by-drfone-android/"><u>How to Mirror Xiaomi Redmi 13C to Mac? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-graphical-issues-in-your-rust-applications/"><u>How to Resolve Graphical Issues in Your Rust Applications</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-xiaomi-redmi-note-13-pro-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Xiaomi Redmi Note 13 Pro 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-pathway-to-crafting-a-viral-video-introduction/"><u>In 2024, The Pathway to Crafting a Viral Video Introduction</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-r-type-final-2-performance-overcoming-persistent-crash-problems-on-desktops/"><u>Mastering R-Type Final 2 Performance: Overcoming Persistent Crash Problems on Desktops</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-art-of-overcoming-gtfo-program-failures-quickly/"><u>Mastering the Art of Overcoming GTFO Program Failures Quickly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximize-performance-a-guide-to-overcoming-lag-issues-and-increasing-fps-in-valorant/"><u>Maximize Performance: A Guide to Overcoming Lag Issues and Increasing FPS in Valorant</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-couldnt-retrieve-directory-info-in-kodi-a-complete-guide/"><u>Overcoming 'Couldn't Retrieve Directory Info' In Kodi - A Complete Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-solutions-for-a-speedy-shutdown-on-your-windows-10-pc/"><u>Quick Solutions for a Speedy Shutdown on Your Windows 10 PC</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/solved-how-to-transfer-from-apple-iphone-15-to-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>Solved How To Transfer From Apple iPhone 15 to iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-bloodhunts-freezing-and-skipping-issues-a-comprehensive-guide-for-pc-users/"><u>Solving Bloodhunt's Freezing & Skipping Issues: A Comprehensive Guide for PC Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlock-davinci-resolves-full-potential-overcoming-opening-issues-on-pc/"><u>Unlock DaVinci Resolve's Full Potential: Overcoming Opening Issues on PC</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-2024-approved-your-selling-strategy-with-lazlive-live-selling/"><u>Updated 2024 Approved Your Selling Strategy With LazLive Live Selling</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "NieR: Gestalt/Replicant Stability Improved - No More System Crashes"
-date: 2024-10-30T05:41:53.560Z
-updated: 2024-10-31T17:55:24.027Z
+date: 2024-11-02T23:57:46.849Z
+updated: 2024-11-07T00:42:48.497Z
 tags:
   - win11
   - win10
@@ -48,13 +48,6 @@ A screenshot of Ghostwire: Tokyo from Steam
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Depending on the size of the game files, it may take some time to verify all your game files.
@@ -71,6 +64,13 @@ A screenshot of Ghostwire: Tokyo from Steam
 
 There’re mainly two ways you can update your graphics drivers:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -85,6 +85,13 @@ There’re mainly two ways you can update your graphics drivers:
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 Or
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -103,14 +110,21 @@ Or
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -120,6 +134,13 @@ Or
  Run Ghostwire: Tokyo and see if the crashing issue persists. Normally, after you updated the graphics driver, the game crashing issue will disappear.
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Repair corrupted system files
 
@@ -139,21 +160,14 @@ Or
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -168,13 +182,6 @@ Or
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you run the game.
 
  Run Ghostwire: Tokyo and see if the game crashing issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Install the latest DirectX files
 
@@ -224,13 +231,6 @@ Or
 
  Launch Ghostwire: Tokyo and see if the it crashes again. If this fix doesn’t work, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 8: Disable third-party antivirus software
 
  Many third-party antivirus software block game files, which may also crash the game. If you have third-party antivirus software running on your computer, make sure it doesn’t block the game files.
@@ -262,19 +262,20 @@ Or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/1722987830742-fixed-overcome-constant-freezing-errors-while-playing-ghostwire-tokyo-for-pc-users/"><u>[Fixed] Overcome Constant Freezing Errors While Playing Ghostwire: Tokyo for PC Users</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-infallible-technique-for-embedding-profile-urls-in-tiktok/"><u>[New] 2024 Approved The Infallible Technique for Embedding Profile URLs in TikTok</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-elite-5-emulators-transforming-old-ps1-games-on-pcs/"><u>[New] Elite 5 Emulators Transforming Old PS1 Games on PCs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-superior-webcams-revolutionizing-podcast-recording/"><u>2024 Approved Superior Webcams Revolutionizing Podcast Recording</u></a></li>
-<li><a href="https://program-issues.techidaily.com/avoiding-and-fixing-cities-skylines-stability-issues-expert-advice/"><u>Avoiding and Fixing Cities: Skylines Stability Issues - Expert Advice</u></a></li>
-<li><a href="https://program-issues.techidaily.com/boost-gaming-performance-fix-high-latency-in-valheim-on-windows-computers/"><u>Boost Gaming Performance: Fix High Latency in Valheim on Windows Computers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/dxgkrnlsys-freeze-in-windows-triumph/"><u>dxgkrnl.sys Freeze in Windows - Triumph</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How to Detect and Stop mSpy from Spying on Your Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-implement-and-manage-age-appropriate-content-restrictions-in-discord-for-your-kids/"><u>How to Implement and Manage Age-Appropriate Content Restrictions in Discord for Your Kids</u></a></li>
-<li><a href="https://program-issues.techidaily.com/insurgent-conflict-why-sandstorm-video-game-frequently-experiences-crashes/"><u>Insurgent Conflict: Why 'Sandstorm' Video Game Frequently Experiences Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723013492368-quick-fix-for-apex-legends-not-opening-top-tips-inside/"><u>Quick Fix for 'Apex Legends Not Opening': Top Tips Inside!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solutions-for-common-reasons-behind-ark-database-applications-crashes/"><u>Solutions for Common Reasons Behind ARK Database Applications Crashes</u></a></li>
-<li><a href="https://howto.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-infinix-hot-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Infinix Hot 30 5G | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/ultimate-tutorial-how-to-set-up-perpetual-subtitle-support-with-vlc/"><u>Ultimate Tutorial: How to Set Up Perpetual Subtitle Support with VLC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovative-cloud-storage-solutions-mematic-app/"><u>[New] Innovative Cloud Storage Solutions Mematic App</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-maximizing-visual-potential-with-hdr-technology/"><u>[Updated] Maximizing Visual Potential with HDR Technology</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-converting-gifs-how-to-create-cool-stickers-in-discord-and-whatsapp/"><u>[Updated] The Art of Converting GIFs How to Create Cool Stickers in Discord & WhatsApp</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722989838789-comprehve-solutions-to-eliminate-stuttering-and-increase-frame-rates-in-pc-gaming-environments/"><u>Comprehve Solutions to Eliminate Stuttering and Increase Frame Rates in PC Gaming Environments</u></a></li>
+<li><a href="https://media-tips.techidaily.com/customizing-your-viewing-experience-how-to-bypass-the-built-in-two-hour-timeout-on-plex-streaming-service/"><u>Customizing Your Viewing Experience: How to Bypass the Built-In Two Hour Timeout on Plex Streaming Service</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-ensure-smooth-gameplay-addressing-and-preventing-spellblock-pc-crashes/"><u>How to Ensure Smooth Gameplay: Addressing and Preventing Spellblock PC Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-battlefield-5-performance-lags-a-comprehensive-guide/"><u>How to Fix Battlefield 5 Performance Lags: A Comprehensive Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-phasmophobia-game-hanging-on-90-load/"><u>How to Fix Phasmophobia Game Hanging on 90% Load</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-motorola-g24-power-phone-without-pin-by-drfone-android/"><u>How to Unlock Motorola G24 Power Phone without PIN</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-fixes-for-stuck-instagram-videos/"><u>In 2024, Mastering Fixes for Stuck Instagram Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-power-of-consistency-steps-to-increase-youtube-views-and-subscriptions/"><u>In 2024, The Power of Consistency Steps to Increase YouTube Views and Subscriptions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcame-far-cry-6-pc-startup-error-read-our-guide-for-a-seamless-gaming-experience/"><u>Overcame Far Cry 6 'PC Startup Error' - Read Our Guide for a Seamless Gaming Experience!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/restoring-sound-on-lost-ark-a-comprehensive-guide/"><u>Restoring Sound on LOST ARK - A Comprehensive Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-realme-c53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-does-your-device-experience-atomic-heart-at-launch-troubleshooting-steps-inside/"><u>Why Does Your Device Experience 'Atomic Heart' At Launch? Troubleshooting Steps Inside</u></a></li>
 </ul></div>
 

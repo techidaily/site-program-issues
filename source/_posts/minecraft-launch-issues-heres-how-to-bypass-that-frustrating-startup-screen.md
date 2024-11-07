@@ -1,7 +1,7 @@
 ---
 title: Minecraft Launch Issues? Here's How to Bypass That Frustrating Startup Screen
-date: 2024-10-28T18:36:53.377Z
-updated: 2024-10-31T16:36:13.469Z
+date: 2024-11-04T18:33:04.952Z
+updated: 2024-11-06T23:10:57.076Z
 tags:
   - win11
   - win10
@@ -30,19 +30,6 @@ thumbnail: https://thmb.techidaily.com/dc4a82d976964b1f2e7b859f5b2f6939dbc4ceccf
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable Steam overlay](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Launch the game in windowed mode
 
  Some players found that starting the game in windowed mode may fix the black screen issue in Elden Ring. When your game is running, you can press**Alt+Enter** at the same time to switch between the windowed mode and full-screen mode. If this doesn’t work, you can try setting launch options in Steam. Here’s how:
@@ -57,10 +44,10 @@ thumbnail: https://thmb.techidaily.com/dc4a82d976964b1f2e7b859f5b2f6939dbc4ceccf
 4. Close the**Properties** window and launch the game.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the black screen occurs again, don’t worry. There are still other fixes you can try.
@@ -106,10 +93,10 @@ There are mainly two ways to update your graphics driver:
 3. Once you’ve installed all pending updates, restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch Elden Ring again and check if you still get stuck on a black screen.
@@ -124,13 +111,20 @@ If the issue persists, move on to the next fix.
 
 ![win11 - Download & install Windows Update](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  When updates are available, follow the on-screen instructions to download and install them.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Verify the integrity of game files
@@ -145,15 +139,22 @@ If the issue persists, move on to the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Verify-integrity-of-game-files.jpg)
 4. Wait a few minutes for Steam to verify the game files.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once the process is complete, relaunch the game and check to see if you can get past the black screen.
 
 If the issue remains, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Disable Steam overlay
@@ -167,13 +168,6 @@ If the issue remains, take a look at the next fix.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Disable-in-game-overlay.jpg)
 4. Close the**Properties** window and launch the game.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now check if the black screen issue has gone away.
 
@@ -200,18 +194,16 @@ Now check if the black screen issue has gone away.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-tackling-teal-too-much-clean-up-that-green-screen-on-mac/"><u>[Updated] 2024 Approved Tackling Teal Too Much? Clean up That Green Screen on Mac</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-fundamental-narrative-structure-for-2024/"><u>[Updated] Fundamental Narrative Structure for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-orchestrated-journey-through-youtubes-undisclosed-content/"><u>[Updated] Orchestrated Journey Through YouTube's Undisclosed Content</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypassing-perpetual-pause-resolving-among-us-endless-loader-problems/"><u>Bypassing Perpetual Pause: Resolving 'Among Us' Endless Loader Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722992271612-expert-solutions-to-stop-your-oxygen-not-included-from-crashing-now/"><u>Expert Solutions to Stop Your Oxygen Not Included From Crashing Now</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-sudden-touch-responsiveness-problems-on-your-iphone-with-10-tactics/"><u>How to Resolve Sudden Touch Responsiveness Problems on Your iPhone with 10 Tactics</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-exploring-youtubes-ownership-vs-cc-freedom/"><u>In 2024, Exploring YouTube's Ownership Vs. CC Freedom</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-crash-points-in-the-witcher-3-wild-hunt-a-players-guide-to-troubleshooting-and-fixes/"><u>Overcoming Crash Points in The Witcher 3: Wild Hunt – A Player's Guide to Troubleshooting & Fixes</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-iphone-speech-recognition-hurdles-a-guide-with-5-tips/"><u>Overcoming iPhone Speech Recognition Hurdles: A Guide with 5 Tips</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-nokia-c22-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-fixing-mouse-problems-in-resident-evil-village-game/"><u>Resolved: Fixing Mouse Problems in Resident Evil Village Game</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-overcoming-the-valheim-version-conflict-on-pc/"><u>Step-by-Step Guide: Overcoming the Valheim Version Conflict on PC</u></a></li>
-<li><a href="https://fox-links.techidaily.com/the-new-era-of-advertising-embracing-the-metaverse-for-2024/"><u>The New Era of Advertising Embracing the Metaverse for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-discover-the-joy-of-customized-messaging-downloading-and-tailoring-whatsapp-ringtones-on-mobile/"><u>[New] Discover the Joy of Customized Messaging Downloading & Tailoring WhatsApp Ringtones on Mobile</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-easy-conversion-of-youtube-videos-from-twitter-into-gifs/"><u>2024 Approved Easy Conversion of YouTube Videos From Twitter Into GIFs</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-disconnection-errors-in-destiny-2-expert-tips-and-tricks-fixed/"><u>Banish Disconnection Errors in Destiny 2: Expert Tips & Tricks [FIXED]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/essential-tips-to-overcome-phasmophobia-vr-performance-issues/"><u>Essential Tips to Overcome Phasmophobia VR Performance Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-runescape-game-crashes-with-these-proven-tips/"><u>Fix Your RuneScape Game Crashes with These Proven Tips</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-se-2022-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account From iPhone SE (2022)?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-leveraging-zoom-for-high-quality-facebook-live-streams/"><u>In 2024, Leveraging Zoom for High-Quality Facebook LIVE Streams</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-league-of-legends-solutions-for-eliminating-black-screens/"><u>Mastering League of Legends: Solutions for Eliminating Black Screens</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-technical-hurdles-in-baldurs-gate-iii-for-a-seamless-pc-gaming-experience/"><u>Overcoming Technical Hurdles in Baldur’s Gate III for a Seamless PC Gaming Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/parental-guides-to-the-6-highest-rated-study-support-apps/"><u>Parental Guides to the 6 Highest Rated Study Support Apps</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/ultimate-guide-syncing-your-iphone-11-with-a-pc-via-wireless-methods/"><u>Ultimate Guide: Syncing Your iPhone 11 with a PC via Wireless Methods</u></a></li>
 </ul></div>
 

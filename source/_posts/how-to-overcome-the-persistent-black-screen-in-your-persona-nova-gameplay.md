@@ -1,7 +1,7 @@
 ---
 title: How To Overcome The Persistent Black Screen in Your Persona Nova Gameplay
-date: 2024-10-25T06:15:24.175Z
-updated: 2024-10-31T22:18:06.222Z
+date: 2024-11-03T01:05:06.471Z
+updated: 2024-11-06T16:33:57.277Z
 tags:
   - win11
   - win10
@@ -25,16 +25,10 @@ There’re things you can do before trying complicated fixes:
 * Make sure Enlisted are not blocked from your firewall
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -54,17 +48,17 @@ There’re things you can do before trying complicated fixes:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. In the Compatibility tab, click **Run as administrator** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 4. Relaunch the game.
 
 If it’s not working, move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Install Windows updates
 
@@ -76,13 +70,6 @@ If it’s not working, move to the next fix.
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Enlisted and check.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this didn’t solve your problems, read on for further troubleshooting.
 
@@ -106,14 +93,27 @@ If it’s not working, move to the next fix.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -138,20 +138,20 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://program-issues.techidaily.com/comprehensive-solutions-eliminating-pc-hacks-and-freezes-during-(span-stylecolor-0078af)halo-3(span)-sessions/"><u>[Comprehensive Solutions] Eliminating PC Hacks and Freezes During <Span Style=color: #0078AF;>Halo 3</Span> Sessions</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-art-of-flawless-audio-capture-mic-free/"><u>[New] The Art of Flawless Audio Capture, Mic-Free</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-culinary-cinematography-step-by-step-recipe-tutorials/"><u>[Updated] 2024 Approved Culinary Cinematography Step-by-Step Recipe Tutorials</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-navigate-the-tiktok-twitter-connection/"><u>[Updated] Navigate the TikTok-Twitter Connection</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fusing-iphones-audio-and-visuals-together/"><u>2024 Approved Fusing iPhones' Audio and Visuals Together</u></a></li>
-<li><a href="https://program-issues.techidaily.com/clearing-up-network-issues-a-fix-for-discord-packet-loss-problems/"><u>Clearing Up Network Issues: A Fix for Discord Packet Loss Problems</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-solutions-to-fix-frame-rate-hiccups-in-age-of-empires-iv/"><u>Comprehensive Solutions to Fix Frame Rate Hiccups in Age of Empires IV</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-itel-p55-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Itel P55 FRP</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-magic-v2-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor Magic V2</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolving-ready-or-not-keeps-failing-issues-for-windows-users/"><u>Troubleshooting Guide: Resolving 'Ready or Not Keeps Failing' Issues for Windows Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-tips-downloading-and-setting-up-your-dell-mouse-driver-correctly/"><u>Troubleshooting Tips - Downloading and Setting Up Your Dell Mouse Driver Correctly</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-overcoming-startup-problems-in-stardew-valley-game/"><u>Troubleshooting Tips - Overcoming Startup Problems in Stardew Valley Game</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-why-steam-wont-open-on-windows-10-and-how-to-fix-it/"><u>Troubleshooting: Why Steam Won't Open on Windows 10 & How to Fix It</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/windows-10-troubleshooting-guide-eliminating-pnp-fatal-errors-for-smooth-operation/"><u>Windows 10 Troubleshooting Guide: Eliminating PNP Fatal Errors for Smooth Operation</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/esthetic-ambitions-launching-a-youtube-channel-for-makeup-maven-for-2024/"><u>[New] Aesthetic Ambitions Launching a YouTube Channel for Makeup Maven for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-digital-enhancement-social-story-recorder-for-2024/"><u>[Updated] Digital Enhancement Social Story Recorder for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-learning-the-art-of-softly-amplifying-audio-tracks/"><u>[Updated] Learning the Art of Softly Amplifying Audio Tracks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-posting-videos-on-twitter-step-by-step/"><u>[Updated] Posting Videos on Twitter Step-by-Step</u></a></li>
+<li><a href="https://program-issues.techidaily.com/age-of-empires-iv-trouble-unlock-winning-fixes-to-get-your-game-running-smoothly/"><u>Age of Empires IV Trouble? Unlock Winning Fixes to Get Your Game Running Smoothly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conquer-the-crash-battlefield-v-pc-optimization-to-eliminate-lag-and-errors/"><u>Conquer the Crash: Battlefield V PC Optimization to Eliminate Lag and Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/granblue-fantasy-recover-from-relink-crash-on-your-computer-tips-and-tricks/"><u>Granblue Fantasy Recover From Relink Crash on Your Computer - Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hell-let-loose-pc-compatibility-optimized-ensuring-smooth-gaming-experience/"><u>Hell Let Loose PC Compatibility Optimized: Ensuring Smooth Gaming Experience</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-guide-to-create-a-timelapse-video-in-after-effects/"><u>In 2024, Guide to Create a Timelapse Video in After Effects</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-honor-100-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Honor 100 Prowith/without a PC</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-infusing-life-into-collage-a-photogenic-approach/"><u>In 2024, Infusing Life Into Collage A Photogenic Approach</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-smooth-transition-of-short-videos-to-youtube-device-guide/"><u>In 2024, Smooth Transition of Short Videos to YouTube - Device Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-gamers-guide-why-cant-i-launch-gta-5-solutions-inside/"><u>Master Gamers Guide: Why Can’t I Launch GTA 5? Solutions Inside!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-issue-overcoming-challenges-in-starting-evil-genius-2/"><u>Resolving the Issue: Overcoming Challenges in Starting Evil Genius 2</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solution-guide-for-cyberpunk-2077-not-leveraging-gpu-on-win11-systems/"><u>Solution Guide for Cyberpunk 2077 Not Leveraging GPU on Win11 Systems</u></a></li>
 </ul></div>
 

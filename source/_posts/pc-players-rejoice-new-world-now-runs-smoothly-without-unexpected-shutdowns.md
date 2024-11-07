@@ -1,7 +1,7 @@
 ---
 title: "PC Players Rejoice: 'New World' Now Runs Smoothly without Unexpected Shutdowns"
-date: 2024-10-28T04:37:36.347Z
-updated: 2024-10-31T22:29:06.192Z
+date: 2024-11-01T22:30:02.770Z
+updated: 2024-11-06T22:06:02.360Z
 tags:
   - win11
   - win10
@@ -40,10 +40,10 @@ thumbnail: https://thmb.techidaily.com/d54fa6180dfbcf214df4f9458a0e28f5138815530
 8. **[Roll back your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Check your specs
@@ -83,6 +83,13 @@ Here’s an example of how to check the game integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/detroit-become-human-verify-game-02.jpg)
 3. Wait until the checking to finish.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You can then launch Detroit: Become Human and see if it crashes again.
 
  If this solution doesn’t work for you, please continue to the next one.
@@ -94,10 +101,10 @@ You can then launch Detroit: Become Human and see if it crashes again.
 If this fix failed to solve your issue, please move on to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
@@ -124,13 +131,6 @@ If this fix failed to solve your issue, please move on to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
@@ -141,10 +141,10 @@ If this fix failed to solve your issue, please move on to the next one.
  If this fix doesn’t give you any luck, take a look at the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Install all Windows updates
@@ -166,10 +166,10 @@ Here’s how:
  If this solution doesn’t work for you, simply try the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Disable in-game overlays
@@ -187,16 +187,22 @@ For example, you can follow these steps to disable Steam overlay:
 
 If the crashing reappears, please check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Disable your controller
 
  Some gamers reported that they managed to stop the crash in Detroit: Become Human by**unplugging their controllers** . It’s true that a controller give you a better experience, but they would sometimes run into compatibility issues with new games. Given that, if you’re using controllers or joysticks, you can try to unplug them before starting the game.
+
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Roll back your graphics driver
 
@@ -223,19 +229,24 @@ If the crashing reappears, please check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-gamers-edition-obs-studio-streaming/"><u>[New] Gamers' Edition OBS Studio Streaming</u></a></li>
-<li><a href="https://program-issues.techidaily.com/avoid-gaming-interruptions-solve-the-directx-error-in-modern-warfare-2-quickly/"><u>Avoid Gaming Interruptions: Solve the DirectX Error in Modern Warfare 2 Quickly</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/examining-facebooks-hidden-activity-knowledge-is-power-for-2024/"><u>Examining Facebook’s Hidden Activity Knowledge Is Power for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/from-problem-to-solution-a-deep-dive-into-nvidia-geforce-experiences-error-0x0003-fixes/"><u>From Problem to Solution: A Deep Dive Into Nvidia GeForce Experience's Error 0X0003 Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-firefox-from-crashing-expert-tips-and-solutions/"><u>How to Stop Firefox From Crashing : Expert Tips & Solutions</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-clean-soundscape-youtube-audio-enhancement-guide/"><u>In 2024, Clean Soundscape YouTube Audio Enhancement Guide</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-resolve-chromebooks-video-issue/"><u>In 2024, Resolve Chromebook's Video Issue</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/instant-guide-image-to-thumbnail-magic-for-your-youtube-channel/"><u>Instant Guide Image-To-Thumbnail Magic for Your YouTube Channel</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-the-mystery-of-the-dead-astro-a40-microphone-diagnosis-and-remedies/"><u>Solve the Mystery of the Dead Astro A40 Microphone: Diagnosis & Remedies</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-error-4013-for-successful-iphone-software-updates-and-restores/"><u>Troubleshooting Error 4013 for Successful iPhone Software Updates and Restores</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-game-performance-issues-in-half-life-alyx-no-more-lag/"><u>Troubleshooting Game Performance Issues in Half-Life Alyx - No More Lag</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-rust-bypassing-non-responsive-issues-coding-practices/"><u>Troubleshooting Rust: Bypassing Non-Responsive Issues Coding Practices</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-zombie-army-4s-pc-crashing-problems-solutions-inside/"><u>Troubleshooting Zombie Army 4'S PC Crashing Problems - Solutions Inside</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-dominant-alternatives-to-game-bars-recorder-functionality/"><u>[New] In 2024, Dominant Alternatives to Game Bar's Recorder Functionality</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-simplify-with-top-10-free-mac-tools-for-screen-recording-for-2024/"><u>[New] Simplify with Top 10 Free Mac Tools for Screen Recording for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-picks-for-retro-play-5-expert-picked-psone-emulators/"><u>[New] Top Picks for Retro Play 5 Expert-Picked PsOne Emulators</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-elevate-your-edits-pro-level-photo-color-techniques/"><u>[Updated] In 2024, Elevate Your Edits Pro-Level Photo Color Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-cutting-edge-tips-for-drone-video-refining/"><u>2024 Approved Cutting-Edge Tips for Drone Video Refining</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-top-10-inspirational-hr-journeys-unveiled/"><u>2024 Approved Top 10 Inspirational HR Journeys Unveiled</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-xiaomi-redmi-13c-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Xiaomi Redmi 13C.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enjoy-seamless-gameplay-with-beyond-light-destiny-2-now-stable-and-optimized-for-pc-players/"><u>Enjoy Seamless Gameplay with BEYOND LIGHT - Destiny 2 Now Stable and Optimized for PC Players</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-resolving-recurring-snowrunner-pc-crash-issues-quickly-and-easily/"><u>Expert Advice: Resolving Recurring SnowRunner PC Crash Issues Quickly and Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/hell-let-loose-pc-version-stability-fixes-and-solutions/"><u>Hell Let Loose PC Version Stability: Fixes & Solutions</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-samsung-galaxy-a23-5g-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-apple-id-from-apple-iphone-14-without-password-by-drfone-ios/"><u>In 2024, How to Remove Apple ID from Apple iPhone 14 without Password?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maplestory-crashes-on-windows-11-find-solutions-with-our-2023-best-practices/"><u>MapleStory Crashes on Windows 11? Find Solutions with Our 2023 Best Practices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/perform-the-multiplication-on-both-sides/"><u>Perform the Multiplication on Both Sides:</u></a></li>
+<li><a href="https://program-issues.techidaily.com/permanent-solution-to-prevent-everspace-2-pc-from-freezing-or-crashing/"><u>Permanent Solution to Prevent Everspace 2 PC From Freezing or Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-resolve-chromes-freezing-issue-on-windows-10/"><u>Quick Solutions: Resolve Chrome's Freezing Issue on Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-minecraft-error-codes-a-step-by-step-guide-to-correcting-the-crossbow-issue/"><u>Resolving Minecraft Error Codes: A Step-by-Step Guide to Correcting the Crossbow Issue</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-to-stop-ps4-from-randomly-freezing-a-beginners-guide/"><u>Step by Step Solutions to Stop PS4 From Randomly Freezing - A Beginner's Guide</u></a></li>
 </ul></div>
 

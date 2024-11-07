@@ -1,7 +1,7 @@
 ---
 title: Battling Endless Restarts? Here's a Fix for Constant Crashes in God of War on Windows/Mac
-date: 2024-10-28T00:51:29.084Z
-updated: 2024-10-31T22:45:08.573Z
+date: 2024-11-05T17:48:24.053Z
+updated: 2024-11-06T19:41:47.454Z
 tags:
   - win11
   - win10
@@ -51,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/7180d1f46214638b981f44d739909bb52ccedea12
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
 
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -80,22 +73,15 @@ If the issue persists, try the next fix below.
 2. Click **LOCAL FILES** \> **Verify integrity of game files…** . Wait a few minutes for Steam to validate the files of the game.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Restart Metro Exodus PC Enhanced Edition to check if this fix stops the crashes. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Install the latest game patch
 
@@ -104,6 +90,13 @@ If the issue persists, try the next fix below.
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Run Metro Exodus PC Enhanced Edition again to see if the game crashes. If it didn’t work, or there was no new game patch available, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable in-game overlays
 
@@ -117,18 +110,25 @@ If the issue persists, try the next fix below.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  See if Metro Exodus PC Enhanced Edition crashes after you disabled all the in-game overlays. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Perform a clean boot
 
@@ -144,18 +144,18 @@ To perform a clean boot, just follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services,** and then click **Disable all** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
@@ -166,10 +166,10 @@ To perform a clean boot, just follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Restart** your PC and run Metro Exodus PC Enhanced Edition to check if the game crashes. If not, you need to open the **System Configuration** window again and enable services and applications **one by one** until you find the problematic software. After enabling each startup service, you need to restart Windows OS to apply the changes.
@@ -198,16 +198,20 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-streamlining-time-lapse-photography-with-gopro-software/"><u>[New] Streamlining Time-Lapse Photography with GoPro Software</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-stepwise-instructions-snapchat-for-mac-users/"><u>[Updated] Stepwise Instructions Snapchat for Mac Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-guide-to-overcoming-frame-drops-and-lag-in-warframe-gaming/"><u>Comprehensive Guide to Overcoming Frame Drops and Lag in Warframe Gaming</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/control-over-your-spotify-default-podcast-recommendations-for-2024/"><u>Control Over Your Spotify Default Podcast Recommendations for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ffxiv-version-check-errors-solutions-and-workarounds-for-players/"><u>FFXIV Version Check Errors: Solutions and Workarounds for Players</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/all-game-analysis-premier-insights-in-graphs/"><u>Football Game Analysis Premier Insights in Graphs</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-phoenix-point-from-crashing-proven-fixes-that-work/"><u>How to Stop Phoenix Point From Crashing: Proven Fixes That Work!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-stability-keeping-hell-let-loose-playable-on-your-computer/"><u>Optimizing Stability: Keeping Hell Let Loose Playable on Your Computer</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-four-platforms-in-social-networking-facebook-twitter-instagram-youtube/"><u>Top Four Platforms in Social Networking: Facebook | Twitter | Instagram | YouTube</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/top-video-compression-tools-how-to-shrink-file-size-without-quality-loss/"><u>Top Video Compression Tools: How To Shrink File Size Without Quality Loss</u></a></li>
-<li><a href="https://program-issues.techidaily.com/win-over-frequent-fuser-breakdowns-a-complete-guide-to-fix-and-enhance-your-system-stability-on-pc/"><u>Win Over Frequent Fuser Breakdowns: A Complete Guide to Fix and Enhance Your System Stability on PC</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-high-definition-spectacle-our-top-7-camera-lineup-for-2024/"><u>[Updated] High-Definition Spectacle Our Top 7 Camera Lineup for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-itel-a60-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-frameforge-review-the-ultimate-guide-to-capturing-tech/"><u>2024 Approved FrameForge Review The Ultimate Guide to Capturing Tech</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-intelligence-insights-on-forefront-ai-and-chatgpt/"><u>Comparing Intelligence: Insights on Forefront AI and ChatGPT</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/drive-efficiency-to-new-heights-with-collective-windows-11-folder-creation/"><u>Drive Efficiency to New Heights with Collective Windows 11 Folder Creation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-guide-why-astros-command-hub-isnt-detecting-your-a50-audio-device/"><u>Fix Guide: Why Astro's Command Hub Isn't Detecting Your A50 Audio Device</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-nokia-g310-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Nokia G310 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-the-art-of-resume-writing-using-googles-chatgpt-tool/"><u>Master the Art of Resume Writing Using Google's ChatGPT Tool</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-bloodhunts-playback-fixes-for-pc-lagging-and-freezing-problems/"><u>Optimizing BloodHunt's Playback: Fixes for PC Lagging and Freezing Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723010692599-phoenix-point-crash-dilemma-heres-how-you-can-get-back-on-track/"><u>Phoenix Point Crash Dilemma? Here's How You Can Get Back on Track!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-problems-that-prevent-evil-genius-2-from-launching-successfully/"><u>Resolving the Problems That Prevent Evil Genius 2 From Launching Successfully</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/score-a-deal-on-blinks-4-camera-security-system-and-floodlight-bundle-at-only-80-exclusive-labor-day-offer/"><u>Score a Deal on Blink's 4-Camera Security System and Floodlight Bundle at Only $80 - Exclusive Labor Day Offer!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-far-cry-6-how-to-fix-pc-launch-issues/"><u>Troubleshooting Far Cry 6: How to Fix PC Launch Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-excellence-with-the-new-iphone-n-why-seasoned-tech-gurus-endorse-it/"><u>Unlocking Excellence with the New iPhone N: Why Seasoned Tech Gurus Endorse It</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unraveling-the-mystery-how-did-dual-destiny-project-come-to-an-early-conclusion/"><u>Unraveling The Mystery: How Did 'Dual Destiny' Project Come to an Early Conclusion?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "'The Division 2' Performance Enhancements: Tackling the 2024 Frame Rate Dip and Motion Hitches"
-date: 2024-08-23T17:37:41.064Z
-updated: 2024-08-24T17:37:41.064Z
+date: 2024-11-01T17:51:38.861Z
+updated: 2024-11-07T02:41:43.527Z
 tags:
   - win11
   - win10
@@ -38,8 +38,24 @@ thumbnail: https://thmb.techidaily.com/1919114fb5091365649e72fceac45a6999826335a
 1. Type**Windows firewall** in the Windows search box and select**Windows Defender Firewall** from the results.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/windows-defender-firewall-1.jpg)
 2. Click**Allow an app or feature through Windows Defender Firewall** from the left pane.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-defender-firewall-2.jpg)
 3. Click**Change settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-defender-firewall-3.jpg)
 4. Scroll down to locate Lost Ark. Then**check the boxes under the Domain, Private and Public tabs** , and click**OK** to save the settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/windows-denfender-firewall-lost-ark.jpg)
@@ -57,17 +73,26 @@ Now see if you could start the game. If not, try the next method.
 1. Launch the Steam client and select the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. From the game list, right-click**Lost Ark** and select**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Click the**Local Files** tab, and click**Verify integrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/verify-game-files.jpeg)
 
  It may take a couple of minutes for the process to complete. Once done, restart the game to test the issue. If the problem persists, move on to more fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -85,17 +110,11 @@ Now see if you could start the game. If not, try the next method.
  You can also get the drivers you need for free, but you’ll need to download them one at a time and manually install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  A driver update should greatly improve your game experience. But if this doesn’t resolve the problem, check out the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### Fix 4 – Run Lost Ark as an administrator
 
  Due to the lack of administrative rights, a program or game may not access certain files and therefore fails to launch. To avoid permission issues like this, you should run Lost Ark as an administrator as follow.
@@ -104,13 +123,22 @@ Now see if you could start the game. If not, try the next method.
 2. Right-click the**LOSTARK.exe file** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/run-as-administrator-lost-ark-2.jpg)
 3. Select the**Compatibility** tab. Tick**Disable full-screen optimizations** and**Run this program as an administrator** .  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/run-as-administrator-lost-ark-1.jpg)
 4. Click**OK** .
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Try launching the game to see how things go. Still no luck? Take a look at the next method.
@@ -124,11 +152,15 @@ Now see if you could start the game. If not, try the next method.
 2. Select the program and click**End task** until you close all the unneeded applications.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/taks-manager-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Restart and check the game. If it still can’t get past the loading screen, continue to Fix 6.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ### Fix 6 – Switch to DX9
 
  Some Lost Ark players experienced performance issues such as crashing or stuttering when running the game on DX11\. If you’re in the same situation, launching the game in DX9 may mitigate your problem.
@@ -136,18 +168,20 @@ Now see if you could start the game. If not, try the next method.
 1. Launch Steam and go to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Lost Ark** from the game list and select**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Under Launch Options, type**\-force-d3d9** and close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/swtich-to-dx9.jpg)
 
  Now relaunch Steam and Lost Ark. Is it able to work correctly in the DX9 version? If not, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7 – Repair the system files
 
  If all the methods above fail, the problem may be triggered by a corrupted system. To check if there are any critical system issues that prevent Lost Ark from working, you can run a thorough scan of your computer.
@@ -158,9 +192,6 @@ Now see if you could start the game. If not, try the next method.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -180,8 +211,6 @@ Restart your game and check if Lost Ark goes back to the normal state.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +218,26 @@ Restart your game and check if Lost Ark goes back to the normal state.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/nmatched-convert-experience-premier-online-ytvideo-tools/"><u>[New] Unmatched Convert Experience Premier Online YTVideo Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mememorph-machine-20/"><u>[Updated] MemeMorph Machine 2.0</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-ultimate-guide-top-5-online-converters-for-gifs-to-videos-for-2024/"><u>[Updated] Ultimate Guide Top 5 Online Converters for GIFs to Videos for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-subtitled-on-the-go-zip-to-srt-conversion-techniques/"><u>2024 Approved Subtitled on the Go ZIP-to-SRT Conversion Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/beat-the-lag-expert-tips-for-smooth-playthrough-of-resident-evil-village-on-pc/"><u>Beat the Lag - Expert Tips for Smooth Playthrough of Resident Evil Village on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/diy-solutions-for-a-broken-clownfish-voice-changer-unit/"><u>DIY Solutions for a Broken Clownfish Voice Changer Unit</u></a></li>
+<li><a href="https://program-issues.techidaily.com/error-code-0xc0000022-explained-successful-troubleshooting-of-adobe-application-starts/"><u>Error Code 0xC0000022 Explained - Successful Troubleshooting of Adobe Application Starts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-the-out-of-video-memory-error-in-fortnite-solution-inside/"><u>How to Fix the 'Out of Video Memory' Error in Fortnite (Solution Inside)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-capturing-virtual-reality-iphone-edition/"><u>In 2024, Capturing Virtual Reality IPhone Edition</u></a></li>
+<li><a href="https://program-issues.techidaily.com/league-of-legends-freezing-up-fix-it-fast-with-these-simple-solutions/"><u>League of Legends Freezing Up? Fix It Fast with These Simple Solutions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/master-of-mayhem-top-10-roguelites/"><u>Master of Mayhem Top 10 Roguelites</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-post-antitrust-era-how-samsungs-growing-galaxy-ai-climbs-the-innovation-ladder-insights-for-tech-leaders/"><u>Navigating Post-Antitrust Era: How Samsung’s Growing Galaxy AI Climbs the Innovation Ladder - Insights for Tech Leaders</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-game-interruptions-follow-these-6-steps-to-stop-minecraft-crashing-issues-today/"><u>No More Game Interruptions: Follow These 6 Steps to Stop Minecraft Crashing Issues Today</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005949703-ps4-malfunction-heres-how-to-fix-those-irritating-freezes/"><u>PS4 Malfunction? Here's How to Fix Those Irritating Freezes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/starters-guide-to-optimal-gopro-accessories-list/"><u>Starter’s Guide to Optimal GoPro Accessories List</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-crashes-in-cities-skylines-2-pc-expert-guide-to-stable-gameplay/"><u>Stop Crashes in Cities: Skylines 2 (PC): Expert Guide to Stable Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/surviving-against-all-odds-a-deeper-dive-into-eternal-recurrence-phenomena/"><u>Surviving Against All Odds: A Deeper Dive Into Eternal Recurrence Phenomena</u></a></li>
+<li><a href="https://program-issues.techidaily.com/uncover-the-causes-of-no-rest-for-the-wicked-malfunctions-on-windows-pcs-and-how-to-rectify-them/"><u>Uncover the Causes of 'No Rest for the Wicked' Malfunctions on Windows PCs and How to Rectify Them</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ling-the-top-ten-youtube-music-reaction-stars-for-2024/"><u>Unveiling the Top Ten YouTube Music Reaction Stars for 2024</u></a></li>
+</ul></div>
 

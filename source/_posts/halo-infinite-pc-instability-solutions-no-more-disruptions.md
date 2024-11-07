@@ -1,7 +1,7 @@
 ---
 title: Halo Infinite PC Instability Solutions - No More Disruptions
-date: 2024-10-27T16:04:55.643Z
-updated: 2024-10-31T23:37:54.985Z
+date: 2024-11-03T20:41:04.633Z
+updated: 2024-11-06T22:45:40.432Z
 tags:
   - win11
   - win10
@@ -62,28 +62,15 @@ Here’s how to disable Steam Overlay:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-overlay-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now check if you can play Halo Infinite normally.
 
  If disabling overlays doesn’t do the trick for you, simply check out the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Upgrade your graphics driver
@@ -104,18 +91,18 @@ Now check if you can play Halo Infinite normally.
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC and check if Halo Infinite crashes again.
 
  If the latest GPU driver doesn’t fix your issue, you can try to[uninstall the graphics driver using DDU](https://tools.techidaily.com/drivereasy/download/) and reinstall the previous versions of driver. Or you can move on to the next fixes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Check for conflicting programs
 
@@ -142,19 +129,6 @@ MSI Afterburner
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-3.jpg)
 5. Under**High DPI scaling override** , check the box next to**Override high DPI scaling behavior** . Then click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-4.jpg)
 
 Now restart your game and check the gameplay.
@@ -165,13 +139,6 @@ If this trick doesn’t give you luck, simply try the next one.
 
  Windows 10/11 offers system updates regularly, which usually improves system stability and sometimes in-game performance. Normally it’s an automated process, but you can also check to make sure you have all the patches:
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### On Windows 10
 
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
@@ -181,10 +148,10 @@ If this trick doesn’t give you luck, simply try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -200,23 +167,38 @@ If this trick doesn’t give you luck, simply try the next one.
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once you’ve installed all the system updates, restart your computer and test the gameplay.
 
 If the latest updates don’t work for you, try the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 7: Check your DLC
 
@@ -240,10 +222,10 @@ Here’s how:
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
@@ -271,20 +253,19 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-a-youtube-intro-with-best-youtube-intro-makers-for-2024/"><u>[Updated] How to Make a YouTube Intro With Best YouTube Intro Makers for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-expert-advice-on-selecting-the-best-lenses-for-filmmaking/"><u>2024 Approved Expert Advice on Selecting The Best Lenses For Filmmaking</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/can-you-use-handbrake-to-convert-and-compress-apples-prores-files/"><u>Can You Use HandBrake to Convert and Compress Apple's ProRes Files?</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-setup-your-geforce-gtx-460-drivers-for-windows-step-by-step/"><u>Download & Setup Your GeForce GTX 460 Drivers for Windows - Step by Step</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fast-track-solutions-overcoming-challenges-with-shader-tweaks-in-swbfii/"><u>Fast Track Solutions: Overcoming Challenges with Shader Tweaks in SWBFII</u></a></li>
-<li><a href="https://program-issues.techidaily.com/guide-to-fixing-freezing-and-crashing-issues-in-the-witcher-3-wild-hunt-during-your-epic-adventure-on-pc/"><u>Guide to Fixing Freezing & Crashing Issues in 'The Witcher 3: Wild Hunt' During Your Epic Adventure on PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Motorola Moto G34 5G? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-mw-warzone-a-comprehensive-guide-to-fix-dev-error-6068/"><u>Mastering MW Warzone: A Comprehensive Guide to Fix Dev Error 6068</u></a></li>
-<li><a href="https://extra-information.techidaily.com/megadron-mastery-industrys-top-heavy-loaders/"><u>Megadron Mastery Industry's Top Heavy Loaders</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mending-amd-radeon-r9-drivers-for-w11-users/"><u>Mending AMD Radeon R9 Drivers for W11 Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-obstacles-in-destiny-2-the-broccoli-crash-update-for-april-2024/"><u>Overcoming Obstacles in Destiny 2: The Broccoli Crash Update for April 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-resolving-farming-simulator-22-startup-issues/"><u>Troubleshooting Steps: Resolving 'Farming Simulator 22' Startup Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/why-is-minecraft-not-working-comprehensive-troubleshooting-techniques-for-pc-players/"><u>Why Is Minecraft Not Working? Comprehensive Troubleshooting Techniques for PC Players</u></a></li>
-<li><a href="https://program-issues.techidaily.com/winning-the-battle-against-fallout-3s-sudden-shutdowns-on-your-windows-11-pc/"><u>Winning the Battle Against Fallout 3'S Sudden Shutdowns on Your Windows 11 PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixed-starfield-freezing-or-crashing-on-pc/"><u>[Fixed] Starfield Freezing or Crashing on PC</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-engage-broadly-embedding-twitch-videos-on-fb-for-2024/"><u>[Updated] Engage Broadly Embedding Twitch Videos on FB for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-5-mobile-photo-editing-tools-background-switcher/"><u>[Updated] Innovative 5 Mobile Photo Editing Tools Background Switcher</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-secure-and-simple-photovideo-sharing-with-ios-for-2024/"><u>[Updated] Secure and Simple Photo/Video Sharing with IOS for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-7-gratis-youtube-tags-extractor-tools/"><u>[Updated] Top 7 Gratis Youtube Tags Extractor Tools</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/detailed-guide-youtubes-end-screens-explained-for-2024/"><u>Detailed Guide YouTube's End Screens Explained for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/experiencing-netflix-issues-heres-how-to-confirm-if-its-a-global-problem/"><u>Experiencing Netflix Issues? Here's How to Confirm if It’s a Global Problem</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-solutions-how-to-stop-steam-from-freezing-or-crashing/"><u>Fixes & Solutions: How to Stop Steam From Freezing or Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-overcome-call-of-dutys-warzone-level-6328-glitch-quick-solutions/"><u>How to Overcome Call of Duty's Warzone Level 6328 Glitch - Quick Solutions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-practices-for-online-vhs-image-retouching-and-editing/"><u>In 2024, Best Practices for Online VHS Image Retouching and Editing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722991084157-madden-20-for-pc-stability-issues-heres-how-you-can-get-things-running-smoothly-again/"><u>Madden 20 for PC Stability Issues? Here's How You Can Get Things Running Smoothly Again</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/preventing-gpu-crashes-while-preserving-computer-uptime/"><u>Preventing GPU Crashes While Preserving Computer Uptime</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solution-correcting-http-401-forbidden-errors/"><u>Step-by-Step Solution: Correcting HTTP 401 Forbidden Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-players-facing-team-fortress-2-failure-to-load/"><u>Troubleshooting Tips for Players Facing 'Team Fortress 2 Failure to Load'</u></a></li>
 </ul></div>
 

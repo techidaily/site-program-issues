@@ -1,7 +1,7 @@
 ---
 title: Latest Strategies for Resolving League of Legends' Mysterious Black Screen Issue
-date: 2024-10-27T18:58:09.976Z
-updated: 2024-10-31T18:26:12.248Z
+date: 2024-11-01T20:53:36.663Z
+updated: 2024-11-06T23:42:24.151Z
 tags:
   - win11
   - win10
@@ -45,6 +45,13 @@ Finally, Cyberpunk 2077 is released! But it could be very frustrating to encount
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 3. Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 4. Relaunch Cyberpunk 2077 to check.
@@ -52,13 +59,6 @@ Finally, Cyberpunk 2077 is released! But it could be very frustrating to encount
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 If your issue continues to occur, you can move to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: End unnecessary programs
 
@@ -71,29 +71,22 @@ If your issue continues to occur, you can move to the next fix.
 2. Right-click the programs you want to close and select **End Task** . Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 3. Restart Cyberpunk 2077 to see if this fixed your issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this fix doesn’t help your case, simply take a look at the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Verify your game files
@@ -111,13 +104,6 @@ If your issue continues to occur, you can move to the next fix.
 
  If your game still won’t run correctly, then go ahead with the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Adjust your virtual memory
 
 **Virtual memory**  is basically an extension of your computer’s physical memory. It is a combination of RAM and a portion of your hard drive. If your computer runs out of RAM when running Cyberpunk 2077, Windows will dip into virtual memory for temporary file storage.
@@ -130,13 +116,6 @@ If your issue continues to occur, you can move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-41.jpg)
 2. Click **Settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-35.jpg)
 3. Click the **Advanced**  tab, and then click **Change** .  
 
@@ -146,8 +125,22 @@ If your issue continues to occur, you can move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-27-1.jpg)
 5. Click your **C drive** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-22.jpg)
 6. Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger.  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-16.jpg)
 7. Click **Set** , then **OK** .  
@@ -156,13 +149,6 @@ If your issue continues to occur, you can move to the next fix.
 8. Restart your computer and test your game.
 
 If your issue still exists, move to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall your game
 
@@ -177,6 +163,13 @@ If your issue still exists, move to the next fix.
 
 If the issue continues to occur, go to the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Perform a clean boot
 
  A clean boot is basically starting your system with the most basic services and programs. In some cases, this can minimize the chances of software conflicts and reserve the most resources for your game.
@@ -187,21 +180,28 @@ You can follow these simple steps to do a clean boot:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box before **Hide all Microsoft services** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your video card or sound card manufacturer, such as **Realtek** , **AMD** , **NVIDIA**  and **Intel** . Then click **OK**  to save the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig-uncheck-services-clean-boot.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC and check if Cyberpunk 2077 freezing again.
@@ -227,16 +227,19 @@ You can follow these simple steps to do a clean boot:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-top-6-hdmi-21-screens-detailed-feature-rundown/"><u>[Updated] In 2024, Top 6 HDMI 2.1 Screens Detailed Feature Rundown</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-on-iphone-15-pro-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud on iPhone 15 Pro Safe and Legal</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/excellence-in-endless-data-archiving-services-for-2024/"><u>Excellence in Endless Data Archiving Services for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fast-solutions-for-sluggish-performance-in-assassins-creed-valhalla/"><u>Fast Solutions for Sluggish Performance in Assassin's Creed: Valhalla</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fix-your-pc-issues-with-r-type-final-2-expert-tips-for-stable-gaming/"><u>Fix Your PC Issues with R-Type Final 2 - Expert Tips for Stable Gaming</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-best-top-timelapses-quick-capture-and-edit/"><u>In 2024, Best Top Timelapses Quick Capture & Edit</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-samsung-galaxy-s23plus-by-drfone-android/"><u>In 2024, How to Bypass FRP on Samsung Galaxy S23+?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722991126232-master-your-gaming-experience-no-more-praey-crashes-on-pc/"><u>Master Your Gaming Experience: No More Praey Crashes on PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-minecraft-error-codes-special-focus-on-deciphering-and-resolving-crossbow-glitches/"><u>Mastering Minecraft Error Codes: Special Focus on Deciphering and Resolving Crossbow Glitches</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-spontaneous-system-shutdown-on-w11/"><u>Overcoming Spontaneous System Shutdown on W11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlock-ultra-hd-gaming-on-high-settings-with-the-powerhouse-nvidia-geforce-gtx-1080-ti/"><u>Unlock Ultra HD Gaming on High Settings With the Powerhouse NVIDIA GeForce GTX 1080 Ti</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/latform-showdown-vimeos-edge-vs-youtube-and-dailymotion-for-2024/"><u>[New] Platform Showdown Vimeo's Edge vs YouTube & Dailymotion for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-fallout-3-not-launching-2024-tips/"><u>[Solved] Fallout 3 Not Launching | 2024 Tips</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-younow-review-and-alternative/"><u>[Updated] Younow Review and Alternative</u></a></li>
+<li><a href="https://program-issues.techidaily.com/2024-ultimate-guide-boosting-your-valheim-game-performance-and-eliminating-lag/"><u>2024 Ultimate Guide: Boosting Your Valheim Game Performance & Eliminating Lag</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-vivo-y17s-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Vivo Y17s to Roku | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-motorola-g24-power-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Motorola G24 Power? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/enjoy-uninterrupted-gaming-addressed-and-fixed-total-war-saga-troy-pc-errors/"><u>Enjoy Uninterrupted Gaming: Addressed and Fixed Total War Saga - Troy PC Errors</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/exclusive-video-editing-software-just-for-vimeo-pros-for-2024/"><u>Exclusive Video Editing Software Just For Vimeo Pros for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-tips-for-mastering-roller-champions-crossplay-on-pc-in-202er4-comprehensive-strategies-unveiled/"><u>Expert Tips for Mastering Roller Champions CrossPlay on PC in 202Er4 - Comprehensive Strategies Unveiled</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722990311009-how-to-fix-football-manager-2amo-crashes-for-pc-gamers-solutions-explored/"><u>How to Fix Football Manager 2Amo Crashes for PC Gamers - Solutions Explored!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/prime-7-video-software-for-mac/"><u>Prime 7 Video Software for Mac</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-left-4-dead-2-fixes-game-crashing-issue/"><u>Resolved: Left 4 Dead 2 Fixes Game-Crashing Issue</u></a></li>
+<li><a href="https://games-able.techidaily.com/serious-gamers-choice-mod007b-hall-effect-board/"><u>Serious Gamer's Choice: Mod007B Hall Effect Board</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ltimate-list-of-15-youtube-openers-for-2024/"><u>The Ultimate List of 15 YouTube Openers for 2024</u></a></li>
 </ul></div>
 

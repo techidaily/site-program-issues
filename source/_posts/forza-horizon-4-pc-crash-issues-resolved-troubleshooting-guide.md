@@ -1,7 +1,7 @@
 ---
 title: "Forza Horizon 4 PC Crash Issues Resolved: Troubleshooting Guide"
-date: 2024-10-30T19:22:06.268Z
-updated: 2024-11-01T09:11:59.340Z
+date: 2024-11-01T03:58:03.045Z
+updated: 2024-11-06T19:28:38.099Z
 tags:
   - win11
   - win10
@@ -56,22 +56,29 @@ If you’re playing_Euro Truck Simulator 2 (ETS2)_ on your PC and it starts cras
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_15-04-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Right-click **Euro Truck Simulator 2** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_15-07-22.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
  This could take several minutes. Wait for the process to be complete. Steam will automatically fix corrupt files if it detects any.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-46-20-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Relaunch your game to see if this has resolved your issue.
 
@@ -97,6 +104,13 @@ Follow the instructions below to see how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-59-09.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Type **%public%\\Documents** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_15-52-48.jpg)
@@ -105,16 +119,16 @@ Follow the instructions below to see how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_15-54-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Restart your game to check if this worked for you.
 
 If your game is still unplayable, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -138,6 +152,13 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_15-38-36.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -148,10 +169,16 @@ If your game is still unplayable, move on to the next fix.
  If the crashing issue continues to occur, then go ahead with the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5:**Run the game as an administrator**
@@ -162,34 +189,13 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-35-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Click the **Compatibility tab** , then check the box next to **Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-35-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-35-29.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Right-click **Euro Truck Simulator 2** , then select **Properties** .
 
@@ -199,13 +205,6 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-40-30.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)**  Click **Apply** , then **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-40-37.jpg)
@@ -213,6 +212,13 @@ If your game is still unplayable, move on to the next fix.
 **7)** Relaunch your game.
 
  If the_ETS2_ crashing issue continues to occur, move on to the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Check for software conflicts
 
@@ -251,18 +257,18 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-56-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Right-click the resource-consuming process and select **End task** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-27_14-56-12-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Relaunch_ETS2_ to see if this has resolved your issue. If your game still crashes, try the next fix, below.
 
@@ -307,16 +313,17 @@ If your game is still unplayable, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-practices-for-youtube-video-brightness-and-contrast/"><u>[New] In 2024, Best Practices for YouTube Video Brightness and Contrast</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-9-key-approaches-to-free-webinar-archiving/"><u>[Updated] 2024 Approved 9 Key Approaches to Free Webinar Archiving</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-thriving-in-the-instagram-economy-a-guide-to-financially-sustaining-content-creation/"><u>[Updated] Thriving in the Instagram Economy A Guide to Financially Sustaining Content Creation</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-capture-your-macs-screen-a-step-by-step-walkthrough/"><u>2024 Approved Capture Your Mac's Screen A Step-by-Step Walkthrough</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-the-insider-features-of-zoom-software-for-windows-11/"><u>2024 Approved Navigating the Insider Features of Zoom Software for Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/battle-with-unresponsive-vrchat-solutions-for-loading-issues/"><u>Battle with Unresponsive VRChat - Solutions for Loading Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/elevating-your-gaming-experience-maximizing-fps-in-horizon-zero-dawn/"><u>Elevating Your Gaming Experience: Maximizing FPS in Horizon Zero Dawn</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723009480060-fix-your-troublesome-controller-swift-solutions-to-prevent-crashes/"><u>Fix Your Troublesome Controller: Swift Solutions to Prevent Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-latency-problems-in-obs-while-live-streamingrecording-solutions-applied/"><u>How to Overcome Latency Problems in OBS While Live-Streaming/Recording - Solutions Applied</u></a></li>
-<li><a href="https://program-issues.techidaily.com/magic-the-gathering-platform-troubleshoot-beating-the-black-screen-glitches-easily/"><u>Magic: The Gathering Platform TroubleShoot: Beating the Black Screen Glitches Easily</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unveil-your-channels-potential-with-30-top-tier-free-intros-for-2024/"><u>Unveil Your Channel's Potential with 30 Top-Tier Free Intros for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-strategic-monetization-for-game-streams/"><u>[New] In 2024, Strategic Monetization for Game Streams</u></a></li>
+<li><a href="https://fox-info.techidaily.com/comprehensive-guide-to-oculus-rift-setup-for-2024/"><u>Comprehensive Guide to Oculus Rift Setup for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquer-computer-glitches-the-definitive-guide-to-a-smooth-fifa-n-experience/"><u>Conquer Computer Glitches: The Definitive Guide to a Smooth FIFA N Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/cutting-edge-windows-gadgets-2024s-must-haves-list/"><u>Cutting-Edge Windows Gadgets - 2024'S Must-Haves List</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-advice-overcoming-heartstone-crashing-problem-on-desktop-computers/"><u>Expert Advice: Overcoming HeartStone Crashing Problem on Desktop Computers</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-get-the-brother-hl-l2340dw-printing-software-installer-on-your-windows-computer/"><u>How to Get the Brother HL-L2340DW Printing Software Installer on Your Windows Computer</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-top-10-tiktok-viral-videos-on-twitter/"><u>In 2024, Top 10 TikTok Viral Videos on Twitter</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-stability-resolving-fortnite-crashes-on-pc-systems-pro-advice/"><u>Mastering Stability: Resolving Fortnite Crashes on PC Systems - Pro Advice</u></a></li>
+<li><a href="https://facebook.techidaily.com/revamping-digital-persona-changing-your-name-in-the-virtual-world/"><u>Revamping Digital Persona: Changing Your Name in the Virtual World</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-correct-error-0xc19001e1-in-windows-11/"><u>Step-by-Step Guide to Correct 'Error 0Xc19001e1' In Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-why-isnt-my-alienware-command-center-responding/"><u>Troubleshooting Guide: Why Isn't My Alienware Command Center Responding?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-repairing-your-malfunctioning-samsung-soundbar/"><u>Ultimate Guide: Repairing Your Malfunctioning Samsung Soundbar</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Address and Solve Error Code 4128 on Call of Duty WWII Gameplay
-date: 2024-10-30T22:07:53.303Z
-updated: 2024-10-31T21:09:04.473Z
+date: 2024-11-04T22:38:23.042Z
+updated: 2024-11-06T17:33:26.291Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 4. [**Close background applications**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Repair corrupt system files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1 – Remove other operator skins
 
  As many players reported, the dev error 5573 is related to specific operator skins or actions you’re performing. If you’re using other skins or outfits on your operators, try**switching to the Base skin/outfit** and see how it works. This trick should apply to all the players on PC or console. But if it doesn’t help your case, move on to more fixes below.
@@ -45,13 +52,6 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/scan-and-repair-game-files-1.jpg)
 
  Wait for the process to complete. Then restart the game to check if the issue persists. If Yes, continue to the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -67,22 +67,29 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
  Reboot your computer for the changes to take effect. If the error code reoccurs, try the next solution.
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Close background applications
 
@@ -92,25 +99,18 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-8.jpg)
 2. Right-click the resource-demanding process and click**End task** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-2-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Don’t end any programs you’re not familiar with, as they may be critical to the functioning of your computer.
 
  Launch the game to see if you’re able to play it normally. If not, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Repair corrupt system files
 
@@ -123,17 +123,17 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now the computer’s performance and stability is improved. You can restart Vanguard again to see if the game works without trouble.
 
@@ -156,24 +156,22 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-crafting-visual-stories-in-depth-pc-editing-techniques-for-youtube/"><u>[Updated] 2024 Approved Crafting Visual Stories In-Depth PC Editing Techniques for YouTube</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/adding-flair-to-your-online-gatherings-an-in-depth-zoom-filter-guide-for-2024/"><u>Adding Flair to Your Online Gatherings An In-Depth Zoom Filter Guide for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/biomutant-pc-game-crash-fix-essential-hacks-to-ensure-uninterrupted-playtime-in-2e/"><u>Biomutant PC Game Crash Fix: Essential Hacks to Ensure Uninterrupted Playtime in 2E</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/epubor-ebook-creation-the-ultimate-digital-publishing-solution/"><u>Epubor eBook Creation: The Ultimate Digital Publishing Solution</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-advice-on-fixing-persistent-dota-2-software-errors/"><u>Expert Advice on Fixing Persistent Dota 2 Software Errors</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-insights-on-recuva-your-definitive-guide-to-the-optimal-file-deletion-rescue-tool/"><u>Expert Insights on Recuva: Your Definitive Guide to the Optimal File Deletion Rescue Tool</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-tips-for-restoring-your-broken-hp-visual-output-resolved/"><u>Expert Tips for Restoring Your Broken HP Visual Output [RESOLVED]</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-get-steam-remote-play-up-and-running-again-top-tips-and-fixes/"><u>How To Get Steam Remote Play Up and Running Again - Top Tips & Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-game-visual-glitches-on-warzone/"><u>How to Resolve Game Visual Glitches on Warzone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-restore-camera-functionality-on-discord-expert-advice/"><u>How to Restore Camera Functionality on Discord: Expert Advice</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-expert-analysis-top-10-sports-streaming-tools-for-soccer-enthusiasts/"><u>In 2024, Expert Analysis Top 10 Sports Streaming Tools for Soccer Enthusiasts</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-90-lite-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor 90 Lite | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-top-10-free-animated-logo-creators-for-stunning-brand-identities-for-2024/"><u>New Top 10 Free Animated Logo Creators for Stunning Brand Identities for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-video-editing-vs-visual-effects-premiere-pro-and-after-effects-compared-for-2024/"><u>New Video Editing vs Visual Effects Premiere Pro and After Effects Compared for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/no-more-frustration-quick-fixes-for-windows-11-woes/"><u>No More Frustration! Quick Fixes for Windows 11 Woes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-dolby-atmos-issues-a-guide-for-windows-11-and-windows-10-users/"><u>Solving Dolby Atmos Issues: A Guide for Windows 11 & Windows 10 Users</u></a></li>
-<li><a href="https://program-issues.techidaily.com/tormented-souls-game-crashes-fix-and-optimize-performance-on-your-pc/"><u>Tormented Souls Game Crashes - Fix & Optimize Performance on Your PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-resolve-the-tfla0002-end-of-term-inquiry/"><u>Troubleshooting Guide: Resolve the TFLA0002 End-of-Term Inquiry</u></a></li>
-<li><a href="https://facebook.techidaily.com/your-voice-matters-how-will-facebook-revamp-its-news-experience/"><u>Your Voice Matters: How Will Facebook Revamp Its News Experience?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-understanding-igtv-from-basics-to-boosting-your-presence/"><u>[Updated] 2024 Approved Understanding IGTV From Basics, to Boosting Your Presence</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-unveiling-the-secret-how-to-disable-youtube-snippet-playback/"><u>[Updated] 2024 Approved Unveiling the Secret How to Disable YouTube Snippet Playback</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-exclusive-access-to-premium-templates-and-ideas-with-zero-cost-for-2024/"><u>[Updated] Exclusive Access to Premium Templates & Ideas with Zero Cost for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-capturing-the-moment-expert-use-of-aiseesofts-recording-features/"><u>[Updated] In 2024, Capturing the Moment Expert Use of Aiseesoft's Recording Features</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-spotlight-on-superiority-top-ten-camera-lens-picks/"><u>2024 Approved Spotlight on Superiority Top Ten Camera Lens Picks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/complete-solution-resolving-star-wars-jedi-fallen-order-pc-launch-issues/"><u>Complete Solution: Resolving Star Wars Jedi: Fallen Order PC Launch Issues</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixes-and-tips-how-to-stop-snowrunner-from-continuously-crashing-on-your-pc/"><u>Fixes & Tips: How To Stop SnowRunner From Continuously Crashing On Your PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/integrating-facebook-linkedin-and-youtube-a-guide/"><u>Integrating Facebook, LinkedIn & YouTube: A Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722989111203-mlb-the-show-21-online-issue-resolved-get-back-to-winning-now/"><u>MLB The Show 21 Online Issue Resolved - Get Back to Winning Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-device-drivers-missing-challenges-in-windows-7-setup/"><u>Overcoming 'Device Drivers Missing' Challenges in Windows 7 Setup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-for-when-your-discord-overlay-stops-functioning/"><u>Quick Solutions for When Your Discord Overlay Stops Functioning</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-constant-crashing-issue-in-microsoft-outlook/"><u>Resolving the Constant Crashing Issue in Microsoft Outlook</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-guide-to-fixing-a-nonfunctional-keyboard-for-your-pathfinder-game/"><u>Step-by-Step Guide to Fixing a Nonfunctional Keyboard for Your Pathfinder Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/success-story-re-establishing-access-to-your-steam-friend-list/"><u>Success Story: Re-Establishing Access to Your Steam Friend List</u></a></li>
+<li><a href="https://program-issues.techidaily.com/the-ultimate-fix-guide-navigating-and-correcting-call-of-dutys-wwz-dev-error-6634-updated/"><u>The Ultimate Fix Guide: Navigating and Correcting Call of Duty's WWZ Dev Error 6634 - Updated</u></a></li>
+<li><a href="https://fox-making.techidaily.com/uberwindung-langsamer-datentransfers-auf-windows-nativ-optimierte-methoden-zur-beschleunigung/"><u>Überwindung Langsamer Datentransfers Auf Windows Nativ | Optimierte Methoden Zur Beschleunigung</u></a></li>
 </ul></div>
 

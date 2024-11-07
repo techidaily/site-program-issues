@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Persistent Shutdowns: Age of Empires 4 for Windows"
-date: 2024-08-23T17:36:55.560Z
-updated: 2024-08-24T17:36:55.560Z
+date: 2024-11-05T16:51:33.040Z
+updated: 2024-11-06T18:48:53.920Z
 tags:
   - win11
   - win10
@@ -50,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/3ae6340df4d4c49e0276be718794a66a7c17d49d4
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## Fix 2: Close CPU / memory-hogging applications
 
  Another common cause of Blender crashes is insufficient memory. If you’re running lots of applications at the same time in the background, your computer may run out of RAM and Blender may crash.
@@ -64,15 +61,16 @@ thumbnail: https://thmb.techidaily.com/3ae6340df4d4c49e0276be718794a66a7c17d49d4
 ![Close CPU / memory hogging applications](https://images.drivereasy.com/wp-content/uploads/2021/05/Close-CPU-memory-hogging-applications.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If Blender works well after you close those CPU / memory-hogging applications, congratulations!
 
  To prevent Blender from crashing due to insufficient memory in the future, you may need to consider upgrading the memory (RAM) on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest Windows update
 
  Microsoft constantly releases Windows updates to fix bugs and improve performance in Windows OS. If your PC is running on Windows 10 and you haven’t installed Windows update for a long time, try performing a Windows update and see if Blender crashes on the latest Windows OS.
@@ -82,25 +80,37 @@ To install the latest Windows update:
 1. On your keyboard, press **the Windows logo key** and the **I key** at the same time to open **Windows Settings** . Then click **Update & Security** .  
 ![Windows 10 settings Update & Security](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap635.png)
 2. Click **Check for updates** to download and install the updates available for your PC.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![Check for updates Windows 10](https://images.drivereasy.com/wp-content/uploads/2021/05/Check-for-updates-Windows-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Restart your computer after you installed the latest Windows updates. Launch Blender and see if it crashes.
 
 If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Update / Reinstall Blender
 
  If none of the fixes works, try updating / reinstalling Blender. Normally, after updating Blender to the latest version, or reinstalling it, you’ll fix the crashing issue.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  Normally, keeping Blender, Windows OS and drivers up to date would get rid of most program crashing issues. If these common fixes in this article didn’t help you fix the Blender crashing issue, you can also try investigating Windows crash logs to analyze and troubleshoot the causes of the crash. For more details, see the article: [How to view crash logs in Windows 10](https://www.supereasy.com/how-to-view-crash-logs-in-windows-10/) .
@@ -118,8 +128,6 @@ If this issue persists, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +135,19 @@ If this issue persists, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-premier-platforms-identifying-the-finest-ps2-emulation-tools-for-android/"><u>[New] In 2024, Premier Platforms Identifying the Finest PS2 Emulation Tools for Android</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleashing-the-power-of-luts-in-adobe-premiere-video-editing/"><u>[New] Unleashing the Power of LUTs in Adobe Premiere Video Editing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-masterclass-in-sharing-youtube-videos-to-facebook-links-for-2024/"><u>[Updated] Masterclass in Sharing YouTube Videos to Facebook Links for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-google-chrome-continuously-crashing-simple-solutions/"><u>How to Fix Google Chrome Continuously Crashing: Simple Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-successfully-troubleshoot-the-window-setup-stalling-problem/"><u>How To Successfully Troubleshoot the Window Setup Stalling Problem?</u></a></li>
+<li><a href="https://media-tips.techidaily.com/mastering-multi-format-music-conversions-tips-for-mp3-aac-and-wma-compatibility/"><u>Mastering Multi-Format Music Conversions: Tips for MP3, AAC & WMA Compatibility</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/optimizing-flight-a-list-of-essential-drone-accessories-for-2024/"><u>Optimizing Flight A List of Essential Drone Accessories for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-your-kodi-connectivity-woes-finding-the-missing-directory-data/"><u>Resolve Your Kodi Connectivity Woes: Finding the Missing Directory Data</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-performance-issues-optimizing-black-desert-online-to-stop-pc-crashes/"><u>Resolving Performance Issues: Optimizing Black Desert Online to Stop PC Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-critical-game-crashes-gobiv-fix-guide-for-ue4-based-borderlands-3-mods/"><u>Solving Critical Game Crashes: GOBIV Fix Guide for UE4-Based Borderlands 3 Mods</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-step-by-step-guide-to-stop-fifa-21-from-crashing-on-windows/"><u>Ultimate Step-by-Step Guide to Stop FIFA 21 From Crashing on Windows</u></a></li>
+</ul></div>
 

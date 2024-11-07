@@ -1,7 +1,7 @@
 ---
 title: "Solution Guide: Why Google Chrome Fails to Open and How to Repair It"
-date: 2024-08-23T17:34:38.335Z
-updated: 2024-08-24T17:34:38.335Z
+date: 2024-11-05T23:27:21.941Z
+updated: 2024-11-06T22:59:55.906Z
 tags:
   - win11
   - win10
@@ -42,8 +42,23 @@ thumbnail: https://thmb.techidaily.com/e514549e53689704682ed6ce2de6e46bd9d8c6aa0
 1. Open Steam and click**Library** . Then right-click **your game (e.g. Starfield)** and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/skywalker-saga-crash-1.jpg)
 2. Select **Installed Files** in the left tab, and click **Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/how-to-verify-the-integrity-of-game-files-on-Starfield.png)
 3. Steam will verify the game’s files – this process may take several minutes
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Wait for the process to complete. Once done, exit Steam and open it again.
 
@@ -61,6 +76,14 @@ thumbnail: https://thmb.techidaily.com/e514549e53689704682ed6ce2de6e46bd9d8c6aa0
 1. Run Epic Games Launcher. Select **Library**  in the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/2022-06-09_17-00-18.jpg)
 2. Click on the **three dots (…)** under the game to invoke a menu. Then click **Verify** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/skywalker-saga-crash-5.jpg)
 
 #### If you play on Xbox
@@ -74,8 +97,12 @@ thumbnail: https://thmb.techidaily.com/e514549e53689704682ed6ce2de6e46bd9d8c6aa0
  Exit the app and relaunch it. However, if the programs find no corrupted files or this fix doesn’t work for you, continue to try the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2 — Remove broken files
 
  Suggested by Reddit users, this fix is helpful for some players. Give it a shot to see if it also does the magic for you.
@@ -98,23 +125,20 @@ thumbnail: https://thmb.techidaily.com/e514549e53689704682ed6ce2de6e46bd9d8c6aa0
 3. Click the**Betas** tab and you can select previous versions of the game to install.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/betas.png)
 4. Once the previous version of the game is installed, restore the game saves by copying them back into the game’s save folder.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 
  Nevertheless, corrupted or missing system files lead to bad gaming experiences and unstable computer usage as well. If you want to do a thorough check and repair, keep reading on.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixes for corrupted system files
 
  Factors resulting in corrupted system files involves power outage, system crash, hard disk problem and others. Check the following fixes to grapple with this issue.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1 — Command line repair
 
 [System File Checker](https://en.wikipedia.org/wiki/System%5FFile%5FChecker) (SFC) is a Windows built-in repair tool which scans and repair system files easily.
@@ -122,19 +146,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Type**cmd** on the windows search bar and click**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/2023-10-27_11-27-54.png)
 2. Copy and paste`**sfc /scannow**` and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/2023-10-25_11-11-39.png)
 3. This will begin the scan and wait for it to complete the verification and repair.
 4. Alternatively, if you can want to view details of the SFC process, copy and paste the following command and press Enter. You will find a file named**sfcdetails.txt** on your desktop.  
 ` **findstr /c:"[SR]" %windir%\Logs\CBS\CBS.log >"%userprofile%\Desktop\sfcdetails.txt"** `  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/2023-10-27_11-39-40.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 2 — Automatic system repair
 
  You may want to conducting a thorough and quick scan to check system files, malware threats, and disk space.
@@ -145,10 +170,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Open Fortect and run a free scan. Wait for the program to detect and diagnose issues for you.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 3. At the end of the scan, a summary of the issues detected will show up. Click**Star Repair** to fix them (and you’ll need to pay for the full version which comes with a**60-day money-back** guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After the repairs, restart your computer and the game to check for improvement.
 
@@ -159,16 +188,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. Right-click on the file or folder and click**Restore previous versions** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/restore-win-11-version.jpg)
 2. Select a version and click**Restore** .  
-![](https://images.drivereasy.com/wp-content/uploads/2023/10/win10-pv-restore.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/10/win10-pv-restore.png)
+
 ---
 
  These are all methods to fix corrupted game and system files on PC. If you have any problems and suggestions, please feel free to share them with us.
@@ -182,8 +211,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +218,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-crystal-carousel-at-the-olympics/"><u>[New] 2024 Approved Crystal Carousel at the Olympics</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-simplify-video-annotation-adding-titles-and-captions-via-photos-win-11-for-2024/"><u>[New] Simplify Video Annotation Adding Titles & Captions via Photos Win 11 for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-a-guide-to-recording-streams-discovering-the-best-7-approaches/"><u>[Updated] A Guide to Recording Streams Discovering the Best 7 Approaches</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-ultimate-overview-of-du-recorders-technical-specifications-for-2024/"><u>[Updated] Ultimate Overview of Du Recorder’s Technical Specifications for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieve-seamless-multilingual-input-adjusting-keyboard-layout-in-windows-11/"><u>Achieve Seamless Multilingual Input: Adjusting Keyboard Layout in Windows 11</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-latency-top-tips-to-fix-counter-strike-2-lag-and-optimize-ping-on-windows-systems/"><u>Eliminate Latency: Top Tips to Fix Counter-Strike 2 Lag and Optimize Ping on Windows Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-issue-why-is-davinci-resolve-not-launching-on-your-windows-computer/"><u>Fixing the Issue: Why Is DaVinci Resolve Not Launching on Your Windows Computer?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-redmi-12-5g-with-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Redmi 12 5G with Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/now-running-smoothly-solve-your-total-war-saga-troy-pc-glitches-with-latest-update/"><u>Now Running Smoothly: Solve Your Total War Saga: Troy PC Glitches with Latest Update</u></a></li>
+<li><a href="https://fox-access.techidaily.com/rhythmic-revelations-songs-that-will-echo-yes-for-2024/"><u>Rhythmic Revelations Songs That Will Echo 'Yes' For 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/snapchat-camera-woes-solved-restoring-your-devices-camera-functionality/"><u>Snapchat Camera Woes Solved: Restoring Your Device's Camera Functionality</u></a></li>
+<li><a href="https://program-issues.techidaily.com/starfield-high-resource-utilization-fixes-and-optimizations-a-guide-for-better-gaming-performance/"><u>Starfield High Resource Utilization Fixes and Optimizations: A Guide for Better Gaming Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-pc-fps-crashes-resolve-your-modern-warfare-3-problems-easily/"><u>Stop PC FPS Crashes - Resolve Your Modern Warfare 3 Problems Easily</u></a></li>
+<li><a href="https://program-issues.techidaily.com/street-fighter-the-sixth-eliminating-pc-malfunctions-and-stability-issues-revamped/"><u>Street Fighter The Sixth: Eliminating PC Malfunctions & Stability Issues (Revamped)</u></a></li>
+<li><a href="https://facebook.techidaily.com/taking-control-of-your-online-presence-essential-steps-before-unlinking-from-facebook/"><u>Taking Control of Your Online Presence - Essential Steps Before Unlinking From Facebook</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-professionals-blueprint-for-investing-in-high-definition-viewing/"><u>The Professional's Blueprint for Investing in High-Definition Viewing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/training-capacity/"><u>Training Capacity</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-your-windows-11s-bluetooth-driver-issues-easily-now/"><u>Troubleshooting Your Windows 11'S Bluetooth Driver Issues Easily Now</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-stop-sony-vegas-pro-from-sudden-shutdowns-and-glitches/"><u>Ultimate Guide to Stop Sony Vegas Pro From Sudden Shutdowns and Glitches</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Halo Infinite PC Game Crashes: Complete Guide"
-date: 2024-10-30T19:41:02.391Z
-updated: 2024-10-31T23:13:15.663Z
+date: 2024-11-02T19:12:03.441Z
+updated: 2024-11-06T18:55:27.078Z
 tags:
   - win11
   - win10
@@ -63,16 +63,16 @@ We understand how frustrating it can be to run into the freezing issue when play
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy.png)
 3. Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After updating drivers, restart your PC and check if your problem has been resolved.
 
@@ -91,19 +91,6 @@ If updating drivers doesn’t help, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-temp-files-new-1.png)
 3. Press the**Ctrl + A keys** simultaneously to select all files. Then right-click and select**Delete** .  
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
 4. If you receive the following prompt, simply check the box next to**Do this for all current items** and click**Skip** .  
 
@@ -112,7 +99,21 @@ If updating drivers doesn’t help, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now launch Halo Infinite. If your problem persists, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Disable background applications
 
@@ -124,38 +125,11 @@ If updating drivers doesn’t help, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/Task-Manager-Memory.png)
 3. Locate the applications that are eating up a lot of memory. If you don’t need them while playing Halo Infinite, right-click each of them and select**End task** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-background-applications.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you use Razer Synapse, make sure you turn it off while playing Halo Infinite. Some players found that it affects your gameplay. It could be possible that Razer Synapse is in conflict with your game.
 
  If turning off background applications doesn’t do the trick, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Verify integrity of game files
 
@@ -169,22 +143,42 @@ To verify the integrity of your game files, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-1.jpg)
 3. Select the**LOCAL FILES** tab. Then click**Verify integrity of game files…** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-integrity-of-game-fiiles.png)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now Steam will verify your game’s files. This process may take several minutes. Once the process is completed, close the Window then launch your game. If it still keeps freezing, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Uninstall Multiplayer High-Res Textures
 
@@ -196,23 +190,29 @@ To verify the integrity of your game files, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-1.jpg)
 3. Select the**DLC** tab. Then uncheck**Multiplayer High-Res Textures** .  
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/disable-multiplayer-high-res-textures.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If this doesn’t help, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Disable in-game overlay
 
@@ -261,22 +261,22 @@ When it’s completed, launch Halo Infinite and test the gameplay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-editors-insight-to-seamless-lut-integration-in-premiere/"><u>[New] The Editor's Insight to Seamless LUT Integration in Premiere</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-the-guide-to-growing-groups-of-great-guests-subscribers-on-youtube/"><u>[New] The Guide to Growing Groups of Great Guests (Subscribers) on Youtube</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-recirculate-artists-bundle/"><u>[Updated] Recirculate Artist's Bundle</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/anonymous-artifacts-auction-2023-the-quest-for-digital-secrecy/"><u>Anonymous Artifacts Auction-2023 The Quest for Digital Secrecy</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-magic-v2-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic V2 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-the-crashing-process-error-unreal-process-has-crashed-in-outriders-ue4/"><u>How to Fix the Crashing Process Error ('Unreal Process Has Crashed') In Outriders (UE4)</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-countdown-chronicles-the-best-mobile-clocks-for-weddings/"><u>In 2024, Countdown Chronicles The Best Mobile Clocks For Weddings</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-effortless-idevice-photo-to-pc-migration/"><u>In 2024, Effortless iDevice Photo-to-PC Migration</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimize-your-minecraft-experience-expert-advice-for-resolving-lag-and-hiccups/"><u>Optimize Your Minecraft Experience: Expert Advice for Resolving Lag and Hiccups</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-sea-of-thieves-not-loading-a-step-by-step-guide/"><u>Solving Sea of Thieves Not Loading - A Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/stop-fifa-19-from-disappearing-expert-tips-to-prevent-game-crashes-on-personal-computers/"><u>Stop FIFA 19 From Disappearing: Expert Tips to Prevent Game Crashes on Personal Computers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/top-7-premier-4k-video-capture-tools-for-your-computer/"><u>Top 7 Premier 4K Video Capture Tools for Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723007958056-trouble-with-apex-legends-solve-common-engine-issues-now/"><u>Trouble with Apex Legends? Solve Common Engine Issues Now</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-and-repair-windows-issues-with-logitechs-configurator-software/"><u>Troubleshoot & Repair Windows Issues with Logitech's Configurator Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-strategies-for-smoother-loads-in-cod-warzone-eradicating-lags-and-upping-fps/"><u>Ultimate Strategies For Smoother Loads in COD: Warzone - Eradicating Lags and Upping Fps</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/where-to-find-the-best-budgeted-gopro-purchases/"><u>Where to Find the Best Budgeted GoPro Purchases</u></a></li>
-<li><a href="https://program-issues.techidaily.com/why-is-diablo-immortal-still-unavailable-for-desktops/"><u>Why Is Diablo Immortal Still Unavailable for Desktops?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-elite-online-archives-for-graffiti-fonts/"><u>[New] In 2024, Elite Online Archives for Graffiti Fonts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-pro-moviemakers-manual-for-pc-mac-and-mobile-systems/"><u>[Updated] In 2024, Pro Moviemaker's Manual for PC, Mac & Mobile Systems</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-cutting-edge-of-content-tips-for-the-trendy-tiktoker-for-2024/"><u>[Updated] The Cutting Edge of Content Tips for the Trendy TikToker for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/vering-your-customized-youtube-playlist-for-2024/"><u>Discovering Your Customized YouTube Playlist for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-preventing-medium-from-crashing-on-personal-computers/"><u>Effective Fixes for Preventing Medium From Crashing on Personal Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminating-constant-freezes-in-nox-game-player-on-your-computer/"><u>Eliminating Constant Freezes in Nox Game Player on Your Computer</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-techkey-bluetooth-support-software-for-windows-10s-and-older-versions/"><u>Get Techkey Bluetooth Support Software for Windows 10S and Older Versions</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pathfinder-wrath-of-the-righteous-not-starting-heres-how-to-fix-it-quickly/"><u>Pathfinder: Wrath of the Righteous Not Starting? Here's How to Fix It Quickly</u></a></li>
+<li><a href="https://driver-download.techidaily.com/provide-reasoning-as-to-why-each-decluttering-tip-corresponds-with-its-assigned-genre-possibly-including-lyrical-themes-or-tempo/"><u>Provide Reasoning as to Why Each Decluttering Tip Corresponds with Its Assigned Genre, Possibly Including Lyrical Themes or Tempo.</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/quick-and-easy-guide-enhance-youtube-shorts-with-new-images-for-2024/"><u>Quick & Easy Guide Enhance YouTube Shorts with New Images for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-issue-iphone-wont-connect-with-itunes-on-windows-10-computers/"><u>Resolving the Issue: IPhone Won't Connect with iTunes on Windows 10 Computers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-lol-black-screen-issue-top-fixes-and-guides/"><u>Resolving the LoL Black Screen Issue: Top Fixes & Guides</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-gta-5-crashes-in-their-tracks-top-troubleshooting-tips/"><u>Stop GTA 5 Crashes in Their Tracks – Top Troubleshooting Tips!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-pinnacle-of-voice-recording-a-comprehensive-tome/"><u>The Pinnacle of Voice Recording A Comprehensive Tome</u></a></li>
+<li><a href="https://program-issues.techidaily.com/understanding-and-solving-gtfo-application-failures/"><u>Understanding and Solving GTFO Application Failures</u></a></li>
+<li><a href="https://program-issues.techidaily.com/winning-against-dota-2-lag-pro-level-hacks-and-tips-for-the-current-year/"><u>Winning Against Dota 2 Lag: Pro-Level Hacks and Tips for the Current Year</u></a></li>
 </ul></div>
 

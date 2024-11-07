@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Windows System Crashes for XCOM 2 Players
-date: 2024-08-23T17:38:23.020Z
-updated: 2024-08-24T17:38:23.020Z
+date: 2024-11-03T16:12:26.864Z
+updated: 2024-11-06T22:02:50.627Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ It’s frustrating when you experience the launching problem when playing Age of
 **2)** Click the**Compatibility tab** , then check the box next to**Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-25-23-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click**OK** .
 
@@ -77,22 +84,23 @@ If AoE still won’t launch, move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-40-48-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support and a 30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)
 
  Or click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_11-14-00-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 **4)** Restart your game to see if updating your graphics driver fixed the issue for you. If no, then go ahead with the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Verify the integrity of your game files
 
  Corrupt or missing game files can also cause your game to fail. If you’re playing the game on Steam, you can verify the integrity of your game files. Follow the instructions below:
@@ -104,8 +112,12 @@ If AoE still won’t launch, move on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-42-26.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)** Right-click **Age of Empires II** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-46-15.jpg)
@@ -117,15 +129,16 @@ If AoE still won’t launch, move on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-46-50.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **5)** Relaunch _AoE2_ to test your issue.
 
  If your game still won’t run correctly, then go ahead with the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Reinstall your game
 
  This issue might happen if your game isn’t properly installed on your PC. Try reinstalling it to see if that’s the issue for you. Follow the instructions below:
@@ -145,9 +158,6 @@ If AoE still won’t launch, move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-14-21.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Restart **your computer** .
 
 **5)** Reinstall the game on your PC, then restart the game.
@@ -173,13 +183,24 @@ If the issue continues to occur, go to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/01-18_10-54-08-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **5)** Download Age of empires from Microsoft Store, and reinstall it.
 
 **6)** Try launching AoE 2 to see if this helped.
 
 If your game still won’t load, then move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Check for Windows updates
 
@@ -190,11 +211,22 @@ If your game still won’t load, then move on to the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-20.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-44.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)**  Restart your computer and your game.
 
@@ -212,8 +244,6 @@ If your game still won’t load, then move on to the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -221,4 +251,26 @@ If your game still won’t load, then move on to the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-efficient-strategies-to-document-your-google-meeting-sessions/"><u>[New] 2024 Approved Efficient Strategies to Document Your Google Meeting Sessions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-pinnacle-8-android-video-chat-solutions-for-big-teams/"><u>[New] 2024 Approved Pinnacle 8 Android Video Chat Solutions for Big Teams</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-navigating-influencer-growth-on-instagram-top-5-steps-with-real-success/"><u>[New] In 2024, Navigating Influencer Growth on Instagram Top 5 Steps with Real Success</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/aximize-viewership-with-innovative-youtube-thumbnail-ideas/"><u>[New] Maximize Viewership with Innovative YouTube Thumbnail Ideas</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/yncopated-synths-selecting-top-quality-dj-templates-online-for-2024/"><u>[New] Syncopated Synths Selecting Top Quality DJ Templates Online for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-fullscreen-partnership-how-to-choose-an-mcn/"><u>[Updated] Fullscreen Partnership How to Choose An MCN</u></a></li>
+<li><a href="https://program-issues.techidaily.com/6-quick-ways-to-fix-roblox-crashing-on-pc-2024/"><u>6 Quick Ways to Fix Roblox Crashing on PC - 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dead-by-daylight-error-code-8014-explained-steps-to-get-back-in-the-game/"><u>Dead By Daylight Error Code 8014 Explained: Steps to Get Back in the Game</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elevating-windows-10-photos-incorinaste-aesthetics-and-soundscape/"><u>Elevating Windows 10 Photos Incorinaste Aesthetics & Soundscape</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-darkness-restore-light-fixing-the-pc-screen-blackout-in-rainbow-six-siege-gameplay/"><u>Eliminate Darkness, Restore Light: Fixing the PC Screen Blackout in Rainbow Six Siege Gameplay</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-y100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-the-art-of-fixing-obs-studio-stability-issues-in-windows-111e-whats-new/"><u>Master the Art of Fixing OBS Studio Stability Issues in Windows 11/1E - What's New ?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/new-world-update-fixed-issues-while-battling-persistent-freezing-problems/"><u>New World Update: Fixed Issues While Battling Persistent Freezing Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/play-days-gone-on-pc-enjoy-the-action-packed-adventure/"><u>Play Days Gone on PC: Enjoy the Action-Packed Adventure!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-your-amd-radeon-driver-problems-software-wont-launch/"><u>Resolve Your AMD Radeon Driver Problems - Software Won't Launch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-war-thunder-from-crashing-expert-hacks-and-advice-players/"><u>Stop War Thunder From Crashing - Expert Hacks and Advice Players</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/transform-your-media-discover-the-best-of-digiartys-dvd-and-video-converter-solutions/"><u>Transform Your Media: Discover the Best of Digiarty's DVD & Video Converter Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-success-how-to-enjoy-a-seamless-hades-gaming-experience-on-pc/"><u>Troubleshooting Success: How to Enjoy a Seamless Hades Gaming Experience on PC</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-rotate-your-videos-with-ease-10-top-online-tools/"><u>Updated 2024 Approved Rotate Your Videos with Ease 10 Top Online Tools</u></a></li>
+</ul></div>
 

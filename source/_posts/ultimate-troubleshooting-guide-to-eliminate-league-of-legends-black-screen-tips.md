@@ -1,7 +1,7 @@
 ---
 title: Ultimate Troubleshooting Guide to Eliminate League of Legends' Black Screen - Tips
-date: 2024-10-26T18:58:49.807Z
-updated: 2024-11-01T09:01:48.275Z
+date: 2024-11-02T03:52:13.113Z
+updated: 2024-11-06T18:19:04.732Z
 tags:
   - win11
   - win10
@@ -50,15 +50,22 @@ thumbnail: https://thmb.techidaily.com/caa6cead2c370efcf0282829aeb71cf5fae19a07f
 3. Select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-admin.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Check if you can get past the checking for updates screen.
 
 If the issue remains, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Scan and repair your game files
@@ -73,10 +80,10 @@ If the issue remains, try the next fix.
 3. Select the **Local files** tab then click the **Verify integrity of game files…** button.![](https://www.drivereasy.com/wp-content/uploads/2021/09/Microsoft-Flight-Simulator-Verify-integrity-of-game-files.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Steam will scan the installation and download missing files or remove outdated or corrupted files. This process may take several minutes.
@@ -90,14 +97,27 @@ If the issue remains, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/mfs-app-settings.jpg)
 3. On the page that opens, select**Repair** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/repair-mfs.jpg)
 4. Windows will begin to scan and repair your game files.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. After the process is completed, relaunch the game and test if you can get past the checking for updates screen.
@@ -118,6 +138,13 @@ If this method doesn’t work for you, go ahead with the next fix.
 
  If you still get stuck on the checking for updates screen, check out the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Update your network driver
 
  If you’re having trouble loading Microsoft Flight Simulator, you may encounter a connectivity issue. The connection error could be caused by a faulty or outdated network driver. To fix the issue, you need to make sure you’re using the latest network driver.
@@ -136,13 +163,6 @@ If this method doesn’t work for you, go ahead with the next fix.
  Once you’ve updated your network driver, restart your PC and Microsoft Flight Simulator to see if you can get past the checking for updates screen.
 
  If updating your network driver doesn’t do the trick, continue to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Move the community folder
 
@@ -179,28 +199,8 @@ on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 3. In the left panel, select**Windows Security** , then click**Virus & threat protection** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/virus-threat-protection.jpg)
 4. Under Virus & threat protection settings, select**Manage settings** .  
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/manage-settings.jpg)
 5. Under Exclusions, select**Add or remove exclusions** .  
@@ -219,27 +219,20 @@ on Windows 11:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Virus-and-threat-protection.jpg)
 4. Under**Virus & threat protection settings** , click**Manage settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-virus-and-threat-protection-settings-manage-settings.jpg)
 5. Under**Exclusions** , click**Add or remove exclusions** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-add-or-remove-exclusions.jpg)
 6. Click**Add an exclusion** , and then select your game’s installation folder to exclude your game from Microsoft Defender Antivirus scans.  
 
-![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Add-an-exclusion.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Add-an-exclusion.jpg)
 
 #### Other antivirus programs
 
@@ -259,6 +252,19 @@ on Windows 11:
  Check if the game loads normally after you add it as an exception to your security software.
 
  If you still can’t get past the checking for updates screen, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Use a VPN
 
@@ -328,19 +334,22 @@ If this method doesn’t solve your problem, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-first-choice-top-15-videography-power-tools/"><u>[New] In 2024, First Choice Top 15 Videography Power Tools</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-mi-drone-reviewed-capturing-landscapes-in-full-resolution/"><u>[Updated] MI Drone Reviewed Capturing Landscapes in Full Resolution</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-superior-frameworks-for-zooid-creation/"><u>2024 Approved Superior Frameworks for Zooid Creation</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-tips-diagnosing-and-repairing-non-startup-steam-games-on-windows-11-systems/"><u>Expert Tips: Diagnosing & Repairing Non-Startup Steam Games on Windows 11 Systems</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-oppo-reno-11-pro-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Oppo Reno 11 Pro 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/navigating-the-eternal-return-tactics-to-sustain-black-survival-successfully/"><u>Navigating the Eternal Return: Tactics to Sustain Black Survival Successfully</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overwatch-graphic-glitch-resolved-drivers-updated/"><u>Overwatch Graphic Glitch Resolved: Drivers Updated</u></a></li>
-<li><a href="https://media-tips.techidaily.com/quick-and-easy-free-methods-to-transform-3gp-video-files-into-avi-format-at-lightning-speeds/"><u>Quick & Easy: Free Methods to Transform 3GP Video Files Into AVI Format at Lightning Speeds</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solutions-to-prevent-blender-from-collapsing-during-use-on-desktops/"><u>Step-by-Step Solutions to Prevent Blender From Collapsing During Use on Desktops</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-stop-call-of-duty-black-ops-cold-war-from-crashing-your-pc-in-202n/"><u>Troubleshooting Guide - Stop Call of Duty: Black Ops Cold War From Crashing Your PC in 202N</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-vivo-y78plus-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Vivo Y78+ Screen | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-the-postponement-of-alan-wake-2-release/"><u>Troubleshooting the Postponement of Alan Wake 2 Release</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-hack-list-resolving-finals-wont-launch-issues-before-going-live-in-202n4/"><u>Ultimate Hack List: Resolving 'Finals Won't Launch' Issues Before Going Live in 202N4</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/winning-against-battlenet-lag-download-speed-solutions-for-the-current-gaming-era/"><u>Winning Against Battle.net Lag: Download Speed Solutions for the Current Gaming Era</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/reen-walls-in-grey-buildings-a-step-towards-eco-cities-for-2024/"><u>[New] Green Walls in Grey Buildings A Step Towards Eco-Cities for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-painters-touch-mastering-color-artistry/"><u>[New] The Painter's Touch Mastering Color Artistry</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-premier-mp4-uploader-and-downloader-for-fb/"><u>[Updated] In 2024, Premier MP4 Uploader & Downloader for FB</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagrams-secret-weapons-for-follower-increase/"><u>[Updated] Instagram's Secret Weapons for Follower Increase</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dark-souls-3-resolved-problems-with-game-freezing-and-crashes/"><u>Dark Souls 3: Resolved Problems with Game Freezing & Crashes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-a-broken-obs-microphone-discover-the-top-solutions-of-2024/"><u>Effective Fixes for a Broken OBS Microphone - Discover the Top Solutions of 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-the-persistent-crashing-of-halo-3-on-desktop-systems/"><u>Effective Fixes for the Persistent Crashing of Halo 3 on Desktop Systems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ensuring-a-seamless-launch-addressing-common-setbacks-in-gta-5/"><u>Ensuring a Seamless Launch: Addressing Common Setbacks in GTA 5</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-realme-narzo-60-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-repair-the-star-wars-battlefront-ii-error-327-a-comprehensive-guide/"><u>How to Repair the Star Wars Battlefront II Error 327 - A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/immediate-remedies-for-astro-a50-speaker-issues-get-sounds-back-asap/"><u>Immediate Remedies for Astro A50 Speaker Issues - Get Sounds Back ASAP!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-the-issue-fixing-apex-legends-error-23/"><u>Resolving the Issue: Fixing 'Apex Legends' Error 23</u></a></li>
+<li><a href="https://program-issues.techidaily.com/revolutionary-hacks-to-optimize-your-minecraft-experience-on-pc/"><u>Revolutionary Hacks to Optimize Your Minecraft Experience on PC</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-selection-elite-iphone-1212-pro-cases-reviewed-and-rated-gizmodo/"><u>The Ultimate Selection: Elite iPhone 12/12 Pro Cases Reviewed and Rated | Gizmodo</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-video-lag-in-avatar-frontiers-of-pandora-a-comprehensive-guide/"><u>Troubleshooting Video Lag in Avatar: Frontiers of Pandora – A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Defeating Lag and Glitches: A Player's Manual for Fixing FIFA 19 PC Stability Problems"
-date: 2024-10-31T05:51:54.769Z
-updated: 2024-11-01T08:47:36.054Z
+date: 2024-11-05T18:48:58.258Z
+updated: 2024-11-07T02:09:05.951Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 * [Fix 8: Disable fullscreen optimizations](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 9: Try Phasmophobia beta version](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your computer
 
  If you haven’t done this yet, give it a shot. A simple restart will reset your software and desktop environment and can often fix software glitches like this.
@@ -41,10 +48,10 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
  If you encounter the crashing issue again when playing Phasmophobia, move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of game files
@@ -62,10 +69,10 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Restart the game after the process is complete.
@@ -87,13 +94,6 @@ Game crashing issues might happen when your game files are corrupted.
 4) Delete everything except these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Relaunch the game to test the issue.
 
@@ -122,13 +122,6 @@ If the game still crashes, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -137,6 +130,13 @@ If the game still crashes, try the next fix below.
 4) Relaunch the game to test your issue.
 
 If the crash still occurs, go ahead with the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Lower your graphics settings
 
@@ -150,13 +150,6 @@ If the crash still occurs, go ahead with the next fix.
 
  If you still experience crashing issues, then the issue is not with your game settings. You can change the settings back and try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Launch the game with DirectX 10
 
  Another workaround for some players is manually switching the game to DirectX 10\. Here’s how to do it:
@@ -169,9 +162,23 @@ If the crash still occurs, go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-22_16-23-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Launch the game to see if your problem has been resolved.
 
 If Phasmophobia crashing issues persist, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Stop overlocking your GPU/CPU
 
@@ -192,13 +199,6 @@ If Phasmophobia crashing issues persist, try the next fix below.
  4) Relaunch the game to test your issue.
 
 If the problem still exists, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 9: Try Phasmophobia beta version
 
@@ -231,17 +231,17 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-optimal-use-of-zoom-features-on-chromebooks/"><u>[Updated] 2024 Approved Optimal Use of Zoom Features on ChromeBooks</u></a></li>
-<li><a href="https://program-issues.techidaily.com/advanced-techniques-for-roller-champions-co-op-mode-in-pc-gaming/"><u>Advanced Techniques for Roller Champions Co-Op Mode in PC Gaming</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/high-def-showdown-top-8k-tvs-rated-and-reviewed-for-2024/"><u>High-Def Showdown Top 8K TVs Rated and Reviewed for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-realme-10t-5g-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Realme 10T 5G</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-edit-videos-on-mac-download-vn-video-editor-or-explore-alternatives/"><u>In 2024, Edit Videos on Mac Download VN Video Editor or Explore Alternatives</u></a></li>
-<li><a href="https://win11.techidaily.com/navigate-the-ins-and-outs-of-win11-status-with-these-top-five-uptime-tests/"><u>Navigate the Ins and Outs of Win11 Status with These Top Five Uptime Tests</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-framerate-dilemmas-a-guide-to-fix-stutter-and-improve-avatars-frontiers-of-pandora-gameplay/"><u>Overcoming Framerate Dilemmas: A Guide To Fix Stutter & Improve Avatar's Frontiers of Pandora Gameplay</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-troubleshooting-when-internet-explorer-fails-to-load-pages/"><u>Resolved: Troubleshooting When Internet Explorer Fails to Load Pages</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-the-issue-of-frequent-overwatch-2-pc-game-crashes-a-comprehensive-guide/"><u>Solving the Issue of Frequent Overwatch 2 PC Game Crashes: A Comprehensive Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/successful-launch-of-it-takes-two-now-available/"><u>Successful Launch of 'It Takes Two' - Now Available</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-high-cpu-consumption-from-audio-device-graph-in-windows-systems/"><u>Troubleshooting High CPU Consumption From Audio Device Graph in Windows Systems</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-exclusive-list-of-top-web-based-sound-capturers-2023/"><u>[New] In 2024, Exclusive List of Top Web-Based Sound Capturers 2023</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-master-your-screen-essential-wins11-apps-and-games/"><u>[New] In 2024, Master Your Screen Essential Wins11 Apps & Games</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/op-10-companion-apps-for-seamless-video-to-mp3-conversions-for-2024/"><u>[New] Top 10 Companion Apps for Seamless Video to Mp3 Conversions for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-comparing-video-storage-in-64128gb-drives-for-2024/"><u>[Updated] Comparing Video Storage in 64/128GB Drives for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-fixes-for-common-hp-screen-issues-step-by-step-guide-to-restoring-display-functionality/"><u>Easy Fixes for Common HP Screen Issues - Step-by-Step Guide to Restoring Display Functionality</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-to-follow-tutorial-install-apples-official-iphone-drivers-on-your-windows-aturkey-11-pc/"><u>Easy-to-Follow Tutorial: Install Apple's Official iPhone Drivers on Your Windows Aturkey 11 PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-ensure-stable-performance-of-new-world-without-any-more-game-crashes-or-interruptions-on-pc/"><u>How To Ensure Stable Performance of 'New World' Without Any More Game Crashes or Interruptions on PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a14-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy A14 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-oppo-a79-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Oppo A79 5G Phone When You Forget the Password</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-access-to-microsoft-wireless-mouse-5000-drivers-download-now-for-smooth-operation/"><u>Instant Access to Microsoft Wireless Mouse 5000 Drivers: Download Now for Smooth Operation</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-launch-effective-strategies-when-age-of-empires-iv-stalls-at-startup/"><u>Mastering the Launch: Effective Strategies When Age of Empires IV Stalls at Startup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-call-of-duty-wwii-display-problems-in-windows-a-complete-fix-guide/"><u>Troubleshooting Call of Duty: WWII Display Problems in Windows - A Complete Fix Guide</u></a></li>
 </ul></div>
 

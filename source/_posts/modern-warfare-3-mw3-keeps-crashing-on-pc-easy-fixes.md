@@ -1,7 +1,7 @@
 ---
 title: Modern Warfare 3 (MW3) Keeps Crashing on PC - Easy Fixes
-date: 2024-10-26T21:18:15.443Z
-updated: 2024-10-31T18:20:10.320Z
+date: 2024-11-03T03:32:57.126Z
+updated: 2024-11-06T16:40:13.141Z
 tags:
   - win11
   - win10
@@ -34,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/110fb399f984d23daa9e38ab73955fe742594ebb4
 10. **[Run Program Compatibility Troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 11. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Update your graphics drivers
 
  Graphics card manufacturers like Nvidia, AMD and Intel constantly release new graphics drivers to fix bugs and improve the gaming performance and experience. If the graphics driver on your PC is outdated or corrupted, you may not be able to enjoy the optimal gaming experience, and sometimes you may run into the Control crash issue.
@@ -70,13 +63,6 @@ thumbnail: https://thmb.techidaily.com/110fb399f984d23daa9e38ab73955fe742594ebb4
 
  Some players reported that Control may crash when they’re using MSI Afterburner or Zotac Firestorm. So if you’ve enabled MSI Afterburner or Zotac Firestorm, try disabling them to see if this issue persists. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Use a reduced settings profile for graphics-related features
 
  If your PC fails to meet the recommended system requirements for Control, you should use a reduced settings profile for graphics-related features, because higher settings will increase the workload for your PC, which may even lead to the game crash issue. You can follow the screenshots below to lower the in-game graphics settings:
@@ -86,10 +72,10 @@ thumbnail: https://thmb.techidaily.com/110fb399f984d23daa9e38ab73955fe742594ebb4
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Here are the system requirements for Control:
@@ -101,13 +87,6 @@ Here are the system requirements for Control:
  If you’re currently running Control with DirectX 12, it’s recommended that you run Control**with DirectX 11** to avoid the game crash issues.
 
  Restart the game to see if this fix works, if not, try the next fix below to modify your graphics card settings.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Modify your graphics card settings
 
@@ -125,11 +104,32 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View the Control Panel by **Large icons** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
@@ -141,13 +141,6 @@ Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
-
-<!-- affiliate ads begin -->
-<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
-  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
@@ -164,27 +157,28 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click 3D to open the 3D settings.  
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click Scan to add the game to the application list.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
@@ -200,13 +194,6 @@ Here are the system requirements for Control:
 4. Launch Control again.
 
  See if the game will crash or not. Normally this issue should be resolved. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Perform a Windows Update
 
@@ -243,16 +230,16 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-49-47.png)
 2. Click **Verify** to start verifying the game files.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 9: Add Control as an exception to your 3rd party antivirus software
 
@@ -274,6 +261,13 @@ Here are the system requirements for Control:
 3. Double-click the shortcut of Control on your desktop to launch it. This time Control will run in the compatibility mode you set in step 2.
 
 See if this fix works for you. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 11: Reinstall the game
 
@@ -301,24 +295,24 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-recordingrealm-expedition-unveiling-snapcastpro-2023/"><u>[New] RecordingRealm Expedition Unveiling 'SnapCastPro' 2023</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-a-visual-journey-discover-filmoras-favorite-features/"><u>2024 Approved A Visual Journey Discover Filmora's Favorite Features</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-the-ultimate-guide-to-professional-color-grading-top-11/"><u>2024 Approved The Ultimate Guide to Professional Color Grading (Top 11)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/bypassing-steam-detection-issues-for-controllers-on-a-windows-machine/"><u>Bypassing Steam Detection Issues for Controllers on a Windows Machine</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723010180606-cant-play-vanguard-boosting-cpu-capabilities-might-be-the-answer/"><u>Can't Play Vanguard? Boosting CPU Capabilities Might Be the Answer!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/crossplay-conquerors-unite-roller-champions-top-tactics-for-pc-players-2024-edition/"><u>Crossplay Conquerors Unite! Roller Champions' Top Tactics for PC Players - 2024 Edition</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/e-education-video-logging-for-2024/"><u>E-Education Video Logging for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/expert-guide-stop-chrome-from-freezing-on-windows-11-with-these-easy-fixes/"><u>Expert Guide: Stop Chrome From Freezing on Windows 11 with These Easy Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-the-ls-0013-initialization-failure-in-fortnite/"><u>How to Fix the LS-0013 Initialization Failure in Fortnite</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-playstation-conflicts-solving-total-war-saga-troy-issues-on-pc/"><u>How To Resolve PlayStation Conflicts - Solving 'Total War Saga: Troy' Issues On PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-honor-magic-5-lite-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Honor Magic 5 Lite Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/inside-look-tunefabs-best-screen-recorder-for-2024/"><u>Inside Look Tunefab's Best Screen Recorder for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/m2tsmovavi/"><u>M2Tsを無料で簡単に変換！オンラインツール・Movaviの使い方</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723008140242-master-the-art-of-smooth-gaming-tips-to-prevent-disco-elysium-from-crashing/"><u>Master The Art of Smooth Gaming – Tips to Prevent Disco Elysium From Crashing!</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/o-youtube-converter-upload-mp3-to-youtube-3-steps/"><u>MP3 to YouTube Converter Upload MP3 to YouTube [3 Steps]</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/regaining-functionality-of-automatic-voice-feature-on-word/"><u>Regaining Functionality of Automatic Voice Feature on Word</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-call-of-duty-wwii-error-message-easy-fixes-for-code-4128/"><u>Resolving Call of Duty: WWII Error Message - Easy Fixes for CODE 4128</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-solution-stabilizing-palworld-performance-on-your-desktop-pc/"><u>Step-by-Step Solution: Stabilizing PalWorld Performance on Your Desktop PC</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-tecno-camon-20-premier-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Tecno Camon 20 Premier 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-pioneering-success-innovative-youtube-strategies-for-2024/"><u>[Updated] Pioneering Success Innovative YouTube Strategies for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-professionals-selection-top-5-drones-ranked-for-2024/"><u>[Updated] The Professionals' Selection Top 5 Drones Ranked for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-ultimate-guide-to-internet-based-image-trimming-for-2024/"><u>[Updated] The Ultimate Guide to Internet-Based Image Trimming for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/call-of-duty-vanguard-freezing-quick-tips-to-smooth-your-gaming-experience/"><u>Call of Duty: Vanguard Freezing - Quick Tips to Smooth Your Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/cod-modern-warfare-troubleshooting-addressing-constant-game-crashes/"><u>Cod: Modern Warfare Troubleshooting - Addressing Constant Game Crashes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/conversione-online-per-la-gratuita-da-wav-a-formato-m4b-senza-problemi-usando-movavi/"><u>Conversione Online per La Gratuità: Da WAV a Formato M4B Senza Problemi Usando Movavi</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/efficient-cprm-dvd-decryption-software-for-both-mac-and-pc-users-legal-copyright-clearance-and-backup-solutions/"><u>Efficient CPRM DVD Decryption Software for Both Mac and PC Users – Legal Copyright Clearance and Backup Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-ubisoft-connect-download-speed-slow/"><u>How to Fix Ubisoft Connect Download Speed Slow</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-examining-youtubes-mobile-app-for-iosandroid-devices/"><u>In 2024, Examining YouTube's Mobile App for iOS/Android Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-honor-90-gt-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Honor 90 GT for Streaming | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/mastering-the-art-of-subtitle-extraction-from-youtube-videos-a-threefold-approach-guide/"><u>Mastering the Art of Subtitle Extraction From YouTube Videos A Threefold Approach Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-freezes-the-solution-to-cyberpunk-nk-2077-stuttering-is-here/"><u>No More Freezes - The Solution to Cyberpunk Nk 2077 Stuttering Is Here</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-troubles-heres-how-to-fix-subnautica-below-zero-constant-crashes/"><u>PC Troubles? Here's How to Fix Subnautica: Below Zero Constant Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolve-steams-continuous-crashes-with-these-simple-remedies/"><u>Resolve Steam's Continuous Crashes with These Simple Remedies!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-the-persistent-dark-display-issue-in-fortnite-on-windows/"><u>Resolved: Fixing the Persistent Dark Display Issue in Fortnite on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-pc-lag-issues-in-outriders-ultimate-guide/"><u>Solving PC Lag Issues in Outriders: Ultimate Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-fixing-the-notorious-cyberpunk-2077-freezing-problems/"><u>Troubleshooting Guide: Fixing the Notorious Cyberpunk 2077 Freezing Problems</u></a></li>
 </ul></div>
 

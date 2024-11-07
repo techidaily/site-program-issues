@@ -1,7 +1,7 @@
 ---
 title: "Beat the Launchpad: Proven Fixes for Far Cry 5'S Stalling Start-Up"
-date: 2024-10-27T07:27:27.376Z
-updated: 2024-10-31T23:41:37.009Z
+date: 2024-11-05T01:11:57.013Z
+updated: 2024-11-06T23:51:45.664Z
 tags:
   - win11
   - win10
@@ -41,17 +41,24 @@ There’re things you can do before trying complicated fixes:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. In the Compatibility tab, click **Run as administrator** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 4. Relaunch the game.
 
-If it’s not working, move to the next fix.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+If it’s not working, move to the next fix.
 
 ### Fix 2: Install Windows updates
 
@@ -61,23 +68,17 @@ If it’s not working, move to the next fix.
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Enlisted and check.
 
  If this didn’t solve your problems, read on for further troubleshooting.
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update graphic driver
 
@@ -99,21 +100,14 @@ If it’s not working, move to the next fix.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -138,20 +132,20 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-maximize-engagement-selective-rank-tracker-utilities-revealed/"><u>[New] 2024 Approved Maximize Engagement Selective Rank Tracker Utilities Revealed</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-extracting-youtube-music-three-secure-ways-without-financial-burden/"><u>[New] In 2024, Extracting YouTube Music Three Secure Ways Without Financial Burden</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-lens-and-light-essential-camera-movements-every-novice-needs-for-2024/"><u>[Updated] Lens & Light Essential Camera Movements Every Novice Needs for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ogmmov-movavi/"><u>在线免费将OGM文件转换为MOV格式 - 使用Movavi转换器</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-oppo-find-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Oppo Find X6 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhanced-experience-fixing-the-flaws-of-death-stranding-on-pc-for-a-seamless-gameplay/"><u>Enhanced Experience: Fixing the Flaws of Death Stranding on PC for a Seamless Gameplay</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-error-2e-to-enable-windows-update/"><u>Fixing Error 2E to Enable Windows Update</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-restore-connection-making-your-iphone-show-up-in-itunes-on-windows-10-issue-solved/"><u>How to Restore Connection: Making Your iPhone Show Up in Itunes on Windows 10 (Issue Solved)</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On HTC U23 Pro? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/in-depth-strategies-to-correctly-address-and-solve-arks-critical-failures/"><u>In-Depth Strategies to Correctly Address and Solve ARK's Critical Failures</u></a></li>
-<li><a href="https://program-issues.techidaily.com/is-your-pc-fit-for-vanguard-assessing-if-your-processor-meets-the-essential-criteria/"><u>Is Your PC Fit for Vanguard? Assessing if Your Processor Meets the Essential Criteria</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-performance-guide-how-to-avoid-warno-video-game-crashes/"><u>PC Performance Guide: How to Avoid Warno Video Game Crashes</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-essential-buyers-guide-to-the-tp-link-ac1200-re305-an-expert-review-on-wireless-range-enhancement/"><u>The Essential Buyer's Guide to the TP-Link Ac1200 RE305: An Expert Review on Wireless Range Enhancement</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlock-these-6-key-fixes-for-overcoming-connection-problems-in-terraria/"><u>Unlock These 6 Key Fixes for Overcoming Connection Problems in Terraria</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-channel-growth-hacks-the-ultimate-list-of-5-youtube-strategies/"><u>[New] In 2024, Channel Growth Hacks – The Ultimate List of 5 YouTube Strategies</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-upgrade-your-whatsapp-experience-with-a-bespokel-ringtones-design/"><u>[New] In 2024, Upgrade Your WhatsApp Experience with a Bespokel Ringtones Design</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unlocking-the-full-potential-of-fast-fb-videos-with-tools-for-2024/"><u>[Updated] Unlocking the Full Potential of Fast FB Videos with Tools for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/behind-the-scenes-top-picks-of-monitors-and-tvs-for-xbox-series-x-gamers/"><u>Behind-the-Scenes Top Picks of Monitors & TVs for Xbox Series X Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/detailed-solutions-for-players-experiencing-stalled-load-screens-during-dota-2-startup/"><u>Detailed Solutions for Players Experiencing Stalled Load Screens During Dota 2 Startup</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-poco-c50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-blandlands-3-stutter-and-crashes-ultimate-troubleshooting-guide/"><u>Fixing Blandlands 3 Stutter & Crashes: Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-fix-continuous-game-crashes-in-crusader-kings-iii-for-windows-gamers/"><u>Guide to Fix Continuous Game Crashes in Crusader Kings III for Windows Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-fix-sea-of-thieves-not-launching-problem-complete-solution-walkthrough/"><u>How to Fix Sea of Thieves Not Launching Problem - Complete Solution Walkthrough</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-motorola-moto-g04-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Motorola Moto G04 Phones? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723014071385-master-the-stability-of-metro-exoduss-pc-enhanced-edition-crashes-no-more/"><u>Master the Stability of Metro Exodus's PC Enhanced Edition: Crashes No More</u></a></li>
+<li><a href="https://program-issues.techidaily.com/simple-troubleshooting-guide-resolving-deathloops-pc-crashes/"><u>Simple Troubleshooting Guide: Resolving Deathloop's PC Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/six-essential-tips-to-prevent-stray-games-from-crashing-on-windows-systems/"><u>Six Essential Tips to Prevent Stray Games From Crashing on Windows Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-8-innovative-affordable-online-srt-services-exposed-for-2024/"><u>Top 8 Innovative, Affordable Online SRT Services Exposed for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/windows-10-gaming-woes-solved-successfully-launching-steam-applications/"><u>Windows 10 Gaming Woes Solved: Successfully Launching Steam Applications</u></a></li>
 </ul></div>
 

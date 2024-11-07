@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Game Crashes on PC: Tips and Solutions to Play 'No Rest for the Wicked'"
-date: 2024-10-26T02:02:43.146Z
-updated: 2024-10-31T17:10:31.282Z
+date: 2024-11-02T16:10:35.717Z
+updated: 2024-11-06T20:39:46.283Z
 tags:
   - win11
   - win10
@@ -47,13 +47,6 @@ thumbnail: https://thmb.techidaily.com/0f51979df117bbafdf1571070799e2143d64735bc
 
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Run Discord as administrator
 
  If you didn’t run**Discord** as administrator, you may encounter the**Discord overlay** not working issue. Try running your**Discord** as**administrator** to see if this problem persists. Here is how to do it:
@@ -66,24 +59,31 @@ thumbnail: https://thmb.techidaily.com/0f51979df117bbafdf1571070799e2143d64735bc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) On your desktop, double-click the shortcut of**Discord** to open it.
 
  4) Run your game again.
 
 See if this issue reappears. If not, you have fixed this issue.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
 
  If you’re using a third-party antivirus application on your PC, you may encounter the**Discord overlay** not working issue. Your third-party antivirus application may interfere with**Discord** , so your **Discord overlay** may not run as expected. You can try   **adding your Discord to the whitelist of your third-party antivirus application** .
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Check for software interruption
 
@@ -105,13 +105,20 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run your game again to see if this issue persists. If not, you have resolved this problem!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Discord
@@ -124,13 +131,6 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
@@ -140,10 +140,10 @@ See if this issue reappears. If not, you have fixed this issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 iv. Restart your PC.
@@ -155,13 +155,6 @@ iv. Restart your PC.
  4)**Enable the in-game overlay feature** for your game. If you don’t know how to do it, refer to[](https://tools.techidaily.com/drivereasy/download/) **[Fix 1](https://tools.techidaily.com/drivereasy/download/)**  .
 
 See if this issue reappears. If not, you have fixed this issue!
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus tip: How to fix Discord connection errors?
 
@@ -185,6 +178,13 @@ See if this issue reappears. If not, you have fixed this issue!
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Normally, after configuring the VPN, the voice connection issues should be fixed.
 
  Hopefully, one of the fixes above can help you resolve this issue. Please leave your comment below if you have any questions.
@@ -207,21 +207,17 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ultivate-creativity-10-inspiration-boosting-videos-for-2024/"><u>[New] Cultivate Creativity 10 Inspiration-Boosting Videos for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-investment-in-top-tier-hdr-cameras-a-buyers-guide/"><u>[New] In 2024, Investment in Top-Tier HDR Cameras A Buyer's Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-unlimited-legal-fb-beats-access/"><u>[Updated] In 2024, Unlimited, Legal FB Beats Access</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-overview-djis-ultra-hd-vr-flight-headsets/"><u>[Updated] Overview DJI's Ultra-HD VR Flight Headsets</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-social-media-synergy-linking-instagram-with-tiktok-for-2024/"><u>[Updated] Social Media Synergy Linking Instagram with TikTok for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/clear-solution-for-your-steam-game-files-locked-mishap-learn-here/"><u>Clear Solution for Your Steam Game Files Locked Mishap: Learn Here</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cod-vanguard-continues-to-encounter-pc-issues/"><u>CoD Vanguard Continues to Encounter PC Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/create-a-custom-action-to-create-custom-actions-visit-httpsdevelopersgooglecomassistantsdkdocsweb-discovery-and-click-on-web-discovery-follow-the-instructio544/"><u>Create a Custom Action: To Create Custom Actions, Visit https://developers.google.com/assistant/sdk/docs/web-discovery and Click on Web Discovery. Follow the Instructions Provided by Web Disco to Generate an App Engine URL for Your Action.</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722978613267-download-and-install-microsoft-surface-pro-4-drivers-on-your-pc-step-by-step-guide/"><u>Download and Install Microsoft Surface Pro 4 Drivers on Your PC: Step-by-Step Guide</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolving-la-noires-unreleased-pc-version-woes-a-guide/"><u>Resolving L.A. Noire's Unreleased PC Version Woes: A Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/solved-fixing-unsupported-audiovideo-codecs-on-your-android-device/"><u>Solved: Fixing Unsupported Audio/Video Codecs on Your Android Device!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-continuous-play-in-forza-horizon-npc/"><u>Troubleshooting Tips for Continuous Play in Forza Horizon N_pC</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/ultimate-guide-from-iphone-11-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide from iPhone 11 iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-solving-alan-wake-2-game-crashes/"><u>Ultimate Guide: Solving Alan Wake 2 Game Crashes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/understanding-and-fixing-the-dilemma-why-is-msi-afterburner-not-seeing-my-gpu-in-w10w11/"><u>Understanding & Fixing the Dilemma: Why Is MSI Afterburner Not Seeing My GPU in W10/W11?</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/why-cant-i-install-the-ipogo-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Why cant I install the ipogo On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transforming-speeches-learn-no-cost-audio-effect-techniques-here/"><u>[New] Transforming Speeches Learn No-Cost Audio Effect Techniques Here</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-avoiding-files-enjoying-animated-gifs-youtube-video-mastery/"><u>[Updated] 2024 Approved Avoiding Files, Enjoying Animated GIFs YouTube Video Mastery</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-cut-the-hassle-with-macos-easy-to-follow-video-size-adjustment-for-instagram/"><u>[Updated] In 2024, Cut the Hassle with MacOS Easy-to-Follow Video Size Adjustment for Instagram</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210846500-9781959579922-33-mystic-notes/"><u>33 Mystic Notes | Free Book</u></a></li>
+<li><a href="https://program-issues.techidaily.com/black-ops-cold-war-fixed-resolving-ui-error-code-27711/"><u>Black Ops Cold War Fixed: Resolving UI Error Code 27711</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-to-overcome-battlefield-n-2042s-directx-error-messages/"><u>Effective Fixes to Overcome Battlefield N 2042'S DirectX Error Messages</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-warzone-crash-with-guide-to-fixing-dev-error-5573-pc-and-console-edition/"><u>Eliminate Warzone Crash with Guide to Fixing Dev Error 5573 - PC & Console Edition</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/expert-video-grabbing-extras-fb-and-firefox-edition/"><u>Expert Video Grabbing Extras FB & Firefox Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-evaluation-of-the-seasonic-prime-tx-1600-power-unit-performance/"><u>In-Depth Evaluation of the Seasonic Prime TX-1600 Power Unit Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-game-crashes-master-troubleshooting-assassins-creed-odyssey-for-smooth-pc-gaming-experience/"><u>No More Game Crashes: Master Troubleshooting Assassin's Creed Odyssey for Smooth PC Gaming Experience</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-hp-monitor-issues-when-it-stops-functioning/"><u>Resolved: Fixing HP Monitor Issues When It Stops Functioning</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-top-mp4-convertors-from-avi-on-windows-11-platforms/"><u>Ultimate Guide: Top MP4 Convertors From AVI on Windows 11 Platforms</u></a></li>
 </ul></div>
 

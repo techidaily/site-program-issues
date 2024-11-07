@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Google Chrome Continuously Crashing: Simple Solutions"
-date: 2024-10-28T18:56:41.652Z
-updated: 2024-11-01T00:56:57.487Z
+date: 2024-11-01T18:34:23.074Z
+updated: 2024-11-07T01:53:43.638Z
 tags:
   - win11
   - win10
@@ -44,7 +44,21 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap24-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  So,**close those unnecessary tabs** to see if the Chrome slow issue persists. If this issue reappears, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable the Chrome apps and extensions you don’t need
 
@@ -53,6 +67,13 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
 1. On your Google Chrome, click**the** **menu button** in the upper-right corner. Select **More tools > Extensions** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap25-4.jpg)
 2. **Turn off** **the toggle** on the lower-right corner of the Chrome apps and extensions you don’t need any more to disable them.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap26-1.jpg)
 
@@ -65,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
 1. On your Google Chrome, click**the** **menu button** in the upper-right corner. Select **Settings**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap27-1.jpg)
 2. In the search bar, type**prediction** and then**turn on the toggle** next to**Use a prediction service to load pages more quickly** .  
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap28-1.jpg)
 3. Reopen your Chrome.
@@ -81,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
 2. Set the time range to**cover from when you started to use your browser till now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap29.jpg)
 3. Navigate to the**Advanced** tab and select **all the items**  to clear.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap30-1.jpg)
 4. Reopen your Chrome.
@@ -106,10 +127,10 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
 3. Reopen your Chrome.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  See if the Chrome slow issue is resolved. If not, try resetting your browser settings.
@@ -124,13 +145,6 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap27-1.jpg)
 2. In the search bar, type **reset**  and then click**Clean up computer** .  
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap34-3.jpg)
 3. Click**Find** to check for harmful software.  
 
@@ -138,16 +152,16 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
 4. Click**Remove** if you’re asked to remove unwanted software.
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### To reset your browser settings
@@ -165,10 +179,10 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
  See if this annoying issue persists. If so, try updating your Chrome to the latest version.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7: Update your Chrome to the latest version
@@ -179,17 +193,17 @@ thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c258
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap38.jpg)
 2. Wait until your Chrome updates itself to the latest version.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap39.jpg)
 3. Reopen your Chrome.
 
  See if this issue reappears. If not, you’ve fixed this annoying issue.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus Tip: Update your network driver
 
@@ -210,21 +224,7 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
 ![Driver Easy Scan screen](https://images.drivereasy.com/wp-content/uploads/2018/09/Driver-Easy-Scan-screen.jpg)
 3. Click **Update**  next to your network device to automatically download the correct version of this driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All**  ).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![update network driver](https://images.drivereasy.com/wp-content/uploads/2018/09/update-network-driver.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -247,21 +247,19 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-pro-free-ending-makers-ranked-1-6/"><u>[New] Pro-FREE Ending Makers - Ranked 1-6</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-complete-ios-manual-for-instagram-savings/"><u>[New] The Complete iOS Manual for Instagram Savings</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-essential-tools-for-effective-adobe-presentation-recordings/"><u>[Updated] 2024 Approved Essential Tools for Effective Adobe Presentation Recordings</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-audiofreexer-extraction-for-2-point-zero-two-four/"><u>2024 Approved The Ultimate Guide to AudioFreexer Extraction for 2 Point Zero Two Four</u></a></li>
-<li><a href="https://program-issues.techidaily.com/enhance-your-racing-thrills-with-these-fixes-for-forza-horizon-5s-lag-concerns/"><u>Enhance Your Racing Thrills with These Fixes for Forza Horizon 5'S Lag Concerns</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-the-microsoft-edge-keeps-closing-issue-in-windows-10/"><u>Fixing the 'Microsoft Edge Keeps Closing' Issue in Windows 10</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-get-age-of-empires-ii-running-smoothly-after-upgrading-to-windows-11/"><u>How to Get Age of Empires II Running Smoothly After Upgrading to Windows 11</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-overcome-crashes-in-disco-elysium-on-your-windows-computer-solutions-worked/"><u>How to Overcome Crashes in Disco Elysium on Your Windows Computer - Solutions Worked!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-gps-location-on-honor-v-purse-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Honor V Purse Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-face-swap-frenzy-the-top-rated-apps-for-iphone-and-android-this-year-for-2024/"><u>New Face Swap Frenzy The Top-Rated Apps for iPhone and Android This Year for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/persona-3-fe-fixes-resolving-pc-game-crash-issues/"><u>Persona 3 FE Fixes: Resolving PC Game Crash Issues</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolve-bluestacks-issues-with-these-simple-fixes-in-just-five-minutes/"><u>Resolve BlueStacks Issues with These Simple Fixes - In Just Five Minutes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/testing-the-strength-of-apples-m1-in-professional-video-editing/"><u>Testing the Strength of Apple's M1 in Professional Video Editing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fix-for-winhttpdll-not-located-problems-on-your-pc/"><u>The Ultimate Fix for 'Winhttp.dll Not Located' Problems on Your PC</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-guide-to-solving-valorant-lag-and-maximizing-frames-per-second-fps/"><u>Ultimate Guide to Solving Valorant Lag and Maximizing Frames Per Second (FPS)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-complete-guide-to-setting-up-streamlabs-obs/"><u>[New] The Complete Guide to Setting Up Streamlabs OBS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-alternative-solutions-to-game-bar-recording/"><u>2024 Approved Alternative Solutions to Game Bar Recording</u></a></li>
+<li><a href="https://program-issues.techidaily.com/battle-the-launch-errors-in-world-of-warcraft-pc-troubleshooting-guide/"><u>Battle the Launch Errors in World of Warcraft – PC Troubleshooting Guide</u></a></li>
+<li><a href="https://program-issues.techidaily.com/easy-troubleshooting-guide-to-stop-steam-from-frequently-crashing/"><u>Easy Troubleshooting Guide to Stop Steam From Frequently Crashing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-fixes-for-overcoming-borderlands-curunning-into-launch-errors-top-11-techniques/"><u>Effective Fixes for Overcoming ‘Borderlands cuRunning Into Launch Errors’ – Top 11 Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-novice-to-expert-a-beginners-guide-to-pc-video-production/"><u>From Novice to Expert: A Beginner's Guide to PC Video Production</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723007347267-how-to-resolve-audio-issues-in-dying-light-expert-solutions-uncovered/"><u>How to Resolve Audio Issues in Dying Light – Expert Solutions Uncovered</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-maximize-your-gameplay-in-depth-tips-and-tricks-for-freefirers/"><u>In 2024, Maximize Your Gameplay In-Depth Tips & Tricks for FreeFirers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/insider-info-on-amazfit-helio-ring-when-its-coming-out-and-how-much/"><u>Insider Info on Amazfit Helio Ring – When It's Coming Out and How Much?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-intonations-choosing-the-right-notes-for-your-snap-for-2024/"><u>Instagram Intonations Choosing the Right Notes for Your Snap for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/solution-implemented-for-windows-media-player-errors-experienced-in-playback-mode/"><u>Solution Implemented For Windows Media Player Errors Experienced In Playback Mode</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-for-the-recurring-problem-of-pacific-drive-freezing-in-windows/"><u>Solutions for the Recurring Problem of Pacific Drive Freezing in Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-fortnite-launch-problems-simple-solutions-here/"><u>Troubleshoot Fortnite Launch Problems: Simple Solutions Here</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-doom-eternal-no-launch-availability-solutions-inside/"><u>Troubleshooting DOOM Eternal: No Launch Availability, Solutions Inside</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolving Graphics Glitches & Freezes: Ultimate Minecraft PC Fixes for Gamer Sweetheart"
-date: 2024-10-28T20:43:20.000Z
-updated: 2024-11-01T07:53:11.299Z
+date: 2024-10-31T23:05:18.470Z
+updated: 2024-11-06T17:31:11.537Z
 tags:
   - win11
   - win10
@@ -38,25 +38,18 @@ Recently many players reported Star Wars Squadrons crashing on PC when they were
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-2-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Check if the game runs normally now. If not, move on to the second fix.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Verify the integrity of your game files
 
@@ -67,13 +60,6 @@ Check if the game runs normally now. If not, move on to the second fix.
 **1)** Launch the Steam client, and navigate to the**Library** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Right-click**Star Wars Squadrons** from the game list and click**Properties** .
 
@@ -94,13 +80,6 @@ Check if the game runs normally now. If not, move on to the second fix.
 **2)** Select**Star Wars Squadrons** from the list. Then, click the**settings icon** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Relaunch the game after repair finishes. If crashing remains, try the next fix below.
 
@@ -141,6 +120,13 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Right-click**Star Wars Squadrons** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-2.jpg)
@@ -148,13 +134,6 @@ There are mainly two ways you can do the driver update:
 **3)** Untick**Enable the Steam Overlay while in-game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### On Origin
 
@@ -168,16 +147,16 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Untick**Enable Origin In Game for STAR WARS: Squadrons** and click**Save** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### On GeForce Experience
 
@@ -187,11 +166,32 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/7-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Toggle off**In-Game Overlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0-00.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Restart the game to see whether crashing is fixed or not. If not, head towards the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Adjust the graphics settings
 
@@ -208,10 +208,10 @@ There are mainly two ways you can do the driver update:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **4)** Set Fullscreen Mode to**Windowed** or**Borderless** .
@@ -222,14 +222,14 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  According to your needs, you can also set other options under Advanced Settings to**Low** or**Medium** . After the changes are applied, run the game to check if crashes go away. If not, take a look at the last fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6 – Reinstall the game
 
@@ -256,18 +256,22 @@ There are mainly two ways you can do the driver update:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-capture-photos-effortlessly-share-your-guide-revealed/"><u>[New] Capture Photos, Effortlessly Share Your Guide Revealed</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ptimizing-youtube-content-with-social-blade-a-stats-journey/"><u>[New] Optimizing YouTube Content With Social Blade - A Stats Journey</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-essential-iphone-photo-tricks-to-transform-your-landscapes/"><u>[Updated] 2024 Approved Essential iPhone Photo Tricks to Transform Your Landscapes</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-guide-to-enhancing-video-controls-and-performance/"><u>[Updated] Expert Guide to Enhancing Video Controls and Performance</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/comprehensive-guide-google-play-books-vs-amazon-kindle-which-is-superior/"><u>Comprehensive Guide: Google Play Books Vs. Amazon Kindle - Which Is Superior?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-solution-for-windows-users-with-broken-amd-radeon-applications/"><u>Comprehensive Solution for Windows Users with Broken AMD Radeon Applications</u></a></li>
-<li><a href="https://program-issues.techidaily.com/football-manager-2021-wont-start-fixes-for-persistent-loading-screens/"><u>Football Manager 2021 Won't Start: Fixes for Persistent Loading Screens</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/free-online-swf-to-avi-file-transformer-ultimate-guide-with-movavi-convert/"><u>Free Online Swf to Avi File Transformer - Ultimate Guide with Movavi Convert</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-repair-a-broken-taskbar-on-your-windows-11-computer/"><u>How to Repair a Broken Taskbar on Your Windows 11 Computer</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Oppo Find N3 Flip? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-itel-s23plus-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Itel S23+ FRP Bypass</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-fixing-issues-when-your-microsoft-outlook-wont-open/"><u>Step-by-Step Guide: Fixing Issues When Your Microsoft Outlook Won't Open</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-troubleshooting-your-lenovo-usb-connectivity-woes/"><u>Step-by-Step Guide: Troubleshooting Your Lenovo USB Connectivity Woes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-fixing-obss-full-screen-freeze-up/"><u>[New] In 2024, Fixing OBS's Full-Screen Freeze Up</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-assassins-creed-valhalla-stuttering-on-pc/"><u>[SOLVED] Assassin’s Creed Valhalla Stuttering on PC</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-resisting-insta-imposters-protect-your-profiles-prestige/"><u>[Updated] Resisting Insta Imposters Protect Your Profile's Prestige</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/clear-screens-ahead-no-more-black-windows/"><u>Clear Screens Ahead: No More Black Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/complete-step-by-step-solution-resolving-fifa-21-pc-game-crashes/"><u>Complete Step-by-Step Solution: Resolving FIFA 21 PC Game Crashes</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620193851-discover-the-most-honest-and-effective-news-applications-on-ios-and-android-a-comprehensive-ranking-of-your-best-options/"><u>Discover the Most Honest & Effective News Applications on iOS & Android - A Comprehensive Ranking of Your Best Options</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-to-address-rainbow-six-siege-network-problems/"><u>Effective Solutions to Address Rainbow Six Siege Network Problems</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effortless-gaming-resolve-resident-evil-villages-pc-lag-issues-here/"><u>Effortless Gaming: Resolve Resident Evil Village's PC Lag Issues Here</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-issues-why-your-nvidia-graphics-overlay-might-be-malfunctioning/"><u>Fixing Issues: Why Your Nvidia Graphics Overlay Might Be Malfunctioning</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-far-cry-5-endlessly-looping-on-launch/"><u>Fixing: Far Cry 5 Endlessly Looping on Launch</u></a></li>
+<li><a href="https://program-issues.techidaily.com/get-rid-of-freezing-frustrations-expert-advice-to-keep-chrome-running-smoothly-in-windows-11/"><u>Get Rid of Freezing Frustrations: Expert Advice to Keep Chrome Running Smoothly in Windows 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-mix-fold-3-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Xiaomi Mix Fold 3 Phone with Broken Screen</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-speed-on-thin-ice-top-performances-from-the-olympics/"><u>In 2024, Speed on Thin Ice Top Performances From the Olympics</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/itech-data-rescue-toolkit-retrieval-made-easy-and-reliable/"><u>ITech Data Rescue Toolkit: Retrieval Made Easy & Reliable</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/laptops-graphics-capabilities-fully-engaged/"><u>Laptop's Graphics Capabilities Fully Engaged</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-free-avi-video-concatenators-top-10-tools-for-smooth-joining/"><u>New 2024 Approved Free AVI Video Concatenators Top 10 Tools for Smooth Joining</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-common-starcraft-amoled-on-computer-errors-and-solutions/"><u>Troubleshooting Common Starcraft Amoled on Computer Errors and Solutions</u></a></li>
 </ul></div>
 

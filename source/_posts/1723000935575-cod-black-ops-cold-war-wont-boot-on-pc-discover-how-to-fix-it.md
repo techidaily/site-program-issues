@@ -1,7 +1,7 @@
 ---
 title: "Cod: Black Ops Cold War Won't Boot on PC? Discover How to Fix It"
-date: 2024-08-23T17:35:18.381Z
-updated: 2024-08-24T17:35:18.381Z
+date: 2024-10-31T20:57:35.058Z
+updated: 2024-11-06T16:57:39.416Z
 tags:
   - win11
   - win10
@@ -41,15 +41,26 @@ thumbnail: https://thmb.techidaily.com/9b9110ec4a61375e331a8801ee2c3323c1b29e5d6
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the left panel, click**Game Overlay** . Make sure you turn on the toggle next to **Enable in-game overlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-enable-in-game-overlay-1-1200x714.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Run Discord as administrator
 
  If you didn’t run**Discord** as administrator, you may encounter the**Discord overlay** not working issue. Try running your**Discord** as**administrator** to see if this problem persists. Here is how to do it:
@@ -63,9 +74,12 @@ thumbnail: https://thmb.techidaily.com/9b9110ec4a61375e331a8801ee2c3323c1b29e5d6
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) On your desktop, double-click the shortcut of**Discord** to open it.
 
  4) Run your game again.
@@ -78,18 +92,12 @@ See if this issue reappears. If not, you have fixed this issue.
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Check for software interruption
 
  Maybe the**Discord overlay** not working issue is also triggered by the interruption from other applications running on your PC. Try**temporarily disabling them** to see if your**Discord overlay** works or not. If you’re running**the programs that have the overlay features** , or you’re running**the programs that can access your microphone** , they may interfere with your**Discord overlay** .
 
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### Fix 5: Disable hardware acceleration in Discord
 
  Hardware acceleration is a feature in**Discord** that uses your GPU to make**Discord** smoother. However, many users have reported that sometimes, this feature may cause the**Discord overlay** to not work.
@@ -100,21 +108,25 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Run your game again to see if this issue persists. If not, you have resolved this problem!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Reinstall Discord
 
  If you’ve tried all the fixes above but this issue persists, try**reinstalling Discord** . Here is how to do it:
@@ -124,6 +136,13 @@ See if this issue reappears. If not, you have fixed this issue.
  i. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Type **control** and press **Enter** to open the Control Panel.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
 
@@ -142,6 +161,13 @@ iv. Restart your PC.
  4)**Enable the in-game overlay feature** for your game. If you don’t know how to do it, refer to[](https://tools.techidaily.com/drivereasy/download/) **[Fix 1](https://tools.techidaily.com/drivereasy/download/)**  .
 
 See if this issue reappears. If not, you have fixed this issue!
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Bonus tip: How to fix Discord connection errors?
 
@@ -178,8 +204,6 @@ See if this issue reappears. If not, you have fixed this issue!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +211,24 @@ See if this issue reappears. If not, you have fixed this issue!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-spectral-time-freeze-instruction/"><u>[New] In 2024, Spectral Time-Freeze Instruction</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-msi-afterburner-not-detecting-gpu-on-windows-1111/"><u>[SOLVED] MSI Afterburner Not Detecting GPU on Windows 11/11</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-understanding-and-adhering-to-soundtracks-legal-requirements-on-instagram/"><u>[Updated] Understanding and Adhering to Soundtracks' Legal Requirements on Instagram</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-crafting-superior-srt-documents/"><u>2024 Approved The Art of Crafting Superior SRT Documents</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/best-free-movie-streaming-services-a-list-of-12-apps/"><u>Best Free Movie Streaming Services: A List of 12 Apps</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-guide-overcoming-last-epoch-launch-problems-for-windows-users-2024/"><u>Fix Guide: Overcoming Last Epoch Launch Problems for Windows Users /2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/getting-started-with-auto-gpt-deployment/"><u>Getting Started with Auto-GPT Deployment</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-address-and-repair-crashes-in-the-frontier-game-on-pc/"><u>How to Address and Repair Crashes in the Frontier Game on PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://win-blog.techidaily.com/internet-explorer-display-troubles-resolved-techniques-and-tips/"><u>Internet Explorer Display Troubles - Resolved Techniques and Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-download-and-peer-connectivity-problems-with-utorrent/"><u>Overcoming Download and Peer Connectivity Problems with uTorrent</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-fix-speeding-up-your-slow-windows-10-updates/"><u>Quick Fix: Speeding Up Your Slow Windows 10 Updates!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-oppo-reno-8t-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Oppo Reno 8T has been deleted.</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-and-improving-graphics-in-forza-horizon-5-with-driver-updates/"><u>Troubleshooting and Improving Graphics in Forza Horizon 5 with Driver Updates</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-step-by-step-tutorial-resolving-teardown-crashes-effectively/"><u>Ultimate Step-by-Step Tutorial: Resolving Teardown Crashes Effectively</u></a></li>
+<li><a href="https://program-issues.techidaily.com/wolcen-lords-of-mayhem-game-crashing-issues-on-pc-resolved/"><u>Wolcen - Lords of Mayhem Game Crashing Issues on PC Resolved</u></a></li>
+<li><a href="https://program-issues.techidaily.com/wwe-2k22-stability-issues-solved-ensure-uninterrupted-gameplay-on-your-pc/"><u>WWE 2K22 Stability Issues Solved: Ensure Uninterrupted Gameplay on Your PC</u></a></li>
+</ul></div>
 

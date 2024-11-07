@@ -1,7 +1,7 @@
 ---
 title: God of War - Overcoming Insufficient Memory Challenges for Uninterrupted Gameplay
-date: 2024-10-29T20:57:22.220Z
-updated: 2024-10-31T18:03:50.012Z
+date: 2024-11-05T19:20:14.332Z
+updated: 2024-11-06T16:02:53.624Z
 tags:
   - win11
   - win10
@@ -28,19 +28,6 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 5. [Stop overclocking](https://tools.techidaily.com/drivereasy/download/)
 6. [Repair Epics Games launcher](https://tools.techidaily.com/drivereasy/download/)
 7. [Add the game folder to the exceptions list of your 3rd party antivirus software](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 1: Verify the game files
 
@@ -77,6 +64,13 @@ There’re mainly two ways you can update your graphics drivers:
 
 Or
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 2: Automatically (Recommended)
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -95,10 +89,10 @@ Or
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
@@ -129,13 +123,6 @@ Or
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your computer and launch the game.
 
  See if A Total War Saga: Troy crashes again. If this fix didn’t work for you, try the next fix, below.
@@ -150,6 +137,13 @@ Or
 
  If this issue persists after you stopped overclocking, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 6: Repair Epics Games launcher
 
  A Total War Saga: Troy may crash if there is something wrong with Epic Games launcher. To fix the game crashing issue due to Epics Games launcher, just try this fix.
@@ -160,22 +154,28 @@ Or
 ![Open Programs and Features window in Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/03/Open-Programs-and-Features-window-in-Control-Panel.jpg)
 2. **Right-click** on**Epics Games launcher** and select**Repair** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![how to repair Epics Games launcher](https://images.drivereasy.com/wp-content/uploads/2021/03/how-to-repair-Epics-Games-launcher.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After Windows repaired Epics Games launcher, launch A Total War Saga: Troy to see if it will crash. If it still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 7: Add A Total War Saga: Troy to the exceptions list of your 3rd party antivirus software
@@ -211,24 +211,18 @@ Or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-beginners-guide-to-video-production-free-course-series/"><u>[New] Beginner's Guide to Video Production Free Course Series</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-how-to-create-impactful-video-elements-cardsannotations/"><u>[New] In 2024, How to Create Impactful Video Elements Cards/Annotations</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-igniting-success-the-youtubers-playbook-for-2024/"><u>[Updated] Igniting Success The YouTuber's Playbook for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-audio-ambition-realized-cutting-edge-recording-methods-for-minecraft-players/"><u>[Updated] In 2024, Audio Ambition Realized Cutting-Edge Recording Methods for Minecraft Players</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-infographic-spectacle-of-youtubes-2017-data-for-2024/"><u>[Updated] The Infographic Spectacle of YouTube's 2017 Data for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722993187803-enjoy-a-smooth-gameplay-in-remnant-from-the-ashes-no-more-crashes/"><u>Enjoy a Smooth Gameplay in 'Remnant: From the Ashes - No More Crashes!</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-google-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Google</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Realme C67 4G? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-honor-magic-6-pro-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Honor Magic 6 Pro Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-stop-dreamlight-valley-from-crashing-on-your-computer-a-step-by-step-fix/"><u>How to Stop Dreamlight Valley From Crashing on Your Computer - A Step-by-Step Fix</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-free-masterpieces-in-premiere-pro-templates-2023/"><u>In 2024, Free Masterpieces in Premiere Pro Templates, 2023</u></a></li>
-<li><a href="https://program-issues.techidaily.com/instant-repairs-overcoming-frequent-outriders-game-interruptions/"><u>Instant Repairs: Overcoming Frequent Outriders Game Interruptions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-challenges-with-non-appearing-graphics-elements-in-warzone-gaming/"><u>Overcoming Challenges with Non-Appearing Graphics Elements in Warzone Gaming</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolve-your-football-manager-202n-crash-issues-effective-fixes/"><u>Resolve Your Football Manager 202N Crash Issues: Effective Fixes</u></a></li>
-<li><a href="https://program-issues.techidaily.com/rust-software-deadlock-fixes-and-guidance/"><u>Rust Software Deadlock? Fixes & Guidance</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-fix-when-extraordinary-characters-cause-computer-malfunctions/"><u>Step-by-Step Fix: When Extraordinary Characters Cause Computer Malfunctions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/step-by-step-guide-resolve-dmc5-crashing-problems-swiftly/"><u>Step-by-Step Guide: Resolve DMC5 Crashing Problems Swiftly</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-your-oppo-reno-10-pro-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Oppo Reno 10 Pro 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://program-issues.techidaily.com/untangling-the-issue-why-does-wwe-2k22-keep-freezing-and-crashing-on-my-computer/"><u>Untangling the Issue: Why Does WWE 2K22 Keep Freezing & Crashing on My Computer?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-screen-snip-pro-the-essential-guide-to-win-os/"><u>[New] In 2024, Screen Snip Pro The Essential Guide to Win OS</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-upgrade-iphone-photographyfilm-expertise-with-essential-gear-for-2024/"><u>[New] Upgrade iPhone Photography/Film Expertise With Essential Gear for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004918932-solved-microsoft-flight-simulator-2020-stuck-on-checking-for-updates/"><u>[SOLVED] Microsoft Flight Simulator 2020 Stuck on Checking For Updates</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-the-heart-of-filmora-10-engaging-editing-capabilities-for-2024/"><u>[Updated] The Heart of Filmora 10 Engaging Editing Capabilities for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-from-transaction-to-treasure-unlocking-your-facebook-video-archive/"><u>2024 Approved From Transaction to Treasure Unlocking Your Facebook Video Archive</u></a></li>
+<li><a href="https://program-issues.techidaily.com/conquer-the-unending-wait-strategies-for-fixing-apex-legends-startup-delays/"><u>Conquer the Unending Wait: Strategies for Fixing Apex Legends Startup Delays</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-latest-geforce-rtx-2070-gpu-drivers-for-windows-11-8-and-7-devices/"><u>Download Latest GeForce RTX 2070 GPU Drivers for Windows 11, 8, and 7 Devices</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/essential-characteristics-of-effective-drivers/"><u>Essential Characteristics of Effective Drivers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/origin-game-platform-wont-start-on-windows-11-solution-found/"><u>Origin Game Platform Won't Start on Windows 11 – Solution Found!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-slow-ubisoft-downloads-with-these-effective-speed-enhancement-techniques/"><u>Overcome Slow Ubisoft Downloads with These Effective Speed Enhancement Techniques</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-steam-issues-with-hitman-trilogys-final-installment-now-running-smoothly/"><u>Resolved: Steam Issues with Hitman Trilogy's Final Installment - Now Running Smoothly!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-art-of-transferring-tunes-between-platforms-for-2024/"><u>The Art of Transferring Tunes Between Platforms for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-game-changing-reasons-mastery-of-chatgpt-in-your-career/"><u>The Game-Changing Reasons: Mastery of ChatGPT in Your Career</u></a></li>
 </ul></div>
 
